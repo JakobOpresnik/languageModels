@@ -1,0 +1,1133 @@
+UNIVERZA V LJUBLJANI FAKULTETA ZA DRUŽBENE VEDE DAŠA BURGER
+MENTORICA: Docentka dr. ALOJZIJA ŽIDAN
+KAKOVOSTNE PRVINE IZOBRAŽEVALNO VZGOJNEGA SISTEMA KANADE
+Diplomsko delo Ljubljana, 2006
+
+KAZALO
+1. UVOD 5
+2. KAKOVOST IN POMEN KAKOVOSTI NA RAVNI IZOBRAŽEVALNO VZGOJNEGA SISTEMA 8
+2.1 POMEN IN DEFINICIJA KAKOVOSTI 8 2.2 UGOTAVLJANJE IN ZAGOTAVLJANJE KAKOVOSTI 10 3. PRIKAZ IZOBRAŽEVALNO VZGOJNEGA SISTEMA KANADE 12 3.1 OSNOVNI PODATKI 12
+3.2 RAZDELITEV PRISTOJNOSTI V IZOBRAŽEVALNO VZGOJNEM SISTEMU KANADE 12
+3.3 FINANCIRANJE IZOBRAŽEVANJA 14 3.4 ORGANIZACIJA IZOBRAŽEVANJA 16
+3.4.1 Šolsko leto 16 3.4.2 Šolski dan 17 3.4.3 Šolske obveznosti 17
+3.5 ZGRADBA VZGOJE IN IZOBRAŽEVANJA V KANADI 17
+3.5.1 Predšolska vzgoja 19
+3.5.2 Primarna raven izobraževanja 21 3.5.3 Sekundarna raven izobraževanja 22 3.5.4 Terciarna raven izobraževanja 24
+3.6 RAZČLENITEV IN OPIS RAZLIČNIH TERCIARNIH STOPENJ IZOBRAŽEVANJA 27
+3.6.1 Univerze 27
+3.6.2 Univerzitetni kolidži 28 3.6.3 Komunalni kolidži 29 3.6.4 Poklicni kolidži 30
+3.7 VKLJUČENOST ŠTUDENTOV V TERCIARNO RAVEN IZOBRAŽEVANJA 30 4. OPREDELITEV KAKOVOSTNIH PRVIN IZOBRAŽEVALNO VZGOJNEGA SISTEMA KANADE 32
+4.1 OBSTOJ ZASEBNEGA IN JAVNEGA ŠOLSTVA 32
+4.1.1 Zasebno šolstvo 32
+4.1.2 Javno šolstvo 33
+4.1.3 Šolanje na domu 33
+
+4.2 POMEMBNOST UČITELJSKEGA POKLICA 33 4.3 MAJHNO ŠTEVILO UČENCEV V RAZREDIH 34
+4.4 NARAŠČAJOČA VLOGA INFORMACIJSKO KOMUNIKACIJSKE TEHNOLOGIJE V ŠOLAH 35 4.5 SPODBUJANJE VSEŽIVLJENJSKEGA UČENJA 36 4.6 SPODBUJANJE RAZISKAV IN RAZVOJA 37
+5. URESNIČEVANJE ZAGOTAVLJANJA KAKOVOSTI V EVROPSKEM VISOKOŠOLSKEM SISTEMU 39
+5.1 BOLONJSKI PROCES KOT POSPEŠEVALEC ZAGOTAVLJANJA KAKOVOSTI V EVROPSKEM VISOKOŠOLSKEM SISTEMU 39
+5.2 SLOVENIJA IN BOLONJSKI PROCES 42
+5.2.1 Kratek pregled uresničevanja ciljev bolonjskega procesa v Sloveniji 46 5.2.2 Zagotavljanje in izboljševanje kakovosti na terciarni ravni izobraževanja v
+Sloveniji 47
+5.3 ZAKLJUČEK ZA EVROPSKI VISOKOŠOLSKI PROSTOR IN SLOVENIJO 51 6. EMPIRIČNI DEL 53
+6.1 PRIMERJAVA KAKOVOSTNIH PRVIN IZOBRAŽEVALNO VZGOJNEGA SISTEMA KANADE Z IZBRANIMI EVROPSKIMI IZOBRAŽEVALNO VZGOJNIMI SISTEMI 53
+6.1.1 Primerjave 53 6.1.2 Povzetek primerjav 66
+6.2 SPLETNI INTERVJU: VSEŽIVLJENJSKO UČENJE V KANADI 77 6.3 RAZISKAVE PEDAGOŠKEGA INŠTITUTA O UPORABI INFORMACIJSKIH IN KOMUNIKACIJSKIH TEHNOLOGIJ V IZOBRAŽEVANJU V KANADI 82 7. ZAKLJUČEK 84
+8. UPORABLJENA LITERATURA 88 9. PRILOGE 91
+
+KAZALO TABEL, GRAFOV IN SHEM
+TABELA 3.1: _________________________________________________________ 15
+- Združeni javni in zasebni izdatki za posamezne ravni izobraževanja, Kanada, 1997- 1998 do 2001-2002 (v milijardah dolarjih)
+GRAF 3.2: ___________________________________________________________ 16
+- Celotni izdatki na učenca na primarni in sekundarni ravni izobraževanja, Kanada, province in teritoriji, 2002-2003 (v kanadskih dolarjih)
+SHEMA 3.3: __________________________________________________________ 18
+- Shema izobraževalno vzgojnega sistema Kanade
+SHEMA 3.4: _________________________________________________________ 19
+- Organizacija in struktura primarnih in sekundarnih šolskih sistemov po provincah in teritorijih
+GRAF 3.5: ___________________________________________________________ 20
+- Število otrok, starih 4 in 5 let, v predšolski vzgoji v Kanadi po provincah in teritorijih, 1999-2000
+TABELA 3.6: _________________________________________________________ 24
+- Razmerje uspešno zaključene srednje šole po spolu, Kanada, province in teritoriji, 1994-1995 in 1999-2000
+GRAF 3.7: ___________________________________________________________ 27
+- Odstotek pridobljenih kvalifikacij, Kanada, 1976 do 1998
+TABELA 3.6: _________________________________________________________ 31
+- Vključenost študentov v terciarno raven izobraževanja, 1997/98 do 2003/04, Kanada
+GRAF 4.1: ___________________________________________________________ 34
+- Razmerje učitelj-učenec, po provincah in teritorijih, 2002-2003
+GRAF 4.2: ___________________________________________________________ 35
+- Povprečno število učencev na šolski računalnik, Kanada in ostale države, 2000
+GRAF 4.3: ____________________________________________________________36
+- Povprečno število učencev na šolski računalnik, province, teritoriji v Kanadi, 2000
+GRAF 4.4: ___________________________________________________________ 37
+- Celotni izdatki za R&R kot delež BDP, Kanada, province in teritoriji, 2000
+TABELA 4.5: _________________________________________________________ 38
+- Delež izdatkov za R&R po sektorjih, Kanada, province in teritoriji, 2000
+TABELA 6.1: _________________________________________________________ 53
+
+- Delež vpisanih študentov v terciarno raven izobraževanja, izbrane države, 2000-2002
+TABELA 6.2: _________________________________________________________ 55
+- Celotni (javni n zasebni) izdatki za izobraževalne institucije na vseh ravneh izobraževanja skupaj, % v BDP, izbrane države, 2002
+TABELA 6.3: _________________________________________________________ 56
+- Delovna sila z doseženo ravnjo izobrazbe, po ravneh izobrazbe, izbrane države, 2001
+TABELA 6.4: _________________________________________________________ 58
+- Delež brezposelnih oseb z doseženo ravnjo izobrazbe glede na celotno brezposelnost, po ravneh dosežene izobrazbe, izbrane države, 2001
+TABELA 6.5: _________________________________________________________ 59
+- Razmerje učitelj-učenec, po ravneh izobraževanja, izbrane države, 2003
+TABELA 6.6: _________________________________________________________ 61
+- Delež tujih študentov na terciarni ravni izobraževanja, izbrane države, 2003
+TABELA 6.7: _________________________________________________________ 62
+- Pričakovana leta šolanja, po spolu, izbrane države, 2002/2003
+TABELA 6.8: _________________________________________________________ 63
+- Delež sredstev namenjenih za R&R, izbrane države, 2002
+TABELA 6.9: _________________________________________________________ 64
+- Vključenost delovne sile v izobraževalne programe, po starostnih razredih, izbrane države, 2003
+
+1. UVOD
+»Globalni trendi na področju visokega šolstva so naslednji. Prvič, visoko šolstvo postaja masovno. Drugič, sodobne ekonomije postajajo ekonomije znanja. Znanje postaja gonilo gospodarske rasti in univerze zasedajo ključno mesto pri produkciji znanja.
+Tretjič, visoko šolstvo je podvrženo intenzivnemu procesu globalizacije.« Igor Masten
+Prisotnost globalizacije zaznavamo že vrsto let, saj jo je moč občutiti na vseh področjih našega življenja, med drugim tudi na izobraževalno vzgojnem področju. Da bi procesu globalizacije na področju vzgoje in izobraževanja čim bolj sledili, se trudijo v državah kar najbolj prirediti svoje politike trenutnim stanjem in trendom, ki sledijo. Politike so različne od države do države, vsem pa je skupen en sam cilj: doseči kar čim boljšo kakovost na vseh izobraževalno vzgojnih področjih. Prav ta cilj pa posledično pripelje tudi do razlik med državami, kjer je med vsemi še posebej mogoče opaziti nenehno
+''rivalstvo'' med državami Evropske unije in ZDA.
+Da se pomenu znanja in njegovi nadaljnji nadgradnji pripisuje vse večji pomen, priča dejstvo, da so v Evropi v prid temu sprejeli že vrsto pomembnih dokumentov. Če omenim le dva pomembnejša, sta to Bolonjska deklaracija, kateri je namenjeno celotno 5. poglavje tega diplomskega dela, in Lizbonska strategija. Cilj slednje, ki je bila sprejeta marca leta 2000 s strani Evropskega sveta, je, da postane Evropa do leta 2010 najbolj konkurenčno, dinamično ter na znanju temelječe gospodarstvo na svetu, ki naj bi dosegalo trajno gospodarsko rast z več ter boljšimi delovnimi mesti. Evropa je s sprejetjem številnih dokumentov tako na dobri poti, da uveljavi svojo konkurenčnost povsod po svetu in da tako v prihodnje ne bo več zaostajala za vodilnimi, ampak da bo hodila v koraku z njimi.
+Če za ZDA velja, da so svetovna velesila na mnogih področjih in da med drugim prednjačijo tudi na izobraževalno vzgojnem področju, potem lahko za njeno severno sosedo Kanado rečemo, da ji je v določenih pogledih podobna. Tudi Kanada je gospodarsko razvita država, s poudarkom na sociali in blaginji, velik pomen pa ima tudi znanje, za katerega v Kanadi menijo, da je ključ do uspeha tako njihove družbe kot tudi celotne države. Ker sem v Kanadi preživela leto dni, sem imela možnost izkušenjsko spoznati to državo in s tem tudi njen izobraževalno vzgojni sistem z njenimi kakovostnimi prvinami. Kanada me je izredno navdušila, zato sem si tudi izbrala za temo svoje diplomske naloge podrobnejšo proučitev njenega izobraževalno vzgojnega sistema.
+
+Obenem pa to diplomsko delo zajema tudi primerjavo Kanade z nekaterimi drugimi izobraževalno vzgojnimi sistemi Evrope in ZDA. V svoji diplomski nalogi velik poudarek dajem predvsem terciarni ravni izobraževanja, ki je že nekaj časa povod izjemni konkurenci med državami na tem področju.
+V diplomskem delu se bom po uvodu lotila teme kakovosti na ravni izobraževalno vzgojnega sistema, kjer bom skušala kakovosti najti njen pomen in definicije, nato pa bom prikazala še načine njenega ugotavljanja in zagotavljanja.
+V tretjem poglavju sledi poglobljen prikaz izobraževalno vzgojnega sistema Kanade, kjer bo poleg osnovnih podatkov Kanade prikazano še, kako so v tej državi razdeljene pristojnosti v izobraževalno vzgojnem sistemu, kako poteka financiranje tega področja in kako je v Kanadi organizirano izobraževanje. S shemami bo v tem poglavju prikazana tudi zgradba vzgoje in izobraževanja Kanade, temu pa sledijo še razčlenitev in opis različnih terciarnih stopenj izobraževanja ter prikaz vključenosti študentov v terciarno raven izobraževanja.
+V četrtem poglavju bom skušala po lastni presoji najprej opredeliti nekaj kakovostnih prvin izobraževalno vzgojnega sistema Kanade, nato pa bom vsako izmed njih podrobneje opisala in dopolnila s tabelami ter z grafi.
+Del moje diplomske naloge se nanaša tudi na primerjavo zagotavljanja kakovosti na terciarni ravni izobraževanja v Evropi, zato bom v petem poglavju prikazala, kako se tovrstna kakovost zagotavlja v evropskem visokošolskem sistemu. V tem poglavju bom opisala Bolonjski proces, njegove značilnosti ter cilje in prikazala, kako le-ta poteka v Evropi in v Sloveniji.
+
+V zadnjem delu diplomske naloge bom primerjala kakovostne prvine izobraževalno vzgojnega sistema Kanade z evropskimi izobraževalno vzgojnimi sistemi in z ZDA.
+Podatke, ki jih bom dobila na svetovnem spletu, bom združila v tabele in tako prikazala različnosti in podobnosti izbranih držav. Empirični del moje diplomske naloge bom podkrepila tudi s spletnim intervjujem na temo vseživljenjskega učenja v Kanadi ter se oprla še na raziskave Pedagoškega inštituta v Ljubljani o uporabi informacijskih in komunikacijskih tehnologij v izobraževanju v Kanadi.
+Moje diplomsko delo se bo tako ves čas navezovalo na pojem kakovosti na področju vzgoje in izobraževanja. Temu sledi tudi moja temeljna hipoteza – izobraževalno vzgojni sistem Kanade je tako po svoji organizacijski grajenosti kot doseženih delovnih učinkih kakovosten.
+S to hipotezo želim predstaviti Kanado kot državo, ki je zgradila visoko kakovosten izobraževalno vzgojni sistem, in kot državo, ki je pred drugimi državami v prednosti predvsem pri izgradnji terciarne ravni izobraževanja.
+
+2. KAKOVOST IN POMEN KAKOVOSTI NA RAVNI IZOBRAŽEVALNO VZGOJNEGA SISTEMA
+2.1 POMEN IN DEFINICIJA KAKOVOSTI
+Danes živimo v hitro spreminjajočem se svetu, kjer je vse bolj prisotna težnja k doseganju čim višje kakovosti na vseh ravneh življenja. Da je pojem kakovosti vedno bolj prisoten tudi v izobraževalno vzgojnih sistemih povsod po svetu, pričajo številne reforme šolskih sistemov. Cilj slednjih je povsod enak: doseganje čim višje kakovosti, s pomočjo katere si omogočajo obstoj svojih izobraževalno vzgojnih institucij in z njo tudi posledično konkurirajo drugim izobraževalno vzgojnim sistemom.
+Kljub temu, da je o kakovosti na izobraževalno vzgojnem področju veliko govora in da se številni avtorji ukvarjajo s to temo, pa se že pri definicijah kakovosti najdejo razlike. Kot bom prikazala v tem poglavju v nadaljevanju, je definicij kakovosti veliko, prav tako obstajajo med avtorji različna mnenja za njeno ugotavljanje in zagotavljanje. Vsem avtorjem pa je, kot pravi Zorko, »skupno zavedanje:
+- da je kakovost v šolstvu nujna,
+- da je potrebno ugotavljati in zagotavljati kakovost,
+- da se mora menedžment usposobiti za vodenje za kakovost,
+- da morajo v prizadevanju za kakovost sodelovati vsi zaposleni.« (Zorko, 2003: 36).
+Da je definicij o tem, kaj pravzaprav je kakovost v izobraževanju, veliko, govorijo ugotovitve različnih avtorjev na tem področju. Najbolj splošno definicijo kakovosti poda Sallis, ki pravi: »Kakovost je tista, ki dela razlike med odličnim in navadnim« (Sallis v Zorko, 2003: 27).
+Snoj in Mumel govorita o »popolni kakovosti«, ki je po njunem mnenju »sestavljena iz t.i. objektivne in subjektivne kakovosti. V prvem primeru kakovost temelji na določenih standardih, v drugem pa končno presojo kakovosti storitve poda odjemalec glede na subjektivno zaznavo kakovosti« (Snoj in Mumel v Zorko, 2003: 25).
+
+Zorko podobno kot Snoj in Mumel govori o »absolutni kakovosti«, ki pa je po njegovem mnenju ni mogoče nikoli doseči, saj v nadaljevanju meni, »da morda lahko dosežemo objektivno, recimo standardizirano kakovost, medtem ko je subjektivno zaznana kakovost preveč minljiva in spreminjajoča se kategorija, da bi jo trajno dosegli« (Zorko, 2003: 81-82). Zorko zato tudi meni, da se absolutni kakovosti »šola lahko približa z določenim kompromisom pojmovanja kakovosti, vendar je absolutno ne more doseči« in to po njegovem mnenju ni nekaj slabega. Avtor tu v nadaljevanju navaja takšen kompromis, » ki bi zadovoljil celoten spekter udeležencev vzgoje in izobraževanja: učencev, učiteljev, šolskih oblasti, lokalne skupnosti, gospodarstva, političnih organizacij, verskih skupnosti itd« (Zorko, 2003: 46).
+Sama se bolj strinjam z mnenjem Goddarda in Leaska, ki na kakovost gledata kot na »premikajoči se cilj«, ki je po njunem mnenju: »cilj, ki ga nikoli absolutno ne dosežemo; tudi ko se mu približamo, nas odjemalci in konkurenti postavijo pred nove zahteve« ter »cilj, ki ga različne družbene skupine in posamezniki razumejo različno« (Goddard in Leask v Zorko, 2003: 27).
+Različnih definicij o kakovosti je zares veliko, kar kaže na njeno subjektivnost, zato je določitev neke absolutne kakovosti težka in po mojem mnenju celo nesmiselna. Zavedati se moramo, da se pojem kakovosti na področju vzgoje in izobraževanja izjemno hitro spreminja, tudi družbe in z njimi dosežena znanja se vedno hitreje spreminjajo. Prav tako je za delovna mesta danes vse bolj zaželeno, da jih zasedajo takšni ljudje, ki imajo dosežena vedno bolj sodobna in uporabna znanja, ki jih je potrebno nenehno dopolnjevati in nadgrajevati. Zatorej posledično tudi ne moremo kakovosti določiti njene objektivnosti s pomočjo univerzalnih standardov, ki bi bili za vse enaki in ki bi pripeljali do kakovosti.
+Osebno sem mnenja, da je potrebno najprej pri vseh akterjih, ki sodelujejo pri reformah šolskih sistemov, doseči konsenz o tem, da postane kakovost vrednota vsem, ki jo skušajo doseči, ali kot pravi Erčulj: »Kakovost torej ni le vprašanje pristojnosti, pristopov, mehanizmov ali tehnik, pač pa vprašanje vrednot in pripadnosti tem vrednotam.« (Erčulj, 2000: 7). Šele potem se lahko nadaljuje proces doseganja in posledično tudi zagotavljanja kakovosti v izobraževanju.
+
+2.2 UGOTAVLJANJE IN ZAGOTAVLJANJE KAKOVOSTI
+Ugotavljanje kakovosti
+Pri ugotavljanju kakovosti so si mnenja strokovnjakov s tega področja dokaj podobna, vsi namreč izključujejo možnost vmešavanja države pri procesu ugotavljanja kakovosti na posamezni šoli. Medveš na primer meni, da sta »izhodišče ugotavljanja in zagotavljanja kakovosti v šoli v celoti prenesena na šolo samo in znotraj nje na učitelja« (Medveš, 2000: 11). Ugotavljanje kakovosti torej ni v rokah države, ampak vsake šole posebej.
+Temu mnenju se pridružuje tudi Erčulj, ki pravi, da se » proces približevanja idealu uspešne šole namreč lahko začne le na šoli in ne more biti vsiljen od zunaj« (Erčulj v Erčulj in Trunk Širca s sodelavci, 2000: 16). Ista avtorica v nadaljevanju tudi pravi: Merilo kakovosti je torej dobra praksa, opredeljuje jo stroka, spreminja pa proces, imenovan kolegialno spremljanje, ki ga lahko izvajamo prek strokovnih mrež, izmenjav, svetovalnih timov ali celo inšpekcije. Na ravni šole jo uresničujemo skozi koncepte kolegialnega vodenja, to pomeni, da odgovornost za politiko in njeno uresničitev prevzemajo strokovni delavci šole v interesu učencev (Erčulj, 2000: 5).
+Pri ugotavljanju kakovosti pa po Medvešu obstaja še ena dodatna pomembna stvar: »Načelo je, da je kakovost v šoli vedno problem celote in temelji na psihološki predpostavki o pomenu kolegialne pomoči. To načelo je ena od bistvenih značilnosti, ki se je pojavila v razumevanju kakovosti šole šele takrat, ko se skrb za kakovost ni ustavljala le pri ugotavljanju, temveč je segala tudi do zagotavljanja kakovosti.« (Medveš, 2000: 19). Avtor tako meni, da je »ugotavljanje kakovosti v sodobnih pristopih samo sredstvo, cilj je zagotavljanje kakovosti« in da je »zato ugotavljanje oz. samoevalvacija kakovosti sestavni del razvijanja kakovosti« (Medveš, 2000: 14). Tako danes ni zadosti, da s pomočjo kriterijev le ugotavljamo kakovost na posameznih šolah, ob koncu tega postopka je potrebno iti korak dalje ter nadaljevati s postopki zagotavljanja kakovosti.
+
+Zagotavljanje kakovosti
+Pri zagotavljanju kakovosti je ključnega pomena, da se šole ne odločajo za zagotavljanje kakovosti na področju celotne šole hkrati, ampak naj to počno postopno, po posameznih področjih, ali naj povsod kot pravi Medveš, velja načelo: »Raje manj, pa tisto odlično« (Medveš, 2000: 16).
+Potrebno je torej kakovost zagotavljati postopoma, a brez konsenza glavnih akterjev zagotavljanja kakovosti tu ne gre. »Bistveno je, da vsi projekti brez izjeme izhajajo iz predpostavke, kako pomembno je za odločanje o ukrepih za zagotavljanje kakovosti sodelovanje in soglasje med učitelji, učenci in starši. Zagotavljanje kakovosti je skupna strokovna naloga« (Medveš, 2000: 16). Pomembno je, da se interesi posameznih akterjev med seboj sprotno usklajujejo, čemur sledi določitev skupnih ciljev in pozitiven pristop k njihovi čim prejšnji uspešni implementaciji.
+Medveš pri procesu zagotavljanja kakovosti opozarja tudi na zagotovitev pozitivne klime pri tem procesu in pravi:
+Cilj, kot rečeno, je zagotavljanje kakovosti, in to klimo je nujno ustvariti na šoli.
+To pomeni iskanje ukrepov, ki bi lahko izboljšali stanje, kar mora biti opravljeno strokovno in profesionalno. Kritično je treba oceniti posamezne predloge ukrepov in preveriti njihove učinke v daljših ciklusih. Bistveno pa je, da se postopoma v šoli oblikuje pozitivna klima za iskanje rešitev, ki odpravljajo slabosti in šibke točke. Bistvo prave klime za zagotavljanje kakovosti je v tem, da sprejme šola hotenje k izboljševanju dela kot trajno strokovno nalogo« (Medveš, 2000: 17).
+Ugotavljanje in zagotavljanje kakovosti je proces, ki se ne zgodi čez noč in si je zanj potrebno vzeti čas in predvsem voljo. »Pot bo dolga, bodimo pripravljeni na razočaranja, toda pričakujmo tudi veliko prijetnih presenečenj« (Hardie v Zorko, 2003: 53).
+
+3. PRIKAZ IZOBRAŽEVALNO VZGOJNEGA SISTEMA KANADE 3.1 OSNOVNI PODATKI
+Kanada je zvezna država desetih provinc ter treh teritorijev1 in s svojo površino 9.984.670 kvadratnih kilometrov predstavlja drugo največjo državo na svetu. Leta 2004 je imela 31.974.363 prebivalcev. Je bogata in tehnološko razvita država, ki se z bruto domačim proizvodom 29.300 ameriških dolarjev na prebivalca uvršča med sedem najrazvitejših držav sveta.
+Kot država s samo 3.3 prebivalcev na kvadratni kilometer, je Kanada ena izmed držav z najmanjšo gostoto prebivalstva na svetu. Večina prebivalcev živi v treh največjih mestih in sicer v Torontu (4,356,845), Montrealu (3,192,110) in Vancouvru (1,861,975). V glavnem mestu Ottawi, ki se nahaja v provinci Ontario, pa živi 774,075 prebivalcev.
+Uradna jezika sta dva: angleščina (59,1%) ter francoščina (22,9%) prebivalstva. 18 odstotkov prebivalstva pa govori druge evropske in neevropske jezike.
+Posebna zanimivost Kanade je nedvomno tudi v priseljevanju številnih tujcev v to državo. Po zadnjih podatkih se je od 1. julija 2004 do 1. julija 2005 v Kanado priselilo 244.600 priseljencev (glej http://www.statcan.ca/Daily/English/050928/d050928a.htm).
+Največ ljudi si za mesto naselitve izbere prav tri zgoraj omenjena mesta, Toronto, Montreal in Vancouver.
+3.2 RAZDELITEV PRISTOJNOSTI V IZOBRAŽEVALNO VZGOJNEM SISTEMU KANADE
+Vse niti zakonodajne oblasti na izobraževalno vzgojnem področju v Kanadi so izključno v pristojnosti desetih provinc in treh teritorijev. To določa leta 1867 podpisana ustava, ter kasneje, leta 1982, uzakonjen ustavni zakon. Tako lahko danes v Kanadi govorimo o trinajstih izobraževalno vzgojnih sistemih, izmed katerih vsak razkriva svojevrstne kulturne, geografske ter regionalno zgodovinske značilnosti.
+1 Zvezno državo Kanado sestavlja deset samoupravnih provinc (njihove okrajšave v nadaljevanju diplomskega dela): Alberta (Alta.), British Columbia (B.C.), Manitoba (Man.), New Brunswick (N.B.), Newfoundland and Labrador (N.L.),Nova Scotia (N.S.), Ontario (Ont.), Prince Edward Island (P.E.I.), Quebec (Que.), Saskatchewan (Sask) in trije teritoriji (ter njihove okrajšave v nadaljevanju diplomskega dela): Northwest Territories (N.W.T.), Nunavut (Nvt.) in Yukon (Y.T.). (glej http://canada.gc.ca/othergov/prov_e.html)
+
+Posledica takšne ureditve je ta, da je v Kanadi vsaka provinca in vsak teritorij odgovoren za primarno, sekundarno in terciarno izobraževanje in da v tej državi zato ne obstaja en sam zvezni vladni urad za izobraževanje oziroma eno samo ministrstvo za izobraževanje.
+Kljub takšni ureditvi ima Kanada kot zvezna država pomembno podporno vlogo pri izobraževanju in tudi določene pristojnosti. Med najpomembnejše spadata predvsem skrb za razvoj in financiranje šolstva. Njena vloga se kaže zlasti pri izvajanju politike ter programov, ki so kakorkoli povezani z izobraževanjem, kot so na primer: študentska posojila, sofinanciranje terciarnega izobraževanja in podpora tistim kanadskim prebivalcem, ki niso oskrbovani s strani provinc. Slednjim, med katere spadajo domorodci, otroci pripadnikov oboroženih sil ter jetniki zveznih kazenskih zavodov, različna ministrstva pod okriljem in nadzorom države omogočajo dostop do izobrazbe.
+Ostale vloge, kjer je moč opaziti dejavnost zvezne države glede izobraževanja, so še: skrb za priseljence, narodni jezikovni programi, multikulturalizem ter usposabljanje delovne sile.
+V Kanadi ima torej vsaka provinca in teritorij svoj parlament s svojo vlado, lastno zakonodajo ter s tem posledično tudi lastna ministrstva za izobraževanje. Vsaka vlada zato v vsaki provinci (teritoriju) s svojimi zakonskimi, upravnimi ter finančnimi pristojnostmi vsakomur omogoča dostop do javnega izobraževanja, to je od vrtca pa vse do terciarnega izobraževanja. Vsako ministrstvo za izobraževanje vodi minister ali ministrica, ki je izvoljeni član vlade (izjemi sta le Teritorija Yukon in Severozahodni teritorij, kjer to vlogo opravlja svetnik za izobraževanje). Minister je odgovoren, da z izvršilnimi predpisi določa naloge ter obveznosti šolam in učiteljem. Ministrstva za šolstvo so tako odgovorna, da v celoti izvajajo vladno politiko in zakone, ki se vežejo na izobraževanje; določajo financiranje in direktive glede izobraževanja v določeni provinci (teritoriju); nadzirajo delo pri osnovnem in sekundarnem izobraževanju; izdelujejo provincijske učne načrte; dajejo smernice za organizacijo šol; pospešujejo raziskovalno delo na področju izobraževanja; skrbijo za sprotno usposabljanje učiteljev; odobravajo nove učne načrte in učbenike; definirajo pričakovane oziroma zaželene cilje izvajajočih se šolskih programov; izdajajo predpise o delu šolskih odborov in uprave šolskih okrajev, ravnateljev in učiteljev ter skrbijo za ozaveščanje staršev in javnosti o porabi sredstev, namenjenih za izobraževanje.
+
+Vsako ministrstvo določi tudi število lokalnih šolskih upravnih enot oziroma šolske okraje, ki delujejo kot nekakšne ''podaljšane roke'' provinc in ki so pod nadzorom zastopnikov širše javnosti. Organe tovrstnih šolskih okrajev sestavljajo javno izvoljeni poverjeniki. Naloge tovrstnih šolskih okrajev so: lokalni nadzor nad šolami, pridobivanje finančnih sredstev ter upravljanje z njimi, določanje lokalne politike šol, izvajanje izobraževalne politike v šolah, določanje pravil v šolah, odgovornost za kadrovsko politiko v šolah (število učiteljev, njihovo napredovanje in odpust), oblikovanje izobraževalnih programov ter oskrba šol s kakovostno opremo in učnimi pripomočki.
+Določene pristojnosti glede izobraževanja pa imajo še direktorji šolskih okrajev ter šolski odbori. Prvo omenjeni usmerjajo delo ravnateljev in učiteljev. Njihovi mandati se razlikujejo, in sicer ponekod trajajo eno leto, drugje pa dve ali tri leta. Vloga šolskih odborov kot poslovodnih organov šol pa je skrb za šolske zgradbe in pridobivanje čim večjih finančnih prispevkov iz lokalnih virov.
+Tu je potrebno nekaj stavkov nameniti tudi organizaciji CMEC (The Council of Ministers of Education Canada) ali Zbor ministrstva za izobraževanje Kanade, ki ima vlogo povezovalca med provincijskimi ministrstvi za šolstva ter zvezno vlado. Ta zbor je bil ustanovljen leta 1967 in vse od takrat dalje deluje kot forum, kjer se redno srečujejo ministri provincijskih in teritorialnih ministrstev za šolstvo s predstavniki zvezne vlade ter skupaj usklajujejo področja skupnih interesov. CMEC predstavlja tudi telo, preko katerega provincijska ter teritorialna ministrstva za šolstvo svoje interese posredujejo ostalim nacionalnim izobraževalnim organizacijam, tujim državam in internacionalnim organizacijam (glej http://educationcanada.cmec.ca/EN/EdSys/over.phpv).
+3.3 FINANCIRANJE IZOBRAŽEVANJA
+Uravnoteženo in solidarnostno financiranje šolstva v Kanadi poteka iz več virov. Šolski okraji dobivajo subvencije provincijskih vlad in denar iz lokalnih davkov na nepremičnine. »Province skrbe za financiranje temeljnega izobraževalnega programa, torej izdatke za pouk in vzdrževalne stroške, za šolske prevoze učencev ter naložbe v šolske stavbe in zemljišča« (Lipužič, 1995:79).
+
+Da Kanada daje velik poudarek izobraževanju, pove tudi podatek, da je bilo v fiskalnem letu 2001-2002 za vzgojo in izobraževanje namenjenih 68.6 milijard kanadskih dolarjev (ali dobrih 2.000 na posameznega prebivalca), kar je za 3.7 milijard oziroma 6% več kot štiri leta poprej (glej Education Indicators in Canada).
+Porast finančnih sredstev, namenjenih za izobraževanje, se nazorno pokaže tudi v tabeli št. 3.1. Od 1997-1998 pa do 2001-2002 so se tovrstna sredstva največ povečevala na tericarni ravni izobraževanja, in sicer za 13% oziroma iz 24.4 na 27.6 milijard kanadskih dolarjev. Medtem so izdatki za primarno in sekundarno raven izobraževanja ostali na približno enaki ravni. V letih 2001 in 2002 je bila skupna porazdelitev izdatkov (javnih in zasebnih) takšna, da je bilo 60% vseh izdatkov namenjenih za primarno in sekundarno raven izobraževanja, 40% pa za terciarno raven izobraževanja.
+Tabela 3.1: Združeni javni in zasebni izdatki za posamezne ravni izobraževanja, Kanada, 1997-1998 do 2001-2002 (v milijardah kanadskih dolarjev)
+predšolska vzgoja, primarna raven izobraževanja, sekundarna raven izobraževanja terciarna raven izobraževanja vse ravni izobraževanja
+KANADA v milijardah dolarjev 1997-1998 40,425 24,448 64,873 1998-1999 41,700 25,786 67,487 1999-2000 41,414 27,200 68,614 2000-2001 40,743 27,105 67,848 2001-2002 41,008 27,599 68,607
+Vir: http://www.cesc.ca/pceip/PCEIP2003en.pdf
+Zanimiv je tudi podatek o porastu sredstev, namenjenih za posameznega učenca v primarnem in sekundarnem izobraževanju, ki velja na zvezni ravni. V šolskem letu 1996/97 so ta sredstva znašala 6,672 dolarjev na učenca, šest let kasneje pa že 7,946 dolarjev, kar pomeni 19% porast (glej http://www.statcan.ca/english/research/81-595- MIE/81-595-MIE2004022.pdf).
+
+Graf št. 3.2 nam še natančneje prikaže podatke, koliko sredstev nameni posamezna provinca oziroma teritorij za izobraževanje na primarni in sekundarni ravni izobraževanja. V letu 2002/03 je bilo tako v teritoriju Yukon za tovrstno izobraževanje namenjenih 14,321 dolarjev na posameznega učenca, v ostalih provincah se je ta znesek gibal od 8,775 dolarjev v Alberti do 6,402 dolarjev v Novi Scotii.
+Graf 3.2: Celotni izdatki na učenca na primarni in sekundarni ravni izobraževanja, Kanada, province in teritoriji, 2002-2003 (v kanadskih dolarjih) 0
+2000 4000 6000 8000 10000 12000 14000 16000 Ka na da
+N.
+P.
+E.
+N.
+S.
+N.
+B.
+Qu e.
+On t.
+M an
+Sa sk
+Al ta
+B.
+C. Y.
+T.
+N.
+W
+.T
+. v do la rji h
+Vir: http://www.statcan.ca/english/research/81-595-MIE/81-595-MIE2004022.pdf
+3.4 ORGANIZACIJA IZOBRAŽEVANJA
+3.4.1 Šolsko leto
+V primarnem in sekundarnem izobraževanju traja šolsko leto deset mesecev in sicer od začetka septembra (ponekod od konca avgusta) do konca junija. Število učnih dni je po provincah in teritorijih različno, po večini pa šolsko leto povsod sestavlja od 180 do 200 učnih dni. To število je odvisno od nacionalnih praznikov, šolskih počitnic, dni, namenjenih za izobraževanje učiteljev ipd. Šolske počitnice imajo učenci dvakrat: za božič (od sedem do deset dni) ter spomladi (pet dni).
+
+Šolsko leto na terciarni ravni pa traja od sredine septembra in se konča ob koncu aprila ali v začetku maja. Tudi tu so vmes počitnice, in sicer za božič ter v februarju ali marcu, vse pa so krajše kot tiste v primarnem in sekundarnem izobraževanju.
+3.4.2 Šolski dan
+Organizacija šolskega dne je v popolni kontroli vsake province in teritorija posebej. Tako je torej trajanje šolskega dne ter porazdelitev učnih ur različna glede na provinco in tudi glede na šolsko stopnjo. V vrtcih šolski dan traja od treh ur do pol dneva. Nižja stopnja osnovne šole ima ponavadi krajši šolski dan kot višja stopnja. Pouk na primarni in sekundarni stopnji izobraževanja pa poteka med deveto uro zjutraj pa vse do tretje ali četrte ure popoldan, torej v povprečju pet in pol učnih ur na dan.
+3.4.3 Šolske obveznosti
+Tudi šolske obveznosti se razlikujejo med seboj po provincah in teritorijih. Za otroke stare štiri ali pet let predšolska vzgoja sicer ni obvezna, je pa priporočljiva. S šestimi leti pa je šolanje za vse otroke obvezno in traja vse do njihovega petnajstega ali šestnajstega leta starosti. »Šolska obveznost se š šestim letom začne v provincah Newfounland, Nova Scotia, Quebec, Ontario, Alberta, British Columbia in v Severozahodnih teritorijih, s sedmim pa v provincah Prince Edward Island, New Brunswick, Manitoba, Saskachevan in na teritoriju Yukon.« (Lipužič, 1995: 81).
+3.5 ZGRADBA VZGOJE IN IZOBRAŽEVANJA V KANADI
+Vsaka provinca in teritorij ima v Kanadi sicer svojevrstni šolski sistem, kljub temu pa obstajajo skupne značilnosti v zgradbi tovrstnih sistemov. In slednje prikazuje naslednja shema.
+
+Vir: http://www.oecth.com/canada/canadian_education_system.htm Za še bolj podrobno razumevanje strukture kanadsko izobraževalno vzgojnega sistema pa je tukaj še shema, ki prikazuje izobraževalne sisteme po posameznih provincah oziroma teritorijih.
+
+Shema št. 3.4: Organizacija in struktura primarnih in sekundarnih šolskih sistemov po provincah in teritorijih Newfoundland in
+Labrador P 1 2 3 4 5 6 7 8 9 10 11 12 Prince Edward Island P 1 2 3 4 5 6 7 8 9 10 11 12 Nova Scotia P 1 2 3 4 5 6 7 8 9 10 11 12 New Brunswick- angleški del P 1 2 3 4 5 6 7 8 9 10 11 12 New Brunswick- francoski del P 1 2 3 4 5 6 7 8 9 10 11 12
+Quebec – na splošno P P 1 2 3 4 5 6 7 8 9 10 11 12 Quebec - strokovno 10 11 12 13 Ontario P P 1 2 3 4 5 6 7 8 9 10 11 12 Manitoba P P 1 2 3 4 5 6 7 8 9 10 11 12 Saskatchewan P P P 1 2 3 4 5 6 7 8 9 10 11 12 Alberta P P P 1 2 3 4 5 6 7 8 9 10 11 12 British Columbia P 1 2 3 4 5 6 7 8 9 10 11 12 Yukon P 1 2 3 4 5 6 7 8 9 10 11 12
+Northwest Territories P 1 2 3 4 5 6 7 8 9 10 11 12 Nunavut P 1 2 3 4 5 6 7 8 9 10 11 12 P Predšolska vzgoja – ni dostopna za vse P Predšolska vzgoja – dostopna za vse
+Primarna raven izobraževanja
+Nižja srednja šola
+Višja srednja šola
+Sekundarno izobraževanje
+Vir: http://www.cmec.ca/international/educationcanada.en.pdf
+3.5.1 PREDŠOLSKA VZGOJA
+»V državi sta dva prostovoljna sistema predšolske vzgoje, ki imata javno podporo. Prvi je
+''Kindergarten'', otroški vrtec ob šolah z enoletnim programom za petletne otroke. Drugi sistem obsega centre za dnevno varstvo otrok in jasli. Delajo na temelju koncesije, zakonitost njihovega dela pa v nekaterih provincah spremlja ministrstvo za socialno varstvo ali ministrstvo za komunalne službe, v drugih pa posebni vladni urad« (Lipužič, 1995: 89).
+
+V grafu št. 3.5 lahko vidimo, da je bilo v povprečju v Kanadi v šolskem letu 1999-2000 v katerikoli izmed zgoraj dveh navedenih šolskih sistemov vpisanih dobrih 43 odstotkov štiriletnih otrok in kar 95 odstotkov petletnih otrok.
+Graf 3.5: Število otrok, starih 4 in 5 let, v predšolski vzgoji v Kanadi po provincah in teritorijih, 1999-2000 0
+KA NA
+DA N.
+P.
+E.
+N.
+S.
+N.
+B.
+Qu e.
+On t.
+Ma n.
+Sa sk
+Al ta. B.
+C. Y.
+T.
+N.
+W
+.T
+% otroci, stari 4 leta otroci, stari 5 let
+Vir: http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC2.xls Tudi predšolska vzgoja se razlikuje po provincah in teritorijih, vendar povsod v Kanadi ni obvezna, je pa priporočljiva in se zanjo v imenu otrok odloči večina staršev. Tudi na tem področju obstajajo zasebne ter javne ustanove. 95 odstotkov kanadskih otrok obiskuje javne vrtce oziroma javna dnevna varstva, ostalih 5 odstotkov pa zasebne vrtce ali pa so deležni šolanja na domu (glej http://www.oecd.org/dataoecd/41/36/33852192.pdf).
+Slednja dva morata seveda obvezno delovati v skladu s predpisi in zakoni določene province ali teritorija.
+Starost otrok, ki se vpišejo bodisi v otroški vrtec ali v program dnevnega varstva, je 5 let, razen v provinci Ontario, kjer je ta starost 4 leta. Povsod sta jezika, ki ju v vrtcih uporabljajo dva, in sicer francoščina ter angleščina. So pa povsod v angleško govorečem delu Kanade delujoči tudi vrtci, kjer se uporablja francoščina ter obratno: povsod v francosko govorečih delih delujejo tudi vrtci, kjer se uporablja angleški jezik.
+
+Glavni namen predšolske vzgoje v Kanadi je poučevanje oziroma izobraževanje otrok in ne njihovo varstvo. V vsaki provinci in teritoriju je predšolska vzgoja del šolskega sistema, zatorej imajo povsod jasno določene želene cilje h katerim stremijo. Slednji so povsod podobni: da bi si otroci po končanem enoletnem obdobju pridobili določene spretnosti ter znanja, kot so na primer: razumevanje obstoja sveta okoli sebe, znanje lastnega jezika, nekatere prvine pismenosti in matematike ipd., saj naj bi jim bilo tovrstno znanje kasneje v veliko pomoč pri vstopu v višje razrede. Da bi ti bili želeni cilji čim bolje realizirani, je zvezna vlada v marcu 2003 sprejela pomemben odlok, v katerem se je zavezala, da bo v naslednjih petih letih skupno namenila 1.05 milijard dolarjev finančne pomoči provincam in teritorijem za predšolsko vzgojo (glej http://ecd- elcc.ca/en/elcc/elcc_home.shtml).
+Programi v otroških vrtcih ali dnevnih varstvih potekajo dve do tri ure dnevno, ponekod tudi cel dan. Izvajajo se ponavadi v prostorih osnovnih šol, izjema je tu le provinca Quebec, kjer dnevno varstvo izvajajo z zakonom pooblaščeni šolski okraji zunaj šol.
+3.5.2 PRIMARNA RAVEN IZOBRAŽEVANJA
+Pod pojem primarno izobraževanje spada izobraževanje, ki se izvaja v osnovnih šolah (Elementary Schools) in se začne s šestim letim otrokove starosti, ko otroci vstopijo v prvi razred (glej Priloga št. 1). Konča pa se z učenčevim enajstim ali ponekod trinajstim letom starosti oziroma z zaključkom šestega ali ponekod osmega razreda. Primarno izobraževanje je za vse otroke obvezno, lahko pa izbirajo med zasebnimi in javnimi osnovnimi šolami; v slednje je vpisanih večina otrok.
+Pri vseh osnovnošolskih programih je velik poudarek na interdisciplinarnosti in na podajanju raznovrstnih znanj, kot so na primer učenje jezika, matematike, družbenih ved, likovne vzgoje, znanosti, glasbene ter športne vzgoje in naravoslovja, nekatere province v svoje osnovnošolske programe vključujejo tudi učenje drugega jezika. Eden glavnih poudarkov pa je povsod doseči čim boljšo pismenost učencev.
+
+Hitro naraščajo oddelki kot organizacijske enote z več razredi, v katerih so dve ali tri zaporedne stopnje združene pod vodstvom enega učitelja. Število takšnih kombiniranih oddelkov, ki jih imenujemo tudi razdeljeni ali dvojni razredi, se je razmnožilo zlasti v velikih mestnih območjih, kjer se je vpis v zadnjih letih zelo spreminjal. Tako je v Kanadi eden od sedmih oddelkov z več razredi in vsak peti učenec je v takšnem skupnem oddelku, kjer je po nekaj razredov od prvega do šestega letnika. Vendar raziskave kažejo, da učenci kombiniranih oddelkov v znanju in socialnem razvoju ne zaostajajo za vrstniki oddelkov, kjer so učenci le enega letnika. (Lipužič, 1995: 90) Po uspešno končani osnovni šoli nato učenci in učenke nadaljujejo svoje šolanje z vpisom na sekundarne šole oziroma srednje šole. Letno šolanje s primarne na sekundarno stopnjo izobraževanja nadaljuje 98 odstotkov učencev (glej http://www.cmec.ca/ international/educationcanada.en.pdf). V šolskem letu 1999-2000 je bilo skupno v primarno in sekundarno stopnjo izobraževanja vpisanih 5.616.865 učenk in učencev (glej http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC2.xls).
+3.5.3 SEKUNDARNA RAVEN IZOBRAŽEVANJA
+Dolžina šolskih programov v sekundarnih šolah oziroma srednjih šolah (''High Schools'') je različna med provincami in teritoriji, ponekod je le-ta štiri leta (v provincah Ontario, Manitoba ter New Brunswick), spet drugje pet let (provinca British Columbia ter teritorij Yukon). V ostalih provincah in teritorijih pa posamezni šolski okraji razdelijo sekundarno raven izobraževanja na nižjo srednjo šolo, imenovano ''Junior High School'', v kateri so učenci od sedmega do devetega letnika, in na višjo srednjo šolo, imenovano ''Senior High School'', v kateri so učenci od desetega pa vse do dvanajstega letnika (glej http://www.cmec.ca/international/educationcanada.en.pdf). Povsod pa so srednje šole za vse otroke obvezujoče, lahko pa tako kot na primarni ravni izobraževanja tudi tu izbirajo med zasebnimi ter javnimi srednjimi šolami.
+
+Srednje šole ponujajo svojim udeležencem šolanje bodisi v splošnoizobraževalni oziroma akademski ter v poklicni smeri. V prvih dveh letih so v vseh tovrstnih ustanovah določeni obvezni predmeti z dodatnimi izbirnimi predmeti, v zadnjih letih pa se število obveznih predmetov zmanjša saj s to možnostjo srednje šole podpirajo svoje učence, da si sami izberejo sebi najustreznejše predmete. To učencem omogoča specializacijo za določene smeri in na podlagi tovrstnih odločitev se tako bodisi po uspešno končani srednji šoli pripravljajo za vstop na trg delovne sile ali pa to znanje kasneje nadgradijo z vstopom na terciarno raven izobraževanja.
+Učenci, ki uspešno zaključijo vnaprej predpisano število obveznih in izbirnih predmetov, si pridobijo maturitetno diplomo. Slednja jim nadalje omogoča vpis v katerokoli terciarno izobraževalno ustanovo. Izpitne programe z izbrano vsebino ter obveznimi predmeti določi vsako ministrstvo za izobraževanje posebej. Ker je tudi v Kanadi močno prisotna skrb za kvalitetno izobrazbo, je na tem področju moč opaziti zaostritev zahtev ministrstev za šolstvo. S čim večjo ponudbo izbirnih premetov ter različnimi oblikami obveznih izpitov so tako v Kanadi nedvomno na dobri poti k doseganju takšne srednješolske izobrazbe, ki je kvalitetna ter s tem konkurenčna ostalim na svetu.
+Tu si je zanimivo ogledati tudi spodnjo tabelo št. 3.6, kjer vidimo, da se je odstotek učencev obeh spolov, ki so uspešno zaključili srednje šole od šolskega leta 1994-1995 povzpel s takratnih 76 odstotkov na 78 odstotkov v šolskem letu 1999-2000. Šolanje, kot vidimo že vrsto let, uspešneje zaključujejo tako ženske kot moški.
+
+Tabela 3.6: Razmerje uspešno zaključene srednje šole po spolu, Kanada, province in teritoriji, 1994-1995 in 1999-2000 1994-1995 1999-2000 vsi skupaj moški ženske vsi skupaj moški ženske uspešno zaključena srednja šola
+KANADA 76 70 83 78 73 83
+Newfoundland in Labrador
+Prince Edward Island 80 74 87 84 82 86 Nova Scotia 75 71 79 77 73 82 New Brunswick 83 78 88 86 81 92 Quebec 88 78 98 85 79 92 Ontario 75 70 81 78 74 82 Manitoba 76 72 80 77 73 82 Saskatchewan 73 69 78 79 74 85 Alberta 65 60 70 66 62 70 British Columbia 66 61 72 75 71 79 Yukon 44 40 48 59 53 67
+Northwest Territories 27 25 30 39 33 46 Nunavut ….. ….. ….. 35 27 43
+Vir: http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC7.xls
+3.5.4 TERCIARNA RAVEN IZOBRAŽEVANJA
+Terciarna raven izobraževanja je v Kanadi razdeljena na dve področji, in sicer na preddiplomsko šolanje, tj. šolanje v komunalnih kolidžih (Community Colleges), ter na univerzitetno izobraževanje, ki ponuja različne stopnje visokošolskih diplom. Pod to vejo izobraževanja spadajo še ''cegepi''. To so bodisi dvoletni splošni ali pa triletni poklicni kolidži, kjer se po njihovem uspešnem zaključku učenci lahko nadalje vpišejo na univerzitetne programe. Cegepe lahko najdemo le v provinci Quebec, povsod drugod veljata zgoraj dve omenjeni področji izobraževanja.
+
+Trenutno se Kanada lahko pohvali z 92 univerzami in več kot deset tisočimi različnimi izobraževalnimi programi na dodiplomski ter podiplomski ravni (glej http://www.aucc.ca/can_uni/general_info/overview_e.html). Vse izobraževalne ustanove ponujajo raznovrstne programe in ne glede na njihovo vrsto so iz njih pridobljene diplome mednarodno priznane in enakovredne diplomam povsod po svetu. Tudi med seboj tovrstne ustanove odlično sodelujejo ter tako svojim študentom omogočajo neoviran prehod med sabo.
+Province in teritoriji so odgovorni za vse ravni terciarnega izobraževanja v Kanadi, med drugim tudi za financiranje. V zadnjem desetletju je povsod v državi moč opaziti porast sredstev, namenjenih za terciarno izobraževanje. Največji del finančnih sredstev zberejo province in teritoriji sami, del jih posredno ali neposredno dodeli zvezna vlada, pomemben finančni vir pa predstavljajo tudi pobrane šolnine. »Samo obmorske province Nova Scotia, New Brunswick in Princ Edward Island imajo skupno komisijo za visoko šolstvo – nekakšen vmesni svetovalni organ med provincijskimi vladami in visokimi šolami, ki skrbi tudi za njihovo financiranje« (Lipužič, 1995: 91).
+Vsaka izobraževalna ustanova ponuja predavanja bodisi v angleškem bodisi v francoskem jeziku, nekatere izmed njih pa izvajajo predavanja v obeh uradnih jezikih.
+Ustanove svojim študentom omogočajo bodisi reden (''full-time'') vpis v njihove programe, obstaja pa povsod tudi študij ob delu oziroma občasen (''part-time'') študij.
+Študentje lahko tudi izbirajo med študijem na daljavo, nadaljevalnim študijem ali med programi študentske izmenjave.
+V Kanadi je na splošno velik poudarek na terciarni ravni izobraževanja. Takoj se jasno pokaže dejstvo, da je pridobitev tovrstne izobrazbe precejšnja prednost, saj ti dosežki potem ugodno vplivajo na posameznika v času njegovega življenja. Prevladuje prepričanje, da pridobljena izobrazba na tej ravni izobraževanja vsakomur ponuja veliko strokovnega znanja, omogoča pridobitev boljše zaposlitve ter s slednjim povezano tudi višjo plačilo. Visoko izobraženi ljudje imajo večjo možnost napredovanja na delovnem mestu, boljše so tudi njihove ugodnosti, ki izhajajo iz zdravstvenega zavarovanja in tudi njihove pokojnine so večje.
+
+Na tej stopnji izobraževanja si je mogoče pridobiti različna potrdila o opravljenem izobraževalnem programu:
+1) certifikat (''certificate''): je pridobljena kvalifikacija po uspešnem zaključku izobraževalnega programa, ki ponavadi trajajo eno leto in jih ponujajo kolidži, 2) diploma: je kvalifikacija, pridobljena po uspešnem zaključku dvoletnega izobraževalnega programa, ki jih prav tako ponujajo kolidži, 3) diploma na dodiplomski stopnji (''undergraduate degree'') in bakalavreat (''bachelors degree''): tovrstni kvalifikaciji si je moč pridobiti po uspešno opravljenih izobraževalnih programih na štiriletnih univerzitetnih smereh, 4) podiplomska stopnja (''graduate/postgraduate degree''): je možno nadaljevanje izobraževanja po opravljeni štiri letni dodiplomski stopnji ali bakalavreatu, 5) M.B.A: ta izobraževalni program traja dve leti in ga lahko vpišejo študenti po zaključku štiriletnega univerzitetnega programa, od dve do triletnih delovnih izkušenj in določenem številu doseženih točk,
+6) magisterij ('''master's''): običajno traja dve leti in je kombinacija praktičnega dela skupaj z napisano tezo,
+7) doktorat (''Ph.D''): normalno poteka dve leti, za njegovo pridobitev pa je obvezno opraviti samostojno raziskavo, napisati tezo ter opraviti praktično delo, 8) post-doktorski programi: so še bolj specializirani in raziskovalno naravnani programi
+(glej http://infozee.com/canada/education.htm).
+V Kanadi pomembnost terciarne ravni izobraževanja z leti narašča. To jasno prikazuje tudi graf št. 3.7, ki prikazuje močan porast doseženih kvalifikacij na dodiplomski ravni, tj. pri odstotku študentov, ki si uspešno pridobijo diplomo ali certifikat na kolidžih ter diplomo na bakalavreatu. Vse od leta 1976 dalje je moč opaziti tudi porast uspešno zaključenih magisterijev, povečuje pa se tudi odstotek ljudi, ki so si pridobili doktorski naziv.
+
+Graf 3.7: Odstotek pridobljenih kvalifikacij, Kanada, 1976 do 1998 0 5
+% diploma s kolidžev in pridobljeni certifikati bakalavreat in prva profesionalna diploma magisterij doktorat
+Vir: http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapD5.xls
+3.6 RAZČLENITEV IN OPIS RAZLIČNIH TERCIARNIH STOPENJ IZOBRAŽEVANJA
+Izobraževalno vzgojni sistem je v Kanadi na terciarni ravni izobraževanja razdeljen na štiri različne stopnje: 1) univerze (Universities),
+2) univerzitetni kolidži (University Colleges), 3) komunalni kolidži (Community Colleges / Technical Institutes), 4) poklicni kolidži (Career Colleges) (glej www.infozee.com/canada/education.htm).
+3.6.1 UNIVERZE
+Delovanje in programi vsake univerze so predpisani v zakonih, univerze pa samostojno ustanavljajo province in teritoriji. Rezultat takšne ureditve je na eni strani raznolikost posameznih univerz, po drugi strani pa so sprejeta tudi določena splošna načela podobne organiziranosti, kar študentom omogoča lahek prehod med univerzitetnimi programi.
+
+Vpis na univerzo je mogoč po uspešno zaključenem dvanajst let trajajočem primarnem in sekundarnem izobraževanju. Izjema je le provinca Quebec, kjer se študenti na univerzo vpišejo po zaključku dveletnega splošnega in poklicnega izobraževanja (cegep).
+Izobraževalni programi na dodiplomski ravni trajajo od tri do pet let, pač odvisno od dosežene kvalifikacijske stopnje, ob njihovem uspešnem zaključku pa si vsak študent pridobi diplomo.
+Študijsko leto običajno traja od septembra do maja. Nekatere univerze imajo dva semestra, spet druge tri, nekaj pa je tudi takih, ki svoja predavanja omogočajo študentom tudi poleti. Število rednih študentov na posamezni univerzi variira od povprečja, ki je okoli 35.000 študentov na univerzo, pa do najmanj 1.000 študentov na univerzo (glej http://studyincanada.com/english/geninfo/univ.asp).
+Univerze v Kanadi so zlasti znane po tem, da svojim študentom ponujajo širok spekter raznovrstnih izobraževalnih programov ter da si je na njih mogoče pridobiti diplome vse od dodiplomske ravni pa vse do doktorata, možna pa je tudi pridobitev certifikatov in profesionalnih diplom. Šolnine so za študente različne, njihova višina je različna glede na provinco, izobraževalno institucijo ter na smer izobraževalnega programa.
+3.6.2 UNIVERZITETNI KOLIDŽI
+Univerzitetni kolidži združujejo tradicije kanadskih univerz in kolidžev ter svojim študentom ponujajo bodisi bolj akademsko usmerjene univerzitetne izobraževalne programe, bodisi bolj praktično usmerjene izobraževalne programe na ravni kolidža.
+Po uspešno zaključenih tovrstnih izobraževalnih programih si študentje lahko pridobijo univerzitetno diplomo, diplomo na ravni kolidža ali pa katerekoli druge certifikate, pač odvisno od izbrane smeri izobraževanja. Obstaja tudi vpis na kombinirane izobraževalne programe (''degree/diploma programs''), ki so vmes med univerzo in kolidžem.
+
+Kot del terciarne ravni kanadskega izobraževalnega sistema se univerzitetnih kolidžev drži sloves izjemno močne podpore svojim študentom, majhni razredi in močni študentski kampusi.
+3.6.3 KOMUNALNI KOLIDŽI
+Komunalni kolidži so zanimiva alternativa tradicionalnim izobraževalnim programom na univerzah. Njihova primarna funkcija je oblikovanje tovrstnih izobraževalnih programov, ki študentom nudijo takšna uporabna znanja, s katerimi se lahko po njihovem uspešnem zaključku uspešno odzovejo na potrebe trga delovne sile. Študentje se na komunalne kolidže vpisujejo po končani srednji šoli, poklicni srednji šoli, veliko je tudi takih, ki si s tovrstnim izobraževanjem nadgradijo svojo univerzitetno izobrazbo, vse več pa je takih ljudi, ki jim raznovrstni izobraževalni programi komunalnih kolidžev omogočajo proces vseživljenjskega učenja.
+Izobraževalni programi trajajo dve ali tri leta in v večji meri vsebujejo specifične, poklicno naravnane učne načrte, nekateri pa tudi splošne akademske predmete. Ti programi se nenehno spreminjajo z namenom, da bi vzpostavili čim boljši kontakt z ekonomskimi in socialnimi potrebami v različnih skupnostih. Šolnine so občutno nižje kot na univerzah, nekateri kolidži svojim rednim študentom celo ne zaračunavajo šolnin.
+V Kanadi vedno bolj narašča število tistih ljudi, ki se vpisujejo na komunalne kolidže s ciljem pridobiti si različne poklicne veščine, ki so uporabne pri njihovih zaposlitvah.
+Posebnost komunalnih kolidžev so poleg poklicno usmerjenih izobraževalnih programov še manjši razredi, izvajanje izobraževalnih programov tudi zunaj študentskih kampusov, veliko več laboratorijskih učilnic, interaktivni stil poučevanja ter bolj prilagodljivi vstopni pogoji.
+Trenutno v Kanadi lahko študentje izbirajo med 175 komunalnimi kolidži (glej http://studyincanada.com/english/geninfo/comc.asp), katerih glavna izobraževalna področja so zlasti umetnost, informacijska tehnologija, uporabna umetnost, varstvo okolja, turizem, kmetijstvo, pomorstvo ter rudarstvo.
+
+3.6.4 POKLICNI KOLIDŽI
+Poklicni kolidži so zasebne izobraževalne ustanove, katerih glavni namen je njihove udeležence po kratkem izobraževalnem programu kar najbolje pripraviti za vstop na trg delovne sile. Poudarek je na podajanju praktičnih veščin v okviru raznovrstnih izobraževalnih programov.
+Kljub temu, da so ti kolidži v zasebni lasti, so se dolžni ravnati po sprejetih zakonih in so provincijsko in teritorialno priznani in nadzorovani. Največ poklicnih kolidžev ponuja izobraževalne programe s področja poslovanja, računalništva in administrativnega poslovodenja (glej http://studyincanada.com/english/geninfo/edsys.asp).
+3.7 VKLJUČENOST ŠTUDENTOV V TERCIARNO RAVEN IZOBRAŽEVANJA
+Za terciarno raven izobraževanja se v Kanadi iz leta v leto odloča vse več ljudi. Tabela št.
+3.8 to nedvomno potrjuje. Tu vidimo, da se je vključenost študentov v terciarno raven izobraževanja v šestih letih, torej iz študijskega leta 1997-1998 pa do študijskega leta 2003-2004 povečala za dobrih 20 odstotkov, natančneje 20.4 odstotka. Tako je bilo v šolskem leta 2003-2004 v terciarno raven izobraževanja vpisanih 990.400 študentov.
+Opaziti je mogoče tudi porast deleža moških in žensk, ki se vpisujejo na terciarno raven izobraževanja. Delež žensk, vpisanih na terciarno raven izobraževanja, narašča hitreje kot delež moških. Razlika od študijskega leta 1997/1998 pa do 2003/2004 je tako pri ženskah 23.1 odstotka (glej tabelo 3.8). Prav tako se povečuje delež ljudi, ki obiskujejo redne (full-time) izobraževalne programe, in sicer je tu moč opaziti 28.4 odstotno porast, ter delež ljudi, ki se odločajo za občasen (part-time) študij, tu gre za 2.0 odstotni porast (glej tabelo 3.8).
+Tabela št. 3.8 tudi prikazuje, da je bilo na dodiplomski stopnji terciarnega izobraževanja v študijskem letu 1997-1998 vpisanih 633.000 študentov. Šest let kasneje pa že 776.900, kar pomeni 22.7 odstotkov več. Za podiplomski študij se je v študijskem letu 1997-1998 odločilo 112.700 študentov, v študijskem letu 2003-2004 pa 142.800, to je kar 26.7 odstotkov več kot šest let poprej.
+
+Tabela 3.8: Vključenost študentov v terciarno raven izobraževanja, 1997/98 do 2003/04, Kanada
+1997/98 2001/02 2002/03 2003/04 1997/98 do 2003/04
+sprememba v % dejanska sprememba
+VSI SKUPAJ 822,800 886,600 933,900 990,400 20.4 167,600 moški 358,400 376,900 397,200 418,400 16.7 60,000 ženske 464,400 509,600 536,600 571,700 23.1 107,300 reden študij 573,100 635,000 675,500 735,600 28.4 162,500 moški 260,400 276,100 294,200 318,400 22.3 58,000 ženske 312,700 358,900 381,300 417,100 33.4 104,400 občasen študij 249,700 251,600 258,400 254,800 2.0 5,100 moški 98,000 100,800 103,000 100,000 2.1 2,100 ženske 151,700 150,700 155,400 154,600 1.9 2,900
+DODIPLOMSKA RAVEN
+633,000 687,100 726,700 776,900 22.7 143,900 reden študij 481,100 528,400 563,800 616,100 28.1 135,000 moški 212,900 223,400 238,400 259,500 21.4 45,600 ženske 268,300 304,900 325,400 357,600 33.3 89,300 občasen študij 151,900 158,700 162,900 160,700 5.8 8,900 moški 57,300 61,900 63,200 61,400 7.2 4,100 ženske 94,600 96,900 99,600 99,300 5.0 4,700
+PODIPLOMSKA RAVEN
+112,700 124,700 135,100 142,800 26.7 30,100 reden študij 75,400 84,900 92,700 101,200 34.3 25,800 moški 39,800 43,100 47,300 51,800 30.1 12,000 ženske 35,600 41,800 45,400 49,400 38.9 13,800 občasen študij 37,300 39,900 42,400 41,500 11.3 4,200 moški 17,000 18,300 19,300 18,600 9.3 1,600 ženske 20,300 21,600 23,100 22,900 13.1 2,700 Vir: http://www.statcan.ca/Daily/English/051011/d051011b.htm
+
+4. OPREDELITEV KAKOVOSTNIH PRVIN IZOBRAŽEVALNO VZGOJNEGA SISTEMA KANADE
+V tem poglavju se bom osredotočila na določitev in podrobno obravnavo kakovostnih prvin izobraževalno vzgojnega sistema Kanade. Menim, da v nadaljevanju opisane prvine nedvomno dvigujejo raven kakovosti na vseh ravneh izobraževanja in s tem pripomorejo k mednarodnemu priznanju kanadskega šolskega sistema.
+4.1 OBSTOJ ZASEBNEGA IN JAVNEGA ŠOLSTVA
+Zasebno ter javno šolstvo igrata v izobraževalno vzgojnem sistemu Kanade pomembni vlogi. Njuna skupna lastnost je ta, da oba ponujata izobraževalne programe od vrtca pa vse do univerzitetnih programov. Prav dejstvo, da je izobraževanje v Kanadi pod okriljem vsake province posebej, pa posledično tako pripelje tudi do njunih razlik.
+4.1.1 Zasebno šolstvo
+Obstoj zasebnih šol najdemo v vsaki provinci in predstavljajo zanimivo alternativo za starše, ki za svoje otroke iščejo drugačne vrste izobraževanja. Zasebno šolstvo se dopolnjuje z javnim in zatorej izvaja tovrstne izobraževalne programe, ki se ujemajo s šolsko zakonodajo določene province oziroma teritorija. Vsaka zasebna šola je namreč zakonsko zavezana, da deluje v skladu s provincijskimi (teritorialnimi) standardi in predpisi. Sami programi in s tem tudi njihova stopnja zahtevnosti se tako bistveno ne razlikujejo od tistih, ki so določeni za javne šole. Na enak način, kot to počnejo javne šole, tudi vse zasebne šole v Kanadi podeljujejo ob uspešnem zaključku šolanja diplome, ki so javno priznane.
+Skupna značilnost vseh zasebnih šol v Kanadi je, da pobirajo šolnine, saj si s tem omogočajo svoj obstoj. Del sredstev pa si lahko pridobijo tudi s pomočjo subvencij provinc. Zasebne šole se od javnih razlikujejo tudi po svoji namembnosti. »Nekatere služijo posebnim verskim skupnostim, druge izvajajo programe, ki temeljijo na določenih pedagoških teorijah, kot na primer Montessori ali Waldorf« (Lipužič, 1995:83). Veliko je tudi zasebnih šol, kjer se posvečajo otrokom s posebnimi potrebami, to so bodisi otroci s čustvenimi motnjami, posebno telesno ali duševno prizadeti otroci, nadarjeni otroci in podobno.
+
+4.1.2 Javno šolstvo
+Tudi v javnem šolstvu lahko najdemo določene razlike, saj se tako kot zasebno razlikuje po provincah in teritorijih. Glavna razlika med javnim in zasebnim šolstvom je v tem, da je javno šolstvo brezplačno. Brezplačno je za vse tiste, ki so državljani Kanade in za prebivalce s stalnim prebivališčem v Kanadi. Učenci, vpisani v javne šole, imajo brezplačno šolanje po zakonu zagotovljeno do njihovega devetnajstega oziroma ponekod do enaindvajsetega leta. Posebnost je tu provinca Quebec, ki omogoča brezplačno redno šolanje tudi študentom na komunalnih kolidžih.
+4.1.3 Šolanje na domu
+Posebnost Kanade je nedvomno tudi šolanje na domu. Dovoljeno je v vsaki provinci in teritoriju povsod v Kanadi, vendar mora biti to seveda v skladu s predpisi določene province oziroma teritorija. Izobraževalni programi so zakonsko določeni in vsi starši, ki se odločijo svoje otroke vseskozi ali delno izobraževati na domu, morajo upoštevati splošne standarde ter učni načrt, ki ga določi vsaka provinca (teritorij) posebej.
+4.2 POMEMBNOST UČITELJSKEGA POKLICA
+Pojem ''vzgojitelj'' se v Kanadi ne nanaša samo na učitelje in učiteljice, temveč na vse zaposlene v javnem šolskem sistemu, ki si pridobijo vzgojiteljski certifikat kot posledico njihove zaposlitve. Zatorej so v ta pojem zajeti tudi vsi ravnatelji, podravnatelji, šolski svetovalci ipd. V šolskem letu 2001/02 je bili v Kanadi zaposlenih okoli 310 000 vzgojiteljev (glej http://www.statcan.ca/english/research/81-595-MIE/81-595- MIE2004022.pdf).
+Kvalitetna izobrazba učiteljev ter njihovo sprotno usposabljanje sta v Kanadi precejšnjega pomena. Za pridobitev učiteljskega poklica je potrebna univerzitetna izobrazba, poklicno izpopolnjevanje pa poteka v različnih tečajih, ki jih organizirajo bodisi ministrstva za izobraževanje ali pa šolski okraji, ponekod pa tudi fakultete. Pomen poklicnih izpopolnjevanj je izredno velik, le-ta so za učitelje organizirane enkrat mesečno in so za njih obvezne, za šolo obvezujoče otroke pa je takrat šole prost dan.
+
+4.3 MAJHNO ŠTEVILO UČENCEV V RAZREDIH
+V zadnjem desetletju se za učiteljski poklic odloča vedno več študentov in z leti se tudi povečuje zaposlovanje učiteljev. Z večanjem števila učiteljev na šolah se tako zmanjšuje razmerje učitelj-učenci in s tem se povečuje kvaliteta izobraževalnega procesa (glej Priloga št. 3). Zato si je zanimivo pogledati graf št. 4.1, ki prikazuje razmerje učitelj- učenec in sicer koliko učencev pride na enega učitelja. Na nacionalni ravni je bilo v šolskem letu 2001-2002 to razmerje šestnajst učencev na enega učitelja. Največ učencev na učitelja imajo v provinci Alberta, to je sedemnajst učencev na učitelja, najmanj pa v teritoriju Yukon in sicer dvanajst učencev na učitelja.
+Graf 4.1: Razmerje učitelj-učenec, po provincah in teritorijih, 2002-2003 2002/2003 0 2 4 6 8
+KA NA
+DA N.
+P.
+E.
+N.
+S.
+N.
+B.
+Qu e.
+On t.
+Ma n.
+Sa sk
+Alt a.
+B.
+C. Y.
+T.
+N.
+W
+.T
+Nv t. št
+.u ce nc ev
+n a uč ite lja
+*Podatki za Kanado in provinco Ontario (Ont.) so iz 2001/2002 Vir: http://www.statcan.ca/english/research/81-595-MIE/81-595-MIE2004022.pdf Če si to razmerje ogledamo še bolj podrobno, in sicer po ravneh izobraževanja, nam statistični podatki iz šolskega leta 2000/2001 kažejo sledeča razmerja: 18 učencev na učitelja na predšolski stopnji, 17 učencev na učitelja na primarni ravni izobraževanja, 18 učencev na učitelja na sekundarni ravni izobraževanja ter 9 učencev na učitelja na terciarni ravni izobraževanja (glej http://www.uis.unesco.org/TEMPLATE/html/ Exceltables/education/ptr.xls).
+
+4.4 NARAŠČAJOČA VLOGA INFORMACIJSKO KOMUNIKACIJSKE TEHNOLOGIJE V ŠOLAH
+Uporaba informacijsko komunikacijske tehnologije (v nadaljevanju IKT) v zadnjem desetletju povsod po svetu narašča. Danes tako govorimo o računalniškem opismenjevanju ljudi, ki zajema usposabljanje učiteljev in učencev za uporabo IKT, zagotavljanje možnosti za raziskovalno in razvojno delo, opremljanje šol s sodobno računalniško in informacijsko opremo ipd. (glej Priloga št. 2). Eden izmed kazalcev naraščajoče vloge IKT v šolah je nedvomno tudi razmerje, ki prikazuje koliko učencev uporablja računalnike. Tudi v Kanadi na tem področju ne zaostajajo. To jasno prikazuje graf št. 4.2, kjer lahko vidimo, da je Kanada v primerjavi z nekaterimi ostalimi državami s 7 učenci na računalnik v samem vrhu te kategorije.
+Graf 4.2: Povprečno število učencev na šolski računalnik, Kanada in ostale države, 2000 0 5
+ZD A
+Av str ali ja
+KA NA DA
+Ve lik a
+Br ita nij a
+Fi ns ka Šv ed sk a
+Fr an cij a
+Šv ica Ja po ns ka Be lgi ja
+Ita lija Ne m čij a
+d rža ve
+O
+EC D
+(p ov pr eč je)ra zm er je
+: š tu de nt je
+/ra ču na ln ik i
+Vir: http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC5.xls Spodnji graf št. 4.3. pa nam prikaže ta razmerja tudi v posameznih provincah in teritorijih. Tu zaseda provinca Manitoba s 5 učenci na računalnik najboljši položaj, provinca Quebec pa z 10 učenci na računalnik zaseda zadnje mesto na tej lestvici.
+
+Graf 4.3: Povprečno število učencev na šolski računalnik, province in teritoriji v Kanadi, 2000 0 2 4 6 8
+M an ito ba
+A lb er ta
+O nt ar io
+B rit is h
+C ol um bi a
+N ov a
+S co tia
+N ew fo un dl an d an d
+La br ad or
+N ew
+B ru ns w ic k
+S as ka tc he w an
+P rin ce
+E dw ar d
+Is la nd Q ue be c ra zm er je
+: š tu de nt je
+/r ač un al ni ki
+Vir: http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC5.xls
+4.5 SPODBUJANJE VSEŽIVLJENJSKEGA UČENJA
+Tudi v Kanadi se zelo dobro zavedajo pomembnosti vseživljenjskega učenja. Začetno izobraževanje predstavlja vse bolj le minimalno učno platformo, zato je spodbujanje tistih, ki že imajo zaposlitev, za vključevanje v nadaljnje oblike izobraževanja prednostna naloga zvezne vlade, provinc in teritorijev.
+V prid temu je zanimiv statističen podatek, da je v letu 2002 4,8 milijonov Kanadčanov, starih med 25 in 64 let, sodelovalo v različnih oblikah formalnih ali na zaposlitev se navezujočih izobraževalnih programih. To predstavlja kar 35 odstotkov celotnega aktivnega prebivalstva. Za pridobitev dodatnih znanj v večji meri velja, da višjo ko ima neka oseba že pridobljeno izobrazbo, bolj verjetno je, da si bo ta oseba pridobila še kakšno novo znanje. Tako je v letu 2002 52 odstotkov ljudi, ki so imeli že zaključeno katerokoli obliko terciarne ravni izobraževanja, sodelovalo še v kakšnem izobraževalnem programu. 38 odstotkov je bilo takih, ki so se za to odločili z dokončanim kolidžem, 18 odstotkov pa se je za pridobitev dodatnih znanj odločilo s predhodno zaključeno sekundarno stopnjo izobraževanja (glej http://www.statcan.ca/english/freepub/81-004- XIE/200412/aets.htm).
+
+4.6 SPODBUJANJE RAZISKAV IN RAZVOJA
+Danes se povsod po svetu zavedamo izredne pomembnosti znanja in ustvarjalnosti.
+Slednja se močno navezujeta na raziskave in razvoj (v nadaljevanju R&R), katerima dajo tudi v Kanadi poseben pomen. Ob zavedanju, da R&R ter raznovrstne inovacije, ki jih slednja prinašata s seboj, nenehno izboljšujejo kvaliteto življenja, Kanada temu posveča veliko pozornost. Tako zvezna vlada kot tudi province in teritoriji so si tu enotni: skupno hočejo Kanado popeljati med vodilnih pet OECD držav na področju R&R do leta 2010.
+Glavni akterji, ki sodelujejo pri procesu R&R v Kanadi, so podjetja, zvezna vlada ter provincijske vlade, terciarni sektor (univerze, kolidži) in privatni neprofitni sektor. Še posebej pomembno vlogo imajo tukaj univerze, na katerih se izvajajo številne sistematične in znanstveno orientirane raziskave, ki privabljajo ter spodbujajo študente k tovrstnemu delu (glej Education Indicators of Canada).
+Spodnji graf št. 4.4 nazorno prikazuje kolikšen delež BDP namenja R&R vsaka provinca (teritorij) posebej. Tu prednjačita provinci Quebec s 2.3% in Ontario z 2.1%. Z izjemo province New Brunswick in vseh treh teritorijev, vse ostale province namenjajo več kot
+1% BDP R&R.
+Graf 4.4: Celotni izdatki za R&R kot delež BDP, Kanada, province in teritoriji, 2000 0
+KA NA
+DA N.
+P.E
+N.
+S.
+N.
+B.
+Qu e.
+On t.
+Ma n.
+Sa sk
+Alt a.
+B.C
+Y.T
+., N
+.W
+.T.
+, N vt.
+B D P
+Vir: http://www.cesc.ca/pceip/PCEIP2003en.pdf
+
+Naslednja tabela 4.5. pa nam pokaže, koliko pri procesih R&R delujejo malo prej omenjeni sodelujoči akterji. Kot vidimo v Kanadi največ sredstev za R&R namenijo podjetja (58.3 %), sledi pa jim terciarni sektor (29.5%). Podjetja v provincah Ontario in Quebec namenjajo za R&R največ, terciarni sektor s svojimi univerzami in kolidži pa R&R najbolj spodbuja v provincah Saskatchewan (61.8%) ter Newfoundland in Labradorju (61.1%).
+Tabela 4.5: Delež izdatkov za R&R po sektorjih, Kanada, province in teritoriji, 2000
+zvezna vlada provincijske in teritorialne vlade podjetja terciarni sektor privatni neprofitni sektor
+KANADA 10.6 1.3 58.3 29.5 0.3
+Newfoundland in Labrador
+22.0 3.7 13.2 61.1 0.0 Prince Edward Island
+Nova Scotia 24.5 1.7 17.8 55.5 0.6 New Brunswick 17.6 2.0 21.6 57.5 1.3 Quebec 6.8 1.1 60.7 31.3 0.0 Ontario 3.3 0.8 71.0 24.9 0.1 Manitoba 17.1 0.7 30.9 46.8 4.5 Saskatchewan 16.8 2.7 18.7 61.8 0.0 Alberta 9.0 5.8 41.3 42.6 1.3 British Columbia 7.4 2.1 56.7 33.1 0.7 Yukon, Northwest Territories in Nunavut
+Vir: http://www.cesc.ca/pceip/PCEIP2003en.pdf
+
+5. URESNIČEVANJE ZAGOTAVLJANJA KAKOVOSTI V EVROPSKEM VISOKOŠOLSKEM SISTEMU
+V moji diplomski nalogi je vseskozi pomembna tema kakovost v izobraževanju, zato se bom v tem poglavju bolj osredotočila ravno na to temo. Poudarek bo zlasti na doseganju kakovosti na terciarni ravni izobraževanja ter njenim zagotavljanjem v evropskem visokošolskem sistemu in v Sloveniji.
+5.1 BOLONJSKI PROCES KOT POSPEŠEVALEC ZAGOTAVLJANJA KAKOVOSTI V EVROPSKEM ŠOLSKEM SISTEMU
+Danes se v evropskem prostoru tako s strani političnega in akademskega sveta, kot tudi s strani velike večine prebivalcev EU, poraja zahteva po bolj celoviti in v prihodnost zazrti Evropi, v kateri bi se nadgrajevale in povezovale intelektualne, kulturne, socialne, znanstvene ter tehnološke razsežnosti.
+Evropske visokošolske institucije si prizadevajo ustvariti tak evropski visokošolski prostor, v katerem bi neodvisnost in avtonomija univerz zagotavljali, da bi se sistemi visokega šolstva in raziskovanja nenehno prilagajali spreminjajočim se potrebam, družbenim zahtevam ter novim znanstvenim spoznanjem. V takem prostoru se lahko večja povezljivost in primerljivost visokošolskih sistemov lahko dosežeta le z nenehnimi vzpodbudami. Prav ena izmed tovrstnih vzpodbud je nedvomno nam že nekaj let poznan Bolonjski proces ter z njim povezan eden najpomembnejših dejavnikov tega procesa – to je kakovost.
+Za zagotavljanje čim bolj kakovostnega evropskega visokošolskega sistema je v Evropi zlasti pomembna bolonjska deklaracija, to je skupna deklaracija evropskih ministrov za izobraževanje iz 29 držav, med njimi tudi Slovenije, podpisana 19. junija 1999 v Bologni.
+Še bolj kot pri prejšnjih deklaracijah se poudarja Evropa znanja, ki se smatra kot nezamenljiv dejavnik socialnega in človeškega razvoja ter kot neizogibna sestavina pri utrjevanju in obogatitvi evropskega državljanstva.
+
+Bolonjski proces je makro naravnan sklop odločitev in akcij, ki naj bi v prihodnje opravičile svojo nujnost. Proces ni cilj sam po sebi, ampak je sredstvo za doseganje drugih ciljev, ki so relevantni za mnoge akterje družbenega življenja, tako na področju gospodarstva kot tudi na področju negospodarstva. Tako so cilji bolonjskega procesa iz Berlinskega komunikeja naslednji: 1. Zagotavljanje kakovosti visokega šolstva.
+2. Sprejetje dvo- oziroma tristopenjskega sistema študija.
+3. Pospeševanje mobilnosti študentov, akademskega in administrativnega osebja.
+4. Vzpostavitev kreditnega sistema (ECTS) za vrednotenja študijskih obveznosti.
+5. Priznavanje stopenj: sprejem sistema lahko prepoznavnih in primerljivih stopenj.
+6. Aktivna udeležba visokošolskih zavodov, učiteljev in študentov v bolonjskem procesu in sodelovanje študentov pri upravljanju visokega šolstva.
+7. Pospeševanje evropske dimenzije v visokem šolstvu.
+8. Pospeševanje privlačnosti evropskega visokošolskega prostora.
+9. Vseživljenjsko učenje.
+10. Evropski visokošolski prostor in evropski raziskovalni prostor – dva stebra na znanju temelječe družbe.
+(glej http://www.mvzt.gov.si/index.php?id=455#501)
+Pri vzpostavitvi enotnega evropskega visokošolskega prostora in uveljavitvi evropskega sistema visokega šolstva po vsem svetu so pomembni predvsem sledeči cilji:
+• Sprejetje sistema zlahka prepoznavnih in primerljivih diplomskih stopenj, tudi z obrazcem `Priloga k diplomi', da bi pospešili zaposlovanje evropskih državljanov ter mednarodno konkurenčnost evropskega sistema visokega šolstva.
+• Sprejetje sistema z dvema glavnima študijskima stopnjama, dodiplomsko in podiplomsko. Dostop v drugo stopnjo zahteva uspešno dokončanje prve, ta traja najmanj tri leta. Diploma, podeljena po prvi stopnji, je za evropski trg dela tudi relevantna kot ustrezna raven kvalifikacije. Druga stopnja vodi k magisteriju in/ali doktoratu znanosti, tako kot v mnogih evropskih državah.
+
+• Vzpostavitev kreditnega sistema - kot je ECTS - kot ustreznega sredstva za omogočanje čim širše mobilnosti študentov. Krediti bi bili lahko pridobljeni tudi zunaj visokega šolstva, tudi z vseživljenjskim izobraževanjem, če jih le priznajo univerze, ki študente sprejemajo.
+• Pospeševanje mobilnosti, tako da se za učinkovito uresničevanje prostega gibanja odpravljajo ovire, predvsem pri:
+- dostopu do študija, možnostih za usposabljanje ter s tem povezanimi storitvami, kadar gre za študente,
+- priznavanju in vrednotenju obdobij raziskovanja, poučevanja in usposabljanja v Evropi, kadar gre za učitelje, raziskovalce in administrativno osebje, ne da bi vnaprej določali njihove zakonite pravice.
+• Pospeševanje evropskega sodelovanja pri zagotavljanju kakovosti, tako da se razvijajo primerljiva merila in metodologije.
+• Pospeševanje potrebnih evropskih razsežnosti v visokem šolstvu, še zlasti v zvezi s kurikularnim razvojem, medinstitucionalnim sodelovanjem, mobilnostnimi načrti ter integriranimi programi študija, usposabljanja in raziskovanja.
+(glej http://www.bologna-bergen2005.no/Docs/00-Main_doc/990719BOLOGNA_
+DECLARATION.PDF)
+Zgoraj omenjene cilje države podpisnice bolonjske deklaracije v evropskem visokošolskem prostoru že od podpisa dalje izvajajo in se tako tudi ob nadaljnji implementaciji teh ciljev v prihodnosti prizadevajo vseskozi zagotavljati čim boljšo kakovost v izobraževanju.
+Zagotavljanje kakovosti je pravzaprav eden najbolj izpostavljenih elementov z bolonjskim procesom nastajajočega Evropskega visokošolskega prostora, ki odpira nove in nove probleme. Evropska podoba je na tem področju nadvse raznolika, nacionalni koncepti in postopki se med seboj znatno razlikujejo, saj gre za pomembno vprašanje, kaj kakovost v visokem šolstvu dejansko predstavlja. Bolonjski proces prav zato predpostavlja, da odgovornost za zagotavljanje kakovosti v visokem šolstvu pripada vsaki posamezni visokošolski ustanovi.
+
+5.2 SLOVENIJA IN BOLONJSKI PROCES
+Tudi Slovenija si kot podpisnica bolonjske deklaracije prizadeva zagotoviti čim boljšo kakovost svojega visokošolskega sistema. Začetki zagotavljanja kakovosti segajo še pred podpisom te deklaracije, in sicer v leto 1993, ko je bilo slovensko visoko šolstvo nazadnje temeljito prenovljeno z uveljavitvijo Zakona o visokem šolstvu (Uradni list RS, št. 67/93), katerega glavni namen je bila uresničitev sledečih ciljev:
+• vzpostavitev sodobnega, evropsko primerljivega in skladnega visokošolskega sistema, v katerem bo mogoče uveljavljati mednarodne standarde ter dvosmerni pretok študentov, visokošolskih učiteljev in vrhunskega znanja,
+• možnost za oblikovanje dinamičnega sistema, ki bo vzpodbujal kakovost,
+• širitev dostopa do visokega šolstva za redni in izredni študij,
+• večanje števila študentov in diplomantov,
+• prenova podiplomskega študija,
+• sistemsko povezano raziskovalno in pedagoško delo,
+• čim tesnejše sodelovanje visokega šolstva in gospodarstva, lokalnih skupnosti in javnosti.
+Štiri mesece po podpisu Bolonjske deklaracije je Državni zbor Republike Slovenije (21.10.1999) prvič obravnaval predlog nacionalnega programa visokega šolstva.
+Nacionalni program je Državni zbor nato po treh branjih dokončno sprejel na seji dne 26.2.2002 (Uradni list RS, št. 20/02). Pri njegovi pripravi so bile upoštevane tudi spremembe in dopolnitve iz novele Zakona o visokem šolstvu (Zakon o spremembah in dopolnitvah zakona o visokem šolstvu - Uradni list RS, št 99/99).
+Nacionalni program visokega šolstva ima kopico strateških ciljev. Namen vseh je zagotavljati in izboljševati kakovost na terciarni ravni izobraževanja v Sloveniji. Ti cilji so sledeči:
+1. povečati delež zaposlenega prebivalstva z višjo, visoko oziroma podiplomsko izobrazbo na 25% leta 2005;
+
+2. povečati delež prebivalstva, zlasti mladih generacij, v terciarnem izobraževanju, tako da bomo imeli v tem desetletju v Republiki Sloveniji okrog 35 študentov na 1000 prebivalcev in da se bo v različne oblike terciarnega izobraževanja vpisalo 50% vsakokratne generacije;
+3. povečati število vpisnih mest v celotnem terciarnem izobraževanju in postopno odpravljati omejitev vpisa pri večini študijskih programov; postopno sofinancirati izredni študij, pri tem pa šolnine ni mogoče predpisati za redni študij po dodiplomskih študijskih programih;
+4. vsaj podvojiti število študentov in diplomantov podiplomskega študija, zagotoviti sofinanciranje sistemsko prenovljenih podiplomskih študijskih programov, ki povezujejo discipline, visokošolske in raziskovalne zavode ter druge institucije, so kakovostni in omogočajo sodelovanje v mednarodnih projektih, pa tudi s preoblikovanjem sedanjih dodiplomskih in podiplomskih študijskih programov;
+5. zagotoviti razmere za uspešno delovanje integrirane, avtonomne in do slovenske družbe odgovorne univerze, pa tudi samostojnih visokošolskih zavodov, ter njihov nadaljnji razvoj ter omogočiti nastanek decentralizirane mreže visokega šolstva; 6. izboljšati uspešnost in učinkovitost dodiplomskega in podiplomskega študija, tako z ustreznimi vlaganji v osebje, opremo in prostor visokošolskih zavodov kot s posodobitvijo delovanja (integriranost raziskovalnega in pedagoškega dela, izboljševanje učiteljskih pedagoških sposobnosti, vsebinske novosti, uvedba kreditnega sistema, študij na daljavo ipd.) in s sistemskim (samo)preverjanjem kakovosti študijskega dela na visokošolskih zavodih, pri katerem enakopravno sodelujejo tudi študentje; 7. spodbujati sodelovanje med univerzami in visokošolskimi zavodi ter med gospodarstvom in neposrednim okoljem; spodbujati financiranje dejavnosti visokega šolstva iz več virov, tudi neproračunskih;
+8. izboljšati uspešnost in učinkovitost študija z vlaganji v različne oblike univerzitetnega športa;
+9. izboljšati in posodobiti štipendiranje ter študentski standard, še zlasti zmogljivosti študentskih domov;
+
+10. spodbujati mednarodno sodelovanje visokošolskih zavodov, še zlasti v specializiranih projektih Evropske unije (npr. SOCRATES – ERASMUS) in regionalnih programih (npr. CEEPUS) ter pri nastajanju evropskega visokošolskega prostora, skladno z deklaracijo evropskih ministrov za izobraževanje (Bologna, junij 1999) z naslovom “Evropski visokošolski prostor”.
+(glej http://www.uradni-list.si/1/objava.jsp?urlid=200220&stevilka=853 ) Če poskušamo iz zgoraj opisanih ciljev ugotoviti, kakšne učinke bodo nekateri izmed njih imeli, v kolikor bodo doseženi, na kakovost do- in podiplomskega študija, lahko pridemo do sledečih zaključkov:
+- Prvi štirje zgoraj omenjeni cilji so zgolj kvantitativno naravnani. Če si podrobneje ogledamo prvi cilj, lahko ugotovimo, da smo bili že leta 2002 kar blizu realizaciji tega cilja. Podatek o izobrazbeni strukturi zaposlenih oseb nam namreč pove, da je bil delež zaposlenih z visoko izobrazbo leta 2002 13,3%, delež zaposlenih z višjo izobrazbo pa istega leta 7,8%, kar je skupno 21,1% (glej http://www.see- educoop.net/education_in/pdf/ana-trends-struct-stud-grad-slo-slv-t01.pdf).
+- Kar zadeva tretji in četrti cilj, ki govorita o povečevanju števila vpisnih mest v celotnem terciarnem izobraževanju ter o podvojiti števila študentov in diplomantov podiplomskega študija, pa sem mnenja, da povečanje števila študentov ne more pozitivno vplivati na kakovost izobraževalnih programov, saj se pojma kakovost in večje število študentov medsebojno izključujeta.
+- Pri petem cilju, ki govori o nastanku decentralizirane mreže visokega šolstva, lahko potrdimo, da se mreža visokega šolstva v Sloveniji že decentralizira. Primer tega je nedavno ustanovljena Primorska Univerza. Poleg Ljubljanske Univerze imamo še Univerzo v Mariboru, kar za tako majhen prostor kot ga Slovenija pokriva ni malo.
+Decentralizacija je pozitiven in dobrodošel dejavnik, ki vpliva na kakovost izobraževanja, saj večje število univerz pomeni vzpostavitev konkurence na trgu ponudbe izobraževalnih storitev. Prav ta pa zagotavlja višjo kakovost storitev, s katerimi lahko dvignemo splošno kvaliteto izobraževalnih programov in hkrati število zainteresiranih študentov, ki so v prvi vrsti pogoj za preživetje univerze.
+
+- Šesti cilj je eden od pomembnejših dejavnikov kakovosti, ki se že danes izvaja v slovenskem visokošolskem prostoru. Ob še večjih vlaganjih v osebje, opremo in prostore visokošolskih zavodov pa je implementacija tega cilja še bolj realna, saj je kakovost neprekinjen proces, ki ga je potrebno vseskozi nadgrajevati. Pomembna novost pri tem cilju je participacija študentov pri oblikovanju izobraževalnega sistema, za kar menim, da lahko zelo dobro vpliva na višjo kakovost izobraževanja. Prav študenti so namreč tisti, ki najbolj potrebujejo kakovosten program, ki generira zaposlitvene kompetence.
+- V sedmem cilju, kjer se spodbuja sodelovanje med univerzami in visokošolskimi zavodi ter med gospodarstvom in neposrednim okoljem, je potrebno poudariti, da so težnje po zlitju izobraževalnega sistema in gospodarskih dejavnosti že zelo dolgo prisotne. Danes je jasno, da podjetja vse bolj stremijo k konceptu učeče se organizacije, saj le ta predstavlja nenehno prilagajanje in rast, ki sta potrebni da je organizacija lahko konkurenčna na globalnem trgu. To pa posledično pomeni zaposlovanje takih ljudi, ki so kompetentni in sposobni za različne delovne naloge. V kolikor bo ta cilj v prihodnje dosežen se lahko nadejamo, da bodo študenti ob vstopu na trg delovne sile bolj zaposljivi, saj bodo rezultat harmoničnega sodelovanja med univerzami in gospodarstvom. Večja in boljša zaposljivost študentov je namreč tudi eden od poglavitnih posledic kakovostnega izobraževanja.
+- Če si za konec pogledamo še zadnji, deseti cilj, to je spodbujanje mednarodnega sodelovanja visokošolskih zavodov, lahko takoj vidimo, da je glavni cilj obeh programov (torej programov SOCRATES – ERASMUS ter programov CEEPUS) izboljšati kakovost izobraževanja otrok, mladine in odraslih z močnejšim medsebojnim sodelovanjem v Evropi ter tako tudi izboljšati dostopnost do izobrazbe. Slovenija aktivno sodeluje v obeh programih, kar nakazuje na kakovost študija in mobilnost študentov tudi že v času nastajanja Bolonjskega procesa. Ta proces pa tovrstno kakovost in mobilnost lahko le še nadgradi.
+
+5.2.1 KRATEK PREGLED URESNIČEVANJA CILJEV BOLONJSKEGA PROCESA V SLOVENIJI
+Vse od podpisa bolonjske deklaracije dalje se Slovenija s sprejetjem različnih zakonov, odlokov ter meril trudi kar v največji meri uresničiti zadane cilje bolonjskega procesa.
+Pomembnejši dogodki so:
+- december 2003: Uredba o javnem financiranju visokošolskih in drugih zavodov, članic univerz, od leta 2004 do leta 2008 (ta uredba določa zlasti področje povečane finančne avtonomije univerz, spodbuja prestrukturiranje in racionalizacijo poslovanja in študijskih programov ter spodbuja spremljanje rezultatov in kakovosti),
+- maj 2004: Zakon o spremembah in dopolnitvah Zakona o visokem šolstvu (Novela Zakona o visokem šolstvu izpostavlja tri glavne naloge: 1- sprejetje sistema visokošolskega izobraževanja z dvema oz. tremi glavnimi stopnjami, kjer se bodo novi študijski programi začeli izvajati najpozneje do študijskega leta 2009/10; 2- uveljavitev sistema lahko primerljivih stopenj, kjer sta pomembni zlasti izvajanje Lizbonske konvencije o priznavanju ter izdajanje Priloge k diplomi; in 3- uveljavitev nacionalnega sistema za zagotavljanje kakovosti, katerega nosilca sta Svet Republike Slovenije za visoko šolstvo ter Javna agencija za visoko šolstvo),
+- junij 2004: Zakon o priznavanju in vrednotenju izobraževanja - začel veljati 21.1.2005 (ta zakon loči med priznavanjem izobraževanja za namen nadaljnjega izobraževanja ter priznavanjem izobraževanja za namen zaposlitve),
+- julij 2004: Zakon o višjem strokovnem izobraževanju (ta zakon se ukvarja z višjim strokovnim izobraževanjem na področju njegove preglednosti, akreditacijskih postopkov ter vrednotenja študijskih programov),
+- julij 2004: Odloki o spremembah in dopolnitvah Odloka o preoblikovanju Univerze v Ljubljani, Odlok o preoblikovanju Univerze v Mariboru in Odloka o ustanovitvi Univerze na Primorskem (ti odloki govorijo o spremembah sestave upravnih odborov univerz),
+- september 2004: Merila za akreditacijo visokošolskih zavodov in študijskih programov Sveta RS za visoko šolstvo,
+- oktober 2004: Merila za spremljanje, ugotavljanje in zagotavljanje kakovosti visokošolskih zavodov, študijskih programov ter znanstvenoraziskovalnega, umetniškega in strokovnega dela Nacionalne komisije za kvaliteto visokega šolstva,
+
+- november 2004: Merila za kreditno vrednotenje študijskih programov po ECTS Sveta RS za visoko šolstvo,
+- december 2004: sprejeti prvi študijski programi na Svetu RS za visoko šolstvo (sklep),
+- februar 2005: vlada sprejme sklep o preoblikovanju Sveta RS za visoko šolstvo (glej http://www.mvzt.gov.si/index.php?id=455#501).
+5.2.2 ZAGOTAVLJANJE IN IZBOLJŠEVANJE KAKOVOSTI NA TERCIARNI RAVNI IZOBRAŽEVANJA V SLOVENIJI
+V moji diplomski nalogi je rdeča nit vseskozi kakovost v izobraževanju. V tem petem poglavju sem na začetku najprej bolj splošno opisala bolonjski proces, kakšni so njegovi cilji in kako se z njegovo uresničitvijo ukvarjajo povsod v Evropi in v Sloveniji. Sedaj si je potrebno pogledati še, kakšna je pri nas zakonska podlaga za zagotavljanje kakovosti na visokošolskem področju.
+Kot prvo je tu najprej pomembno opisati, kaj je o zagotavljanju in izboljševanju kakovosti na terciarni ravni izobraževanja zapisano v Nacionalnem programu visokega šolstva Republike Slovenije (v nadaljevanju NPVS), sprejetim 26.2.2002 ter objavljenim v Uradnem listu št. 20/02. Tako so v njegovem četrtem poglavju ''Dejavnosti, potrebne za razvoj in učinkovito delo v visokem šolstvu'' navedena sledeča merila, s pomočjo katerih se bo ob njihovi implementaciji zagotavljala kakovost:
+- za nadaljnji razvoj visokega šolstva je bistvenega pomena ugotavljanje, spremljanje in zagotavljanje kakovosti izobraževalnega, znanstvenoraziskovalnega, umetniškega in drugega strokovnega dela;
+- razvoj visokošolskega izobraževanja, zlasti doseganje bolj uravnoteženega vpisa med različnimi študijskimi področji, mora ob študijskem svetovanju spremljati aktivna štipendijska politika;
+- s sistemskimi ukrepi je treba olajšati študij študentov s posebnimi potrebami;
+- ob skrbi za dodiplomske in podiplomske študente je treba nameniti posebno pozornost obnavljanju kadrovske zasedbe na visokošolskih zavodih (asistenti, docenti) ter ustreznemu številu visokošolskih učiteljev in sodelavcev ter znanstvenih delavcev za uresničevanje drugih ciljev nacionalnega programa;
+
+- postavljeni cilji, še zlasti večje število študentov, zahteva nadaljnji razvoj materialnih razmer za izvajanje visokošolske dejavnosti;
+- poleg izboljševanja prostorskih razmer visokošolskih zavodov so nujno potrebne tudi razširitve zmogljivosti študentskih domov z novimi poslopji, adaptacijami in s pridobivanjem koncesionarjev, tako da bi leta 2005 tretjina vseh rednih študentov bivala v študentskih domovih;
+- vključevanje v mednarodno sodelovanje in v mednarodno delitev dela v visokem šolstvu postaja v sodobnih globalizacijskih procesih neizogibno, pri manjših visokošolskih sistemih pa spodbudno vpliva tudi na splošno kakovost njihovega delovanja in inovativnost, ki jo v večjih sistemih zagotavlja že razvejenost domačih institucij;
+- zdravstvena oskrba študentov je zagotovljena na podlagi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju (Uradni list RS, št. 9/92, 13/93 – ZP, 9/96, 29/98, 6/99, 56/99 – ZVZD in 99/01);
+- interesne dejavnosti študentov so pomembno dopolnilo k študijskemu delu študentov (glej http://www.uradni-list.si/1/objava.jsp?urlid=200220&stevilka=853).
+NPVS tako s pravkar omenjenimi pristopi nudi kakovostno izobraževanje na terciarni ravni, vendar je ta cilj uresničljiv le ob tesnem in uspešnem sodelovanju različnih akterjev, to so: Vlada RS, Ministrstvo za visoko šolstvo, znanost in tehnologijo, visokošolski zavodi, občine ter študenti.
+V Sloveniji imata danes pri zagotavljanju kakovosti zelo pomembno vlogo zlasti Svet Republike Slovenije za visoko šolstvo ter Javna agencija za visoko šolstvo. Naloge obeh so zapisane v Zakonu o spremembah in dopolnitvah Zakona o visokem šolstvu (Uradni list RS, št. 63/04).
+
+Naloge Sveta Republike Slovenije za visoko šolstvo, zapisane v 26.členu so:
+– v sodelovanju z visokošolskimi zavodi ter ministrstvom, pristojnim za visoko šolstvo, pripravi strokovna izhodišča za oblikovanje nacionalnega programa visokega šolstva,
+– svetuje Vladi Republike Slovenije pri pripravi in spreminjanju visokošolske zakonodaje,
+– svetuje Vladi Republike Slovenije pri načrtovanju razvoja visokega šolstva,
+– določi merila za akreditacijo in ponovno akreditacijo visokošolskih zavodov in študijskih programov,
+– določi merila za oblikovanje in akreditacijo skupnih študijskih programov, pri čemer upošteva načela o vzpostavljanju evropskega visokošolskega prostora in druga mednarodna načela in priporočila za oblikovanje teh programov,
+– določi merila za kreditno ovrednotenje študijskih programov po ECTS in opredelitev minimalnega deleža izbirnosti v študijskih programih,
+– določi merila za prehode med študijskimi programi,
+– določi merila za priznavanje znanja in sposobnosti, pridobljenih pred vpisom v program,
+– daje strokovno mnenje o izpolnjevanju pogojev za ustanovitev oziroma preoblikovanje visokošolskega zavoda,
+– daje soglasje k študijskim programom,
+– daje ponovno soglasje k študijskim programom najmanj vsakih sedem let, pri čemer predvsem upošteva ugotovitve iz samoevalvacijskih in zunanjih evalvacijskih poročil,
+– daje mnenje k merilom visokošolskih zavodov za izvolitev v nazive visokošolskih učiteljev in znanstvenih delavcev,
+– samostojnim visokošolskim zavodom daje soglasja k izvolitvi visokošolskih učiteljev, znanstvenih delavcev in visokošolskih sodelavcev v naziv,
+– sodeluje z institucijami za akreditacijo iz tujine in njihovimi strokovnjaki,
+– daje mnenje k predpisu iz 75. člena tega zakona,
+– opravlja druge naloge v skladu z zakonom in aktom o ustanovitvi (glej http://www.uradni-list.si/1/objava.jsp?urlid=200463&stevilka=2875 ).
+
+Vlada Republike Slovenije je na seji dne 17.2.2005 imenovala nov Svet RS za visoko šolstvo. Svet je sestavljen tako, da so v njem zastopana vsa študijska in znanstveno- raziskovalna področja, za posamezna področja svojega delovanja pa Svet oblikuje ločene komisije in ekspertne skupine. »Strokovne naloge za Svet Republike Slovenije za visoko šolstvo opravlja javna agencija za visoko šolstvo« (28.člen ZViS-D, http://www.uradni- list.si/1/objava.jsp?urlid=200463&stevilka=2875, 16.01.2005).
+Javna agencija za visoko šolstvo je bila ustanovljena z razlogom, da skrbi tako za razvojno in svetovalno delo v visokem šolstvu kot tudi za zunanjo evalvacijo visokega šolstva. ZViS-D nadalje v svojem 29. členu navaja še njene naloge:
+- sodeluje pri načrtovanju nacionalne visokošolske politike,
+- skrbi za delovanje sistema za spremljanje, ugotavljanje in zagotavljanje kakovosti visokega šolstva in višjega strokovnega izobraževanja (zunanja evalvacija),
+- vodi zunanje evalvacijske postopke in zanje pripravlja strokovne podlage,
+- na predlog sveta za evalvacijo visokega šolstva imenuje komisije za evalvacijo visokošolskih zavodov, študijskih programov ter znanstvenoraziskovalnega, umetniškega in strokovnega dela,
+- sodeluje z visokošolskimi zavodi in spodbuja izvajanje samoevalvacij,
+- sodeluje z institucijami ali organi za evalvacijo visokega šolstva iz tujine,
+- organizira usposabljanje zunanjih evalvacijskih komisij in samoevalvacijskih skupin visokošolskih zavodov,
+- zbira in analizira poročila o samoevalvacijah visokošolskih zavodov ter zunanjih evalvacijah,
+- objavlja poročila o zunanjih evalvacijah,
+- pripravlja strokovne podlage za odločanje o zadevah iz pristojnosti Sveta Republike Slovenije za visoko šolstvo,
+- izvaja razvojne naloge s področja visokega šolstva,
+- pripravlja statistične in druge analize o dejavnosti visokega šolstva,
+- vodi zbirke podatkov, določene z zakonom in drugimi predpisi;
+
+- opravlja informacijske dejavnosti za visokošolske zavode, študente, delodajalce in delojemalce,
+- sodeluje pri izdajanju mnenj o priznavanju in vrednotenju izobraževanja,
+- opravlja druge naloge, določene z aktom o ustanovitvi (glej http://www.uradni-list.si/1/objava.jsp?urlid=200463&stevilka=2875 ).
+Kot je lahko opaziti, je ena izmed nalog agencije tudi kakovost, in sicer agencija s pomočjo zunanje evalvacije skrbi za delovanje sistema za spremljanje, ugotavljanje in zagotavljanje kakovosti visokega šolstva in višjega strokovnega izobraževanja. Pri tem ji je v pomoč tudi Svet za evalvacijo visokega šolstva, ki je eden izmed organov agencije in katerega naloge so sledeče:
+- določi merila za spremljanje, ugotavljanje in zagotavljanje kakovosti visokošolskih zavodov, študijskih programov ter znanstvenoraziskovalnega, umetniškega in strokovnega dela,
+- določi merila za spremljanje, ugotavljanje in zagotavljanje kakovosti višjih strokovnih šol, študijskih programov ter strokovnega dela,
+- daje mnenje in pripravlja poročila o zunanjih evalvacijah visokošolskih zavodov, njihovih študijskih programov ter znanstvenoraziskovalnega, umetniškega in strokovnega dela,
+- daje mnenje in pripravlja poročila o zunanjih evalvacijah višjih strokovnih šol, njihovih študijskih programov in strokovnega dela,
+- opravlja druge naloge v skladu z zakonom in aktom o ustanovitvi javne agencije (glej http://www.uradni-list.si/1/objava.jsp?urlid=200463&stevilka=2875).
+Zakonska podlaga torej za zagotavljanje kakovosti na terciarni ravni izobraževanja pri nas obstaja. Zgoraj našteti zakoni nedvomno pričajo o tem.
+5.3 ZAKLJUČEK ZA EVROPSKI VISOKOŠOLSKI PROSTOR IN SLOVENIJO
+Bolonjski proces je povsem logična reakcija širše evropske politike na globalizacijske trende oziroma na pretekla in prihodnja dogajanja v svetu. Konkurenčnost Evropske unije, predvsem v odnosu do ZDA, je vse manjša in prav to je vzpodbudilo potrebo po preoblikovanju »evropskega izobraževalnega sistema«, ki je temeljni generator gospodarske rasti in blaginje državljanov Evropske unije. Cilji bolonjskega procesa so konvergenca med makro in mikro nivojem, saj je le-to nujno za uspeh tega procesa. Dvig kakovosti dodiplomskega in podiplomskega študija je potemtakem logična posledica, ki pa ni samoumevna.
+
+Večja dostopnost oziroma prehodnost med posameznimi študijskimi programi, ki je ena temeljnih načel bolonjskega procesa, povzroča večje število potencialnih študentov. Le-to pa v veliki meri izključuje možnost večje kakovosti oziroma kvalitete študija nasploh, če vztrajam pri moji trditvi iz poglavja 5.2., da povečanje števila študentov ne more pozitivno vplivati na kakovost izobraževalnih programov, saj se pojma kakovost in večje število študentov medsebojno izključujeta. Poleg tega je tudi vprašljiva primerjava kakovosti med študenti »starega sistema« in študenti »bolonjske generacije«. Razlika v študijskih programih je velika tako, da je vsakršno zlitje obeh študentskih tokov na trgu delovne sile na začetku lahko zelo nevarno, bodisi iz akademskih-strokovnih razlogov ali pa iz osebnih. To je zelo pereče vprašanje, ki ga najdemo na vsakem odprtem forumu, ki obravnava bolonjski proces. Večina zdajšnjih diplomantov vrednoti svoje znanje nekoliko višje od znanja tistih, ki bodo po bolonjskih načelih diplomirali v treh letih in jim bodo ob vstopu na trg delovne sile predstavljali konkurenco.
+Vendar je bolonjski proces vsekakor pripeljal do nove percepcije kakovosti za prihodnja desetletja. Slovenija je v procesu pripravljanja na spremembe kar uspešna in polna dobrih namer. Cilji so postavljeni in v teku uresničevanja, do popolne dosege teh ciljev pa je potrebno še veliko dela, tako s strani države, visokošolskih zavodov, kot tudi s strani študentov. Učinke procesa na kakovost, upajmo da pozitivne, pa bodo pokazale šele evalvacije storjenega, na katere bomo morali počakati vsaj še toliko časa, kolikor ga je Evropa do danes vložila v implementacijo tega procesa, ki pa še zdaleč ni končan.
+
+6. EMPIRIČNI DEL
+6.1 PRIMERJAVA KAKOVOSTNIH PRVIN IZOBRAŽEVALNO VZGOJNEGA SISTEMA KANADE Z EVROPSKIMI IZOBRAŽEVALNO VZGOJNIMI SISTEMI
+V tem poglavju sledi najprej primerjava kakovostnih prvin izobraževalno vzgojnega sistema Kanade z evropskimi izobraževalno vzgojnimi sistemi. Pri izboru držav sem se odločila za primerjavo Kanade z nekaterimi evropskimi državami, med drugim tudi s Slovenijo. Tu sem kot državo za primerjavo izbrala tudi Združene države Amerike (v nadaljevanju ZDA), saj so kot svetovna gospodarska velesila v marsikaterem pogledu tudi pomemben pokazatelj prihodnjih trendov. Evropske države sem razdelila v tri skupine: severno evropska skupina (Finska, Norveška), srednje evropska skupina (Velika Britanija, Nemčija, Francija) ter jugovzhodna evropska skupina (Češka, Madžarska, Slovenija), ker so zadnje tri omenjene države novo nastale članice Evropske unije.
+6.1.1 Primerjave
+Primerjava št. 1 - Tabela 6.1: Delež vpisanih študentov v terciarno raven izobraževanja, izbrane države, 2000-2002 2000 2001 2002
+Kanada 59.1 57.7 ……
+ZDA 70.7 81.4 83.2
+Finska 85.3 85.7 87.5 Norveška 70.0 74.1 80.7 Velika Britanija 58.9 63.6 64.3 Nemčija 48.7 ….. 51.0 Francija 53.6 53.6 55.5 Češka 29.8 33.7 35.5 Madžarska 39.8 44.1 51.1 Slovenija 60.5 66.0 68.4 vir: WDI indikatorji (glej https://publications.worldbank.org/subscriptions/WDI/)
+
+INTERPRETACIJA TABELE:
+Tabela jasno prikazuje, da se vedno več ljudi odloča za vpis na terciarno raven izobraževanja po dokončanem sekundarnem izobraževanju. Povsod, razen v Kanadi, se je od leta 2000 pa do leta 2002 povečala stopnja udeležbe na terciarni ravni izobraževanja.
+Največji porast vpisa v terciarno raven izobraževanja so imeli v ZDA, kjer je bilo leta 2002 v terciarno raven izobraževanja vpisanih 12.5% več študentov kakor leta 2000. Tudi v Sloveniji beležimo porast vključenosti v terciarno raven izobraževanja, in sicer je bilo leta 2002 7.9% več študentov vključenih v to raven izobraževanja kot leta 2000. Podatek za Kanado pa kaže drugačno sliko. Tam je bilo po podatkih iz leta 2001 v terciarno raven izobraževanja vključenih 57.7% študentov, kar je za 1.4% manj kot leto poprej.
+Leta 2002 je bilo največ študentov vpisanih v terciarno raven izobraževanja na Finskem (87.5%), sledijo pa jim ZDA (83.2%) in Norveška (80.7%). Slovenija je tu s 68.4% na odličnem četrtem mestu. Najmanj študentov pa se v terciarno raven izobraževanja vključuje na Češkem, to je 35.5%.
+ZAKLJUČNA MISEL:
+Izobrazbena raven se danes povsod po svetu dviguje. Vse več ljudi se iz leta v leto odloča za nadaljevanje izobraževanja po dokončani sekundarni stopnji izobraževanja in vse več ljudi je vpisanih v različne izobraževalne programe na terciarni ravni. S tem se leta šolanja podaljšujejo, izobrazbena raven pa se tako počasi dviguje. Ljudje se vse bolj zavedajo predvsem dejstva, da jim odločitev za terciarno raven izobraževanja ter njen uspešen zaključek posledično prinašata pridobitev bolje plačanega delovnega mesta, s čimer se posledično dvigne tudi njihov življenjski standard.
+
+Primerjava št. 2 - Tabela 6.2: Celotni (javni in privatni) izdatki za izobraževalne institucije na vseh ravneh izobraževanja skupaj, % v BDP, izbrane države, 2002 Celotni izdatki za izobraževalne institucije
+%BDP
+Kanada 6.14
+ZDA 7.34
+Finska 5.84 Norveška 6.37
+Velika Britanija 5.48 Nemčija 5.26 Francija 5.98 Češka 4.58 Madžarska 5.18
+Vir: http://ocde.p4.siteinternet.com/publications/doifiles/012005061T031.xls
+INTERPRETACIJA TABELE:
+Izobraževalne institucije največ svojih sredstev (javnih in zasebnih skupaj) dobijo v ZDA, kjer jim namenjajo 7.34% svojega BDP. Sledijo jim na Norveškem s 6.37%, na tretjem mestu pa je Kanada s 6.14% BDP, namenjenega izobraževalnim institucijam.
+Najmanjši del sredstev iz BDP izobraževalnim institucijam namenjajo na Madžarskem (5.18%) ter na Češkem (4.58%).
+ZAKLJUČNA MISEL:
+Izobraževalne institucije so pomemben vir znanja, saj se v njih izobražujemo. Ne glede na vir izvora tovrstnih sredstev, se skupno ta sredstva porabljajo za prenovitev šolskih prostorov, za nakup učnih pripomočkov ter za posodabljanje svojih učilnic z novo informacijsko tehnologijo, to je predvsem z računalniki in danes vse pogosteje uporabljenim internetom. Poraba sredstev za tovrstne namene vsekakor dviguje kakovost izobraževanja in sredstva, ki se vsako leto namenjajo za izobraževalne institucije so in bodo vedno dobro investicija, saj zadostno vlaganje sredstev v izobraževalne institucije pomeni vlaganje v ljudi in v njihovo kakovostno znanje.
+
+Primerjava št. 3 - Tabela 6.3: Delovna sila z doseženo ravnjo izobrazbe, po ravneh izobrazbe, izbrane države, 2001 Dosežena raven izobrazbe primarna sekundarna terciarna 2001
+Kanada 17.2 30.3 52.5 Finska 24.7 43.7 31.6
+Velika Britanija 17.5 47.4 26.8 Nemčija 17.3 58.9 23.8 Francija 26.9 46.9 26.2 Češka 10.2 78.1 11.6 Madžarska 18.2 65.2 16.5 Slovenija 21.0 62.3 16.6
+Vir: WDI indikatorji (glej https://publications.worldbank.org/subscriptions/WDI/)
+INTERPRETACIJA TABELE:
+Delež tistih zaposlenih, ki imajo dokončano le primarno raven izobrazbe, je najvišji v Franciji, to je 26.9%. Slovenija je tu za Finsko, kjer je zaposlenih z doseženo primarno ravnijo izobrazbe 24.7%, na tretjem mestu. Pri nas je bilo tako leta 2001 21% zaposlenih, ki so imeli doseženo to raven izobraževanja. Kanada v tej primerjavi s 17.2% zaposlenih z doseženo primarno ravnjo izobrazbe skupaj s Češko (10.2%) spada med države, kjer ima najmanj zaposlenih doseženo le to raven izobrazbe.
+Zaposlenih, ki imajo zaključeno sekundarno raven izobrazbe, je največ na Češkem, to je 78.1%, sledi Madžarska (65.2%) in nato Slovenija (62.3%). V Kanadi pa je bilo leta 2001 30.3% zaposlenih z doseženo sekundarno ravnijo izobrazbe.
+Z doseženo terciarno ravnijo izobrazbe pa je največ zaposlenih v Kanadi, kjer je takih 52.5% zaposlenih. Sledi jim Finska z 31.6% zaposlenih z doseženo terciarno ravnijo izobrazbe, najmanj zaposlenih pa ima dokončano terciarno raven izobrazbe na Češkem, to je 11.6%. Slovenija je tu s 16.6% na repu držav z najmanj zaposlenimi z doseženo terciarno ravnijo izobrazbe.
+
+ZAKLJUČNA MISEL:
+Še danes, če pogledamo izobrazbeno raven delovne sile, povsod v večji meri prevladujejo zaposleni, ki imajo doseženo sekundarno raven izobrazbe (glej tabelo 6.3).
+Vendar pa je v zadnjem obdobju moč opaziti, da se s pomočjo vse večjega vključevanja v terciarno raven izobraževanja in s tem povezano podaljševanje let šolanja spreminja izobrazbena raven delovne sile. Vključevanje v raznovrstne izobraževalne programe na terciarni ravni izobraževanja ter po končanem šolanju sodelovanje v dodatnih programih izobraževanja prinašata s seboj za posledico vse bolj izobraženo delovno silo. To pa s seboj prinese kopico pozitivnih posledic tako za zaposlene, podjetja, kot tudi za državo.
+Posamezniku je s tem omogočen dostop do boljše plačanega delovnega mesta, podjetja si z dobro izobraženo delovno silo omogočajo boljšo konkurenčnost na trgu, država pa s tem dobi pozitiven odgovor, da so sredstva, ki jih namenja za izobraževanje in v spodbujanje podaljševanja izobraževanja, zanjo dobra naložba.
+
+Primerjava št. 4 - Tabela 6.4: Delež brezposelnih oseb z doseženo ravnjo izobrazbe glede na celotno brezposelnost, po ravneh dosežene izobrazbe, izbrane države, 2001 Dosežena raven izobrazbe primarna sekundarna terciarna
+Kanada 30.7 30.3 39.0
+ZDA 20.3 35.3 44.4
+Finska 38.2 45.8 16.0 Norveška 25.0 22.6 3.4 Velika Britanija 33.7 44.4 12.7 Nemčija 26.8 60.4 12.8 Češka 27.3 69.1 3.6 Madžarska 35.4 60.5 4.1 Slovenija 33.3 63.2 5.3 vir: WDI indikatorji (glej https://publications.worldbank.org/subscriptions/WDI/)
+INTERPRETACIJA TABELE:
+Zanimivo si je ogledati podatke, ki prikazujejo, kakšna je izobrazbena raven brezposelnih oseb. Največji delež brezposelnih, ki imajo doseženo samo primarno raven izobrazbe, je na Finskem, in sicer 38.2%, najmanj pa v ZDA, to je 20.3%. Kanada in Slovenija sta si zelo blizu. V Kanadi je 30.7% takih brezposelnih, ki imajo doseženo le primarno raven izobrazbe, v Sloveniji pa 33.3%.
+Brezposelnih, ki imajo doseženo sekundarno raven izobrazbe, je največ na Češkem (69.1%), sledi pa jim že Slovenija s 63.2%. Najmanj brezposelnih z doseženo sekundarno ravnijo izobrazbe imajo na Norveškem, Kanada pa jim sledi s 30.3%.
+Povsod v izbranih državah pa je določen delež brezposelnih tudi takih, ki imajo doseženo terciarno raven izobrazbe, a so iz različnih razlogov brezposelni. Delež brezposelnih z doseženo terciarno ravnijo izobrazbe je tako največji v ZDA (44.4%) in v Kanadi (39.%), najmanjši pa na Norveškem (3.4%). Slovenija tukaj spada med države z najmanjšim deležem brezposelnih z doseženo terciarno ravnijo izobrazbe, to je 5.3%.
+
+ZAKLJUČNA MISEL:
+Brezposelnost je pereč problem povsod po svetu in vse države se po svojih najboljših močeh z raznovrstnimi ukrepi trudijo kar čim hitreje znižati stopnjo brezposelnosti v svoji državi. Nedvomno so nam podatki o izobrazbeni ravni brezposelnih oseb lahko v veliko pomoč pri nadaljnjem iskanju novih rešitev za dosego čim manjše stopnje brezposelnosti. Iz teh podatkov sodeč, je še vedno največ brezposelnih takih, ki imajo doseženo sekundarno raven izobrazbe, razen v Kanadi in ZDA, kjer je več brezposelnih z doseženo terciarno ravnijo izobrazbe, ter na Norveškem, kjer je največ brezposelnih z doseženo primarno ravnijo izobrazbe (glej tabelo 6.4). Na vladah posameznih držav je tako danes, da skušajo problem brezposelnosti v prihodnje omiliti, brezposelne ljudi pa prekvalificirati in jim čim prej omogočiti ponoven vstop na trg delovne sile.
+Primerjava št. 5 - Tabela 6.5: Razmerje učitelj-učenec, po ravneh izobraževanja, izbrane države, 2003 Ravni izobraževanja primarna sekundarna terciarna
+Kanada 17.0* 18.0* 9.0*
+ZDA 15.5 15.5 15.2
+Finska 16.6 12.9 12.3 Norveška 11.7 9.8 11.9 Velika Britanija 20.0 14.8 18.2 Nemčija 18.7 15.1 12.5 Francija 19.4 12.2 17.6 Češka 18.3 13.4 17.3 Madžarska 10.6 11.8 14.8 Slovenija 13.0** 14.0** 33.0**
+Vir: http://www.oecd.org/dataoecd/0/60/35287543.xls
+(*): podatki za obdobje 2000/2001; vir: http://www.uis.unesco.org/TEMPLATE/html/ Exceltables/education/ptr.xls (**):podatki za obdobje 2002/2003; vir: http://www.uis.unesco.org/TEMPLATE/html/ Exceltables/education/ptr.xls
+
+INTERPRETACIJA TABELE:
+Na primarni ravni izobraževanja je največ učencev na učitelja, to je 20, v Veliki Britaniji, najmanj pa 10.6 pa na Madžarskem. Slovenija se na tej ravni izobraževanja po podatkih UNESCA za leto 2002/2003, s svojimi 13 učenci na učitelja, poleg Madžarske (10.6) in Norveške (11.7) uvršča v del tistih z najmanj učenci na učitelja. Kanada pa je imela v letu 2000/2001 na tej ravni izobraževanja razmerje 17 učencev na enega učitelja.
+Na sekundarni ravni izobraževanja prednjači Norveška z 9.8 učenci na učitelja in je tako daleč pred vsemi kar se tiče najugodnejšega razmerja med učenci in učiteljem. Največ učencev na učitelja pa je bilo po podatkih UNESCA leta 2000/2001 v Kanadi, to je 18.
+Podatek za Slovenijo iz leta 2002/2003 pa kaže, da smo imeli takrat na tej ravni izobraževanja 14 učencev na učitelja.
+Terciarna raven izobraževanja pa prikazuje, da je Kanada z 9 učenci na učitelja daleč pred ostalimi izbranimi državami. Sledita ji Norveška (11.9) in Finska (12.3). Največ, to je 33 učencev na učitelja imamo v Sloveniji, sledi nam Velika Britanija z 18.2 učenci na učitelja.
+Kot je razvidno iz tabele, je Slovenija v primerjavi s Kanado v boljšem položaju tako na primarni kot tudi na sekundarni ravni izobraževanja. Na terciarni ravni pa je Kanada v precej boljšem položaju.
+ZAKLJUČNA MISEL:
+Menim da je razmerje učitelj-učenec v korelaciji s kakovostjo. Pri tem je pomembno upoštevati spoznanje, da tem manj ko je učencev na učitelja, tem bolj kakovostna so predavanja. Učitelj ima ob manjšem številu učencev v svojem razredu vrsto prednosti: učno snov je veliko lažje in hitreje posredovati, sodelovanje med učiteljem in učenci je pri učnih urah lažje, komunikacija med učiteljem in učenci je pristnejša in poteka hitreje itd. Ob dejstvu, da se v šole vpisuje vedno več otrok, pa je v prihodnosti nujno potrebno tudi spodbujanje za izbiro učiteljskega poklica.
+
+Primerjava št. 6 - Tabela 6.6: Delež tujih študentov na terciarni ravni izobraževanja, izbrane države, 2003
+Tuji študenti na terciarni ravni izobraževanja 2003
+Kanada 2.8 *
+ZDA 3.5
+Finska 2.5 Norveška 5.2
+Velika Britanija 11.2 Nemčija 10.7 Francija 10.5 Češka 4.3
+Madžarska 3.1
+Vir: http://www.oecd.org/dataoecd/1/44/35287269.xls (*) podatek za obdobje 1998
+INTERPRETACIJA TABELE:
+V letu 2003 je imela največji delež tujih študentov Velika Britanija. Tam je bilo med vsemi študenti na terciarni ravni izobraževanja vpisanih 11.2% tujih študentov. V sam vrh po deležu tujih študentov spadata še Nemčija (10.7%) in Francija (10.5%).
+Najmanj tujih študentov pa imajo na Finskem, tam je njihov delež le 2.5 % vseh študentov na terciarni ravni izobraževanja. Kanada je v primerjavi z ostalimi izbranimi državami na repu tistih, ki imajo najmanjši delež tujih študentov, njihov delež je 2.8%, k tem državam spada še Madžarska s 3.1% tujimi študenti.
+ZAKLJUČNA MISEL:
+Tuji študentje so povsod dobrodošla in predvsem pozitivna sprememba na vseh terciarnih ravneh izobraževanja. Študij v tujini prinaša koristi tako za ljudi, ki se odločijo za tovrstni študij, kot tudi za državo, ki s svojimi izobraževalnimi institucijami nudi študij tujim državljanom. Koristi pri posamezniku so nedvomno razširitev obzorja, povečanje samostojnosti ter samozavesti, izboljšanje znanja jezikov, spoznavanje različnih kultur in pridobitev številnih novih življenjskih izkušenj. Na drugi strani pa se s ponujanjem študijskih programov za tuje študente razvijajo vedno novi učni programi, predvsem pa se izboljšuje kakovost poučevanja študentov in krepi konkurenčnost med visokošolskimi ustanovami.
+
+Primerjava št. 7 - Tabela 6.7: Pričakovana leta šolanja, po spolu, izbrane države, 2002/2003
+moški ženske Kanada 16 16
+ZDA 15 16
+Finska 17 19 Norveška 16 18
+Velika Britanija 20 23 Nemčija 16 16 Francija 15 16 Češka 14 15 Madžarska 15 16 Slovenija 15 17
+Vir: http://devdata.worldbank.org/wdi2005/Section2.htm
+INTERPRETACIJA TABELE:
+Najdaljša pričakovana leta šolanja so tako pri moških kot tudi pri ženskah v Veliki Britaniji. Tam naj so se moški po podatkih iz leta 2002/20003 šolali 20 let, ženske pa 23 let, kar je mnogo let več kot v ostalih izbranih državah. Na drugi strani so najkrajša pričakovana leta šolanja pri moških in pri ženskah na Češkem in sicer 14 let za moške ter 15 let za ženske.
+Slovenija si s 15 leti pričakovanega šolanja pri moških deli mesto z Madžarsko, Francijo in ZDA, za ženske pa je pričakovanih 17 let šolanja.
+
+V Kanadi so pričakovana leta šolanja za oba spola enaka, to je 16 let. Pri ženskah so enaka pričakovana leta šolanja kot na Norveškem in v Nemčiji, pri moških pa enaka kot v ZDA, Nemčiji, Franciji ter na Madžarskem.
+ZAKLJUČNA MISEL:
+Povsod po svetu se dandanes vedno bolj zavedajo izrednega pomena izobrazbe. Včasih je zadostovala zaključitev primarne ravni izobraževanja, danes pa se šolanje povsod podaljšuje in v tem obdobju kot tudi v prihodnosti je težnja doseči čim višjo izobrazbeno raven prebivalstva. Zavedati se moramo tudi, da je danes znanja vse več, zato je tudi za njegov prenos danes potrebno več časa kot včasih, kar pa podaljšuje šolanje.
+Primerjava št. 8 - Tabela 6.8: Delež sredstev namenjenih za R&R, izbrane države, 2002
+% BDP namenjen za R&R Kanada 1.9
+ZDA 2.7
+Finska 3.5 Norveška 1.7
+Velika Britanija 1.9 Nemčija 2.5 Francija 2.3 Češka 1.2
+Madžarska 1.0 Slovenija 1.5
+Vir: WDI indikatorji (glej https://publications.worldbank.org/subscriptions/WDI/)
+INTERPRETACIJA TABELE:
+Raziskavam in razvoju namenjajo največ sredstev na Finskem in sicer 3.5% BDP, najmanj pa na Madžarskem (1.0% BDP). Velik del sredstev namenjajo za R&R tudi v ZDA, to je 2.7% BDP, medtem ko Kanada spada v sklop držav, ki za R&R namenjajo manj kot 2% BDP. Tudi Slovenija na tem področju spada v tisti sklop držav, ki namenjajo R&R manj sredstev. Z 1.5% BDP namenjenih za R&R pa smo nekoliko boljši kot na Češkem in na Madžarskem, ki od izbranih držav namenjata najmanj sredstev za
+
+R&R.
+ZAKLJUČNA MISEL:
+R&R sta nedvomno področji, kjer je še veliko neizkoriščenih možnosti. Ljudje lahko v prihodnosti s svojim znanjem, ustvarjalnostjo in inovativnostjo veliko pripomorejo k večji tehnološki razvitosti držav. Prav ljudje smo nosilci in merilo razvoja, zato je potrebno tudi v prihodnje povečevati obseg raziskovalnega dela tako v izobraževalnih institucijah kot tudi v inštitutih, zavodih, podjetjih in v vseh ostalih službah, ki se ukvarjajo z R&R. Tovrstnemu področju je zatorej potrebno namenjati vedno več sredstev, saj se s tem gradi na kakovosti posameznika kot tudi celotne družbe, v kateri živimo.
+Primerjava št. 9 - Tabela 6.9: Vključenost delovne sile v izobraževalne programe, po starostnih razredih, izbrane države, 2003 Vključenost v izobraževalne programe po starostnih razredih 25-34 35-44 45-54 55-64 Stopnja vključenosti v % Kanada M+Ž 30 30 31 23
+ZDA M+Ž 45 43 46 40
+Finska M+Ž 41 47 45 39
+Velika Britanija M+Ž 36 36 35 25 Nemčija M+Ž 16 16 14 9 Francija M+Ž 27 25 21 14 Češka M+Ž 14 15 13 12 Madžarska M+Ž 6 6 4 4
+Vir: http://www.oecd.org/dataoecd/0/62/35287495.xls
+
+INTERPRETACIJA TABELE:
+V starostnem razredu od 25 do 34 let se je največ zaposlenih vključevalo v raznovrstne izobraževalne programe v ZDA, to je 45%. Z visoko udeležbo zaposlenih v izobraževalnih programih v tem starostnem razredu se lahko pohvalijo tudi na Finskem (41%) ter v Veliki Britaniji (36%). Kanada je tu s 30% zaposlenih, ki se dodatno izobražujejo, na četrtem mestu. Najmanj zaposlenih se v tem starostnem razredu vključuje v izobraževalne programe na Madžarskem, le 6%.
+V starostnem razredu od 35 do 44 let se je podobno kot v prejšnjem starostnem obdobju največ zaposlenih vključevalo v izobraževale programe na Finskem (47%), ZDA (43%) in v Veliki Britaniji (36%). Sledi jim ponovno Kanada s 30%, najmanj zaposlenih, vključenih v izobraževalne programe, pa je ponovno na Madžarskem (6%).
+Zaposlenih v starostnem obdobju 45-54 let se največ v izobraževalne programe vključevalo v ZDA (46%), sledijo jim na Finskem (45%) in v Veliki Britaniji (35%). V Kanadi se v tem starostnem obdobju 31% zaposlenih dodatno izobražuje. Zelo nizek procent zaposlenih, ki so vključeni v dodatna izobraževanja imajo ponovno na Madžarskem, le 4%.
+Starostno obdobje od 55 do 64 let prikazuje podobno sliko kot v ostalih starostnih razredih: najvišjo stopnjo vključenosti imajo v ZDA (40%), na Finskem (39%) in v Veliki Britaniji (25%). V Kanadi je tovrstna stopnja vključenosti 23%, najnižja pa je zopet na Madžarskem , to je 4%.
+ZAKLJUČNA MISEL:
+Vseživljenjsko učenje že dolgo časa ni več le želeni cilj ampak postaja vedno bolj realnost v vseh državah. Vsi se zavedajo dejstva, da znanja pridobljena v izobraževalnih sistemih hitro zastarevajo in da so zato nujno potrebna dodatna izobraževanja in usposabljanja zaposlenih. Za zaposlene to pomeni nadgrajevanje, dopolnjevanje in prilagajanje že obstoječih znanj ter pridobitev novih znanj in sposobnosti, za podjetja pa dobro izobražena delovna sila pomeni boljšo konkurenčnost in produktivnost podjetja v primerjavi z drugimi podjetji.
+
+Na področju vseživljenjskega učenja po raziskavi sodeč prednjačijo ZDA, Finska in Velika Britanija, Kanada pa drži korak z njimi in se iz leta v leto trudi postati na tem področju še bližje vodečim.
+6.1.2 Povzetek primerjav
+Po izboru in prikazu tabel ter njihovo interpretacijo, sedaj sledi povzetek rezultatov. Iz podatkov iz tabel iz poglavja 6.1 bom sedaj v tem poglavju za vsako državo posebej določila njene prednosti, slabosti ter primerjala, na katerih področjih so primerljive z ostalimi izbranimi državami.
+KANADA:
+Prednosti so:
+• imajo največji delež delovne sile z doseženo terciarno ravnijo izobrazbe, 52.5% zaposlenih ima dokončano terciarno raven izobrazbe, kar jih uvrša na sam vrh med izbranimi državami (glej tabelo 6.3),
+• med izbranimi državami imajo najmanjši delež delovne sile z doseženo sekundarno ravnijo izobrazbe, 30.3% zaposlenih ima dokončano sekundarno raven izobrazbe (glej tabelo 6.3),
+• v razmerju učitelj-učenec na terciarni ravni izobraževanja imajo med izbranimi državami najmanj učencev, to je 9, na enega učitelja (glej tabelo 6.5),
+• delež delovne sile z doseženo primarno ravnijo izobrazbe je majhen – 17.2% (glej tabelo 6.3),
+• majhen je delež tistih brezposelnih oseb, ki imajo dokončano sekundarno raven izobrazbe – 30.3% (glej tabelo 6.4),
+• precejšen del sredstev namenjajo za izobraževalne institucije, kar 6.4% svojega BDP (glej tabelo 6.2).
+Slabosti so:
+• v razmerju učitelj-učenec, na sekundarni ravni izobraževanja, imajo med izbranimi državami največ učencev, to je 18, na enega učitelja (glej tabelo 6.5),
+
+• na terciarni ravni izobraževanja imajo majhen delež tujih študentov – le 2.8% (glej tabelo 6.6),
+• imajo visok delež tistih brezposelnih oseb, ki imajo doseženo terciarno raven izobrazbe – 39% (glej tabelo 6.4).
+V povprečju z ostalimi izbranimi državami pa je Kanada na sledečih področjih:
+• delež vpisanih na terciarno raven izobraževanja: 57.7% (glej tabelo 6.1),
+• delež tistih brezposelnih oseb, ki so dosegle primarno raven izobraževanja: 30.7% (glej tabelo 6.4),
+• razmerje učitelj-učenec na primarni ravni izobraževanja: 17 učencev na učitelja (glej tabelo 6.5),
+• pričakovana leta šolanja: za moške 15 let in za ženske 16 let šolanja (glej tabelo 6.7),
+• delež sredstev, namenjenih za R&R: 1.9% svojega BDP (glej tabelo 6.8),
+• vključenost delovne sile v izobraževalne programe:
+· starostni razred od 25 do 34 let – 30%,
+· starostni razred od 35 do 44 let – 30%,
+·starostni razred od 45 do 54 let – 31%,
+·starostni razred od 55 do 64 let – 23% (glej tabelo 6.9).
+ZDA:
+Prednosti so:
+• največ izdatkov (javnih in zasebnih) med vsemi izbranimi državami namenjajo za izobraževalne institucije – 7.34% svojega BDP (glej tabelo 6.2),
+• imajo najmanjši delež tistih brezposelnih, ki imajo doseženo primarno raven izobrazbe
+– 20.3% (glej tabelo 6.4),
+• največja vključenost delovne sile v izobraževalne programe v:
+· starostnem razredu od 25 do 34 let – 45%,
+·starostnem razredu od 45 do 54 let – 46%,
+·starostnem razredu od 55 do 64 let – 40% (glej tabelo 6.9),
+• visok delež študentov, vpisanih na terciarno raven izobraževanja – 83.2% (glej tabelo 6.1),
+
+• nizek delež tistih brezposelnih oseb, ki imajo doseženo sekundarno raven izobrazbe – 35.3% (glej tabelo 6.4),
+• visok delež sredstev namenjajo za R&R – 2.7% svojega BDP (glej tabelo 6.8),
+• visoka vključenost delovne sile v izobraževalne programe v starostnem razredu od 35 do 44 let – 43% (glej tabelo 6.9).
+Slabosti so:
+• imajo najvišji delež tistih brezposelnih oseb, ki imajo doseženo terciarno raven izobrazbe – 44.4% (glej tabelo 6.4),
+• v razmerju učitelj-učenec na sekundarni ravni izobraževanja imajo veliko učencev, to je 15.5, na enega učitelja (glej tabelo 6.5).
+V povprečju z ostalimi izbranimi državami pa so ZDA na sledečih področjih:
+• razmerje učitelj-učenec na primarni ravni izobraževanja: 15.5 učencev na učitelja (glej tabelo 6.5),
+• razmerje učitelj-učenec na sekundarni ravni izobraževanja: 15.2 učenca na učitelja (glej tabelo 6.5),
+• delež tujih študentov na terciarni ravni izobraževanja: 3.5% (glej tabelo 6.6),
+• pričakovana leta šolanja: za moške 15 let in za ženske 16 let šolanja (glej tabelo 6.7)
+FINSKA:
+Prednosti so:
+• imajo najvišji delež vpisanih na terciarno raven izobraževanja: 87.5% (glej tabelo 6.1),
+• največ sredstev med vsemi izbranimi državami namenjajo za R&R, kar 3.5% svojega BDP (glej tabelo 6.8),
+• največja vključenost delovne sile v izobraževalne programe v starostnem razredu od 35 do 44 let – 47% (glej tabelo 6.9),
+• imajo visok delež delovne sile z doseženo terciarno ravnijo izobrazbe, to je 31.6% (glej tabelo 6.3),
+• med izbranimi državami imajo majhen delež delovne sile z doseženo sekundarno ravnijo izobrazbe, to je 43.7.3% zaposlenih ima dokončano sekundarno raven izobrazbe (glej tabelo 6.3),
+
+• visoka vključenost delovne sile v izobraževalne programe v:
+· starostnem razredu od 25 do 34 let – 41%,
+·starostnem razredu od 45 do 54 let – 45%,
+·starostnem razredu od 55 do 64 let – 39% (glej tabelo 6.9),
+• dolga pričakovana leta šolanja: za moške 17 let in za ženske 19 let šolanja (glej tabelo 6.7),
+• malo učencev na učitelja v razmerju učitelj-učenec na terciarni ravni izobraževanja, to je 12.3 (glej tabelo 6.5).
+Slabosti so:
+• imajo najvišji delež tistih brezposelnih oseb, ki imajo doseženo primarno raven izobrazbe – 38.2% (glej tabelo 6.4),
+• na terciarni ravni izobraževanja imajo najmanjši delež tujih študentov – le 2.5% (glej tabelo 6.6),
+• dokaj visok delež tistih brezposelnih oseb, ki imajo doseženo terciarno raven izobrazbe – 16% (glej tabelo 6.4),
+• visok delež delovne sile, ki ima doseženo primarno stopnjo izobrazbe – 24.7% (glej tabelo 6.3)
+V povprečju z ostalimi izbranimi državami pa je Finska na sledečih področjih:
+• delež tistih brezposelnih oseb, ki imajo doseženo sekundarno raven izobrazbe – 45.8% (glej tabelo 6.4),
+• razmerje učitelj-učenec na primarni ravni izobraževanja: 16.6 učencev na učitelja (glej tabelo 6.5),
+• razmerje učitelj-učenec na sekundarni ravni izobraževanja: 12.9 učencev na učitelja (glej tabelo 6.5),
+• delež sredstev, namenjenih za izobraževalne institucije: 5.84% svojega BDP (glej tabelo 6.2).
+NORVEŠKA:
+Prednosti so:
+
+• imajo najmanjši delež tistih brezposelnih oseb, ki imajo doseženo sekundarno raven izobrazbe – 22.6% (glej tabelo 6.4),
+• imajo tudi najmanjši delež tistih brezposelnih oseb, ki imajo doseženo terciarno raven izobrazbe – le 3.4% (glej tabelo 6.4),
+• najmanj učencev na učitelja v razmerju učitelj-učenec na sekundarni ravni izobraževanja, to je 9.8 (glej tabelo 6.5),
+• velik del izdatkov namenjajo za izobraževalne institucije, kar 6.37% svojega BDP (glej tabelo 6.2),
+• majhen delež tistih brezposelnih oseb, ki imajo doseženo primarno raven izobrazbe – 25% (glej tabelo 6.4),
+• malo učencev na učitelja v razmerju učitelj-učenec na primarni ravni izobraževanja, to je 11.7 (glej tabelo 6.5),
+• imajo prav tako malo učencev na učitelja v razmerju učitelj-učenec na terciarni ravni izobraževanja, to je 11.9 (glej tabelo 6.5),
+• visok delež študentov, vpisanih na terciarno raven izobraževanja: 80.7% (glej tabelo 6.1).
+Slabost je:
+• majhen delež sredstev, namenjenih za R&R: le 1.7% svojega BDP (glej tabelo 6.8).
+V povprečju z ostalimi izbranimi državami pa je Norveška na sledečih področjih:
+• delež tujih študentov, vpisanih na terciarno raven izobraževanja: 5.2% (glej tabelo 6.6),
+• pričakovana leta šolanja: za moške 16 let in za ženske 18 let (glej tabelo 6.7).
+VELIKA BRITANIJA:
+Prednosti so:
+• med vsemi izbranimi državami imajo najvišji delež tujih študentov na terciarni ravni izobraževanja: 11.2% (glej tabelo 6.6),
+• imajo najdaljša pričakovana leta šolanja: tako za moške - 20 let kot tudi za ženske -23 let (glej tabelo 6.7),
+
+• visoka vključenost delovne sile v izobraževalne programe v:
+· starostnem razredu od 25 do 34 let – 36%,
+· starostnem razredu od 35 do 44 let – 36%,
+·starostnem razredu od 45 do 54 let – 35%,
+·starostnem razredu od 55 do 64 let – 22% (glej tabelo 6.9),
+• imajo visok delež delovne sile z doseženo terciarno ravnijo izobrazbe, to je 26.8% (glej tabelo 6.3).
+Slabosti so:
+• največ učencev na učitelja v razmerju učitelj-učenec na primarni ravni izobraževanja, to je 20 (glej tabelo 6.5),
+• veliko učencev na učitelja v razmerju učitelj-učenec na terciarni ravni izobraževanja, to je 18.2 (glej tabelo 6.5),
+• dokaj visok delež tistih brezposelnih oseb, ki imajo doseženo primarno raven izobrazbe – 33.7% (glej tabelo 6.4).
+V povprečju z ostalimi izbranimi državami pa je Velika Britanija na sledečih področjih:
+• delež študentov, vpisanih na terciarno raven izobraževanja – 64.3% (glej tabelo 6.1),
+• celotni izdatki za izobraževalne institucije – 5.48% svojega BDP (glej tabelo 6.2),
+• delež delovne sile, ki ima doseženo primarno raven izobrazbe – 17.5% (glej tabelo 6.3)
+• delež delovne sile, ki ima doseženo sekundarno raven izobrazbe – 47.4% (glej tabelo 6.3)
+• delež tistih brezposelnih oseb, ki imajo doseženo sekundarno raven izobrazbe – 44.4% (glej tabelo 6.4),
+• delež tistih brezposelnih oseb, ki imajo doseženo terciarno raven izobrazbe – 12.7% (glej tabelo 6.4),
+• razmerje učitelj-učenec na primarni ravni izobraževanja: 16.6 učencev na učitelja (glej tabelo 6.5),
+• razmerje učitelj-učenec na sekundarni ravni izobraževanja: 14.8 učencev na učitelja (glej tabelo 6.5),
+
+• delež sredstev, namenjenih za R&R - 1.9% svojega BDP (glej tabelo 6.8).
+NEMČIJA:
+Prednosti so:
+• visok delež tujih študentov na terciarni ravni izobraževanja: 10.7% (glej tabelo 6.6),
+• visok delež sredstev, namenjenih za R&R – 2.5% svojega BDP (glej tabelo 6.8).
+Slabosti so:
+• nizek delež študentov, vpisanih na terciarno raven izobraževanja – 51% (glej tabelo 6.1),
+• veliko učencev na učitelja v razmerju učitelj-učenec na primarni ravni izobraževanja, to je 18.7 (glej tabelo 6.5),
+• veliko učencev na učitelja v razmerju učitelj-učenec na sekundarni ravni izobraževanja, to je 15.1 (glej tabelo 6.5),
+• nizka vključenost delovne sile v izobraževalne programe v starostnem obdobju od 55 do 64 let – 9% (glej tabelo 6.9).
+V povprečju z ostalimi izbranimi državami pa je Nemčija na sledečih področjih:
+• celotni izdatki za izobraževalne institucije – 5.26 % svojega BDP (glej tabelo 6.2),
+• delež delovne sile, ki ima doseženo primarno raven izobrazbe – 17.3% (glej tabelo 6.3)
+• delež delovne sile, ki ima doseženo sekundarno raven izobrazbe – 58.3% (glej tabelo 6.3)
+• delež delovne sile, ki ima doseženo terciarno raven izobrazbe – 23.8% (glej tabelo 6.3)
+• delež tistih brezposelnih oseb, ki imajo doseženo primarno raven izobrazbe – 26.8% (glej tabelo 6.4),
+• delež tistih brezposelnih oseb, ki imajo doseženo sekundarno raven izobrazbe – 60.4% (glej tabelo 6.4),
+• delež tistih brezposelnih oseb, ki imajo doseženo terciarno raven izobrazbe – 12.8% (glej tabelo 6.4),
+
+• razmerje učitelj-učenec na terciarni ravni izobraževanja: 12.5 učencev na učitelja (glej tabelo 6.5),
+• pričakovana leta šolanja: za moške in za ženske 16 let (glej tabelo 6.7),
+• vključenost delovne sile v izobraževalne programe v:
+· starostnem razredu od 25 do 34 let – 16%,
+· starostnem razredu od 35 do 44 let – 16%,
+·starostnem razredu od 45 do 54 let – 14% (glej tabelo 6.9).
+FRANCIJA:
+Prednosti so:
+• majhno število učencev na učitelja v razmerju učitelj-učenec na sekundarni ravni izobraževanja, to je 12.2 (glej tabelo 6.5),
+• velik delež tujih študentov na terciarni ravni izobraževanja: 10.5% (glej tabelo 6.6).
+Slabosti so:
+• največji delež delovne sile, ki ima doseženo primarno raven izobrazbe – 26.9% (glej tabelo 6.3),
+• veliko učencev na učitelja v razmerju učitelj-učenec na primarni ravni izobraževanja, to je 19.4 (glej tabelo 6.5),
+• veliko učencev na učitelja v razmerju učitelj-učenec na terciarni ravni izobraževanja, to je 17.6 (glej tabelo 6.5).
+V povprečju z ostalimi izbranimi državami pa je Francija na sledečih področjih:
+• delež študentov, vpisanih na terciarno raven izobraževanja – 55.5% (glej tabelo 6.1),
+• celotni izdatki za izobraževalne institucije – 5.98% svojega BDP (glej tabelo 6.2),
+• delež delovne sile, ki ima doseženo sekundarno raven izobrazbe – 46.9% (glej tabelo 6.3),
+• delež delovne sile, ki ima doseženo terciarno raven izobrazbe – 26.2% (glej tabelo 6.3),
+• pričakovana leta šolanja: za moške 15 let in za ženske 16 let (glej tabelo 6.7),
+• delež sredstev, namenjenih za R&R – 2.3% svojega BDP (glej tabelo 6.8),
+
+• vključenost delovne sile v izobraževalne programe v:
+· starostnem razredu od 25 do 34 let – 27%,
+· starostnem razredu od 35 do 44 let – 25%,
+· starostnem razredu od 45 do 54 let – 21%,
+·starostnem razredu od 54 do 64 let – 14% (glej tabelo 6.9).
+ČEŠKA:
+Prednosti so:
+• najmanjši delež delovne sile, ki ima doseženo primarno raven izobrazbe – 10.2% (glej tabelo 6.3),
+• majhen delež tistih brezposelnih, ki ima doseženo terciarno raven izobrazbe – 3.6% (glej tabelo 6.4).
+Slabosti so:
+• najmanjši delež študentov, vpisanih na terciarno raven izobraževanja – 35.5% (glej tabelo 6.1),
+• največji delež tistih brezposelnih, ki ima doseženo sekundarno raven izobrazbe – 69.1% (glej tabelo 6.4),
+• najkrajša pričakovana leta šolanja: za moške 14 let in za ženske 15 let (glej tabelo 6.7),
+• najmanjši celotni izdatki, namenjeni za izobraževalne institucije – 4.58% svojega BDP (glej tabelo 6.2),
+• največji delež delovne sile, ki ima doseženo sekundarno raven izobrazbe – 78.1% (glej tabelo 6.3),
+• najmanjši delež delovne sile, ki ima doseženo terciarno raven izobrazbe – 11.6% (glej tabelo 6.3),
+• majhen delež sredstev, namenjenih za R&R – 1.2% svojega BDP (glej tabelo 6.8),
+• majhna vključenost delovne sile v izobraževalne programe v:
+· starostnem razredu od 25 do 34 let – 14%,
+· starostnem razredu od 35 do 44 let – 15%,
+· starostnem razredu od 45 do 54 let – 13% (glej tabelo 6.9).
+
+V povprečju z ostalimi izbranimi državami pa je Češka na sledečih področjih:
+• delež tistih brezposelnih, ki ima doseženo primarno raven izobrazbe – 27.3% (glej tabelo 6.4),
+• razmerje učitelj-učenec na primarni ravni izobraževanja: 18.3 učencev na učitelja (glej tabelo 6.5),
+• razmerje učitelj-učenec na sekundarni ravni izobraževanja: 13.4 učencev na učitelja (glej tabelo 6.5),
+• razmerje učitelj-učenec na terciarni ravni izobraževanja: 17.3 učencev na učitelja (glej tabelo 6.5),
+• delež tujih študentov, ki so vpisani na terciarno raven izobraževanja – 4.3% (glej tabelo 6.6),
+• vključenost delovne sile v izobraževalne programe v starostnem razredu od 55 do 64 let – 12% (glej tabelo 6.9).
+MADŽARSKA:
+Prednosti so:
+• najmanj učencev na učitelja v razmerju učitelj-učenec na primarni ravni izobraževanja: 10.6 (glej tabelo 6.5),
+• majhen delež tistih brezposelnih, ki ima doseženo terciarno raven izobrazbe – 4.1% (glej tabelo 6.4),
+• malo učencev v razmerju učitelj-učenec na sekundarni ravni izobraževanja: 11.8 (glej tabelo 6.5).
+Slabosti so:
+• najmanjši delež sredstev, namenjenih za R&R – samo 1% svojega BDP (glej tabelo 6.8),
+• najmanjša vključenost delovne sile v izobraževalne programe v:
+· starostnem razredu od 25 do 34 let – 6%,
+· starostnem razredu od 35 do 44 let – 6%,
+· starostnem razredu od 45 do 54 let – 4%,
+
+· starostnem razredu od 54 do 64 let – 4% (glej tabelo 6.9).
+• majhni celotni izdatki, namenjeni za izobraževalne institucije – 5.18% svojega BDP (glej tabelo 6.2),
+• visok delež delovne sile, ki ima doseženo sekundarno raven izobrazbe – 65.2% (glej tabelo 6.3),
+• nizek delež delovne sile, ki ima doseženo terciarno raven izobrazbe – 16.5% (glej tabelo 6.3),
+• visok delež tistih brezposelnih, ki ima doseženo primarno raven izobrazbe – 35.4% (glej tabelo 6.4),
+• visok delež tistih brezposelnih, ki ima doseženo sekundarno raven izobrazbe – 60.5% (glej tabelo 6.4),
+• majhen delež tujih študentov, vpisanih na terciarno raven izobraževanja – 3.1% (glej tabelo 6.6),
+• majhen delež študentov, vpisanih na terciarno raven izobraževanja – 51.1% (glej tabelo 6.1).
+V povprečju z ostalimi izbranimi državami pa je Madžarska na sledečih področjih:
+• delež delovne sile, ki ima doseženo primarno raven izobrazbe – 18.2% (glej tabelo 6.3),
+• razmerje učitelj-učenec na terciarni ravni izobraževanja: 14.8 učencev na učitelja (glej tabelo 6.5),
+• pričakovana leta šolanja: za moške 15 let in za ženske 16 let (glej tabelo 6.7).
+SLOVENIJA:
+Prednosti so:
+• majhen delež tistih brezposelnih, ki imajo doseženo terciarno raven izobrazbe – 5.3% (glej tabelo 6.4),
+• malo učencev na učitelja v razmerju učitelj-učenec na primarni ravni izobraževanja: 13 (glej tabelo 6.5),
+• visok delež študentov, vpisanih na terciarno raven izobraževanja – 68.4% (glej tabelo 6.1).
+
+Slabosti so:
+• največ učencev v razmerju učitelj-učenec na terciarni ravni izobraževanja: 33 (glej tabelo 6.5).
+• majhen delež sredstev, namenjenih za R&R – le 1.5% svojega BDP (glej tabelo 6.8),
+• visok delež tistih brezposelnih, ki ima doseženo sekundarno raven izobrazbe – 63.2% (glej tabelo 6.4),
+• majhen delež delovne sile, ki ima doseženo terciarno raven izobrazbe – 16.6% (glej tabelo 6.3),
+• visok delež delovne sile, ki ima doseženo primarno raven izobrazbe – 21% (glej tabelo 6.3),
+• visok delež delovne sile, ki ima doseženo sekundarno raven izobrazbe – 62% (glej tabelo 6.3).
+V povprečju z ostalimi izbranimi državami pa je Slovenija na sledečih področjih:
+• pričakovana leta šolanja: za moške 15 let in za ženske 17 let (glej tabelo 6.7),
+• delež tistih brezposelnih, ki ima doseženo primarno raven izobrazbe – 33.3% (glej tabelo 6.4),
+• razmerje učitelj-učenec na sekundarni ravni izobraževanja: 14 učencev na učitelja (glej tabelo 6.5).
+6.2 SPLETNI INTERVJU: VSEŽIVLJENSKO UČENJE V KANADI
+Moj empirični del diplomske naloge sem poleg primerjav kakovostnih prvin Kanade z ostalimi izbranimi izobraževalno vzgojnimi sistemi podkrepila še s spletnim intervjujem.
+Uporabljena metoda dela je kvalitativne narave, saj so vprašanja v intervjuju v obliki strukturiranega intervjuja, na katera je profesor lahko prosto odgovarjal.
+Spletni intervju sem naredila s profesorjem Frein-om, ki je strokovnjak na področju vseživljenjskega učenja na fakulteti Simon Fraser University v Vancouvru. V nadaljevanju sledi prevod intervjuja, originalni izvod intervjuja pa si lahko ogledate v prilogi (glej Priloga št. 4).
+
+1) Se strinjate s trditvijo, da je tako na področju dela in kot v družbi nasploh, posameznikova največja prednost v prihodnosti njegova zmožnost in pripravljenost da učenje postane vseživljenjska aktivnost?
+Menim, da je bila posameznikova zmožnost prilagoditi se na spremembe (s čimer je povezana tudi njegova zmožnost učiti se) vedno pomemben faktor individualnega uspeha. Glede na vse hitrejše tehnološke spremembe, ki se odvijajo v svetu, sta danes predvsem pomembni posameznikova pripravljenost na tovrstne hitro se odvijajoče spremembe ter njegova zmožnost, da se nanje odzove. Vseeno sem mnenja, da precenjujemo naravo vseživljenjskega učenja, če menimo, da je le-to ednina največja osebna prednost, ki jo posameznik lahko premore. Tu ne smemo zanemariti pomembnih faktorjev, kot na primer: ambicija, socio-ekonomski začetni položaj ipd., ki igrajo pomembno vlogo pri uspehu nadaljnje kariere. Bilo bi lepo, če bi bilo učenje tako pomembno, toda dvomim da je.
+2) Kako lahko po vašem mnenju vseživljenjsko učenje pripravi posameznika za prihodnost?
+Zdrav odnos do vseživljenjskega učenja je povezan s samoizpopolnitvijo, samostojnim razvojem ter z dovzetnostjo. Vse tri omenjene lastnosti so namreč nadvse dobrodošle, ko se soočamo s spremembami in novimi izzivi.
+3) Kako izgleda kultura vseživljenjskega učenja in ali lahko o tovrstni kulturi govorimo v Kanadi?
+Po mojem mnenju je kultura vseživljenjskega učenja takšna kultura, kjer družba vrednoti vseživljenjsko učenje in kjer je samostojen razvoj prikazan v pozitivni luči. Verjamem, da v Kanadi tovrstna ''kultura'' obstaja v določenih segmentih družbe, ne pa povsod.
+
+4) Kako se koncepti vseživljenjskega učenja spodbujajo v šolah?
+Na žalost menim, da se tovrstni koncepti v šolah ne spodbujajo. Na vseh ravneh izobraževanja, tako v ZDA kot tudi v Kanadi, je velik poudarek pri izobraževanju zlasti na pridobivanju potrebnih spretnosti ter na pripravah na kariero. Tu je vseeno potrebno omeniti, da se izvajajo programi za izobraževanje odraslih, ki jih ponujajo skoraj vse post-sekundarne institucije. Nekateri tovrstni izobraževalni programi so tudi zelo dobro obiskani. Veliko posameznikov se vrne v šole in si kot odrasli odločijo pridobiti diplomo (bodisi na dodiplomski ali na podiplomski ravni izobraževanja). Ameriške in kanadske institucije so na splošno dobre kar se tiče ponujanja možnosti dodatnih izobraževanj za zaposlene, kot npr. part-time predavanja in študij na daljavo.
+------------------------------------------------------------------------------------------------------------ 5) Raziskava OECD iz leta 2003 kaže, da imata Danska in Finska visoko stopnjo udeleženosti zaposlenih v formalnih, neformalnih in informalnih izobraževanjih: Danska 80% ter Finska 78%. Kanada je s svojimi 56% po tej raziskavi vidno zaostaja.
+Kaj lahko vlada Kanade in njene province ter teritoriji v prihodnosti storijo, da bi se to stanje izboljšalo?
+To vprašanje predvideva, da je izboljšanje stanja v rokah vlade! Kot prvo nisem prepričan, da to stanje lahko izboljša vlada. Obstaja kar nekaj možnih razlag za relativno majhno udeležbo zaposlenih v tovrstnih izobraževanjih v Kanadi v primerjavi z evropskimi državami. Stroški nadaljnjega izobraževanja predstavljajo eno največjih ovir tu v Kanadi, saj se ti stroški znatno zvišujejo.
+6) Nekatere druge raziskave v Kanadi kažejo, da ovire, kot na primer: nižja stopnja pridobljene formalne izobrazbe, starost, nizka podpora delodajalca, pomanjkanje denarja in časa, onemogočajo odraslim, da bi se udeležili dodatnih izobraževanj in šolanj.
+
+Kakšni so vladni predlogi za premagovanje tovrstnih ovir in kako motivirati tovrstne ljudi, da bi se vključili v dodatna izobraževanja?
+Ponovno, pospeševanje nadaljnjega post-sekundarnega izobraževanja je pod okriljem vladne politike, ki predvideva aktivno vlogo zvezne vlade in/ali provincijskih vlad.
+Nepravilno bi bilo trditi, da so Kanadčani v celoti nemotivirani za nadaljevanje izobraževanja po dokončani primarni, sekundarni ali terciarni stopnji izobraževanja.
+Mnogo delodajalcev v Kanadi podpira nadaljnje izobraževanje svojih zaposlenih. A vendarle je Kanada obče znana po tem, da privatni sektor namenja malo finančne pomoči dodatnemu izobraževanju (celo manj kot v ZDA). Kako bolj aktivno finančno podpirati nadaljnje izobraževanje pa je zapletena naloga. Ena izmed možnih rešitev bi bila manjše plačevanje davkov tistih podjetij, ki podpirajo tovrstno izobraževanje. Druga rešitev bi bila lahko tudi povečanje zveznih ali provincijskih subvencij tistim podjetjem, ki želijo dodatno izobraževati svoje zaposlene. Obe rešitvi pomenita povečane zvezne izdatke, kar pa ima za posledico lahko povečane davke. Ker tako Kanada kot tudi ZDA stremita k modelu zmanjševanja davkov, sedaj na ekonomskem in političnem področju ni pravi čas za povečanje izdatkov in davkov.
+7) V enem od člankov sem zasledila podatek, da se na Norveškem odvija proces dokumentacije neformalno ter informalno pridobljenega znanja. Postavlja se nacionalni sistem za dokumentacijo in priznavanje neformalno in informalno pridobljenega znanja, katerega zakonitost bo priznana tako na področju dela kot tudi v izobraževalnem sistemu.
+Je tudi Kanadi poznan tovrstni sistem?
+Pobude tako z zvezne kot tudi provincijske strani so, da bo v prihodnje potrebno bolj strogo proučevati izobraževanje odraslih. Ena izmed tovrstnih pobud je Kanadski svet za učenje (The Canadian Council on Learning). Norveška pa je v tem hipu na tem področju nedvomno bolj ambiciozna kot Kanada.
+------------------------------------------------------------------------------------------------------------ 8) Katere so po vašem mnenju prednosti konceptov vseživljenjskega učenja v Kanadi v primerjavi z ostalimi državami in kakšne spremembe so potrebne, da bo Kanada v prihodnosti dosegla svoja zadana cilja: ''proizvesti najbolj kvalificirano in sposobno delovno silo na svetu'' ter ''postati ena najbolj inovativnih držav na svetu''?
+
+Kanada daje pomemben poudarek ekonomskemu razvoju prav s pomočjo visokošolskega izobraževanja. Večino poudarka je tu po mojem mnenju predvsem na tradicionalno pripravljalnih programih, ki se odvijajo na univerzah. Osebno sem zelo skeptičen do vladnih programov, ki spodbujajo ekonomski razvoj s pomočjo visokošolskega izobraževanja – tovrsten proces je ponavadi prepočasen in oviralen. Bolj verjamem v učinkovito sodelovanje med industrijo in visokošolskim izobraževanjem. Če bo vlada s svojo pomočjo pomagala pri vzpostavi tovrstnega sodelovanja, bo s tem na najboljši poti k uresničitvi svojih zadanih ciljev.
+9) In za zaključek še eno vprašanje: Ali lahko govorimo o Kanadi kot o družbi znanja?
+Kanada je država, ki je zanjo nekako neugodno razpeta med na eni strani kulturo, vrednotami in politikami ZDA in na drugi strani Evropsko Unijo. Sistem socialne blaginje ostaja v Kanadi mnogo čvrstejši kot v ZDA, toda nedavni politični trendi v Kanadi kažejo, da si Kanadčani želijo manjšo vlado, ki bi več denarja obdržala v žepih davkoplačevalcev. Ne pričakujem, da bi se Kanada lotila katerekoli pomembne pobude s čimer bi povečala splošno javno izobraževanje…vendar sem mnenja, da bi Kanada lahko postala vodilna država na svetu na določenih področjih industrije in bi se na tovrstnih področjih lahko tržila s svojo dobro izobraženo delovno silo.
+10) Bi vi osebno želeli izpostaviti (poudariti) še kaj?
+Da bi razumeli Kanado, moramo razumeti odnos med ZDA in Kanado. Ta odnos je kompleksen in se še razvija. ZDA imajo mnogo najprestižnejših univerz kar jih obstaja na svetu – toda tovrstne univerze so nedostopne mnogim saj se nanje lahko vpišejo le tisti najpremožnejši. So torej ZDA na znanju temelječa družba ali družba vseživljenjskega učenja? Mi bi verjetno rekli ne. Toda ironija je, da so po eni strani ZDA nedvomno v svetu v samem vrhu na področju raziskav in glede visokošolskega izobraževanja, na drugi strani pa tovrstno izobraževanje istočasno postaja nedostopno večini prebivalstva.
+
+Kanada je v marsičem podobna ZDA, vendar s to razliko, da v celoti verjame, da dostop do izobraževanja omogoča veliko večjemu delu družbe. Potemtakem so izobraževalne institucije v Kanadi dobre, a ne odlične. Kanada ne pozna takih ekstremov, kot jih imajo v ZDA.
+Jaz sem Američan, ki v Kanadi živim že več kot deset let. Glede mojih izkušenj v zvezi z izobraževanjem lahko povem, da so Kanadčani na splošno bolje izobraženi kot Američani, vendar (ironično) to cenijo manj kot Američani.
+6.3. RAZISKAVE PEDAGOŠKEGA INŠTITUTA O UPORABI INFORMACIJSKIH IN KOMUNIKACIJSKIH TEHNOLOGIJ V IZOBRAŽEVANJU V KANADI
+V družbi znanja je informacijsko komunikacijska tehnologija (v nadaljevanju IKT) nepogrešljiv del, zato je potrebno učence že za čas njihovega izobraževanja pripravljati na vstop v tovrstno družbo. Tako povsod v Kanadi že več kot 20 let spodbujajo uporabo IKT v izobraževalnih institucijah na vseh ravneh izobraževanja. Nastali so številni skladi za nakupe računalnikov, dodatne računalniške opreme ter računalniških omrežij za izobraževalne institucije; razvijajo se nove strategije študija na daljavo; izobraževalne institucije skrbijo za nenehno dopolnjevanje znanj in usposabljanje učiteljev na področju IKT. V standardni kurikulum pa se po novem vključujejo tudi veščine poznavanja in uporabljanje IKT.
+Po raziskavah Pedagoškega inštituta v Ljubljani ima v Kanadi vsaka provinca in teritorij lastni načrt, kako se čim bolje povezati z IKT in jo vključiti v svoje izobraževalne institucije (glej Priloga št. 5) . Province in teritoriji pa pri povezovanju in uporabi IKT tesno sodelujejo tudi z zvezno vlado predvsem s pomočjo zveznih pobud in sodelovanja z Zborom ministrstva za izobraževanje Kanade (CMEC, The Council of Ministers of Education Canada).
+
+CMEC, kanadske province in teritoriji so skupno sprejeli mrežo prioritet na področju informacijskih in komunikacijskih tehnologij. Poudarjajo naslednje: 1. Splošna vizija razvoja informacijskih tehnologij Kanade je komplementarna viziji ugotovitev provinc in območij.
+2. Razvoj strateškega plana bo identificiral možne koristi pristopov sodelovanja in določanja prioritet za CMEC.
+3. Pregled izobraževanja učiteljev, ki vključuje potek izobraževanja in izpopolnjevanja za učitelje na področju informacijskih tehnologij in razvoj obširnih praks in politik.
+4. Pregled izida izobraževanja učencev pod vodstvom Alberte na zahodu in Nove Škotske na vzhodu, ki določijo ključe za učenje informacijskih tehnologij ob koncu 3., 6., 9., in 12. leta šolanja.
+5. Ukrep, na primer za učenje, ki prikazuje poti oziroma načine za dosego določenega rezultata.
+6. Ocena možnosti ustanovitve posvetovalnih mehanizmov za doživljenjsko učenje informacijske tehnologije.
+(Japelj in Čuček, 2000: 41)
+Kot vidimo, je tudi področje IKT področje, na katerem se odvijajo nenehne spremembe, zato je tudi tu potrebno hitro zastarajoče pridobljeno znanje nenehno dopolnjevati. Tako tisti, ki izobražujejo kot tudi tisti, ki se izobražujejo, bodo morali tako v prihodnosti svoje pridobljeno znanje sproti dopolnjevati.
+
+7. ZAKLJUČEK
+Na podlagi napisanih teoretičnih ugotovitev o Kanadi in njenem izobraževalno vzgojnem področju, podprtih tudi z mnogimi primerjavami, spletnim intervjujem in z raziskavo Pedagoškega inštituta Ljubljana, sedaj v zaključku sledi navezava na mojo postavljeno hipotezo.
+Da bi bila kakovost na ravni izobraževalno vzgojnega sistema v Kanadi še bolje zagotovljena ter da bi se obenem tudi ohranjala, bo potrebno na tem področju v Kanadi narediti določene spremembe. Te so sledeče: I. Področje terciarne ravni izobraževanja:
+Kljub podatku, ki kaže, da ima Kanada izmed izbranih držav največji delež zaposlenih z doseženo terciarno ravnijo (glej tabelo 6.3), pa ima hkrati tudi visok delež brezposelnih, ki imajo doseženo tovrstno raven izobrazbe (glej tabelo 6.4). Kako rešiti ta nastali problem? Očitno gre tu pri brezposelnih osebah za nekakšno strukturno brezposelnost ali pa gre pri tistih, ki imajo zaposlitev za preizobraženost. Če gre za strukturno brezposelnost, potem to pomeni, da je ponudba delovne sile, ki ima doseženo terciarno raven izobrazbe, večja od povpraševanja po tovrstni delovni sili. To bi bilo mogoče z aktivno politiko zaposlovanja v določenem časovnem obdobju nekoliko omiliti. Na drugi strani pa se Kanada sooča s preizobraženostjo svojih diplomantov, kar je prav tako problematično. Danes države povsod po svetu s svojimi izobraževalnimi politikami spodbujajo mlade k vpisu v terciarne ravni izobraževanja. To posledično pripelje do preizobraženosti, saj ni dovolj delovnih mest, ki bi zahtevali, da bi jih opravljali ljudje z doseženo terciarno ravnijo izobrazbe. Za omilitev ali celo odpravo obeh problemov, bo tako nujno potrebna večja usklajenost med trgom delovne sile in izobraževalnimi ustanovami na terciarni ravni izobraževanja. Predvsem pa bo potrebno na trgu delovne sile opraviti podrobne raziskave o tem, katerih delovnih mest z ustrezno doseženo izobrazbeno ravnijo je dovolj, katerih delovnih mest z doseženo ravnijo izobrazbe primanjkuje in kakšno sliko kažejo trendi za prihodnost.
+
+V prihodnje bi morali v Kanadi tudi povečati delež tujih študentov na terciarni ravni izobraževanja. Iz zdajšnjih 2.8% (glej tabelo 6.6), bi se moral ta delež v prihodnje še povečati. Res je, da je za Kanado značilen multikulturalizem, saj v njej živijo ljudje, ki so v Kanado emigrirali iz celega sveta. To že samo po sebi pomeni, da je izmenjava različnih kultur in s tem spoznavanje kulturnih raznolikosti v Kanadi že sedaj na izjemno visoko ravni. Vendar se s prihodom tujih študentov veča mobilnost le-teh, kar nedvomno še bolj pripomore k večji kakovosti na izobraževalno vzgojnem področju.
+II. Področje vseživljenjskega učenja:
+S tem, da je danes vseživljenjsko učenje del vsakega posameznika, se strinja tudi Delors, ki pravi: » V svetu, v katerem vse hitrejše spremembe in globalizacija spreminjajo odnos posameznika do časa in prostora, je vseživljenjsko učenje bistveno, saj ljudem omogoča, obvladovanje lastne usode« (Delors, 1996: 94). Tudi v Kanadi bo potrebno v prihodnje še bolj s strani države kot tudi s strani posameznih provincijskih in teritorialnih politik spodbujati zaposlene k še večji vključenosti v raznovrstne izobraževalne programe, ki jih nudi njihov razvejan in kakovosten izobraževalno vzgojni sistem.
+Tudi intervju z g. Frein-om je jasno pokazal, da je področje vseživljenjskega učenja v Kanadi še svojevrstna pomanjkljivost. Koncepti vseživljenjskega učenja se v šolah na primarni in sekundarni ravni ne spodbujajo, kar je zaskrbljujoče. Vsakega posameznika bi bilo potrebno tekom njegovega celotnega izobraževanja spodbujati k udejstvovanju v nadaljnjih izobraževalnih programih. Potrebno bo tudi povečati stopnjo udeleženosti zaposlenih bodisi v formalnih, neformalnih ali v informalnih izobraževalnih programih, kjer bo v prihodnje potrebno priti do takšnih rešitev, ki bodo ustrezale tako vladi, provincam in teritorijem na eni strani ter izvajalcem tovrstnih izobraževalnih programov na drugi strani.
+Profesor Frein ponuja tudi nekaj rešitev v zvezi z motiviranjem tistih zaposlenih, ki imajo različne ovire pri udeležbi dodatnih izobraževanj, a ker to v prihodnosti pomeni dodatne stroške za državo, bo nadaljnje potrebno odpraviti ta nastali problem. To pa po mojem mnenju ne bo niti malo lahko, saj se danes vse države soočajo s problemom kako na eni strani čim bolj racionalno porabiti svoj proračunski denar in imeti hkrati čim boljše rezultate ter imeti na drugi strani čim manj dodatnih stroškov ob reševanju novo nastalih problemov.
+
+V intervjuju g. Frein prav tako zagovarja idejo, da bi se v prihodnosti v Kanadi dajalo več poudarka na, po njegovem mnenju pomembni povezavi med industrijo in terciarnem izobraževanjem. Le tako bo Kanada mnenju bližje zastavljenim ciljem. Po njegovem mnenju je napak ekonomski razvoj spodbujati s pomočjo terciarnega izobraževanja, ampak je potrebno utrditi odnos med tovrstnim izobraževanjem in industrijo.
+Osebno sem mnenja, da je ljudem tako v Kanadi kot tudi drugod po svetu potrebno v pozitivni luči prikazati pomen vseživljenjskega učenja, jim s tem pokazati na njegove številne prednosti ter jim dati vedeti, da le-to »zahteva trud, a daje tudi zadovoljstvo ob odkrivanju novega« (Delors, 1996: 94).
+Pravkar opisani področji sta področji, za katera sem mnenja, da bi jima bilo v prihodnje potrebno v Kanadi nameniti malo več pozornosti. Je pa Kanada kljub nekaterim pomanjkljivostim v primerjavi z ostalimi izbranimi državami, po mnogih prikazanih kazalcih v samem vrhu, zlasti kar zadeva zagotavljanje kakovosti na izobraževalno vzgojnem področju. O njenih primerjalnih prednostih sem pisala že v 6 poglavju. Sedaj bi se rada osredotočila še na eno njeno prednost na izobraževalno vzgojnem področju in za katero menim, da je ključna. To je decentralizacija šolstva.
+»Razprava o tem, do katere stopnje centralizirati ali decentralizirati upravljanje šolskega sistema, je lahko ključna pri uspešnosti strategije za izboljšanje ali reformiranje sistema« (Delors, 1996: 150). Kanada je tu v veliki prednosti pred Evropo, saj ima močno decentraliziran šolski sistem. Vloga zvezne države je na področju urejanja šolstva realativno majhna, kljub temu pa centralna oblast zagotavlja sprejemanje določenih skupno primerljivih rešitev. Temeljne pristojnosti na področju razvoja in organizacije šolstva so v rokah provinc in teritorijev, ki imajo na tem področju tudi zakonodajno oblast. Zvezna vlada skrbi predvsem za razvoj in financiranje šolstva, vse ostalo je prepustila provincam oziroma teritorijem. Le-ti imajo vsak svojo vlado, ki med vrsto dolžnosti, ki jih ima, med drugim odloča tudi o usodi celotnega izobraževalno vzgojnega sistema na svojem ozemlju.
+
+Decentralizacija šolstva se je po mojem mnenju v Kanadi izkazala za uspešno izbiro, a to še ne pomeni, da je kanadski model šolstva idealen. »Idealnega modela sicer ni, a obstajajo številni dokazi, ki govorijo v prid prenosa odgovornosti na območno ali lokalno raven, predvsem ko gre za izboljšanje kakovosti sprejemanja odločitev, za povečevanje čuta odgovornosti posameznikov in skupnosti ter bolj na splošno za spodbujanje inovativnosti in sodelovanja vseh« (Delors, 1996: 151).
+Na koncu lahko svojo hipotezo potrdim - izobraževalno vzgojni sistem Kanade je tako po svoji organizacijski grajenosti kot po doseženih delovnih učinkih kakovosten in naravnan k prihodnosti. Kanadski šolski sistem ima seveda tudi določene pomanjkljivosti, vendar so te skoraj zanemarljive s prednostmi in stabilnostjo, ki jo prinaša sedanja ureditev. Ima izobraževalno vzgojni sistem, ki je organizacijsko kakovostno postavljen, udeleženci raznovrstnih izobraževalno vzgojnih programov pa po njihovem uspešnem zaključku postanejo visoko izobražena delovna sila, ki koncept vseživljenjskega učenja udejanjajo večji del svojega življenja.
+
+8. UPORABLJENA LITERATURA
+Erčulj, Justina (2005): V učence usmerjeno poučevanje; Mreže učečih se šol. Šola za ravnatelje, Ljubljana
+Erčulj, Justina in Nada Trunk Širca s sodelavci (2000): S sodelovanjem do kakovosti; Mreže učečih se šol. Šola za ravnatelje, Ljubljana
+Delors, Jacques (1996): Učenje, skriti zaklad; Poročilo Mednarodne komisije o izobraževanju za 21. stoletje, pripravljeno za UNESCO. United Nations Educational, Scientific and Cultural Organisation, Paris, France. (Ministrstvo za šolstvo in šport, Ljubljana)
+Education Indicators in Canada (2003): Report of the Pan-Canadian Educational Indicators Program 2003. Canadian Educational Statistics Council, Toronto Glasser, William (1991): Dobra šola. Didakta, Radovljica Japelj, Barbara in Mojca Čuček (2000): Druga mednarodna raziskava uporabe informacijskih in komunikacijskih tehnologij v izobraževanju. Oddelek za IEA raziskave.
+Pedagoški inštitut, Ljubljana.
+Lipužič, Boris (1995): Izobraževanje kot razvojni dejavnik: šolski sistemi Združenih držav Amerike, Kanade in Nove Zelandije. Educa, Nova Gorica Masten, Igor (2006): ''Univerze na prepihu''. Dnevnik, 21 Medveš, Zdenko (2000): ''Kakovost v šoli''. Sodobna pedagogika 4, 51(117), 8-26 Valentinčič, Jože (1982): Nenehno izobraževanje. Univerzum, Ljubljana Zorko, Srečko (2003): Kako veste, da je vaša šola kakovostna?. V samozaložbi, Maribor Židan, Alojzija (2004): Za kakovostnejša družboslovna znanja (didaktični in znanstveni prispevki). FDV, Ljubljana Internetni viri http://www.statcan.ca/Daily/English/050928/d050928a.htm. 12.11.2005 http://canada.gc.ca/othergov/prov_e.html. 12.11.2005 http://educationcanada.cmec.ca/EN/EdSys/over.phpv. 12.11.2005 http://www.cesc.ca/pceip/PCEIP2003en.pdf. 25.11.2005 http://www.statcan.ca/english/research/81-595-MIE/81-595-MIE2004022.pdf.
+
+26.11.2005 http://www.oecth.com/canada/canadian_education_system.htm. 26.11.2005 http://www.cmec.ca/international/educationcanada.en.pdf.26.11.2005 http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC2.xls. 3.12.2005 http://www.oecd.org/dataoecd/41/36/33852192.pdf. 3.12.2005 http://ecd-elcc.ca/en/elcc/elcc_home.shtml. 3.12.2005 http://www.cmec.ca/international/educationcanada.en.pdf. 3.12.2005 http://www.cmec.ca/international/educationcanada.en.pdf. 3.12.2005 http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC7.xls.
+10.12.2005 http://www.aucc.ca/can_uni/general_info/overview_e.html. 10.12.2005 http://infozee.com/canada/education.htm. 10.12.2005 http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapD5.xls. 7.1.2006 www.infozee.com/canada/education.htm. 7.1.2006 http://studyincanada.com/english/geninfo/univ.asp. 7.1.2006 http://www.statcan.ca/Daily/English/051011/d051011b.htm. 7.1.2006 http://www.statcan.ca/english/research/81-595-MIE/81-595-MIE2004022.pdf. 9.1.2006 http://www.uis.unesco.org/TEMPLATE/html/Exceltables/education/ptr.xls. 9.1.2006 http://www.statcan.ca/english/freepub/81-582-XIE/2003001/excel/chapC5.xls. 12.1.2006 http://www.statcan.ca/english/freepub/81-004-XIE/200412/aets.htm. 15.1.2006 http://www.cesc.ca/pceip/PCEIP2003en.pdf. 3.2.2006 http://www.cesc.ca/pceip/PCEIP2003en.pdf. 3.2.2006 http://www.mvzt.gov.si/index.php?id=455#501. 6.2.2006 http://www.bologna-bergen2005.no/Docs/00- Main_doc/990719BOLOGNA_DECLARATION.PDF. 6.2.2006 http://www.see-educoop.net/education_in/pdf/ana-trends-struct-stud-grad-slo-slv-t01.pdf.
+12.2.2006 https://publications.worldbank.org/subscriptions/WDI/12.2.2006 http://ocde.p4.siteinternet.com/publications/doifiles/012005061T031.xls. 12.2.2006 http://www.oecd.org/dataoecd/0/60/35287543.xls. 12.2.2006 http://www.uis.unesco.org/TEMPLATE/html/Exceltables/education/ptr.xls. 25.2.2006 http://www.oecd.org/dataoecd/1/44/35287269.xls. 25.2.2006
+
+http://devdata.worldbank.org/wdi2005/Section2.htm. 25.2.2006 http://www.oecd.org/dataoecd/0/62/35287495.xls. 25.2.2006 http://www.mvzt.gov.si/index.php?id=455#501. 25.2.2006 http://www.occdsb.on.ca/ ~phi/classrooms.html. 12.3.2006 http://www.waet.uga.edu/ canada/canada.htm. 13.3.2006 http://www.waet.uga.edu/ canada/canada.htm. 13.3.2006 http://www.aboutlightingcontrols.org/.../utoronto.shtml. 13.3.2006 http://www.studyglobal.net/ canada.htm. 13.3.2006 Uradni list RS 20/2002, 8.3.2002: http://www.uradni-list.si/1/objava.jsp?urlid=200220&stevilka=853. 16.1.2006 Uradni list RS 63/2004, 10.6.2004: http://www.uradni-list.si/1/objava.jsp?urlid=200463&stevilka=2875. 16.1.2006
+
+9. PRILOGE
+Priloga št. 1: Učilnica prvega razreda:
+Vir: www.occdsb.on.ca/ ~phi/classrooms.html Priloga št. 2: Uporaba informacijske tehnologije v šolah
+
+Vir: www.waet.uga.edu/ canada/canada.htm
+Vir: www.waet.uga.edu/ canada/canada.htm Multimedijska učilnica v Torontu
+
+Vir: www.aboutlightingcontrols.org/.../ utoronto.shtml Priloga št. 3: Didaktični proces na univerzi
+
+Vir: www.studyglobal.net/ canada.htm Priloga št. 4:
+
+INTERVIEW
+Name, surname: Mark Frein Age: 42
+Profession: Professor at Simon Fraser University – Learning Strategic Group/Faculty of Business Administration, Vancouver, Canada
+1) Would you agree that in the work world and in society, people’s greatest asset in the future will be their ability and willingness to make learning a lifelong activity?
+I think that an individual’s ability to handle change (which is related to their ability to learn) has always been a factor in individual success. I do agree that the ability to change and deal with rapid change is becoming more important given the increased pace of technological change in the world. However, I think that we overestimate the nature of lifelong learning if we say it is the single biggest personal asset someone can have – things like ambition, socio-economic starting point, etc. are pretty important factors in career success, for example. It would be nice if learning were that important, but I doubt it is.
+2) How can in your opinion a lifelong learning prepare individuals for the future?
+A healthy attitude towards continuous learning relates to attitudes about self- improvement, self-development, and open-mindedness. These are all helpful when it comes to dealing with change and new challenges.
+3) How does a lifelong learning culture look like and can we talk about such a culture in Canada?
+
+I suppose a lifelong learning culture is a culture where continuous learning is valued in society and self-development is looked at in a positive light. In Canada, I believe that this “culture” exists in certain areas of society but not uniformly.
+4) How is the concept of lifelong learning being encouraged in your schools?
+I don’t think it is being encouraged, unfortunately. K-12 schools and university level education in North America have a heavy bias at this point on skills development and career preparation. There are adult learning focused programs, however, offered by almost every post-secondary institution. Some of these programs are very well attended.
+Many individuals return to school as adults to complete degrees (either undergraduate or graduate degrees) and North American/Canadian institutions are generally good at providing options to working adults such as part-time or online classes.
+------------------------------------------------------------------------------------------------------------ 5) An OECD survey from 2003 shows that Denmark and Finland have a very high participation rate of working adults in formal, non-formal and informal education and training: Denmark 80% and Finland 78%. Canada with 56% is clearly behind.
+What can the government of Canada and its provinces and territories do in the future to improve this result?
+This question assumes it is the role of governments to improve those results! For one, I’m not sure it is the role of government to improve those results. There would be several possible explanations for the relatively low participation compared to European countries. Cost of continuing education is clearly one major hurdle as Canadian costs are becoming significantly higher.
+6) Another surveys in Canada show that obstacles such as: lower levels of gained formal education, age, low support of employer, lack of money and time prevent adults to participate in job-related education and training.
+
+What are the government’s solutions to overcome these obstacles and motivate these people to learn?
+Again, this is a government policy question and presumes an active role of federal and/or provincial governments in promoting continuing post-secondary education. I think it would be incorrect to suggest that Canadians are, as a whole unmotivated to pursue learning past K-12 and formal post-secondary education. Many employers in Canada do support job training. However, Canada is notoriously low on the private sector spending money for training (even lower than the US). The complexity surrounding how to encourage more active spending on job training is very tricky … one solution would be tax incentives for companies that support training. Another would be increased federal or provincial subsidies for companies wishing to train their employees. In both cases, it requires increased government spending and hence possible increased taxation. Canada, like the US, is moving toward a lower taxation model so the economic/political climate at the current time is not good for arguments to increase spending and increase taxation.
+7) I read in one article that in Norway they have an ongoing process on documentation of non-formal and informal learnings. They are setting up a national system for the documentation and recognition of non-formal and informal learning that has legitimacy in both workplace and the education system.
+Is Canada also familiar with this kind of system?
+There are initiatives on the federal and provincial level to study adult education with more rigour. The Canadian Council on Learning is one such recent initiative. The system in Norway is more ambitious than anything I’m aware of in Canada at the moment.
+------------------------------------------------------------------------------------------------------------ 8) What in your opinion are the advantages of lifelong learning concepts in Canada in comparison with other countries and what changes need to be done in the future so that Canada would reach her aimed goals ‘’to develop the most skilled and talented labour force in the world’’ and ‘’to become one of the most innovative countries in the world’’?
+
+Canada does place a significant emphasis on economic development through higher education. Most of the emphasis, in my opinion, is through traditional university preparation programs. I am personally very skeptical of governmental programs to encourage economic development through higher education – the process is usually too slow and cumbersome. Rather, I strongly believe in effective partnerships between industry and higher education. At the governmental level, helping such partnerships to develop is likely the best way to achieve these goals.
+9) And for the conclusion: can we talk about knowledge-based society in Canada?
+Canada is a country that sits somewhat uncomfortably between the culture, values, and politics of the US and that of the European Union. The social welfare system remains much more robust in Canada than in the US but recent political trends in Canada show that the Canadian citizenry wants smaller government that is leaner and keeps more money in the taxpayers’ pockets. I do not expect Canada to undertake any major initiatives to increase general public education … however, I do think that Canada can be a world-leader in certain industries by marketing itself as a well-educated workforce overall.
+10) Would you personally like to emphasize anything else?
+To understand Canada one must understand the relationship between the US and Canada.
+Canada. The relationship is complex and continues to evolve. The US has many of the most prestigious universities in the world – but these universities are unaffordable to all but the most wealthy. Is the US a knowledge-based or lifelong learning society? We would probably say no. But the irony is that the US is clearly the source of tremendous breakthrough research and higher education while at the same time making this top-level learning inaccessible to most of society. Canada holds many similar values to the US, but it does overall believe in affordable access to education for a much greater portion of society. Thus, the educational institutions in Canada are good, but not great. Canada does not have the extremes that the US does.
+
+I am an American that has been living in Canada for over 10 years. My experience in Canada as it relates to education is that Canadians are generally better educated than Americans, but they (ironically) value education less than Americans.
+Thank you for your cooperation!
+
+Priloga št. 5: Politike provinc in teritorijev pri povezovanju in uporabi IKT v izobraževalnih institucijah PROVINCE in TERITORIJI
+NAČRTI IN CILJI ZA POVEZOVANJE Z IKT V IZOBRAŽEVALNIH INSTITUCIJAH
+New Brunswick
+NAČRT:
+''Strategija povezovanja tehnologije v javnem izobraževanju v Novem Brunswicku''
+CILJI:
+- dati učencem in vzgojiteljem dostop do IKT
+-okrepiti zmožnosti uporabe IKT (http://www.gov/nb.ca/education) Prince Edward Island
+NAČRT:
+''Izobraževalna komunikacijska tehnologija''
+CILJI:
+- nuditi učiteljem in učencem dostop do elektronske pošte in interneta, svetovnega spleta (WWW)
+- povezovanje tehnologij v programe
+- ustanavljanje združenj z zasebnim sektorjem
+- izobraževanje učiteljev (http://www.gov.pe.ca/educ) Nova Scotia
+NAČRT:
+''Vizija in rezultati učenja za povezovanje z informacijsko tehnologijo znotraj programov javnih šol Nove Škotske''
+CILJ:
+- uporaba nove informacijske tehnologije (http://www.ednet .ns.ca) Newfoundland in Labrador
+NAČRT:
+''Stem-Net''
+CILJI:
+- obdržati in izboljšati dostop do računalnikov in do interneta v vseh osnovnih in srednjih šolah
+(http://www.govnf.ca/edu/startedu.htm) Quebec
+
+CILJI:
+Povezovanje in uporaba informacij in komunikacijskih tehnologij sta povezana s planom, ki pokriva:
+- izobraževanje učencev in njihovih učiteljev
+- računalniško opremo in material za pouk
+- glavne komunikacijske in informacijske poti
+- organizacijo, inovacije in raziskovanje (http://www.meg.gouv.qc.ca) Ontario
+CILJI:
+Naloge šolskih uprav:
+- pripravljajo dolgoročne plane za povezovanje računalnikov v kurikulum
+- časovno se držijo svojih planov
+- njihovi plani so na razpolago za nadzor na zahtevo Ministrstva (http://www.edu.gov.on.ca) Manitoba
+CILJI:
+- uporaba izobraževalnih tehnologij
+- izboljšanje izobraževalnega programa
+- pospeševanje sodelovanja
+- dajanje učencem več možnosti izbire
+- nuditi zanimivejše in bolj ekonomične izobraževalne možnosti
+(http://www.mb.ca/educate/main/index.html) Saskatchewan
+CILJI:
+Poudarek je na pomembnosti ponudbe jasne, fleksibilne podpore za izobraževanje.
+Razpoložljiva podpora za pridobivanje mora omogočiti primerno tehnološko znanje, ki temelji na današnji družbi, v kateri je najpomembnejše znanje.
+(http://www.gov.sk.ca/govt/educ) Alberta
+CILJI:
+- aktivno sodelovanje provincijske vlade pri povezovanju z IKT
+- jasen izobraževalni program
+- poraba znatnih finančnih sredstva za modernizacijo z računalniško opremo
+- promoviranje uporabe tehnologije (http://www.ednet.edc.gov.ab.ca) British Columbia
+
+CILJI:
+- večja razpoložljivost tehničnih virov in izobraževalnih materialov za učence in učitelje
+- močnejše povezave med vladami provinc in zasebnim sektorjem
+- izboljšanje elektronskih povezav med šolami
+- izpopolniti osnovo za povezavo informacijskih tehnologij s celotnim izobraževanjem v provinci (http://www.bced.gov.bc.ca) Northwest Territories
+CILJI:
+- Oddelek za izobraževanje, kulturo in zaposlovanje je eden od glavnih partnerjev, ki pomagajo pri stroških s komunikacijskimi povezavami
+- Oddelek pospešuje te povezave v izobraževalnemu programu
+- aktivno sodelovanje z zvezno vlado in ostalimi provincami za ustanovitev povezovanja novih tehnologij
+(http://siksik.learnet.nt.ca/ece/default.html) Yukon
+CILJI:
+- Oddelek za izobraževanje skrbi za podporo novemu in prelomnemu izobraževalnemu programu za ljudi vseh starosti, ki vključuje: sociološko-psihološko pomoč, posredovanje, obnavljanje bralnih sposobnosti, pismenost, študij na daljavo in dostop do interneta
+- aktivno sodelovanje z zvezno vlado in ostalimi provincami za ustanovitev povezovanja novih tehnologij (http://www.gov.yk.ca/depts/education) Nunavut
+CILJI:
+- Dogovori z Severnozahodnimi območji in Nunavutom v splošnem vplivajo na podrobnosti izobraževalnega sistema v Nunavutu.
+Vir: (2000) Druga mednarodna raziskava uporabe informacijskih in komunikacijskih tehnologij v izobraževanju. Oddelek za IEA raziskave. Pedagoški inštitut, Ljubljana.
+

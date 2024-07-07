@@ -1,0 +1,668 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-11000" doc_id="11000" text_id="18317" cobiss_id="17431304" title="Simetrije ravninskih likov" author="Strelec, Boštjan" supervisor="Benkovič, Dominik" year="2010" publisher_abbr="UM FNM" publisher="Fakulteta za naravoslovje in matematiko" place="Maribor" url="http://dkum.uni-mb.si/Dokument.php?id=12914" type="Diplomsko delo" udc="51(043.2)" udc_desc="Matematika" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb1.p2" xml:lang="sl">FAKULTETA ZA NARAVOSLOVJE IN MATEMATIKO</p>
+    <p xml:id="pb1.p3" xml:lang="sl">Oddelek za matematiko in računalništvo</p>
+    <p xml:id="pb1.p4" xml:lang="sl">DIPLOMSKO DELO</p>
+    <p xml:id="pb1.p5" xml:lang="sl">Boštjan Strelec Maribor, 2010</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb2.p2" xml:lang="sl">FAKULTETA ZA NARAVOSLOVJE IN MATEMATIKO</p>
+    <p xml:id="pb2.p3" xml:lang="sl">Oddelek za matematiko in računalništvo Diplomsko delo</p>
+    <p xml:id="pb2.p4" xml:lang="sl">SIMETRIJE RAVNINSKIH LIKOV</p>
+    <p xml:id="pb2.p5" xml:lang="sl">Mentor: Kandidat: dr. Dominik Benkovič Boštjan Strelec docent</p>
+    <p xml:id="pb2.p6" xml:lang="sl">Maribor, 2010 Zahvala</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">Zahvala gre staršem, ki so mi omogočili študij in vsem ostalim, ki so mi v času študija stali ob strani. Zahvaljujem se tudi mentorju doc. dr. Dominiku Benkoviču za njegove nasvete in vodenje pri izdelavi diplomskega dela.</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb4.p2" xml:lang="sl">FAKULTETA ZA NARAVOSLOVJE IN MATEMATIKO</p>
+    <p xml:id="pb4.p3" xml:lang="sl">Oddelek za matematiko in računalništvo Izjava</p>
+    <p xml:id="pb4.p4" xml:lang="sl">Podpisan Boštjan Strelec, rojen 07.08.1985, študent Fakultete za naravoslovje in matematiko Univerze v Mariboru, smer enopredmetna nepedagoška matematika, izjavlam, da je diplomsko delo z naslovom Simetrije ravninskih likov pri mentorju doc. dr. Dominiku Benkoviču avtorsko delo. V diplomskem delu so uporabljeni viri in literatura korektno navedeni; teksti niso prepisani brez navedbe avtorjev.</p>
+    <p xml:id="pb4.p5" xml:lang="sl">Boštjan Strelec Maribor, februar 2010</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">Program diplomskega dela: Simetrije ravninskih likov</p>
+    <p xml:id="pb5.p2" xml:lang="sl">V diplomskem delu naj bodo obravnavane simetrije ravninskih likov po priloženem osnovnem viru. K študiju naj se pristopi z uporabo grupe togih gibanj ravnine.</p>
+    <p xml:id="pb5.p3" xml:lang="sl">Poudarek naj bo na opisu končnih in diskretnih podgrup grupe togih gibanj, ki opisujejo neskončne simetrične vzorce v ravnini. Prav tako naj bodo v diplomskem delu klasificirane končne podgrupe rotacijske grupe prostora, ki predstavljajo grupe simetrij pravilnih likov in teles.</p>
+    <p xml:id="pb5.p4" xml:lang="sl">Osnovni vir:</p>
+    <p xml:id="pb5.p5" xml:lang="sl">M. Artin, Algebra, Prentice Hall, New Jersey 1991. doc. dr. Dominik Benkovič</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">Strelec, B. : Simetrije ravninskih likov.</p>
+    <p xml:id="pb6.p2" xml:lang="sl">Diplomsko delo, Univerza v Mariboru, Fakulteta za naravoslovje in matematiko, Oddelek za matematiko in računalništvo, 2010.</p>
+    <p xml:id="pb6.p3" xml:lang="sl">Izvleček</p>
+    <p xml:id="pb6.p4" xml:lang="sl">V diplomskem delu najprej predstavimo osnovne definicije teorije grup, ki jih potrebujemo skozi celotno diplomsko delo. Nato nekaj povemo o rotacijah v R2 in R3 okrog izhodišča in ortogonalnih matrikah. V naslednjih štirih poglavjih študiramo simetrijo ravninskih likov s pomočjo grupe togih gibanj v ravnini. Opišemo grupo M vseh togih gibanj v ravnini ter končne in diskretne grupe gibanj, temu pa sledita dva izreka in sicer izrek o fiksni točki in izrek, da je vsako togo gibanje, translacija, rotacija, zrcaljenje, drsno zrcaljenje. V poglavju Abstraktna simetrija se srečamo s pojmi avtomorfizem, stabilizator in orbita. V nadaljevanju vpeljemo kvocientno grupo in obravnavamo operacijo na odsekih ter zapišemo formulo preštevanja. V zadnjih dveh poglavjih predstavimo permutacijsko upodobitev grupe in formulo preštevanja za klasifikacijo končnih podgrup rotacijske grupe SO3.</p>
+    <p xml:id="pb6.p5" xml:lang="sl">Ključne besede: grupa, togo gibanje, grupe gibanj, diskretne grupe gibanj, delovanje, končne podgrupe rotacjske grupe.</p>
+    <p xml:id="pb6.p6" xml:lang="sl">Math. Subj. Class. (2010): 20B20, 20B35, 51N30, 52B15.</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="en">Strelec, B.: Symmetries of plane figures</p>
+    <p xml:id="pb7.p2" xml:lang="en">Graduation Thesis, University of Maribor, Faculty of Natural Sciences and Mathematics, Department of Mathematics and Computer Science, 2010.</p>
+    <p xml:id="pb7.p3" xml:lang="en">Abstract</p>
+    <p xml:id="pb7.p4" xml:lang="en">In the beginning of the diploma work the basic definitions of group theory, which are important for the whole diploma work, are represented. Then we mention rotations in R2 and R3 around the origin and orthogonal matrixes. In the next four chapters we are studying the symmetry of plane figures with the help of the group of rigid motions in a plane. We are describing the group M of all rigid motions in a plane and the finite and discrete group of motions. This is followed by two theorems, the fixed point theorem and the theorem, that every rigid motion is a translation, rotation, reflection, glide reflection or identity. In the chapter Abstract symmetry we met the therms automorphism, stabilizer and orbit. In the continuation we introduce the quotient group and are dealing with operation on cosets and write down the Counting formula. The last two chapters are including the permutation representation of the group and the Counting formula for the classification of the finite subgroups of the rotation group SO3.</p>
+    <p xml:id="pb7.p5" xml:lang="en">Key words: group, rigid motion, groups of motions, discrete groups of motions, operation, finite subgroups of the rotation group.</p>
+    <p xml:id="pb7.p6" xml:lang="en">Math. Subj. Class. (2010): 20B20, 20B35, 51N30, 52B15.</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">Kazalo</p>
+    <p xml:id="pb8.p2" xml:lang="sl">Izvleček 6 Abstract 7 1 Uvod 9</p>
+    <p xml:id="pb8.p3" xml:lang="sl">2 Osnovni pojmi 10</p>
+    <p xml:id="pb8.p4" xml:lang="sl">2.1 Grupe . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 2.2 Rotacije in ortogonalne matrike . . . . . . . . . . . . . . . . . . . . . 15 3 Simetrije ravninskih likov 23 4 Grupa gibanj ravnine 26 5 Končne grupe gibanj 32 6 Diskretne grupe gibanj 37 7 Abstraktna simetrija 47 8 Operacije na odsekih 50 9 Formula preštevanja 52 10 Permutacijska upodobitev 55 11 Končne podgrupe rotacijske grupe 58 Literatura 62 Poglavje 1 Uvod</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">Diplomsko delo je sestavljeno iz 11 poglavij. Drugo poglavje je sestavljeno iz dveh podpoglavij. V prvem podpoglavju bomo podali osnovne definicije o grupi, podgrupi, podgrupi edinki, faktorski grupi in homomorfizmu ter definicije podkrepimo z primeri ter nekaj bomo povedali o odsekih in centru grupe. V drugem podpoglavju opišemu rotacije v dvo- in tri-dimenzionalnih prostorih R2 in R3 okrog izhodišča kot linearne operatorje in matrike rotacij. V poglavju Simetrije ravninskih likov definiramo, kaj je togo gibanje ali izometrija ter vpeljemo grupo simetrij slike in os simetrije. V naslednjem poglavju opišemo grupo vseh togih gibanj v ravnini in končno klasifikacijo gibanj. Dokažemo, da je vsako togo gibanje translacija, rotacija, zrcaljenje, drsno zrcaljenje ali identiteta. V poglavju Končne grupe gibanj zapišemo izrek o fiksni točki ter ga dokažemo. Proučimo končne podgrupe G grupe M togih gibanj v ravnini, kot sta ciklična grupa in diedrska grupa. V nadaljevanju razpravljamo o simetriji grup neomejenih likov, kot so tapetni vzorci. Podamo definicijo, kdaj je podgrupa grupe gibanj diskretna. Predstavimo točkovno in translacijsko grupo ter ravninsko mrežo in bazo mreže. V sedmem poglavju povemo kaj je Gmnožica ali levo delovanje ter vpeljemo pojma orbite in stabilizatorja. V osmem poglavju definiramo pojem levih odsekov, kvocientne grupe in predstavimo operacije na odsekih. V naslednjem poglavju zapišemo temeljno formulo za red grupe in formulo preštevanja ter slednje tudi dokažemo. Podamo primer, ki obravnava grupo, ki ohranja orientacijo simetrij pravilnega dodekaedra. V zadnjih dveh poglavjih povemo, kaj je permutacijska upodobitev ter se posvetimo formuli preštevanja za klasifikacijo končnih podgrup rotacijske grupe SO3. Podamo pomembnejši izrek, ki pove, da vsaka končna podgrupa G rotacijske grupe SO3 je ena od naslednjih grup Ck; Dk; T; O; I ter omenjeni izrek tudi dokažemo.</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">Poglavje 2 Osnovni pojmi 2.1 Grupe</p>
+    <p xml:id="pb10.p2" xml:lang="sl">Najprej bomo zapisali dve najpomembnejši definiciji, in sicer definicijo grupe in definicijo podgrupe, kasneje bomo podali še nekaj definicij, trditev in formul, ki jih potrebujemo v nadaljevanju diplomskega dela.</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Definicija 2.1 Grupa je množica G z dano binarno operacijo : G G ! G. Po tej operaciji pripada vsakemu urejenemu paru a; b 2 G natanko določen element v G. Ta element imenujemo produkt in ga pišemo ab. Pri tem morajo biti izpolnjeni pogoji:</p>
+    <p xml:id="pb10.p4" xml:lang="sl">(a) Za poljubne elemente a; b; c 2 G velja asociativni zakon (ab)c = a(bc).</p>
+    <p xml:id="pb10.p5" xml:lang="sl">(b) V množici G eksistira tak element e, da je ae = ea = a za vsak a 2 G.</p>
+    <p xml:id="pb10.p6" xml:lang="sl">(c) Vsakemu elementu a 2 G pripada inverzni element a1, za katerega velja a1a = aa1 = e.</p>
+    <p xml:id="pb10.p7" xml:lang="sl">Element e je enota grupe G. Zakon komutativnosti ne velja v vsaki grupi. Če ta zakon velja, če je torej ab = ba pri poljubnih a; b 2 G, se grupa G imenuje komutativna grupa ali Abelova grupa.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">Primeri grup:</p>
+    <p xml:id="pb11.p2" xml:lang="sl">1. (Z;+): cela števila s seštevanjem. To je Abelova grupa.</p>
+    <p xml:id="pb11.p3" xml:lang="sl">2. (R;+): realna števila s seštevanjem. To je Abelova grupa.</p>
+    <p xml:id="pb11.p4" xml:lang="sl">3. (Rnf0g; ): neničelna realna števila z množenjem. To je Abelova grupa.</p>
+    <p xml:id="pb11.p5" xml:lang="sl">4. (Mn(R);+): realne matrike velikosti nn s seštevanjem. To je Abelova grupa.</p>
+    <p xml:id="pb11.p6" xml:lang="sl">5. (SLn(R) = fA 2 Mn(R) j detA 6= 0g; ): obrnljive n n matrike z realnimi koeficienti z množenjem. To je nekomutativna grupa za n 2.</p>
+    <p xml:id="pb11.p7" xml:lang="sl">6. SOn = fA 2 SLn(R) jAtA = I; detA = 1g: ortogonalne matrike, ki imajo determinanto enako 1 tvorijo posebno ortogonalno grupo SOn, ki je nekomutativna grupa.</p>
+    <p xml:id="pb11.p8" xml:lang="sl">7. (Sn; ): simetrična grupa je grupa permutacij množice f1; : : : ; ng. Simetrična grupa z operacijo kompozitum je nekomutativna grupa.</p>
+    <p xml:id="pb11.p9" xml:lang="sl">8. (hai ; ): ciklična grupa generirana z a. To je Abelova grupa.</p>
+    <p xml:id="pb11.p10" xml:lang="sl">Definicija 2.2 Podmnožica H grupe G je podgrupa, če ima H naslednje lastnosti: (a) Zaprtje: če a 2 H in b 2 H potem je ab 2 H.</p>
+    <p xml:id="pb11.p11" xml:lang="sl">(b) Identiteta: 1 2 H.</p>
+    <p xml:id="pb11.p12" xml:lang="sl">(c) Inverzi: če a 2 H, potem je a1 2 H.</p>
+    <p xml:id="pb11.p13" xml:lang="sl">Definiramo lahko odseke za vsako podgrupo H grupe G. Levi odsek je podmnožica oblike aH = fah j h 2 Hg . (2.1)</p>
+    <p xml:id="pb11.p14" xml:lang="sl">Odseki so ekvivalenčni razredi za kongruenčno relacijo a b če je b = ha za nek h 2 H.</p>
+    <p xml:id="pb11.p15" xml:lang="sl">Preverimo, da je kongruenca ekvivalenčna relacija. Najprej tranzitivnost. Predpostavimo, da je a b in b c. To pomeni, da je b = ah in c = bh0 za nek h; h0 2 H. Torej je c = ahh0 in ker je H podgrupa je hh0 2 H. Torej je a c.</p>
+    <p xml:id="pb11.p16" xml:lang="sl">Simetričnost: Predpostavimo, da je a b, tako da je b = ah. Potem je a = bh1 in h1 2 H in tako je b a. Refleksivnost: a = a1 in 1 2 H, torej je a a. Na ta način smo preverili, da je kongruenca ekvivalenčna relacija.</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">Na primer, naj bo G simetrična grupa S3: G = f1; x; x2; y; xy; x2yg. Element xy ima red 2 in tako generira ciklično podgrupoH = f1; xyg reda 2. Levi odseki odH v G so tri množice in sicer f1; xyg = H = xyH; fx; x2yg = xH = x2yH; fx2yg = x2H = yH.</p>
+    <p xml:id="pb12.p2" xml:lang="sl">Posledica 2.3 Levi odseki podgrupe razbijejo grupo na disjunktne razrede.</p>
+    <p xml:id="pb12.p3" xml:lang="sl">Desni odseki podgrupe H so množice oblike Ha = fha j h 2 Hg , ki so ekvivalenčni razredi za relacijo (desna kongruenca) a b če je b = ha za nek h 2 H.</p>
+    <p xml:id="pb12.p4" xml:lang="sl">Na primer, desni odseki podgrupe f1; xyg od S3 so f1; xyg = H = Hxy; fx; yg = Hx = Hy; fx; x2yg = Hx2 = Hx2y.</p>
+    <p xml:id="pb12.p5" xml:lang="sl">Število levih odsekov podgrupe imenujemo indeks od H v G in ga označimo z [G : H]. Glede na našzgornji primer je indeks enak 3. Če pa G vsebuje neskončno mnogo elementov, potem je tudi indeks neskončen.</p>
+    <p xml:id="pb12.p6" xml:lang="sl">Center grupe G je množica elementov, ki komutirajo z vsakim elementom iz G Z = fz 2 G j zx = xz za vsak x 2 Gg.</p>
+    <p xml:id="pb12.p7" xml:lang="sl">Center grupe označimo z Z ali z Z(G).</p>
+    <p xml:id="pb12.p8" xml:lang="sl">Definicija 2.4 Če za neko podgrupoH v poljubni grupi G velja, da je za vsak g 2 G : gHg1 = H potem se H imenuje podgrupa edinka grupe G. Oznaka: H CG.</p>
+    <p xml:id="pb12.p9" xml:lang="sl">Izrek 2.5 H je podgrupa edinka grupe G tedaj in le tedaj, če se vsak levi odsek aH ujema z ustreznim desnim odsekom Ha, če je torej aH = Ha za vsak a 2 G.</p>
+    <p xml:id="pb12.p10" xml:lang="sl">Dokaz. Naj bo H podgrupa edinka. Potem velja aHa1 = H za vsak a 2 G. Od tod sledi Ha = (aHa1)a = aH(a1a) = aHe = aH. Obratno, naj bo H taka podgrupa, da je aH = Ha za vsak a 2 G. Potem je aHa1 = (aH)a1 = (Ha)a1 = H(aa1) = He = H.</p>
+    <p xml:id="pb12.p11" xml:lang="sl">Ker velja to za vsak a 2 G, je H edinka, s čimer zaključimo dokaz.</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">Primeri podgrup edink:</p>
+    <p xml:id="pb13.p2" xml:lang="sl">1. Podgrupa H = feg, ki vsebuje samo enoto e, je vedno edinka, ker je aea1 = aa1 = e za vsak a 2 G; kjer je G grupa.</p>
+    <p xml:id="pb13.p3" xml:lang="sl">2. Prav tako je cela grupa G edinka, saj velja aGa1 = G.</p>
+    <p xml:id="pb13.p4" xml:lang="sl">3. Center grupe je podgrupa edinka. Preverimo, da je center grupe res podgrupa edinka. Naj bosta elementa z in u v centru, a pa naj bo poljuben element grupe G. Potem je a(zu) = (az)u = (za)u = z(au) = z(ua) = (zu)a.</p>
+    <p xml:id="pb13.p5" xml:lang="sl">Tu smo upoštevali, da je az = za in au = ua, ker sta u; z 2 Z(G). Torej produkt zu komutira z vsakim elementom iz G in zato pripada centru. Enota e je v centru, ker je ae = ea = a za vsak a 2 G. Vemo, da komutira z1 z a, če komutira z z a. To pomeni, da je hkrati z elementom z tudi z1 v centru.</p>
+    <p xml:id="pb13.p6" xml:lang="sl">Tako smo dognali, da je center Z(G) grupa. Ker pa je aza1 = zaa1 = z za vsak z 2 Z(G), velja da je aZ(G)a1 = Z(G) za vse elemente a 2 G. Zato je center Z(G) edinka v grupi G.</p>
+    <p xml:id="pb13.p7" xml:lang="sl">4. V Abelovi grupi so vse podgrupe edinke. To je res zato, ker je v Abelovi grupi množenje komutativno, je v tem primeru aHa1 = aa1H = eH = H za vsako podgrupo H in za vsak a 2 G.</p>
+    <p xml:id="pb13.p8" xml:lang="sl">Definicija 2.6 Grupa, ki sestoji iz vseh odsekov po podgrupi edinki H, se imenuje faktorska grupa G=H grupe G.</p>
+    <p xml:id="pb13.p9" xml:lang="sl">Če je G končna grupa, je faktorska grupa G=H tudi končna. Njena moč je enaka indeksu podgrupe H v grupi G, tedaj [G : H]. V Abelovi grupi je vsaka podgrupa edinka. Torej eksistira faktorska grupaG=H za vsako podgrupoH. V nekomutativni grupi pa je faktorska množica grupa le tedaj, če je H edinka.</p>
+    <p xml:id="pb13.p10" xml:lang="sl">Definicija 2.7 Preslikavo f : G ! G0, kjer sta (G; ) in (G0 ; ) poljubni grupi imenujemo homomorfizem grupe G v grupo G 0 natanko tedaj, če za vsak g; h 2 G velja f(g h) = f(g) f(h).</p>
+    <p xml:id="pb13.p11" xml:lang="sl">Izomorfizem je bijektivni homomorfizem. Izomorfizem G ! G pa imenujemo avtomorfizem.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Primera homomorfizmov : 1. Naj bosta V; V 0 poljubna vektroska prostora in A : V ! V 0 linearna preslikava.</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Potem je A homomorfizem grupe (V;+) v (V 0</p>
+    <p xml:id="pb14.p3" xml:lang="sl">;+). To sledi iz lastnosti A(u+ v) = A(u) + A(v) za vsak u; v 2 V .</p>
+    <p xml:id="pb14.p4" xml:lang="sl">2. Naj bosta dani grupi (Z;+) in (hai ; ). Definirajmo za vsak n 2 Z, f(n) = an 2 hai. Na ta način dobimo homomorfizem, ker za vsak m;n 2 Z je f(m+ n) = am+n = am an = f(m) f(n).</p>
+    <p xml:id="pb14.p5" xml:lang="sl">Vsak homomorfizem f določa dve pomembni podgrupi: slika homomorfizma Im f = x 2 G0 j x = f(a) za nek a 2 G je podgrupa grupe G0 in jedro homomorfizma ker f = fa 2 G j f(a) = e0g je podgrupa edinka grupe G.</p>
+    <p xml:id="pb14.p6" xml:lang="sl">Označimo podmnožico Z, ki sestoji iz vseh večkratnikov danega celega števila b z bZ. bZ =fn 2 Z j n = bk za nek k 2 Zg. (2.2)</p>
+    <p xml:id="pb14.p7" xml:lang="sl">Trditev 2.8 (Zakon krajšanja) Naj bodo a; b; c elemetni grupe G. Če je ab = ac, potem je b = c. Če je ba = ca, potem je b = c.</p>
+    <p xml:id="pb14.p8" xml:lang="sl">Dokaz. Pomnožimo levo in desno stran enačbe ab = ac z a1 na levi strani ter dobimo: b = a1ab = a1ac = c.</p>
+    <p xml:id="pb14.p9" xml:lang="sl">Trditev 2.9 Homomorfizem ' : G ! G0 slika identiteto v identiteto in inverze v inverze. Z drugimi besedami, '(1G) = 1G0 in '(a1) = '(a)1.</p>
+    <p xml:id="pb14.p10" xml:lang="sl">Dokaz. Ker je 1 = 1 1 in ker je ' homomorfizem, velja da je '(1) = '(1 1) =</p>
+    <p xml:id="pb14.p11" xml:lang="sl">'(1) '(1). Krajšamo '(1) na levi in desni strani s trditvijo 2.8 in dobimo 1 = '(1).</p>
+    <p xml:id="pb14.p12" xml:lang="sl">Dalje, '(a1)'(a) = '(a1a) = '(1) = 1 in podobno '(a)'(a1) = 1, zato je</p>
+    <p xml:id="pb14.p13" xml:lang="sl">'(a1) = '(a)1.</p>
+    <p xml:id="pb14.p14" xml:lang="sl">Trditev 2.10 Naj bo ' : G ! G0 homomorfizem grupe z jedrom N in naj bosta a; b 2 G. Potem je '(a) = '(b) če in samo če je b = an za nek element n 2 N ali ekvivalentno, če je a1b 2 N .</p>
+    <p xml:id="pb14.p15" xml:lang="sl">Dokaz. Predpostavimo, da je '(a) = '(b). Potem je '(a)1'(b) = 1 in ker je ' homomorfizem lahko uporabimo definicijo homomorfizma in trditev 2.9 ter preoblikujemo zgornjo enakost kot '(a1b) = 1. Po definiciji je jedro N množica vseh elementov x 2 G, tako da je '(x) = 1. Torej a1b 2 N ali a1b = n za nek n 2 N , zato je b = an kot smo trdili. Obratno, če je b = an in n 2 N , potem je</p>
+    <p xml:id="pb14.p16" xml:lang="sl">'(b) = '(a)'(n) = '(a)1 = '(a).</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">Skozi poglavja bomo potrebovali naslednje formule: aH = bH , a b. (2.3)</p>
+    <p xml:id="pb15.p2" xml:lang="sl">Vsak odsek aH ima enako število elementov kot jih ima H. (2.4) Ker je G unija odsekov iz H in ker se ti odseki ne prekrivajo, dobimo pomembno formulo preštevanja: jGj = jHj [G : H]. (2.5)</p>
+    <p xml:id="pb15.p3" xml:lang="sl">2.2 Rotacije in ortogonalne matrike</p>
+    <p xml:id="pb15.p4" xml:lang="sl">V tem razdelku bomo opisali rotacije v dvo- in tri-dimenzionalnih prostorih R2 in R3 okrog izhodišča kot linearne operatorje. Rotacijo v R2 za kot predstavimo kot množenje z matriko cos sin sin cos</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Rotacijo v R3 okrog izhodišča lahko opišemo s parom (v; ), ki je sestavljen iz enotskega vektorja v, njegova dolžina je 1 in vektor v leži v osi rotacije in neničelnega kota , ki predstavlja kot rotacije. Para (v; ) in (v;) predstavljata enako rotacijo. Premislimo, da je identična preslikava tudi rotacija, četudi je njena os nedoločena.</p>
+    <p xml:id="pb15.p6" xml:lang="sl">Slika 2.1: Slika</p>
+    <p xml:id="pb15.p7" xml:lang="sl">Matriko, ki predstavlja rotacijo za kot okrog vektorja e1 je lažje dobiti iz 2 2 rotacijske matrike. Matrika se glasi:</p>
+    <p xml:id="pb15.p8" xml:lang="sl">A =</p>
+    <p xml:id="pb15.p9" xml:lang="sl">241 0 00 cos sin 0 sin cos 35 .</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">Množenje z matriko A določa prvo koordinato x1 od vektorja in deluje z rotacijo na (x2; x3)t. Vse rotacije v R3 so linearni operatorji, ampak njihove matrike so lahko precej komplicirane. Predmet tega razdelka je, da opišemo te matrike rotacije.</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Realna nn matrika A se imenuje ortogonalna, če je At = A1 ali ekvivalentno, če je AtA = I. Ortogonalne n n matrike tvorijo podgrupo od SLn(R), ki jo označimo z On in jo imenujemo ortogonalna grupa: On =</p>
+    <p xml:id="pb16.p3" xml:lang="sl">A 2 SLn(R) jAtA = I</p>
+    <p xml:id="pb16.p4" xml:lang="sl">Determinanta ortogonalne matrike je 1, ker je AtA = I, potem je (detA)2 = (detAt)(detA) = 1.</p>
+    <p xml:id="pb16.p5" xml:lang="sl">Ortogonalne matrike imajo determinanto +1 in tvorijo podgrupo, ki jo imenujemo posebna ortogonalna grupa in jo označimo z SOn : SOn =</p>
+    <p xml:id="pb16.p6" xml:lang="sl">A 2 SLn(R) j AtA = I; detA = 1</p>
+    <p xml:id="pb16.p7" xml:lang="sl">Glavna stvar, ki jo bomo dokazali o rotacijah je zapisana v naslednjem izreku: Izrek 2.11 Rotacije v R2 ali v R3 okrog izhodišča so linearni operatorji, čigar matrike so glede na standardno bazo ortogonalne in imajo determinanto 1. Z drugimi besedami, matrika A predstavlja rotacijo v R2 (ali R3), če in samo, če je A 2 SO2 (ali SO3).</p>
+    <p xml:id="pb16.p8" xml:lang="sl">Dokaz izreka je na koncu razdelka. Zapišimo še naslednjo posledico: Posledica 2.12 Kompozitum dveh rotacij v R3 okrog izhodišča je tudi rotacija.</p>
+    <p xml:id="pb16.p9" xml:lang="sl">Ta posledica sledi iz izreka 2.11, ker je matrika, ki predstavlja kompozitum dveh linearnih operatorjev produkt matrike in ker je SO3 podgrupa od SL3(R) zaprta za produkte. Kompozitum dveh rotacij okrog iste osi je tudi rotacija okrog te osi.</p>
+    <p xml:id="pb16.p10" xml:lang="sl">Ker njihovi elementi predstavljajo rotacije, grupi SO2 in SO3 imenujemo dvo in tri dimenzionalni rotacijski grupi. Stvari postanejo bolj zapletene, če je dimenzija večja 3. Na primer, matrika2664 cos sin 0 0 sin cos 0 0 0 0 cos sin 0 0 sin cos 3775 je element iz SO4. Levo množenje s to matriko je kompozitum rotacije za kot na prvih dveh koordinatah in rotacije za kot na zadnjih dveh. Take operacije ne moremo izvesti kot posamezno rotacijo.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Da bomo razumeli zvezo med ortogonalnimi matrikami in rotacijami potrebujemo skalarni produkt. Po definiciji je skalarni produkt stolpcev vektorjev X in</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Y :</p>
+    <p xml:id="pb17.p3" xml:lang="sl">(X Y ) = x1y1 + x2y2 + + xnyn.</p>
+    <p xml:id="pb17.p4" xml:lang="sl">Včasih skalarni produkt zapišemo v matrični obliki in sicer kot (X Y ) = X tY .</p>
+    <p xml:id="pb17.p5" xml:lang="sl">Obstajata dve glavni lastnosti skalarnega produkta za vektorje v R2 in R3. Prva lastnost se glasi, da je (X X) dolžina vektorja na kvadrat: jXj2 = x21 + x22 ali x21 + x22 + x23, glede na primer. Ta lastnost, ki sledi iz Pitagorovega izreka, je osnova za definicijo dolžine vektorjev v Rn: dolžina vektorja X je definirana s formulo jXj2 = (X X) = x21 + + x2n.</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Razdalja med dvema vektrojema X in Y je definirano z dolžino jX Y j od X Y .</p>
+    <p xml:id="pb17.p7" xml:lang="sl">Druga pomembna lastnost skalarnega produkta v R2 in R3 je formula (X Y ) = jXj jY j cos , (2.7) kjer je kot med vektorjema. Zgoraj omenjena formula je posledica kosinusnega zakona c2 = a2 + b2 2ab cos za dolžine stranic a; b; c trikotnika, kjer je kot, ki leži nasproti stranicama a; b.</p>
+    <p xml:id="pb17.p8" xml:lang="sl">Če izhajamo iz formule 2.7 lahko uporabimo kosinusni zakon za trikotnik s točkami O;X; Y . Njene dolžine stranic so jXj ; jY j in jX Y j, torej kosinusni zakon lahko zapišemo kot</p>
+    <p xml:id="pb17.p9" xml:lang="sl">(X Y X Y ) = (X X) + (Y Y ) 2 jXj jY j cos .</p>
+    <p xml:id="pb17.p10" xml:lang="sl">Levo stran lahko razvijemo na naslednji način:</p>
+    <p xml:id="pb17.p11" xml:lang="sl">(X Y X Y ) = (X X) 2(X Y ) + (Y Y ), in formula 2.7 je dosežena s primerjavo izrazov.</p>
+    <p xml:id="pb17.p12" xml:lang="sl">Najpomebnejša uporaba formule 2.7 je, da sta vektorja X in Y ortogonalna, kar pomeni, da je kot enak</p>
+    <p xml:id="pb17.p13" xml:lang="sl">2 če in samo če je (X Y ) = 0. To lastnost vzamemo kot definicijo ortogonalnosti vektorjev v Rn: X je ortogonalen na Y , če je (X Y ) = 0.</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">Bazo sestavljeno iz medsebojno ortogonalnih enotskih vektorjev imenujemo ortonormirana baza. Stolpci ortogonalne matrike tvorijo ortonormirano bazo. Levo množenje z ortogonalno matriko imenujemo ortogonalen operator. Torej ortogonalni operatorji na Rn so tisti, ki ohranjajo skalarni produkt.</p>
+    <p xml:id="pb18.p2" xml:lang="sl">Trditev 2.13 Naslednji pogoji na realni n n matriki A so ekvivalentni: (a) A je ortogonalna.</p>
+    <p xml:id="pb18.p3" xml:lang="sl">(b) Množenje z A ohranja skalarni produkt; to pomeni, da je (AX AY ) = (X Y ) za vsak stolpec vektorjev X; Y:</p>
+    <p xml:id="pb18.p4" xml:lang="sl">(c) Stolpci matrike A so medsebojno ortogonalni enotski vektorji.</p>
+    <p xml:id="pb18.p5" xml:lang="sl">Dokaz. Pišimo (X Y ) = X tY . Če je A ortogonalna je potem AtA = I, torej (X Y ) = X tY = X tAtAY = (AX)t(AY ) = (AX AY ).</p>
+    <p xml:id="pb18.p6" xml:lang="sl">Obratno, predpostavimo, da je X tY = X tAtAY za vsak X in Y . To enakost znova zapišemo kot X tBY = 0, kjer je B = I AtA. Za vsako matriko B zapišimo etiBej = bij.</p>
+    <p xml:id="pb18.p7" xml:lang="sl">Torej, če je X tBY = 0 za vsak X in Y potem je etiBej = bij = 0 za vse i; j in B = 0. Torej I = AtA. S tem smo pokazali, da sta točki (a) in (b) ekvivalentni.</p>
+    <p xml:id="pb18.p8" xml:lang="sl">Sedaj pokažimo, da sta točki (a) in (c) ekvivalentni. Z Aj označimo j-ti stolpec matrike A. Če par (i; j) vpišemo v produkt matrike AtA dobimo (Ai Aj). Torej AtA = I če in samo če je (Ai Aj) = 1 za vsak i in (Ai Aj) = 0 za vsak i 6= j, kar pomeni, da imajo stolpci dolžino 1 in so ortogonalni.</p>
+    <p xml:id="pb18.p9" xml:lang="sl">Geometrijski pomen množenja z ortogonalno matriko lahko izrazimo z izrazi togih gibanj. Togo gibanje ali izometrija v Rn je preslikava m : Rn ! Rn, ki ohranja razdaljo; to pomeni, da je m preslikava, ki zadošča naslednjim pogojem: Če sta X in Y točki v Rn potem je razdalja od X do Y enaka razdalji od m(X) do m(Y ) : jm(X)m(Y )j = jX Y j . (2.8)</p>
+    <p xml:id="pb18.p10" xml:lang="sl">Tako togo gibanje preslika trikotnik v kongruentni trikotnik in zato togo gibanje ohranja trikotnike in oblike v splošnem.</p>
+    <p xml:id="pb18.p11" xml:lang="sl">Zapišimo, da je kompozitum dveh togih gibanj togo gibanje in da je inverz togega gibanja togo gibanje. Torej togo gibanje v Rn tvori grupo Mn s kompozitumom operacij kot njenim zakonom kompozituma. To grupo imenujemo grupa gibanj.</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">Trditev 2.14 Naj bo m : Rn ! Rn preslikava. Naslednji pogoji za preslikavo m so ekvivalentni:</p>
+    <p xml:id="pb19.p2" xml:lang="sl">(a) m je togo gibanje, ki ohranja izhodišče.</p>
+    <p xml:id="pb19.p3" xml:lang="sl">(b) m ohranja skalarni produkt v Rn.</p>
+    <p xml:id="pb19.p4" xml:lang="sl">(c) m je levo množenje z ortogonalno matriko.</p>
+    <p xml:id="pb19.p5" xml:lang="sl">Dokaz. Uporabimo znak 0, ki označuje preslikavo m, zato pišemo m(X) = X 0.</p>
+    <p xml:id="pb19.p6" xml:lang="sl">Predpostavimo, da je m togo gibanje, ki določa 0. S stenografskim zapisom se izjava 2.8, kjer m ohranja razdaljo prebere kot</p>
+    <p xml:id="pb19.p7" xml:lang="sl">(X 0 Y 0 X 0 Y 0) = (X Y X Y ) (2.9) za vse vektorjeX;Y . Če postavimo Y = 0 potem dobimo, da je (X 0X 0) = (X X) za vsak X. Levo in desno stran enačbe 2.9 razširimo in prečrtamo (X X) in (Y Y ) ter dobimo (X 0 Y 0) = (X Y ). S tem smo pokazali, dam ohranja skalarni produkt, zato točka (a) implicira točko (b). Dokažimo, da točka (b) implicira točko (c). Opazimo, da je edina preslikava, ki ohranja skalarni produkt in ki določa bazne vektorje ei identična preslikava. Če m ohranja skalarni produkt, potem je (X ej) = (X 0 e0j) za vsak X. Če je e0j = ej, potem je xj = (X ej) = (X 0 e0j) = (X 0 ej) = x0j za vse j. Zato je X = X 0 in m je identiteta. Sedaj predpostavimo, da m ohranja skalarni produkt. Potem so slike e01; : : : e 0 n od standardnih baznih vektorjev ortonormirane: (e0i e0i) = 1 in (e0i e0j) = 0, če je i 6= j. Naj bo B = (e01; : : : e0n), in naj bo A = [B0]. Glede na trditev 2.13 je A ortogonalna matrika. Ker ortogonalne matrike tvorijo grupo, je tudi A1 ortogonalna. To pomeni, da množenje z A1 tudi ohranja skalarni produkt. Torej sestavljeno gibanje A1m ohranja skalarni produkt in določa vse bazne vektorje ei. Torej A1m je identična preslikava. S tem smo pokazali, da je m levo množenje z A, kot smo trdili.</p>
+    <p xml:id="pb19.p8" xml:lang="sl">Nazadnje, če je m linearni operator, čigar matrika A je ortogonalna, potem je X 0 Y 0 = (X Y )0, ker je m linearna in jX 0 Y 0j = j(X Y )0j = jX Y j s trditvijo 2.13 točka (b). Torej m je togo gibanje. Ker linearni operator tudi določa 0, pokažemo, da točka (c) implicira točko (a).</p>
+    <p xml:id="pb19.p9" xml:lang="sl">Posledica 2.15 Togo gibanje, ki fiksira izhodišče je linearni operator.</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">To sledi iz ekvivalence točke (a) in točke (c).</p>
+    <p xml:id="pb20.p2" xml:lang="sl">En razred togih gibanj, ki ne fiksirajo izhodišča in ki niso linearni operatorji, so translacije. Naj bo dan podan vektor b = (b1; : : : ; bn)t v Rn. Translacija z vektorjem b je preslikava tb(X) = X + b = 264x1 + b1... xn + bn 375 .</p>
+    <p xml:id="pb20.p3" xml:lang="sl">Ta preslikava je togo gibanje, ker je tb(X) tb(Y ) = (X + b) (Y + b) = X Y in zato je jtb(X) tb(Y )j = jX Y j.</p>
+    <p xml:id="pb20.p4" xml:lang="sl">Trditev 2.16 Vsako togo gibanje m : Rn ! Rn je kompozitum ortogonalnega linearnega operatorja in translacije. Z drugimi besedami, vsako togo gibanje m ima obliko m(X) = AX + b za neko orotgonalno matriko A 2 SOn in za nek vektor b 2 Rn.</p>
+    <p xml:id="pb20.p5" xml:lang="sl">Dokaz. Naj bo b = m(0). Potem je tb(b) = 0, torej sestavljena operacija tbm je togo gibanje, ki določa izhodišče: tb(m(0)) = 0. Glede na trditev 2.14 je tbm levo množenje z ortogonalno matriko A: tbm(X) = AX. Uporabimo tb na obeh straneh dane enačbe in dobimo m(X) = AX + b. Opazimo, da sta vektor b in matrika A enolično določena z m, ker je b = m(0) in A je operator tbm.</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Spomnimo se, da je determinanta ortogonalne matrike 1. Ortogonalni operator se imenuje operator, ki ohranja orientacijo, če je njegova determinanta +1 in operator, ki obrača orientacijo, če je njegova determinanta 1. Podobno, naj bo m togo gibanje. Pišemom(X) = AX+b kot zgoraj. Potemm imenujemo gibanje, ki ohranja orientacijo, če je detA = 1 in gibanje, ki obrača orientacijo, če je detA = 1.</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Če združimo izrek 2.11 in trditev 2.14 potem dobimo naslednjo karakterizacijo rotacij:</p>
+    <p xml:id="pb20.p8" xml:lang="sl">Posledica 2.17 Rotacije v R2 in R3 so toga gibanja, ki ohranjajo orientacijo in določajo izhodišče.</p>
+    <p xml:id="pb20.p9" xml:lang="sl">Posledica 2.18 Lastne vrednosti linearnega operatorja T so skalarji c 2 F , tako da je T cI singularna.</p>
+    <p xml:id="pb20.p10" xml:lang="sl">Lema 2.19 Vsak element A 2 SO3 ima lastno vrednost 1.</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">Dokaz. Pokazali bomo, da je det(A I) = 0 s čimer bomo dokazali lemo [glej posledico 2.18]. Spomnimo se, da je detA = detAt za vsako matriko A, torej je detAt = 1. Ker je A ortogonalna je At(A I) = (I A)t. Potem je det(A I) = detAt(A I) = det(I A)t = det(I A).</p>
+    <p xml:id="pb21.p2" xml:lang="sl">Po drugi strani, za vsako 3 3 matriko B je det(B) = det(B). Potem je det(A I) = det(I A) in sledi, da je det(A I) = 0.</p>
+    <p xml:id="pb21.p3" xml:lang="sl">Sedaj zapišimo dokaz izreka 2.11, ki karakterizira rotacije v R2 in R3 okrog izhodišča.</p>
+    <p xml:id="pb21.p4" xml:lang="sl">Dokaz izreka 2.11. Vsaka rotacija p je togo gibanje. Trditev 2.14 nam pove, da je p množenje z ortogonalno matriko A in da je determinanta matrike A enaka 1. To je res, zato ker je detA = 1 za vsako ortogonalno matriko in ker se determinanta nenehno spreminja s kotom rotacije. Ko je kot rotacije enak 0 je matrika A identična matrika, ki ima determinanto 1. Torej matrika rotacije je element SO2 ali SO3.</p>
+    <p xml:id="pb21.p5" xml:lang="sl">Obratno, naj bo A 2 SO2 ortogonalna 2 2 matrika z determinanto 1. Z v1 označimo prvi stolpec Ae1 matrike A. Ker je A ortogonalna matrika je v1 enotski vektor. Obstaja rotacija</p>
+    <p xml:id="pb21.p6" xml:lang="sl">R = cos sin sin cos</p>
+    <p xml:id="pb21.p7" xml:lang="sl">; tako da je tudi Re1 = v1. Potem B = R1A določa e1. Prav tako sta tudi A in R elementa SO2 in iz tega sledi, da je tudi B v SO2. Torej stolpci od B tvorijo ortonormirano bazo v R2 in prvi stolpec je e1. Če je dolžina drugega stolpca 1 in je ortogonalen na e1, potem je drugi stolpec bodisi e2 bodisi e2. Ampak drugi primer odpade zaradi dejstva, da detB = 1. Sledi, da je B = I in da je A = R. Torej A je rotacija.</p>
+    <p xml:id="pb21.p8" xml:lang="sl">Da bi dokazali, da element A iz SO3 predstavlja rotacijo se osredotočimo na definicijo rotacije p iz R3 okrog izhodišča. Trdimo naslednje: (i) p je togo gibanje, ki ohranja izhodišče; (ii) p določa neničelni vektor v;</p>
+    <p xml:id="pb21.p9" xml:lang="sl">(iii) p deluje kot rotacija na ravnino P ortogonalno na vektor v.</p>
+    <p xml:id="pb21.p10" xml:lang="sl">Glede na trditev 2.14 je prvi pogoj ekvivalenten temu, da je p ortogonalni operator.</p>
+    <p xml:id="pb21.p11" xml:lang="sl">Torej naša matrika A 2 SO3 zadošča temu pogoju. Pogoj (ii) lahko izrazimo, tako da rečemo, da je v lastni vektor za operator p z lastno vrednostjo 1. Torej, ker p ohranja ortogonalnost pošlje ortogonalen prostor P nazaj vase. Z drugimi besedami, P je invarianten podprostor. Pogoj (iii) pove, da je zožitev od p na ta invarianten podprostor rotacija. Opazimo, da matrika</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">A =</p>
+    <p xml:id="pb22.p2" xml:lang="sl">241 0 00 cos sin 0 sin cos 35 zadošča temu pogoju z v = e1. Sedaj glede na dano matriko A 2 SO3 nam lema 2.19 pokaže, da levo množenje z A določa neničelni vektor v1. Normaliziramo dolžino vektorja v1 na 1 in izberemo ortogonalna enotska vektorja v2; v3, ki ležita v ravnini P in sta ortogonalna na vektor v1. Potem je B = (v1; v2; v3) ortonormirana baza v R3. Matrika P = [B]1 je ortogonalna, ker je [B] ortogonalna in A0 = PAP1 predstavlja enak operator kot A z upoštevanjem baze B. Ker sta A in P ortogonalni je tudi A0ortogonalna ter detA0 = detA = I. Torej je A 2 SO3. Ker je v1 lastni vektor z lastno vrednostjo 1 je prvi stolpec matrike A0 enak e1. Ker je A0 ortogonalna so ostali stolpci ortogonalni na e1 in A0 ima blok oblike 1 0</p>
+    <p xml:id="pb22.p3" xml:lang="sl">0 R</p>
+    <p xml:id="pb22.p4" xml:lang="sl">Uporabimo dejstvo, da je A0 2 SO3 in poiščemo tak R 2 SO2. Torej R je rotacija.</p>
+    <p xml:id="pb22.p5" xml:lang="sl">S tem smo pokazali, da ima A0 obliko241 0 00 cos sin 0 sin cos in da predstavlja rotacijo. Enako velja za A s čimer zaključimo dokaz.</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">Poglavje 3</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Simetrije ravninskih likov</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Študij simetrij določa eno od najbolj privlačnih aplikacij teorije grupe. Grupe so bile izumljene, da lahko analizirajo simetrijo nekaterim določenim algebraičnim strukturam. V naslednjih 4 poglavjih bomo študirali simetrijo ravninskih likov s pomočjo grupe togih gibanj v ravnini. Ravninski liki nam dajo ogromno primerov in ozadje za osnovni pojem grupne operacije, kar je predstavljeno v poglavju 7.</p>
+    <p xml:id="pb23.p4" xml:lang="sl">Ko bomo študirali simetrije si bomo dovolili uporabiti geometrijsko sklepanje brez, da bi se pri argumentih vračali na aksiome geometrije.</p>
+    <p xml:id="pb23.p5" xml:lang="sl">Možne simetrije ravninskih likov so običajno klasificirane v osnovni tip, prikazan na slikah 3.1, 3.2 in 3.3. To so dvostranska simetrija, rotacijska simetrija in translacijska simetrija.</p>
+    <p xml:id="pb23.p6" xml:lang="sl">Slika 3.1: Dvostranska simetrija Slika 3.2: Rotacijska simetrija.</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">Slika 3.3: Translacijska simetrija</p>
+    <p xml:id="pb24.p2" xml:lang="sl">Četrti tip simetrije tudi obstaja, ampak nam je manj poznan, imenuje se drsna simetrija.</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Slika 3.4: Drsna simetrija</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Slike kot so tapetni vzorci imajo dve neodvisni translacijski simetriji, kar je prikazano na sliki 3.5.</p>
+    <p xml:id="pb24.p5" xml:lang="sl">Slika 3.5: Slika</p>
+    <p xml:id="pb24.p6" xml:lang="sl">Ostale kombinacije simetrij se lahko tudi pojavijo. Na primer, zvezda ima dvostransko prav tako tudi rotacijsko simetrijo. Slika 3.6 je primer, kjer kombiniramo translacijsko in rotacijsko simetrijo. Drug primer je prikazan na sliki 3.7.</p>
+    <p xml:id="pb24.p7" xml:lang="sl">Preslikavo m : P ! P iz ravnine P v ravnino P bomo imenovali togo gibanje ali izometrija, če ohranja razdaljo; to pomeni, če je za poljubni točki p; q 2 P razdalja od p do q enaka razdalji od m(p) do m(q). V naslednjem poglavju bomo pokazali, da so toga gibanja translacije, rotacije, zrcaljenja in drsna zrcaljenja. Toga gibanja tvorijo grupo M z operacijo, ki je kompozitum funkcij.</p>
+    <p xml:id="pb24.p8" xml:lang="sl">Če togo gibanje m preslika podmnožico F v ravnini vase, jo bomo imenovali simetrija od F . Množica vseh simetrij od F vedno tvori podgrupo G grupe M , imenujemo jo grupa simetrij slike. Dejstvo, da je G podgrupa je jasno: če m in m0 preslika F v F , potem tudi njun kompozitum preslikava mm0 preslika množico F vase.</p>
+    <p xml:id="pb24.p9" xml:lang="sl">Grupa simetrij z dvostransko simetrijo slika 3.1 sestoji iz dveh elementov: identične preslikave 1 in zrcaljenja r preko premice, ki jo imenujemo os simetrije. Imamo Slika 3.6: Slika Slika 3.7: Slika relacijo rr = 1, ki pokaže, da je G = f1; rg ciklična grupa reda 2, kot mora biti, ker tukaj ni nobene druge grupe reda 2.</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">Grupa simetrij slike 3.3 je neskončna ciklična grupa generirana z gibanjem, ki preslikuje eno enoto v levo. To gibanje imenujemo translacija t in velja</p>
+    <p xml:id="pb25.p2" xml:lang="sl">G =</p>
+    <p xml:id="pb25.p3" xml:lang="sl">: : : ; t2; t1; 1; t; t2; : : :</p>
+    <p xml:id="pb25.p4" xml:lang="sl">Simetrije grup slik 3.4, 3.6, 3.7 vsebujejo tudi druge elemente poleg translacij in so zato večje.</p>
+    <p xml:id="pb25.p5" xml:lang="sl">Zgled simetrije grupe slike 3.7</p>
+    <p xml:id="pb25.p6" xml:lang="sl">V tem primeru kombiniramo translacijsko in rotacijsko simetrijo. Grupa simetrij slike 3.7 je neskončna grupa generirana z gibanjem, ki je kompozitum translacije in rotacije. Gibanje je sestavljeno iz translacije t, ki preslikuje eno enoto v levo in rotacije p , ki je gibanje za kot = okrog svoje osi. Torej grupa se glasi:</p>
+    <p xml:id="pb25.p7" xml:lang="sl">G =</p>
+    <p xml:id="pb25.p8" xml:lang="sl">: : : ; t2p; t1p; 1; tp; t2p; : : :</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">Poglavje 4</p>
+    <p xml:id="pb26.p2" xml:lang="sl">Grupa gibanj ravnine</p>
+    <p xml:id="pb26.p3" xml:lang="sl">To poglavje opisuje grupo M vseh togih gibanj v ravnini. Najenostavnejša klasifikacija gibanj so gibanja, ki ohranjajo orientacijo in gibanja, ki obrnejo orientacijo.</p>
+    <p xml:id="pb26.p4" xml:lang="sl">Uporabimo lahko to particijo grupe M na dva dela in definirano preslikavo M ! f1; 1g , ki pošlje gibanje, ki ohranja orientacijo v 1 in gibanje, ki obrne orientacijo v 1.</p>
+    <p xml:id="pb26.p5" xml:lang="sl">Končna klasifikacija gibanj je sledeča: (a) Gibanja, ki ohranjajo orientacijo</p>
+    <p xml:id="pb26.p6" xml:lang="sl">(i) Translacija: vzporedno gibanje v ravnini z vektorjem a : p p+ a.</p>
+    <p xml:id="pb26.p7" xml:lang="sl">(ii) Rotacija : vrtenje ravnine za kot 6= 0 okrog neke točke.</p>
+    <p xml:id="pb26.p8" xml:lang="sl">(b) Gibanja, ki obračajo orientacijo: (i) Zrcaljenje preko premice l.</p>
+    <p xml:id="pb26.p9" xml:lang="sl">(ii) Drsno zrcaljenje: dobimo z zrcaljenjem preko premice l in potem naredimo translacijo z neničelnim vektorjem a vzporedno s premico l.</p>
+    <p xml:id="pb26.p10" xml:lang="sl">Izrek 4.1 Zgornji seznam je popoln. Vsako togo gibanje je translacija, rotacija, zrcaljenje ali drsno zrcaljenje.</p>
+    <p xml:id="pb26.p11" xml:lang="sl">Ta izrek je pomemben. Ena posledica je ta, da je kompozitum rotacij okrog dveh različnih točk spet rotacija okrog tretje točke, razen če je translacija. To dejstvo sledi iz izreka, ker kompozitum ohranja orientacijo.</p>
+    <p xml:id="pb26.p12" xml:lang="sl">Nekateri drugi kompozitumi so lažji za predstavo. Kompozitum rotacij s kotoma</p>
+    <p xml:id="pb26.p13" xml:lang="sl">in okrog iste točke je spet rotacija s kotom + okrog te točke. Kompozitum translacij s vektorjema a in b je translacija z vsoto vektorjev a+ b.</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">Opazimo, da translacija ne vsebuje nobene fiksne točke (razen, če je vektor a ničelni vektor, v tem primeru je translacija identična preslikava oziroma identiteta).</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Drsna zrcaljenja nimajo fiksnih točk. Po drugi strani rotacija fiksira natanko eno točko, to je središče rotacije in zrcaljenje fiksira točke na premici preko katere zrcalimo. Torej kompozitum zrcaljenj preko dveh nevzporednih premic l1in l2 je rotacija okrog točke p, ki je presečišče premic l1 in l2 torej p = l1 \ l2. To sledi iz izreka, ker kompozitum določa točko p, in gibanje, ki ohranja orientacijo. Kompozitum dveh zrcaljenj preko vzporednih premic je translacija za vektor, ki je pravokoten na premici.</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Da bi dokazali izrek 4.1 in bili zmožni računati v grupiM , bomo izbrali nekatera posebna gibanja kot generatorje za grupo. Dobili bomo definirane posebne relacije.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Identificiramo ravnino s prostorom R2 stolpcem vektorjev z izbiro koordinatnega sistema. Ko imamo to narejeno, izberemo kot generatorje translacije, rotacije okrog izhodišča in zrcaljenje okrog x1-osi: (a) Translacija ta z vektorjem a: ta(x) = x+ a = x1 + a1 x2 + a2</p>
+    <p xml:id="pb27.p5" xml:lang="sl">(b) Rotacija p za kot okrog izhodišča: p(x) = cos sin sin cos x1 x2</p>
+    <p xml:id="pb27.p6" xml:lang="sl">(c) Zrcaljenje r preko x1-osi: r(x) = 1 0 0 1 x1 x2</p>
+    <p xml:id="pb27.p7" xml:lang="sl">= x1 x2</p>
+    <p xml:id="pb27.p8" xml:lang="sl">Odkar smo fiksirali izhodišče so rotacije p in zrcaljenje r ortogonalni operatorji na R2. Translacija ni linearni operator-ne pošlje nič v nič, razen seveda za translacijo z ničelnim vektorjem.</p>
+    <p xml:id="pb27.p9" xml:lang="sl">Niso vsa gibanja kot so translacija ta, rotacija p in zrcaljenje r elementi M .</p>
+    <p xml:id="pb27.p10" xml:lang="sl">Na primer, rotacija okrog točke razen izhodišča ni na seznamu, niti zrcaljenj preko drugih premic. Kakorkoli, translacija ta, rotacija p in zrcaljenje r generirajo grupo M . Vsak element iz M je produkt takšnih elementov. Ni težko videti, da vsako togo gibanje lahko dobimo z operacijo kompozituma med njimi. Drugače m = tap ali pa m = tapr, (4.1) za nek vektor a in kot . Vektor a je lahko tudi ničelni vektor. Da bi to videli, se spomnimo, da je vsako gibanje kompozitum ortogonalnega operatorja in translacije.</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">To sledi iz trditve 2.16. Sedaj lahko m zapišemo v obliki m = tam0, kjer je m0 ortogonalni operator. Dalje, če je det m0 = 1 potem je ena od rotacij p. To sledi iz izreka 2.11 v prvem poglavju. V tem primeru je m = tap. Nazadnje, če je det m0 = 1, potem je det m0r = 1, torej m0r je rotacija p. Ker je r2 = 1, je v tem primeru m0 = pr in m = tapr.</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Izražanje gibanja m kot produkt (4.1) je enolično. Predpostavimo, da m lahko izrazimo na dva načina: m = tapri = tbprj, kjer sta i in j enaka 0 ali 1. Torej m ohranja orientacijo, če je i = 0 in obrne orientacijo, če je i = 1. Če imamo enakost i = j, potem lahko prečrtamo r na obeh straneh, če je potrebno in dobimo enakost tap = tbp. Pomnožimo obe strani na levi z tb in na desni z p in dobimo tab = p. Ampak translacija ni rotacija, razen če sta oba trivialna operatorja.</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Torej a = b in = .</p>
+    <p xml:id="pb28.p4" xml:lang="sl">Računanje v M lahko naredimo s simboli ta; p; r z uporabo pravil za kompozitum, ki jih izračunamo iz formul pri translaciji ta, rotaciji p in zrcaljenju r.</p>
+    <p xml:id="pb28.p5" xml:lang="sl">Potrebna pravila so sledeča: tatb = ta+b; pp; rr = 1, pta = ta0p; kjer je a0 = p(a), (4.2) rta = ta0r; kjer je a0 = r(a), rp = pr.</p>
+    <p xml:id="pb28.p6" xml:lang="sl">Z uporabo teh pravil lahko vsak produkt naših generatorjev preoblikujemo v eno od oblik (4.1). Oblika, ki jo dobimo je enolično določena, ker obstaja le en izraz v obliki (4.1) za dano gibanje.</p>
+    <p xml:id="pb28.p7" xml:lang="sl">Posledica 4.2 Gibanje m = tap je rotacija za kot okrog njene fiksne točke.</p>
+    <p xml:id="pb28.p8" xml:lang="sl">Dokaz. Kot smo že videli je fiksna točka od m ena točka, ki zadošča relaciji p = p(p) + a. Potem za vsak x velja m(p+ x) = tap(p+ x) = p(p+ x) + a = p(p) + p(x) + a = p+ p(x).</p>
+    <p xml:id="pb28.p9" xml:lang="sl">Torej m pošlje p+ x v p+ p(x). Zato je to rotacija okrog točke p za kot , kot smo trdili.</p>
+    <p xml:id="pb28.p10" xml:lang="sl">Dokaz izreka 4.1. Naj bo m togo gibanje, ki ohranja orientacijo, ampak ni translacija. Želimo dokazati, da jem rotacija okrog neke točke. Jasno je, da gibanje, ki ohranja orientacijo in fiksira točko p v ravnini mora biti rotacija okrog točke p.</p>
+    <p xml:id="pb28.p11" xml:lang="sl">Sedaj moramo dokazati, da vsako gibanje m, ki ohranja orientacijo in ni translacija fiksira neko točko. Zapišemo m = tap kot je v (4.1). Predpostavimo 6= 0. Lahko uporabimo geometrijsko skico [glej slika 4.1], da najdemo fiksno točko. Na tej sliki je l premica skozi izhodišče, ki je pravokotna na a, in izsek s kotom je postavljen na mesto tako, da je razpolovljen s l. Točka p je določena z vstavljanjem vektorja a v izsek, kot je prikazano na sliki. Preverimo, da m fiksira točko p. Spomnimo se, da je operator p tisti, ki deluje prvi in nato sledi še operator ta.</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Slika 4.1: Fiksna točka gibanja, ki ohranja orientacijo Drug način, da poiščemo fiksno točko je, da rešimo enačbo x = tap(x) algebraično za x. Z definicijo translacije dobimo ta(p(x)) = p(x) + a. Rešimo enačbo x p(x) = a ali 1 cos sin</p>
+    <p xml:id="pb29.p2" xml:lang="sl">sin 1 cos x1 x2</p>
+    <p xml:id="pb29.p3" xml:lang="sl">= a1 a2</p>
+    <p xml:id="pb29.p4" xml:lang="sl">Zapišimo, da je det(1p) = 22 cos . Determinanta je različna od nič, če je 6= 0 in potem obstaja enolična rešitev za x. Nadalje bomo pokazali, da je vsako gibanje, ki obrne orientacijo m = tapr drsno zrcaljenje ali zrcaljenje (drsno zrcaljenje, ki ima drsni vektor nič). To počnemo z iskanjem premice l, ki se z gibanjem m preslika vase in tako, da je gibanje m na l translacija. Geometrijsko je jasno, da gibanje, ki ohranja orientacijo in se giblje v to smer je drsno zrcaljenje. Tukaj je geometrija bolj zapletena, zato bomo ta problem zreducirali v dva koraka. Prvič, gibanje pr = r0 je zrcaljenje preko premice. Premica je edina, ki seka x-os pod kotom 1 2</p>
+    <p xml:id="pb29.p5" xml:lang="sl">okrog izhodišča. To ni težko videti geometrijsko ali algebraično. Torej naše gibanje m je produkt translacije ta in zrcaljenja r0. Priporočljivo je, da obrnemo koordinate tako, da x1-os postane premica od zrcaljenja r0. Potem r0 postane standardno zrcaljenje r in translacija ta bo preostanek translacije skozi koordinate vektorja a in ta vektor a se bo spremenil. V tem novem koordinatnem sistemu gibanje zapišemo kot m = tar in deluje kot m x1 x2</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">= x1 + a1 x2 + a2</p>
+    <p xml:id="pb30.p2" xml:lang="sl">To gibanje pošlje premico x2 = 12a2 nazaj vase, s translacijo (x1; 1 2 a2) t (x1 + a1; 1 2 a2) t; in tako je m drsno zrcaljenje vzdolž te premice.</p>
+    <p xml:id="pb30.p3" xml:lang="sl">Tukaj sta dve pomembni podgrupi od M , za kateri moramo vpeljati zapis in sicer: naj bo T grupa translacij ; naj bo O grupa ortogonalnih operatorjev.</p>
+    <p xml:id="pb30.p4" xml:lang="sl">Grupa O je sestavljena iz gibanj, ki pustijo izhodišče fiksno. Grupa O vsebuje rotacije okrog izhodišča in zrcaljenje preko premice skozi izhodišče. Opazimo, da z našo izbiro koordinat dobimo bijekcijo R2 ! T; a ta.</p>
+    <p xml:id="pb30.p5" xml:lang="sl">To je dejansko izomorfizem aditivne grupe R2 s podgrupo T , ker je tatb = ta+b.</p>
+    <p xml:id="pb30.p6" xml:lang="sl">Elementi grupe O so linearni operatorji. S ponovno uporabo naše izbire koordinat, si lahko predstavljamo en element m 2 O z njeno matriko. Tako dosežemo izomorfizem</p>
+    <p xml:id="pb30.p7" xml:lang="sl">O2 ' O grupe O2 ortogonalnih 2 2 matrik in grupe O (glej trditev 2.14).</p>
+    <p xml:id="pb30.p8" xml:lang="sl">Prav tako lahko preučimo podgrupo M gibanj, ki fiksira točko določeno točko ravnine, ki ni izhodišče. Ta podgrupa je povezana z grupo O na naslednji način: Trditev 4.3 Naj bo p točka v ravnine.</p>
+    <p xml:id="pb30.p9" xml:lang="sl">(a) Če z p0 označimo rotacijo za kot okrog točke p in z r 0 označimo zrcaljenje preko premice, ki je vzporedna z x-osjo in poteka skozi točko p. Potem je p0 = tppt 1 p in r</p>
+    <p xml:id="pb30.p10" xml:lang="sl">0 = tprt1p .</p>
+    <p xml:id="pb30.p11" xml:lang="sl">(b) Podgrupa M gibanj, ki fiksirajo točko p je konjungirana podgrupa</p>
+    <p xml:id="pb30.p12" xml:lang="sl">O</p>
+    <p xml:id="pb30.p13" xml:lang="sl">= tpOt p .</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Dokaz. Rotacijo p0 lahko dobimo na naslednji način. Najprej translacija p do izhodišča, potem zavrtimo ravnino okrog izhodišča za kot , in na koncu še translacija nazaj v p, torej p0 = tpptp = tppt 1 p .</p>
+    <p xml:id="pb31.p2" xml:lang="sl">Zrcaljenje r 0 dobimo na enak način iz običajnega zrcaljenja r: r 0</p>
+    <p xml:id="pb31.p3" xml:lang="sl">= tprtp = tprt1p .</p>
+    <p xml:id="pb31.p4" xml:lang="sl">S tem smo dokazali točko (a). Vsako gibanje, ki fiksira točko p ima obliko p0 ali p 0 r 0</p>
+    <p xml:id="pb31.p5" xml:lang="sl">, to velja zaradi (4.1). Točka (b) sledi neposredno iz točke (a).</p>
+    <p xml:id="pb31.p6" xml:lang="sl">Tukaj je še en pomemben homomorfizem ' iz M v O čigar jedro je T , ki ga dobimo z izpuščanjem translacij iz produktov (4.1):</p>
+    <p xml:id="pb31.p7" xml:lang="sl">M ! O tap p tapr pr.</p>
+    <p xml:id="pb31.p8" xml:lang="sl">To na prvi pogled izgleda preveč naivno, da bi bila definicija dobra ampak formule (4.2) pokažejo, da je ' v resnici homomorfizem: (tap)(tbp) = tatb pp = ta+b p+, zato je '(taptbp) = p+ in tako dalje. Ker je T jedro tega homomorfizma, je T podgrupa edinka od M .</p>
+    <p xml:id="pb31.p9" xml:lang="sl">Trditev 4.4 Naj bo p poljubna točka ravnine in s p0 označimo rotacijo za kot okrog točke p. Potem je '(p0) = p. Podobno, če je r 0 zrcaljenje preko premice, ki je vzporedna x-osi in poteka skozi p, potem je '(r0) = r.</p>
+    <p xml:id="pb31.p10" xml:lang="sl">To sledi iz trditve 4.3 točka (a), ker je tp v jedru homomorfizma '. Omenjeno trditev lahko tudi izrazimo na naslednji način, da homomorfizem ' ni odvisen od izbire izhodišča.</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">Poglavje 5</p>
+    <p xml:id="pb32.p2" xml:lang="sl">Končne grupe gibanj</p>
+    <p xml:id="pb32.p3" xml:lang="sl">V tem poglavju bomo raziskovali možne končne grupe simetrij likov, ki so na primer predstavljeni na slikah 3.1 in 3.2. To nas privede do proučevanja končnih podgrup G grupe M togih gibanj v ravnini. Ključne ugotovitve, ki nam omogočajo opis vseh končnih podgrup zasledimo v izreku 5.2.</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Začnimo z naslednjo lemo.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">Lema 5.1 Naj bo S = fs1; : : : ; sng končna množica točk v ravnine, in naj bo p njeno težišče p = 1 n</p>
+    <p xml:id="pb32.p6" xml:lang="sl">(s1 + : : :+ sn):</p>
+    <p xml:id="pb32.p7" xml:lang="sl">Naj bo m togo gibanje in naj bo m(si) = s0i in m(p) = p 0. Potem je p0 = 1 n</p>
+    <p xml:id="pb32.p8" xml:lang="sl">(s01 + : : :+ s 0 n):</p>
+    <p xml:id="pb32.p9" xml:lang="sl">Z drugimi besedami povedano nam zgornja lema pravo, da toga gibanja preslikajo težišče v težišče.</p>
+    <p xml:id="pb32.p10" xml:lang="sl">Dokaz. Ločeno obravnavamo primera m = ta; m = p, in m = r, saj vsako gibanje dobimo iz teh treh s kompozitumom med njimi.</p>
+    <p xml:id="pb32.p11" xml:lang="sl">Primer 1 : m = ta. Potem je p0 = p+ a in s0i = si + a. Res je, da je p+ a = 1 n</p>
+    <p xml:id="pb32.p12" xml:lang="sl">((s1 + a) + + (sn + a)).</p>
+    <p xml:id="pb32.p13" xml:lang="sl">Primer 2 : m = p ali r. Potem je m linearni operator. Torej p0 = m( 1 n</p>
+    <p xml:id="pb32.p14" xml:lang="sl">(s1 + + sn)) = 1 n</p>
+    <p xml:id="pb32.p15" xml:lang="sl">(m(s1) + +m(sn)) = 1 n</p>
+    <p xml:id="pb32.p16" xml:lang="sl">(s01 + + s0n).</p>
+    <p xml:id="pb32.p17" xml:lang="sl">S tem je lema dokazana.</p>
+    <p xml:id="pb32.p18" xml:lang="sl">Izrek 5.2 (Izrek o fiksni točki) Naj bo G končna podgrupaM grupe gibanj ravnine. Tedaj obstaja točka p ravnine, da je g(p) = p za vse g 2 G.</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Dokaz. Geometrijski dokaz izreka. Naj bo s poljubna točka v ravnine in naj bo S množica točk, ki vsebuje slike od s pod različnimi gibanji iz G. Torej vsak element s0 2 S ima obliko s0 = g(s) za nek g 2 G. To množico imenujemo orbita od s po delovanju grupe G. Element s je v orbiti, ker je identiteta 1 v G in s = 1(s). Tipična orbita je prikazana spodaj za primer, da je G grupa simetrij pravilnega petkotnika.</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Vsak element grupe G bo permutiral z orbito S. Z drugimi besedami, če je s0 2 S in x 2 G je x(s0) 2 S. Pravimo, da je s0 = g(s); kjer je g 2 G. Ker je G grupa je tudi xg 2 G. Po definiciji je xg(s) 2 S in ker je xg(s) = x(s0) nam to pokaže, da je x(s0) 2 S. Elemente množice S navedemo poljubno in zapišemo S = fs1; : : : ; sng.</p>
+    <p xml:id="pb33.p3" xml:lang="sl">Fiksno točko iščemo iz težišča orbite, definirano kot p = 1 n</p>
+    <p xml:id="pb33.p4" xml:lang="sl">(s1 + + sn), (5.1) kjer desno stran izračunamo s seštevanjem vektorjev in uporabimo poljuben koordinatni sistem ravnine. Težišče smatramo kot srednjo vrednost točk s1; :::; sn. Težišče naše množice S je fiksna točka za delovanje grupe G. Vsak element gi iz G permutira z orbito fs1; : : : ; sng in lema 5.1 pove, da vsako gibanje pošlje težišče nazaj vase. S čimer zaključimo dokaz izreka.</p>
+    <p xml:id="pb33.p5" xml:lang="sl">Neposredna posledica zadnjega izreka je, da vsaka podgrupa od M , ki vsebuje rotaciji okrog dveh različnih točk neskončna.</p>
+    <p xml:id="pb33.p6" xml:lang="sl">Naj bo sedaj G končna podgrupa od M . Izrek 5.2 nam pove, da obstaja točka določena z vsakim elementom iz G in lahko prilagodimo koordinatni sistem tako, da je ta točka izhodišče. Potem bo G podgrupa od O. Tako za opis končnih podgrup G od M potrebujemo samo opis končnih podgrup od O (ali, ker je O izomorfna grupi ortogonalnih 2 2 matrik končne podgrupe ortogonalne grupe O2). Te podgrupe so opisane v naslednjem izreku.</p>
+    <p xml:id="pb33.p7" xml:lang="sl">Izrek 5.3 Naj bo G končna podgrupa grupe O togih gibanj, ki fiksirajo izhodišče.</p>
+    <p xml:id="pb33.p8" xml:lang="sl">Potem je G ena od naslednjih grup:</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">(a) G = Cn: ciklična grupa reda n, generirana z rotacijo p, kjer je = 2n .</p>
+    <p xml:id="pb34.p2" xml:lang="sl">(b) G = Dn: diedrska grupa reda 2n, generirana z dvema elementoma - rotacijo p, kjer je = 2n in zrcaljenjem r 0 preko premice skozi izhodišče.</p>
+    <p xml:id="pb34.p3" xml:lang="sl">Dokaz tega izreka je na koncu poglavja.</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Grupa Dn je odvisna od premice zrcaljenja, ampak seveda lahko izberemo koordinatni sistem tako, da premica postane x-os in potem r0 postane standardno zrcaljenje r. Če G podamo kot končno podgrupo od M , bomo morali premakniti izhodišče k fiksni točki kot prikazuje izrek 5.3 . Torej naškončni rezultat o končnih grupah gibanj je naslednja posledica.</p>
+    <p xml:id="pb34.p5" xml:lang="sl">Posledica 5.4 Naj bo G končna podgrupa grupe gibanj M . Če koordinate ustrezno vpeljemo, potem G postane ena od grup Cn ali Dn, kjer je Cn generirana s p, = 2n in Dn je generirana s p in r.</p>
+    <p xml:id="pb34.p6" xml:lang="sl">Ko je n 3 je diedrska grupa Dn grupa simetrij pravilnih n mnogokotnikov. To ni težko videti in v bistvu sledi iz izreka. Za pravilni n-kotnik imamo grupo simetrij ki vsebuje rotacijo s kotom 2 n okrog njenega središča. Prav tako omenjena grupa vsebuje nekaj zrcaljenj. Izrek 5.3 nam pove, da je ta grupa Dn.</p>
+    <p xml:id="pb34.p7" xml:lang="sl">Diedrski grupi D1, D2 sta premajhni, da bi bili simetrični grupi n-kotnika v običajnem pomenu. Diedrska grupa D1 je grupa f1; rg iz dveh elementov. Torej je ciklična grupa kot je C2. Ampak netrivialen element od D1 je zrcaljenje, medtem ko je v C2 netrivialen element rotacija s kotom . Grupa D2 vsebuje 4 elemente f1; p; r; prg, kjer je p = p. Torej D2 je izomorfna Kleinovi štiri grupi. Če želimo, lahko predstavimo D1 in D2 kot grupo simetrij 1-kotnika in 2-kotnika: Slika 5.1: 1-kotnik Slika 5.2: 2-kotnik</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">Diedrske grupe so pomembni primeri in uporabno bi bilo imeti popolno množico definiranih relacij za njih. Lahko jih preberemo iz seznama definiranih relacij za M (4.2). Označimo rotacijo p ( = 2n ) z x in zrcaljenje r z y.</p>
+    <p xml:id="pb35.p2" xml:lang="sl">Trditev 5.5 Diedrska grupa je generirana z dvema elementoma x in y, ki zadoščata relacijam xn = 1; y2 = 1; yx = x1y.</p>
+    <p xml:id="pb35.p3" xml:lang="sl">Elementi iz Dn so</p>
+    <p xml:id="pb35.p4" xml:lang="sl">1; x; x2; : : : ; xn1; y; xy; x2y; : : : ; xn1y</p>
+    <p xml:id="pb35.p5" xml:lang="sl">= xiyj j 0 i &lt; n; 0 j &lt; 2 .</p>
+    <p xml:id="pb35.p6" xml:lang="sl">Dokaz. Elementa x = p in y = r generirata Dn po definiciji grupe. Relaciji y2 = 1 in yx = x1y sta vključeni v seznam relacij (4.2) za M . Torej sta rr = 1 in rp = pr. Relacija xn = 1 sledi iz dejstva, da je = 2n , ki tudi pokaže, da so elementi 1; x; : : : ; xn1 različni. Sledi, da so elementi y; xy; x2y; : : : ; xn1 tudi različni in so zrcaljenja, medtem ko so potence od x rotacije, tako da tukaj ni ponavljanj v seznamu elementov. Nazadnje, relacije lahko uporabimo, da spremenimo vsak produkt elementov x; y; x1; y1 v obliko xiyj, kjer je 0 1 &lt; n; 0 j &lt; 2. Torej seznam vsebuje vse elemente grupe generirane z x, y in, ker ti elemente generirajo Dn je seznam popoln.</p>
+    <p xml:id="pb35.p7" xml:lang="sl">Z uporabo prvih dveh relacij trditve 5.5 lahko tretjo relacijo zapišemo na različne načine. To je ekvivalentno yx = xn1y in tudi xyxy = 1. (5.2)</p>
+    <p xml:id="pb35.p8" xml:lang="sl">Omenimo, da ko je n = 3 so relacije enake kot za simetrično grupo S3.</p>
+    <p xml:id="pb35.p9" xml:lang="sl">Posledica 5.6 Diedrska grupa D3 in simetrična grupa S3 sta izomorfni.</p>
+    <p xml:id="pb35.p10" xml:lang="sl">Za n &gt; 3 diedrske in simetrične grupe zagotovo niso izomorfne, ker ima grupa Dn red 2n, medtem ko ima grupa Sn red n!.</p>
+    <p xml:id="pb35.p11" xml:lang="sl">Dokaz izreka 5.3. Naj bo G končna podgrupa od O. Spomnimo se, da so elementi od O rotacije p in zrcaljenja pr:</p>
+    <p xml:id="pb35.p12" xml:lang="sl">Primer 1 : Vsi elementi iz G so rotacije. Dokazati moramo, da je v tem primeru G ciklična. Dokaz je podoben določenim podgrupam aditivne grupe Z celih števil. Če je G = f1g je G = C1, drugače G vsebuje netrivialno rotacijo p. Naj bo najmanjši pozitiven kot rotacije med elementi iz G. Potem je G generirana s p. Naj bo p vsak element iz G, kjer kot rotacije predstavimo z realnim številom. Naj bo n največji celoštevilski večkratnik od , ki je manjši kot , tako da je = n + za 0 &lt; . Ker je G grupa in ker sta p in p v G je tudi produkt p = ppn v G, ampak po predpostavki je najmanjši pozitivni kot rotacije v G, zato je = 0 in</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">= n. S tem smo pokazali, da je G ciklična. Naj bo n najmanjši večkratnik od</p>
+    <p xml:id="pb36.p2" xml:lang="sl">, ki je 2, tako da je 2 n &lt; 2+ . Ker je najmanjši pozitivni kot rotacije v G je n = 2. Torej je kot = 2 n za neko celo število n.</p>
+    <p xml:id="pb36.p3" xml:lang="sl">Primer 2 : G vsebuje zrcaljenje. S prilagoditvijo koordinat kot je potrebno lahko domnevamo, da je naše standardno zrcaljenje r v G. S H označimo podgrupo rotacij v G. Lahko uporabimo kar je bilo dokazano v primeru 1 za grupoH ter sklepamo, da je H ciklična grupa: H = Cn. Potem je 2n produktov pi; p i r, kjer je 0 i n1 v</p>
+    <p xml:id="pb36.p4" xml:lang="sl">G in G vsebuje diedrsko grupo Dn. Dokazati moramo, da je G = Dn. Če je element g rotacija iz G je g 2 H po definiciji H in zato je g eden od elementov Dn. Če je g zrcaljenje ga lahko zapišemo v obliki pr za neko rotacijo p (posledica 4.2). Ker je r v G je produkt prr = p. Torej p je potenca p, in g je tudi v Dn. Torej G = Dn s čimer zaključimo dokaz izreka.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">Poglavje 6</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Diskretne grupe gibanj</p>
+    <p xml:id="pb37.p3" xml:lang="sl">V tem poglavju bomo razpravljali o simetriji grup neomejenih likov kot so tapetni vzorci. Naša prva naloga je opisati zamenjavo za pogoj, da je grupa končna in sicer opišemo eno grupo, ki vključuje grupe simetrij zanimivih neskončnih likov.</p>
+    <p xml:id="pb37.p4" xml:lang="sl">Ena lastnost, ki jo tapetni vzorci ponazarjajo je, da ne dopuščajo poljubno majhih translacij in zrcaljenj. Zelo posebni liki kot so premice imajo poljubno majhne translacijske simetrije. Na primer krožnica ima poljubno majhne rotacijske simetrije.</p>
+    <p xml:id="pb37.p5" xml:lang="sl">Če take like izključimo, potem lahko grupe simetrij klasificiramo.</p>
+    <p xml:id="pb37.p6" xml:lang="sl">Definicija 6.1 Podgrupo G grupe gibanj M imenujemo diskretna, če ne vsebuje poljubno majhnih translacij ali rotacij. Bolj natančno, G je diskretna če obstaja tako realno število &gt; 0, da velja</p>
+    <p xml:id="pb37.p7" xml:lang="sl">(i) če je ta translacija v G z neničelni vektorjem a; potem je dolžina vektorja a večja ali enaka :j a j ;</p>
+    <p xml:id="pb37.p8" xml:lang="sl">(ii) če je p rotacija v G okrog neke točke z neničelnim kotom , potem je kot večji ali enak :j j .</p>
+    <p xml:id="pb37.p9" xml:lang="sl">Ker so translacije in rotacije gibanja, ki ohranjajo orientacijo, ta pogoj uporabimo za vse elemente , ki ohranjajo orientacijo izG. Tega pogoja ne uporabimo na zrcaljenjih in drsnih zrcaljenjih.</p>
+    <p xml:id="pb37.p10" xml:lang="sl">Kalejdoskopski princip lahko uporabimo, da pokažemo, da je vsaka diskretna grupa gibanj grupa simetrij ravninskih likov. Metodo lahko naredimo v dokazu, ampak ne bomo podali natančne obrazložitve. Začnemo z ustreznim naključnim likom R iz ravnine. Zahtevamo, da R nima nobene druge simetrije razen identitete.</p>
+    <p xml:id="pb37.p11" xml:lang="sl">Torej vsak element g naše grupe bo premaknil R na različen položaj. To bomo označili z gR. Zahtevani vzorec F je unija vseh likov gR. Element x iz G pošlje gR v xgR, ki je tudi del F in zato pošlje F nazaj vase. Če je R dovolj naključen, potem bo G njena grupa simetrij. Izkaže se, da je vzorec F pogosto zelo atraktiven.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">Tukaj je rezultat uporabe tega postopka v primeru, da je G diedrska grupa simetrij pravilnega petkotnika:</p>
+    <p xml:id="pb38.p2" xml:lang="sl">Veliko vzorcev ima enako grupo ali imajo podobne grupe simetrij, ampak vseeno je poučno in zanimivo razporediti vzorce glede na njihove grupe simetrij. Sedaj bomo razpravljali o grobi klasifikaciji grup. Dve glavni orodji za preučevanje diskretne grupe G sta njena translacijska grupa in njena točkovna grupa. Translacijska grupa od G je množica vektorjev a, tako da je ta 2 G. Če je tatb = ta+b in ta = t1a je to podgrupa aditivne grupe vektorjev, ki jo bomo označili z LG. Uporabimo našo izbiro koordinat ter identificiramo prostor vektorjev z R2. Potem je</p>
+    <p xml:id="pb38.p3" xml:lang="sl">LG = a 2 R2 j ta 2 G</p>
+    <p xml:id="pb38.p4" xml:lang="sl">Ta grupa je izomorfna podgrupi T \G translacij v G z izomorfizmom aditivne grupe R2 s podgrupo T : a ta. Ker je LG podgrupa G je T \ G diskretna. Podgrupa diskretne grupe je diskretna.</p>
+    <p xml:id="pb38.p5" xml:lang="sl">LG ne vsebuje neničelnega vektorja dolžine &lt; : (6.2) Podgrupo L aditivne grupe Rn, ki zadošča pogoju 6.2 za nek &gt; 0 imenujemo diskretna podgrupa aditivne grupe Rn. Tukaj pridevnik diskreten pomeni, da so elementi iz L ločeni s fiksno razdaljo: razdalja med poljubnima vektorjema a; b 2 L je vsaj , če je a 6= b. (6.3) Dolžina te razdalje je jb aj in b a 2 L, ker je L podgrupa.</p>
+    <p xml:id="pb38.p6" xml:lang="sl">Trditev 6.2 Vsaka diskretna podgrupa L od R2 ima eno od naslednjih oblik: (a) L = f0g,</p>
+    <p xml:id="pb38.p7" xml:lang="sl">(b) L je generirana aditivna grupa z neničelnim vektorjem a L = fma j m 2 Zg ,</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">(c) L je generirana z dvema linearno neodvisnima vektorjema a; b L = fma+ nb j m;n 2 Zg .</p>
+    <p xml:id="pb39.p2" xml:lang="sl">Grupe tretjega tipa imenujemo ravninska mreža in generirano množica (a; b) imenujemo baza mreže.</p>
+    <p xml:id="pb39.p3" xml:lang="sl">Slika 6.1: Mreža v R2.</p>
+    <p xml:id="pb39.p4" xml:lang="sl">Dokaz trditve 6.2 bomo podali v nadaljevanju. Sedaj se posvetimo drugemu orodju za preučevanje diskretne grupe gibanj - to je točkovna grupa. Spomnimo se, da obstaja homomorfizem ' : M ! O, čigar jedro je T . Če zožimo ta homomorfizem na G, dobimo homomorfizem</p>
+    <p xml:id="pb39.p5" xml:lang="sl">'jG : G! O. (6.4)</p>
+    <p xml:id="pb39.p6" xml:lang="sl">Njegovo jedro je T \G (ki je podgrupa izomorfna translacijski grupi LG). Točkovna grupa G je slika G v O. Torej G je podgrupa od O.</p>
+    <p xml:id="pb39.p7" xml:lang="sl">Po definiciji, je rotacija p vG, čeG vsebuje nek element oblike tap in v posledici 4.2 smo videli, da je tap rotacija za kot okrog neke točke v ravnini. Torej inverzna slika elementa p 2 G sestoji iz vseh elementov iz G, ki so rotacije za kot okrog neke točke.</p>
+    <p xml:id="pb39.p8" xml:lang="sl">Podobno, z l označimo premico zrcaljenja pr. Kot smo že prej označili je njen kot z x-osjo 1 2</p>
+    <p xml:id="pb39.p9" xml:lang="sl">. Točkovna grupa G vsebuje pr, če obstaja nek element tapr v G in tapr je zrcaljenje ali drsno zrcaljenje vzdolž premice vzporedno z l. Torej inverzno sliko od pr sestavljajo vsi elementi iz G, ki so zrcaljenja in drsna zrcaljenja vzdolž premice vzporedno z l. Grupa G ne vsebuje majhnih rotacij in enako velja za njeno točkovno grupo G: Torej G je tudi diskretna - je diskretna podgrupa od O.</p>
+    <p xml:id="pb39.p10" xml:lang="sl">Trditev 6.3 Naj bo G diskretna podgrupa od M s translacijsko grupo L = LG in točkovno grupo G. Elementi iz G preslikajo grupo L nazaj vase. Z drugimi besedami, če je g 2 G in a 2 L, potem je g(a) 2 L:</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">To trditev lahko bolje formuliramo z besedami, da jeG vsebovana v grupi simetrij L, če na L gledamo kot na množico točk v ravnini R2. Kakorkoli, pomembno je omeniti, da originalna grupa G ne rabi delovati na L.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">Dokaz. Torej, če je a 2 L je ta 2 G. Pokazali bomo, če je ta 2 G in g 2 G, da je potem tg(a) 2 G. Po definiciji točkovne grupe je g slika nekega elementa g grupe G:</p>
+    <p xml:id="pb40.p3" xml:lang="sl">'(g) = g. Trditev bomo dokazali tako, da bomo pokazali, da je tg(a) konjungiranje ta z g. Pišemo g = tbp ali tbpr, kjer je p = p. Potem je g = p ali pr glede na primer.</p>
+    <p xml:id="pb40.p4" xml:lang="sl">V prvem primeru je gtag</p>
+    <p xml:id="pb40.p5" xml:lang="sl">1 = tbptap1tb = tbtp(a)pp1tb = tp(a), kot zahtevamo. Računanje je podobno v drugem primeru.</p>
+    <p xml:id="pb40.p6" xml:lang="sl">Naslednja trditev opisuje točkovne grupe, ki lahko nastanejo, ko je translacijska grupa LG mreža.</p>
+    <p xml:id="pb40.p7" xml:lang="sl">Trditev 6.4 Naj bo H O končna podgrupa grupe simetrij mreže L. Potem (a) vsaka rotacija v H ima red 1, 2, 3, 4, ali 6.</p>
+    <p xml:id="pb40.p8" xml:lang="sl">(b) H je ena od grup Cn, Dn, kjer je n = 1; 2; 3; 4 ali 6.</p>
+    <p xml:id="pb40.p9" xml:lang="sl">Zapis, da ima rotacija red 5 izključimo zaradi trditve 6.4. Tukaj ni tapetnih vzorcev s petkratno rotacijsko simetrijo.</p>
+    <p xml:id="pb40.p10" xml:lang="sl">Dokaz trditve 6.2 in trditve 6.4 bomo začeli z zapisom naslednje preproste leme: Lema 6.5 Naj bo L diskretna podgrupa iz R2.</p>
+    <p xml:id="pb40.p11" xml:lang="sl">(a) Omejena podmnožica S iz R2 vsebuje samo končno mnogo elementov iz L.</p>
+    <p xml:id="pb40.p12" xml:lang="sl">(b) Če je L 6= f0g, potem L vsebuje neničelni vektor minimalne dolžine.</p>
+    <p xml:id="pb40.p13" xml:lang="sl">Dokaz. (a) Spomnimo se, da podmnožico S iz Rn imenujemo omejena, če je vsebovana v neki odprti krogli ali če točke iz S nimajo poljubno velikih koordinat. Očitno, če je S omejena je tudi L \ S omejena. Omejena množica, ki je neskončna mora vsebovati nekatere elemente poljubno blizu drug drugemu; to pomeni, da elementov ni mogoče ločiti s fiksno pozitivno razdaljo . Zato je L \ S končna.</p>
+    <p xml:id="pb40.p14" xml:lang="sl">(b) Ko rečemo, da ima neničelni vektor a minimalno dolžino, s tem mislimo, da ima vsak neničelni vektor v 2 L dolžino več ali enako jaj. Ne zahtevamo, da mora biti vektor a enolično določen. Dejansko tega ne moremo zahtevati, ker ima vektor a vedno minimalno dolžino, prav tako tudi vektor a.</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">Predpostavimo, da je L 6= f0g. Dokažimo, da obstaja vektor z minimalno dolžino in naj bo b 2 L poljuben neničelni vektor ter naj bo S krog z radijem jbj okrog izhodišča. Ta krog je omejena množica, torej vsebuje končno mnogo elementov iz L, vključno z b. Iščemo skozi neničelne vektorje v tej končni množici, da najdemo en vektor, ki ima minimalno dolžino. Ta vektor bo zahtevani najkrajši vektor.</p>
+    <p xml:id="pb41.p2" xml:lang="sl">Lema 6.6 Naj bosta a, b linearno neodvisna vektorja, ki sta elementa grupe L iz R2.</p>
+    <p xml:id="pb41.p3" xml:lang="sl">Predpostavimo, da je P paralelogram, katerega linearna lupina ne vsebuje elementov iz L razen točke 0; a; b; a+ b. Potem je L generirana z a in b, tako da velja L = fma+ nb j m;n 2 Zg .</p>
+    <p xml:id="pb41.p4" xml:lang="sl">Dokaz. Naj bo v poljuben element iz L. Ker je (a; b) baza v R2, je v linearna kombinacija ter zapišemo v = ra + sb, kjer sta r in s realni števili. Vzamemo celi del od realnih števil r, s in pišemo r = m+ r0, s = n+s0, kjer sta m;n celi števili in 0 r0; s0 &lt; 1. Naj bo v0 = r0a+ s0b = vmanb. Potem v0 leži v paralelogramu in v0 2 L, zato je v0 ena od točk in ker je r0; s0 &lt; 1 mora v0 biti izhodišče. Potem je v = ma+ nb s čimer smo zaključili dokaz leme.</p>
+    <p xml:id="pb41.p5" xml:lang="sl">Dokaz trditve 6.4. Drugi del trditve sledi iz prvega dela z uporabo trditve 5.5.</p>
+    <p xml:id="pb41.p6" xml:lang="sl">Dokažimo točko (a). Naj bo najmanjši neničelni kot rotacije v H in naj bo a neničelni vektor v L minimalne dolžine. Ker H deluje na L, je p(a) tudi v L in zato je b = p(a) a 2 L. Ker ima a minimalno dolžino je j b jj a j, zato sledi, da je 2 6</p>
+    <p xml:id="pb41.p7" xml:lang="sl">Torej p ima red 6. Primer, da je = 25 izključimo, ker je potem element b0 = p2(a) krajši kot a: S čimer zaključimo dokaz.</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">Dokaz trditve 6.2. Naj bo L diskretna podgrupa R2. Možnost, da je L = f0g vključimo v seznam. Če je L 6= f0g, obstaja neničeni vektor a 2 L in imamo dve možnosti:</p>
+    <p xml:id="pb42.p2" xml:lang="sl">Primer 1 : Vsi vektorji v L ležijo na eni premici l skozi izhodišče. Ponavljamo argument, ki smo ga uporabljali prej in izberemo neničelni vektor a 2 L minimalne dolžine. Zahtevamo, da je L generirana z a. Naj bo v poljuben element L. Potem je v realni večkratnik v = ra od a, ker je L l. Vzamemo celi del od r in pišemo r = n + r0, kjer je n celo število in 0 r0 &lt; 1. Potem ima v na = r0a dolžino manjšo kot a in ker je L grupa je ta element v L. Torej r0 = 0. S tem smo pokazali, da je v celoštevilski večkratnik od a in iz tega sledi, da je v podgrupa generirana z a, kot zahtevamo.</p>
+    <p xml:id="pb42.p3" xml:lang="sl">Primer 2 : Elementi iz L ne ležijo na premici. Potem L vsebuje linearno neodvisna vektorja a0; b0. Začnemo s poljubnim parom neodvisnih vektorjev in jih skušamo nadomestiti z vektorji, ki bodo generirali grupo L. Začnemo z a0 in ga nadomestimo z najkrajšim neničelnim vektorjem a na premici l, ki napenja a0. Ko je to storjeno, razprava primera 1 pokaže, da je podgrupa l \ L generirana z a. Nadalje, preučimo paralelogram P 0, čigar točke so 0; a; b0; a+ b0: Slika 6.2: Paralelogram</p>
+    <p xml:id="pb42.p4" xml:lang="sl">Ker je P 0 omejena množica, vsebuje samo končno mnogo elementov iz L (lema 6.5).</p>
+    <p xml:id="pb42.p5" xml:lang="sl">Iščemo skozi to končno množico in izberemo vektor b, čigar razdalja do premice l je najmanjša možna, ampak pozitivna. Nadomestimo b0 s tem vektorjem. Naj bo P paralelogram s točkami 0; a; b; a + b. Opazimo, da paralelogram P ne vsebuje točk iz L razen njenih točk. Najprej opazimo, da poljubna točka mreže c v P , ki ni točka paralelograma mora ležati na daljici [b; a+ b] ali [0; a], drugače bosta točki c in ca bližje l kot b in ena od teh dveh točk bo ležala v P 0. Nadalje, daljico [0; a] izključimo zaradi dejstva, da je a najkrajši vektor na l, če je točka c na [b; a + b], potem bo c b element iz L na daljici [0; a]. Dokaz sedaj zaključimo z uporabo leme 6.6.</p>
+    <p xml:id="pb42.p6" xml:lang="sl">Naj bo L mreža v R2. Element v 2 L imenujemo primitiven, če v ni celoštevilski večkratnik drugega vektorja v L. Dokaz leme 6.6 dejansko pokaže naslednje: Posledica 6.7 Naj bo L mreža in naj bo v primitiven element mreže L. Tedaj obstaja element w 2 L, da je množica (v; w) baza mreže.</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">Sedaj se vrnimo na našo diskretno grupo gibanj G M in preučimo grobo klasifikacijo G glede na stukturo njene translacijske grupe LG. Če je LG trivialna grupa, potem je homomorfizem iz G v njeno točkovno grupo bijektiven in G je končna. Ta primer smo preučili v poglavju 5.</p>
+    <p xml:id="pb43.p2" xml:lang="sl">Diskretne grupe G, tako da je LG neskončna ciklična grupa, so simetrične grupe vzorcev tako kot slika 3.3. Če je LG mreža, potem G imenujemo dvo-dimenzionalna kristalografska grupa ali mreža grupe. Te grupe so grupe simetrij ravninskih vzorcev in dvo-dimenzionalnih kristalov.</p>
+    <p xml:id="pb43.p3" xml:lang="sl">Dejstvo, da se vsak ravninski vzorec ponavlja nazaj vase v dveh različnih smereh je zrcalno z dejstvom, da bo njena grupa simetrij vedno vsebovala dve neodvisni translaciji, kar pokaže, da je LG mreža. Vsebujejo lahko tudi nadaljne elemente: rotacije, zrcaljenja ali drsna zrcaljenja, ampak kristalografska zožitev omeji možnosti in dovoli razporeditev kristalografskih grup v 17 tipov. Predstavljeni vzorci z različnimi tipi simetrij so prikazani na sliki 6.3.</p>
+    <p xml:id="pb43.p4" xml:lang="sl">Trditev 6.4 je uporabna za določitev točkovne grupe kristalografske grupe. Na primer, vzorec opeke , ki je predstavljen spodaj ima rotacijsko simetrijo za kot okrog centra opek. Vse te rotacije predstavljajo enak element p točkovne grupe G.</p>
+    <p xml:id="pb43.p5" xml:lang="sl">Vzorci imajo tudi drsno simetrijo vzdolž navedene pikčaste premice. Torej točkovna grupa G vsebuje zrcaljenje. Po trditvi 6.4 je G diedrska grupa. Po drugi strani ni težko videti, da so edine netrivialne rotacije v grupi G simetrije s kotom . Torej G = D2 = f1; p; r; prg.</p>
+    <p xml:id="pb43.p6" xml:lang="sl">Točkovna grupa G in translacijska grupa LG v celoti ne karakterizirata grupe G.</p>
+    <p xml:id="pb43.p7" xml:lang="sl">Stvari se zapletejo z dejstvom, da zrcaljenje v G ne rabi biti slika zrcaljenja v G.</p>
+    <p xml:id="pb43.p8" xml:lang="sl">Zrcaljenje lahko v G predstavimo edino z drsnimi zrcaljenji, kot v zgoraj prikazanem vzorcu opeke.</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">Kot primer metode potrebnih za klasifikacijo dvo-dimenzionalnih kristalografskih grup, bomo opisali tiste grupe, katerih točkovna grupa vsebuje rotacijo p s kotom 2 .</p>
+    <p xml:id="pb44.p2" xml:lang="sl">Glede na trditev 6.4 bo točkovna gupa ena od grup C4 ali D4. Ker je vsak element iz G, ki predstavlja tudi rotacija za kot 2 okrog neke točke p, lahko točko p izberemo za izhodišče. Potem si lahko predstavljamo tudi kot element G.</p>
+    <p xml:id="pb44.p3" xml:lang="sl">Trditev 6.8 Naj bo G mrežna grupa, čigar točkovna grupa vsebuje rotacijo s kotom 2</p>
+    <p xml:id="pb44.p4" xml:lang="sl">. Izberemo koordinate tako, da je izhodiščna točka rotacija za kot 2 v G.</p>
+    <p xml:id="pb44.p5" xml:lang="sl">Naj bo a najkrajši vektor v L = LG, naj bo b = (a) in naj bo c = 12(a + b).</p>
+    <p xml:id="pb44.p6" xml:lang="sl">Označimo z r zrcaljenje preko premice, ki je napeta z a. Potem je G generirana z eno od naslednjih množic: fta; g ; fta; ; rg ; fta; ; tcrg. Tako obstajajo tri takšne grupe.</p>
+    <p xml:id="pb44.p7" xml:lang="sl">Dokaz. Prvo opazimo, da je L kvadratna mreža generirana z a in b. Po predpostavki je a v L in trditev 6.3 trdi, da je tudi b = (a) v L. Vektorja a in b generirata kvadratno podmrežo L0 od L. Če je L 6= L0, potem glede na lemo 6.6 obstaja element w 2 L v kvadratu, katerega točke so 0; a; a+b in w ni ena od točk 0; a; a+b.</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Ampak vsak tak vektor bo krajši kot jaj od najmanj ene točke v in razlika w v bo v L, ampak bo krajša kot a, kar je v nasprotju z izbiro a-ja. Torej L = L0 kot smo zahtevali.</p>
+    <p xml:id="pb44.p9" xml:lang="sl">Sedaj sta elementa ta in v G in t1a = tb (4.2). Torej podgrupa H od G generirana z množico fta; g vsebuje ta in tb, zato podgrupa H vsebuje tw za vsak w 2 L. Elementi te grupe so produkti tiw:</p>
+    <p xml:id="pb44.p10" xml:lang="sl">H = tiw j w 2 L; 0 i 3</p>
+    <p xml:id="pb44.p11" xml:lang="sl">To je ena od naših grup. Sedaj premislimo, katere možne dodatne elemente še G lahko vsebuje.</p>
+    <p xml:id="pb44.p12" xml:lang="sl">Primer 1 : Vsak element iz G ohranja orientacijo. V tem primeru je točkovna grupa C4. Vsak element iz G ima obliko m = tu in če je tak element v G, potem je v točkovni grupi. Torej = i za nek i in tudi mi = tu 2 G, zato je u 2 L in m 2 H: Torej v tem primeru je G = H.</p>
+    <p xml:id="pb44.p13" xml:lang="sl">Primer 2 : G vsebuje gibanje, ki obrne orientacijo. V tem primeru je točkovna grupa D4 in vsebuje zrcaljenje preko premice, ki je napeta z a. Koordinate izberemo tako, da to zrcaljenje postane naše standardno zrcaljenje r. Potem bomo r v G predstavili z elementom oblike m = tur.</p>
+    <p xml:id="pb44.p14" xml:lang="sl">Primer 2a: Element u je v L. Potem je tu 2 G in tudi r 2 G, torej G vsebuje njeno točkovno grupo G = D4. Če je m0 = tw ali če je twr vsak element iz G je tudi r v G in zato je tw 2 G in w 2 L. Potemtakem je G grupa generirana z množico fta; ; rg.</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Primer 2b: Element u ni v L. To je težek primer, ki ga bomo dokazali pozneje z uporabo naslednje leme.</p>
+    <p xml:id="pb45.p2" xml:lang="sl">Lema 6.9 Naj bo U množica vektorjev u, tako da je tur 2 G. Potem velja: (a) L+ U = U .</p>
+    <p xml:id="pb45.p3" xml:lang="sl">(b) U = U .</p>
+    <p xml:id="pb45.p4" xml:lang="sl">(c) U + rU L.</p>
+    <p xml:id="pb45.p5" xml:lang="sl">Dokaz. Če je v 2 L in u 2 U , potem sta tv in tur v G, zato je tudi tvtur = tv+u 2 G.</p>
+    <p xml:id="pb45.p6" xml:lang="sl">S tem smo pokazali, da je c+v 2 U in tako dokažemo točko (a). Predpostavimo, da je u 2 U . Potem je tur = tpur = tur 2 G. S tem smo pokazali, da je u 2 U in tako dokažemo točko (b). Nazadnje, če sta u; v 2 U potem je turtvr = tu+rv 2 G, zato je tudi u+ rv 2 L, kar dokazuje točko (c).</p>
+    <p xml:id="pb45.p7" xml:lang="sl">Dokaz primera 2b. Del točke (a) iz leme 6.9 nam omogoča, da izberemo element u 2 U , ki leži v kvadratu, katerega točke so 0; a; b; a+ b in točke kvadrata ne ležijo na daljicah [a; a + b] in [b; a + b]. Zapišemo u v izrazih baze (a; b) in zapišemo u = xa+ yb, kjer je 0 x; y &lt; 1. Potem je u+ ru = 2xa. Ker je u+ ru 2 L z lemo 6.9 točka (c), sta za x možni vrednosti 0; 12 . Dalje, u+ a = (1 y)a+ xb tudi leži v kvadratu in enako sklepanje pokaže, da ima y vrednost 0 ali 12 . Torej tri možnosti za u so 1 2 a; 1 2 b in 1 2</p>
+    <p xml:id="pb45.p8" xml:lang="sl">(a+b) = c. Če je u = 1 2 a, potem je u = 1 2 b in ru = u = 1 2 a. Torej c = 1 2</p>
+    <p xml:id="pb45.p9" xml:lang="sl">(a + b) 2 L (lema 6.9 točka (b), (c)). To je nemogoče, ker je c krajša kot a.</p>
+    <p xml:id="pb45.p10" xml:lang="sl">Podobno, primer ko je u = 1 2 b je nemogoč. Torej edini preostali primer je u = c, kar pomeni, da je grupa G generirana z množico fta; ; tcrg. Tako zaključimo dokaz.</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">Slika 6.3: Primerki vzorcev za 17 ravninske kristalografske grupe.</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Poglavje 7</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Abstraktna simetrija</p>
+    <p xml:id="pb47.p3" xml:lang="sl">Pojem simetrije se lahko uporabi tudi za druge stvari in ne samo za geometrijske like. Na primer, kompleksno konjungiranje (a+bi) (abi) si lahko predstavljamo kot simetrijo kompleksnih števil. Kompleksno konjungiranje je združljivo z večino strukturC. Če z označimo kompleksno konjungiranje od , potem je + = + združljiv s seštevanjem in množenjem in konjungiranje imenujemo avtomorfizem polja C. Seveda je ta simetrija samo dvostranska simetrija kompleksne ravnine okrog realne osi, ampak izjava, da je to avtomorfizem se nanaša na njeno algebraično strukturo. Drugi primer abstraktne "dvostranske" simetrije je podan s ciklično grupo H reda 3. Grupa H ima avtomorfizem ', ki zamenja dva elementa različna od identitete.</p>
+    <p xml:id="pb47.p4" xml:lang="sl">Množica avtomorfizmov grupe H (ali katere koli druge matematične strukture H) tvori grupo AutH, z operacijo kompozituma preslikav. Vsak avtomorfizem bomo predstavili kot simetrijo od H v smislu, da je avtomorfizem permutacija elementov iz H, ki je združljiva s strukturo od H. Ampak namesto geometrijskega lika s togo obliko je struktura v tem primeru zakon grupe. Grupa avtomorfizmov ciklične grupe reda 3 vsebuje dva elementa: identično preslikavo in preslikavo '.</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Torej besedi avtomorfizem in simetrija sta bolj ali manj sinonima, razen da se avtomorfizem uporablja za opisovanje bijektivne preslikave množice, ki ohranja nekatere algebraične strukture, medtem ko se simetrija pogosto sklicuje na bijektivne preslikave, ki ohranjajo geometrijske strukture. Ti primeri so posebni primeri bolj splošnega koncepta, da grupe delujejo na množico. Predpostavimo, da imamo dano grupo G in množico S. Delovanje grupe G na množico S je pravilo za kombiniranje elementov g 2 G in s 2 S, da dobimo element gs iz S. Z drugimi besedami delovanje grupe G na množico S je preslikava GS ! S; ki jo na splošno zapišemo kot množenje g; s gs.</p>
+    <p xml:id="pb47.p6" xml:lang="sl">To pravilo zahtevamo, da zadostimo naslednjim aksiomom: (a) 1s = s za vsak s (1 je enota grupe G).</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">(b) Asociativen zakon: (gg0)s = g(g0s) za vsak g; g0 2 G in s 2 S.</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Množico S na katero deluje grupa G pogosto imenujemo tudi G-množica. To se v resnici imenuje levo delovanje, ker elemente iz G množimo z leve strani.</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Na primer, naj bo G = M grupa vseh togih gibanj ravnine. Potem M deluje na množico točk v ravnini, na množico premic v ravnini, na množico trikotnikov v ravnini in tako dalje. Ali naj bo G ciklična grupa f1; rg reda 2. Potem G deluje na množico S kompleksnih števil, s pravilom r = . Dejstvo, da aksioma (a) in (b) v danem primeru držita, je jasno.</p>
+    <p xml:id="pb48.p4" xml:lang="sl">Razlog, da delovanje grupe G na množico S lahko imenujemo tudi operacija je naslednji. Če fiksiramo element g iz G in če so s 2 S različni, potem levo množenje z g definira preslikavo iz S nazaj vase. To preslikav označimo z mg. Torej mg : S ! S (7.1) je definirana s predpisom mg(s) = gs za vsak s 2 S.</p>
+    <p xml:id="pb48.p5" xml:lang="sl">Ta preslikava opisuje način delovanja elementa g na množico S. Omenimo, da je mg bijekcija na množici S. Aksiomi pokažejo, da ima preslikava mg inverz mg1 = množenje z g 1: mg1(mg(s)) = g</p>
+    <p xml:id="pb48.p6" xml:lang="sl">1(gs) = (g1g)s = 1s = s. Z zamenjavo vloge g in g1 vidimo, da je tudi mg(mg1(s)) = s za vsak s 2 S.</p>
+    <p xml:id="pb48.p7" xml:lang="sl">Glavna stvar, ki jo lahko študiramo na množici S; na katero deluje grupa G je razporediti množico v orbite. Naj bo s element iz S: Orbita s v S je množica Os = fs0 2 S j s0 = gs za nek g 2 Gg , (7.2)</p>
+    <p xml:id="pb48.p8" xml:lang="sl">Os je podmnožica od S. Orbito elementa s pogosto pišemo Gs = fgs j g 2 Gg in je v analogiji z zapisovanjem odsekov grupe po podgrupi. Orbite ne bomo tako zapisovali, ker Gs izgleda preveč podoben oznaki za stabilizator, ki ga bomo uvedli v nadaljevanju. Če predstavimo elemente iz G kot delovanje na S s preslikavami, potem je Os množica slik od s pod različnimi preslikavami mg. Če je G = M grupa gibanj in je S množica trikotnikov v ravnini, je orbita O4 danega trikotnika 4 množica vseh trikotnikov kongruentih s 4. Drug primer orbite smo predstavili, ko smo dokazali obstoj fiksne točke za delovanje končne grupe na ravnino v izreku 5.2.</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">Orbite za grupo delovanja so ekvivalenčni razredi za relacijo s s0 če je s0 = gs za neki g 2 G: (7.3)</p>
+    <p xml:id="pb49.p2" xml:lang="sl">Dokaz, da je to ekvivalenčna relacija je rutinski in ga izpustimo. Ker so orbite ekvivalenčni razredi, so le-ti particija množice S S je unija disjunktnih orbit. (7.4)</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Orbita je posamezni ekvivalenčni razred in ekvivalenčni razredi tvorijo disjunktno unijo množice S. Grupa G deluje na S neodvisno na vsako orbito. Z drugimi besedami, element g 2 G permutira z elementi vsake orbite in ne preslika elementov ene orbite v drugo orbito. Na primer, množico trikotnikov v ravnini lahko razbijemo v kongruenčne razrede in sicer so to orbite glede na delovanje grupe togih gibanjM .</p>
+    <p xml:id="pb49.p4" xml:lang="sl">Gibanje m permutira z vsakim kongruenčnim razredom posebej. Opazimo, da sta orbiti elementa s in gs enaki.</p>
+    <p xml:id="pb49.p5" xml:lang="sl">Če množica S vsebuje eno samo orbito, potem pravimo, da G deluje tranzitivno na S. To pomeni, da se vsak element iz S preslika v katerikoli drugi element po delovanju grupe. Tako grupa simetrij slike (3.7) deluje tranzitivno na množico njenih nog. Grupa M togih gibanj ravnine deluje tranzitivno na množico točk v ravnini in deluje tranzitivno na množico premic v ravnini. Grupa M ne deluje tranzitivno na množico trikotnikov v ravnini.</p>
+    <p xml:id="pb49.p6" xml:lang="sl">Stabilizator elementa s 2 S je podgrupa Gs od G, ki elemente s pušča fiksne: Gs = fg 2 G j gs = sg . (7.5)</p>
+    <p xml:id="pb49.p7" xml:lang="sl">Očitno je, da je Gs podgrupa. Prav tako kot jedro homomorfizma ' : G! G0 nam pove, kdaj imata elementa x; y 2 G enako sliko. Namreč, če je x1y 2 ker' lahko opišemo, kdaj elementa x; y 2 G na enak način delujeta na element s 2 S v izrazih stabilizatorja Gs: xs = ys natanko tedaj, ko x1y 2 Gs. (7.6) Enakost xs = ys implicira s = x1ys in obratno.</p>
+    <p xml:id="pb49.p8" xml:lang="sl">Kot primer netrivialnega stabilizatorja preučimo delovanje grupeM togih gibanj na množico točk v ravnini. Stabilizator izhodišča je podgrupa O ortogonalnih operatorjev. Ali, če je S množica trikotnikov v ravnini in je 4 poseben trikotnik, ki je enakostraničen, potem je stabilizator od 4 njegova grupa simetrij. Podgrupa simetrij grupe M je izomorfna D3 (glej izrek 5.3). Omenimo, da ko rečemo, da gibanje m stabilizira trikotnik 4 ne mislimo, da m ohranja točke 4. Edino gibanje, ki ohranja vsako točko trikotnika je identiteta.</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">Poglavje 8</p>
+    <p xml:id="pb50.p2" xml:lang="sl">Operacije na odsekih</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Naj bo H podgrupa grupe G. Levi odseki aH = fah j h 2 Hg, kjer je a 2 G sestavljajo particijo grupe G. Množico levih odsekov bomo imenovali kvocientna grupa in jo bomo pogosto označevali z G=H. Temeljna ugotovitev je naslednja: čeprav G=H ni grupa, razen, če jeH podgrupa edinka G vseeno deluje na kvocientno grupo G=H na naraven način. Delovanje je precej očitno. Naj bo g element grupe in naj bo C odsek. Potem produkt gC definiramo kot odsek gC = fgc j c 2 Cg . (8.1)</p>
+    <p xml:id="pb50.p4" xml:lang="sl">Torej, če je C = aH potem je gC odsek gaH. Jasno je, da sta aksioma 1s = s za vsak s in (gg0)s = g(g0s), za vsak g; g0 2 G in s 2 S za to operacijo izpolnjena.</p>
+    <p xml:id="pb50.p5" xml:lang="sl">Ugotovimo, da grupa G deluje tranzitivno na G=H, ker je G=H orbita odseka 1H = H. Stabilizator odseka 1H je podgrupa H G. Ponovno zapišimo razliko: množenje z elementom h 2 H ne deluje trivialno na elemente odseka 1H, ampak pošlje ta odsek nazaj vase.</p>
+    <p xml:id="pb50.p6" xml:lang="sl">Za razumevanje operacije na odsekih moramo natančno obdelati naslednji primer.</p>
+    <p xml:id="pb50.p7" xml:lang="sl">Naj bo G grupa D3 simetrij enakostraničnega trikotnika. Kot v trditvi 5.5 lahko grupo G opišemo z generatorjema x; y, ki zadoščata relacijam x3 = 1; y2 = 1; yx = x2y. Naj bo H = f1; yg. To je podgrupa reda 2. Njeni odseki so C1 = H = f1; yg ; C2 = fx; xyg ; C3 = x2; x2y</p>
+    <p xml:id="pb50.p8" xml:lang="sl">, (8.2) in G deluje na G=H = fC1; C2; C3g. Tako kot v (7.1) vsak element g iz G določa permutacijo mg množice fC1; C2; C3g. Elementa x; y delujeta kot mx : 1! 2! 3 in my : 1! 1; 2! 3! 2. (8.3)</p>
+    <p xml:id="pb50.p9" xml:lang="sl">Dejansko šest elementov iz G daje vseh šest permutacij treh elementov in taka preslikava</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">G! S3 Perm(G=H) g mg je izomorfizem. Torej diedrska grupa G = D3 je izomorfna simetrični grupi S3, kar že vemo.</p>
+    <p xml:id="pb51.p2" xml:lang="sl">Naslednja trditev povezuje delovanje grupe na množico z operacijo na odsekih.</p>
+    <p xml:id="pb51.p3" xml:lang="sl">Trditev 8.1 Naj bo S G-množica in naj bo s element iz S. Naj bo H stabilizator od s in naj bo Os orbita od S. Potem obstaja naravna bijektivna preslikava G=H ! Os definirana z aH as.</p>
+    <p xml:id="pb51.p4" xml:lang="sl">Ta preslikava je združljiva z operacijami iz G v smislu, da je '(gC) = g'(C) za vsak odsek C in za vsak element g 2 G.</p>
+    <p xml:id="pb51.p5" xml:lang="sl">Trditev nam pove, da vsako delovanje grupe lahko opišemo v izrazih operacij na odsekih. Na primer, naj bo S = fv1; v2; v3g množica točk enakostraničnega trikotnika in naj bo G grupa njenih simetrij, ki so predstavljene zgoraj. Element y je zrcaljenje, ki stabilizira eno od točk trikotnika, pravimo ji v1. Stabilizator te točke je H = f1; yg in njena orbita je S. Z ustreznim indeksiranjem se množica (8.2) odsekov preslika v S s preslikavo Ci vi.</p>
+    <p xml:id="pb51.p6" xml:lang="sl">Dokaz trditve 8.1. Jasno je, da je ' preslikava, če obstaja združljiva z delovanjem grupe. Premisliti je potrebno, da pravilo gH gs definira preslikavo v celoti.</p>
+    <p xml:id="pb51.p7" xml:lang="sl">Ker mnogo elementov gH predstavlja isti odsek, moramo pokazati, da če sta a in b elementa grupe G in če je aH = bH, potem je tudi as = bs. To je res, ker vemo, da je aH = bH natanko tedaj, ko velja b = aH za nek h v H [poglavje 1 (2.3)]. Ko je b = aH je bs = ahs = as, ker h določa s. Dalje, orbita od s sestoji iz elementov gs in ' preslika gH v gs. Potem ' preslika G=H v Os in ' je surjektivna preslikava.</p>
+    <p xml:id="pb51.p8" xml:lang="sl">Nazadnje pokažimo, da je ' injektivna. Predpostavimo, da imata aH in bH enaki sliki as = bs. Potem je s = a1bs, ker je H definirana kot stabilizator od s in iz tega sledi, da je a1b = h 2 H. Torej b = aH 2 aH in tako je aH = bH s čimer zaključimo dokaz.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">Poglavje 9</p>
+    <p xml:id="pb52.p2" xml:lang="sl">Formula preštevanja</p>
+    <p xml:id="pb52.p3" xml:lang="sl">Naj boH podgrupa grupe G. Kot že vemo iz drugega poglavja (2.4) imajo vsi odseki podgrupeH vG enako število elementov jHj = jaHj. Ker je G unija neprekrivajočih odsekov (število odsekov je indeks, ki ga zapišemo kot [G : H] ali [G=H]), imamo temeljno formulo za red grupe G (glej drugo poglavje (2.5)): jGj = jHj jG=Hj . (9.1)</p>
+    <p xml:id="pb52.p4" xml:lang="sl">Sedaj naj bo S G-množica. Potem lahko kombiniramo trditev 8.1 z enakostjo (9.1) in dobimo naslednjo trditev:</p>
+    <p xml:id="pb52.p5" xml:lang="sl">Trditev 9.1 (Formula preštevanja) Naj bo s 2 S. Potem je red grupe G enak produktu reda stabilizatorja Gs in reda orbite Os: jGj = jGsj jOsj (9.2)</p>
+    <p xml:id="pb52.p6" xml:lang="sl">Ekvivalentno, red orbite je enak indeksu stabilizatorja Gs v grupi G jOsj = [G : Gs]:</p>
+    <p xml:id="pb52.p7" xml:lang="sl">Po prejšnji trditvi za vsak s 2 S velja enačba (9.2), zato red orbite vsakega elementa S deli red grupe.</p>
+    <p xml:id="pb52.p8" xml:lang="sl">Elementarna formula uporablja particijo množice S v orbiti za štetje njenih elementov. Označimo različne orbite, ki sestavljajo S na naslednji način, in sicer kot O1; : : : ; Ok. Potem je jSj = jO1j+ jO2j+ + jOkj . (9.3)</p>
+    <p xml:id="pb52.p9" xml:lang="sl">Ta preprosta formula ima veliko število aplikacij.</p>
+    <p xml:id="pb52.p10" xml:lang="sl">Primer. Obravnavajmo grupo G, ki ohranja orientacijo simetrij pravilnega dodekaedra D. Pravilni dodekaeder je eden od petih platonskih teles, ki je omejen z dvanajstimi pravilnimi petkotniki. Dodekaeder ima 12 ploskev, 30 robov in 20 oglišč.</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">V vsakem oglišču se stikajo trije robovi in tri ploskve. Preučimo delovanje grupe G na množico S stranskih ploskev dodekaedra D. Stabilizator stranske ploskve s je grupa rotacij z večkratniki od 25 okrog pravokotnice skozi center od s. Torej red Gs je 5. Obstaja 12 stranskih ploskev in G deluje tranzitivno na njih. Torej jGj = 512 = 60. Če G deluje tranzitivno na točke v dodekaedraD, potem obstajajo 3 rotacije, vključno 1, ki fiksira točko. Torej je jGvj = 3 in obstaja 20 točk, zato je jGj = 3 20 = 60 V obeh primerih dobimo rezultat 60. Obstaja podoben račun za robove. Če je e rob, potem je jGej = 2 in ker je 60 = 2 30 ima dodekaeder 30 robov.</p>
+    <p xml:id="pb53.p2" xml:lang="sl">Če sledimo našemu splošnemu principu, lahko preučujemo zožitev delovanja grupe G na podgrupo. Predpostavimo, da G deluje na množico S in naj bo H podgrupa grupe G. Če naredimo zožitev delovanja, dobimo delovanje podgrupe H na S. To nas pripelje do številnih relacij. H-orbita elementa s bo vedno vsebovana v njeni G-orbiti. Torej lahko vzamemo posamezno G-orbito in jo razčlenimo v Horbite. S štetjem redov teh H-orbit dobimo drugo formulo. Na primer, naj bo S množica 12-ih stranskih ploskev dodekaedra in naj bo H stabilizator od posamezne stranske ploskve s. Potem H tudi fiksira stransko ploskev nasproti s in tako obstajata dve H-orbiti reda 1. Preostale stranske ploskve tvorijo dve orbiti reda 5. V tem primeru se (9.3) glasi 12 = 1 + 1 + 5 + 5.</p>
+    <p xml:id="pb53.p3" xml:lang="sl">Ali naj bo S množica stranskih ploskev in naj bo K stabilizator točke. Potem K ne določa nobene stranske ploskve, torej vsaka K-orbita ima red 3 12 = 3 + 3 + 3 + 3.</p>
+    <p xml:id="pb53.p4" xml:lang="sl">Zaključimo ta razdelek s preprosto aplikacijo tega postopka za primer, da je G-množica kvocienta grupa podgrupe:</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">Trditev 9.2 Naj bosta H in K podgrupi grupe G. Potem velja</p>
+    <p xml:id="pb54.p2" xml:lang="sl">[H : H \K] [G : K].</p>
+    <p xml:id="pb54.p3" xml:lang="sl">Dokaz. Označimo kvociento grupo G=K s S in odsek 1K s s. Torej jSj = [G : K].</p>
+    <p xml:id="pb54.p4" xml:lang="sl">Kot smo že omenili je stabilizator elementa s podgrupa K. Sedaj zožimo delovanje G na podgrupo H in S razpade v H-orbite. Stabilizator od s za to delovanje je očitno H \ K. Ne vemo veliko o H-orbiti O od s, razen da je podmnožica od S.</p>
+    <p xml:id="pb54.p5" xml:lang="sl">Sedaj uporabimo trditev 9.1, ki nam pove, da je jOj = [H : H \K]. Torej velja [H : H \K] = jOj jSj = [G : K], kot smo trdili.</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">Poglavje 10</p>
+    <p xml:id="pb55.p2" xml:lang="sl">Permutacijska upodobitev</p>
+    <p xml:id="pb55.p3" xml:lang="sl">Po definiciji je simetrična grupa Sn grupa permutacij množice S = f1; : : : ; ng. Permutacijska upodobitev grupe G je homomorfizem</p>
+    <p xml:id="pb55.p4" xml:lang="sl">' : G! Sn. (10.1)</p>
+    <p xml:id="pb55.p5" xml:lang="sl">Z vsako tako upodobitvijo je definirano tudi delovanje G na S = f1; : : : ; ng s predpisom '(g) = mg, kjer je mg množenje z g (7.1). Delovanje grupe G na množico S = f1; : : : ; ng se ujema na bijektiven način s permutacijsko upodobitvijo.</p>
+    <p xml:id="pb55.p6" xml:lang="sl">Na splošno, naj bo S množica in s Perm(S) označimo grupo njenih permutacij.</p>
+    <p xml:id="pb55.p7" xml:lang="sl">Naj bo G grupa.</p>
+    <p xml:id="pb55.p8" xml:lang="sl">Trditev 10.1 Obstaja bijekcija med množicama fdelovanje G na Sg ! fhomomorfizmi G! Perm(S)g definirana na način: vsakemu delovanju grupe G na množico S priredimo homomorfizem ' : G! Perm(S), definiran s pravilom '(g) = mg.</p>
+    <p xml:id="pb55.p9" xml:lang="sl">Dokaz. Pokažimo najprej, da je ' homomorfizem. V poglavju 7 smo že zapisali, da jemg permutacija. Tako kot je definirano zgoraj je '(g) 2 Perm(S). Homomorfizem zadošča pravilu '(xy) = '(x)'(y) ali mxy = mxmy, kjer je množenje kompozitum permutacij. Torej pokazati moramo, da je mxy(s) = mx(my(s)) za vsak s 2 S.</p>
+    <p xml:id="pb55.p10" xml:lang="sl">Po definiciji (7.1) je mxy(s) = (xy)s in mx(my(s)) = x(ys). Asociativen zakon (gg0)s = g(g0s), za vsak g; g0 2 G in s 2 S z delovanjem grupe na množico pokaže, da je (xy)s = x(ys) in tako je ' res homomorfizem. Dokažimo, da je preslikava ' bijektivna. Najprej pokažimo, da je preslikava ' injektivna. Dokazati moramo, da za vsak h; h0 2 G : '(h) = '(h0) ) h = h0. Po definiciji preslikave ' je '(h) = mh in '(h0) = mh0. V poglavju 7 smo zapisali mg(s) = gs za vsak s 2 S. Torej v našem primeru je mh(s) = hs in mh0(s) = h0s za vsak s 2 S. Če sedaj ponovno zapišemo enakost, dobimo mh(s) = mh0(s) in na zadnje dobimo enakost hs = h0s.</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="sl">Enačbo z desne strani pomnožimo s s1 in dobimo hss1 = h0ss1 iz tega sledi, da je h = h0. Sedaj pokažimo, da je preslikava ' surjektivna. Dokazati moramo, da za vsak h0 2 Perm(S) obstaja h 2 G : h0 = '(h). Torej po definiciji je '(h) = mh in v poglavju 7 smo zapisali, da je mh(s) = hs za vsak s 2 S. Dobimo enakost h0 = hs za vsak s 2 S in enačbo z desne strani pomnožimo s s1 ter dobimo h0s1 = hss1 iz tega sledi, da je h0s1 = h. Torej je '(h0s1) = h0.Pokazali smo, da je preslikava</p>
+    <p xml:id="pb56.p2" xml:lang="sl">' injektivna in surjektivna torej je bijektivna.</p>
+    <p xml:id="pb56.p3" xml:lang="sl">Izomorfizem D3 ! S3 dobljen v poglavju 8 z delovanjem D3 na odseke H (8.2) je poseben primer permutacijske upodobitve. Ampak homomorfizem ne rabi biti injektiven ali surjektiven. Če je ' : G ! Perm(S) injektiven pravimo, da je delovanje grupe na S verno. Torej, da bo delovanje grupe verno mora to delovanje imeti lastnost, da je mg 6= id, razen če je g = 1 ali če je gs = s za vsak s 2 S; potem je g = 1.</p>
+    <p xml:id="pb56.p4" xml:lang="sl">Delovanje grupe gibanja M na množico S enakostraničnih trikotnikov v ravnini je verno, ker je identiteta edino gibanje, ki določa vse trikotnike.</p>
+    <p xml:id="pb56.p5" xml:lang="sl">Preostanek tega poglavja vsebuje še nekaj aplikacij permutacijske upodobitve.</p>
+    <p xml:id="pb56.p6" xml:lang="sl">Trditev 10.2 Grupa GL2(F2) obrnljivih matrik s koeficienti iz polja F2 je izomorfna simetrični grupi S3.</p>
+    <p xml:id="pb56.p7" xml:lang="sl">Dokaz. Označimo polje F2 z F in grupo GL2(F2) z G. Tedaj je</p>
+    <p xml:id="pb56.p8" xml:lang="sl">GL2(F2) =</p>
+    <p xml:id="pb56.p9" xml:lang="sl">Naj bo V = F 2 prostor stolpčnih vektorjev. Ta prostor je sestavljen iz naslednjih štirih vektorjev: V = f0; e1; e2; e1 + e2g. Grupa G deluje na V in fiksira 0, zato grupa G deluje na množico treh neničelnih elementov, ki tvorijo eno orbito, kar nam da permutacijsko upodobitev ' : G! S3. Slika od e1 pri množenju z matriko P 2 G je prvi stolpec v P in podobno je slika od e2 drugi stolpec v P . P ne more delovati trivialno na ta dva vektorja razen, če je P identiteta. To nam pokaže, da je G verno delovanje na V in zato je preslikava ' injektivna. Ker imata obe grupi red 6 je ' izomorfizem.</p>
+    <p xml:id="pb56.p10" xml:lang="sl">Trditev 10.3 Naj bo cg konjugacija z g, to je preslikava cg(x) = gxg1. Preslikava f : S3 ! Aut(S3) iz simetrične grupe v njeno grupo avtomorfizmov, ki je definirana s predpisom g cg je bijektivna.</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=57">
+    <p xml:id="pb57.p1" xml:lang="sl">Dokaz. Z A označimo grupo avtomorfizmov od S3. Vemo, da je cg avtomorfizem.</p>
+    <p xml:id="pb57.p2" xml:lang="sl">Nadalje, cgh = cgch, ker je cgh(x) = (gh)x(gh)1 = ghxh1g1 = cg(ch(x)) za vsak x. S tem smo pokazali, da je f homomorfizem. Konjugacija z g je identiteta natanko tedaj, ko je g v centru grupe. Center od S3 je trivialen, zato je f injektivna.</p>
+    <p xml:id="pb57.p3" xml:lang="sl">Da dokažemo surjektivnost preslikave f gledamo permutacijsko upodobitev A.</p>
+    <p xml:id="pb57.p4" xml:lang="sl">Grupa A deluje na množico S3 na naslednji način: če je avtomorfizem in s 2 S3, potem je s = (s). Elementi iz S3 različnih redov bodo v različnih orbitah glede na delovanje grupe. Torej A deluje na podmnožico od S3 elementov reda 2. Ta množica vsebuje tri elemente fy; xy; x2yg. Če avtomorfizem določa oba elementa xy in y, potem avtomorfizem prav tako določa njun produkt xyy = x. Ker x in y generirata S3 je edini tak avtomorfizem identiteta. S tem smo pokazali, da je delovanje A na fy; xy; x2yg verno in da je permutacijska upodobitev A ! Perm fy; xy; x2yg injektivna. Torej red A je največ 6. Ker je f injektivna in je red S3 enak 6 sledi, da je f bijektivna.</p>
+    <p xml:id="pb57.p5" xml:lang="sl">Trditev 10.4 Grupa avtomorfizmov ciklične grupe reda p je izomorfna multiplikativni grupi Fpn f0g.</p>
+    <p xml:id="pb57.p6" xml:lang="sl">Dokaz. Uporabimo aditivno grupo Fp kot model za ciklično grupo reda p. Aditivna grupa Fp je generirana z elementom 1. Označimo multiplikativno grupo Fpn f0g z G. Potem G deluje na aditivno grupo Fp z levim množenjem in to delovanje definira injektivni homomorfizem ' : G! Perm(Fp).</p>
+    <p xml:id="pb57.p7" xml:lang="sl">Grupa avtomorfizmov A = Aut(Fp) je podgrupa grupe Perm(Fp). Distributivnostni zakon pokaže, da je množenje z elementom a 2 G avtomorfizem od Fp; ki je bijektiven in a(x+ y) = ax+ ay. Torej slika od ' : G! Perm(Fp) je vsebovana v podgrupi A. Avtomorfizem na Fp je določen s sliko generatorja 1 in ta slika ne more biti 0. Delovanje grupe G lahko pošlje 1 v vsak neničelni element. Torej ' je surjektivna preslikava iz G v A. Ker je ' hkrati injektivna in surjektivna, je ' izomorfizem.</p>
+  </page>
+  <page xml:id="pb58" n="58" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=58">
+    <p xml:id="pb58.p1" xml:lang="sl">Poglavje 11</p>
+    <p xml:id="pb58.p2" xml:lang="sl">Končne podgrupe rotacijske grupe</p>
+    <p xml:id="pb58.p3" xml:lang="sl">V tem poglavju se bomo posvetili formuli preštevanja za klasifikacijo končnih podgrup rotacijske grupe SO3, ki smo je definirali v drugem poglavju (2.6). Kot se zgodi s končnimi grupami gibanj ravnine, obstaja nekaj končnih podgrup rotacijske grupe SO3 in vse od njih so simetrične grupe znanih teles.</p>
+    <p xml:id="pb58.p4" xml:lang="sl">Naj bo G končna podgrupa rotacijske grupe SO3. Vsak element g iz G razen identitete je rotacija okrog premice l in ta premica je očitno enolična. Torej g fiksira natanko dve točki enotske sfere S v R3, in sicer dve točki presečišča l \ S. Ti dve točki imenujemo pola od g. Torej pol je točka p na enotski sferi, tako da je gp = p za nek element g 6= 1 iz G. Na primer, če je G grupa rotacijskih simetrij tetraedra 4, potem bodo poli točke iz S, ki ležijo nad točkami, središči stranskih ploskev in središči roba 4.</p>
+    <p xml:id="pb58.p5" xml:lang="sl">Naj bo P množica vseh polov.</p>
+    <p xml:id="pb58.p6" xml:lang="sl">Lema 11.1 Množica P se preslika nazaj vase z delovanjem G na sfero S. Torej grupa G deluje tudi na P .</p>
+    <p xml:id="pb58.p7" xml:lang="sl">Dokaz. Naj bo p pol, in sicer pravimo mu pol od g 2 G. Naj bo x poljuben element iz G. Pokazati moramo, da je xp pol. To pomeni, da je xp fiksiran z leve strani z nekim elementom g0 iz G, ki ne sme biti identitete. Iskan element je xgx1: xgx1(xp) = xgp = xp in xgx1 6= 1, ker je g 6= 1.</p>
+  </page>
+  <page xml:id="pb59" n="59" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=59">
+    <p xml:id="pb59.p1" xml:lang="sl">Izrek 11.2 Vsaka končna podgrupa G rotacijske grupe SO3 je ena od naslednjih grup:</p>
+    <p xml:id="pb59.p2" xml:lang="sl">Ck: ciklična grupa rotacij z večkratniki od 2k okrog premice; Dk: diedrska grupa simetrij pravilnega k-kotnika;</p>
+    <p xml:id="pb59.p3" xml:lang="sl">T : tetraedrska grupa 12-ih rotacij, ki preslika pravilni tetraeder nazaj vase; O: oktaedrska grupa reda 24 rotacij kocke ali pravilnega oktaedra; I: ikozaedrska grupa 60-ih rotacij pravilnega dodekaedra ali pravilnega ikozaedra.</p>
+    <p xml:id="pb59.p4" xml:lang="sl">Dokaz. Naj bo G končna podgrupa rotacijske grupe SO3 in označimo njen red z N . S seštevanjem polov bomo dobili nekaj informacij. Ker ima vsak element iz G razen 1 dva pola, je naše prvo ugibanje, da je tukaj mogoče vse skupaj 2N2 polov.</p>
+    <p xml:id="pb59.p5" xml:lang="sl">To ni popolnoma res, ker ista točka p lahko ima pol za več kot en grupni element.</p>
+    <p xml:id="pb59.p6" xml:lang="sl">Stabilizator pola p je grupa vseh rotacij okrog premice l = (0; p), ki so v G. Ta grupa je ciklična in je generirana z rotacijo z najmanjšim kotom v G (glej dokaz izreka 5.3 točka (a)). Če je red stabilizatorja rp, potem je = 2rp . Vemo, da je rp &gt; 1, ker je p pol, stabilizator Gp vsebuje element razen 1. Po formuli preštevanja trditev 9.1 zapišemo jGpj jOpj = jGj .</p>
+    <p xml:id="pb59.p7" xml:lang="sl">Zapišimo to enačbo kot rpnp = N , (11.1) kjer je np število polov orbite Op. Množica elementov G z danim polom p je stabilizator Gp, minus identični element. Torej tukaj je (rp 1) elementov grupe s p,kjer je p pol. Po drugi strani, vsak grupni element g razen 1 ima dva pola. Povsod moramo odšteti 1, zato je tukaj majhna zmeda, ampak pravilna relacija je naslednjaX p2P</p>
+    <p xml:id="pb59.p8" xml:lang="sl">(rp 1) = 2N 2. (11.2)</p>
+    <p xml:id="pb59.p9" xml:lang="sl">Če sta p in p0 v isti orbiti, potem imata stabilizatorja Gp in Gp0 isti red. To je res, zato, ker je Op = Op0 in jGj = jGpj jOpj = Gp0 Op0 .</p>
+  </page>
+  <page xml:id="pb60" n="60" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=60">
+    <p xml:id="pb60.p1" xml:lang="sl">Torej lahko skupaj združimo izraze na levi strani iz (11.2), ki ustrezajo polom dane orbite Op. Tukaj je np takih izrazov, torej število skupaj zbranih polov je np(rp1).</p>
+    <p xml:id="pb60.p2" xml:lang="sl">Označimo število orbit kot O1; O2; : : :. Potem veljaX i ni(ri 1) = 2N 2, kjer je ni = jOij in ri = jGpj za vsak p 2 Oi. Ker je N = niri, lahko obe strani delimo z N in zamenjamo strani ter dobimo znamenito formulo 2 2</p>
+    <p xml:id="pb60.p3" xml:lang="sl">N</p>
+    <p xml:id="pb60.p4" xml:lang="en">X i</p>
+    <p xml:id="pb60.p5" xml:lang="en">(1 1 ri</p>
+    <p xml:id="pb60.p6" xml:lang="sl">Ta formula na prvi pogled ni zelo obetajoča, ampak dejansko nam ta formula pove veliko. Leva stran je manj kot 2, medtem ko je izraz na desni strani več ali enako 1 2</p>
+    <p xml:id="pb60.p7" xml:lang="sl">. Sledi, da so tukaj največ 3 orbite. Preostale klasifikacije naredimo z naštevanjem različnih možnosti: Ena orbita: 2 2</p>
+    <p xml:id="pb60.p8" xml:lang="sl">N</p>
+    <p xml:id="pb60.p9" xml:lang="sl">= 1 1 r</p>
+    <p xml:id="pb60.p10" xml:lang="sl">. To je nemogoče, ker je 2 2N 1, medtem ko je 1 1 r</p>
+    <p xml:id="pb60.p11" xml:lang="sl">&lt; 1.</p>
+    <p xml:id="pb60.p12" xml:lang="sl">Dve orbiti : 2 2</p>
+    <p xml:id="pb60.p13" xml:lang="sl">N</p>
+    <p xml:id="pb60.p14" xml:lang="sl">= (1 1 r1</p>
+    <p xml:id="pb60.p15" xml:lang="sl">) + (1 1 r2</p>
+    <p xml:id="pb60.p16" xml:lang="sl">), potem sledi, da je 2</p>
+    <p xml:id="pb60.p17" xml:lang="sl">N</p>
+    <p xml:id="pb60.p18" xml:lang="sl">= 1 r1</p>
+    <p xml:id="pb60.p19" xml:lang="sl">+ 1 r2</p>
+    <p xml:id="pb60.p20" xml:lang="sl">. Vemo,da je ri N , ker ri deli N . Ta enačba velja samo, če je r1 = r2 = N , potem je n1 = n2 = 1. Tukaj sta dva pola in sicer p in p0 in oba pola določimo z vsakim elementom grupe. Očitno je G ciklična grupa Cn rotacij okrog premice l skozi p in p0.</p>
+    <p xml:id="pb60.p21" xml:lang="sl">Tri orbite: To je glavni primer. Formulo (11.3) spremenimo v obliko 2</p>
+    <p xml:id="pb60.p22" xml:lang="sl">N</p>
+    <p xml:id="pb60.p23" xml:lang="sl">= 1 r1</p>
+    <p xml:id="pb60.p24" xml:lang="sl">+ 1 r2</p>
+    <p xml:id="pb60.p25" xml:lang="sl">+ 1 r3</p>
+    <p xml:id="pb60.p26" xml:lang="sl">1, kjer ri razvrstimo v naraščajočem vrstnem redu. Potem je ri = 2. Če so vsi ri najmanj 3, potem bo desna stran 0, kar je nemogoče.</p>
+    <p xml:id="pb60.p27" xml:lang="sl">Primer 1: Najmanj dva reda ri sta 2: r1 = r2 = 2. Tretji red r3 = r je lahko poljuben in N = 2r, potem je n3 = 2. Obstaja en par polov fp; p0g, ki ustvari orbito O3. Vsak element g fiksira oba pola p in p0 ali ju zamenja. Torej elementi iz G so rotacije okrog premice l = (p; p0) ali pa so rotacije za kot okrog premice l0, ki je pravokotna na l. Ni težko videti, da je G grupa rotacij, ki določa pravilni r-kotnik 4, diedrska grupa Dr. Mnogokotnik 4 leži v ravnini pravokotno na l in točke ter središča stranskih ploskev 4 ustrezajo preostalim polom. Dvostranske simetrije (zrcaljenja) mnogokotnika v R2 postanejo rotacije za kot , ko 4 vstavimo v R3.</p>
+    <p xml:id="pb60.p28" xml:lang="sl">Primer 2 : En ri = 2: trojica r1 = 2; r2 4; r3 4 je nemogoča, ker je 12+ 14+ 141 = 0. Podobno, se naslednji primer ne more zgoditi ri = 2; r2 = 3; r3 6, ker je 1 2</p>
+  </page>
+  <page xml:id="pb61" n="61" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=61">
+    <p xml:id="pb61.p1" xml:lang="sl">Preostale tri možnosti so: (a) ri = (2; 3; 3); N = 12; (b) ri = (2; 3; 4); N = 24; (c) ri = (2; 3; 5); N = 60.</p>
+    <p xml:id="pb61.p2" xml:lang="sl">Preostane nam analizirati naslednje tri primere.</p>
+    <p xml:id="pb61.p3" xml:lang="sl">(i) ni = (6; 4; 4). Poli v orbiti O2 so točke pravilnega tetraedra 4 in G je grupa rotacij, ki te točke fiksirajo: G = T . Tukaj je n1 število robov 4 in n2; n3 sta števili točk in stranskih ploskev tetraedra 4.</p>
+    <p xml:id="pb61.p4" xml:lang="sl">(ii) ni = (12; 8; 6). Poli v O2 so točke kocke in poli v O3 so točke pravilnega oktaedra. G = O je grupa njihovi rotacij. Cela števila ni so števila robov, točk in stranskih ploskev kocke.</p>
+    <p xml:id="pb61.p5" xml:lang="sl">(iii) ni = (30; 20; 12). Poli od O2 so točke pravilnega dodekaedra in poli v O3 so točke pravilnega ikozaedra: G = I.</p>
+    <p xml:id="pb61.p6" xml:lang="sl">Tukaj je še kar nekaj dela, da bi dokazali točke (i), (ii) in (iii). Intuintivno, poli v orbiti so lahko točke pravilnega mnogokotnika, ker poli tvorijo posamezno orbito in so zato enakomerno porazdeljeni na sferi. Kakorkoli, to ni povsem natančno, ker središča robov kocke, na primer, tvorijo posamezno orbito, ampak ne napenjajo pravilnega mnogokotnika.</p>
+    <p xml:id="pb61.p7" xml:lang="sl">Kot primer, preučimo točko (iii), kjer je ni = (30; 20; 12). Naj bo p eden od 12-ih polov v O3 in naj bo q eden od polov v O2 najbližje p. Ker je stabilizator od p reda 5 in deluje na O2, slike od q določajo množico 5-ih najbljižjih sosedov do pola p. Pole dobimo iz q z 5-imi rotacijami okrog točke p v G, zato je število polov v O, ki so najbližje p večkratnik števila 5 in ni težko videti, da je število 5 edina možnost. Torej teh 5 polov so točke pravilnega petkotnika. 12 petkotnikov tvori obliko pravilnega dodekaedra.</p>
+    <p xml:id="pb61.p8" xml:lang="sl">To poglavje bomo zaključili z opombo, da je naša razprava gibanj ravnine analogna za grupo M3 togih gibanj 3-prostora. V splošnem, lahko definiramo pojem kristalografske grupe, ki je diskretna podgrupa, čigar translacijska grupa je 3-dimenzionalna mreža L. Ko rečemo, da je L mreža, mislimo, da obstajajo trije neodvisni vektorji a; b; c v R3, tako da so ta; tb; tc 2 G. Kristalografske grupe so analogne mrežnim grupam v M = M2.</p>
+  </page>
+  <page xml:id="pb62" n="62" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-11000.pdf#page=62">
+    <p xml:id="pb62.p1" xml:lang="sl">Literatura</p>
+    <p xml:id="pb62.p2" xml:lang="sl">[1] M. Artin, Algebra, Prentice Hall, New Jersey 1991.</p>
+    <p xml:id="pb62.p3" xml:lang="sl">[2] I. Vidav, Algebra, DMFA, Ljubljana 1989.</p>
+    <p xml:id="pb62.p4" xml:lang="sl">[3] Wikipedia, Dodekaeder. Dostopno na naslovu: http://sl.wikipedia.org/wiki/Dodekaeder (Povzeto 08.12.2009).</p>
+  </page>
+</document>

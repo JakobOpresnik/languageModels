@@ -1,0 +1,929 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-9000" doc_id="9000" text_id="15208" cobiss_id="6934291" title="Trženje in organizacija kongresne dejavnosti" author="Samardžić, Tina" supervisor="Šprajc, Polona" year="2011" publisher_abbr="UM FOV" publisher="Fakulteta za organizacijske vede" place="Kranj" url="http://dkum.uni-mb.si/Dokument.php?id=24121" type="Diplomsko delo" udc="339.138" udc_desc="Splošna vprašanja o trgovanju in trgovini" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">Diplomsko delo visokošolskega strokovnega študija Organizacija in management kadrovskih in izobraževalnih procesov</p>
+    <p xml:id="pb1.p2" xml:lang="sl">TRŽENJE IN ORGANIZACIJA KONGRESNE DEJAVNOSTI</p>
+    <p xml:id="pb1.p3" xml:lang="sl">Mentor: doc. dr. Polona Šprajc Kandidat: Tina Samardžić Kranj, september 2011</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">ZAHVALA</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Zahvaljujem se mentorici doc. dr. Poloni Šprajc za vso pomoč, nasvete, spodbudo in strokovno vodenje pri izdelavi diplomske naloge.</p>
+    <p xml:id="pb2.p3" xml:lang="sl">Posebna zahvala gre tudi sodelavcem v JGZ Brdu predvsem oddelku prodajnega trženja, za pomoč, pripravljenost in spodbudne besede.</p>
+    <p xml:id="pb2.p4" xml:lang="sl">Nazadnje pa se najlepše zahvaljujem svoji družini, ki me je ves ta čas podpirala, ter prijateljem, ki so me spodbujali ali drugače pomagali in stali ob strani.</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">POVZETEK</p>
+    <p xml:id="pb3.p2" xml:lang="sl">Diplomsko delo zajema raziskavo o zadovoljstvu in željah že obstoječih naročnikov Javnega gospodarskega zavoda protokolarne storitve Republike Slovenije.</p>
+    <p xml:id="pb3.p3" xml:lang="sl">V zadnjih letih doživljamo velik napredek v razvoju kongresne dejavnosti, in ta prinaša velike dobičke. Tega se zavedajo tudi na Brdu pri Kranju, kjer je potekala večina dogodkov v času predsedovanja Slovenije Evropski uniji.</p>
+    <p xml:id="pb3.p4" xml:lang="sl">Diplomsko delo je razdeljeno na dva dela – teoretičnega in raziskovalnega. Sprva smo opredelili teoretična izhodišča kongresne dejavnosti, njenega trženja ter trženjskega komuniciranja. Predstavili smo potek organiziranja kongresa ter zavod JGZ Brdo. V drugem delu sledi izvedba ankete med obstoječimi naročniki storitev v JGZ Brdo. Izdelali smo vprašalnik, ki meri zadovoljstvo naročnikov, kar prikaže prednosti in slabosti kongresne ponudbe JGZ Brdo ter njegovega trženjskega komuniciranja. S pomočjo analize pridobljenih rezultatov smo ugotovili nivo kvalitete storitev ter zadovoljstvo naročnikov.</p>
+    <p xml:id="pb3.p5" xml:lang="sl">KLJUČNE BESEDE</p>
+    <p xml:id="pb3.p6" xml:lang="sl">- kongresna dejavnost,</p>
+    <p xml:id="pb3.p7" xml:lang="sl">- trženje, trženjsko komuniciranje,</p>
+    <p xml:id="pb3.p8" xml:lang="sl">- JGZ Brdo,</p>
+    <p xml:id="pb3.p9" xml:lang="sl">- organizacija kongresa,</p>
+    <p xml:id="pb3.p10" xml:lang="sl">- kongresni center.</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">ABSTRACT</p>
+    <p xml:id="pb4.p2" xml:lang="en">The diploma includes a survey on customer satisfaction and preferences of the existing customers JGZ Brdo.</p>
+    <p xml:id="pb4.p3" xml:lang="en">In the recent years we are experiencing great progress in development of the congress sector which as such brings high revenue. The Brdo employees are well aware of the fact mentioned. Brdo is the place where most of the events were held during the presidency of Slovenia to the European Union.</p>
+    <p xml:id="pb4.p4" xml:lang="en">The diploma is divided into two parts - theoretical and research. Initially we defined theoretical frameworks of the congress sector, its marketing and promotion.</p>
+    <p xml:id="pb4.p5" xml:lang="en">We described the organisation of an event and the state protocol services Brdo itself. Furthermore in the second part of the diploma we described the survey that was made for the existing customers of JGZ Brdo. We developed a questionnaire to measure client satisfaction, and also show the advantages and disadvantages of JGZ Brdo’s offer and its promotion. Based on the analysis result, we conducted among the existing customers of JGZ Brdo, we determined the quality of service and client satisfaction.</p>
+    <p xml:id="pb4.p6" xml:lang="en">KEY WORDS</p>
+    <p xml:id="pb4.p7" xml:lang="en">- congress sector,</p>
+    <p xml:id="pb4.p8" xml:lang="en">- marketing,</p>
+    <p xml:id="pb4.p9" xml:lang="sl">- promotion,</p>
+    <p xml:id="pb4.p10" xml:lang="sl">- JGZ Brdo,</p>
+    <p xml:id="pb4.p11" xml:lang="en">- organization of congresses,</p>
+    <p xml:id="pb4.p12" xml:lang="en">- congress centre.</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">KAZALO</p>
+    <p xml:id="pb5.p2" xml:lang="sl">1. UVOD ........................................................................................ 1 1.1. OPREDELITEV TEME ............................................................................... 1 1.2. NAMEN IN CILJI..................................................................................... 2 1.3. RAZISKOVALNA VPRAŠANJA ...................................................................... 2 1.4. METODE DELA ...................................................................................... 2 2. KONGRESNA DEJAVNOST ................................................................ 3 2.1. OPREDELITEV IN POMEN KONGRESNE DEJAVNOSTI .......................................... 3 2.2. DELITEV IN OBLIKE KONGRESNE DEJAVNOSTI ................................................. 6 2.3. VLOGA KONGRESNIH ORGANIZACIJ ............................................................. 7 3. PRIPRAVA KONGRESA .................................................................. 10 3.1. KONGRES KOT STORITEV ....................................................................... 11 3.2. KOMUNIKACIJA KONGRESA ..................................................................... 17 3.3. SPREMLJEVALNI DOGODKI KONGRESA ........................................................ 18 4. TRŽENJE KONGRESNE DEJAVNOSTI ................................................. 22 4.1. PROSTOR KONGRESNE DEJAVNOSTI .......................................................... 24 4.2. KOMUNIKACIJA KONGRESNE DEJAVNOSTI ................................................... 25 5. JAVNI GOSPODARSKI ZAVOD BRDO .................................................. 27 5.1. PREDSTAVITEV JGZ BRDO ...................................................................... 27 5.2. STRATEŠKI CILJI JGZ BRDO..................................................................... 28 5.3. TRŽENJSKI SPLET V JGZ BRDO ................................................................. 29</p>
+    <p xml:id="pb5.p3" xml:lang="sl">5.3.1. Storitve JGZ Brdo ......................................................................... 29 5.3.2. Cenovna politika JGZ Brdo .............................................................. 35 5.3.3. Lokacija JGZ Brdo......................................................................... 36 5.3.4. Komuniciranje v JGZ Brdo ............................................................... 36</p>
+    <p xml:id="pb5.p4" xml:lang="sl">6. ANALIZA IN RAZISKAVA ................................................................ 40 6.1. UVOD IN CILJI RAZISKAVE ...................................................................... 40 6.2. METODE RAZISKAVE ............................................................................. 40 6.3. PREDSTAVITEV REZULTATOV .................................................................. 40 7. UGOTOVITVE ............................................................................ 50 8. ZAKLJUČEK .............................................................................. 52 LITERATURA IN VIRI ........................................................................ 55 PRILOGE ..................................................................................... 58 1. UVOD</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">1.1. OPREDELITEV TEME</p>
+    <p xml:id="pb6.p2" xml:lang="sl">Kongresna dejavnost, ki predstavlja »elito« kongresnega turizma, se je v zadnjih letih v svetu zelo razvila in prinaša precej visoke dobičke. Prav zahtevana visoka raven kakovosti na vseh področjih ponudbe kongresne dejavnosti je posledica višje cene storitev, ki so jo udeleženci srečanj oziroma njihova podjetja pripravljena plačati.</p>
+    <p xml:id="pb6.p3" xml:lang="sl">Tudi v Sloveniji v zadnjih letih doživljamo napredek pri razvoju kongresne dejavnosti. Pričelo se je pospešeno investirati v kongresno infrastrukturo, hoteli so pričeti obnavljati in dograjevati kongresne dvorane. Vendar pa investitorji v glavnem ne upoštevajo osnovnih potreb organizatorjev kongresa in udeležencev ter zakonitosti kongresnega tržišča.</p>
+    <p xml:id="pb6.p4" xml:lang="sl">Včasih je organiziranje srečanja veljalo za enostaven projekt, ki ne zahteva drugega kot rezervacijo dvorane in hotelskih sob. Danes pa je organizacija kongresa veliko več kot to, zato je zelo pomemben dejavnik pri pridobivanju kongresov prav sposobnost organiziranja dogodka takšnih razsežnosti. Potrebni so strokovno usposobljeni, inovativni, kreativni in fleksibilni ljudje z odličnimi organizacijskimi sposobnosti.</p>
+    <p xml:id="pb6.p5" xml:lang="sl">V Sloveniji imamo dobro kongresno infrastrukturo, dežela je slikovita in zanimiva ter smo odlični organizatorji. Vendar kljub temu, da je Slovenija v letu 2008 predsedovala EU, je trenutno še vedno največja pomanjkljivost relativna neprepoznavnost Sloveniji v tujini. Povečanje kongresne dejavnosti v Sloveniji bi dosegli predvsem s sistematičnim dolgoročnim trženjem kongresne ponudbe.</p>
+    <p xml:id="pb6.p6" xml:lang="sl">Kongresna ponudba pa ima nekaj specifičnih lastnosti, zato ima tudi trženje kongresne ponudbe svoje posebnosti. Poleg oglaševanja prek medijev, ki je včasih zadostovalo, je za trženje kongresnih zmogljivosti potrebna celovita in dodelana trženjska strategija, ki temelji na individualnem pristopu in se prilagaja specifičnim zahtevam kupcev kongresnih storitev.</p>
+    <p xml:id="pb6.p7" xml:lang="sl">Pri trženju kongresne dejavnosti gre za prodajo kongresnih kapacitet in storitev.</p>
+    <p xml:id="pb6.p8" xml:lang="sl">Trženje temelji na specifičnih aktivnostih, ki zahteva raziskovanje in spremljanje kongresnega trga ter spoznavanje novih kupcev kongresnih storitev. Tega se zavedajo tudi na Brdu pri Kranju, kjer je potekalo večino dogodkov v času predsedovanja Slovenije EU. Vendar je problem pri trženju predvsem zaradi omejitve, ker je zavod financiran iz državnega proračuna in o oglaševanju storitev v klasičnem pomenu težko govorimo.</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">1.2. NAMEN IN CILJI</p>
+    <p xml:id="pb7.p2" xml:lang="sl">Namen diplomskega dela je opredeliti teoretična izhodišča kongresne dejavnosti ter njenega trženja. Predstavili bomo potek organiziranja kongresa, zajeta bo tudi tematika trženjskega komuniciranja v kongresni dejavnosti. Predstavili bomo zavod JGZ Brdo, njegov namen, cilje, poslanstvo, vizijo ter trženjski splet. Na koncu bo sledila statistična analiza dogodkov, izvedenih v JGZ Brdo leta 2009 in 2010 ter izvedba ankete med obstoječimi naročniki storitev v JGZ Brdo.</p>
+    <p xml:id="pb7.p3" xml:lang="sl">S pomočjo analize, ki jo bomo opravili med obstoječimi naročniki storitev JGZ Brda, bomo na podlagi rezultatov ugotovili predvsem kvaliteto storitev ter zadovoljstvo naročnikov. Poleg informiranja pa je namen diplomskega dela najti dejavnike, ki v največji meri vplivajo na organizacijo dogodka in posledično na poslovni uspeh JGZ Brda.</p>
+    <p xml:id="pb7.p4" xml:lang="sl">Glavni cilj je najti pomanjkljivosti kongresne ponudbe JGZ Brda in njenega trženja, saj bi z odpravo le-te lahko pridobili nove naročnike ter povečali zadovoljstvo že obstoječih naročnikov.</p>
+    <p xml:id="pb7.p5" xml:lang="sl">1.3. RAZISKOVALNA VPRAŠANJA</p>
+    <p xml:id="pb7.p6" xml:lang="sl">Pri obravnavi tematike bomo v drugem, empiričnem delu na podlagi analize poskušali odgovoriti na naslednja vprašanja:</p>
+    <p xml:id="pb7.p7" xml:lang="sl">Ali kongresna ponudba JGZ Brdo zadošča trženjskemu spletu (4P)?</p>
+    <p xml:id="pb7.p8" xml:lang="sl">Ali so naročniki zadovoljni s pripravo in izvedbo dogodka v JGZ Brdo?</p>
+    <p xml:id="pb7.p9" xml:lang="sl">Ali tveganje odpovedi zaradi protokola bistveno vpliva na odločitev o izvedbi dogodka v JGZ Brdo?</p>
+    <p xml:id="pb7.p10" xml:lang="sl">Kako ocenjujete komunikacijo s kadrom?</p>
+    <p xml:id="pb7.p11" xml:lang="sl">Ali ekonomska kriza vpliva na število izvedenih dogodkov v JGZ Brdo?</p>
+    <p xml:id="pb7.p12" xml:lang="sl">1.4. METODE DELA</p>
+    <p xml:id="pb7.p13" xml:lang="sl">V diplomskem delu bomo kot metodološki pristop uporabili deskriptivno ali opisno metodo. Podatke za teoretični del bomo črpali iz literature, aktualnih člankov revij ter internetnih virov.</p>
+    <p xml:id="pb7.p14" xml:lang="sl">V raziskovalnem delu bomo uporabili metodo anketiranja, ker želimo hitro priti do želenih podatkov. Anketo v obliki vprašalnika bomo izvedli med naročniki, ki so izvedli oziroma nameravali izvesti dogodek na Brdu pri Kranju. Anketni vprašalnik bomo pripravili s pomočjo orodja EnKlikAnketa (1KA) za spletne ankete, s katerim bomo tudi analizirali rezultate. S pomočjo slednjega bomo predvsem merili zadovoljstvo naročnikov in skušali ugotoviti pomanjkljivosti kongresne ponudbe.</p>
+    <p xml:id="pb7.p15" xml:lang="sl">Za primerjavo rezultatov števila dogodkov v letu 2009 in 2010 pa bomo uporabili analizo.</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">2. KONGRESNA DEJAVNOST</p>
+    <p xml:id="pb8.p2" xml:lang="sl">2.1. OPREDELITEV IN POMEN KONGRESNE DEJAVNOSTI</p>
+    <p xml:id="pb8.p3" xml:lang="sl">Gledano iz zgodovinskega vidika, je potreba po izmenjevanju človeških misli, besed, idej, stalnica v našem življenju. Že od začetkov civilizacije so ljudje organizirali srečanja in sestanke zato, da bi na njih urejali svoje pravice in obveznosti, oblikovali zakone, mirili nesporazume in vojne, razvijali in posredovali znanje, izmenjali izkušnje, širili religiozne ideje ali politične programe. Danes se milijoni ljudi udeležijo kongresov prav s temi predpostavkami, vendar se jih le malo zaveda kompleksnosti te dejavnosti: organizacije, koordinacije, storitev in zaslužka (Peterlič, 1999, 1).</p>
+    <p xml:id="pb8.p4" xml:lang="sl">Beseda kongres izhaja iz latinske besede congressus, kar pomeni sestanek. Izraz konferenca izhaja iz francoske besede conference oziroma novolatinske conferentia, le-ta pa iz latinske confere, kar pomeni zbirati se (Zakrajšek, 1998, 64).</p>
+    <p xml:id="pb8.p5" xml:lang="sl">Najprej je potrebno povedati, da je še precejšnja zmeda na področju končnega poimenovanja kongresne dejavnosti. Tako jo imenujejo:</p>
+    <p xml:id="pb8.p6" xml:lang="sl">kongresna dejavnost,</p>
+    <p xml:id="pb8.p7" xml:lang="sl">MICE dejavnost (Meetings, Incentive, Conventions, Exhibitions),</p>
+    <p xml:id="pb8.p8" xml:lang="sl">konferenca (Conference),</p>
+    <p xml:id="pb8.p9" xml:lang="sl">konvencije (Conventions) in</p>
+    <p xml:id="pb8.p10" xml:lang="sl">kongresi (Congressess) (Zidanski, 2005).</p>
+    <p xml:id="pb8.p11" xml:lang="sl">Ker ni določene točne definicije, lahko le upoštevamo mnenja mednarodnih kongresnih organizacij in nekaterih avtorjev.</p>
+    <p xml:id="pb8.p12" xml:lang="sl">Kongresna dejavnost je specifična dejavnost, ki zahteva, tako kot ves turizem, zelo veliko živega dela in osebne odgovornosti. Predvsem v turističnih krajih pomeni tudi odlično dopolnilno dejavnost, ni čudno, da organizacija kongresne dejavnosti mika marsikatero agencijo ali hotel (pri nas se zanjo zanimajo predvsem hoteli). Vendar pa kongresna dejavnost, ki je veliko širša od klasičnega turizma, zajema predvsem širše področje. Čeprav srečanje ali kongres trajata le nekaj dni, priprave potekajo (še zlasti pri velikih mednarodnih kongresih) tudi po nekaj let.</p>
+    <p xml:id="pb8.p13" xml:lang="sl">Najbolj pomembno pri vsem tem pa je, da mora biti kongres uspešen, kajti možnosti za generalko ali celo ponovitev ni. Vsako srečanje je enkratno, specifično in neponovljivo. Izgovorov za spodrsljaje preprosto ni (Zidanski, 2005, 13—14).</p>
+    <p xml:id="pb8.p14" xml:lang="sl">Franićeva (1977, 20) definicija pravi: »Kongresni turizem je celota pojavov in odnosov, ki so posledica potovanja in bivanja oseb, ki se bodo udeležile sestanka izven mesta svojega stalnega bivališča«.</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">Lucianović (1980, 17) pa pravi: »Kongres je danes pojem z mednarodnim pomenom in označuje skupino oseb, ki so se sestale, da bi razpravljale o nekem skupnem problemu«.</p>
+    <p xml:id="pb9.p2" xml:lang="sl">Oba avtorja sta mnenja, da mora kongres vsebovati tako delovni del kot zabavno druženje.</p>
+    <p xml:id="pb9.p3" xml:lang="sl">Kakorkoli besedo imenujemo, jo v Slovarju slovenskega knjižnega jezika najdemo kot: »po pristojnosti najvišji sestanek odposlancev politične, strokovne organizacije, zlasti združenja v državnem in mednarodnem merilu«.</p>
+    <p xml:id="pb9.p4" xml:lang="sl">Po mnenju Zidanske (2005, 7) neko zasedanje imenujemo kongres, ko so izpolnjeni naslednji trije pogoji:</p>
+    <p xml:id="pb9.p5" xml:lang="sl">trajanje: najmanj dva dni z najmanj eno nočitvijo,</p>
+    <p xml:id="pb9.p6" xml:lang="sl">število udeležencev: najmanj 300 in</p>
+    <p xml:id="pb9.p7" xml:lang="sl">udeležba iz najmanj treh držav.</p>
+    <p xml:id="pb9.p8" xml:lang="sl">Kongresna statistika »Union of International Associations« pa za kongres upošteva prireditve z več kot 300 udeleženci iz najmanj petih držav, v trajanju najmanj treh dni, ki nimajo čisto religioznega, političnega ali komercialnega značaja (Peterlič, 1998).</p>
+    <p xml:id="pb9.p9" xml:lang="sl">Poleg prestižnega turizma je kongresna dejavnost najbolj zaželena turistična dejavnost (Klančnik, 2004, 1). Regija, v kateri poteka kongres, zasluži s štiridnevnim dogodkom in povprečno 500 udeleženci 1,3 milijona evrov; le dobro četrtino tega zasluži kongresni organizator, preostalo se razprši med zunaj- kongresno ponudbo (Peterlič, 2004, 1). Čeprav ni zanesljivih podatkov, se zdajšnja kongresna potrošnja ocenjuje na skoraj 300 milijard evrov letno (Peterlič, 2005).</p>
+    <p xml:id="pb9.p10" xml:lang="sl">Uspešnost kongresne dejavnosti seveda vedno odseva uspešnost poslovnega sveta in gospodarstva na splošno (Krantz in Hosford, 2005, 11).</p>
+    <p xml:id="pb9.p11" xml:lang="sl">Ko govorimo o kongresni dejavnosti, ne moremo mimo pojma kongresnega mesta oziroma kongresnega centra. Dostojno kongresno mesto se odlikuje s posebnim kongresnim ozračjem, tradicijo in privrženostjo prebivalstva tej zvrsti turizma.</p>
+    <p xml:id="pb9.p12" xml:lang="sl">Poleg tega so za ustrezno kongresno organizacijo pomembni naslednji dejavniki:</p>
+    <p xml:id="pb9.p13" xml:lang="sl">bližina letališča in dobre prometne povezave,</p>
+    <p xml:id="pb9.p14" xml:lang="sl">atraktivnost in urejenost kraja,</p>
+    <p xml:id="pb9.p15" xml:lang="sl">hotelske kapacitete višjih in visokih kategorij,</p>
+    <p xml:id="pb9.p16" xml:lang="sl">atraktivna turistična, zabavna, komercialna in kulturna ponudba kraja,</p>
+    <p xml:id="pb9.p17" xml:lang="sl">sodobna tehnična opremljenost kongresnih prostorov in</p>
+    <p xml:id="pb9.p18" xml:lang="sl">profesionalna organizacija (Zidanski, 2005, 14).</p>
+    <p xml:id="pb9.p19" xml:lang="sl">Vendar pa kakovostne prostorske in tehnične zmogljivosti za delo kongresa ne bodo dovolj, če jim ne bomo dodali vsebine. Še tako moderno opremljen kongresni center ali hotel ne bo zaživel ob nerazviti, splošni hotelski, kulturno – zabavni, gostinski in trgovski ponudbi kraja (Zidanski, 2005, 14).</p>
+    <p xml:id="pb9.p20" xml:lang="sl">Od vseh skupin v turizmu so udeleženci kongresov, ki so običajno poslovneži, strokovnjaki, znanstveniki, politiki, tisti gostje, ki za svoj denar in čas pričakujejo storitve z oznako: točnost, zanesljivost, kakovost, brezhiben potek, udobje, hitrost (čas je denar), ustreznost, fleksibilnost, izvirnost, kreativnost, inovativnost (Zidanski, 2005, 14).</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">To so osnovna načela tako imenovanega »event managementa«, po katerih naj bi bila organizirana vsaka prireditev, posebej za poslovni in politični svet, znanost in stroko. Posledica upoštevanja navedenih načel so:</p>
+    <p xml:id="pb10.p2" xml:lang="sl">visoka donosnost,</p>
+    <p xml:id="pb10.p3" xml:lang="sl">daljše sezone,</p>
+    <p xml:id="pb10.p4" xml:lang="sl">ekološko najbolj osveščeni gostje,</p>
+    <p xml:id="pb10.p5" xml:lang="sl">multiplikativni učinek in</p>
+    <p xml:id="pb10.p6" xml:lang="sl">promocija destinacije (Zidanski, 2005, 13—14).</p>
+    <p xml:id="pb10.p7" xml:lang="sl">Kongresi so v zadnjih letih postali pomembna dejavnost, v katero se ogromno vlaga in kjer je mednarodna konkurenca vse bolj intenzivna (Peterlič, 1999, 2).</p>
+    <p xml:id="pb10.p8" xml:lang="sl">Eden od razlogov za hitro rast kongresne dejavnosti in njen razvoj je v njenih učinkih na gospodarstvo. Občutimo jih v kraju samega kongresa kot tudi na regionalni in državni ravni. Učinki so največkrat neposredni, zelo pomembni pa so tudi posredni učinki (Jelen, 2005, 5).</p>
+    <p xml:id="pb10.p9" xml:lang="sl">Med najpomembnejše neposredne učinke kongresov štejemo finančne učinke.</p>
+    <p xml:id="pb10.p10" xml:lang="sl">Kongresni udeleženci postajajo najbolj dobrodošli gostje vsake države. Raziskave kažejo, da kongresni turisti potrošijo tri do petkrat več kot počitniški turisti.</p>
+    <p xml:id="pb10.p11" xml:lang="sl">Kongresni turisti so ljudje, za katere je čas denar in zato izredno dragocena dobrina. Iz tega razloga je poslovni turist zahteven turist, ki poleg odlično izpeljanega kongresa pričakuje tudi vrhunsko ponudbo dodatnih aktivnosti v obliki sprostitvenih programov, kulturnih in športnih dogodkov (Jelen, 2005, 5).</p>
+    <p xml:id="pb10.p12" xml:lang="sl">V kongresno potrošnjo spada prijavni in prevozni stroški, namestitve, prehrana in nakupi. V večini primerov teh stroškov ne krijejo udeleženci sami, temveč njihova podjetja. Zato je osebna potrošnja toliko večja. Skupna potrošnja pa je velikokrat odvisna od trajanja dogodka, od oddaljenosti od stalnega bivališča, poznavanja mesta in njegove ponudbe, od pogostosti udeležbe na podobnih dogodkih in obsega spremstva (družinskih članov). Skupna potrošnja s trajanjem dogodka narašča, hkrati pa upada dnevna potrošnja, ki predstavlja glavno merilo za ugotavljanje finančnih učinkov potrošnje (Franić, 1977, 208).</p>
+    <p xml:id="pb10.p13" xml:lang="sl">Pozitivne finančne učinke pa ustvarjajo tudi organizatorji kongresa. Na potrošnjo vpliva število udeležencev, trajanje, lokacija, stroški kongresnih dvoran in osebja, družabnih in kulturnih prireditev, stroški administracije ter ostali stroški.</p>
+    <p xml:id="pb10.p14" xml:lang="sl">Potrošnja organizatorjev in udeležencev skupaj povečuje dohodek podjetij v regiji, in vsak porabljeni »kongresni evro« poveča kupno moč tako mesta in regije kot tudi države. Nastale stroške krijejo iz več virov: lastna sredstva, kotizacija, sponzorstvo, donatorstvo, denarna pomoč mesta države gostiteljice, delež vsebinskega organizatorja in prihodki od razstave (Jelen, 2005, 5).</p>
+    <p xml:id="pb10.p15" xml:lang="sl">Med neposredne učinke uvrščamo tudi vpliv na izkoriščenost zmogljivosti kongresnega turizma.</p>
+    <p xml:id="pb10.p16" xml:lang="sl">Kongresni udeleženci so turisti najvišje kategorije. Mednarodni kongresi pospešujejo turizem vsaj še na dva načina. Na vseh večjih kongresih udeležencem ponujajo privlačne pred- in pokongresne izlete; pogosto se udeleženci tja vračajo na počitnice skupaj s svojimi družinami. In drugič, kongresni turizem s svojima vrhuncema v pomladanskih in jesenskih mesecih turističnim podjetjem (hoteli in ostale namestitve) omogoča podaljšanje turistične sezone. S tem povečajo izrabo zmogljivosti. Posledica so bolje izkoriščena poslovna sredstva in nižji stalni stroški na enoto proizvoda (Planina, 1992, 58).</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">Kongresi imajo tudi posredne učinke, ki izhajajo iz neposrednih. So zelo težko merljivi, vendar so izredno razširjeni in trajni.</p>
+    <p xml:id="pb11.p2" xml:lang="sl">Poglejmo opredelitev posrednih učinkov po Peterliču (1998, 234):</p>
+    <p xml:id="pb11.p3" xml:lang="sl">znanstveno-strokovni učinki; znanost je po definiciji nadnacionalna. Za znanstvenike je prosti pretok informacij osnovnega pomena. Znanstvene debate, dogovori o novih projektih, analiza rezultatov ob kavi, obiski inštitutov, izmenjava mnenj s študenti, skratka druženje na kongresih predstavlja najvišjo osebno stopnjo prenosa znanstvenih informacij.</p>
+    <p xml:id="pb11.p4" xml:lang="sl">ekonomski učinki; podobne ugotovitve kot pri znanstvenih učinkih veljajo tudi v gospodarstvu. Ne moremo si predstavljati sklepanja poslov brez osebnih stikov, čeprav nam najsodobnejša informacijska tehnologija zelo olajšuje komunikacijo. Kongresi in druge vrst srečanj bolj služijo kot mesto za ponovno srečanje s poslovnimi partnerji kot pa dejansko učenje in usposabljanje. In ker se kongresov po pravilu udeležujejo vodilni predstavniki stroke, so kongresi priložnost za srečanja ljudi, ki sprejemajo pomembne odločitve. Država, ki gosti mednarodni kongres, dobi enkratno priložnost, da sooči vodilne mednarodne predstavnike z najnovejšimi nacionalnimi dosežki. Ob neposrednem učinku na nacionalno gospodarstvo imajo kongresi tudi močan psihološki in politični učinek. Država, ki iz kakršnihkoli razlogov ne gosti pomembnejših mednarodnih kongresov, prej ali slej postane siva lisa na svetovnem zemljevidu. Takšno mnenje je v preteklih desetletjih nedvomno vplivalo na ogromne investicije v kongresno dejavnost, tako v razvitih kot nerazvitih državah. Udeleženci dobro organiziranega kongresa odidejo domov kot dobronamerni poslanci, ki s svojim vplivom na domače okolje posredno in trajno oblikujejo imidž države ali mesta, ki so ga obiskale.</p>
+    <p xml:id="pb11.p5" xml:lang="sl">Poleg vseh že omenjenih lastnosti ima kongresna dejavnost še eno vlogo, in sicer zbliževanje med narodi, spoznavanje in sprejemanje kultur.</p>
+    <p xml:id="pb11.p6" xml:lang="sl">2.2. DELITEV IN OBLIKE KONGRESNE DEJAVNOSTI</p>
+    <p xml:id="pb11.p7" xml:lang="sl">Poznamo več različnih razvrstitev kongresnih prireditev. Glede na območno razvrstitev ločimo krajevne in lokalne prireditve, mednarodne in medcelinske, prireditve, svetovne prireditve.</p>
+    <p xml:id="pb11.p8" xml:lang="sl">Pri delitvi glede na območje gre za delitev glede na obseg oziroma širino obiska kongresne prireditve. Tudi celotna kongresno-turistična ponudba je organizirana na teh treh nivojih. Na nivoju kraja govorimo o ponudbi kongresnih centrov, kongresnih birojev, strokovnih kongresnih organizatorjev (Professional Congress Organizer, v nadaljevanju PCO), kongresnih oddelkov turističnih agencij. Na državnem nivoju ponudba obsega nacionalni kongresni biro, nacionalne turistične agencije ter ministrstvo za turizem, medtem ko ponudba na mednarodnem nivoju vključuje vse mednarodne organizacije, ki se ukvarjajo s kongresno dejavnostjo (Peterlič, 2005).</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">Glede na tematsko razvrstitev ločimo (Peterlič, 2002, 18):</p>
+    <p xml:id="pb12.p2" xml:lang="sl">znanstvene in strokovne dogodke; organizatorji so običajno neprofitna strokovna združenja, udeležba je prostovoljna, udeleženci običajno plačajo kotizacijo in so člani združenja, njihov osnovni namen pa je strokovna izmenjava mnenj in izobraževanje,</p>
+    <p xml:id="pb12.p3" xml:lang="sl">dogodke gospodarsko-podjetniške narave; organizatorji so podjetja, osnovni namen prireditve je komercialni učinek, udeleženci so vabljeni in ne plačajo stroškov za udeležbo,</p>
+    <p xml:id="pb12.p4" xml:lang="sl">dogodke medvladnih in političnih organizacij; vladna in medvladna srečanja, na katera so udeleženci običajno vabljeni, nosilec stroškov je običajno naročnik, na dogodkih pa sta zelo pomembna protokol in varnost udeležencev.</p>
+    <p xml:id="pb12.p5" xml:lang="sl">Obseg prireditve lahko ocenimo glede na trajanje prireditve, lahko pa tudi po številu udeležencev ali po obsegu dejavnosti. Srečanja so vse krajša in manjša predvsem zaradi težnje po varčevanju tako podjetij in organizacij (manj stroškov za dnevnice) kot tudi udeležencev samih. Čas je draga dobrina, zato se nekateri udeležujejo samo dela konference. Mnogi udeleženci imajo raje intenzivno delo v dnevu in pol kot pa enak vsebinski obseg, razdeljen na štiri bolj sproščene dneve konference. Poleg tega, da ljudje morajo in praviloma želijo delati v svojih pisarnah in ne preživeti ves dan na poti, je pomemben razlog tudi ta, da ne želijo biti dlje časa ločeni od svojih družin. Ker se spremembe v katerikoli panogi dogajajo pravzaprav čez noč, obstaja potreba po več krajših srečanjih (Klančnik, 2004, 13).</p>
+    <p xml:id="pb12.p6" xml:lang="sl">Poleg delitve prireditev glede na območje, tematiko, obseg in vrsto, jih lahko razvrstimo tudi po obliki. Ti dogodki se razlikujejo po nekaj elementih, kot so trajanje, obseg, namen, cilj, zahtevnost organizacije in podobno. Tako poleg kongresa ločimo še konference, znanstvene sestanke, simpozije, diskusijske skupine, seminarje, panelne diskusije, konference, okrogle mize, kolokvije, komisije, poslovne sestanke, generalne skupščine in skupščine, prezentacije izdelkov (povzeto po Zidanski, 2005).</p>
+    <p xml:id="pb12.p7" xml:lang="sl">Poleg zgoraj navedenih poznajo v svetu nešteto oblik prireditev organizirane komunikacije. Za večino v slovenskem jeziku nimamo ustreznega prevoda, npr. incentive meeting, brainstorming meeting, briefing session, break-out session, concurrent session, parallel sesssion, rump session, rap session, multi track conference, buzz session, teach-in, open space technology, open space evetn, think-than, brains trust in še mnoge druge (Peterlič, 2005).</p>
+    <p xml:id="pb12.p8" xml:lang="sl">2.3. VLOGA KONGRESNIH ORGANIZACIJ</p>
+    <p xml:id="pb12.p9" xml:lang="sl">Podpoglavje — vloga kongresnih organizacij, bomo predstavili z:</p>
+    <p xml:id="pb12.p10" xml:lang="sl">vlogo mednarodnih organizacij,</p>
+    <p xml:id="pb12.p11" xml:lang="sl">vlogo lokalnega organizatorja in</p>
+    <p xml:id="pb12.p12" xml:lang="sl">profesionalnih kongresnim organizatorjem — P.C.O.</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">Mednarodne organizacije</p>
+    <p xml:id="pb13.p2" xml:lang="sl">Na mednarodnem kongresnem področju deluje več mednarodnih strokovnih organizacij, ki že desetletja skrbijo za pretok informacij med organizatorji in udeleženci kongresov. Imajo enotni marketing, poleg tega pa oblikujejo imidž ter s tem določajo standarde in pogoje za kongresne infrastrukture. Med najpomembnejše sodijo Mednarodno kongresno združenje (ICCA), Mednarodno združenje profesionalnih kongresnih organizatorjev (IAPCO) in Mednarodna zveza kongresnih centrov (AIPC).</p>
+    <p xml:id="pb13.p3" xml:lang="sl">Lokalni organizator</p>
+    <p xml:id="pb13.p4" xml:lang="sl">Pobuda za organizacijo kongresa ponavadi pride od lokalnega organizatorja. Lahko pa pobudo zanj dajo tudi v kongresnem centru, ki potem kontaktira lokalno združenje. Združenje je lahko samo član mednarodne organizacije ali pa je kateri izmed njegovih članov vključen v mednarodno organizacijo. Lokalna organizacija na osnovi strokovnosti privabi udeležence iz različnih držav. Ta razlog je eden izmed glavnih stebrov, šele potem se odloča o lokaciji oziroma destinaciji. Lokalni organizator je lahko združenje, univerza, sekcija, društvo, na nivoju države pa npr. politično združenje. Strokovnjaki na tem področju so člani mednarodnega združenja in na podlagi njihovih priporočil se destinacija (mesto ali država) poteguje oziroma kandidira za kongres (Dolinar, 2003, 13).</p>
+    <p xml:id="pb13.p5" xml:lang="sl">Profesionalni kongresni organizator – P.C.O.</p>
+    <p xml:id="pb13.p6" xml:lang="sl">P.C.O. je kratica za Proffesional Congress Organizer. To so specializirani organizatorji in koordinatorji prireditev, ki svetujejo in usklajujejo potrebe, posebne interese in cilje naročnikov z danimi zmogljivostmi in kooperantskimi storitvami (Zidanski, 2005, 25).</p>
+    <p xml:id="pb13.p7" xml:lang="sl">Glavne naloge P.C.O. pri organizaciji kongresov so:</p>
+    <p xml:id="pb13.p8" xml:lang="sl">svetovanje (vedno več je ravno svetovanja),</p>
+    <p xml:id="pb13.p9" xml:lang="sl">vodenje projekta,</p>
+    <p xml:id="pb13.p10" xml:lang="sl">načrtovanje,</p>
+    <p xml:id="pb13.p11" xml:lang="sl">koordinacija vseh del,</p>
+    <p xml:id="pb13.p12" xml:lang="sl">administracija,</p>
+    <p xml:id="pb13.p13" xml:lang="sl">sestanki s prireditelji in</p>
+    <p xml:id="pb13.p14" xml:lang="sl">delo skupnih služb (Zidanski, 2005, 26).</p>
+    <p xml:id="pb13.p15" xml:lang="sl">Zgoraj navedene storitve natančneje zajemajo naslednje:</p>
+    <p xml:id="pb13.p16" xml:lang="sl">zbiranje in računalniško obdelavo prijav udeležencev,</p>
+    <p xml:id="pb13.p17" xml:lang="sl">potrjevanje udeležbe,</p>
+    <p xml:id="pb13.p18" xml:lang="sl">izdelavo registracijske liste,</p>
+    <p xml:id="pb13.p19" xml:lang="sl">izdelavo liste udeležencev,</p>
+    <p xml:id="pb13.p20" xml:lang="sl">registracijo na kraju dogajanja</p>
+    <p xml:id="pb13.p21" xml:lang="sl">rezervacijo hotelskih namestitev,</p>
+    <p xml:id="pb13.p22" xml:lang="sl">vodenje hotelskih namestitev,</p>
+    <p xml:id="pb13.p23" xml:lang="sl">potrjevanje hotelskih namestitev,</p>
+    <p xml:id="pb13.p24" xml:lang="sl">evidenco vplačil,</p>
+    <p xml:id="pb13.p25" xml:lang="sl">fakturiranje,</p>
+    <p xml:id="pb13.p26" xml:lang="sl">vodenje plačil s kreditnimi karticami,</p>
+    <p xml:id="pb13.p27" xml:lang="sl">plačila na kraju dogodka in</p>
+    <p xml:id="pb13.p28" xml:lang="sl">izdelavo finančnega obračuna (Zidanski, 2005, 26).</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Izmed vseh nalog P.C.O naj izpostavim zlasti svetovanje. Prav svetovanje namreč predstavlja najpomembnejši in prvi korak k uspehu srečanja. P.C.O. se mora zavedati dejstva, da ga prireditelj ne bi potreboval, če bi sam obvladal kongresno stroko (Zidanski, 2005, 27).</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Svetovanje zajema:</p>
+    <p xml:id="pb14.p3" xml:lang="sl">izbiro kraja in mesta srečanja z odgovarjajočimi kapacitetami,</p>
+    <p xml:id="pb14.p4" xml:lang="sl">vrsto storitev,</p>
+    <p xml:id="pb14.p5" xml:lang="sl">kvaliteto storitev,</p>
+    <p xml:id="pb14.p6" xml:lang="sl">vsebino spremljevalnega programa,</p>
+    <p xml:id="pb14.p7" xml:lang="sl">vsebino programa v prostem času za udeležence,</p>
+    <p xml:id="pb14.p8" xml:lang="sl">vsebino programa za spremljevalce,</p>
+    <p xml:id="pb14.p9" xml:lang="sl">izvedbo storitev pri organizaciji,</p>
+    <p xml:id="pb14.p10" xml:lang="sl">praktične nasvete pri organizaciji,</p>
+    <p xml:id="pb14.p11" xml:lang="sl">finančno svetovanje in</p>
+    <p xml:id="pb14.p12" xml:lang="sl">davčno svetovanje (Zidanski, 2005, 27).</p>
+    <p xml:id="pb14.p13" xml:lang="sl">P.C.O. sledi ciljem, željam in potrebam naročnika, da bi dogodek peljal po začrtani finančni poti in v določenem časovnem obdobju. Nudi popolno podporo pri vseh segmentih organizacije, uporablja kakovostne zunanje sodelavce, pozna najboljše kapacitete, upošteva malenkosti in je vedno pripravljen na ukrepanje v primeru nepredvidenih situacij.</p>
+    <p xml:id="pb14.p14" xml:lang="sl">Deset pomembnejših značilnosti dobrega organizatorja po Mlakarju (2000, 9):</p>
+    <p xml:id="pb14.p15" xml:lang="sl">delovanje v dobro naročnika,</p>
+    <p xml:id="pb14.p16" xml:lang="sl">samozavest (ravnatelj je zadnji, ki ga sme zajeti panika),</p>
+    <p xml:id="pb14.p17" xml:lang="sl">finančna spretnost, ki največkrat pomeni dobro poznavanje trga dobaviteljev,</p>
+    <p xml:id="pb14.p18" xml:lang="sl">poznavanje novosti v informacijski tehnologiji,</p>
+    <p xml:id="pb14.p19" xml:lang="sl">znanje pri ravnanju s tehnično opremo,</p>
+    <p xml:id="pb14.p20" xml:lang="sl">gostoljubnosti,</p>
+    <p xml:id="pb14.p21" xml:lang="sl">diskretnost,</p>
+    <p xml:id="pb14.p22" xml:lang="sl">dovzetnost,</p>
+    <p xml:id="pb14.p23" xml:lang="sl">vedno pripravljene rešitve in</p>
+    <p xml:id="pb14.p24" xml:lang="sl">nasmeh na obrazu.</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">3. PRIPRAVA KONGRESA</p>
+    <p xml:id="pb15.p2" xml:lang="sl">Organizacija kongresa zahteva znanja, spretnost in sposobnost organizacije dogodkov, izkušnje in vztrajnost. Načrt mora biti natančno izdelan in napisan scenarij mora biti v celoti izvedljiv. Poleg tega pa mora biti celotna ekipa dovolj fleksibilna, da se lahko odzove in ob morebitnih težavah reši položaj, še preden prisotni karkoli opazijo. Eden izmed pomembnih ciljev, zaradi katerega navsezadnje pripravljamo posamezen kongres mesece ali celo leta, je zadovoljstvo udeležencev.</p>
+    <p xml:id="pb15.p3" xml:lang="sl">Pomembnejši elementi, ki sodijo pod okrilje priprave kongresa in jih želimo v nalogi izpostaviti, so:</p>
+    <p xml:id="pb15.p4" xml:lang="sl">kandidatura za kongrese,</p>
+    <p xml:id="pb15.p5" xml:lang="sl">komuniciranje z naročniki in</p>
+    <p xml:id="pb15.p6" xml:lang="sl">informativna ponudba ter predračun stroškov.</p>
+    <p xml:id="pb15.p7" xml:lang="sl">Kandidatura za kongrese</p>
+    <p xml:id="pb15.p8" xml:lang="sl">Za mednarodne kongrese v glavnem kandidirajo domače nacionalne organizacije, ki so članice mednarodnih združenj, ali kako drugače povezane z njimi.</p>
+    <p xml:id="pb15.p9" xml:lang="sl">Kandidatura mora biti vsebinsko in informativno zanimivo pripravljena. Vsebovati mora prikaze in spise vseh zahtev določenega kongresa, od makrolokacije (država, mesto) do natančnega opisa mikrolokacije (kapacitete in oprema dvoran, konferenčne tehnike, hotelsko gostinske ponudbe, možnosti zabave, informacije o dostopnosti, možnosti ogledov in izletov (Zidanski, 2005, 62).</p>
+    <p xml:id="pb15.p10" xml:lang="sl">Po potrditvi kandidature sledita animacija in propaganda za čim večje število udeležencev z objavo na spletu, reklamiranjem in informiranjem na predhodnih kongresih in s pismenim obveščanjem potencialnih obiskovalcev (Zidanski, 2005, 62).</p>
+    <p xml:id="pb15.p11" xml:lang="sl">Komuniciranje z naročniki</p>
+    <p xml:id="pb15.p12" xml:lang="sl">Komuniciranje z investitorjem ali naročnikom dogodka se začne s povpraševanjem oziroma posredovano ponudbo za dogodek. Upravljavec dogodka mora biti pri komuniciranju hiter, jasen, strokoven in samozavesten, predvsem pa mora vzbuditi zaupanje, da je sposoben izvesti kongres.</p>
+    <p xml:id="pb15.p13" xml:lang="sl">Osnova za začetne pogovore o organizaciji nekega kongresa in za svetovanje o tem so naslednji podatki o dogodku:</p>
+    <p xml:id="pb15.p14" xml:lang="sl">vrsta kongresa/srečanja: za kakšen dogodek gre (znanstveni, komercialni, tehnični, politični),</p>
+    <p xml:id="pb15.p15" xml:lang="sl">mednarodni, nacionalni, regionalni, internega ali eksternega značaja,</p>
+    <p xml:id="pb15.p16" xml:lang="sl">tip dogodka/srečanja: kongres, konferenca, seminar, simpozij, komercialna prireditev,</p>
+    <p xml:id="pb15.p17" xml:lang="sl">okvirni časovni razpored srečanja,</p>
+    <p xml:id="pb15.p18" xml:lang="sl">struktura udeležencev,</p>
+    <p xml:id="pb15.p19" xml:lang="sl">število aktivnih udeležencev, spremljevalcev, razstavljavcev,</p>
+    <p xml:id="pb15.p20" xml:lang="sl">časovni termin dogodka (delovni dnevi, število nočitev),</p>
+    <p xml:id="pb15.p21" xml:lang="sl">hotelske namestitve: kategorija, vrsta sob,</p>
+    <p xml:id="pb15.p22" xml:lang="sl">način dela: plenum, sekcija,koliko sekcij,</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">razstavni prostori: koliko m2, oprema razstave,</p>
+    <p xml:id="pb16.p2" xml:lang="sl">postavitev in oprema dvoran,</p>
+    <p xml:id="pb16.p3" xml:lang="sl">konferenčna tehnika,</p>
+    <p xml:id="pb16.p4" xml:lang="sl">VIP gostje,</p>
+    <p xml:id="pb16.p5" xml:lang="sl">predvideni spremljevalni program,</p>
+    <p xml:id="pb16.p6" xml:lang="sl">gostinske storitve,</p>
+    <p xml:id="pb16.p7" xml:lang="sl">prevozi,</p>
+    <p xml:id="pb16.p8" xml:lang="sl">programi za spremljevalce,</p>
+    <p xml:id="pb16.p9" xml:lang="en">pred in po kongresne ture,</p>
+    <p xml:id="pb16.p10" xml:lang="sl">način prijave udeležencev in</p>
+    <p xml:id="pb16.p11" xml:lang="sl">financiranje kongresa (Zidanski, 2005, 62-63).</p>
+    <p xml:id="pb16.p12" xml:lang="sl">Ti podatki predstavljajo okvir za P.C.O. (kongresnega organizatorja), na osnovi katerega si lahko ustvari prvo sliko dogodka. Za kongresnega organizatorja je pomembno, da se v to sliko vživi in z občutkom prične graditi dalje (Zidanski, 2005, 63).</p>
+    <p xml:id="pb16.p13" xml:lang="sl">Informativna ponudba in predračun stroškov</p>
+    <p xml:id="pb16.p14" xml:lang="sl">Ponudbe in predračuni zajemajo dogovorjene storitve med upravljavcem dogodka na eni ter nastopajočimi in podizvajalcem na drugi strani ter morajo biti natančno specificirane in ovrednotene za vsako storitev posebej. Poleg splošnih določil ponudba vsebuje vrsto in ceno dogovorjenih storitev, natančno določene roke za izvedbo ter način plačila storitev. Ko naročnik ponudbo ali predračun potrdi, se sestavi in po temeljitem pogovoru podpiše pogodba o tehnični organizaciji dogodka. Če se želimo izogniti poznejšim nesporazumom, mora pogodba natančno določati tudi razmejitev medsebojnih obveznosti, roke za dostavo podatkov, odgovorne osebe na obeh pogodbenih straneh in nadomestilo v primeru odpovedi kongresa glede na vzrok odpovedi.</p>
+    <p xml:id="pb16.p15" xml:lang="sl">3.1. KONGRES KOT STORITEV</p>
+    <p xml:id="pb16.p16" xml:lang="sl">V okviru natančne predstavitve kongresa kot storitvene dejavnosti bomo predstavili:</p>
+    <p xml:id="pb16.p17" xml:lang="sl">objavo kongresa in drugo obvestilo,</p>
+    <p xml:id="pb16.p18" xml:lang="sl">registracijo,</p>
+    <p xml:id="pb16.p19" xml:lang="sl">finančno vodenje kotizacij,</p>
+    <p xml:id="pb16.p20" xml:lang="sl">rezervacije kapacitet in tehnične opreme,</p>
+    <p xml:id="pb16.p21" xml:lang="sl">pripravo kongresne dvorane,</p>
+    <p xml:id="pb16.p22" xml:lang="sl">rezervacije hotelskih sob,</p>
+    <p xml:id="pb16.p23" xml:lang="sl">organizacijo transferjev/prevozov,</p>
+    <p xml:id="pb16.p24" xml:lang="sl">prijavnice za hotel in transfer,</p>
+    <p xml:id="pb16.p25" xml:lang="sl">sezname in</p>
+    <p xml:id="pb16.p26" xml:lang="sl">tehnično osebje.</p>
+    <p xml:id="pb16.p27" xml:lang="sl">Objava kongresa in predstavitev</p>
+    <p xml:id="pb16.p28" xml:lang="sl">Obvestilo (call for paper) z osnovnimi informacijami o kongresu, kot so kraj in datum kongresa, predstavitev kraja, osnovne teme, ključni predavatelji, predstavitev organizacijskega, častnega in znanstvenega odbora, navodilo za pripravo prispevkov, navodila za predprijavo se objavi na spletnih straneh in/ali se dajo tiskati edicije v več fazah. Prvo obvestilo je le napoved in ga pošljemo zelo zgodaj (Zidanski, 2005, 76).</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Drugo obvestilo</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Drugo obvestilo vsebuje vse potrebne podatke o destinaciji, prometni dostopnosti, okvirni tematski program kongresa z navedbo vseh predavateljev. Zajema tudi ves delovni in turistični program, vključno s spremljajočim programom in programom za spremljevalce.</p>
+    <p xml:id="pb17.p3" xml:lang="sl">Priloga ali sestavni del so prijavnice za kongres, hotel, prevoz z navedbo višine kotizacije in kaj vključuje, roki za plačilo in prijavo, prijavnica z navedbo razpoložljivih hotelov s cenami, prevozne možnosti s cenami, izleti in ekskurzije, pred- in pokongresni izleti in druge dejavnosti.</p>
+    <p xml:id="pb17.p4" xml:lang="sl">Pomembno je, da drugo obvestilo informativno in oblikovno dobro pripravimo, kajti od tega je odvisna tudi udeležba na kongresu. Drugo obvestilo pošljemo najmanj pol leta pred kongresom. Končni program z vsemi podrobnimi podatki, predvsem z natančnimi časovnimi in lokacijskimi razporedi, prejmejo udeleženci ob prihodu na kongres ob registraciji, ali pa ga pošljemo vnaprej. Vsekakor pa ga objavimo na spletnih straneh kongresa takoj, ko je usklajen.</p>
+    <p xml:id="pb17.p5" xml:lang="sl">Spletna stran vsebuje enake podatke kot tiskano obvestilo. Pomembno je, da so edicije in spletne strani informativne in privlačno oblikovane, ker predstavljajo prvo izkaznico kongresa.</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Po objavi sledita evidenca in potrjevanje registracij z nakazili kotizacij, hotelskih prijavnic in prijavnic za druge storitve. Če želimo imeti popoln pregled nad prijavami, je nujno, da jih zbiramo na enem mestu, sicer bo na koncu popolna zmešnjava (Zidanski, 2005, 77).</p>
+    <p xml:id="pb17.p7" xml:lang="sl">Registracija</p>
+    <p xml:id="pb17.p8" xml:lang="sl">Registracija poteka v dveh fazah. Najboljši način, da se izognemo težavam, pa je organiziran proces.</p>
+    <p xml:id="pb17.p9" xml:lang="sl">Kakor navaja Dodson, registracijo po elektronski pošti imenujemo takrat, ko nam udeleženci pošljejo povratno izpolnjen obrazec, ki dokazuje, da se bodo udeležili naše konference. Ti podatki nam povedo, koliko ljudi se bo udeležilo dogodka, in tako se lahko pripravimo tudi izravnavo stroškov kongresa. S temi podatki lahko organiziramo posebna srečanja in organiziramo druge detajle, kot so na primer obroki. Dobimo pa tudi podatke, ki jih bodo govorniki hoteli vedeti o skupini (Dodson, 1992, 86).</p>
+    <p xml:id="pb17.p10" xml:lang="sl">Formular mora vsebovati bistvene podatke o vrsti udeležencev, njihovi funkciji in poziciji:</p>
+    <p xml:id="pb17.p11" xml:lang="sl">tiskano napisano ime in priimek,</p>
+    <p xml:id="pb17.p12" xml:lang="sl">naslov in naziv institucije,</p>
+    <p xml:id="pb17.p13" xml:lang="sl">naslov z vsemi podatki, telefon, faks, elektronska pošta,</p>
+    <p xml:id="pb17.p14" xml:lang="sl">pozicija, funkcija udeleženca (aktivni, spremljevalec, študent, predavatelj, upokojenec),</p>
+    <p xml:id="pb17.p15" xml:lang="sl">znesek kotizacije in vrste kotizacije (zgodnja, pozna, študentska),</p>
+    <p xml:id="pb17.p16" xml:lang="sl">način plačila (kartica, nakazilo),</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">rok za prijavo in plačilo,</p>
+    <p xml:id="pb18.p2" xml:lang="sl">prijava na dogodke, izlete, ekskurzije, sprejeme, bankete in</p>
+    <p xml:id="pb18.p3" xml:lang="sl">odpovedne roke in pogoje vračila (Zidanski, 2005, 77).</p>
+    <p xml:id="pb18.p4" xml:lang="sl">Sama izvedba registracije se po besedah Zidanske (2005, 89) prične dan pred kongresom, saj so popolni seznami evidentiranih udeležencev kongresa bistvenega pomena za brezhiben potek registracije.</p>
+    <p xml:id="pb18.p5" xml:lang="sl">Zagotoviti moramo prostor za registracijo, določiti uro pričetka registracije, preveriti opremo registracijskega pulta, predvideti število oseb na registraciji, ki je odvisno od števila udeležencev in velikosti kongresa, urediti gradivo in imenske priponke ter določiti način delitve. Gradivo za udeležence mora biti urejeno po vrsti kotizacije in plačil. Imenske priponke pa morajo biti pripravljene po abecedi, kot tudi preostali dokumenti, ki ne spadajo v splošno gradivo.</p>
+    <p xml:id="pb18.p6" xml:lang="sl">Predvideni potek registracije in dobra organizacija preprečita gnečo in slabo voljo udeležencev. Glede na število in kategorijo udeležencev pa tudi glede na velikost razpoložljivega prostora za registracijo lahko določimo način registracije.</p>
+    <p xml:id="pb18.p7" xml:lang="sl">Uporabimo lahko abecedni razpored ali registracijo udeležencev razdelimo glede na plačane in neplačane kotizacije, goste kongresa, novinarje, predavatelje, spremljevalce, razstavljavce, študente, člane/nečlane organizacije, obiskovalce, dnevne udeležence.</p>
+    <p xml:id="pb18.p8" xml:lang="sl">Za to službo so potrebni fleksibilni in informirani ljudje, ki poznajo kongres do podrobnosti.</p>
+    <p xml:id="pb18.p9" xml:lang="sl">Registracija in »informativni pult« v glavnem zajemata:</p>
+    <p xml:id="pb18.p10" xml:lang="sl">registracijo udeležencev, spremljevalcev, razstavljavcev, obiskovalcev, novinarjev,</p>
+    <p xml:id="pb18.p11" xml:lang="sl">delitev gradiva na osnovi natančnih seznamov,</p>
+    <p xml:id="pb18.p12" xml:lang="sl">vplačila neplačanih storitev,</p>
+    <p xml:id="pb18.p13" xml:lang="sl">vse informacije, od kongresnih do lokalnih in turističnih (informacijsko središče),</p>
+    <p xml:id="pb18.p14" xml:lang="sl">obveščanje udeležencev (message center),</p>
+    <p xml:id="pb18.p15" xml:lang="sl">koordinacijo prevozov ob odhodih,</p>
+    <p xml:id="pb18.p16" xml:lang="sl">posredovanje/spremembe vozovnic (letalskih, železniških, avtobusnih,</p>
+    <p xml:id="pb18.p17" xml:lang="sl">prijave na fakultativne dogodke (banketi, kulturne prireditve, izleti, ekskurzije, programi za spremljevalce) in</p>
+    <p xml:id="pb18.p18" xml:lang="sl">prodajo strokovne literature (Zidanski, 2005, 89).</p>
+    <p xml:id="pb18.p19" xml:lang="sl">Finančno vodenje kotizacij</p>
+    <p xml:id="pb18.p20" xml:lang="sl">Finančno vodenje kotizacij in drugih vplačil je sicer knjigovodski posel, vendar je najbolje, da to delo opravlja kongresni organizator ali pa ima vsaj vsakodnevni pregled nad njim.</p>
+    <p xml:id="pb18.p21" xml:lang="sl">Večina danes plačuje storitve s kreditnimi karticami in enako velja za to vrsto storitev. Gre za obračun kreditnih kartic in evidenco drugih vplačil, izdajo računov in potrdil. Nujno je, da vplačila vodimo ažurno in sproti. Ko pričnemo z registracijo udeležencev, mora biti stanje jasno.</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">Na osnovi evidence vplačil namreč sledi izdaja gradiva za kongres (vstopnice, gradiva, vabila, kuponi, imenske značke) pri registracijskem pultu. Kar ni vplačano vnaprej, udeleženci plačajo na kraju samem. Seznami morajo biti ažurni, da ne bi prišlo do nesporazumov z udeleženci (Zidanski, 2005, 78).</p>
+    <p xml:id="pb19.p2" xml:lang="sl">Rezervacije kapacitet in tehnične opreme</p>
+    <p xml:id="pb19.p3" xml:lang="sl">Rezervacije kapacitet prav tako sodijo k pripravi kongresa. Takoj po podpisu pogodbe ali po prejemu potrditve kongresa od naročnika, je potrebno rezervirati in se dogovoriti za vse naročene storitve s kongresnim centrom ali hotelom (Zidanski, 2005, 78).</p>
+    <p xml:id="pb19.p4" xml:lang="sl">Priprava kongresne dvorane</p>
+    <p xml:id="pb19.p5" xml:lang="sl">Priprava dvorane je zelo pomemben element za uspešno izpeljavo kongresa.</p>
+    <p xml:id="pb19.p6" xml:lang="sl">Priporočljivo je, da se dvorana ogleda vsaj enkrat pred dogodkom, kjer naj bo prisoten tudi tehnik, ki bo na dan kongresa skrbel za brezhibno delovanje tehnične opreme.</p>
+    <p xml:id="pb19.p7" xml:lang="sl">Pri ogledu je potrebno biti pozoren na osvetlitev v dvorani (dnevna svetloba, možnost zatemnitve med prezentacijo), tehnično opremo (ozvočenje, projekcijsko platno, LCD projektor), vidljivost na platnu, prezračevanje (klimatska naprava), število vtičnic (zaradi prenosnih računalnikov) ter dosegljivost fotokopirnega stroja in tiskalnika.</p>
+    <p xml:id="pb19.p8" xml:lang="sl">Pred dogodkom je potrebno razmisliti tudi:</p>
+    <p xml:id="pb19.p9" xml:lang="sl">ali boste potrebovali internetno povezavo, in se pozanimajte, ali je v dvorani omogočena,</p>
+    <p xml:id="pb19.p10" xml:lang="sl">ali potrebujete v dvorani oder za govorce,</p>
+    <p xml:id="pb19.p11" xml:lang="sl">ali boste na mize dali namizne zastave (vse manj se uporabljajo),</p>
+    <p xml:id="pb19.p12" xml:lang="sl">ali boste izobesili zastave držav udeležencev dogodka in</p>
+    <p xml:id="pb19.p13" xml:lang="sl">ali za vas dogodek potrebujete tudi razstavni prostor pred dvorano (Remic, 2009, 250).</p>
+    <p xml:id="pb19.p14" xml:lang="sl">Potrebno si je podrobno ogledati tudi, katera tehnična oprema je že v dvorani in razmisliti, katera dodatna oprema se še potrebuje. Konferenčna tehnika omogoča osnovno komunikacijo med predavatelji in udeleženci ter med samimi udeleženci.</p>
+    <p xml:id="pb19.p15" xml:lang="sl">Vloga je tako velika, da si strokovnega srečanja brez nje ni mogoče predstavljati.</p>
+    <p xml:id="pb19.p16" xml:lang="sl">Da ne bi prihajalo do nesporazumov ter zadreg pred in med srečanjem, je pomembno, da ima tehnični organizator pravočasno na voljo vse podrobne podatke o tehničnih zahtevah.</p>
+    <p xml:id="pb19.p17" xml:lang="sl">Potrebno je imeti naslednje najosnovnejše podatke:</p>
+    <p xml:id="pb19.p18" xml:lang="sl">velikost in oblika dvorane ter način postavitve (kino – samo stoli, šolska – mize in stoli ali kvadratna/okrogla, U-postavitev in manjša omizja),</p>
+    <p xml:id="pb19.p19" xml:lang="sl">število udeležencev,</p>
+    <p xml:id="pb19.p20" xml:lang="sl">ali imamo predsedstvo in koliko sedežev je potrebno pripraviti in</p>
+    <p xml:id="pb19.p21" xml:lang="sl">ali je potreben govorniški pult za govornike.</p>
+    <p xml:id="pb19.p22" xml:lang="sl">Ti podatki so pomembni za postavitev ozvočenja različne moči ter za število mikrofonov za predsedujoče (fiksni ali prenosni), za govornike in za razpravo udeležencev.</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">Dogovoriti se je potrebno o dodatni tehnični opreme, in sicer:</p>
+    <p xml:id="pb20.p2" xml:lang="sl">ozvočenje s potrebnim številom mikrofonov,</p>
+    <p xml:id="pb20.p3" xml:lang="sl">prenosni mikrofoni za predavatelja in razpravo v dvorani in</p>
+    <p xml:id="pb20.p4" xml:lang="sl">potrebe po avdio ali video snemanju, LCD projektorjih, računalnikih, grafoskopih, diaprojektorjih, projekcijski platnih itd.</p>
+    <p xml:id="pb20.p5" xml:lang="sl">Pomembno je, da se organizator dogodka pozanima pri vseh govornikih, kaj potrebujejo za svoj nastop in kakšne so njihove želje.</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Kot navaja Zidanska (2005, 64), konferenčna tehnika ne pomeni samo tehnike, temveč tudi in predvsem za delo s tehniko usposobljene in izkušene kadre.</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Sodobna, visoko kvalitetna tehnika ne bo delovala brez dobrega tehničnega operaterja.</p>
+    <p xml:id="pb20.p8" xml:lang="sl">V veliko pomoč je lahko tudi skica dvorane, ki vam jo pripravi izvajalec. Ta je koristna, kadar se želi imeti sedežni red. Imenske napise je dobro pripraviti vsaj za predavatelja ali osebe na predsedstvu. Tu je potrebno po seznamu prijavljenih preveriti pravilnost izpisanih imen ter naziv države. Če so na dogodku prisotni pomembni gosti, je priporočljivo, da vsaj za njih rezervirate sedeže v prvi vrsti (Remic, 2009, 253).</p>
+    <p xml:id="pb20.p9" xml:lang="sl">Dogovoriti se je potrebno tudi o dnevu za pripravo dvorane. Priporočljivo jo je pripraviti en dan pred dogodkom. Preveriti je potrebno vso tehnično opremo, namestiti imenske napise ter pripraviti material na mizah. Ne sme se pozabiti dekoracijo dvorane z napisi ter cvetjem, ki jih običajno zagotovijo na predsedstvu.</p>
+    <p xml:id="pb20.p10" xml:lang="sl">Tolmačenje in naprava za simultano prevajanje</p>
+    <p xml:id="pb20.p11" xml:lang="sl">Zvočno izolirane kabine za tolmače morajo biti postavljene tako, da tolmači dobro vidijo govornika in projekcijsko platno. Tolmači prek slušalk sledijo govornikovemu izvajanju ter ga tekoče sproti tolmačijo v enega ali več drugih jezikov, kar se prek mikrofonov v njihovih kabinah prenaša v slušalke poslušalcev v dvorani. Število tolmačev v kabinah je odvisno od števila jezikov na konferenci. Tolmačem je potrebno priskrbeti tudi gradiva, jim rezervirati hotelsko namestitev ter z njimi podpisati pogodbo glede na vrsto tolmačenja.</p>
+    <p xml:id="pb20.p12" xml:lang="sl">Naročiti je potrebno napravo za simultano tolmačenje, ki mora vsebovati:</p>
+    <p xml:id="pb20.p13" xml:lang="sl">število jezikov in smeri tolmačenja (enostransko, obojestransko), s tem je povezano število kabin za tolmače,</p>
+    <p xml:id="pb20.p14" xml:lang="sl">število sprejemnikov, ki je običajno enako številu udeležencev,</p>
+    <p xml:id="pb20.p15" xml:lang="sl">število dni in ur tolmačenja,</p>
+    <p xml:id="pb20.p16" xml:lang="sl">delovni program dogodka in</p>
+    <p xml:id="pb20.p17" xml:lang="sl">dan postavitve oziroma priprav in morebitnih testiranj.</p>
+    <p xml:id="pb20.p18" xml:lang="sl">Prav pri kongresni tehniki in prevajalcih nemalokrat prihaja do nesporazumov zaradi nepopolnih naročil. Zahteve po konferenčni tehniki narekujejo programi srečanj in nosilci le—te. Zato je izrednega pomena, da organizator srečanja razpolaga z natančnimi podatki o zahtevah, da kasneje pri postavitvah, ali še huje, pred in med srečanjem ne pride do nepotrebnih stresnih situacij.</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">Na podlagi teh podatkov lahko določimo potrebno število tehničnega osebja: tehnikov, hostes za delitev sprejemnikov in prenos brezžičnih mikrofonov med razpravo, pomožnega osebja in število simultanih tolmačev (povzeto po Remic, 2009).</p>
+    <p xml:id="pb21.p2" xml:lang="sl">Rezervacije hotelskih sob</p>
+    <p xml:id="pb21.p3" xml:lang="sl">Hotelske kapacitete je potrebno rezervirati istočasno s kongresnim hotelom ali centrom in podpisati pogodbe s hoteli (Zidanski, 2005, 80). S hotelom ali ponudnikom namestitvenih kapacitet se je potrebno dogovoriti za rok, do kdaj bodo rezervirane sobe zagotavljali.</p>
+    <p xml:id="pb21.p4" xml:lang="sl">V razpisu ali programu kongresa (drugo obvestilo) je treba ponuditi različne kategorije hotelov, od najboljših in najdražjih do cenejših, pa tudi zasebne sobe in študentske domove, če kraj z njimi razpolaga. V informacijah o hotelskih namestitvah je potrebno ponujene hotele opisati in predstaviti s fotografijo, navesti oddaljenost od lokacije kongresa, cene in katere storitve cene vključujejo, roke in način prijave ter plačila. Glede na to, da večina udeležencev uporablja svojo sobo, se rezervira toliko sob, kolikor pričakujemo udeležencev, razstavljavcev, tolmačev (Zidanski, 2005, 80).</p>
+    <p xml:id="pb21.p5" xml:lang="sl">Organizacija transferjev/prevozov</p>
+    <p xml:id="pb21.p6" xml:lang="sl">Upoštevati je potrebno, da tuji gostje prispejo na dogodke z letalom, vlakom, avtobusom in nimajo svojega prevoznega sredstva, zato je zanje potrebno zagotoviti transferne prevoze do lokacije dogodka. Letališče je potrebno o kongresu obvestiti in se dogovoriti za sprejem, prostor za sprejeme VIP gostov in varnostne službe ter dovoljenja za čakanje gostov na kar najbolj uglednem prostoru pred letališko zgradbo. Najbolje je, da organizator letališki upravi sporoči registrske številke avtomobilov, da ne bi prihajalo do zmede in nesporazumov z varnostniki. Označbe in napisi za avtobuse ter skrb za prtljago so velikega pomena.</p>
+    <p xml:id="pb21.p7" xml:lang="sl">Nekateri tuji udeleženci pa pridejo na dogodek s svojimi vozili. Tem je potrebno posredovati informacije, kako priti do prizorišča srečanja ter jim posredovati telefonsko številko in kontaktno osebo, na katero se bodo lahko obrnili. Glede na to, da danes vse več ljudi uporablja navigacijsko napravo, se jim lahko sporoči GPS</p>
+    <p xml:id="pb21.p8" xml:lang="sl">– koordinate lokacije, kjer se dogodek organizira.</p>
+    <p xml:id="pb21.p9" xml:lang="sl">S prevozniki se dogovorimo za cene in rezerviramo prevoze; za prevoze z letališča in drugih krajev prihodov udeležencev, avtobuse za morebitne prevoze na večerje, kulturne programe in druge dogodke, izlete in strokovne ekskurzije (Zidanski, 2005, 80).</p>
+    <p xml:id="pb21.p10" xml:lang="sl">Prevoznikom je treba poslati natančne imenske sezname prihodov in odhodov najmanj sedem dni pred prihodi, navesti uro in dan, številko leta ali drugega prevoznega sredstva. Pri odhodih je tudi potrebno določiti uro in kraj odhoda (čakalnega mesta). Če prevoz opravi organizator sam, se pripiše še ime voznika in vrsto prevoznega sredstva glede na število oseb.</p>
+    <p xml:id="pb21.p11" xml:lang="sl">Prijavnica za hotel in transfer</p>
+    <p xml:id="pb21.p12" xml:lang="sl">Prijavnica je običajno ločena od drugih in je namenjena prijavi za hotelsko namestitev, praktično pa je dodati še prijavo za prevoz z letališča (transfer). Tudi ta prijavnica mora vsebovati vse podatke o udeležencu, pregled hotelov, pregled hotelov po kategorijah, vrsto sob in storitev (nočitev z zajtrkom, polpenzion ali polni penzion), prvo in zadnjo storitev v hotelu, cene namestitve, datum prihoda in odhoda, način plačila, odpovedne roke in stroške odpovedi in še s kom morebiti udeleženec želi deliti dvoposteljno sobo.</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">Za prevoz (transfer) z letališča do hotela in nazaj pa so potrebni naslednji podatki: datum in ura prihoda, številka leta (letalo) ali drugega prevoznega sredstva (številka vlaka) in destinacija. Če prevoze plačujejo sami udeleženci, je potrebno navesti tudi ceno prevoza in način plačila (Zidanski, 2005, 77).</p>
+    <p xml:id="pb22.p2" xml:lang="sl">Seznami</p>
+    <p xml:id="pb22.p3" xml:lang="sl">Na osnovi prijav udeležencev smo hotelom dolžni poslati sezname gostov najmanj štirinajst dni pred prihodi, če ni drugače dogovorjeno, najmanj en mesec pred prihodi pa informativno napoved rezervacij. Če gre za veliko število hotelskih sob, moramo hotele sproti obveščati o stanju rezervacij. Skratka, upoštevati moramo hotelske uzance ter spremembe sporočati sproti. Če se gost ne pojavi in pred tem rezervacije ne odpove, zaračunamo neizkoriščeno rezervacijo v vrednosti ene nočitve (Zidanski, 2005, 78).</p>
+    <p xml:id="pb22.p4" xml:lang="sl">Tehnično osebje</p>
+    <p xml:id="pb22.p5" xml:lang="sl">Izbrano in usposobljeno osebje je ključ do uspeha. Za delo na kongresu mora biti osebje prijazno, ustrežljivo, mora obvladati delo in poznati kongresni kraj, katerega predstavljajo. Dogovoriti se je potrebno o številu oseb, ki se potrebujejo za določene naloge (garderoba, registracija, informacije, delitev sprejemnikov pri simultanem prevajanju, hostese, nadzor vhoda, varnost).</p>
+    <p xml:id="pb22.p6" xml:lang="sl">Z osebjem za delo na kongresu se pred pričetkom izvede informativni sestanek, kjer se pregleda program kongresa ter razdeli naloge in zadolžitve.</p>
+    <p xml:id="pb22.p7" xml:lang="sl">3.2. KOMUNIKACIJA KONGRESA</p>
+    <p xml:id="pb22.p8" xml:lang="sl">Komuniciranje v procesu organizacije, izvedbe, vrednotenja in predstavitve kongresa, lahko predstavimo z naslednjimi elementi komunikacijskega spleta:</p>
+    <p xml:id="pb22.p9" xml:lang="sl">razstavo,</p>
+    <p xml:id="pb22.p10" xml:lang="sl">napisi,</p>
+    <p xml:id="pb22.p11" xml:lang="sl">konferenčnim gradivom in</p>
+    <p xml:id="pb22.p12" xml:lang="sl">tiskanim gradivom.</p>
+    <p xml:id="pb22.p13" xml:lang="sl">Razstava</p>
+    <p xml:id="pb22.p14" xml:lang="sl">Če kongresni center ali hotel ne razpolagata z opremo razstavnih prostorov, jo je potrebno naročiti pri zato usposobljenih ponudnikih. Pred tem zberemo prijave razstavljavcev, določimo razstavne površine, podpišemo pogodbe in sestavimo finančni obračun (Zidanski, 2005, 79).</p>
+    <p xml:id="pb22.p15" xml:lang="sl">S podizvajalci se je potrebno dogovoriti o lokaciji razstavnega prostor, koliko m2 je na voljo, zahtevani opremi, razporedu razstavnih prostorov po m2 in razstavljavcih ter izbiri dneva priprave razstavnih mest.</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">Napisi</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Z oblikovalcem se dogovorimo glede izdelave (idejnega osnutka) logotipa kongresa (če ga kongres še nima), ki ga uporabimo tudi za tisk edicij, konferenčnih gradiv, usmerjevalnih napisov, kot celotno oblikovano zasnovo kongresa (Zidanski, 2005, 79).</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Konferenčno gradivo</p>
+    <p xml:id="pb23.p4" xml:lang="sl">Pri najugodnejšem ponudniku je potrebno naročiti torbe ali mape za konferenčno gradivo, ki ga bodo udeleženci prejeli ob registraciji. Običajno gradivo vsebuje program, zbornik, spominek, imenske značke, darila (Zidanski, 2005, 79).</p>
+    <p xml:id="pb23.p5" xml:lang="sl">Tiskano gradivo</p>
+    <p xml:id="pb23.p6" xml:lang="sl">Že v času priprav na kongres organizatorji zagotovijo vrsto tiskanih gradiv. Prične se z oblikovanjem logotipa, pisemskega papirja in kuvert.</p>
+    <p xml:id="pb23.p7" xml:lang="sl">S tiskarno se predhodno dogovorimo za tisk prvega in drugega obvestila, zatem programa kongresa, vabil za spremljevalne dogodke, zbornika predavanj, potrdil o udeležbi in še kaj (Zidanski, 2005, 79).</p>
+    <p xml:id="pb23.p8" xml:lang="sl">Prvo obvestilo je lahko tiskano na papir ali vzorec, ki ga priskrbijo mesta ali letalske družbe v zameno za promocijo na sprednji ali zadnji strani letaka. Ta letak se lahko natisne leta pred konferenco in se lahko uporabi za predhodno promocijo, in sicer tako, da se pripne k regularnim pismom, ki jih napišejo člani odbora (Rivlin, 1995, 42).</p>
+    <p xml:id="pb23.p9" xml:lang="sl">Pri izdelovalcih in dobaviteljih papirja je potrebno preveriti, kaj se da narediti in kaj ne, da se znižajo stroški ali pa da se nadgradijo končni rezultati. Z izdelovalci papirja in dobavitelji se lahko pogajamo glede na zahtevano količino, kvaliteto papirja, posebne končne efekte, kot so reliefi ali bolj kompleksne barvne izvedbe.</p>
+    <p xml:id="pb23.p10" xml:lang="sl">V korist zmanjšanju stroškov se splača preveriti, ali imajo dobavitelji kakršnakoli odpovedana naročila ali pa prekoračitve naročil (Allen, 2002, 162).</p>
+    <p xml:id="pb23.p11" xml:lang="sl">Gradiva morajo biti natisnjena in dostavljena najmanj sedem dni pred začetkom kongresa.</p>
+    <p xml:id="pb23.p12" xml:lang="sl">3.3. SPREMLJEVALNI DOGODKI KONGRESA</p>
+    <p xml:id="pb23.p13" xml:lang="sl">Spremljevalne dogodke kongresa predstavljajo:</p>
+    <p xml:id="pb23.p14" xml:lang="sl">gostinske storitve,</p>
+    <p xml:id="pb23.p15" xml:lang="sl">družabni program,</p>
+    <p xml:id="pb23.p16" xml:lang="sl">izleti, program za spremljevalce in</p>
+    <p xml:id="pb23.p17" xml:lang="sl">komercialna razstava.</p>
+    <p xml:id="pb23.p18" xml:lang="sl">Gostinske storitve</p>
+    <p xml:id="pb23.p19" xml:lang="sl">To so storitve, časovno določene s programom kongresa: postrežba ob prihodu in v odmorih, delovna kosila ter vse vrste gostinskih storitev na kongresu.</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">Če je kongres v hotelu, storitve naročimo skupaj z drugimi storitvami. V nasprotnem primeru, če je kongres v kongresnem centru ali dvorani, se je potrebno dogovoriti z zunanjim ponudnikom. Dogovorimo se o sestavi in vrsti gostinskih storitev, sestavi menujev – če gre za kosila ali večerje, in seveda ceno in količino. Enako velja za sprejeme in bankete (Zidanski 2005, 80). Poda se točno specifikacijo časa in število oseb za posamezno pogostitev, če je pijača pri kosilu vključena v ceno menuja in ostale podrobnosti.</p>
+    <p xml:id="pb24.p2" xml:lang="sl">Pogostitve so pomemben prispevek k uspehu celotnega dogodka. Pravočasnost, učinkovitost, pravilna postrežba vplivajo na počutje in ugodje udeležencev. V kongresnih standardih mora biti hrana za kongresne udeležence lahka in raznolika, saj mastne jedi škodijo prebavi in zmanjšujejo koncentracijo. Glede na to, da se od udeležencev zahteva čim boljša dejavnost in koncentracija v dolgih urah sedenja, sta zelo pomembna dejavnika prehrana in gibanje na svežem zraku.</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Pogostitve ob odmorih je najbolje pripravljati v prostoru, kjer je tudi razstavni del, ker želimo preusmeriti pozornost k razstavljavcem in pokroviteljem.</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Priporočljivi so lahki prigrizki, sveže in suho sadje. Izogibati se je potrebno sladkega peciva. Poleg kave in sadnih čajev lahko ponudimo mineralno vodo, sok, mlečne napitke ali zelenjavne sokove.</p>
+    <p xml:id="pb24.p5" xml:lang="sl">V sami kongresni dvorani naj bo na voljo dovolj vode (predvsem na predsedstvu in govorniškem pultu), saj po pitju kave trenutni povečani stimulaciji sledi zmanjšana mentalna aktivnost, saj kofein povzroča dehidracijo.</p>
+    <p xml:id="pb24.p6" xml:lang="sl">Glede na pester urnik je priporočljivo za kosilo planirati vsaj kakšno uro. Priporoča se hladno topli bife, saj si udeleženci sami postrežejo in se pri tem še gibljejo. Ta vrsta pogostitve je primerna za krajše odmore. Poskrbeti moramo za več obrokov s postrežbo enake hrane, kajti lačni udeleženci zelo hitro postanejo slabe volje. Pri sedečem kosilu je trajanje odvisno od samega menija, hitrosti postrežbe in številnih drugih dejavnikov.</p>
+    <p xml:id="pb24.p7" xml:lang="sl">Vsi udeleženci se ob prvem napornem dnevu radi sprostijo, poklepetajo o svojih hobijih, družinah in osebnih interesih. Gala večerja z zabavnim programom lahko dogodek povzdigne na precej višji nivo in povzroči, da ostane še dolgo v spominu udeležencev. Je tudi odlična priložnost, da udeležencem (predvsem tujim) predstavimo tipične lokalne specialitete — seveda kakovostno pripravljene glede na to, v katerem delu Slovenije se dogodek odvija. Prav tako je pomembna kombinacija »za vsakogar nekaj«.</p>
+    <p xml:id="pb24.p8" xml:lang="sl">Pri sestavi menujev za udeležence mednarodnih kongresov je potrebno zlasti paziti ter upoštevati prehrambene navade in omejitve posameznih narodnosti. Če je družabnih dogodkov s pogostitvijo več, je potrebno biti pozoren, da se jedi v jedilnikih ne ponavljajo (Zidanski, 2005, 81).</p>
+    <p xml:id="pb24.p9" xml:lang="sl">Glavno in osnovno pravilo katerekoli pogostitve je, da hrane nikoli ne sme zmanjkati. O izbiri menujev na koncu vedno odloča prireditelj, glede na finančna sredstva, s katerim razpolaga, zato v ponudbi tehnične organizacije kongresa vedno ponudimo najmanj tri različne predloge menujev po različnih cenah. K menuju je potrebno ponuditi tudi pijačo, od aperitiva do vin in digestiva, ki jo izberemo skladno z ponujenimi jedmi.</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">Potrebno se je dogovoriti tudi o postavitvi in okrasitvi miz, poteku postrežbe, sedežnemu redu, imenskih napisih oziroma označitvijo miz s številkami, izdelavi menu kartic, ozvočenju za govore.</p>
+    <p xml:id="pb25.p2" xml:lang="sl">Družabni program</p>
+    <p xml:id="pb25.p3" xml:lang="sl">Družabni program da celotnemu dogodku poseben čar. Ni namenjen samo večerji in zabavi, pač pa tudi temu, da se udeleženci srečajo in med seboj spoznajo. Ker si udeleženci dogodke največkrat zapomnijo prav po zabavah in dogodkih izven uradnega dela, mora biti tudi ta del odlično pripravljen in izveden (Jelen, 2005).</p>
+    <p xml:id="pb25.p4" xml:lang="sl">Družabni dogodek, ki spada med obvezne pri organizaciji večjega dogodka, kot je kongres, je sprejem prvega dne. Pripravljen je, da udeleženci dobijo prvi občutek dogodka in se med seboj spoznajo. Običajno se za goste pripravi bar z osvežilnimi pijačami, hrana ni nujno potrebna in je odvisna od proračuna. Pomembna dogodka sta tudi otvoritvena in zaključna slovesnost, ki v nekaterih organizacijah pomeni uveljavljeno tradicijo ali že uveljavljen in določen protokol, kar je potrebno pri organizaciji upoštevati, čeprav se lahko še vedno doda malo lokalnega priokusa.</p>
+    <p xml:id="pb25.p5" xml:lang="sl">Pomembno je pripraviti seznam vabljenih oseb, ki lahko vključuje znanstvene organizacije ter fakultete, mestno upravo, ambasadorje držav udeležencev, ministre, sekretarje, politike in druge pomembne člane družbe. Otvoritvena svečanost se začne z umetniškim programom, nadaljuje s pozdravnimi govori pomembnih gostov ter zaključi s predavanjem vabljenega gosta. Zaključna prireditev pa je namenjena druženju udeležencev, zahvalnim govorom in dobri zabavi gostov (Rivin, 1995, 63).</p>
+    <p xml:id="pb25.p6" xml:lang="sl">V skladu z dogovorjenim programom je potrebno:</p>
+    <p xml:id="pb25.p7" xml:lang="sl">najti, se dogovoriti, podpisati pogodbe s kulturniki (ansambli, nastopajočimi pri zabavnem ali otvoritvenem programu),</p>
+    <p xml:id="pb25.p8" xml:lang="sl">dogovorite se glede nastopa (izbira prostora, potek in trajanje programa, oprema, ki jo nastopajoči zahtevajo – odri, stoli, osvetlitev, garderoba z ogledalom, dostava opreme) in</p>
+    <p xml:id="pb25.p9" xml:lang="sl">določiti pogoje ter cene.</p>
+    <p xml:id="pb25.p10" xml:lang="sl">Izleti, program za spremljevalce</p>
+    <p xml:id="pb25.p11" xml:lang="sl">Za organizatorje in udeležence naravne lepote nimajo odločujoče vloge pri izbiri kongresnega mesta, temveč jih moramo upoštevati kot dodatne izbirne dejavnike.</p>
+    <p xml:id="pb25.p12" xml:lang="sl">Turistične privlačnosti, kot so izleti, ogled znamenitosti in športni tereni, niso namenjene primarnim potrebam udeležencev, pač pa so zanimive samo kot dopolnilne dejavnosti, če je v programu izlet in če udeleženec podaljša bivanje po sestanku.</p>
+    <p xml:id="pb25.p13" xml:lang="sl">Rivin (1995, 74) poudarja, da zato, ker je vsaka konferenca kombinacija poslovnih obveznosti in sprostitve — posebno še v zelo oddaljenih lokacijah, kjer ljudje hočejo izkoristiti priložnost in videti deželo, je navada, da se udeležencem ponudijo izleti pred, med in po konferenci.</p>
+    <p xml:id="pb25.p14" xml:lang="sl">Izlete, za katere smo se dogovorili in jih objavili v programu, je potrebno vnaprej pripraviti:</p>
+    <p xml:id="pb25.p15" xml:lang="sl">rezervacijo avtobusov in vodnikov v odgovarjajočih jezikih,</p>
+    <p xml:id="pb25.p16" xml:lang="sl">gostinske storitve po programu,</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">priskrbeti vstopnice za oglede ali se dogovoriti za poseben ogled znamenitosti in</p>
+    <p xml:id="pb26.p2" xml:lang="sl">hotelske namestitve, če izlet traja več dni. Enako velja za pred- in pokongresne ture (Zidanski, 2005, 84).</p>
+    <p xml:id="pb26.p3" xml:lang="sl">Prevozniku se sporoči čas odhoda in prihoda avtobusa na določeno mesto, relacijo, okvirni program število oseb, čas predvidene vrnitve, vodnikovo ime ter imena voznikov, telefonski številki vodnika in voznika. Z vodnikom se dogovorimo o programu izleta, vrsti storitev na poti, gostinskih in hotelskih storitvah, ogledih, vstopninah, predaji naročilnice za vsako storitev posebej.</p>
+    <p xml:id="pb26.p4" xml:lang="sl">Organizatorji bodo priznali, da se je najtežje dogovoriti in uskladiti prav pri tem delu ponudbe. Glede storitev kongresne ponudbe (dvoran, opreme in tehnike) so si vsi kmalu enotni, ko pa pride na vrsto družabni del kongresa, se diskusija ustavi.</p>
+    <p xml:id="pb26.p5" xml:lang="sl">Zato prav na tem področju, pri svetovanju glede gostinsko turistične ponudbe, pridejo do izraza inovativnost, domišljija in poznavanje ponudbe vsakega dobrega kongresnega organizatorja. Ta mora dobro poznati gostinsko turistično ponudbo, gostinske kapacitete, vsebino in kvaliteto storitev, ki jo gostinski objekti ponujajo. Brez dobrega poznavanja sodobne kulinarike P.C.O. ne bo znal svetovati prirediteljem in naročnikom pri sestavih privlačnih družabnih aktivnosti (Zidanski, 2005, 86).</p>
+    <p xml:id="pb26.p6" xml:lang="sl">Komercialna razstava</p>
+    <p xml:id="pb26.p7" xml:lang="sl">Komercialna razstava je eden najpomembnejših delov kongresov. Razstava da kongresu barvo in vzdušje ter je lahko eden glavnih virov prihodka. Če ima organizator na kongresu namen organizirati razstavo, je potrebno sodelovanje s profesionalnim organizatorjem razstav. Ta mora biti organizacijsko in finančno izkušen ter zmožen priskrbeti ves seznam razstavljavcev. Razstavni prostor je zelo blizu sejnih sob, tako da morajo udeleženci iti mimo razstavnih prostorov, ko gredo na sestanke. V bližini je prostor za posterje, kjer so organizirani odmori za kavo in prigrizke na razstavnem prostoru. Za razstavo posterjev mora biti izbran velik prostor s panoji, kamor udeleženci lepijo svoje posterje. Panoji naj bodo primerno označeni. Vedno mora biti prisotna hostesa, ki udeležencem pomaga, jih usmerja in oskrbuje z raznimi pripomočki (Rivin, 1995, 60—62).</p>
+    <p xml:id="pb26.p8" xml:lang="sl">Kot pravi Zidanska (2005, 92) morajo biti priprave na kongres 100 % končane najkasneje na predvečer začetka kongresa, tako da vam ostane le še opravilo dve uri pred odprtjem odpreti vhod v kongresno dvorano. Namreč 90 % vseh opravil organizacije zajema priprava kongresa, le 10 % opravil ostane za izvedbo. Takrat gre le še za koordinacijo storitev in spremljanje ter nenehno kontrolo izvajanja storitev.</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">4. TRŽENJE KONGRESNE DEJAVNOSTI</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Beseda trženje izhaja iz prevoda angleške besede »marketing«. Posplošeno razumemo trženje kot vse poslovne dejavnosti podjetja, ki so povezane s potjo izdelkov in storitev od proizvajalcev do potrošnikov.</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Trženje ima tako kot vsak pojem ekonomskega izvora mnogo opredelitev. Ena izmed najbolj celostnih je Kotlerjeva (2004, 1): »Trženje je umetnost, s katero ustvarimo in zadovoljimo kupca ter pri tem dosežemo dobiček«.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Trženje se torej tipično razume kot naloga ustvarjanja, promocije in posredovanja izdelkov in storitev porabnikom in podjetjem. Za storitvena podjetja je tako pomembno, da svojim strankam posredujejo želeno zadovoljstvo. Tržniki kot strokovnjaki so odgovorni za ravnanje s povpraševanjem. Njihova inovativnost, učinkovitost in uspešnost pri zadovoljevanju potreb in želja kupcev v današnji digitalni revoluciji predstavlja nov izziv za podjetja (Kotler, 2004, 5).</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Za storitve so, v nasprotju z izdelki, značilne štiri lastnosti, ki v večji meri vplivajo na oblikovanje programov in njihovo trženje:</p>
+    <p xml:id="pb27.p6" xml:lang="sl">neločljivost: storitve se naredijo in porabijo istočasno,</p>
+    <p xml:id="pb27.p7" xml:lang="sl">neotipljivost (neopredmetenost): storitev ne moremo videti, okusiti, občutiti, slišati ali vonjati preden jih kupimo,</p>
+    <p xml:id="pb27.p8" xml:lang="sl">spremenljivost (variabilnost): vsaka izvedba določene storitve je unikatna za posameznega kupca in</p>
+    <p xml:id="pb27.p9" xml:lang="sl">minljivost (kratkotrajnost): izvedba storitve je fiksna v času in prostoru in ima fiksno zmogljivost v enoti časa (povzeto po Kotler, 1996 in Middleton, 2001).</p>
+    <p xml:id="pb27.p10" xml:lang="sl">Ko opredeljujemo trženje, ne moremo brez trženjskega spleta kot niza trženjskih instrumentov. Glavni elementi trženjskega spleta so izdelek oziroma storitev, prodajne poti, cena in tržno komuniciranje. Tem štirim elementom dodajajo sodobne trženjske teorije še tri: zaposlene, procese in odnose s strankami, kateri postajajo vse pomembnejši.</p>
+    <p xml:id="pb27.p11" xml:lang="sl">Pri trženju kongresne dejavnosti je potrebno izhajati iz zakonitosti medorganizacijskega trženja, saj gre v osnovi za prodajo kongresnih kapacitet in storitev organizatorjem dogodkov, torej podjetjem, združenjem, ustanovam in drugim podobnim institucijam. Potrebno je nenehno sodelovanje nosilcev kongresne ponudbe z znanostjo, tehniko, medicino in gospodarstvom ter z njihovimi združenji, ki te ponudnike predstavljajo (inštituti, univerzami, univerzitetnimi profesorji, podjetji). Ključnega pomena so motivi pobudnikov srečanj, ki so v prvi vrsti poslovna naravnanost njihovih odločitev in velika konkurenčnost med njimi (Zidanski, 2005, 37).</p>
+    <p xml:id="pb27.p12" xml:lang="sl">Trženje kongresne dejavnosti temelji na zelo specifičnih aktivnostih. Zahteva stalno raziskovanje in spremljanje kongresnega trga skozi dogajanje na posameznih področjih znanosti, gospodarstva in politike ter spoznavanje vedno novih kupcev kongresnih storitev. Zelo ključno je poznavanje pobudnikov strokovnih srečanj, v prvi vrsti domačih članov mednarodnih organizacij in stalno informiranje teh pobudnikov o svoji ponudbi in storitvah. Za izgrajevanje podobe in razpoznavnosti so potrebne kontinuirane predstavitve doma in v tujini ter nastopi na specializiranih kongresnih borzah in sejmih. Oglaševanje v domačih in tujih strokovnih revijah in časopisih je zelo zaželeno, vendar zahteva ogromne finančne vložke, da bi bilo učinkovito. Zelo pomembna osnova so kvalitetne edicije – brošure, katalogi ter druga propagandna gradiva – in seveda kakovostne predstavitve na spletnih straneh.</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">Vse bolj pomembno pa postaja tudi članstvo v mednarodnih kongresnih združenjih, ki prinaša številne koristi, kot so razpoznavnost v mednarodnih krogih in dostop do zelo uporabnih baz podatkov (Zidanski, 2005, 36). Naštete aktivnosti so lahko, če se izvajajo profesionalno in aktivno, sicer zelo drage, vendar tudi učinkovite.</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Kot ciljne kupce je v kongresni panogi potrebno izpostaviti predvsem pobudnike različnih srečanj. To so ljudje iz mnogih strok in organizacij, ki jih je potrebno poiskati, z njimi vzpostaviti osebni stik ter v njih vzbuditi zaupanje. Kljub vsesplošni poplavi informacij, ki jih današnja doba omogoča, je bistvenega pomena neposredno sodelovanje s prednostnimi partnerji, ki temelji na kakovosti, zvestobi, kontinuiteti in poslovni kulturi (Zidanski, 2005, 39—40).</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Za uspešno trženje kongresnega objekta ali destinacije mora ponudnik najprej oblikovati strategijo orientacije h kupcu kot osnovne poslovne filozofije vseh udeležencev v kongresni ponudbi, kar je temelj pri oblikovanju tržnih strategij.</p>
+    <p xml:id="pb28.p4" xml:lang="sl">Uspešna strategija trženjskega spleta kongresnega ponudnika vsebuje naslednje glavne elemente (4P):</p>
+    <p xml:id="pb28.p5" xml:lang="sl">Izdelek (product): destinacija/objekt, ki lahko s kvaliteto storitev, ugledom ter enkratnimi privlačnostmi zadovolji kongresne, prireditvene in razstavne potrebe. Oblikovanje blagovnih znamk je »lepilo«, ki povezuje širok spekter tržnih aktivnosti in je najpomembnejši samostojni cilj modernega trženja. V trženju kongresnih objektov in destinacij je relativno nov koncept (Liping, 2003, 732). Glavni cilj blagovne znamke je zagotovitev ponudbe vrhunskih in standardiziranih kongresnih storitev, ne glede na to, kje se kongresni hotel oziroma center nahaja.</p>
+    <p xml:id="pb28.p6" xml:lang="sl">Cena (price): politika cen mora upoštevati potencialno bodoče povpraševanje, sezonske fluktuacije, željo po maksimizaciji prihodka, enkratnost storitev, psihološki vpliv dvigovanja in spuščanja cen, aktivnosti konkurence ter širšo ekonomsko stanje. V devetdesetih letih se je začela uporaba načel prihodkovnega managementa pri oblikovanju cen kot elementa tržnega spleta ob ponudbi konferenčnih kapacitet predvsem pri pogajanjih s kongresnimi organizatorji (Rogers 1998, 126). Pri tem je glavno vodilo maksimizacija prihodka s prilagoditvijo cen povpraševanj: to pomeni višje cene ob dnevih visokega povpraševanja in težnja k višji zasedenosti ob dnevih nizkega povpraševanja. Prihodkovni management ne generira novih poslov (Shone, 1998, 59), temveč je analitično orodje bilančnega upravljanja.</p>
+    <p xml:id="pb28.p7" xml:lang="sl">Prostor (place) vključuje širši prostor izvedbe kongresa. Pri trženju kongresa je treba ločiti med trženjem destinacije (mesta ali države), kar pomeni, da je država ali mesto izbrano s strani mednarodne organizacije, ki želi organizirati kongres, in med trženjem, katerega cilj je privabiti čim večje število udeležencev, sponzorjev in morebitnih razstavljalcev.</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Promocija (promotion): njen namen je informiranje in prepričevanje obstoječih kupcev k lojalnosti, potencialnih kupcev pa k preizkusu proizvoda oziroma storitve. Sem spada obveščanje novinarjev ter ključnih osebnosti, ki lahko vplivajo na izvedbo posla, časopisno oglaševanje, stike z javnostjo, direktni marketing, prodajne obiske, itd.</p>
+    <p xml:id="pb29.p2" xml:lang="sl">Obstajajo pa še trije dodatni elementi, in sicer: ljudje (people), fizični dokazi (physical evidence) ter procesiranje (process) (povzeto po Rogers, 1998).</p>
+    <p xml:id="pb29.p3" xml:lang="sl">V okviru pomembnosti izbranih elementov trženjskega spleta, bomo v naslednjih podpoglavjih predstavili:</p>
+    <p xml:id="pb29.p4" xml:lang="sl">tretji element — prostor kongresne dejavnosti in</p>
+    <p xml:id="pb29.p5" xml:lang="sl">četrti element — komunikacijo kongresne dejavnosti.</p>
+    <p xml:id="pb29.p6" xml:lang="sl">4.1. PROSTOR KONGRESNE DEJAVNOSTI</p>
+    <p xml:id="pb29.p7" xml:lang="sl">Približno ena četrtina organizacij ima že vnaprej določene lokacije kongresa. PCO- ji in kongresni uradi pa približno na eno tretjino še lahko vplivajo in jih pregovorijo (Peterlič, 2003).</p>
+    <p xml:id="pb29.p8" xml:lang="sl">Izbira lokacije kongresa je izrednega pomena, saj se glede na to, kje so lokacije ostalih kongresov, določi morebitni naslednji prosti termin, za katerega je mogoča kandidatura, združenje, ki je član mednarodne organizacije, pa lahko pripomore pri sami izbiri. Po izpolnjenem zahtevku za informacije, ki ga pošlje mednarodna organizacija, PCO ali kongresni urad povabita v državo in jo prepričata o prednostih same kandidature lokacije.</p>
+    <p xml:id="pb29.p9" xml:lang="sl">Na predhodnem kongresu (dva do tri termine pred tistim, za katerega se potegujemo) se predstavi lokacijo z vnaprej pripravljenim programom, ki vsebuje poleg nujne avdio-vizualne predstavitve države in kraja še informacije o strokovnosti organizatorja ter manjša promocijska darila. Vsi tehnični pogoji morajo biti seveda izpolnjeni, prav tako k izbiri pripomore razvitost posamezne znanstvene vede ter prepoznavnost znanstvenikov ali gospodarstvenikov.</p>
+    <p xml:id="pb29.p10" xml:lang="sl">Distribucija letakov ali brošur poveča zanimanje potencialnih udeležencev, ki so že prejeli prvo najavo. Več pozornosti in neposrednega stika je treba nameniti državam, iz katerih pričakujemo največ udeležencev. Lobiramo glede na to, kdo je glavni pri odločitvah.</p>
+    <p xml:id="pb29.p11" xml:lang="sl">Vsako mesto ima svoje specifičnosti in kongresna ponudba kraja mora vse te odlike posebej poudariti ter jih kasneje uspešno uporabiti pri uresničitvi turističnega prometa (Jenko, 1991, 50).</p>
+    <p xml:id="pb29.p12" xml:lang="sl">Kadar se za kandidaturo kongresa poteguje več mest z enakimi referencami, takrat prevlada izbor zaradi dodatne ponudbe (obkongresna dejavnost), kot so naravne lepote kraja, kulturne in zgodovinske znamenitosti, možnosti za športno udejstvovanje.</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">4.2. KOMUNIKACIJA KONGRESNE DEJAVNOSTI</p>
+    <p xml:id="pb30.p2" xml:lang="sl">Trženje posameznih kongresnih prostorov je zahtevno opravilo, saj obstaja močna konkurenca, nastanejo visoki stroški trženja ter nagnjenja kupcev k povpraševanju po destinacijah.</p>
+    <p xml:id="pb30.p3" xml:lang="sl">Oglaševanje igra pomembno vlogo pri povečanju osveščenosti javnosti ter oblikovanju ugleda kongresnega centra oziroma hotela. Pomembno je tudi pri pridobivanju kupcev, ki nimajo časa za informiranje o alternativnih možnostih.</p>
+    <p xml:id="pb30.p4" xml:lang="sl">Tako oglaševanje predstavlja glavno tržno aktivnost manjših hotelov s konferenčnimi sobami.</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Večji kongresni ponudniki se poslužujejo promocijskih člankov v strokovnih medijih z opisom atraktivnosti in uspešnosti kongresnega objekta. Pomembno promocijsko orodje je tudi kvalitetno oblikovana udeležba na kongresnih in incentivnih sejmih ter specialističnih delavnicah, ki predstavljajo izložbe kongresnih objektov in posrednikov, vabljenje kupcev, organizatorjev ter strokovnih novinarjev na študijske obiske, kjer jim pogostijo, informirajo ter jim predstavijo prednosti kongresnega objekta. Med učinkovite tržne aktivnosti spadajo tudi »dnevi odprtih vrat«, kjer kongresni prostor predstavimo splošni javnosti ali izbranim skupinam ter poučni ogledi objekta s strani izobraževalnih ustanov.</p>
+    <p xml:id="pb30.p6" xml:lang="sl">Večji kongresni hoteli ter verige poslovnih hotelov v turistično razvitih državah nagradijo redne stranke v okviru »lojalnih klubov«. Preko analize udeležbe rednih gostov oblikujejo nove in uspešne prodajne poti. Osveščenost organizatorjev ter udeležencev kongresov lahko ohranjamo tudi z nadaljnjimi klici, občasnimi pogovori ter vabili na raznolike prireditve.</p>
+    <p xml:id="pb30.p7" xml:lang="sl">Kongresni hoteli oziroma centri tudi partnersko sodelujejo z destinacijami, kjer so locirani, s kongresnimi uradi in turističnimi organizacijami ter z marketinškimi konzorciji. Tako večajo svojo prepoznavnost ter celo pridobivajo nove kupce.</p>
+    <p xml:id="pb30.p8" xml:lang="sl">Ameriški kongresni strokovnjaki (Rogers, 1998, 22) so že na prelomu prejšnjega stoletja ugotovili koristnost skupnega trženja več kongresnih ponudnikov v geografsko zaključenem območju ter temu sledeče sinergijske učinke, kar je vodilo k ustanavljanju kongresnih uradov in pisarn v vlogi tržnika kongresnih destinacij (mesto, regija, država).</p>
+    <p xml:id="pb30.p9" xml:lang="sl">Negovanje odnosov s strankami je primerno, kadar kupec izbira med več ponudniki, kadar se blagovna znamka pogosto preoblikuje, kadar je komunikacija med kupci pomembna oblika promocije ter kadar kupec kupuje »destinacijo« (Rogers, 1998, 72). Bistvo pristopa je zadovoljen in kasneje tudi lojalen kupec. Za uspešne odnose s strankami je odgovorno celotno podjetje, negativni dejavnik pa je predvsem fluktuacija osebja ter morebitni prekratki pripravljalni čas za organizacijo kongresa (Fyall et al., 2003, 655).</p>
+    <p xml:id="pb30.p10" xml:lang="sl">Privlačnost kongresne dejavnosti je tudi možnost razvoja prijateljskih odnosov med kupci ter med ponudniki. Konkurenca se izoblikuje predvsem v obliki prijateljske oziroma sodelovalne tekmovalnosti. Ustanavljajo se formalna in neformalna zavezništva, destinacija posreduje informacije destinaciji, ki bo naslednja gostila njenega kupca (Rogers, 1998, 120). Tudi kupci izmenjujejo svoje izkušnje, priporočila med člani združenj pa so pomemben dejavnik izbire bodočih kongresnih lokacij. Osnova uspešnih odnosov s strankami je profiliranje kupcev z oblikovanjem in vzdrževanjem kvalitetne baze podatkov, kar olajša stike s kupci ter kvalitetnejše odzive kongresnega osebja. Pogosto je tako neposredno trženje obogateno z raznimi nagradnimi potovanji, ki povečujejo odzivnost potencialnih kupcev. Pomembne so tudi strategije vzpodbujanja retencije kupcev (Rogers, 1998, 121).</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Kongresna ponudba zahteva prav posebno trženje. Večji slovenski kongresni ponudniki sodelujejo na mednarodnih strokovnih kongresnih borzah ter tudi izdajo lastne »kongresne in poslovne« prospekte, poleg tega imajo tudi oblikovano kongresno ponudbo na spletnih straneh. Poleg tega nekateri tudi vabijo novinarje na študijske obiske, zelo malo pa je promocijskih člankov ob posameznih dogodkih. Večina slovenskih kongresnih ponudnikov pa prisega na direktni marketing. Prisotno je tudi časopisno oglaševanje, predvsem v strokovnih revijah na domačem tržišču, medtem ko oglaševanja v tujih strokovnih revijah praktično ni. Po pridobljenih informacijah so poprodajne aktivnosti, razen pokongresne telefonske retencije kupcev, pomanjkljive.</p>
+    <p xml:id="pb31.p2" xml:lang="sl">Slovenski kongresni ponudniki se morajo zavedati, da je pravilna orientacija k kongresnemu kupcu tista, ki postavlja na prvo mesto kongresno ponudbo, katera se pa lahko oplemeniti z bogato stransko ponudbo (povzeto po Rogers, 1998).</p>
+    <p xml:id="pb31.p3" xml:lang="sl">Menimo, da je oblikovanje novih »standardiziranih« storitev ob upoštevanju načel individualnosti lahko pomemben vir za pridobivanje novih naročnikov.</p>
+    <p xml:id="pb31.p4" xml:lang="sl">V Sloveniji organizatorji kongresnih prireditev največ komunicirajo preko neposrednega trženja in se zelo poredko odločijo za oglaševanje. V tem primeru si PCO ponavadi izbere občila stroke, katere kongres pripravlja. Vodilo naj bi bila neposredna pošta — prijavnica, ki je lahko zelo specializirana. Ob tem, ko dajemo prednost neposrednemu vabilu in vabilom s samih kongresov, je pomembno tudi, da v opozorilu na prihajajoče kongrese ne pozabimo objaviti datumov v specializiranih častnikih. Orodja, ki se uporabljajo pri neposrednem trženju, so: neposredna pošta (tiskana obvestila, najave, zbornik), novejša elektronska pošta in osebni stiki z organizatorji. V zadnjih letih se vse pogosteje uporablja izredno cenjeno in razširjeno orodje, tj. odnosi z javnostmi, med katere spada kongresna publiciteta, lobiranje, sponzorstvo in donatorstvo (Peterlič, 2003).</p>
+    <p xml:id="pb31.p5" xml:lang="sl">Hitrost in dosegljivost informacij kongresnega ponudnika na spletnih straneh postaja vedno bolj pomembna sestavina uspeha kongresnih objektov in destinacij.</p>
+    <p xml:id="pb31.p6" xml:lang="sl">Strateško načrtovanje, primerno oblikovanje, bogata vsebina spletnih strani ter njihov kvaliteten management so ključni elementi uspešnega neposrednega trženja kongresne ponudbe (Benckendorf in Black, 2000, 12).</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">5. JAVNI GOSPODARSKI ZAVOD BRDO</p>
+    <p xml:id="pb32.p2" xml:lang="sl">Javni gospodarski zavod Protokolarne storitve Republike Slovenije je pravno naslednik Servisa za protokolarne storitve. Ustanovljen je bil z Odlokom o ustanovitvi Javnega gospodarskega zavoda Protokolarne storitve Republike Slovenije (Uradni list RS št. 97/2001) s 1. januarjem 2002 (interni vir: Letno poročilo 2010).</p>
+    <p xml:id="pb32.p3" xml:lang="sl">Javni gospodarski zavod Brdo (v nadaljevanju JGZ Brdo) je s pridobitvijo Kongresnega centra še dodatno definiralo ciljno tržišče — to je poslovni turizem.</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Lokacija, bližina letališča in glavnega mesta, avtocestne povezave in bližina mejnih prehodov, visok nivo storitev, bogata dodatna ponudba in dovolj parkirnih mest so elementi, ki so pomembni tako za domači kot tuji poslovni turizem. Poleg kongresov, seminarjev, izobraževanj, ki se sedaj v večini odvijajo v sodobno tehnično opremljenih dvoranah Kongresnega centra, pa je Brdo izvrstna lokacija tudi za izvedbo osebnih jubilejev, praznovanj, srečanj in kulturnih dogodkov.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">5.1. PREDSTAVITEV JGZ BRDO</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Osnovna naloga Zavoda je opravljanje storitev za protokolarne in reprezentančne dogodke, ki imajo prednost pri rezervaciji protokolarnih lokacij.</p>
+    <p xml:id="pb32.p7" xml:lang="sl">Zavod pridobiva sredstva za opravljanje svoje dejavnosti:</p>
+    <p xml:id="pb32.p8" xml:lang="sl">iz proračuna Republike Slovenije,</p>
+    <p xml:id="pb32.p9" xml:lang="sl">s prihodki od plačil uporabnikov protokolarnih storitev,</p>
+    <p xml:id="pb32.p10" xml:lang="sl">s prihodki od najemnin,</p>
+    <p xml:id="pb32.p11" xml:lang="sl">s prihodki od prodaje blaga in storitev,</p>
+    <p xml:id="pb32.p12" xml:lang="sl">s prihodki nadomestil tretjih oseb za opravljanje dejavnosti na zavarovanem območju in</p>
+    <p xml:id="pb32.p13" xml:lang="sl">z dotacijami, donacijami, darili in iz drugih virov.</p>
+    <p xml:id="pb32.p14" xml:lang="sl">Iz proračuna Republike Slovenije se zagotavljajo sredstva na podlagi potrjenega letnega programa dela, finančnega načrta in na podlagi sklenjene pogodbe z generalnim sekretariatom vlade za izvedbo temeljnih funkcij dejavnosti javnega zavoda (kader, prostori, oprema). Sredstva, ki jih zavod pridobiva s prihodki in dotacijami, se praviloma namenijo za razvoj in širitev dejavnosti, predvsem za vzdrževanje premoženja.</p>
+    <p xml:id="pb32.p15" xml:lang="sl">Osnovno poslanstvo Zavoda je organiziranje in izvajanje gostinskih in drugih storitev za potrebe protokolarnih in reprezentančnih dogodkov v objektih, v katerih se izvajajo protokolarne storitve ter kakovostno redno in investicijsko vzdrževanje teh objektov in pripadajočih zemljišč (parkov, gozdov in travnikov).</p>
+    <p xml:id="pb32.p16" xml:lang="sl">Izvajanje navedenih gostinskih, vzdrževalnih in drugih storitev temelji na visoki kakovosti in profesionalnosti ter na kulturnih in zgodovinskih danostih Slovenije.</p>
+    <p xml:id="pb32.p17" xml:lang="sl">Zavod upravlja objekte, ki so kot kulturni spomenik izjemnega pomena za Republiko Slovenijo, naprave in zemljišča, v okviru katerih izvaja svoje osnovne dejavnosti.</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Osnovno vodilo pri upravljanju objektov je ohranjanje njihovega kulturnega in zgodovinskega izročila ter vzdrževanje njihove funkcionalnosti ob hkratni ohranitvi naravnih znamenitosti.</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Upravljanje objektov poteka po načelih gospodarnosti in racionalnosti ob hkratnem doseganju visoke kakovosti osnovnih dejavnosti Zavoda.</p>
+    <p xml:id="pb33.p3" xml:lang="sl">Za doseganje cilja gospodarnosti in racionalnosti pri upravljanju objektov Zavod opravlja dejavnosti tudi za druge uporabnike, ki prispevajo k odprtosti in dostopnosti objektov, v katerih se izvajajo protokolarne storitve, za javnost.</p>
+    <p xml:id="pb33.p4" xml:lang="sl">S tržno dejavnostjo ustvarjajo prihodek, ki je namenjen za vzdrževanje in razvoj objektov, v katerih se izvajajo protokolarne storitve.</p>
+    <p xml:id="pb33.p5" xml:lang="sl">Temeljna smer bodočega razvoja javnega gospodarskega zavoda Brdo je v oblikovanju, organiziranju in izvajanju visoko strokovnih in profesionalnih dejavnosti in storitev za protokolarne in reprezentančne dogodke.</p>
+    <p xml:id="pb33.p6" xml:lang="sl">JGZ Brdo mora prispevati svoj delež k uspehu protokolarnih dogodkov in k razpoznavnosti naše države. To zahteva stalen razvoj dejavnosti in storitev za dvig kakovosti, uvajanje sodobnih metod racionalne organiziranosti in uvajanje kompatibilnih dopolnilnih dejavnosti.</p>
+    <p xml:id="pb33.p7" xml:lang="sl">Upravljanje glavnih in pomožnih objektov bo usmerjeno v ohranjanje zgodovinske, kulturne in naravne dediščine z namenom funkcionalnega koriščenja za opravljanje osnovne in dopolnilnih dejavnosti ter prizadevanje za vzpostavitev primerne dostopnosti posameznih objektov za javnost, da bi približali zgodovinsko in kulturno vrednost objektov najširšemu krogu obiskovalcev.</p>
+    <p xml:id="pb33.p8" xml:lang="sl">Na podlagi dveletnih izkušenj bodo posebno pozornost še naprej namenjali uporabi objektov za izvajanje različnih kulturnih ter umetniških prireditev in s tem prispevali k obogatitvi obstoječe ponudbe kulturnih prireditev na Gorenjskem in v Sloveniji.</p>
+    <p xml:id="pb33.p9" xml:lang="sl">Na področju kongresne dejavnosti in poslovnega turizma bodo pospešeno razvijali gostinske dejavnosti in storitve, zlasti kulinariko in strežbo ter dodatne storitve, z jasno razpoznavnimi konkurenčnimi prednostmi, ki bodo temeljile na visoki kakovosti.</p>
+    <p xml:id="pb33.p10" xml:lang="sl">JGZ Brdo bo postal prepoznavni ponudnik navedenih storitev z visoko kakovostjo storitev (interni vir: Letno poročilo 2010).</p>
+    <p xml:id="pb33.p11" xml:lang="sl">5.2. STRATEŠKI CILJI JGZ BRDO</p>
+    <p xml:id="pb33.p12" xml:lang="sl">Strateške cilje JGZ Brdo bomo navedli kot:</p>
+    <p xml:id="pb33.p13" xml:lang="sl">kakovost poslovanja,</p>
+    <p xml:id="pb33.p14" xml:lang="sl">poslovne cilje in</p>
+    <p xml:id="pb33.p15" xml:lang="sl">upravljanje reprezentančnih objektov.</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">Kakovost poslovanja</p>
+    <p xml:id="pb34.p2" xml:lang="sl">Osnovni cilj nadaljnjega razvoja dejavnosti JGZ Brdo v prihodnjih petih letih je povečanje kakovosti izvajanja gostinskih dejavnosti in storitev za potrebe protokolarnih in reprezentančnih dogodkov v objektih, v katerih se izvajajo protokolarne storitve.</p>
+    <p xml:id="pb34.p3" xml:lang="sl">To bodo dosegli z dodatnim izobraževanjem in izpopolnjevanjem zaposlenih.</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Poslovni cilji</p>
+    <p xml:id="pb34.p5" xml:lang="sl">V prihodnjih petih letih bodo vsako leto povečali prihodke javne gospodarske službe za odstotek na letni ravni, tržne dejavnosti pa za dva odstotka. Ustvarjeni prihodek iz tržnih dejavnosti bodo uporabili za izvajanje vzdrževalnih del na objektih in s tem prispevali k ohranjanju naravne in kulturne dediščine teh objektov. Prav tako bodo z investiranjem dvignili kakovost obstoječe ponudbe. Z ustvarjenimi lastnimi prihodki bodo prispevali k razbremenitvi državnega proračuna.</p>
+    <p xml:id="pb34.p6" xml:lang="sl">Upravljanje reprezentančnih objektov</p>
+    <p xml:id="pb34.p7" xml:lang="sl">Pri upravljanju objektov in zemljišč bodo posebno pozornost namenjali varstvu naravne in kulturne dediščine, ki je že zaščitena s številnimi predpisi. Prizadevali si bodo za nadaljnje strokovno usmerjeno ravnanje z gozdnimi, parkovnimi in vodnimi površinami. Zato bodo razvijali samo takšne oblike dodatne ponudbe, ki ne bodo imele negativnega vpliva na obstoječe ekosisteme (interni vir: Letno poročilo 2010).</p>
+    <p xml:id="pb34.p8" xml:lang="sl">5.3. TRŽENJSKI SPLET V JGZ BRDO</p>
+    <p xml:id="pb34.p9" xml:lang="sl">Trženjski splet v JGZ Brdo bo obsegal:</p>
+    <p xml:id="pb34.p10" xml:lang="sl">storitve JGZ Brdo,</p>
+    <p xml:id="pb34.p11" xml:lang="sl">cenovno politiko JGZ Brdo,</p>
+    <p xml:id="pb34.p12" xml:lang="sl">lokacijo JGZ Brdo in</p>
+    <p xml:id="pb34.p13" xml:lang="sl">komunikacijo JGZ Brdo.</p>
+    <p xml:id="pb34.p14" xml:lang="sl">Ostale tri elemente trženjskega spleta bomo predstavili znotraj storitvenega elementa.</p>
+    <p xml:id="pb34.p15" xml:lang="sl">5.3.1. Storitve JGZ Brdo</p>
+    <p xml:id="pb34.p16" xml:lang="sl">Naravno okolje v zavetju Alp je prava izbira za protokolarna srečanja, vrhunske kongresne in konferenčne prireditve, posebne uradne in zasebne slovesnosti ter razkošje drugih doživetij.</p>
+    <p xml:id="pb34.p17" xml:lang="sl">Renesančni Grad Brdo že ves čas svojega obstoja gosti predsednike, kralje, diplomate. Tudi danes je grad med najpomembnejšimi protokolarnimi objekti Slovenije. Potrebno je omeniti, da je po drugi svetovni vojni Brdo postal letna rezidenca predsednika Josipa Broza Tita in obenem glavni protokolarni objekt nekdanje skupne države SFRJ.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">Na posestvu Brdo pa se poleg dvorca v nekaj več kot 70 hektarov velikem parku nahajajo tudi:</p>
+    <p xml:id="pb35.p2" xml:lang="sl">hotel Kokra s štirimi zvezdicami,</p>
+    <p xml:id="pb35.p3" xml:lang="sl">elitna restavracija Zois,</p>
+    <p xml:id="pb35.p4" xml:lang="sl">sodobni Kongresni center Brdo,</p>
+    <p xml:id="pb35.p5" xml:lang="sl">nekdanja Zoisova oranžerija,</p>
+    <p xml:id="pb35.p6" xml:lang="sl">koča Jezero,</p>
+    <p xml:id="pb35.p7" xml:lang="sl">Račji otok,</p>
+    <p xml:id="pb35.p8" xml:lang="sl">hipodrom z vadiščem za golf in</p>
+    <p xml:id="pb35.p9" xml:lang="sl">konjeniški center Brdo.</p>
+    <p xml:id="pb35.p10" xml:lang="sl">Prijazno osebje, ki skrbi za najvišje državniške obiske, prijeten ambient, dovršena ponudba so le nekateri razlogi za organizacijo dogodka na Brdu.</p>
+    <p xml:id="pb35.p11" xml:lang="sl">Poleg protokolarnih obiskov pa se na Brdu preko celega leta odvija vrsta najrazličnejših dogodkov tržne narave. V prvem obdobju samostojnosti Slovenije so protokolarni dogodki predstavljali najpomembnejšo aktivnost na Brdu. Od leta 2008 pa imajo predvsem po zaslugi novozgrajenega kongresnega centra Brdo vedno večjo pozornost številčni tržni dogodki. Na protokolarnih dogodkih večino dela opravi protokol, medtem ko morajo pripravo in izvedbo tržnega dogodka izpeljati zaposleni na Brdu.</p>
+    <p xml:id="pb35.p12" xml:lang="sl">V preteklosti je v veliki meri izvajanje vseh ostalih dejavnosti omejevalo protokolarno dogajanje na Brdu, saj je bila posest v primeru protokolarnega obiska za zunanjo javnost vedno povsem zaprta. Danes se celotna posest za druge obiskovalce zapre le ob izjemnih obiskih, ki so navadno povezani s posebno strogimi režimi varovanja domačih in gostujočih oseb. Ti dogodki so skoraj vedno napovedani vsaj nekaj mesecev vnaprej. Pri večini protokolarnih dogodkov pa je zavarovana neposredna okolica objekta, v katerem poteka dogodek, parkovne površine in ostali objekti pa so na voljo za druge dejavnosti in uporabnike.</p>
+    <p xml:id="pb35.p13" xml:lang="sl">Dodatna neprijetnost ob sovpadanju dneva in časa izvedbe tržnega in protokolarnega dogodka je, da se izvedba dela protokolarnih dejavnosti (tiskovna konferenca) vse pogosteje seli v kongresni center, kjer prav tako protokol ohranja prednostno mesto. Zaradi tega razloga morajo naročniki vseh tržnih dogodkov na vseh lokacijah ob potrditvi svojega dogodka vedno računati s tveganjem, da utegne biti njihov dogodek zaradi protokolarnega obiska odpovedan. V primeru odpovedi pa JGZ Brdo naročniku po svojih močeh pomaga pri iskanju nadomestne lokacije, če je le mogoče znotraj svojih zmogljivosti, sicer pa drugje. O tem riziku odpovedi je seznanjen vsak naročnik takoj po poslanem povpraševanju o možnosti izvedbe dogodka na Brdu.</p>
+    <p xml:id="pb35.p14" xml:lang="sl">Tržne dogodke, ki potekajo na Brdu, lahko po njihovi naravi razdelimo v več skupin:</p>
+    <p xml:id="pb35.p15" xml:lang="sl">kongresni dogodki: seminarji, posveti, konference, izobraževanja,</p>
+    <p xml:id="pb35.p16" xml:lang="sl">poslovni dogodki: razgovori, sestanki podjetij oziroma delovnih skupin, delovna kosila in večerje, sprejemi, nastanitev gostov,</p>
+    <p xml:id="pb35.p17" xml:lang="sl">uradni družabni dogodki: koncerti, dobrodelni koncerti in plesi, prednovoletna srečanja, praznovanja obletnic in posebnih dosežkov podjetij,</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">zasebni družabni dogodki: praznovanje osebnih jubilejev, porok, obletnic v obliki slavnostnih kosil in večerij, piknikov,</p>
+    <p xml:id="pb36.p2" xml:lang="sl">individualne ali skupinske aktivnosti: vodeni ogledi posesti, individualna ali organizirana vadba golfa, vožnje s kočijo ali sanmi, opazovanje divjadi, športni ribolov, sprostitvena ponudba Vrelca Brdo in</p>
+    <p xml:id="pb36.p3" xml:lang="sl">koriščenje nastanitvenih zmogljivosti hotela Kokra.</p>
+    <p xml:id="pb36.p4" xml:lang="sl">Zavod v okviru gospodarske javne službe opravlja storitve na področju kulinarike, strežbe, nastanitev in hortikulturne ureditve za potrebe reprezentančnih in protokolarnih dogodkov. Za izvedbo dogodkov javnih služb se uporabljajo naslednje lokacije: grad Brdo, grad Strmol, vila Podrožnik, vladna palača, Restavracija Zois, Račji otok, Vila Zlatorog, Koča Jezero in Hotel Kokra.</p>
+    <p xml:id="pb36.p5" xml:lang="sl">Večina dogodkov iz naslova javnih služb se odvija v Kongresnem centru, kjer se je odvijala tudi večina dogodkov med polletnim predsedovanjem EU. V Gradu Brdo pa se odvijajo protokolarni dogodki na najvišji ravni. JGZ Brdo je s pridobitvijo Kongresnega centra leta 2008 še dodatno definiralo ciljno tržišče – to je poslovni turizem. Lokacija, bližina letališča in glavnega mesta, avtocestne povezave in bližina mejnih prehodov, visok nivo storitev, bogata dodatna ponudba in dovolj parkirnih mest so elementi, ki so pomembni tako za domači kot tuji poslovni turizem. Poleg kongresov, seminarjev, izobraževanj, ki se sedaj v večini odvijajo v sodobno tehnično opremljenih dvoranah Kongresnega centra, pa je Brdo izvrstna lokacija tudi za izvedbo osebnih jubilejev, praznovanj, srečanj in kulturnih dogodkov.</p>
+    <p xml:id="pb36.p6" xml:lang="sl">Tržna dejavnost je večkrat omenjena zaradi njihovega osnovnega poslanstva – organizacije in izvedbe protokolarnih dogodkov. Omejena pa je tudi zaradi nizke kapacitete namestitev v primerjavi s kapaciteto dvoran in njune soodvisnosti, zaradi slabe prepoznavnosti na trgu kot ponudnik storitev za tržno dejavnost in nenazadnje zaradi netipične turistične destinacije. Na odločitev tržnih naročnikov, da dogodek izpeljejo na Brdu, pa imajo večjo težo pozitivni kot negativni elementi, zato se je obseg tržne dejavnosti v zadnjih dveh letih povečal in bistveno prispeva k temu, da zavod tudi sam lahko krije pomemben del stroškov vzdrževanja premoženja, s katerim upravlja.</p>
+    <p xml:id="pb36.p7" xml:lang="sl">V letu 2010 je bilo čutiti znaten upad pri organizaciji in izvedbi poslovnih dogodkov in sedaj tržni dogodki vrednostno predstavljajo kar 80 % delež vseh dogodkov (interni vir: Program dela in finančni načrt za leto 2011).</p>
+    <p xml:id="pb36.p8" xml:lang="sl">Kongresna ponudba na Brdu obsega kongresne kapacitete, tj. prostore, namenjene za potek srečanj s pripadajočo avdiovizualno opremo, namestitvene kapacitete, kulinariko, storitve, pa tudi sam ambient destinacije in okolje v kraju.</p>
+    <p xml:id="pb36.p9" xml:lang="sl">Kongresne in namestitvene kapacitete</p>
+    <p xml:id="pb36.p10" xml:lang="sl">Za potrebe slovenskega predsedovanja svetu EU je bil na Brdu zgrajen nov, moderen Kongresni center Brdo. Kongresni center Brdo razpolaga z okoli 9000 m2 uporabnih površin in velja za enega najsodobnejših tovrstnih objektov v Sloveniji.</p>
+    <p xml:id="pb36.p11" xml:lang="sl">Poleg štirih večjih dvoran z različnimi posebnostmi se v njem nahajajo še štiri manjše delovne sejne sobe, od katerih vsaka sprejme do deset ljudi, in 20 delovnih mest za delo posameznikov. Kongresni center ponuja vse najsodobnejše pripomočke za multimedijsko delo ter povsod brezžični in brezplačni dostop do spletnih povezav. S postavitvami notranje opreme je mogoče prostore prilagajati različnim zahtevam kongresov, konferenc, seminarjev, poslovnih srečanj in drugih dogodkov.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">Dvorane kongresnega centra so poimenovane po kačjih pastirjih, eni od naravnih posebnosti posestva Brdo.</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Dvorana Grandis je največja dvorana kongresnega centra, s 558 m2 pa je primerna za izvedbo najrazličnejših dogodkov. Poleg konferenc, seminarjev in kongresov lahko v njej organizirate tudi koncert, ples, različne predstave, družabne in svečane dogodke. Dvorana je opremljena tudi z dvanajstimi fiksnimi kabinami za tolmačenje.</p>
+    <p xml:id="pb37.p3" xml:lang="sl">Dvorano Splendens v velikosti 292 m2 odlikuje obilica dnevne svetlobe. Nahaja se v pritličju kongresnega centra, ima čudovit pogled na park Brdo in izhod na odprto teraso. Dvorana ima možnost uporabe prenosnih kabin za tolmačenje. Prostor je primeren za izvedbo različnih zasedanj, seminarjev, tiskovnih konferenc in predstavitev, v njem pa lahko organizirate tudi različne svečane dogodke s pogostitvijo in glasbo ter plesom.</p>
+    <p xml:id="pb37.p4" xml:lang="sl">Dvorana Heros se nahaja v kletni etaži kongresnega centra, njena velikost pa je 272 m2. S predelnimi stenami jo je možno pregraditi v dve, tri ali štiri manjše dvorane. Dvorana ima možnost uporabe prenosnih kabin za tolmačenje. Dvorana ima izhod na manjšo pokrito teraso.</p>
+    <p xml:id="pb37.p5" xml:lang="sl">Steklena dvorana z obilo dnevne svetlobe ponuja čudovit pogled na naravo parka Brdo. S pregradnimi stenami jo je mogoče prilagoditi za različno velika srečanja.</p>
+    <p xml:id="pb37.p6" xml:lang="sl">Njena skupna velikost je 213 m2. Zaradi možnosti prilagajanja velikosti dvorane, je le-ta zelo primerna za delo v skupinah oziroma številčno majhne dogodke.</p>
+    <p xml:id="pb37.p7" xml:lang="sl">V prvem nadstropju kongresnega centra se nahajajo štiri steklene delovne sejne sobe s čudovitim pogledom na park Brdo. Primerne so za sestanke do deset oseb oziroma za delo po skupinah.</p>
+    <p xml:id="pb37.p8" xml:lang="sl">V pritličju kongresnega centra se nahaja prostoren aperitiv bar s številnimi separeji, kjer v času dogodkov lahko postrežejo s hladnimi in toplimi napitki.</p>
+    <p xml:id="pb37.p9" xml:lang="sl">V avli kongresnega centra lahko pripravijo različne oblike pogostitev (ob prihodu, v odmorih, kosilo ali večerja v obliki stoječega hladno-toplega bifeja oziroma finger food-a).</p>
+    <p xml:id="pb37.p10" xml:lang="sl">Prostor je primeren tudi za fototermin, postavitev razstavnih površin ali zbiranje udeležencev pred začetkom dogodka.</p>
+    <p xml:id="pb37.p11" xml:lang="sl">Recepcijski pult (INFO) je namenjen posredovanju informacij udeležencem dogodkov. Uporabiti ga je možno tudi kot registracijski prostor za udeležence dogodkov oziroma garderobo v primeru organizacije dogodka z največ nekaj deset udeleženci.</p>
+    <p xml:id="pb37.p12" xml:lang="sl">V objemu lepo urejenega parka ob vhodu na posestvo Brdo se nahaja hotel Kokra.</p>
+    <p xml:id="pb37.p13" xml:lang="sl">Hotel s štirimi zvezdicami ima 60 dvoposteljnih in šest enoposteljnih sob, od katerih so tri prilagojene invalidom, enajst apartmajev in predsedniški apartma.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">Poleg prijetno opremljenih sob in vrhunskih storitev izkušenega osebja predstavljata posebno privlačnost hotela Kokra sprostitveni center Vrelec ter hotelska restavracija, kjer mojstri poskrbijo za pristna kulinarična doživetja.</p>
+    <p xml:id="pb38.p2" xml:lang="sl">Hotel pa je v zadnjem obdobju usmerjen predvsem v poslovno-kongresni turizem, saj ponuja izvrstne možnosti za organiziranje konferenc, predavanj, seminarjev, posvetovanj, poslovnih srečanj in sestankov, predstavitev, slavnostnih kosil in večerij, družabnih srečanj in praznovanj.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">V hotelu sta na voljo tudi dve konferenčni dvorani. Opremljeni sta z vrhunsko tehnično opremo in zagotavljata visok nivo izvedbe najrazličnejših poslovnih dogodkov: konferenc, simpozijev, predstavitev, seminarjev, delavnic idr. za različno velike skupine.</p>
+    <p xml:id="pb38.p4" xml:lang="sl">Konferenčna dvorana Elegans se nahaja v prvem nadstropju hotela in ima površino 230 m2. Za večje dogodke jo je mogoče združiti s sosednjo dvorano Virgo. V primeru organizacije mednarodnih dogodkov je v dvorani možna uporaba fiksnih kabin za tolmačenje.</p>
+    <p xml:id="pb38.p5" xml:lang="sl">Dvorana Virgo je manjša dvorana, ki se nahaja v prvem nadstropju hotela, ima površino 68 m2. Sestoji iz konferenčnega dela in z rastlinjem zasajenega zimskega vrta. Za večje dogodke jo je mogoče združiti s sosednjo dvorano Elegans.</p>
+    <p xml:id="pb38.p6" xml:lang="sl">VIP salon je manjši prostor v pritličju hotela, ki je zelo primeren za izpeljavo pomembnega razgovora ali sestanka.</p>
+    <p xml:id="pb38.p7" xml:lang="sl">Renesančni grad Brdo je bil zgrajen že v začetku 16. stoletja. Na njem so bivale slovite plemiške družine, med katerimi je še posebej pomembna rodbina Zois, tu so slavne goste prejemali vladarji, kakršni so bili Karadjordjevići ali po drugi svetovni vojni Josip Broz Tito. Tudi danes je med najpomembnejšimi protokolarnimi objekti Slovenije in gosti predsednike, kralje in diplomate. Grad ima čudovito notranje dvorišče in teraso s pogledom na izjemni grajski park.</p>
+    <p xml:id="pb38.p8" xml:lang="sl">Restavracija Zois je eliten kulturni spomenik in nosi ime po plemiški družini, ki je bila skoraj dvesto let lastnica posestva Brdo. Restavracija je primerna za slavnostna in poslovna kosila ali večerje, podpisovanje pogodb, sprejeme ali preprosto za izbrana doživetja ob odlični kulinariki.</p>
+    <p xml:id="pb38.p9" xml:lang="sl">Na enem od enajstih brdskih jezerc je prav poseben otok. Tu race in labodi delajo družbo tistim, ki pridejo na Račji otok na drugačen piknik, na prav posebno poročno ali kakšno drugo slavje, na prijetno druženje z vrhunsko kulinariko sredi narave. Lesen paviljon, brunarica s pokrito teraso in gostinske zmogljivosti zagotavljajo popolne užitke. Otok lahko gosti do 150 ljudi, na voljo je do 100 sedežev.</p>
+    <p xml:id="pb38.p10" xml:lang="sl">Ob drugemu od enajstih jezerc v parku Brdo se nahaja Koča Jezero. Primerna je za zasebna praznovanja ali poslovne pogostitve do deset gostov. Poleti je mogoče srečanje začeti z aperitivom na terasi pred kočo. Koča Jezero je s svojo rahlo prikrito in odmaknjeno lego odlična izbira za tiste pomembne trenutke, ko se želi ohranjati poslovno in zasebno diskretnost.</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">Storitve in dodatna ponudba</p>
+    <p xml:id="pb39.p2" xml:lang="sl">Posestvo pa ponuja tudi širok izbor dodatnih storitev. Pri tem bi izpostavili aktivnosti v parku Brdo, kot so vodeni ogledi, vadba golfa, ribolov, fotolov, jahanje in vožnja s kočijo ali sanmi.</p>
+    <p xml:id="pb39.p3" xml:lang="sl">Možno je najeti tudi kolo in se popeljati v naravo. Tistim, ki se radi razvajajo malo drugače, je v hotelu Kokra namenjen aperitiv bar. Bogata ponudba dišečih čajev in na Brdu izdelanih slaščic so krasna spremljava klepetov. V njihovi slaščičarni pripravljeni ročno izdelani pralineji so dober izbor tudi za darilo, ki ga gostje odnesejo domov po zaključku srečanja.</p>
+    <p xml:id="pb39.p4" xml:lang="sl">Park Brdo, bogastvo narave, s svojimi brezhibno urejenimi parkovnimi površinami je prava zakladnica kranjske aristokratske zgodovine. Za udeležence dogodka organizirajo tudi voden ogled parka in po dogovoru tudi gradu Strmol, ki se nahaja v Dvorjah pri Cerkljah. Le-ta je bil leta 2004 razglašen za kulturni spomenik državnega pomena, s svojo lepoto pa se ponaša grajski park z jezerom.</p>
+    <p xml:id="pb39.p5" xml:lang="sl">V sklopu dogodka lahko pripravijo tudi popestritev za udeležence ter jih naučijo osnov golfa. Na vadišču za golf z udarjališčem za dolgo igro ter na dve zelenici za bližanje in kratko igro organizirajo vadbo z izkušenim inštruktorjem ter izposojajo vadbene komplete.</p>
+    <p xml:id="pb39.p6" xml:lang="sl">Udeleženci različnih srečanj si lahko park in posestvo ogledajo s kočijo, v zimskem času pa s sanmi. Izkušeni jahači se v spremstvu osebja podajo na terensko jahanje in občudujejo posestvo z drugačne perspektive.</p>
+    <p xml:id="pb39.p7" xml:lang="sl">Približno 500 hektarjev veliko ograjeno območje navduši vsakega gosta. Pregleden borov gozd prekinja preko 20 travnatih površin namenjenih paši in lovu divjadi. V lovišču organizirajo opazovanje divjadi – fotolov. Za opazovalce je na voljo tudi strokovni sodelavec za divjad.</p>
+    <p xml:id="pb39.p8" xml:lang="sl">Sprehod ali tek po parku je sproščujoč in navdihujoč. Na posestvu je konjeniško- turistični center s hipodromom, kjer se lahko izkoristijo ure jahanja.</p>
+    <p xml:id="pb39.p9" xml:lang="sl">Ribiči lahko ribarijo v treh jezerih, lovce pa očara 420 hektarov veliko ograjeno lovišče z navadnim jelenom, jelenom damjakom in muflonom.</p>
+    <p xml:id="pb39.p10" xml:lang="sl">Poleg aktivnosti v parku pa bi dodali še, da je ob več dnevnih dogodkih možno ponuditi udeležencem dogodkov tudi sprostitev v wellness centru Vrelec Brdo. V prostorih z mističnim poslikavami in mozaiki goste med dišavami eteričnih olj, v soju sveč in ob spremljavi nežne glasbe čaka nepozabna sprostitev. Na prostornih 700 m2 se vrstijo turška in finska savna, sproščujoče kopeli, masažni in hladilni bazen ter prijetna počivalnica. Gostje lahko izbirajo med različnimi masažami in negami telesa ter sprostitvenim in negovalnimi programi za posameznike in pare.</p>
+    <p xml:id="pb39.p11" xml:lang="sl">Gostom so na voljo tudi fitnes storitve znotraj wellness centra Vrelec.</p>
+    <p xml:id="pb39.p12" xml:lang="sl">Kulinarika</p>
+    <p xml:id="pb39.p13" xml:lang="sl">Pomemben del vsakega dogodka je tudi kulinarična ponudba. Zato le-tej na Brdu že vrsto let posvečajo še posebno pozornost. Poleg klasične pogostitve med odmori, ki jo lahko popestrijo s kanapeji, obloženimi kruhki, finger foodom ter prisotnostjo kuharjev na samem dogodku pa je za njih pomembno, da organizatorju že v samem začetku organizacije dogodka svetujejo obliko pogostitve glede na vrsto dogodka, trajanje le-tega ter nenazadnje strukturo in narodnost gostov bodisi, da gre za seminar ali srečanje z svečano banketno pogostitvijo. Za vsak dogodek posebej pripravijo več predlogov menuja ter ustrezen izbor vin. Pri sami pogostitvi pa prisluhnejo tudi željam organizatorjev in poskrbijo da so stoli, mize in pogrinjki tematsko usklajeni z dogodkom. Pika na i so njihove cvetlične in druge dekoracije, ki jih pripravijo v lastni cvetličarni.</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">Tako lahko pripravijo različne pogostitve na različnih lokacijah, in sicer:</p>
+    <p xml:id="pb40.p2" xml:lang="sl">v restavraciji hotela Kokra, ki sprejme do 250 oseb, lahko pripravijo strežen obrok ali hladno-topli bife.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">V restavraciji Zois, ki sprejme do 80 oseb, lahko pripravijo strežen obrok ali hladno-topli bife.</p>
+    <p xml:id="pb40.p4" xml:lang="sl">V Koči Jezero, ki sprejme do deset oseb, lahko pripravijo strežen obrok.</p>
+    <p xml:id="pb40.p5" xml:lang="sl">Na Račjem otoku, ki sprejme do 150 oseb, lahko pripravijo hladno-topli bife na prostem sredi narave.</p>
+    <p xml:id="pb40.p6" xml:lang="sl">Kot dopolnitev pa lahko hladno-topli bife ali strežen obrok pripravijo tudi v eni izmed dvoran v Kongresnem centru.</p>
+    <p xml:id="pb40.p7" xml:lang="sl">5.3.2. Cenovna politika JGZ Brdo</p>
+    <p xml:id="pb40.p8" xml:lang="sl">Organizatorji dogodkov upoštevajo cene namestitev, najem dvoran in avdiovizualne opreme, gostinske storitve, storitve pomoči pri organizaciji in svetovanje ter dodatne storitve. Te cene vplivajo na stroške, ki jih bodo imeli z organizacijo dogodka.</p>
+    <p xml:id="pb40.p9" xml:lang="sl">Za izvedbo protokolarnih dogodkov je izdelan poseben cenik, cenik za javne službe. Ta cenik se uporablja za vse državne organe. Tako na Brdu obstajata dva različna cenika, in sicer za tržno dejavnost ter za javni sektor.</p>
+    <p xml:id="pb40.p10" xml:lang="sl">Cene namestitve</p>
+    <p xml:id="pb40.p11" xml:lang="sl">Goste lahko namestijo v enoposteljnih ali dvoposteljnih sobah in apartmajih. V hotelu se nahaja tudi predsedniški apartma. Cene se gibljejo od 105 € - 468 €.</p>
+    <p xml:id="pb40.p12" xml:lang="sl">Cene najema kongresnih kapacitet</p>
+    <p xml:id="pb40.p13" xml:lang="sl">Cena najema kongresne dvorane je odvisna predvsem od velikosti dvorane.</p>
+    <p xml:id="pb40.p14" xml:lang="sl">V Kongresnem centru Brdo so na voljo štiri različno velike dvorane ter sejne sobe in delovna mesta za delo posameznikov. Tako se cene gibljejo od 130 € za delovno mesto do 2.300 € za največjo dvorano.</p>
+    <p xml:id="pb40.p15" xml:lang="sl">Hotel Kokra pa razpolaga z dvema konferenčnima dvoranama, ki ju je možno združiti. Cena za manjšo dvorano znaša 330 €, večja pa 680 €. Te cene veljajo za tržno dejavnost.</p>
+    <p xml:id="pb40.p16" xml:lang="sl">Cene najema tehnične opreme</p>
+    <p xml:id="pb40.p17" xml:lang="sl">Najem osnovne tehnične opreme (ozvočenje, projektor in platno, flip chart, šest namiznih ter dva prenosna mikrofona) je vključen v ceno najema dvorane. Vso ostalo dodatno opremo pa zaračunavajo po ceniku.</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">Cene organizacije in svetovanja Pomoči in svetovanja ne zaračunajo.</p>
+    <p xml:id="pb41.p2" xml:lang="sl">Cene gostinskih storitev</p>
+    <p xml:id="pb41.p3" xml:lang="sl">Pripravijo lahko sedeči ali stoječi hladno-topli bife, katerega cene se gibljejo od 45 € do 65 € na osebo. Dnevni menu stane 18 € na osebo, bogatejši menu pa od 30 € na osebo naprej. Cene slavnostne večerje se gibljejo med 40 € in 60 € na osebo.</p>
+    <p xml:id="pb41.p4" xml:lang="sl">Te cene veljajo za tržno dejavnost.</p>
+    <p xml:id="pb41.p5" xml:lang="sl">Pijača ni vključena v ceno menujev in jo zaračunavajo po porabi, hrano pa po vnaprej naročenem številu oseb in ne po porabi.</p>
+    <p xml:id="pb41.p6" xml:lang="sl">Cene dodatnih storitev</p>
+    <p xml:id="pb41.p7" xml:lang="sl">Cene se obračunavajo po ceniku dodatne ponudbe, welness storitve pa po posebnem ceniku, ki velja v Vrelcu Brdo.</p>
+    <p xml:id="pb41.p8" xml:lang="sl">Popusti</p>
+    <p xml:id="pb41.p9" xml:lang="sl">Popuste za namestitev (do 30 %) ter pri najemu kongresnih kapacitet (do 50 %) nudijo nekaterim stalnim naročnikom, s katerimi imajo podpisano pogodbo. 15 % popust pa pripada gostom hotela, ki rezervirajo preko rezervacijskih portalov. Pri večji rezervaciji sob pa vodja hotela lahko dodeli poseben popust.</p>
+    <p xml:id="pb41.p10" xml:lang="sl">Javni sektor ima, kot že prej omenjeno, poseben cenik.</p>
+    <p xml:id="pb41.p11" xml:lang="sl">5.3.3. Lokacija JGZ Brdo</p>
+    <p xml:id="pb41.p12" xml:lang="sl">Dobrih 30 km od slovenskega glavnega mesta in le deset km od osrednjega slovenskega mednarodnega letališča, se v podeželski okolici ob vznožju gora nahaja približno 480 hektarov veliko posestvo.</p>
+    <p xml:id="pb41.p13" xml:lang="sl">Celotno območje Brda je tudi uvrščeno med področja Natura 2000, gozdovi pa so razglašeni za gozdove s posebnim namenom.</p>
+    <p xml:id="pb41.p14" xml:lang="sl">Kot smo že omenili, je park Brdo, bogastvo narave, ki je s svojimi brezhibno urejenimi parkovnimi površinami, prava zakladnica kranjske aristokratske zgodovine. Naravno okolje v zavetju Alp pa navduši vsakega gosta. Pregleden borov gozd prekinja preko 20 travnatih površin namenjenih paši in lovu divjadi.</p>
+    <p xml:id="pb41.p15" xml:lang="sl">5.3.4. Komuniciranje v JGZ Brdo</p>
+    <p xml:id="pb41.p16" xml:lang="sl">Zavod je financiran iz državnega proračuna, zato o oglaševanju storitev v klasičnem pomenu težko govorimo. Zavod v veliki meri uporablja naslove naročnikov za pošiljanje direktne pošte, organizira dneve odprtih vrat za obstoječe in nove naročnike. V zadnjem času pa se kot eno močnejših orodij uporablja vse bolj uveljavljene spletne strani ter v zadnjih treh letih program koncertov ARS Brdo.</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">V JGZ Brdo opažajo, da je vedno več neposrednega povpraševanja, pri čemer igra pomembno vlogo internet. Potencialni naročniki si na spletu ogledajo ponudbo in jih nato neposredno kontaktirajo, jim pošljejo povpraševanje. Prav zato, dajejo na Brdu oblikovanju lastne spletne strani velik poudarek.</p>
+    <p xml:id="pb42.p2" xml:lang="sl">Zavod je pred kratkim obnovil spletno stran ter sodeluje pri pripravi publikacij in prospektov z različnimi oblikovalci in oglaševalskimi agencijami. Najbolj uporabno sredstvo za promocijo so prospekti, ki so namenjeni uporabnikom storitev. S pomočjo fotografij, ilustracij in besedila navdušujejo in privabljajo naročnike.</p>
+    <p xml:id="pb42.p3" xml:lang="sl">Spletno trženje je tudi v primeru zavoda vse bolj uporabna različica tržnega komuniciranja. Spletno stran si je mogoče ogledati v dveh jezikih, ki jo nenehno posodabljajo, da gostje čim hitreje in preprosteje pridobijo vse informacije z vizualno predstavo o Javnem gospodarskem zavodu Brdo. Spletna stran omogoča tudi spletno rezervacijo in povpraševanje, na katerega odgovorijo s specifično ponudbo. Rezervacijski obrazec je zelo pregleden in prijazen do uporabnika.</p>
+    <p xml:id="pb42.p4" xml:lang="sl">Do spletne strani je možen neposredni dostop prek spletnih naslovov www.brdo.si in www.brdo.com. Vsekakor pa bo obisk še višji s sprotno optimizacijo spletne strani in na Brdu skrbijo, da Brdo obiskovalcem pogosto na voljo sveže in zanimive vsebine.</p>
+    <p xml:id="pb42.p5" xml:lang="sl">V okviru zavoda pa se pripravlja nova naravoslovna učna pot za učence in obenem vzpostavitev stika s šolami in oblikovanje aranžmajev za šole.</p>
+    <p xml:id="pb42.p6" xml:lang="sl">Za pridobivanje novih naročnikov so v letu 2010 poslali predstavitveno ponudbo večjim slovenskim podjetjem, različnim športnim reprezentancam in športnim klubom, agencijam, ki organizirajo dogodke, multinacionalkam s sedežem v Sloveniji in podjetjem v bližnji in širši okolici. Podrobneje so svojo ponudbo v obliki prezentacije v programu Power point predstavili oglaševalskim agencijam, ki pripravljajo dogodke za svoje naročnike.</p>
+    <p xml:id="pb42.p7" xml:lang="sl">Že tretje leto so izvajali dogodke v okviru blagovne znamke ARS Brdo. Osnovni namen je predstavitev kulturnih dogodkov širši populaciji, hkrati pa je to poleg interneta njihova najpomembnejša oblika promocije. Skozi organizacijo programa ARS potencialnim naročnikom najlažje predstavijo svoje storitve od tehnične postavitve, opremljenosti dvoran, hišne kulinarike, strežbe in izdelkov njihove floristike. Program obsega glasbene dogodke pod nazivom AEDA in likovni dogodek pod nazivom APEL. Program so oglaševali v časopisu Dnevnik in Gorenjski glas ter na Radiu Kranj.</p>
+    <p xml:id="pb42.p8" xml:lang="sl">Kar se drugih oglaševalskih aktivnosti tiče, so bili v letu 2010 prisotni na spletni strani sloveniaholidays.com. Prisotni so bili v prilogi Poslovni turizem (Delo in Nedelo), v prilogi Poslovni turizem (Finance), v Dnevniku ter v katalogu Creatoor.</p>
+    <p xml:id="pb42.p9" xml:lang="sl">Na Letališču Jožeta Pučnika pa s hotelsko zgibanko skušajo privabiti tudi predvsem poslovne goste.</p>
+    <p xml:id="pb42.p10" xml:lang="sl">Temeljni cilji pri nadaljnjem razvoju tržne dejavnosti so sledeči:</p>
+    <p xml:id="pb42.p11" xml:lang="sl">povečati prepoznavnost storitve na domačem in tujem trgu (na sejmih, kjer se prestavijo ponudniki kongresnega turizma doma in v tujini, prisotnost na različnih spletnih domenah);</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">nadgraditi poslovne ponudbe, v katerih naročnika prepričajo, da je lokacija in storitev za izvedbo dogodka najboljša (njihove ponudbe niso tipske, temveč vsaka ponudba predstavlja ponudbo »A la carte«. Najpomembnejše je začutiti in definirati želje in potrebe naročnika, pravilno izpostaviti prednosti in na osnovi teh informacij izoblikovati ponudbo, ki bo naročnika prepričala);</p>
+    <p xml:id="pb43.p2" xml:lang="sl">vzpostaviti svetovalno prodajni pristop in nadgraditi bolj oseben odnos z naročnikom (izjemno je pomemben individualni pristop. Naročnika je potrebno opozoriti na vse pasti, ki se lahko pripetijo ob dogodku in mu svetovati, kako se neprijetnostim lahko izogne. Vložiti je potrebno vse napore, da je z izvedbo dogodka zadovoljen. Predvsem v trenutnem obdobju recesije in ob izjemni konkurenci tovrstnih ponudnikov na trgu je težko pridobiti nove naročnike, še težje pa je obstoječe obdržati);</p>
+    <p xml:id="pb43.p3" xml:lang="sl">posodobiti, nadgraditi in bolje izkoristiti spletno stran, ki je njihovo najpomembnejše komunikacijsko orodje (glede na to, da na trgu ne morejo nastopati z aktivnim tržnim komuniciranjem v tolikšni meri, kot to počne njihova konkurenca, predstavlja spletna stran njihovo najpomembnejše komunikacijsko orodje. Natančno morajo spremljati in reagirati na trende, analize in napotke, ki definirajo njihove ciljne internetne uporabnike);</p>
+    <p xml:id="pb43.p4" xml:lang="sl">Več pozornosti nameniti direktnemu marketingu (aktivna prodajna politika narekuje vrsto sprememb, ugodnosti, akcij in novosti v ponudbi njihovim naročnikom, zato jih skušajo o teh nenehno obveščati skozi različne kanale direktnega komuniciranja kot je direktna pošta, vabila na posebne dogodke ipd. Na ta način naročnikom več čas pošiljajo dražljaje, ki jih opozarjajo na njihovo prisotnost);</p>
+    <p xml:id="pb43.p5" xml:lang="sl">izboljšati in posodobiti kulinarično ponudbo glede na sodobne trende;</p>
+    <p xml:id="pb43.p6" xml:lang="sl">vzpostaviti nove aktivnosti na področju prepoznavnosti hotela Kokra kot samostojnega tržnega prodajnega produkta;</p>
+    <p xml:id="pb43.p7" xml:lang="sl">vzpostaviti trženje dopolnilnih hotelskih dejavnosti (Vrelec Brdo) (interni vir: letno poročilo 2010).</p>
+    <p xml:id="pb43.p8" xml:lang="sl">Na področju prepoznavnosti na domačem tržišču bodo posodobili podatke na pomembnih spletnih mestih.</p>
+    <p xml:id="pb43.p9" xml:lang="sl">V JGZ Brdo se posvetijo vsakemu dogodku od rezervacije do končne izvedbe in prav osebni pristop do stranke je nemalokrat nagrajen s pisno zahvalo in ponovno vrnitvijo naročnika.</p>
+    <p xml:id="pb43.p10" xml:lang="sl">V prodajnem trženju vodijo tudi poročila o vseh dogodkih. Iz teh poročil lahko razberemo koliko dogodkov je bilo v posameznem obdobju, kakšen značaj ima dogodek, kakšno je število udeležencev ter kje se dogodki vršijo.</p>
+    <p xml:id="pb43.p11" xml:lang="sl">V spodnji tabeli je prikazana zasedenost dvoran v letu 2009 in 2010, glede na javne službe in tržne naročnike.</p>
+    <p xml:id="pb43.p12" xml:lang="sl">DOGODKI JS DOGODKI TD DOGODKI SKUPAJ</p>
+    <p xml:id="pb43.p13" xml:lang="sl">Poslovna enota 2009 2010 2009 2010 2009 2010</p>
+    <p xml:id="pb43.p14" xml:lang="sl">BRDO 734 566 946 902 1.680 1.468 LJUBLJANA 742 745 0 1 742 746 SKUPAJ 1476 1311 946 903 2422 2214</p>
+    <p xml:id="pb43.p15" xml:lang="sl">Tabela 1: zasedenost dvoran v letu 2009 in 2010 (interni vir JGZ Brdo: letno poročilo 2010)</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">Glede na leto 2009 je bilo v letu 2010:</p>
+    <p xml:id="pb44.p2" xml:lang="sl">9 % manj dogodkov (11 % manj protokolarnih in 5 % manj komercialnih dogodkov);</p>
+    <p xml:id="pb44.p3" xml:lang="sl">3 % manj števila gostov (15 % manj protokolarnih, vendar 8 % več komercialnih gostov );</p>
+    <p xml:id="pb44.p4" xml:lang="sl">približno 1.000 € manj prometa;</p>
+    <p xml:id="pb44.p5" xml:lang="sl">8 % več prometa z uporabo dvoran;</p>
+    <p xml:id="pb44.p6" xml:lang="sl">9 % manj ponudb vendar tudi 37 % manj stornacij.</p>
+    <p xml:id="pb44.p7" xml:lang="sl">Od skupnega števila dogodkov v letu 2010 je bilo iz naslova javnih služb 59 %, tržnih pa 41 %, vendar pa je po vrednosti delež prometa tržnih naročnikov 80 %, javnih služb pa 20 %. Javne službe dosegajo večji promet z večkratnimi dogodki, tržni naročniki praviloma z enkratnimi dogodki.</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Tako smo ugotovili, da so naročniki poslovnih dogodkov pri njihovi izvedbi veliko bolj previdni in varčni.</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">6. ANALIZA IN RAZISKAVA 6.1. UVOD IN CILJI RAZISKAVE</p>
+    <p xml:id="pb45.p2" xml:lang="sl">V diplomski nalogi smo želeli raziskati in najti pomanjkljivosti kongresne ponudbe in njenega trženja ter ugotoviti zadovoljstvo naročnikov, ki so izvedli dogodek na Brdu pri Kranju. Anketo smo poslali stotim naročnikom, ki so nameravali izvesti oziroma so izvedli dogodek na Brdu pri Kranju. V desetih dneh smo prejeli 52 anket, od tega je bilo 36 anket pravilno rešenih. Majhno število rešenih anket je verjetno posledica neugodnega časa pošiljanja anket, saj smo anketo pošiljali v času dopustov. Veliko anket je bilo nepravilno rešenih, kar je verjetno pomanjkljivost spletnih anket.</p>
+    <p xml:id="pb45.p3" xml:lang="sl">6.2. METODE RAZISKAVE</p>
+    <p xml:id="pb45.p4" xml:lang="sl">Pri zbiranju in iskanju podatkov, potrebnih za analizo rezultatov, smo uporabili anketni vprašalnik, sestavljen iz 18 vprašanj. Vprašalnik smo strukturirali na dva dela. Prvi del je bil namenjen naročnikom, ki so imeli ali nameravali imeti dogodek na Brdu pri Kranju. V tem delu so se vprašanja navezovala na demografske podatke, na povpraševanje o dogodku ter kriterijih o izbiri kraja srečanja.</p>
+    <p xml:id="pb45.p5" xml:lang="sl">Drugi del pa je bil namenjen le naročnikom, ki so izvedli dogodek na Brdu pri Kranju. Tu so se vprašanja navezovala le na zadovoljstvo priprave in izvedbe dogodka. Za analizo podatkov smo uporabili orodje EnKlikAnketa (1KA) za spletne ankete, s pomočjo katerega smo pridobili rezultate, ki so nam služili za boljšo interpretacijo.</p>
+    <p xml:id="pb45.p6" xml:lang="sl">6.3. PREDSTAVITEV REZULTATOV</p>
+    <p xml:id="pb45.p7" xml:lang="sl">V nadaljevanju diplomskega dela si bomo ogledali rezultate ankete, grafično predstavitev podatkov ter interpretirali dobljene rezultate.</p>
+    <p xml:id="pb45.p8" xml:lang="sl">1. del: Za naročnike, ki so že imeli ali so nameravali imeti dogodek na Brdu pri Kranju a) Organiziranost podjetja</p>
+    <p xml:id="pb45.p9" xml:lang="sl">Graf 1 predstavlja rezultate glede na organiziranost podjetja. Iz analize je razvidno, da je najbolj pogost naročnik srečanj prav javni sektor (56 %), sledi mu zasebni sektor (33 %) in šele na koncu civilno-družbeni sektor (11 %).</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">Graf 1: Organiziranost podjetja b) Kakšno delo opravljate?</p>
+    <p xml:id="pb46.p2" xml:lang="sl">Največ anketiranih naročnikov je zaposlenih na ministrstvu (42 %), sledijo zaposleni v podjetju, ki je naročnik srečanj (36 %). Nekaj naročnikov je zaposlenih v PCO ali teambuilding, event, incentive agenciji (8 %) ter so člani znanstvenega/strokovnega društva, ki je naročnik srečanj (6 %). Pod drugo (8 %) sta se zabeležila zaposlena v vladni službi ter zaposlen na konzulatu.</p>
+    <p xml:id="pb46.p3" xml:lang="sl">Graf 2: Kakšno delo opravljate? c) Regija podjetja</p>
+    <p xml:id="pb46.p4" xml:lang="sl">Iz grafa 3 je razvidna regija, od koder prihaja naročnik srečanja. Večina podjetij prihaja iz Osrednjeslovenske (64 %) ter Gorenjske regije (31 %). Iz ostalih regij prihaja le nekaj naročnikov srečanj (5 %).</p>
+    <p xml:id="pb46.p5" xml:lang="sl">Graf 3: Regija podjetja d) Kakšna je narava vašega dogodka, ki ste ga izvedli oziroma nameravali izvesti na Brdu pri Kranju?</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Pri teh odgovorih smo zabeležili pogostost odgovorov. Iz grafa 4 je jasno razvidno, da se najbolj pogosto odvijajo poslovna srečanja, konference, seminarji ter izobraževanja (30), temu sledijo sprejemi za poslovne partnerje (5), novinarske konference (2), koncerti, praznovanje obletnice podjetja in osebnega jubileja ter poroke (1). Pod drugo (3) sta bila navedena prednovoletni ples ter humanitarna družabna prireditev.</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Graf 4: Kakšna je narava vašega dogodka, ki ste ga izvedli oziroma nameravali izvesti na Brdu pri Kranju? e) Kakšno kapaciteto kongresne dvorane ste iskali?</p>
+    <p xml:id="pb47.p3" xml:lang="sl">Iz grafa 5 je razvidno, da naročniki najbolj pogosto iščejo dvorano za 50 – 150 oseb (36 %), sledita dvorana za do 50 oseb (22 %) ter dvorana za 150 – 250 oseb (22 %).</p>
+    <p xml:id="pb47.p4" xml:lang="sl">Najmanj povpraševanja je po večjih dvoranah, dvorana za 250 – 500 oseb (17 %) in dvorana nad 500 oseb (3 %).</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Graf 5: Kakšno kapaciteto kongresne dvorane ste iskali? f) Kje ste pridobili informacije o kongresnih kapacitetah na Brdu pri Kranju?</p>
+    <p xml:id="pb47.p6" xml:lang="sl">Graf 6 prikazuje, kje so anketiranci pridobili informacije o kongresnih kapacitetah. Pri teh odgovorih smo zabeležili pogostost odgovorov. Največ naročnikov je pridobilo informacije o kongresnih kapacitetah na spletni strani JGZ Brdo (16). Veliko naročnikom (13) je JGZ poslal ponudbo, nekaj jih je prejelo priporočilo od partnerjev (10) ali pa so za JGZ Brdo izvedeli preko direktne pošte oziroma telefonskega pogovora (10). Pod drugo so bila po večini navedena poznanstva ter izkušnje iz preteklih dogodkov (7), sledi internet (4) ter na koncu specializirane publikacije s področja kongresne dejavnosti, poslovne in splošne publikacije. Zelo slabo pa je zaznano oglaševanje preko kongresnih uradov, sejmov ter razstav in medijev.</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">Graf 6: Kje ste pridobili informacije o kongresnih kapacitetah na Brdu pri Kranju? g) Ali ste bili zadovoljni z dodatnim pridobivanjem informacij?</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Graf 7 prikazuje, da je večina naročnikov (97 %) zadovoljnih s pridobivanjem informacij. Le 3 % anketiranih je bilo s pridobivanjem informacij delno zadovoljnih.</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Graf 7: Ali ste bili zadovoljni z dodatnim pridobivanjem informacij? h) Katero prednost mislite, da ima Brdo pri Kranju pred ostalimi ponudniki kongresne dejavnosti?</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">Iz grafa 8 so razvidne prednosti Brda pri Kranju pred ostalimi ponudniki kongresne dejavnosti. Pri teh odgovorih smo zabeležili pogostost odgovorov. Največja prednost naj bi bile kongresne kapacitete z multifunkcijsko opremljenimi dvoranami (32), visoka kakovost storitev (31) in strokovno usposobljeno osebje (31). Sledijo čudovito naravno okolje (28), razmerje med ceno in kakovostjo (23), odlična prometna povezava in bližina osrednjega letališča (21), bogata kulinarična ponudba vrhunskih kuharjev (19), reference (16), lokacija odmaknjena od mestnega vrveža (15), sodobna avdio in video tehnika (12), bližina glavnega mesta (10), in brezplačen parkirni prostor (10). Iz tega grafa je razvidno, da kot prednost ne moremo računati na kakovostno namestitev (7), dodatno ponudbo – spremljevalne aktivnosti in kakovostno wellness ponudbo.</p>
+    <p xml:id="pb49.p2" xml:lang="sl">Graf 8: Katero prednost mislite, da ima Brdo pri Kranju pred ostalimi ponudniki kongresne dejavnosti? i) Kako bi ocenili ponudbo, ki so vam jo poslali z Brda pri Kranju?</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Pri tem grafu smo pri odgovorih zabeležili povprečje odgovorov, saj so jih ocenjevali od 1 – 5, pri čemer je 1 pomenilo zelo slabo in 5 odlično. Iz celotnega grafa je razvidno, da je ponudba dobro izdelana. Zelo dobro je ocenjena hitrost poslane ponudbe (4,72). Sledijo preglednost (4,44), razumljivost (4,39) ter razvidnost potrebnih informacij (4,39). Malce slabše sta ocenjena obsežnost (4,17) ter ustrezen izbor fotografij (3,97).</p>
+    <p xml:id="pb49.p4" xml:lang="sl">Graf 9: Kako bi ocenili ponudbo, ki so vam jo poslali z Brda pri Kranju? j) Ali ste seznanjeni, da obstaja na Brdu pri Kranju tveganje odpovedi dogodka zaradi protokolarnega dogodka?</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">Iz grafa 10 je razvidno, da je večina naročnikov (86 %) seznanjenih s tveganjem odpovedi dogodka zaradi protokolarnega dogodka.</p>
+    <p xml:id="pb50.p2" xml:lang="sl">Graf 10: Ali ste seznanjeni, da obstaja na Brdu pri Kranju tveganje odpovedi dogodka zaradi protokolarnega dogodka? k) V kakšni meri ta podatek vpliva na vašo odločitev?</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Iz grafa 11 je razvidno, da tveganje odpovedi zaradi protokolarnega dogodka malo vpliva (56 %) oziroma ne vpliva (19 %) na odločitev pri organizaciji dogodka. Le pri 19 % naročnikov ta podatek dosti vpliva na odločitev, 6 % pa ta podatek zelo vpliva na njihovo odločitev. Noben od anketirancev zaradi tega tveganja ni izvedel dogodka na Brdu pri Kranju.</p>
+    <p xml:id="pb50.p4" xml:lang="sl">Graf 11: V kakšni meri ta podatek vpliva na vašo odločitev? l) Kolikokrat ste izvedli dogodek na Brdu pri Kranju?</p>
+    <p xml:id="pb50.p5" xml:lang="sl">Iz grafa 12 je razvidno, da imajo na Brdu pri Kranju večinoma stalne naročnike, saj je kar 64 % anketirancev izvedlo dogodek več kot trikrat. Trikrat je dogodek ponovilo 3 % anketirancev, dvakrat 8 % anketirancev in enkrat 22 %. Le 3 % anketirancev ni nikoli izvedlo dogodka na Brdu pri Kranju, kljub poslanem povpraševanju.</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">Graf 12: Kolikokrat ste izvedli dogodek na Brdu pri Kranju?</p>
+    <p xml:id="pb51.p2" xml:lang="sl">2. del: Za naročnike, ki so že imeli dogodek na Brdu pri Kranju a) Ali ste bili zadovoljni s pripravo dogodka?</p>
+    <p xml:id="pb51.p3" xml:lang="sl">Iz grafa 13 je razvidno, da so bili vsi anketiranci, ki so izvedli dogodek, zadovoljni s pripravo dogodka.</p>
+    <p xml:id="pb51.p4" xml:lang="sl">Graf 13: Ali ste bili zadovoljni s pripravo dogodka? b) Ali ste bili zadovoljni z izvedbo dogodka?</p>
+    <p xml:id="pb51.p5" xml:lang="sl">Iz grafa 14 je razvidno, da so bili vsi anketiranci, ki so izvedli dogodek, zadovoljni z izvedbo dogodka.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">Graf 14: Ali ste bili zadovoljni z izvedbo dogodka? c) Ali je bil dogodek izveden točno po dogovoru?</p>
+    <p xml:id="pb52.p2" xml:lang="sl">Iz grafa 15 je razvidno, da so bili vsi dogodki izvedeni točno po dogovoru.</p>
+    <p xml:id="pb52.p3" xml:lang="sl">Graf 15: Ali je bil dogodek izveden točno po dogovoru? d) Kako bi ocenili kongresno ponudbo na Brdu pri Kranju?</p>
+    <p xml:id="pb52.p4" xml:lang="sl">Pri tem grafu smo pri odgovorih zabeležili povprečje odgovorov, saj so jih ocenjevali od 1 – 5, pri čemer 1 pomeni zelo slabo, 5 pa odlično. Iz celotnega grafa je razvidno, da je kongresna ponudba na Brdu pri Kranju zelo dobro ocenjena. Največja pomanjkljivost je kakovost namestitvenih kapacitet, obseg dopolnilnih dejavnosti, problem pa je očitno tudi pri raznolikih namestitvenih kapacitetah.</p>
+    <p xml:id="pb52.p5" xml:lang="sl">Najbolje sta ocenjena komunikacija z gosti – prijaznost, ustrežljivost, spoštovanje (4,83) ter kongresne kapacitete – število in velikost dvoran ter njihova tehnična opremljenost (4,8). Sledijo pa okolje kraja srečanja - naravno okolje, prijeten ambient v dvoranah in zunaj njih (4,74), kulinarična ponudba (4,74), pretekle izkušnje z organizacijo v tem kraju (4,74), obseg strokovne pomoči in svetovanja, ki jih na kraju srečanja nudijo ponudniki kapacitet (4,69), reference (4,66), dostop do kraja srečanja – ceste, oddaljenost od letališča, bližina glavnega mesta (4,57), prepričljiv nastop predstavnika kraja srečanja na osebnem sestanku (4,49), cene kapacitet in storitev – razmerje med ceno in kakovostjo (4,4), dobri plačilni pogoji (4,29), alternativna lokacija – drugačna od ustaljenih mest srečanj (4,23) ter prepričljiva predstavitev kraja srečanja v medijih, na borzah, v promocijskih materialih in na internetu (4,09).</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">Slabše pa so bile ocenjene kakovost namestitvenih kapacitet (3,91), obseg dopolnilnih storitev (izleti, ogledi), možnost zabave, rekreacije in sprostitve – wellness (3,49) ter raznolike namestitvene kapacitete oziroma možnost namestitve v različnih kategorijah (3,17).</p>
+    <p xml:id="pb53.p2" xml:lang="sl">Graf 16: Kako bi ocenili kongresno ponudbo na Brdu pri Kranju? e) Ali boste Brdo pri Kranju priporočili svojim poslovnim partnerjem?</p>
+    <p xml:id="pb53.p3" xml:lang="sl">Iz grafa 17 je razvidno, da bodo oziroma so priporočili Brdo pri Kranju svojim poslovnim partnerjem.</p>
+    <p xml:id="pb53.p4" xml:lang="sl">Graf 17: Ali boste Brdo pri Kranju priporočili svojim poslovnim partnerjem? f) Ali se boste v primeru ponovnih potreb po organiziranju kongresnega dogodka zopet odločili za Brdo pri Kranju?</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">Iz grafa 18 je razvidno, da se bo kar 94 % anketiranih naročnikov v primeru ponovnih potreb po organiziranju kongresnega dogodka zopet odločilo za Brdo pri Kranju, medtem ko jih je 6 % še neopredeljenih.</p>
+    <p xml:id="pb54.p2" xml:lang="sl">Graf 18: Ali se boste v primeru ponovnih potreb po organiziranju kongresnega dogodka zopet odločili za Brdo pri Kranju?</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">7. UGOTOVITVE</p>
+    <p xml:id="pb55.p2" xml:lang="sl">Na podlagi raziskave lahko odgovorimo na zastavljena raziskovalna vprašanja: 1. raziskovalno vprašanje: Ali kongresna ponudba JGZ Brdo zadošča trženjskemu spletu (4P)?</p>
+    <p xml:id="pb55.p3" xml:lang="sl">Iz raziskave je jasno razvidno, da je kongresna ponudba JGZ Brdo dobro izdelana ter zadošča trženjskemu spletu.</p>
+    <p xml:id="pb55.p4" xml:lang="sl">Anketirani so zadovoljni s kongresno ponudbo, predvsem so bile zelo dobro ocenjene kongresne kapacitete (število in velikost dvoran ter njihova tehnična opremljenost), okolje kraja srečanja (naravno okolje, prijeten ambient v dvoranah in zunaj njih), kulinarična ponudba ter dostop do kraja srečanja. Največ anketiranih naročnikov je informacije o kongresnih kapacitetah pridobilo na spletni strani JGZ Brdo, veliko naročnikov pa je prejelo ponudbo. Nekaj anketirancem so JGZ Brdo priporočili partnerji oziroma znanci ali pa so zanj zvedeli preko direktne pošte oziroma telefonskega pogovora.</p>
+    <p xml:id="pb55.p5" xml:lang="sl">Anketirani naročniki so s pridobivanjem informacij zelo zadovoljni. Prav tako je bila dobro ocenjena poslana ponudba, predvsem so zadovoljni s hitrostjo poslane ponudbe.</p>
+    <p xml:id="pb55.p6" xml:lang="sl">Iz rezultatov lahko razberemo tudi podatek, da so naročniki zadovoljni s ceno kapacitet in storitev (razmerje med ceno in kakovostjo).</p>
+    <p xml:id="pb55.p7" xml:lang="sl">2. raziskovalno vprašanje: Ali so naročniki zadovoljni s pripravo in izvedbo dogodka v JGZ Brdo?</p>
+    <p xml:id="pb55.p8" xml:lang="sl">Raziskava je jasno pokazala, da so naročniki zelo zadovoljni s pripravo in izvedbo dogodka ter, da je bil dogodek izveden točno po dogovoru. Pomemben je tudi rezultat, ki prikazuje, da bodo vsi, ki so izvedli dogodek na Brdu pri Kranju, le- tega priporočili svojim partnerjem.</p>
+    <p xml:id="pb55.p9" xml:lang="sl">Večina naročnikov pa se bo v primeru ponovnih potreb po organiziranju kongresnega dogodka zopet odločilo za Brdo pri Kranju.</p>
+    <p xml:id="pb55.p10" xml:lang="sl">3. raziskovalno vprašanje: Ali tveganje odpovedi zaradi protokola bistveno vpliva na odločitev o izvedbi dogodka v JGZ Brdo?</p>
+    <p xml:id="pb55.p11" xml:lang="sl">Osnovna naloga zavoda je opravljanje storitev za protokolarne in reprezentančne dogodke, ki imajo prednost pred tržnimi storitvami. Iz tega razloga na Brdu pri Kranju obstaja tveganje odpovedi dogodka zaradi protokolarnega dogodka. Z odpovedjo lahko povzročimo slabo reklamo in posledično tudi tržno komunikacijo.</p>
+    <p xml:id="pb55.p12" xml:lang="sl">Do sedaj je prišlo le dvakrat do odpovedi dogodka zaradi tega razloga. V tem primeru pa tudi v JGZ Brdu pomagajo pri iskanju nadomestne lokacije.</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="sl">Iz raziskave je razvidno, da se večina naročnikov zaveda tveganja in ga tudi sprejema. Ta podatek v veliki večini ne vpliva ali zelo malo vpliva na odločitev o izvedbi dogodka na Brdu pri Kranju.</p>
+    <p xml:id="pb56.p2" xml:lang="sl">Je pa še vedno problem, da so nekateri še vedno mnenja, da je Brdo nasploh zaprto za širšo javnost in je namenjeno le protokolarnim dogodkom.</p>
+    <p xml:id="pb56.p3" xml:lang="sl">4. raziskovalno vprašanje: Kako ocenjujete komunikacijo s kadrom?</p>
+    <p xml:id="pb56.p4" xml:lang="sl">Iz rezultatov raziskave je razvidno, da je prav komunikacija z gosti (prijaznost, ustrežljivost, spoštovanje) najbolje ocenjena. Dobro ocenjena je tudi strokovna pomoč in svetovanje, ki jih ponujajo na kraju srečanja ter prepričljiv nastop predstavnika na osebnem sestanku. Na Brdu pri Kranju je večina stalnih naročnikov, kar je razvidno tudi iz rezultatov. Prav ti naročniki imajo zelo dobre izkušnje z organizacijo na Brdu pri Kranju. Veliko anketiranih je mnenja, da je velika prednost Brda pri Kranju prav strokovno usposobljeno osebje ter visoka kakovost storitev.</p>
+    <p xml:id="pb56.p5" xml:lang="sl">5. raziskovalno vprašanje: Ali ekonomska kriza vpliva na število izvedenih dogodkov v JGZ Brdo?</p>
+    <p xml:id="pb56.p6" xml:lang="sl">V večini virov je navedeno, da naj bi pričetek krize nastal v drugi polovici leta 2008. Takrat je Slovenija zaključila svoje polletno predsedovanje EU, med katerim se je večina dogodkov odvijala prav na Brdu pri Kranju.</p>
+    <p xml:id="pb56.p7" xml:lang="sl">Analizirali smo realizirane dogodke v letu 2009 in 2010 ter s tem skušali ugotoviti, ali ekonomska kriza vpliva na število izvedenih dogodkov v JGZ Brdo.</p>
+    <p xml:id="pb56.p8" xml:lang="sl">V letu 2010 so imeli v JGZ Brdo manj dogodkov, tako iz naslova javnih služb kot tudi tržnih. Vendar pa je bilo v primerjavi z letom 2009 več komercialnih gostov a manj protokolarnih gostov. Tudi vrednost storitev na letni ravni je nižja v primerjavi z letom 2009, saj so naročniki pri izvedbi dogodkov bolj varčni. Vendar pa je bilo v letu 2010 več prometa z uporabo dvoran kot v letu 2009.</p>
+    <p xml:id="pb56.p9" xml:lang="sl">Na podlagi te analize lahko na to vprašanje odgovorimo, da se kaže tendenca po zniževanju stroškov za dogodke s strani naročnikov. A če je potreba po dogodku, ga bo naročnik kljub ekonomski krizi še vedno izpeljal.</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=57">
+    <p xml:id="pb57.p1" xml:lang="sl">8. ZAKLJUČEK</p>
+    <p xml:id="pb57.p2" xml:lang="sl">Vse kaže, da je kongresna dejavnost pomembna gospodarska veja, saj sodi med najdonosnejše vrste turizma. Vendar so ključni ponudniki v dejavnosti premalo internacionalizirali svojo dejavnost.</p>
+    <p xml:id="pb57.p3" xml:lang="sl">Ker je konkurenca kongresnih ponudnikov v Sloveniji vse močnejša, so trženjski pristopi zelo pomembni. Trženje v kongresni dejavnosti se mora konstantno prilagajati trenutnim trendom na trgu. Zastaviti ga je potrebno ciljno in se usmeriti k seznamu realnih projektov ter jih podpreti finančno in organizacijsko.</p>
+    <p xml:id="pb57.p4" xml:lang="sl">Pri organizaciji kongresa je pomembno, da se sodelavci med seboj močno povezujejo. Zelo sta pomembna timsko delo, ki mora biti usklajeno ter komunikacija med sodelavci in ravnateljem projekta ter njegovim naročnikom.</p>
+    <p xml:id="pb57.p5" xml:lang="sl">Poleg izvedbe dogodka je uspešnost odvisna tudi od sprejetih odločitev o lokaciji, datumu, načinu pogostitve, družabnem programu ter načinu promocije. Zato so pri odločanju pomembne izkušnje, strokovno znanje, sposobnosti organizacije in vodenja, ki jih ima dober PCO. Problem v Sloveniji je predvsem v organizatorjih, velik mednarodni kongres namesto PCO organizira administrativno osebje.</p>
+    <p xml:id="pb57.p6" xml:lang="sl">Vsi anketirani naročniki so bili popolnoma zadovoljni s pripravo in izvedbo dogodka na Brdu pri Kranju, kar kaže na dobro organizacijo izvajanja kongresne dejavnosti.</p>
+    <p xml:id="pb57.p7" xml:lang="sl">Čeprav so si mnogi dogodki med seboj podobni, osebje Brda vsakega od njih obravnava kot enkratno in neponovljivo zgodbo. Oseba, ki je za dogodek zadolžena, uporablja osebni pristop in natančno spremlja vse faze dogodka, kar omogoča sprotno in učinkovito izpopolnjevanje ponudbe, odpravljanje pomanjkljivosti, bogatenje izkušenj in nenehno želeno dviganje nivoja storitev.</p>
+    <p xml:id="pb57.p8" xml:lang="sl">S pripravo dogodkov in koordinacijo v času njihovega poteka se na Brdu ukvarja služba prodajnega trženja. Znotraj oddelka določijo vodjo dogodka, ki je zadolžena za pridobitev vseh potrebnih informacij v zvezi z dogodkom. Na podlagi teh informacij ustrezne službe znotraj Brda organizirajo pripravo prostora dogodka, gostinske storitve, cvetlične aranžmaje, zagotovijo hostese, potrebno tehnično opremo, spremljevalni program, namestitvene kapacitete in druge specifike. Vodja dogodka je tudi ves čas trajanja dogodka prisoten na prizorišču, na voljo naročniku za dodatna pojasnila in vedno pripravljen, da pomaga rešiti morebitne nepredvidene situacije ali zaplete med dogodkom. Naročnik od začetnega povpraševanja po prostih kapacitetah do zaključka samega dogodka sodeluje z isto osebo, kar prepreči slab pretok informacij ali pomanjkljivost podatkov. Poleg tega se pri naročniku tudi odpravi ali vsaj znatno zmanjša negotovost v zvezi s samo izvedbo ter potekom dogodka, kar je prisotno predvsem pri tistih naročnikih, ki dogodek na tej lokaciji organizirajo prvič.</p>
+    <p xml:id="pb57.p9" xml:lang="sl">Osebje pri vsakem dogodku prisluhne željam, potrebam in pričakovanju naročnika ter ga ob tem poskuša usmeriti v najbolj optimalen način izvedbe samega dogodka. Zaposleni dobro poznajo okolje, imajo dolgoletne in bogate izkušnje ter občutek za najmanjše podrobnosti, zato s svojimi sugestijami nivo dogodka še dvignejo. Glavni cilj Brda so premišljeno in natančno pripravljen dogodek, skrbna priprava celotnega prostora dogodka in okolice, pri gostih in naročniku pa že ob prvem stiku potrditi občutek, da so dobrodošli, zaželeni in ustrezno obravnavani, vedno ponuditi največjo kvaliteto ter s potekom dogodka doseči splošno zadovoljstvo in uresničitev pričakovanj.</p>
+  </page>
+  <page xml:id="pb58" n="58" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=58">
+    <p xml:id="pb58.p1" xml:lang="sl">Osebje Brda si nenehno prizadeva za izboljšave ter na ta način pridobiti nove naročnike ter obdržati obstoječe. V zadnjih letih se je oblikovala že večja skupina naročnikov, ki se redno ali občasno vračajo, zato je potrebno nenehno iskati in ponujati nadgradnje obstoječega ter uvajanje novosti. Zagotovilo, da se bo naročnik vračal, pa so le brezhibna izvedba dogodka na najvišji možni ravni, zadovoljstvo in izpolnjena pričakovanja naročnika ter pozitivni odzivi udeležencev dogodka. Vsega tega pa ni moč doseči brez usklajenega timskega dela, inovativnosti, izkušenj, fleksibilnosti, ustrežljivosti, prijaznosti, zmožnosti in pripravljenosti takojšnjega reševanja nepredvidenih situacij in visoke profesionalnosti osebja, ki svoje storitve ponuja.</p>
+    <p xml:id="pb58.p2" xml:lang="sl">Brdo je postalo zanimivo za mnoge organizatorje dogodkov predvsem z zavidljivo profesionalnostjo in izjemno bogatimi izkušnjami s področja protokolarne dejavnosti, iz aktivnosti polletnega predsedovanja Slovenije Svetu Evropske unije, s prejšnjih in sedanjih tržnih dogodkov ter seveda z novo lokacijo oziroma novim konferenčnim objektom. To prednost skušajo v zavodu čim bolje izkoristiti za širjenje svoje prepoznavnosti, privlačnosti in ponudbe vrhunskih storitev.</p>
+    <p xml:id="pb58.p3" xml:lang="sl">Vsi anketirani naročniki so bili popolnoma zadovoljni s pripravo in izvedbo dogodka na Brdu pri Kranju, kar kaže na dobro organizacijo izvajanja kongresne dejavnosti.</p>
+    <p xml:id="pb58.p4" xml:lang="sl">Ponudba JGZ Brda obsega kongresne kapacitete s sodobno avdio tehniko, kulinariko, namestitvene kapacitete, dodatno ponudbo ter storitve. Kongresno ponudbo imajo zelo dobro izdelano, kar je razvidno tudi iz raziskave. Zelo dobro so bile ocenjene kongresne kapacitete (število in velikost dvoran ter njihova tehnična opremljenost), okolje kraja srečanja (naravno okolje, prijeten ambient v dvoranah in zunaj njih), kulinarična ponudba ter dostop do kraja srečanja.</p>
+    <p xml:id="pb58.p5" xml:lang="sl">Največja pomanjkljivost v ponudbi je nedvomno kakovost in raznolikost namestitvenih kapacitet ter obseg dopolnilnih storitev (izleti, ogledi, možnost zabave, rekreacije in sprostitve).</p>
+    <p xml:id="pb58.p6" xml:lang="sl">Na Brdu pri Kranju dajejo poudarek predvsem na neposrednem trženju. Dodobra izdelana spletna stran JGZ Brda omogoča tudi rezervacijo ter povpraševanje preko spleta, na katerega odgovorijo s specifično ponudbo.</p>
+    <p xml:id="pb58.p7" xml:lang="sl">Poglavitni problem pri tržnem komuniciranju v JGZ Brdu nastane, ker je zavod financiran iz državnega proračuna. S tem imajo omejitve pri oglaševanju storitev v klasičnem pomenu in zavod v veliki meri uporablja osebni pristop. Naročnikom pošiljajo direktno pošto, organizirajo dneve odprtih vrat za obstoječe in nove naročnike, uveljavljajo spletno stran JGZ Brdo v dveh jezikih, v letih 2008 - 2011 pa so za promocijo organizirali koncerte pod znamko ARS Brdo. K prepoznavnosti pa pripomore poročanje medijev ob obisku tujih ali domačih političnih predstavnikov, kar je zavodu v veliko korist.</p>
+    <p xml:id="pb58.p8" xml:lang="sl">Največ naročnikov je pridobilo informacije o kongresnih kapacitetah na spletni strani JGZ Brdo, veliko naročnikov je prejelo ponudbo JGZ Brdo, priporočilo partnerjev ali preko direktne pošte oziroma telefonskega pogovora. Zelo slabo pa je zastopano oglaševanje preko kongresnih uradov, sejmov ter razstav in medijev, kar je prav posledica financiranja iz državnega proračuna.</p>
+  </page>
+  <page xml:id="pb59" n="59" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=59">
+    <p xml:id="pb59.p1" xml:lang="sl">Iz raziskave je jasno razvidno, da so naročniki s pridobivanjem informacij zelo zadovoljni. Prav tako je bila dobro ocenjena poslana ponudba, predvsem so zadovoljni s hitrostjo poslane ponudbe. Mogoče bi morali v JGZ Brdu posodobiti slikovno gradivo v ponudbi.</p>
+    <p xml:id="pb59.p2" xml:lang="sl">Naročnike dogodkov zanimajo predvsem cene najema dvoran s tehnično opremo, namestitev, gostinske storitve, storitve pri organizaciji in svetovanje ter dodatne storitve. V JGZ Brdo imajo izdelana dva cenika, in sicer za tržno dejavnost ter za javni sektor (za vse državne organe). Iz raziskave smo ugotovili, da so naročniki zadovoljni s ceno kapacitet in storitev (razmerje med ceno in kakovostjo).</p>
+    <p xml:id="pb59.p3" xml:lang="sl">Problem JGZ Brdo je predvsem pri številu in raznolikosti namestitvenih kapacitet ter obsegu dopolnilnih storitev. Glede na to, da je v letu 2013 predviden nogometni center Brdo, ki bo zgrajen na območju današnjega hipodroma, bi se s tem lahko ta problematika razrešila.</p>
+    <p xml:id="pb59.p4" xml:lang="sl">Objekt bi lahko ob nastopih naših klubov v evropskih klubskih tekmovanjih poleg slovenske nogometne reprezentance uporabljale tudi naše ali tuje ekipe. S trženjem nogometnega centra v kombinaciji s storitvami, ki jih ponuja JGZ Brdo, bi lahko povečali tudi kongresno ponudbo v mrtvi sezoni. Vrhunske tuje klube bi sicer na Brdo vabili predvsem poleti, ko tam ni večjega števila drugih dogodkov.</p>
+    <p xml:id="pb59.p5" xml:lang="sl">To običajno spremljajo tudi številni mediji, s čimer bi poskrbeli za dodatno promocijo Brda pri Kranju ter Slovenije. Vsekakor bi bil dobrodošel tudi kakšen bazen ali teniško igrišče. Pogrešamo še kakšen dodaten hotel in menimo, da je to tudi največja ovira pri trženju tega sicer lepega in modernega objekta. Prav tako velik problem pri trženju predstavlja pozicioniranje Brda pri ciljnih publikah. Velja prepričanje, da je Brdo še vedno zaprto in rezervirano samo za protokolarne dogodke ter da so storitve izredno drage in si jih razen elite ne more nihče privoščiti.</p>
+    <p xml:id="pb59.p6" xml:lang="sl">Ker je zavod financiran iz državnega proračuna in imajo v JGZ Brdo omejitve glede trženja, se je potrebno osredotočiti na osebni pristop. Spletno stran je potrebno konstantno nadgrajevati ter dodajati slikovno gradivo. Poleg tega pa bi lahko izpopolnili spletno stran s 3D fotografijami okolja, objektov in dvoran. To bi pripomoglo tudi k lažji predstavi potencialnega naročnika o prostoru in kraju.</p>
+    <p xml:id="pb59.p7" xml:lang="sl">Poleg tega bi lahko na spletni strani objavili promocijski video, ki bi prikazoval čudovito naravno okolje, objekte, dvorane, hotel Kokra, dopolnilne dejavnosti, kulinariko in s tem informiral potencialne naročnike o ponudbi.</p>
+    <p xml:id="pb59.p8" xml:lang="sl">Vsekakor pa bi pri prepoznavnosti in trženju zelo pripomoglo članstvo v kakšni mednarodni organizaciji.</p>
+  </page>
+  <page xml:id="pb60" n="60" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=60">
+    <p xml:id="pb60.p1" xml:lang="sl">LITERATURA IN VIRI</p>
+    <p xml:id="pb60.p2" xml:lang="en">Allen, J. (2002): The business of event planning, J. Wiley &amp; sons Canada, Toronto Benckendorff, P. in Neil, B. (2000): Destination marketing on the internet, The journal of tourism studies 11 (11), 11-24</p>
+    <p xml:id="pb60.p3" xml:lang="sl">Bratina, P. (2004): Trženje kongresne ponudbe, diplomsko delo, Ekonomsko- poslovna fakulteta, Maribor</p>
+    <p xml:id="pb60.p4" xml:lang="sl">Bubnič, E., Markič, M., Hodža Frelih, V., Remic, D., Novak, Ž., Lisec, A., idr.</p>
+    <p xml:id="pb60.p5" xml:lang="sl">(2009): Dogodek od A do Ž, Planet GV, Ljubljana</p>
+    <p xml:id="pb60.p6" xml:lang="en">Dodson, D. (1992): How to put on a great conference, Adolfo Street Publications, Mexico</p>
+    <p xml:id="pb60.p7" xml:lang="sl">Dolinar, K. (2003): Vzpostavljanje kongresnega urada kot nosilca trženjskega komuniciranja kongresne dejavnosti v Sloveniji, specialistično delo, Ekonomska fakulteta, Ljubljana</p>
+    <p xml:id="pb60.p8" xml:lang="sl">Florjančič, J., Jesenko, J., Benčič, M., idr. (1998): Kongresni turizem, Management v turizmu 2, Moderna organizacija, Kranj</p>
+    <p xml:id="pb60.p9" xml:lang="sl">Franić, A. (1977): MeĎunarodni kongresni turizam, Privredna komora za Dalmaciju, Dubrovnik</p>
+    <p xml:id="pb60.p10" xml:lang="en">Fyall, A., Callod, C. in Edwards, B. (2003): Relationship marketing: the challenge for destinations, Annals of tourism research 30(3), 638-657 Interni gradivo JGZ Brdo: Letno poročilo 2010</p>
+    <p xml:id="pb60.p11" xml:lang="sl">Interni gradivo JGZ Brdo: Program dela in finančni načrt za leto 2011 Interni viri JGZ Brdo</p>
+    <p xml:id="pb60.p12" xml:lang="sl">Jelen, I. (2005): Ravnanje kongresnih dogodkov, diplomsko delo, Ekonomska fakulteta, Ljubljana</p>
+    <p xml:id="pb60.p13" xml:lang="sl">Jenko, G. (1991): Značilnosti in ekonomski pomen kongresnega turizma, diplomsko delo, Ekonomska fakulteta, Ljubljana</p>
+    <p xml:id="pb60.p14" xml:lang="sl">Klančnik, Rok V. (2004): Kongresni turizem: Da ali ne?, Delo (Oglasna priloga - Kongresni turizem), Ljubljana, 28.9.2004, str. 1</p>
+    <p xml:id="pb60.p15" xml:lang="sl">Klančnik, Rok V. (2004): Que vadis poslovni turizem?, Turizem, Ljubljana, 8(2004), 67, str. 13</p>
+    <p xml:id="pb60.p16" xml:lang="sl">Kotler, P. (1996): Marketing management, Slovenska knjiga, Ljubljana Kotler, P. (2004): Lateralno trženje, GV Založba, Ljubljana Kotler, P. (2004): Management trženja, GV Založba, Ljubljana Krantz M., Hosford C. (2005): Future Watch: Bright Outlook For 2005, Successful Meetings, New York, 54(2005), 3, str. 11</p>
+  </page>
+  <page xml:id="pb61" n="61" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=61">
+    <p xml:id="pb61.p1" xml:lang="sl">Krupič, E. (2006): Možnosti trženja MICE — dejavnosti v Sava hotelih Bled, diplomsko delo, Ekonomska fakulteta, Ljubljana</p>
+    <p xml:id="pb61.p2" xml:lang="en">Lucianović, L. (1980): Kongresni turizam, IGKRO Svjetlost, Sarajevo Middleton, Victor T.C., Clarke J. (2001): Marketing in Travel and Tourism - 3. izdaja, Butterworth-Heinemann, Oxford</p>
+    <p xml:id="pb61.p3" xml:lang="en">Mlakar J. (2000): Manual for organization of small and medium sized meetings, workshops and conferences, Turistica - Visoka šola za turizem, Portorož Peterlič, S. (1998): Največji promocijski projekt doslej, Marketing Magazin, 12, 34-35 str.</p>
+    <p xml:id="pb61.p4" xml:lang="sl">Peterlič, S. (1999): Kongresni turizem, neobjavljeno gradivo Peterlič, S. (2002): Sodelovanje med naročnikom in izvajalcem pri pripravi dogodkov, gradivo s konference Organizacija in vodenje dogodkov - event management, Portorož, GV izobraževanje, Ljubljana</p>
+    <p xml:id="pb61.p5" xml:lang="sl">Peterlič, S. (2003): Kongresna dejavnost, gradivo za predavanje, Portorož Peterlič, S. (2005): Kongresna dejavnost, predavanje na Ekonomski fakulteti, Ljubljana, 24.5.2005</p>
+    <p xml:id="pb61.p6" xml:lang="sl">Planina, J. (1992): Ekonomika turizma, Ekonomska fakulteta, Ljubljana Praprotnik, S. (2006): Kongresna dejavnost na svetovnem in slovenskem nivoju, diplomsko delo, Ekonomska fakulteta, Ljubljana</p>
+    <p xml:id="pb61.p7" xml:lang="en">Rivin, G. (1995): Guide to Organizing an International Scientific Conference, S.</p>
+    <p xml:id="pb61.p8" xml:lang="en">Karger AG, Basel</p>
+    <p xml:id="pb61.p9" xml:lang="en">Rogers, T. (1998): Conferences - A twenty-first century industry, Addison Wesley Longman, Harlow</p>
+    <p xml:id="pb61.p10" xml:lang="en">Shone, A. (1998): The business of conferencess, Reed educational and professional publishing, Oxford</p>
+    <p xml:id="pb61.p11" xml:lang="sl">Slovar slovenskega knjižnjega jezika (2008), Državna založba Slovenije, Ljubljana Spletna stran JGZ Brdo: http://www.brdo.si/, 16.7.2011 Spletna stran Slovarja slovenskega knjižnega jezika: http://bos.zrc- sazu.si/cgi/a03.exe?name=sskj_testa&amp;expression=ti%C4%8D&amp;hs=2301, 16.7.2011 Zakrajšek, B. (1998): Kongresni turizem, V: Dopolnilne turistične dejavnosti, urednik M. Tkalčič, Turistica, Portorož</p>
+  </page>
+  <page xml:id="pb62" n="62" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=62">
+    <p xml:id="pb62.p1" xml:lang="sl">Zidanski, M. (2005): Kongresna dejavnost - organizacija kongresov, Albatros, Bled</p>
+  </page>
+  <page xml:id="pb63" n="63" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=63">
+    <p xml:id="pb63.p1" xml:lang="sl">PRILOGE</p>
+    <p xml:id="pb63.p2" xml:lang="sl">Priloga 1: Anketni vprašalnik</p>
+    <p xml:id="pb63.p3" xml:lang="sl">1. del (za naročnike, ki so že imeli ali so nameravali imeti dogodek na Brdu pri Kranju)</p>
+    <p xml:id="pb63.p4" xml:lang="sl">1. Kakšna je organiziranost vašega podjetja? a) Javni sektor b) Zasebni sektor c) Civilno-družbeni sektor</p>
+    <p xml:id="pb63.p5" xml:lang="sl">2. Kakšno delo opravljate? (obkrožite) a) Zaposlen v PCO (ali teambulding, event, incentive) agenciji b) Zaposlen v podjetju, ki je naročnik srečanj c) Član znanstvenega/strokovnega društva, ki je naročnik srečanj d) Zaposlen na ministrstvu e) Drugo (navedite): _______________________________ 3. V katero regijo spada vaše podjetje? a) Pomursko b) Podravska c) Koroška d) Savinjska e) Zasavska f) Spodnjeposavska g) Osrednjeslovenska h) Jugovzhodna Slovenija i) Notranjo-kraška j) Gorenjska k) Goriška l) Obalno-kraška</p>
+    <p xml:id="pb63.p6" xml:lang="sl">4. Kakšna je narava vašega dogodka, ki ste ga izvedli oziroma nameravali izvesti na Brdu pri Kranju? (obkrožite lahko le en odgovor) a) Poslovno srečanje, konferenca, seminar, izobraževanje b) Novinarska konferenca c) Sprejem za poslovne partnerje d) Koncert e) Praznovanje obletnice podjetja f) Praznovanje osebnega jubileja g) Poroka h) Drugo(navedite): ___________________________ 5. Kakšno kapaciteto kongresne dvorane ste iskali? a) do 50 oseb b) 50 – 150 oseb c) 150 – 250 oseb d) 250 – 500 oseb e) nad 500 oseb</p>
+  </page>
+  <page xml:id="pb64" n="64" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=64">
+    <p xml:id="pb64.p1" xml:lang="sl">6. Kje ste pridobili informacije o kongresnih kapacitetah na Brdu pri Kranju? (obkrožite lahko več odgovorov) a) Specializirane publikacije s področja kongresne dejavnosti b) Poslovne in splošne publikacije (časopisi, revije) c) Kongresni urad d) Internet e) Spletna stran JGZ Brdo f) Priporočilo (od partnerjev) g) Sejmi, razstave h) Prospekti i) Direktna pošta, telefonski pogovor j) Televizija, radio k) JGZ Brdo nam je poslal ponudbo l) Drugo (navedite): _____________________________ 7. Ali ste bili zadovoljni z dodatnim pridobivanjem informacij? a) da b) ne c) delno</p>
+    <p xml:id="pb64.p2" xml:lang="sl">Če ne, navedite vzroke nezadovoljstva:</p>
+    <p xml:id="pb64.p3" xml:lang="sl">_______________________________________________________________________ 8. Katero prednost mislite da ima Brdo pri Kranju pred ostalimi ponudniki kongresne dejavnosti? (obkrožite lahko več odgovorov) a) Odlična prometna povezava in bližina osrednjega letališča b) Bližina glavnega mesta c) Lokacija odmaknjena od mestnega vrveža d) Čudovito naravno okolje e) Visoka kakovost storitev f) Strokovno usposobljeno osebje g) Kongresne kapacitete (najem moderno multifunkcijsko opremljenih dvoran) h) Kakovostna namestitev i) Bogata kulinarična ponudba j) Dodatna ponudba (spremljevalne aktivnosti) k) Sodobna avdio in video tehnika l) Reference m) Razmerje med ceno in kakovostjo n) Kakovostna wellness ponudba o) Brezplačen parkirni prostor p) Drugo: ______________________________</p>
+  </page>
+  <page xml:id="pb65" n="65" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=65">
+    <p xml:id="pb65.p1" xml:lang="sl">9. Kako bi ocenili ponudbo, ki so vam jo poslali z Brda pri Kranju (ocenite z lestvico od 1do 5, pri čemer 1 pomeni slabo, 5 pa odlično)?</p>
+    <p xml:id="pb65.p2" xml:lang="sl">Slabo Odlično</p>
+    <p xml:id="pb65.p3" xml:lang="sl">1. Preglednost 1 2 3 4 5 2. Razumljivost 1 2 3 4 5</p>
+    <p xml:id="pb65.p4" xml:lang="sl">3. Razvidne vse potrebne informacije 1 2 3 4 5 4. Hitrost poslane ponudbe 1 2 3 4 5 5. Ustrezen izbor fotografij 1 2 3 4 5 7. Obsežnost 1 2 3 4 5</p>
+    <p xml:id="pb65.p5" xml:lang="sl">10. Ali ste seznanjeni, da obstaja na Brdu pri Kranju tveganje odpovedi dogodka zaradi protokolarnega dogodka? a) Da b) Ne</p>
+    <p xml:id="pb65.p6" xml:lang="sl">11. V kakšni meri ta podatek vpliva na vašo odločitev? a) Ne vpliva b) Malo c) Dosti d) Zelo e) Zaradi tega razloga ne izvedemo dogodka pri vas 12. Kolikokrat ste izvedli dogodek na Brdu pri Kranju? a) Nikoli b) Enkrat c) Dvakrat d) Trikrat e) Več kot trikrat</p>
+    <p xml:id="pb65.p7" xml:lang="sl">2. del (za naročnike, ki so že imeli dogodek na Brdu pri Kranju) 13. Ali ste bili zadovoljni s pripravo dogodka? a) da b) ne c) delno</p>
+    <p xml:id="pb65.p8" xml:lang="sl">Če ne, navedite vzroke nezadovoljstva!</p>
+    <p xml:id="pb65.p9" xml:lang="sl">________________________________________________________________________ 14. Ali ste bili zadovoljni z izvedbo dogodka? d) da e) ne f) delno</p>
+  </page>
+  <page xml:id="pb66" n="66" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=66">
+    <p xml:id="pb66.p1" xml:lang="sl">Če ne, navedite vzroke nezadovoljstva!</p>
+    <p xml:id="pb66.p2" xml:lang="sl">_______________________________________________________________________ 15. Ali je bil dogodek izveden skladno z dogovorom? a) da b) ne</p>
+    <p xml:id="pb66.p3" xml:lang="sl">16. Kako bi ocenili kongresno ponudbo na Brdu pri Kranju (ocenite z lestvico od 1do 5, pri čemer 1 pomeni slabo, 5 pa odlično)?</p>
+    <p xml:id="pb66.p4" xml:lang="sl">Slabo Odlično</p>
+    <p xml:id="pb66.p5" xml:lang="sl">1. Dostop do kraja srečanja (ceste, oddaljenost od letališča, bližina glavnega mesta ipd.) 1 2 3 4 5</p>
+    <p xml:id="pb66.p6" xml:lang="sl">2. Kongresne kapacitete (število in velikost dvoran, njihova tehnična opremljenost) 1 2 3 4 5</p>
+    <p xml:id="pb66.p7" xml:lang="sl">3. Okolje kraja srečanja (naravno okolje, prijeten ambient v dvoranah in zunaj njih) 1 2 3 4 5</p>
+    <p xml:id="pb66.p8" xml:lang="sl">4. Cene kapacitet in storitev (razmerje med ceno in kakovostjo) 1 2 3 4 5</p>
+    <p xml:id="pb66.p9" xml:lang="sl">5. Obseg strokovne pomoči in svetovanja, ki jih na kraju srečanja nudijo ponudniki kapacitet 1 2 3 4 5</p>
+    <p xml:id="pb66.p10" xml:lang="sl">6. Komunikacija z gosti (prijaznost, ustrežljivost, spoštovanje) 1 2 3 4 5</p>
+    <p xml:id="pb66.p11" xml:lang="sl">7. Obseg dopolnilnih storitev (izleti, ogledi), možnosti zabave, rekreacije in sprostitve (wellness) 1 2 3 4 5</p>
+    <p xml:id="pb66.p12" xml:lang="sl">8. Kakovost namestitvenih kapacitet 1 2 3 4 5 9. Kulinarična ponudba 1 2 3 4 5</p>
+    <p xml:id="pb66.p13" xml:lang="sl">10. Prepričljiva predstavitev kraja srečanja v 11. medijih, na borzah, v promocijskih materialih, na internetu ...</p>
+    <p xml:id="pb66.p14" xml:lang="sl">12. Prepričljiv nastop predstavnika kraja srečanja na osebnem sestanku 1 2 3 4 5</p>
+    <p xml:id="pb66.p15" xml:lang="sl">13. Reference 1 2 3 4 5</p>
+    <p xml:id="pb66.p16" xml:lang="sl">14. Pretekle izkušnje z organizacijo v tem kraju 1 2 3 4 5 15. Dobri plačilni pogoji 1 2 3 4 5 16. Alternativna lokacija (drugačna od ustaljenih mest srečanj) 1 2 3 4 5</p>
+    <p xml:id="pb66.p17" xml:lang="sl">17. Drugo (navedite):</p>
+  </page>
+  <page xml:id="pb67" n="67" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=67">
+    <p xml:id="pb67.p1" xml:lang="sl">17. Ali boste Brdo pri Kranju priporočili svojim poslovnim partnerjem? a) da b) ne</p>
+    <p xml:id="pb67.p2" xml:lang="sl">18. Ali se boste v primeru ponovnih potreb po organiziranju kongresnega dogodka zopet odločili za Brdo pri Kranju? a) da b) ne c) ne vem</p>
+  </page>
+  <page xml:id="pb68" n="68" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=68">
+    <p xml:id="pb68.p1" xml:lang="sl">PRILOGE</p>
+    <p xml:id="pb68.p2" xml:lang="sl">Priloga 1: Anketni vprašalnik</p>
+    <p xml:id="pb68.p3" xml:lang="sl">KAZALO TABEL</p>
+    <p xml:id="pb68.p4" xml:lang="sl">Tabela 1: zasedenost dvoran v letu 2009 in 2010 (interni vir JGZ Brdo: letno poročilo 2010) 38</p>
+    <p xml:id="pb68.p5" xml:lang="sl">KAZALO GRAFOV</p>
+    <p xml:id="pb68.p6" xml:lang="sl">Graf 1: Organiziranost podjetja 41 Graf 2: Kakšno delo opravljate? 41 Graf 3: Regija podjetja 41</p>
+    <p xml:id="pb68.p7" xml:lang="sl">Graf 4: Kakšna je narava vašega dogodka, ki ste ga izvedli oziroma nameravali izvesti na Brdu pri Kranju?</p>
+    <p xml:id="pb68.p8" xml:lang="sl">Graf 5: Kakšno kapaciteto kongresne dvorane ste iskali? 42 Graf 6: Kje ste pridobili informacije o kongresnih kapacitetah na Brdu pri Kranju?</p>
+    <p xml:id="pb68.p9" xml:lang="sl">Graf 7: Ali ste bili zadovoljni z dodatnim pridobivanjem informacij?</p>
+    <p xml:id="pb68.p10" xml:lang="sl">Graf 8: Katero prednost mislite da ima Brdo pri Kranju pred ostalimi ponudniki kongresne dejavnosti?</p>
+    <p xml:id="pb68.p11" xml:lang="sl">Graf 9: Kako bi ocenili ponudbo, ki so vam jo poslali z Brda pri Kranju?</p>
+    <p xml:id="pb68.p12" xml:lang="sl">Graf 10: Ali ste seznanjeni, da obstaja na Brdu pri Kranju tveganje odpovedi dogodka zaradi protokolarnega dogodka?</p>
+    <p xml:id="pb68.p13" xml:lang="sl">Graf 11: V kakšni meri ta podatek vpliva na vašo odločitev? 45 Graf 12: Kolikokrat ste izvedli dogodek na Brdu pri Kranju? 46 Graf 13: Ali ste bili zadovoljni s pripravo dogodka? 46 Graf 14: Ali ste bili zadovoljni z izvedbo dogodka? 47 Graf 15: Ali je bil dogodek izveden točno po dogovoru? 47 Graf 16: Kako bi ocenili kongresno ponudbo na Brdu pri Kranju? 48 Graf 17: Ali boste Brdo pri Kranju priporočili svojim poslovnim partnerjem?</p>
+    <p xml:id="pb68.p14" xml:lang="sl">Graf 18: Ali se boste v primeru ponovnih potreb po organiziranju kongresnega dogodka zopet odločili za Brdo pri Kranju?</p>
+  </page>
+  <page xml:id="pb69" n="69" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-9000.pdf#page=69">
+    <p xml:id="pb69.p1" xml:lang="en">KRATICE</p>
+    <p xml:id="pb69.p2" xml:lang="en">MICE – Meetings, Incentives, Conferences &amp; Congress, Exibithions KC – Kongresni center EU – Evropska unija</p>
+    <p xml:id="pb69.p3" xml:lang="sl">JGZ Brdo – Javni gospodarski zavod protokolarne storitve Republike Slovenije PCO – Proffesional Congress Organizer</p>
+    <p xml:id="pb69.p4" xml:lang="en">ICCA – International Congress and Convention Association IAPCO – International Association of Proffessional Congress Organizers AIPC – Association Internationale des Palais de Congres JS – Javni sektor TD - Tržna dejavnost</p>
+  </page>
+</document>

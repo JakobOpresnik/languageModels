@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-14000" doc_id="14000" text_id="23250" cobiss_id="3603320" title="Vpliv okoljskih dejavnikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno aktivnost plodov šipka" author="Klemenc, Žiga" supervisor="Pogačnik, Lea" year="2009" publisher_abbr="UL BF" publisher="Biotehniška fakulteta" place="Ljubljana" url="http://www.digitalna-knjiznica.bf.uni-lj.si/dn_klemenc_ziga.pdf" type="Diplomsko delo" udc="633.88:577.164.2:547.56" udc_desc="Aromatične rastline. Začimbne rastline. Barvilne rastline. Zdravilne rastline. Biokemija. Molekularna biologija. Biofizika. Organska kemija" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V LJUBLJANI BIOTEHNIŠKA FAKULTETA ODDELEK ZA ŽIVILSTVO</p>
+    <p xml:id="pb1.p2" xml:lang="sl">Žiga KLEMENC</p>
+    <p xml:id="pb1.p3" xml:lang="sl">VPLIV OKOLJSKIH DEJAVNIKOV NA VSEBNOST POLIFENOLNIH SPOJIN IN VITAMINA C TER NA ANTIOKSIDATIVNO AKTIVNOST PLODOV ŠIPKA DIPLOMSKO DELO</p>
+    <p xml:id="pb1.p4" xml:lang="sl">Univerzitetni študij</p>
+    <p xml:id="pb1.p5" xml:lang="en">INFLUENCE OF ENVIRONMENTAL FACTORS ON CONTENT OF TOTAL PHENOLS, VITAMIN C AND ANTIOXIDATIVE ACTIVITY OF ROSE HIP BERRIES</p>
+    <p xml:id="pb1.p6" xml:lang="en">GRADUATION THESIS</p>
+    <p xml:id="pb1.p7" xml:lang="sl">Universty studies Ljubljana, 2009</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno II Diplomsko delo je zaključek univerzitetnega študija živilske tehnologija.Opravljeno je bilo na Katedri za kemijo Oddelka za živilstvo Biotehniške fakultete Univerze v Ljubljani.</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Senat Oddelka za živilstvo je za mentorico diplomskega dela imenoval doc. dr. Leo Pogačnik in za recenzenta doc. dr. Rajka Vidriha.</p>
+    <p xml:id="pb2.p3" xml:lang="sl">Mentorica: doc. dr. Lea Pogačnik Recenzent: doc. dr. Rajko Vidrih Komisija za oceno in zagovor: Predsednik: Član: Član: Član:</p>
+    <p xml:id="pb2.p4" xml:lang="sl">Datum zagovora:</p>
+    <p xml:id="pb2.p5" xml:lang="sl">Delo je rezultat lastnega raziskovalnega dela.</p>
+    <p xml:id="pb2.p6" xml:lang="sl">Žiga Klemenc</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno III</p>
+    <p xml:id="pb3.p2" xml:lang="sl">KLJUČNA DOKUMENTACIJSKA INFORMACIJA</p>
+    <p xml:id="pb3.p3" xml:lang="sl">ŠD Dn</p>
+    <p xml:id="pb3.p4" xml:lang="sl">DK UDK 633.88:577.164.2:547.56(043)=163.6</p>
+    <p xml:id="pb3.p5" xml:lang="sl">KG navadni šipek / Rosa canina L. / vitamin C / fenolne spojine / antioksidativna aktivnost</p>
+    <p xml:id="pb3.p6" xml:lang="sl">/ Slovenija</p>
+    <p xml:id="pb3.p7" xml:lang="sl">AV KLEMENC, Žiga</p>
+    <p xml:id="pb3.p8" xml:lang="sl">SA POGAČNIK, Lea (mentorica) / VIDRIH, Rajko (recenzent) KZ SI-1000 Ljubljana, Jamnikarjeva 101</p>
+    <p xml:id="pb3.p9" xml:lang="sl">ZA Univerza v Ljubljani, Biotehniška fakulteta, Oddelek za živilstvo</p>
+    <p xml:id="pb3.p10" xml:lang="sl">IN VPLIV OKOLJSKIH DEJAVNIKOV NA VSEBNOST POLIFENOLNIH SPOJIN IN VITAMINA C TER NA ANTIOKSIDATIVNO AKTIVNOST PLODOV ŠIPKA</p>
+    <p xml:id="pb3.p11" xml:lang="sl">TD Diplomsko delo (Univerzitetni študij) OP IX, 48 str., 9 preg., 32 sl., 29 vir.</p>
+    <p xml:id="pb3.p12" xml:lang="sl">IJ sl</p>
+    <p xml:id="pb3.p13" xml:lang="sl">JI sl/en</p>
+    <p xml:id="pb3.p14" xml:lang="sl">AI V okviru diplomske naloge smo merili in med sabo primerjali vsebnost vitamina C, skupnih fenolov in skupno antioksidativno aktivnost (AOP) plodov navadnega šipka (Rosa canina L.), obranih na desetih lokacijah po Sloveniji. Plodove smo obirali dvakrat, enkrat v septembru in drugič konec oktobra (po 42 dneh). Vzorce smo ekstrahirali s tremi različnimi topili (2 % vodno raztopino metafosforne kisline (MFK), 2 % MFK z dodatkom reducenta TCEP in manj polarnim topilom metanolom, ki je vseboval 5 % metanojske kisline). Najvišje vsebnosti vitamina C in skupnih fenolov so bile izmerjene v ekstraktih z 2 % MFK ob dodatku reducenta tris(2karboksietil) fosfin (TCEP), ki reducira dehidroaskorbinsko kislino (L-DHA).</p>
+    <p xml:id="pb3.p15" xml:lang="sl">Vsebnost vitamina C v svežih plodovih šipka je med 0,10 % in 0,51 %, vsebnost skupnih fenolov pa med 0,050 mmol/g in 0,178 mmol/g, izraženo v ekvivalentih klorogenske kisline. Obe vrednosti sta odvisni od lokacije in časa obiranja plodov ter od načina ekstrakcije. Ugotovili smo, da med zorenjem v pozni jeseni koncentracija vitamina C pada, medtem ko vsebnost fenolov in skupna AOP v tem obdobju naraščata. V tem času narašča tudi vsebnost L-DHA, kar sovpada z zmanjšano vsebnostjo L-AA. Najboljši način shranjevanja vzorcev je zamrzovanje ekstraktov v 2</p>
+    <p xml:id="pb3.p16" xml:lang="sl">% MFK. Pri sušenju plodovi izgubijo velik delež aktivnih substanc.</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno IV</p>
+    <p xml:id="pb4.p2" xml:lang="en">KEY WORDS DOCUMENTATION</p>
+    <p xml:id="pb4.p3" xml:lang="sl">DN Dn</p>
+    <p xml:id="pb4.p4" xml:lang="sl">DC UDC 633.88:577.164.2:547.56(043)=163.6</p>
+    <p xml:id="pb4.p5" xml:lang="en">CX dog rose / Rosa canina L. / vitamin C / phenols / antioxidative activity / Slovenia AU KLEMENC, Žiga</p>
+    <p xml:id="pb4.p6" xml:lang="sl">AA POGAČNIK, Lea (supervisor) / VIDRIH, Rajko (reviewer) PP SI-1000 Ljubljana, Jamnikarjeva 101</p>
+    <p xml:id="pb4.p7" xml:lang="en">PB University of Ljubljana, Biotechnical Faculty, Department of Food Science and Technology</p>
+    <p xml:id="pb4.p8" xml:lang="en">PY 2009</p>
+    <p xml:id="pb4.p9" xml:lang="en">TI INFLUENCE OF ENVIRONMENTAL FACTORS ON CONTENT OF TOTAL PHENOLS, VITAMIN C AND ANTIOXIDATIVE ACTIVITY OF ROSE HIP BERRIES</p>
+    <p xml:id="pb4.p10" xml:lang="en">DT Graduation Thesis (Universty studies) NO IX, 48 p., 9 tab., 32 fig., 29 ref.</p>
+    <p xml:id="pb4.p11" xml:lang="en">LA sl</p>
+    <p xml:id="pb4.p12" xml:lang="en">AL sl/en</p>
+    <p xml:id="pb4.p13" xml:lang="en">AB In the context of the present diploma thesis the vitamin C content, total phenols and antioxidative potential (AOP) of rose hip berries (Rosa canina L.), harvested at ten different locations in Slovenia, was determined. The berries were harvested twice, in September and in late October (after 42 days). The samples were extracted with three different solvents (2 % water solution of metaphosphoric acid (MFK), 2 % MFK with the addition of TCEP reducing agent and less polar methanol solvent which contained 5 % of formic acid). The highest levels of vitamin C and total phenols were measured in extracts with 2 % MFK with the addition of reducing agent TCEP which reduces dehydroascorbic acid (L-DHA). The level of vitamin C in fresh rose hip berries ranges between 0.10 % and 0.51 %, while the level of total phenols is between 0.050 mmol/g and 0.128 mmol/g, expressed as equivalents of chlorogenic acid. Both values depend on the location and harvesting season as well as of the extraction method. It was found out that during the ripening in late autumn the concentration of vitamin C decreases, while the level of phenols and total AOP increases. During this period, the level of LDHA also increases, which coincides with the decreased level of L-AA. The best method for preservation of samples is freezing of extracts in 2 % MFK. During drying process the berries lose a large portion of active substances.</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno V</p>
+    <p xml:id="pb5.p2" xml:lang="sl">KAZALO VSEBINE</p>
+    <p xml:id="pb5.p3" xml:lang="sl">KLJUČNA DOKUMENTACIJSKA INFORMACIJA ......................................................III KAZALO PREGLEDNIC................................................................................................... VII KAZALO SLIK...................................................................................................................VIII OKRAJŠAVE IN SIMBOLI .................................................................................................IX 1 UVOD ..................................................................................................................................... 1 1.1 NAMEN DELA............................................................................................................................................ 1 1.2 DELOVNE HIPOTEZE ............................................................................................................................... 1 2 PREGLED OBJAV............................................................................................................... 3 2.1 ANTIOKSIDANTI....................................................................................................................................... 3</p>
+    <p xml:id="pb5.p4" xml:lang="sl">2.1.1 Primarni antioksidanti........................................................................................................................... 3 2.1.2 Sekundarni antioksidanti ...................................................................................................................... 3 2.1.2.1 Odjemalci kisika ............................................................................................................................................. 3 2.1.2.2 Odjemalci radikalov ....................................................................................................................................... 3 2.1.1.3 Sinergisti......................................................................................................................................................... 4 2.1.3 Pomen antioksidantov........................................................................................................................... 4 2.1.4 Analitske metode za merjenje antioksidativne aktivnosti..................................................................... 4 2.1.4.1 Direktne metode ............................................................................................................................................. 5 2.1.4.2 Indirektne metode........................................................................................................................................... 5</p>
+    <p xml:id="pb5.p5" xml:lang="sl">2.2 FENOLNE SPOJINE.................................................................................................................................... 6</p>
+    <p xml:id="pb5.p6" xml:lang="sl">2.2.1 Flavonoidi............................................................................................................................................. 7 2.2.2 Flavanoli ............................................................................................................................................... 7 2.2.3 Antocianidi ........................................................................................................................................... 7 2.2.4 Flavoni in flavonoli .............................................................................................................................. 8 2.2.6 Vloga fenolnih spojin ........................................................................................................................... 9 2.2.7 Analitske metode za določanje fenolnih spojin .................................................................................... 9</p>
+    <p xml:id="pb5.p7" xml:lang="en">2.3 VITAMIN C ................................................................................................................................................. 9</p>
+    <p xml:id="pb5.p8" xml:lang="sl">2.3.1 Struktura L-askorbinske kisline.......................................................................................................... 10 2.3.2 Funkcija vitamina C............................................................................................................................ 11 2.3.3 Nezaželeni učinki ............................................................................................................................... 12 2.3.4 Uporaba vitamina C............................................................................................................................ 12 2.3.5 Analitske metode za določanje vitamina C......................................................................................... 13</p>
+    <p xml:id="pb5.p9" xml:lang="sl">2.4 NAVADNI ŠIPEK ( ROSA CANINA L.) ....................................................................................................... 14</p>
+    <p xml:id="pb5.p10" xml:lang="sl">2.4.1 Morfološka in fiziološka razvrstitev šipkov ....................................................................................... 15 2.4.2 Tehnološke sestava plodov gojenega navadnega šipka ...................................................................... 16 2.4.3 Uporaba in delovanje šipka ................................................................................................................ 17</p>
+    <p xml:id="pb5.p11" xml:lang="sl">3 MATERIALI IN METODE DELA................................................................................... 19 3.1 MATERIALI .............................................................................................................................................. 19 3.2 NAČRT IN METODE DELA..................................................................................................................... 20</p>
+    <p xml:id="pb5.p12" xml:lang="sl">3.2.1 Načrt dela............................................................................................................................................ 20 3.2.2 Metode dela ........................................................................................................................................ 21 3.2.3 Določanje skupnih fenolov s Folin- Ciocalteaujevim reagentom (F-C) ............................................. 21 3.2.3 Določanje askorbinske kisline z metodo HPLC ................................................................................. 22 3.2.4 Meritev antioksidativne aktivnosti z luminescenčno metodo ............................................................. 23</p>
+    <p xml:id="pb5.p13" xml:lang="sl">4 REZULTATI ....................................................................................................................... 24 4.1 DOLOČANJE SKUPNIH FENOLOV ....................................................................................................... 24</p>
+    <p xml:id="pb5.p14" xml:lang="sl">4.1.1 Umeritvene krivulje............................................................................................................................ 24 4.1.2 Analiza različnih delov šipkovega plodu............................................................................................ 25 4.1.3 Analiza plodov šipka, obranih septembra (prvo obiranje) .................................................................. 25 4.1.4 Analiza plodov šipka, obranih konec oktobra (drugo obiranje).......................................................... 27 4.1.5 Primerjava vsebnosti skupnih fenolov v različno zrelih plodovih ...................................................... 28 Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno VI 4.1.6 Vsebnost skupnih fenolov v plodovih, ki so dolgo časa zoreli na grmu šipka ................................... 29 4.1.7. Vsebnost skupnih fenolov v plodovih, shranjenih pri -20 °C............................................................ 29 4.1.8 Vsebnost skupnih fenolov v ekstraktih, zamrzjenih pri -20 °C .......................................................... 30 4.1.9 Vsebnost skupnih fenolov v posušenih plodovih, ekstrahiranih z 2 % MFK ..................................... 31</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">4.2 DOLOČANJE VITAMINA C .................................................................................................................... 32</p>
+    <p xml:id="pb6.p2" xml:lang="sl">4.2.1 Vsebnost vitamina C v vzorcih prvega obiranja ................................................................................. 33 4.2.2 Vsebnost vitamina C v vzorcih drugega obiranja ............................................................................... 34 4.2.3 Primerjava vsebnosti vitamina C v različno zrelih plodovih .............................................................. 35 4.2.3.1 L-askorbinska kislina.................................................................................................................................... 35 4.2.3.2 L-dehidroaskorbinska kislina........................................................................................................................ 35 4.2.3.3 Skupni vitamin C.......................................................................................................................................... 36 4.2.4 Vsebnost vitamina C v plodovih, ki so dolgo časa zoreli na grmu šipka............................................ 37</p>
+    <p xml:id="pb6.p3" xml:lang="sl">4.3 VSEBNOST SKUPNIH FENOLOV BREZ VITAMINA C....................................................................... 38 4.4 DOLOČANJE SKUPNE ANTIOKSIDATIVNE AKTIVNOSTI .............................................................. 39 5 RAZPRAVA IN SKLEPI ................................................................................................... 42 5.1 RAZPRAVA .............................................................................................................................................. 42</p>
+    <p xml:id="pb6.p4" xml:lang="sl">5.1.1 Vsebnost skupnih fenolov .................................................................................................................. 42 5.1.2 Vsebnost vitamina C........................................................................................................................... 43 5.1.3 Skupna antioksidativna aktivnost ....................................................................................................... 43</p>
+    <p xml:id="pb6.p5" xml:lang="sl">5.2 SKLEPI ...................................................................................................................................................... 44 6 POVZETEK......................................................................................................................... 45 7 REFERENCE ...................................................................................................................... 46</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno VII</p>
+    <p xml:id="pb7.p2" xml:lang="sl">KAZALO PREGLEDNIC</p>
+    <p xml:id="pb7.p3" xml:lang="sl">Preglednica 1: Razvrstitev fenolnih spojin po številu C-atomov (Strack, 1997)..................................................... 6 Preglednica 2: Dnevne potrebe po vitaminu C...................................................................................................... 12 Preglednica 3: Klasifikacija navadnega šipka (Rosa canina L)............................................................................. 14 Preglednica 4: Vsebnost skupnih fenolov vzorcev šipka, ekstrahiranih z različnimi topili ................................. 26 Preglednica 5: Vsebnost skupnih fenolov vzorcev šipka, obranih na različnih lokacijah in ekstrahiranih z različnimi topili ............................................................................................................................... 27 Preglednica 7: Vsebnosti L-askorbinske kisline z metodo HPLC v vzorcih šipka, ekstrahiranih z 2 % MFK, in vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta TCEP ......................................................................... 34 Preglednica 8: Primerjava količine L-dehidroaskorbinske kisline v vzorcih šipka prve in druge trgatve............ 36 Preglednica 9: Primerjava količine L-askorbinske kisline v vzorcih šipka, ekstrahiranih v 2 % MFK ................ 40 Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno VIII</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">KAZALO SLIK</p>
+    <p xml:id="pb8.p2" xml:lang="sl">Slika 1 : Osnovna strukturna formula flavonoidov (Abram in Simčič, 1997)......................................................... 7 Slika 2: Strukturna formula nekaterih flavanolov. .................................................................................................. 7 Slika 3: Strukturne formule nekaterih antocianov................................................................................................... 8 Slika 4: Strukturne formule nekaterih flavonov in flavonolov................................................................................ 8 Slika 5: Struktura L-askorbinske kisline, E 300.................................................................................................... 10 Slika 6: Prehajanje med L-askorbinsko in L-dehidroaskorbinsko kislino (Gökmen in sod., 2000). ..................... 10 Slika 7: Redukcija L-DHA v L-AA z reducentom TCEP (Lykkesfeldt, 2000)..................................................... 13 Slika 8: Cvet navadnega šipka .............................................................................................................................. 15 Slika 9: Prečni prerez ploda šipka........................................................................................................................ 16 Slika 10: Zemljevid Slovenije z lokacijami vzorcev............................................................................................. 19 Slika 11: Odvisnost absorbance (746 nm) od koncentracije kloragenske kisline, raztopljene v 2 % MFK, ob prisotnosti F-C reagenta ........................................................................................................................................ 24 Slika 12: Odvisnost absorbance (746 nm) od koncentracije kloragenske, kisline, raztopljene v 5 % metanolu, ob prisotnosti F-C reagenta ........................................................................................................................................ 24 Slika 13: Absorbanca pri 746 nm, v različnih delih šipkovega plodu................................................................... 25 Slika 14: Koncentracija skupnih fenolov v plodovih šipka, obranih na različnih lokacijah in ekstrahiranih v različnih topilih ..................................................................................................................................................... 26 Slika 15: Koncentracije skupnih fenolov v plodovih šipka, obranih na različnih lokacijah in ekstrahiranih v različnih topilih ..................................................................................................................................................... 28 Slika 16: Primerjava koncentracij skupnih fenolov v različno zrelih plodovih, obranih iz enakega grma šipka in ekstrahiranih z 2 % MFK ...................................................................................................................................... 28 Slika 17: Koncentracija skupnih fenolov v plodovih šipka (vzorec Ljubljana), ki so dlje časa zoreli na grmu. Za ekstrakcijsko sredstvo smo uporabili 2 % MFK in 2 % MFK z dodatkom reducenta .......................................... 29 Slika 18: Koncentracija skupnih fenolov v plodovih šipka (vzorec Ročinj), shranjenih v zamrzovalniku in za analizo ekstrahiranih v 2 % MFK ......................................................................................................................... 30 Slika 19: Koncentracija skupnih fenolov v šipkovih ekstraktih (vzorec Ormož), analiziranih takoj ter po treh in šestih mesecih shranjevanja v zamrzovalniku pri -20 °C...................................................................................... 30 Slika 20: Primerjava koncentracij skupnih fenolov v svežih plodovih in posušenih plodovih šipka (vzorec</p>
+    <p xml:id="pb8.p3" xml:lang="sl">Ljubljana, 15.11.2007) .......................................................................................................................................... 31 Slika 21: Umeritvena krivulja za L-askorbinsko kislino na sistemu HPLC. Odvisnost površine pika od koncentracije L-AA. Kolona Synergie C18 250 mm × 4 mm, mobilna faza 5 mM H2SO4, pretok 1 mL /min, detekcija pri 254 nm.............................................................................................................................................. 32 Slika 22: Rezultati meritev vsebnosti L-askorbinske kisline z metodo HPLC v vzorcih šipka, ekstrahiranih z 2 % MFK, in vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta TCEP........................................................... 33 Slika 23: Vsebnosti L-askorbinske kisline z metodo HPLC v vzorcih šipka, ekstrahiranih z 2 % MFK, in vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta TCEP ....................................................................................... 34 Slika 24: Primerjava vsebnosti L-askorbinske kisline v vzorcih šipka iz prvega in drugega obiranja, ekstrahiranih z 2 % MFK............................................................................................................................................................ 35 Slika 25: Vsebnost L-dehidroaskorbinske kisline v vzorcih šipka prve in druge trgatve...................................... 36 Slika 26: Primerjava vsebnosti celotnega vitamina C v vzorcih šipka iz prvega in drugega obiranja, ekstrahiranih z 2 % MFK............................................................................................................................................................ 37 Slika 27: Koncentracija vitamina C v plodovih šipka (vzorec Ljubljana), ki so dlje časa zoreli na grmu. Za ekstrakcijsko sredstvo smo uporabili 2 % MFK z dodatkom reducenta .............................................................. 37 Slika 28: Odvisnost absorbance pri 746 nm od koncentracije L-AA, raztopljene v 2 % MFK, ob prisotnosti F-C reagenta. ................................................................................................................................................................ 38 Slika 29: Primerjava koncentracij skupnih fenolov v plodovih šipka (prvo obiranje) s koncentracijo skupnih fenolov brez vitamina C........................................................................................................................................ 38 Slika 30: Primerjava koncentracij skupnih fenolov v plodovih šipka (drugo obiranje) z koncentracijo skupnih fenolov brez vitamina C........................................................................................................................................ 39 Slika 31: Umeritvena krivulja za določanje skupne antioksidativne aktivnosti (AOP). Odvisnost časa inhibicije luminiscence od. koncentracije L-AA................................................................................................................... 40 Slika 32: Antioksidativna aktivnost (AOP) v vzorcih šipka prve in druge trgatve ............................................... 41 Klemenc Ž. Vpliv okoljskih dejanikov na vsebnost polifenolnih spojin in vitamina C ter na antioksidativno IX</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">OKRAJŠAVE IN SIMBOLI</p>
+    <p xml:id="pb9.p2" xml:lang="sl">AAPH 2,2'-azobis2-amidinopropan dihidroklorid ABTS•+ 2,2-azinobis (3etilbenzotiozolin-6-sulfonat) AOP antioksidativna aktivnost DMSO dimetilsulfoksid</p>
+    <p xml:id="pb9.p3" xml:lang="sl">DNA deoksiribonukleinska kislina DPPH 2,2-difenil-1-kiprilhidrazil DTT ditiotrito</p>
+    <p xml:id="pb9.p4" xml:lang="sl">EDTA etilen-diamin–tetra-acetat F-C Folin-Ciocalteau</p>
+    <p xml:id="pb9.p5" xml:lang="sl">HPLC tekočinska kromatografija visoke ločljivosti L-AA L-askorbinska kislina L-DHA L-dehidroaskorbinska kislina LDL lipoproteini majhne gostote MFK metafosforna kislina TCEP tris(2-karboksietil)fosfin TP skupni fenoli UV ultravijolična</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">1 UVOD</p>
+    <p xml:id="pb10.p2" xml:lang="sl">Navadni šipek (Rosa canina L.) je ena najbolj pomembnih in najbolj poznanih zdravilnih rastlin. Plodovi tega grma so bogat naravni vir vitamina C in drugih antioksidantov, ki se nahajajo v mesnatem ovoju ploda. Raziskave so pokazale, da se tudi v posušenih in na različne načine predelanih plodovih ohrani velik del tega, sicer zelo neobstojnega vitamina.</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Antioksidanti so naravne ali sintetične snovi, ki imajo sposobnost zaviranja nezaželenih oksidativnih sprememb v vseh živih organizmih in tudi v živilih (Salobir, 2000).</p>
+    <p xml:id="pb10.p4" xml:lang="sl">Vitamin C ali L-askorbinska kislina je vodotopen vitamin in je zaradi svoje antioksidativne lastnosti v živilski industriji vsestransko uporaben, predvsem kot konzervans, ki ohranja barvo, aromo in teksturo proizvodov ter na splošno izboljša obstojnost prehrambenih izdelkov (Tasič, 2000).</p>
+    <p xml:id="pb10.p5" xml:lang="sl">Askorbinska kislina je v vodnih raztopinah nestabilna in se ob prisotnosti kisika oksidira do dehidroaskorbinske kisline.</p>
+    <p xml:id="pb10.p6" xml:lang="sl">V nalogi želimo ugotoviti, ali plodovi šipka, ki smo jih obrali na desetih različnih geografskih legah v Sloveniji, vsebujejo različne količine vitamina C in skupnih fenolov (TP) ter preveriti, ali se ti vzorci razlikujejo v skupni antioksidativni aktivnosti. Ugotoviti tudi želimo, če se vsebnosti teh snovi v času zorenja spreminjajo in kakšen je najboljši način hranjenja plodov šipka.</p>
+    <p xml:id="pb10.p7" xml:lang="sl">1.1 NAMEN DELA</p>
+    <p xml:id="pb10.p8" xml:lang="sl">• V plodovih šipka, ekstrahiranih z različnimi topili, določiti;</p>
+    <p xml:id="pb10.p9" xml:lang="sl">• vsebnost skupnih fenolov (TP) z Folin- Ciocalteaujevim (F-C) reagentom.</p>
+    <p xml:id="pb10.p10" xml:lang="sl">• vsebnost vitamina C z metodo tekočinske kromatografije visoke ločljivosti (HPLC)</p>
+    <p xml:id="pb10.p11" xml:lang="sl">• skupno antioksidativno aktivnost (AOP) z luminescenčno metodo</p>
+    <p xml:id="pb10.p12" xml:lang="sl">• Primerjati vsebnost TP, količino vitamina C in AOP plodov šipka, nabranih na različnih lokacijah.</p>
+    <p xml:id="pb10.p13" xml:lang="sl">• Ugotoviti spremembo vsebnosti TP, AOP in koncentracije vitamina C v času zorenja med septembrom in oktobrom.</p>
+    <p xml:id="pb10.p14" xml:lang="sl">• Določiti spremembo vsebnost TP in koncentracije vitamina C pri različnih načinih shranjevanja (zmrznjeni plodovi, posušeni plodovi, različni zamrznjeni ekstrakti).</p>
+    <p xml:id="pb10.p15" xml:lang="sl">1.2 DELOVNE HIPOTEZE</p>
+    <p xml:id="pb10.p16" xml:lang="sl">• Pričakujemo, da plodovi šipka vsebujejo veliko vitamina C, fenolnih spojin in ostalih anioksidantov.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">• Ker na biosintezo antioksidantov v rastlinah vpliva okolje, v katerem rastejo, pričakujemo razlike v vsebnosti teh spojin v vzorcih, nabranih na različnih lokacijah po Sloveniji.</p>
+    <p xml:id="pb11.p2" xml:lang="sl">• Pričakujemo, da se bodo vsebnosti vitamina C, TP in ostalih antioksidantov v plodovih šipka med zorenjem od septembra do oktobra spremenile.</p>
+    <p xml:id="pb11.p3" xml:lang="sl">• Pričakujemo tudi razlike v vsebnosti teh snovi v ekstraktih, pripravljenimi z različnimi topili.</p>
+    <p xml:id="pb11.p4" xml:lang="sl">• Pričakujemo, da različni načini shranjevanja vplivajo na vsebnost vitamina C in fenolnih spojin.</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="en">2 PREGLED OBJAV 2.1 ANTIOKSIDANTI</p>
+    <p xml:id="pb12.p2" xml:lang="sl">Antioksidanti so naravne ali sintetične snovi, ki imajo sposobnost, da že v majhnih koncentracijah preprečijo ali zavirajo nezaželene oksidativne spremembe v vseh živih organizmih in tudi živilom (Salobir, 2000). Glede na način delovanja oz. zaviranja oksidacije ločimo dve skupini antioksidantov, primarne in sekundarne antioksidante.</p>
+    <p xml:id="pb12.p3" xml:lang="sl">2.1.1 Primarni antioksidanti</p>
+    <p xml:id="pb12.p4" xml:lang="sl">Primarni antioksidanti so običajno spojine, ki oddajo svoj vodikov elektron nekemu radikalu, ki bi sicer povzročil reakcijo avtooksidacije in s tem tvorbo hiperperoksidov ali peroksidnih radikalov. Njihova vloga je preprečevanje tvorbe prostih radikalov, ker jih spremenijo v bolj stabilne produkte.</p>
+    <p xml:id="pb12.p5" xml:lang="sl">R˚ +AH → A˚+ RH ROO˚ + AH → A˚ + ROOH</p>
+    <p xml:id="pb12.p6" xml:lang="sl">Antioksidanti tega tipa so encimi, ki nastajajo v organizmu (superoksid dismutaza, katalaza), ter mnogo spojin iz skupine flovonoidov in fenolov (Gordon, 1997).</p>
+    <p xml:id="pb12.p7" xml:lang="sl">2.1.2 Sekundarni antioksidanti</p>
+    <p xml:id="pb12.p8" xml:lang="sl">Sekundarni antioksidanti so spojine, ki ob prisotnosti drugih spojin izboljšajo učinkovitost primarnih antioksidantov ali pa inhibirajo učinek pro-oksidantov (Gordon, 1997). Njihova značilnost je, da nevtralizirajo novotvorjene proste radikale. Reagirajo s kovinskimi ioni, ki so katalizatorji oksidacije, odvzamejo kisik iz medija, razgrajujejo hidroperokside do komponent, ki niso radikali, absorbirajo UV svetlobo in deaktivirajo aktivni kisik. Lahko jih razvrstimo v tri skupine, odjemalci kisika, odjemalci radikalov in sinergisti.</p>
+    <p xml:id="pb12.p9" xml:lang="sl">2.1.2.1 Odjemalci kisika</p>
+    <p xml:id="pb12.p10" xml:lang="sl">Te spojine reagirajo s prostim kisikom in ga kot takšnega odstranijo iz reakcije, tako da prosti kisik reagira z antioksidanti in jih oksidira (Kovač in Raspor, 2000).</p>
+    <p xml:id="pb12.p11" xml:lang="sl">Med odjemalce kisika spadajo naslednje spojine; askorbinska kislina, encimi (katalaza, ksantin oksidaza), flavonoidi, karotenoidi, sulfiti, polifenoli.</p>
+    <p xml:id="pb12.p12" xml:lang="sl">2.1.2.2 Odjemalci radikalov</p>
+    <p xml:id="pb12.p13" xml:lang="sl">Odjemalci radikalov preprečujejo prostim radikalom reagiranje pri verižnih reakcijah s tem, da preprečujejo tvorbo hidroperoksidov.</p>
+    <p xml:id="pb12.p14" xml:lang="sl">Med najpogostejšimi lovilci prostih radikalov najdemo: flavonoide, polifenole, karotene, tokoferole.</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">2.1.1.3 Sinergisti</p>
+    <p xml:id="pb13.p2" xml:lang="sl">Sinergisti niso antioksidanti, ampak so zelo učinkoviti pri reakcijah, ki preprečujejo oksidacijo. Glavni princip reakcije je v tem, da elektronski par v strukturi sinergista pospešuje tvorbo kelatov. S tem se tvorijo stabilni kompleksi s kovinskimi ioni, kot sta železo in baker.</p>
+    <p xml:id="pb13.p3" xml:lang="sl">Tvorci kelatov so; EDTA, citronska kislina, lecitin, vinska kislina, polifosfati.</p>
+    <p xml:id="pb13.p4" xml:lang="sl">2.1.3 Pomen antioksidantov</p>
+    <p xml:id="pb13.p5" xml:lang="sl">Antioksidanti imajo pomembno vlogo v vseh živih bitjih. Večino teh snovi človek zaužije s hrano rastlinskega izvora. V rastlinah nastajajo antioksidanti kot sekundarni metaboliti.</p>
+    <p xml:id="pb13.p6" xml:lang="sl">Rastlino varujejo pred prostimi radikali, ki jih povzroči vpliv škodljivih sončnih žarkov in nekaterih drugih vplivov iz okolja. Pomembna lastnost antioksidantov v rastlini je tudi ta, da jo ščitijo pred napadi virusov, bakterij, gliv in rastlinojedih živali (Abram, 2000).</p>
+    <p xml:id="pb13.p7" xml:lang="sl">Ljudje enako kot vsa druga bitja nujno potrebujemo snovi, ki imajo antioksidativno aktivnost.</p>
+    <p xml:id="pb13.p8" xml:lang="sl">V našem organizmu sta po izvoru dve vrsti antioksidantov: endogeni in eksogeni. Endogene tvori naš organizem, eksogene pa dobimo s hrano (Kreft in sod., 2000). Skupaj z endogenim antioksidativnim sistemom ščitijo organizem pred poškodbami, ki jih povzročijo prosti radikali na lipidnih strukturah, celičnih strukturah in dedni masi (Salobir, 2000). Ti imajo pomembno vlogo tudi v samem živilu, saj ga varujejo pred oksidacijskim kvarjenjem, ki pomeni izgubljanje hranilne vrednosti , barve, vonja in okusa.</p>
+    <p xml:id="pb13.p9" xml:lang="sl">Zanimanje za preučevanje antioksidantov in njihovega delovanja se je povečalo zaradi ugotovljenega vpliva pri preprečevanju kroničnih in degenerativnih bolezni, kot so rak in kardiovaskularne bolezni. Dokazano je, da z uživanjem sadja in zelenjave, ki vsebujejo večje količine antioksidantov, zmanjšujemo obolevanje za naštetimi boleznimi (Kaur in Kapoor, 2001).</p>
+    <p xml:id="pb13.p10" xml:lang="sl">2.1.4 Analitske metode za merjenje antioksidativne aktivnosti Po definiciji je antioksidativna aktivnost (AOP) sposobnost spojine oz. nekega kompleksnejšega medija, da inhibira lipidno peroksidacijo oz. oksidativno degradacijo medijev (Roginsky in Lissi, 2005).</p>
+    <p xml:id="pb13.p11" xml:lang="sl">Za določanje in primerjavo AOP se uporabljajo relativno enostavne spektroskopske metode, s katerimi določamo redukcijsko sposobnost antioksidantov v sistemih s kovinskimi ioni ali sintetičnimi radikali, in metode, s katerimi določamo vpliv antioksidantov v realnih vzorcih (Wechtersbach, 2005).</p>
+    <p xml:id="pb13.p12" xml:lang="sl">Določanje AOP lahko izvedemo na dva načina, direktno ali indirektno. Pri indirektnih metodah merimo sposobnost antioksidantov za lovljenje prostih radikalov, ki niso direktno povezani z oksidacijsko razgradnjo. Primer indirektnega določanja AOP je uporaba obarvanih prostih radikalov, kjer določamo sposobnost antioksidantov, da oddajo vodikov atom in ne direktno AOP. Direktne metode pa na splošno temeljijo na preučevanju vpliva dodanega antioksidanta na potek verižne oksidacije določenega substrata s prostimi radikali (Roginsky in Lissi, 2005)</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">2.1.4.1 Direktne metode</p>
+    <p xml:id="pb14.p2" xml:lang="sl">To so kinetične metode, ki temeljijo na oksidaciji naravnih substratov s peroksilnim radikalom. Antioksidativni učinek dodanih antioksidantov, ki tekmujejo z naravnim substratom pri reakciji s prostim radikalom, zaznamo kot upočasnjen proces oksidacije substrata. Poznamo več različnih metod:</p>
+    <p xml:id="pb14.p3" xml:lang="sl">• zmanjšanje fluorescence β-fikoeritrina ob prisotnost prostih radikalov Pri tej metodi uporabljamo β-fikoeritrin kot tarčo, na katero delujejo peroksilni radikali, ki jih dobimo iz 2,2'-azobis-2-amidinopropan dihidrokloria (AAPH). Protein β-fikoeritrin fluorescira v vidnem delu spektra in ga dodamo kot referenčni lovilec prostih radikalov zato se intenziteta fluorescence zmanjšuje. Ob prisotnosti testiranih antioksidantov, ki reagirajo s hidroksilnim radikalom, se razgradnja β-fikoeritrina ustrezno zmanjša (Vidrih in Kač, 2000).</p>
+    <p xml:id="pb14.p4" xml:lang="sl">• kompetitivno razbarvanje krocina</p>
+    <p xml:id="pb14.p5" xml:lang="sl">Krocin je barvilo iz žafrana, ki močno absorbira v vidnem spektru svetlobe. Ta se razbarva ob oksidaciji s peroksilnim radikalom. Merilo za AOP dodanih antioksidantov pa je upočasnitev procesa razbarvanja barvila (Roginsky in Lissi, 2005).</p>
+    <p xml:id="pb14.p6" xml:lang="sl">• kompetitivno razbarvanje β-karotena</p>
+    <p xml:id="pb14.p7" xml:lang="sl">Metoda temelji na reakciji β-karotena s produkti avtooksidacije linolne kisline v vodnih emulzijah. Razbarvanje merimo kot zmanjšanje absorbance v vidnem spektru. Ob dodatku merjenega antioksidanta se razbarvanje β-karotena zmanjša (Wechtersbach, 2005) 2.1.4.2 Indirektne metode</p>
+    <p xml:id="pb14.p8" xml:lang="sl">• določanje AOP s kolorimetričnim določanjem vsebnosti standardnega radikala Metoda s prostim radikalom DPPH• je ena izmed najstarejših metod. Primerjalno fotometrično sledenje izginjanja barve (stopnje bledenja-bleaching rate) stabilnega prostega radikala 2,2-difenil-1-kiprilhidrazil (DPPH) pri 515 nm se uporablja za merjenje AOP vzorca.</p>
+    <p xml:id="pb14.p9" xml:lang="sl">Radikal DPPH• absorbira pri 515 nm, v reakciji z antioksidantom (redukcija) razpada in absorbcija se manjša. Za merjenje AOP spremljamo absorbcijo pri 515 nm, pri 25 °C 60 min.</p>
+    <p xml:id="pb14.p10" xml:lang="sl">Zmanjševanje absorbcije je proporcionalno koncentraciji antioksidantov v vzorcu (Vidrih in Kač, 2000).</p>
+    <p xml:id="pb14.p11" xml:lang="sl">• določanje antioksidativne vrednosti s standardom Trolox</p>
+    <p xml:id="pb14.p12" xml:lang="sl">To je metoda, pri kateri se kot sredstvo obarvanja uporablja ABTS•+ in je danes med najbolj razširjenimi metodami za indirektno določanje AOP. ABTS•+ je v raztopinah, kjer ni antioksidantov, stabilen. Ob dodatku donorjev vodika npr. fenolov, pa poteče reakcija ki jo spremljamo pri valovni dolžini med 600 in 750 nm. K metodi sta možna dva pristopa. Prva možnost je, da spremljamo zaviralni vpliv antioksidantov na tvorbo radikala ABTS•+ ob prisotnosti različnih reagentov, ki tvorijo radikal ABTS•+.Druga možnost pa je, da preučujemo vpliv dodanih antioksidantov na redukcijo predhodno pripravljenega radikala</p>
+    <p xml:id="pb14.p13" xml:lang="sl">ABTS•+.</p>
+    <p xml:id="pb14.p14" xml:lang="sl">• luminescenčna metoda</p>
+    <p xml:id="pb14.p15" xml:lang="sl">Pri lumninescenčni metodi pride do oksidacije luminola (5-amino-2,3-dihidro-1,4ftalazindion). Oksidacija se pojavi v alkalnem mediju z oksidacijskimi sredstvi, kot je vodikov peroksid v prisotnosti peroksidaze, ki katalizira reakcijo. Oksidacija luminola oz. nastanek luminolnih radikalov se pojavi, ko nastane kompleks med oksidantom in peroksidazo. Pri reakciji teh radikalov nastane dianion 3-aminoftalat v elektronsko vzburjenem stanju in emitira svetlobo, ko se vrača v osnovno stanje.</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">Taka mešanica zato emitira svetlobo, ki predstavlja 100 % emitirane svetlobe in nam tako predstavlja bazno linijo. Ko dodamo vzorec, ki vsebuje antioksidante, je svetlobni signal nemudoma inhibiran in se drastično zmanjša, vendar po določenem času ponovno zraste in se približa bazni liniji. Čas med dodatkom vzorca in vrnitvijo emitirane svetlobe do polovice začetnega signala je sorazmeren koncentraciji antioksidantov v preiskovalnem vzorcu. Daljši je čas inhibicije emitirane svetlobe, večji je AOP vzorca (Girotti in sod., 2002).</p>
+    <p xml:id="pb15.p2" xml:lang="sl">2.2 FENOLNE SPOJINE</p>
+    <p xml:id="pb15.p3" xml:lang="sl">Fenolne spojine so sekundarni metaboliti, ki so prisotni v vseh rastlinah. Spoznamo jih po aromatskem obroču z eno ali več hidroksilnimi skupinami. Vrsta fenolnih spojin in količina le-teh se razlikujejo od rastlinske vrste, najdemo pa jih v vakuolah in kloroplastih (Abram in Simčič, 1997).</p>
+    <p xml:id="pb15.p4" xml:lang="sl">Fenolne spojine so nujne za rast in razmnoževanje rastlin. Pogosto ščitijo ostale biološko pomembne molekule pred oksidacijo, so antipatogene in sodelujejo pri pigmentaciji. Fenolne spojine imajo tudi varovalni učinek pri poškodbi rastlinskega tkiva ter vplivajo na vonj, okus in hranilno vrednost svežih in predelanih rastlinskih živil (Rupnik, 1997).</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Preglednica 1: Razvrstitev fenolnih spojin po številu C-atomov (Strack, 1997) Št. Catomov</p>
+    <p xml:id="pb15.p6" xml:lang="sl">Osnovni skelet Skupina Primer Vir 6 C6 enostavni fenoli hidrokinon katehol gaulterijini listi</p>
+    <p xml:id="pb15.p7" xml:lang="sl">7 C6-C1 fenolne spojine p-hidroksibenzojska kislina siringinska kislina zelo razširjene</p>
+    <p xml:id="pb15.p8" xml:lang="sl">8 C6-C2 fenilocetne kisline 2-hidroksifenilocetna kislina kresnični listi</p>
+    <p xml:id="pb15.p9" xml:lang="sl">9 C6-C3 hidroksicimetne kisline fenilpropeni kumarin kavna kislina miristicin</p>
+    <p xml:id="pb15.p10" xml:lang="sl">6,7-dimetoksikumarin muškatni orešček orhideje</p>
+    <p xml:id="pb15.p11" xml:lang="sl">10 C6-C4 naftokinoni juglon orehi 13 C6-C1-C6 ksantoni mangiferin zelo razširjen 14 C6-C2-C6 stilben antrakinoni lanularska kislina emodin jeternjek rabarbara</p>
+    <p xml:id="pb15.p12" xml:lang="sl">15 C6-C3-C6 flavonoidi kvercetin zelo razširjen 18 (C6-C3)2 lignani neolignani pinorezinol evsiderin iglavci magnolijevke</p>
+    <p xml:id="pb15.p13" xml:lang="sl">30 (C6-C3-C6)2 biflavonoidi amentoflavon kritosemenke n (C6)n (C6-C3)n (C6-C3-C6)n melanini lignini kondenzirani tanini (flavonoli) celične stene</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">Polifenole lahko razvrstimo na več načinov, uveljavlja pa se klasifikacija po številu C-atomov (Tabela 1) (Abram in Simčič, 1997).</p>
+    <p xml:id="pb16.p2" xml:lang="sl">2.2.1 Flavonoidi</p>
+    <p xml:id="pb16.p3" xml:lang="sl">Flavonoidi so spojine, ki imajo skupaj 15 C-atomov in osnovno strukturo (C6-C3-C6), ki se imenuje flavan oz. 2-fenilbenzopiran. Flavonoidi so zelo razširjena skupina vodotopnih fenolnih spojin, ki se ločijo po stopnji oksidacije obroča. V rastlinah od flavonoidov najpogosteje najdemo antociane, katehine, procianidine, flavone in flavonole. To so rdeči, beli in rumeni pigmenti cvetov, sadežev, lubja in korenin. Ker lahko absorbirajo UV svetlobo, delujejo kot zaščita rastline pred UV žarki. V naravi najdemo flavonoide običajno kot vodotopne 3-O-glikozide, kar pomeni, da so na C-3 atomu vezani različni sladkorji, npr. glukoza, ksiloza, raminoza… Nesladkorni del molekule v taki spojini imenujemo aglikon.</p>
+    <p xml:id="pb16.p4" xml:lang="sl">Slika 1 : Osnovna strukturna formula flavonoidov (Abram in Simčič, 1997) 2.2.2 Flavanoli</p>
+    <p xml:id="pb16.p5" xml:lang="sl">Za flavanole je značilna nasičena C3 veriga s hidroksilnimi skupinami. Sem spadajo flavan3,4-dioli in flavan-3-oli. Monomeri flavan-3,4-dioli se imenujejo tudi levkoantociani in so v sadju redko prisotni. Flavan 3-oli so monomerne enote kondeziranih taninov in so najpomembnejši fenoli v rdečih vinih. V sadju so odkrili štiri te spojine: katehin, epikatehin, galokatehin in epigalokatehin (Murkovic, 2003).</p>
+    <p xml:id="pb16.p6" xml:lang="sl">R1</p>
+    <p xml:id="pb16.p7" xml:lang="sl">H katehin</p>
+    <p xml:id="pb16.p8" xml:lang="sl">OH galokatehin</p>
+    <p xml:id="pb16.p9" xml:lang="sl">Slika 2: Strukturna formula nekaterih flavanolov.</p>
+    <p xml:id="pb16.p10" xml:lang="sl">2.2.3 Antocianidi</p>
+    <p xml:id="pb16.p11" xml:lang="sl">To so vodotopne spojine, ki tvorijo rdeče, modre in violične pigmente večine rastlin.</p>
+    <p xml:id="pb16.p12" xml:lang="sl">Antocianidov poznamo 23 vrst, od teh so najbolj pogosti delfinidin, pelargonidin in cianidin.</p>
+    <p xml:id="pb16.p13" xml:lang="sl">Večina antocianov se nahaja v obliki mono- in diglikozidov ter jih potem imenujemo antociani. Posamezni glavni tipi antocianidov se ločijo le po številu –OH skupin na aromatskem obroču B.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">R1 R2</p>
+    <p xml:id="pb17.p2" xml:lang="en">H H pelargonidin OH H cianidin OH OH delfinidin OCH3 H peonidin OCH3 OCH3 malvidin</p>
+    <p xml:id="pb17.p3" xml:lang="sl">Slika 3: Strukturne formule nekaterih antocianov.</p>
+    <p xml:id="pb17.p4" xml:lang="sl">2.2.4 Flavoni in flavonoli</p>
+    <p xml:id="pb17.p5" xml:lang="sl">Flavoni in flavonoli so v rastlinah in živilih rastlinskega izvora v obliki aglikonov in glikozidov. Za njih je značilna dvojna vez med 2. mestom in 3. mestom v C obroču. Flavonoli se od flavonov razlikujejo po tem, da vsebujejo hidroksilno skupino na 3. mestu, zato jih lahko imenujemo tudi 3-hidroksiflavoni. Na to skupino je pogosto vezana sladkorna komponenta (Rupnik, 1997).</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Čeprav so flavoni in flavonoli precej razširjeni v rastlinskih cvetovih, so običajno brezbarvni.</p>
+    <p xml:id="pb17.p7" xml:lang="sl">Vendar lahko na barvo cvetov posredno vplivajo v prisotnosti drugih barvnih spojin (Rupnik, 1997).</p>
+    <p xml:id="pb17.p8" xml:lang="sl">R1 R2</p>
+    <p xml:id="pb17.p9" xml:lang="sl">H H kamferol OH H kvercetin OH OH miricetin OCH3 H izoramnetin</p>
+    <p xml:id="pb17.p10" xml:lang="sl">Slika 4: Strukturne formule nekaterih flavonov in flavonolov.</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">2.2.5 Tanini</p>
+    <p xml:id="pb18.p2" xml:lang="sl">Tanini so rastlinski polifenoli, ki so sposobni izločanja beljakovin iz vodnih raztopin. Glede na njihovo strukturo jih običajno razdelimo na hidrolizabilne in kondenzirane tanine.</p>
+    <p xml:id="pb18.p3" xml:lang="sl">Kondenzirani tanini se pri segrevanju v kisli raztopini lahko pretvorijo v antocianide, zato jih imenujemo tudi proantocianidi (Maček, 2006).</p>
+    <p xml:id="pb18.p4" xml:lang="sl">Tanini povzročajo trpkek okus predvsem nedozorelega sadja. Med zorenjem se trpkost izgublja, zaradi povezovanja taninov v daljše verige, kar povzroči da postanejo tanini netopni.</p>
+    <p xml:id="pb18.p5" xml:lang="sl">2.2.6 Vloga fenolnih spojin</p>
+    <p xml:id="pb18.p6" xml:lang="sl">Polifenoli imajo pomemben učinek na oksidativno in mikrobiološko stabilnost živil.</p>
+    <p xml:id="pb18.p7" xml:lang="sl">Antimikrobno delovanje teh spojin je povezano z njihovo interakcijo s fosfolipidi celičnih membran, kar povzroči spremembe v prepustnosti membran mikrobov.</p>
+    <p xml:id="pb18.p8" xml:lang="sl">Polifenolne snovi vplivajo na hranilno in senzorično kakovost živil rastlinskega izvora.</p>
+    <p xml:id="pb18.p9" xml:lang="sl">Medtem, ko pri nižjih koncentracijah ščitijo živila pred kvarom, lahko višje koncentracije polifenolov ali njihovih oksidacijskih produktov vplivajo na spremembo barve živil.</p>
+    <p xml:id="pb18.p10" xml:lang="sl">Reagirajo pa tudi s proteini, ogljikovimi hidrati in minerali ter s tem znižujejo hranilno vrednost živil. Od njihove koncentracije sta odvisna tudi trpkost in grenkost živila (Rupnik, 1997)</p>
+    <p xml:id="pb18.p11" xml:lang="sl">2.2.7 Analitske metode za določanje fenolnih spojin</p>
+    <p xml:id="pb18.p12" xml:lang="sl">Za določevanje vsebnosti fenolnih spojin se uporablja veliko različnih metod; spektrofotometrične, titracijske, elektrokemične, kromatografske metode ter metode, ki temeljijo na določanju biološke aktivnosti polifenolov.</p>
+    <p xml:id="pb18.p13" xml:lang="sl">Zaradi relativne enostavnosti se zelo pogosto uporablja metoda s Folin- Ciocalteaujevim reagentom (F-C). Le-ta temelji na oksidaciji fenolov s F-C reagentom. Določene komponente F-C reagenta v reducirani obliki (MoO4+) absorbirajo pri valovni dolžini okoli 746 nm.</p>
+    <p xml:id="pb18.p14" xml:lang="sl">Koncentracija novonastalih komponent je premosorazmerna s koncentracijo oksidiranih spojin oz. TP v vzorcu. Ker se absorbanca linearno spreminja s koncentracijo fenolov, lahko s pomočjo umeritvene krivulje odčitamo koncentracijo TP v vzorcu (Roginsky in Lissi, 2005).</p>
+    <p xml:id="pb18.p15" xml:lang="sl">2.3 VITAMIN C</p>
+    <p xml:id="pb18.p16" xml:lang="sl">Vitamin C ali L-askorbinska kislina (L-AA) je vodotopen vitamin in je zaradi svoje antioksidativne lastnosti v živilski industriji vsestransko uporaben, predvsem kot konzervans, ki ohranja barvo, aromo in teksturo proizvodov ter na splošno izboljša obstojnost prehrambenih izdelkov. Kot antioksidacijsko sredstvo ga npr. dodajajo pri proizvodni piva, sadnih sokov, konzerviranega sadja in zelenjave, v industriji moke za povečanje pecilne kvalitete in videz kruha. Estri L-askorbinske kisline, predvsem L-askorbil-6-palmitat, se uporabljajo za antioksidacijsko zaščito maščob in olj zaradi večje topnosti (0,03 % pri sobni temperaturi) (Tasič, 2000).</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">2.3.1 Struktura L-askorbinske kisline</p>
+    <p xml:id="pb19.p2" xml:lang="sl">L-AA z molekulsko formulo C6H8O6 in relativno molsko maso 176,13 nastane v reakcijah biosinteze iz glukoze. Kemično je L-AA lakton 2-keto-L-gulonske kisline. Močno izražene kisle lastnost kažeta enolni hidroksilni skupini, vezani na C-2 in C-3 atomu, kar lahko ugotovimo iz strukture L-AA (Tasič, 2000).</p>
+    <p xml:id="pb19.p3" xml:lang="sl">Slika 5: Struktura L-askorbinske kisline, E 300.</p>
+    <p xml:id="pb19.p4" xml:lang="sl">L-AA je bela kristalna snov brez vonja s kiselkastim okusom in je na zraku relativno dobro obstojna. V vodnih raztopinah je izpostavljena številnim reakcijam razgradnje, ki so odvisni od: pH, temperature, prisotnosti kisika, kovinskih ionov (predvsem Fe in Cu), encimov. L-AA je stabilna pri kislem pH, zato se citrusom in sokovom iz citrusov njena koncentracija med skladiščenjem skoraj ne spreminja. Na razgradnjo L-AA v živilih močno vpliva način pakiranja živila in vrsta embalaže (Kennedy, 1992).</p>
+    <p xml:id="pb19.p5" xml:lang="sl">Vitamin C se lahko nahaja v dveh oblikah, kot L-AA, ki je močan reducent in kot Ldehidroaskorbinska kislina (L-DHA), ki je oksidirana oblika L-AA. Taka pretvorba se lahko zgodi v prisotnost toplote in kisika ali pa pri pretvorbi iz ene v drugo obliko sodelujejo encimi, dva izmed njih sta glutation dehidrogenaza in askorbat oksidaza.</p>
+    <p xml:id="pb19.p6" xml:lang="sl">Slika 6: Prehajanje med L-askorbinsko in L-dehidroaskorbinsko kislino (Gökmen in sod., 2000).</p>
+    <p xml:id="pb19.p7" xml:lang="sl">V bazičnih raztopinah je L-AA ob prisotnosti kisika manj stabilna kot pa v kislih raztopinah.</p>
+    <p xml:id="pb19.p8" xml:lang="sl">L-AA je dobro obstojna v metafosforni kislini (MFK) in v medijih, kjer so prisotni Cu2+ in Fe2+ ioni (Davey in sod., 2000).</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">Pomembna fizikalno-kemijska lastnost vitamina C je reverzibilna oksidacijsko-redukcijska reakcija med L-AA in L-DHA, kot je prikazano na sliki 6. Ugotovljeno je, da je prav ta redoksni sistem osnova primarne fiziološke aktivnosti vitamina C in da je odgovoren za mnoge biokemične reakcije v človeškem in živalskem organizmu. Večina rastlin in živali ima sposobnost sinteze vitamina C iz D-glukoze ali D-galaktoze preko glukonskega ciklusa.</p>
+    <p xml:id="pb20.p2" xml:lang="sl">Organizem človeka te sposobnosti nima in smo odvisni od eksogenega vira tega vitamina (Wilson, 2002).</p>
+    <p xml:id="pb20.p3" xml:lang="sl">2.3.2 Funkcija vitamina C</p>
+    <p xml:id="pb20.p4" xml:lang="sl">Vitamin C je izrednega pomena za človeški organizem, saj je najpomembnejši oksidant v ekstracelularni tekočini. Organizem varuje pred reaktivnimi prostimi radikali, saj z njimi reagira in s tem ščiti biološko pomembne molekule pred poškodbami. Vitamin C je specifični donor elektronov za 8 encimov. Trije od teh encimov sodelujejo v hidroksilaciji kolagena, dva v biosintezi karnitina (Levine, 1999).</p>
+    <p xml:id="pb20.p5" xml:lang="sl">L-AA kot reducent izboljša absorbcijo železa, saj reducira Fe (III) v Fe (II), ki ima boljšo topnost in se zato lažje absorbira. Absorpcijo železa poveča za 1,5- do 10-krat, odvisno od količine železa v telesu, testnega obroka in odmerka askorbata (Kuellmer, 1999).</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Pomembna funkcija vitamina C v organizmu je zaščita LDL holesterola pred oksidacijo in s tem zmanjšuje obolevnost za kardiovaskularnimi boleznimi. Glavna pot spremembe LDL je verjetno oksidativna sprememba zaradi lipidne peroksidacije, vitamin C pa v mnogih eksperimentalnih sistemih in vitro zavira s kovinami katalizirano oksidacijo LDL. Verjeten mehanizem je, da vitamin C reducira raztopljene proste radikale. Raziskovalci so predlagali tudi regeneracijo oksidiranega tokoferola (vitamina E) na LDL z vitaminom C, vendar je verjetno ta mehanizem za varovanje LDL manj pomemben. Vitamin C lahko zmanjša oksidativne okvare v žilnih stenah. V nasprotju z zaščitnim učinkom askorbata na LDL in vitro pa so učinki in vivo protislovni (Levine, 1999).</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Poglavitna vloga vitamina C v človeškem organizmu je preprečitev in zdravljenje skorbuta.</p>
+    <p xml:id="pb20.p8" xml:lang="sl">Strokovnjaki so zato določili priporočene dnevne odmerke vitamina C za različne starostne skupine. Prvi simptom ali znak pomanjkanja vitamina C je utrujenost, znana ravnodušnost "skorbuta". Utrujenost je prikrita, pojavi se pred ostalimi simptomi in znaki, in sicer pri plazemski koncentraciji pod 20 mol/L, nad to koncentracijo pa izgine. Ravnotežna koncentracija vitamina C v plazmi, dosežena z odmerkom 60 mg/dan, prepreči pomanjkanje za 10 do 14 dni, če bi človek nenadoma nehal uživati vitamin C. Ravnotežna plazemska koncentracija 55 do 60 mol/L, ki je dosežena pri 100 mg/dan, bi verjetno preprečevala nastanek pomanjkanja 1 mesec po nenadnem prenehanju uživanja vitamina C (Levine, 1999).</p>
+    <p xml:id="pb20.p9" xml:lang="sl">Skorbut je bolezen predvsem starejših ljudi, saj se zmanjša konzumiranje svežega sadja in zelenjave. Potreba po vitaminu C (tudi do 100 %) se povečuje pri vseh stresnih stanjih, pri jemanju aspirinov, kontracepcijskih tablet, antibiotikov, pri povečanem fizičnem naporu (Barovič, 1999).</p>
+    <p xml:id="pb20.p10" xml:lang="sl">Prehrana z 200 mg vitamina C ali več na dan iz sadja in zelenjave je povezana z zmanjšanim tveganjem za razvoj raka, predvsem raka ustne votline, požiralnika, želodca, debelega črevesa in pljuč. Pet obrokov sadja in zelenjave na dan verjetno deluje zaščitno. Jemanje vitamina C v obliki vitaminskih dodatkov pa v eksperimentalnih raziskavah ni zmanjšalo incidence kolorektalnega adenoma in želodčnega raka. Lahko, da je uživanje sadja in zelenjave povezano z nižjim tveganjem za nastanek raka ne le zaradi vitamina C, ampak morda zaradi povezav med askorbatom in bioaktivnimi sestavinami v teh živilih ali zaradi spojin, neodvisnih od vitamina C, ali pa zaradi značilnosti ljudi, ki jedo sadje in zelenjavo (Levine, 1999).</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">Preglednica 2: Dnevne potrebe po vitaminu C.</p>
+    <p xml:id="pb21.p2" xml:lang="sl">starost (let) VITAMIN C (mg/dan) 25 75 45 75</p>
+    <p xml:id="pb21.p3" xml:lang="sl">MOŠKI</p>
+    <p xml:id="pb21.p4" xml:lang="sl">ŽENSKE</p>
+    <p xml:id="pb21.p5" xml:lang="sl">NOSEČNICE</p>
+    <p xml:id="pb21.p6" xml:lang="sl">LAKTACIJSKO OBDOBJE</p>
+    <p xml:id="pb21.p7" xml:lang="sl">DEČKI</p>
+    <p xml:id="pb21.p8" xml:lang="en">DEKLICE</p>
+    <p xml:id="pb21.p9" xml:lang="sl">Če hrana vsebuje predvsem žita, stročnice, meso in mesne izdelke in zelo malo sadja in zelenjave ali pa sta sadje in zelenjava kuhana, lahko pride do avitaminoze vitamina C in posledično do pojava skorbuta.</p>
+    <p xml:id="pb21.p10" xml:lang="sl">2.3.3 Nezaželeni učinki</p>
+    <p xml:id="pb21.p11" xml:lang="sl">Neželeni učinki vitamina C v visokih odmerkih so diareje, sečni kamni, preobremenitev z železom. Tako velikih odmerkov, ki dajejo te neželene učinke, ni mogoče zaužiti s hrano in so povezani z nadomestki. Veliko polemik je vzbudilo poročilo, da več kot 500 mg vitamina C dnevno lahko povzroči poškodbe DNA. Nekateri deli DNA vsebujejo železo in vitamin C spremeni ion feri v fero, ta pa povzroči nastanek močnih prostih radikalov, ki z veliko kemično aktivnostjo poškodujejo nukleotide. Druge raziskave pri istem dnevnem odmerku poročajo o stabilizaciji genoma v DNA. Kljub temu ostaja dnevni odmerek 500 mg vitamina C po mnenju večine previsok predvsem zaradi težav s prebavili (Barovič, 1999).</p>
+    <p xml:id="pb21.p12" xml:lang="sl">2.3.4 Uporaba vitamina C</p>
+    <p xml:id="pb21.p13" xml:lang="sl">Vitamin C veliko uporabljajo v klinične namene, in sicer:</p>
+    <p xml:id="pb21.p14" xml:lang="sl">- pri zdravljenju skorbuta,</p>
+    <p xml:id="pb21.p15" xml:lang="sl">- pri zdravljenju slabokrvnosti,</p>
+    <p xml:id="pb21.p16" xml:lang="sl">- pri poškodbah,</p>
+    <p xml:id="pb21.p17" xml:lang="sl">- pri zdravljenju številnih psihiatričnih stanj,</p>
+    <p xml:id="pb21.p18" xml:lang="sl">- pri zdravljenju prehlada,</p>
+    <p xml:id="pb21.p19" xml:lang="sl">- pri preprečevanju in zdravljenju raka,</p>
+    <p xml:id="pb21.p20" xml:lang="sl">- pri znižanju krvnega pritiska.</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">- pri zdravljenju ateroskleroze</p>
+    <p xml:id="pb22.p2" xml:lang="sl">Antioksidativne lastnosti L-AA omogočajo njeno široko uporabo v živilski industriji.</p>
+    <p xml:id="pb22.p3" xml:lang="sl">Uporablja se predvsem kot konzervans. Pogosto pa se dodaja različnim živilom le kot nadomestek za izgubljeno vsebnost med tehnološkim postopkom (blanširanje, pasterizacija, zmrzovanje…).</p>
+    <p xml:id="pb22.p4" xml:lang="sl">2.3.5 Analitske metode za določanje vitamina C</p>
+    <p xml:id="pb22.p5" xml:lang="sl">Obstaja veliko analitskih metod, s katerimi lahko določamo vsebnost vitamina C (L-AA in LDHA) v prehranskih, bioloških in farmacevtskih vzorcih: UV absorbcija, redoks reakcije, elektrokemijske in encimsko oksidacijske metode, kromatografske metode (HPLC), spektrofotometrične metode in ostale (Rener, 2006).</p>
+    <p xml:id="pb22.p6" xml:lang="sl">2.3.5.1 Kromatografske metode</p>
+    <p xml:id="pb22.p7" xml:lang="sl">Kromatografske metode, na primer HPLC (tekočinska kromatografija visoke ločljivosti), so primerne za določanje tako L-AA kot L-DHA. Obe spojini lahko določamo direktno ali indirektno. Direktno določanje poteka tako, da hkrati merimo absorbanco pri 260 nm, kjer absorbira L-AA in pri 210 nm, kjer absorbira L-DHA. Kljub hkratnem merjenju absorbance in kljub hkratni uporabi dveh kolon pri direktnem določanju L-DHA z metodo HPLC in UVVis detektorjem se v največji meri pojavlja problem občutljivosti metode (Rener, 2006). Zato se L-DHA določa indirektno s predhodno redukcijo in merjenjem razlike signala L-AA pred in po redukciji. Večja je razlika v signalu, več L-DHA je v vzorcu. Za redukcijo L-DHA v LAA lahko uporabimo različne reducente, na primer homocistein, treitol, L-cistein, ditiotreitol (DTT) in tris(2-karboksietil) fosfin (TCEP) (Gökmen in sod., 2000).</p>
+    <p xml:id="pb22.p8" xml:lang="sl">• Tris(2-karboksietil)fosfin (TCEP)</p>
+    <p xml:id="pb22.p9" xml:lang="sl">Ta reducent deluje v širokem pH spektru, zato ga lahko uporabljamo za vzorce z bazično in kislo vrednostjo pH. Vzorci, reducirani z TCEP, so stabilni tudi po 96 urah. Čas za redukcijo s TCEP s končno koncentracijo 0,25 mmol/L v vzorcu pri sobni temperaturi je 90 minut. Zaradi teh pozitivnih lastnostih je TCEP največkrat uporabljen reducent (Lykkesfeldt, 2000).</p>
+    <p xml:id="pb22.p10" xml:lang="sl">Slika 7: Redukcija L-DHA v L-AA z reducentom TCEP (Lykkesfeldt, 2000).</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">• ditiotritol(DTT)</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Reducent DTT dobro pretvarja L-DHA V L-AA le pri nevtralnih ali rahlo kislih vrednostih pH. Optimalen pH za redukcijo z DTT je med 7 in 8, vendar pa ga lahko uporabimo tudi pri pH med 6,0 in 9,0. Ker pa sta L-DHA in L-AA pri teh vrednostih pH nestabilna, DTT ni najboljši reducent (Gökmen in sod., 2000).</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Količina dodanega reducenta je predvsem odvisna od koncentracije L-DHA v vzorcu. Z večanjem koncentracije reducenta skrajšujemo čas reakcije. Redukcija pri sobni temperaturi poteka od 90 do 120 minut. Pri vzorcih reduciranih z DTT je bila opažena 3,5 % izguba po 24 urah in 20 % izguba po 48 urah (Lykkesfeldt, 2000).</p>
+    <p xml:id="pb23.p4" xml:lang="sl">Za določevanje L-AA se uporabljajo tudi ionsko izmenjevalna kromatografija, papirna, plinska in tankoplastna kromatografija.</p>
+    <p xml:id="pb23.p5" xml:lang="sl">2.3.5.2 Spektrofotometrične metode</p>
+    <p xml:id="pb23.p6" xml:lang="sl">Za spektrofotometrično določevanje L-AA je opisanih več postopkov. Specifična metoda za analizo L-AA temelji na oksidaciji L-AA v L-DHA z 2,4-dinitrofenil hidrazinom. Pri reakciji tega barvila z L-AA nastane oranžno obarvan osazon, katerega absorbanco merimo v spektru rdeče svetlobe.</p>
+    <p xml:id="pb23.p7" xml:lang="sl">Na podoben način spektrofotometrično določamo L-AA z redukcijo Fe(III) v Fe(II), ki reagira z 1,10-fenantrolinom, ki absorbira svetlobo pri 515 nm.</p>
+    <p xml:id="pb23.p8" xml:lang="sl">Te metode ne podajajo nobene kvantitativne informacije o L-DHA. Spektrofotometrično določevanje L-DHA v UV območju je težko izvedljivo. L-DHA absorbira svetlobo pri 210 nm, kjer absorbirajo tudi druge moteče snovi, kot so različni pufri in raztopljeni plini, zato meritve niso natančne. Če želimo določiti vsebnost L-DHA, jo moramo najprej reducirati v LAA, ki absorbira v UV območju od 200-300 nm. Če želimo točno izmeriti koncentracijo LAA v vzorcu, moramo najprej prilagoditi pH raztopine (Rener, 2006).</p>
+    <p xml:id="pb23.p9" xml:lang="sl">2.4 NAVADNI ŠIPEK ( Rosa canina L.)</p>
+    <p xml:id="pb23.p10" xml:lang="sl">Šipek je ena najbolj pomembnih in najbolj poznanih zdravilnih rastlin. Prvi zapisi o tej rastlini izvirajo iz antične Mezopotamije. V 5. stoletju pr.n.št. so Kitajci stiskali šipkovo olje in napisali več knjig o gojitvi šipka. Šipek oz. vrtnico imamo lahko za eno najstarejših okrasnih rastlin, saj jo omenjajo že sumerski viri 2700 let pr.n.št. Zelo priljubljena je bila pri Grkih in Rimljanih. Po koncu starega veka je gojenje vrtnic v Evropi zamrlo in znova oživelo šele s križarskimi vojnami.</p>
+    <p xml:id="pb23.p11" xml:lang="sl">Preglednica 3: Klasifikacija navadnega šipka (Rosa canina L).</p>
+    <p xml:id="pb23.p12" xml:lang="sl">KRALJESTVO Plantae rastline DEBLO Magnoliophyta kritosemenke RAZRED Magnoliopsida dvokaličnice RED Rosales šipkovci DRUŽINA Rosaceae rožnice ROD Rosa šipek</p>
+    <p xml:id="pb23.p13" xml:lang="sl">VRSTA Rosa Canina navadni šipek</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">2.4.1 Morfološka in fiziološka razvrstitev šipkov</p>
+    <p xml:id="pb24.p2" xml:lang="sl">Listopadni, redko zimzeleni grmi iz rodu šipka rastejo v zmernem in subtropskem pasu severne poloble. Skupne značilnosti so bodice oz. emergence na pokončnih in lokasto upognjenih poganjkih. Listi so lihopernato sestavljeni, prilisti v spodnjem delu krilati in pogosto zrasli z listnim pecljem. Cvetovi so največkrat posamezni, veliki in variabilni.</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Plodovi, birni oreški, so sestavljeni iz rdečega, vrčasto odebeljenega cvetišča, v katerem so posamezni plodiči (oreški). Šipki imajo močno razvit koreninski sistem, zato dobro rastejo tudi na suhih tleh (Brus, 2005).</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Skupaj je znanih 200-250 vrst, poleg njih pa še več kot 10.000 različnih okrasnih sort (vrtnic), ki so nastale s križanji in selekcijo. Za mnoge med njimi danes sploh ni več znano, katere so njihove izhodiščne vrste. Iz cvetov nekaterih gojenih sort pridobivajo dišeče eterično olje - t. i. rožno olje. V Sloveniji je samoniklih 22 vrst šipkov. Zaradi velike variabilnosti, številnih predhodnih oblik in križancev je njihovo določevanje zelo težavno (Brus, 2005).</p>
+    <p xml:id="pb24.p5" xml:lang="sl">Šipki spadajo v družino rožnic, pet venčnih listov je rožnatih ali rdečkastih, njim za kontrast pa so številni rumeni prašniki. Šipki so žužkocvetke. Plodnih listov je več, ob zrelosti pa nastane posebna oblika plodu, ki jo imenujemo birni plod.</p>
+    <p xml:id="pb24.p6" xml:lang="sl">Slika 8: Cvet navadnega šipka</p>
+    <p xml:id="pb24.p7" xml:lang="sl">Rosa canina L. - navadni šipek je do 3 metre visok trnast grm, doma je v Evropi, zahodni in osrednji Aziji ter severni Afriki, udomačil pa se je tudi v Severni Ameriki. Pri nas cveti od maja do julija, dozori pa septembra in oktobra. Uspeva po suhih kamnitih pobočjih, med grmovjem, v živih mejah, ob poteh in gozdih obronkih. Do 8 cm široki rožnati, redko beli, dišeči cvetovi so razporejeni posamezno ali v češuljah z malo cvetov, od petih čašnih listov so trije urezani.</p>
+    <p xml:id="pb24.p8" xml:lang="sl">Ko plod dozori, čaša ali odpade ali se njeni listi upognejo navzdol. Birni plod je do poldrugi centimeter širok, jajčast, redko okrogel, gladek in rdeč, sestavljen je iz votlega cvetišča, ugreznjenega v cvetno os, v njem pa so oreški, mali trdi plodovi s po enim semenom, ki so sveži gladki, z oranžno liso na priostrenem koncu, spremljajo pa jih beli laski. Zrel, odprt, posušen birni plod, pokrit z laski na svoji notranji površini, ponavadi brez oreškov (Brus, 2005).</p>
+    <p xml:id="pb24.p9" xml:lang="sl">Rosa arvensis Huds. – njivski šipek je listopaden grm s tankimi, zelenimi, do 1,5 m dolgimi poganjki, ki se pogosto plazijo po tleh in hitro vkoreninjajo. Listi so 7-10 cm dolgi in lihopernato sestavljeni iz 5-7 eliptičnih, 1-3 cm dolgih, nežnih, sivkasto zelenih, golih in ne bleščečih lističev. Cvetovi so 2,5-5 cm široki, beli in brez vonja, plod je okroglast in temno rdeč. Raste skoraj po celi Evropi, zelo pogost je tudi v Sloveniji, kjer ga najdemo po gozdovih in grmovnatih mestih, največ v mezofilnih in termofilnih hrastovih gozdovih (Brus, 2005).</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">Pri nas je znan tudi vedno zeleni šipek (Rosa sempervirens), ki uspeva ob morju. Ima zimzelene liste in bele cvetove. V gorah nad gozdno mejo srečamo kimasto plodni šipek (Rosa pendulina) z ozkimi podolgovatimi plodovi. Redek in ogrožen je velikocvetni francoski šipek (Rosa gallica), rastlina suhih travnikov. V okrasne namene pa služi japonski šipek (Rosa rugosa).</p>
+    <p xml:id="pb25.p2" xml:lang="sl">2.4.2 Tehnološke sestava plodov gojenega navadnega šipka</p>
+    <p xml:id="pb25.p3" xml:lang="sl">Kemijska sestava plodov šipka je variabilna in je odvisna od mnogih dejavnikov. Najbolj pomemben dejavnik je onesnaženost okolja, stopnja zrelosti, kemična sestava tal, količina svetlobe, temperatura (Stefanovits-Banayai E. in sod., 2002) Sestava birnega ploda meso - 61,2 % semena (trdi plodovi) - 37,6 % venčni listi in pecelj – 1,2 %</p>
+    <p xml:id="pb25.p4" xml:lang="sl">Kemijska sestava birnega ploda (samo rdeče meso ) suha snov : 30 - 40 % fruktoza : 7-15 % skupne kisline: 1,7 – 3,4 % vitamin C: do 1.7 % pektin: 8 – 11 %</p>
+    <p xml:id="pb25.p5" xml:lang="sl">Kemijska sestava semen (trdi plod) hidroskopska vlaga: 18,84 % suha snov: 91,16 % beljakovine: 8,6 % vlaknine: 55,7 % pepel: 2,0 % vitamin E: 7,8 % snovi, ki ne vsebujejo dušika: 18,7 % Slika 9: Prečni prerez ploda šipka</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">Gojeni šipki imajo sorazmerno velike plodove in tehtajo med 1,7 in 2,4 g. Analize kažejo, da semena šipka vsebujejo 17 različnih aminokislin, vitamin D, vitamin A, vanilin, karotene in β-karotene (Foster in sod., 2000).</p>
+    <p xml:id="pb26.p2" xml:lang="sl">Podatki o mehanski in kemijski sestavi ploda gojenih šipkov so pomembni oz. potrebni za spremljanje kakovosti le-teh, kajti cena plodov šipka na mednarodnem trgu je odvisna od teh parametrov. Cena (v letu 2007) plodov šipka se giblje med:</p>
+    <p xml:id="pb26.p3" xml:lang="sl">- sveži plodovi 850 € / tono,</p>
+    <p xml:id="pb26.p4" xml:lang="sl">- zmrznjeni plodovi 1100 € / tono,</p>
+    <p xml:id="pb26.p5" xml:lang="sl">- posušeni plodovi 1700 € / tono.</p>
+    <p xml:id="pb26.p6" xml:lang="sl">Večletna analiza čajev na zahodnem tržišču je pokazala, da le redko vsebujejo 0,3 % vitamina C, kot to zahteva nemška farmakopeja. Švicarji so dejstvo upoštevali in v svoji farmakopeji ne predpisujejo več zahteve za najmanjšo vsebnost vitamina C, Francozi pa zahtevajo najmanj 0,2 %.</p>
+    <p xml:id="pb26.p7" xml:lang="sl">2.4.3 Uporaba in delovanje šipka</p>
+    <p xml:id="pb26.p8" xml:lang="sl">Šipek je najbogatejši naravni vir vitamina C, ki je v mesnatem ovoju ploda. Ugotovili so, da se tudi v posušenih in na različne načine predelanih plodovih ohrani velik del tega, sicer zelo neobstojnega vitamina. Največ vitamina je v zrelih plodovih, ki se še niso zmehčali in še niso zgubili živo rdeče barve. Prav tako pa so ugotovili, da se v najskrbneje shranjenih plodovih po enem letu ohrani le še 1/4 prvotne vrednosti vitamina C.</p>
+    <p xml:id="pb26.p9" xml:lang="sl">Ker zdravilna dejavnost šipka temelji predvsem na vitaminu C, njegova vsebnost pa je majhna, oziroma v njej hitro upade, ne moremo priporočiti zdravilske rabe, ki je odvisna od njegovega zadostnega odmerka, uživanje šipkovih izdelkov kot živilskega dodatka, bogatega z vitaminom C, pa je najprej skrb živilske industrije. Seveda ni nobene ovire za šipkovo rabo kot samostojnega okusnega napitka in za izboljšanje okusa v čajnih mešanicah, celo priporočamo jo, posebno še v okoliščinah, denimo prehladu, ko je treba popiti dovolj nadomestne tekočine v obliki toplih napitkov (Stefanovits-Banayai E. in sod., 2002).</p>
+    <p xml:id="pb26.p10" xml:lang="sl">Šipek deluje rahlo diuretično, pospešuje odvajanje vode. Je pomemben vir vitamina C. Zaradi pektina in sadnih kislin deluje tudi blago odvajalno.</p>
+    <p xml:id="pb26.p11" xml:lang="sl">Zaradi vitamina C uporabljamo šipek proti spomladanski utrujenosti, mlahavosti, bledici, krvavitvah dlesni. Šipkovi izdelki povečujejo odpornost organizma, zato jih uporabljamo pri bolezni z vročico, pri gripi in prehladih. Zelo koristijo slabokrvnim nosečnicam, doječim materam, katerim se zviša količina vitamina C v mleku. Biološki vitamin C pa je izredno pomemben za zdravje in razvoj dojenčka.</p>
+    <p xml:id="pb26.p12" xml:lang="sl">Druge snovi, ki jih vsebuje šipek, še zlasti semena, pa pospešujejo izločanje seča, ne da bi dražile ledvice. Povečano izločanje seča pa čisti kri in preprečuje nastajanje ledvičnih kamnov, peska in odlaganje soli sečne kisline, zato ga pijemo pri protinskih in revmatičnih boleznih.</p>
+    <p xml:id="pb26.p13" xml:lang="sl">Največ pridelanega šipka se posuši in uporabi v različnih čajih. Zanimiv produkt iz plodu šipka je tudi šipkovo olje. Poznano je kot holagogično zdravilo za odstranitev holesterola in njegovega prekurzorja iz organizma. Olje iz šipkovih semen niža krvno-žilno stensko napetost in izboljšuje funkcijo ledvic. Magnezijevi ioni, ki jih vsebuje olje, reducirajo tvorbo oksalne kisline, povečajo topnost kalcijevih oksalatov, fibrinoliza je tako bolj aktivna in deluje preventivno pred nastankom peska/kamnov in kepic v krvi in urinarnem traku. Olje vsebuje veliko linolne kisline (51,2 %), stearinske kisline (16,7 %), linolenske kisline (16,2 %) in druge nenasičene maščobne kisline (Stefanovits-Banayai E. in sod., 2002).</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">Navadni šipek uporabljamo v živilski in farmacevtski industriji, v naslednjih oblikah:</p>
+    <p xml:id="pb27.p2" xml:lang="sl">- posušen in zmrznjen plod (narezan na koščke, v prahu, celi plodovi),</p>
+    <p xml:id="pb27.p3" xml:lang="sl">- svež plod ( za prehrano otrok v obliki pireja, marmeladah, sokovih, gaziranih pijačah (Cockta), nektarjih, nizko alkoholnih vinih…</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">3 MATERIALI IN METODE DELA 3.1 MATERIALI</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Plodovi šipka</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Kot material raziskav smo uporabljali plodove navadnega šipka (Rosa canina L.). Ti so bili obrani na desetih različnih geografskih lokacijah Slovenije (Slika 10). Na vsakem grmu šipka smo obrali po 50 g različno zrelih plodov. Plodove smo na istem grmu obirali dvakrat, prvič v začetku septembra in drugič konec oktobra. Plodove smo nabirali po celotnem grmu, da bi plodovi predstavljali povprečen vzorec šipka.</p>
+    <p xml:id="pb28.p4" xml:lang="sl">Radeče (1) Mengeš (3) Branik (5) Koblarji-sonce (7) Izola (8) Hom (2) Ročinj (4) Ormož (6) Koblarji-senca (7 Ljubljana (9)</p>
+    <p xml:id="pb28.p5" xml:lang="sl">Slika 10: Zemljevid Slovenije z lokacijami vzorcev Materiali</p>
+    <p xml:id="pb28.p6" xml:lang="sl">- tehtiči</p>
+    <p xml:id="pb28.p7" xml:lang="sl">- čaše</p>
+    <p xml:id="pb28.p8" xml:lang="sl">- terilnica</p>
+    <p xml:id="pb28.p9" xml:lang="sl">- inzulinke</p>
+    <p xml:id="pb28.p10" xml:lang="sl">- CA filtri Millipore (0,20 μm)</p>
+    <p xml:id="pb28.p11" xml:lang="sl">- celulozni filtri</p>
+    <p xml:id="pb28.p12" xml:lang="sl">- avtomatske pipete</p>
+    <p xml:id="pb28.p13" xml:lang="sl">- liji</p>
+    <p xml:id="pb28.p14" xml:lang="sl">- 50 mL centrifugirke</p>
+    <p xml:id="pb28.p15" xml:lang="sl">- viale</p>
+    <p xml:id="pb28.p16" xml:lang="sl">- plastične vrečke</p>
+    <p xml:id="pb28.p17" xml:lang="sl">- kivete</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">- merilni valji</p>
+    <p xml:id="pb29.p2" xml:lang="sl">- bučke Aparature</p>
+    <p xml:id="pb29.p3" xml:lang="sl">- spektrofotometer</p>
+    <p xml:id="pb29.p4" xml:lang="sl">- tehtnica</p>
+    <p xml:id="pb29.p5" xml:lang="sl">- fluorimeter</p>
+    <p xml:id="pb29.p6" xml:lang="sl">- sistem HPLC z UV-Vis detektorjem</p>
+    <p xml:id="pb29.p7" xml:lang="sl">- centrifuga</p>
+    <p xml:id="pb29.p8" xml:lang="sl">- homogenizator</p>
+    <p xml:id="pb29.p9" xml:lang="sl">Reagenti in kemikalije</p>
+    <p xml:id="pb29.p10" xml:lang="sl">- MFK - metafosforna kislina</p>
+    <p xml:id="pb29.p11" xml:lang="sl">- Na2CO3 - natrijev karbonat</p>
+    <p xml:id="pb29.p12" xml:lang="sl">- Folin-Ciocalteaujev reagent (1:2 z vodo)</p>
+    <p xml:id="pb29.p13" xml:lang="sl">- H2SO4 - žveplena kislina</p>
+    <p xml:id="pb29.p14" xml:lang="sl">- Mili Q voda</p>
+    <p xml:id="pb29.p15" xml:lang="sl">- TCEP - Tris 2-karboksietil fosfin</p>
+    <p xml:id="pb29.p16" xml:lang="sl">- klorogenska kislina</p>
+    <p xml:id="pb29.p17" xml:lang="sl">- L-AA - L-askorbinska kislina (standard: 99,7 %; Sigma)</p>
+    <p xml:id="pb29.p18" xml:lang="sl">- Luminol - 5-amino-2,3-dihidro-1,4-ftalazindion</p>
+    <p xml:id="pb29.p19" xml:lang="sl">- AAPH - 2,2'-azobis-2-amidinopropan dihidroklorid</p>
+    <p xml:id="pb29.p20" xml:lang="sl">- NaOH - natrijev hidroksid</p>
+    <p xml:id="pb29.p21" xml:lang="sl">- DMSO - dimetilsulfoksid</p>
+    <p xml:id="pb29.p22" xml:lang="sl">- metanol</p>
+    <p xml:id="pb29.p23" xml:lang="sl">- metanojska kislina</p>
+    <p xml:id="pb29.p24" xml:lang="sl">3.2 NAČRT IN METODE DELA</p>
+    <p xml:id="pb29.p25" xml:lang="sl">3.2.1 Načrt dela</p>
+    <p xml:id="pb29.p26" xml:lang="sl">Ko smo nabrali šipkove plodove na vseh desetih lokacijah, je minilo 48 ur, preden smo začeli z njihovo ekstrakcijo.</p>
+    <p xml:id="pb29.p27" xml:lang="sl">Izvedli smo naslednje poskuse:</p>
+    <p xml:id="pb29.p28" xml:lang="sl">- v različnih ekstraktih šipka smo določili:</p>
+    <p xml:id="pb29.p29" xml:lang="sl">• vsebnost TP s F-C reagentom,</p>
+    <p xml:id="pb29.p30" xml:lang="sl">• vsebnost vitamina C z metodo HPLC,</p>
+    <p xml:id="pb29.p31" xml:lang="sl">• skupno AOP z luminescenčno metodo.</p>
+    <p xml:id="pb29.p32" xml:lang="sl">- primerjali smo vsebnosti TP in vsebnosti vitamina C in AOP plodov šipka, nabranih na različnih lokacijah.</p>
+    <p xml:id="pb29.p33" xml:lang="sl">- opazovali smo, kaj se dogaja z vsebnostjo TP, AOP in koncentracijo vitamina C med zorenjem od septembra do oktobra.</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">- opazovali smo, kako se spreminja vsebnost TP in koncentracija vitamina C v plodovih in njihovih ekstraktih pri shranjevanju (zmrznjeni plodovi, posušeni plodovi, različni zamrznjeni ekstrakti).</p>
+    <p xml:id="pb30.p2" xml:lang="sl">3.2.2 Metode dela</p>
+    <p xml:id="pb30.p3" xml:lang="sl">3.2.2.1 Ekstrakcija z MFK</p>
+    <p xml:id="pb30.p4" xml:lang="sl">V 50 mL centrifugirke smo zatehtali po 6 gramov različno zrelih šipkovih plodov, ki smo jih prej s škarjami razrezali zaradi lažje homogenizacije. Nato smo dolili 18 gramov hladne 2 % raztopine MFK in eno minuto homogenizirali, da je zmes postala povsem homogena. Za vsak vzorec smo pripravili po dva homogenata, da bi bili rezultati čim bolj povprečni. Homogenate smo filtrirali v majhne čaše skozi celulozni filter papir. Potem smo odpipetirali 400 μL filtrata in ga prenesli v mikrocentrifugirke. V polovico mikrocentrifugirk smo predhodno odpipetirali po 800 μL 2 % MFK, v drugo polovico pa 800 μL 10 mM TCEP, raztopljenega v 2 % MFK. Vsebino mikrocentrifugirk smo premešali in centrifugirali pet minut pri 14000 g.</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Nato smo supernatante s pomočjo injekcij prefiltrirali skozi CA filtre Millipore (0,20 μm) v nove mikrocentrifugirke. Tako pripravljene ekstrakte smo shranjevali v zamrzovalniku pri 20 °C.</p>
+    <p xml:id="pb30.p6" xml:lang="sl">3.2.2.2 Ekstrakcija z metanolom</p>
+    <p xml:id="pb30.p7" xml:lang="sl">V 50 mL centrifugirke smo zatehtali po 6 gramov različno zrelih šipkovih plodov, dolili 18 gramov raztopine 95 % metanola in 5 % mravljične kisline in po homogenizaciji prefiltrirali skozi celulozni filter papir. Filtrate smo nalili v centrifugirke in centrifugirali pet minut pri 14000 g. Nato smo supernatante s pomočjo injekcij prefiltrirali skozi CA filtre Millipore (0,20 μm) v nove mikrocentrifugirke. Shranjevali smo jih v zamrzovalniku pri -20 °C.</p>
+    <p xml:id="pb30.p8" xml:lang="sl">3.2.3 Določanje skupnih fenolov s Folin- Ciocalteaujevim reagentom (F-C) Princip te metode je oksidacija antioksidantov iz plodov šipka s F-C reagentom. Tako reduciran F-C reagent absorbira pri valovni dolžini 746 nm.</p>
+    <p xml:id="pb30.p9" xml:lang="sl">Reagenti:</p>
+    <p xml:id="pb30.p10" xml:lang="sl">- Folin-Ciocalteaujev reagent, razredčen z destilirano vodo v razmerju 1:2, Fluka, Švica,</p>
+    <p xml:id="pb30.p11" xml:lang="sl">- 20 % raztopina Na2CO3,</p>
+    <p xml:id="pb30.p12" xml:lang="sl">- destilirana voda,</p>
+    <p xml:id="pb30.p13" xml:lang="sl">- klorogenska kislina,</p>
+    <p xml:id="pb30.p14" xml:lang="sl">- 2 % MFK,</p>
+    <p xml:id="pb30.p15" xml:lang="sl">- 5 % metanol.</p>
+    <p xml:id="pb30.p16" xml:lang="sl">Izvedba</p>
+    <p xml:id="pb30.p17" xml:lang="sl">Umeritvena krivulja za ekstrakte v 2 % MFK:</p>
+    <p xml:id="pb30.p18" xml:lang="sl">Pripravili smo standardno raztopino kloragenske kisline, raztopljene v 2 % MFK, s koncentracijo 9,88×10-5 mol/L. V centrifugirke smo odpipetirali od 0 (slepi vzorec) do 425 μL standardne raztopine kloragenske kisline, dopolnili do končnega volumna 725 μL z 2 % MFK, dobro premešali in dodali 125 μL F-C reagenta, predhodno razredčenega z vodo v razmerju 1:2. Točno po petih minutah smo v vsako centrifugirko dodali še 125 μL 20 % Na2CO3. Točno po 60 minutah smo na spektrofotometru izmerili absorbance pri valovni dolžini 746 nm. Vsako koncentracijo kloragenske kisline v vzorcih smo merili v treh paralelkah. Iz izmerjenih absorbanc in znanih koncentracij standardnih raztopin smo narisali umeritveno krivuljo.</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Umeritvena krivulja za metanolne ekstrakte:</p>
+    <p xml:id="pb31.p2" xml:lang="sl">Pripravili smo standardno raztopino kloragenske kisline, raztopljene v 5 % metanolu, s koncentracijo 9,88×10-5 mol/L. Postopek za pripravo umeritvene krivulje je enak kot postopek z MFK, le da smo do končnega volumna 725 μL dolili 5 % metanol. Slepi vzorec smo pripravili tako, da smo namesto standardne raztopine dodali 5 % metanola. Tudi tukaj smo standardne raztopine analizirali v treh paralelkah.</p>
+    <p xml:id="pb31.p3" xml:lang="sl">Meritve skupnih fenolov v plodovih šipka:</p>
+    <p xml:id="pb31.p4" xml:lang="sl">Vzorce, ekstrahirane z 2 % MFK, smo 10-krat razredčili z 2 % MFK in v centrifugirke odpipetirali po 25 μL razredčenega vzorca, dopolnili z 2 % MFK do končnega volumna 725 μL in dodali 125 μL razredčenega F-C reagenta. Po 5 minutah smo dodali 125 μL 20 % Na2CO3 in nato po eni uri izmerili absorbanco pri 746 nm. Iz naklona umeritvene krivulje smo izračunali koncentracijo TP šipkovih plodovih kot ekvivalent kloragenske kisline.</p>
+    <p xml:id="pb31.p5" xml:lang="sl">Vzorce, ekstrahirane z metanolom, smo pred meritvijo 100-krat razredčili z 2 % MFK in v centrifugirke odpipetirali po 100 μL vzorca ter do končnega volumna 725 μL dopolnili z destilirano vodo. Postopek določevanja vsebnosti fenolov je enak kot pri vzorcih, ekstrahiranih z MFK. Vsak vzorec smo analizirali v treh paralelkah.</p>
+    <p xml:id="pb31.p6" xml:lang="sl">3.2.3 Določanje askorbinske kisline z metodo HPLC Reagenti:</p>
+    <p xml:id="pb31.p7" xml:lang="sl">- L-AA,</p>
+    <p xml:id="pb31.p8" xml:lang="sl">- H2SO4,</p>
+    <p xml:id="pb31.p9" xml:lang="sl">- 2 % MFK.</p>
+    <p xml:id="pb31.p10" xml:lang="sl">Izvedba</p>
+    <p xml:id="pb31.p11" xml:lang="sl">Kromatografski pogoji:</p>
+    <p xml:id="pb31.p12" xml:lang="sl">L-AA smo določali na koloni Synergie C18 250 mm × 4 mm, napoljeni z delci stacionarne faze dimenzije 4 μm. Kolono smo pred analizami spirali približno 10 minut z mobilno fazo (5 mM H2SO4) pri konstantnem pretoku 1 mL/min. Eluirane komponente smo spektrofotometrično detektirali pri 260 nm, analiza posameznega vzorca pa je trajala 15 min.</p>
+    <p xml:id="pb31.p13" xml:lang="sl">Umeritvena krivulja:</p>
+    <p xml:id="pb31.p14" xml:lang="sl">Pripravili smo standardno raztopino L-AA v 2 % MFK s koncentracijo 1,00 mg/mL, tako da smo v 50 mL bučki raztopili 50 mg L-AA. V vsako vialo smo odpipetirali od 5-250 μL standardne raztopine L-AA in z 2 % MFK dopolnili do 1 mL. Viale smo dobro premešali in takoj analizirali s HPLC. Vsako standardno raztopino L-AA smo izmerili v treh paralelkah.</p>
+    <p xml:id="pb31.p15" xml:lang="sl">Analiza vzorcev:</p>
+    <p xml:id="pb31.p16" xml:lang="sl">Za določevanje vsebnosti L-AA v vzorcih smo uporabili ekstrahirane in prefiltrirane vzorce.</p>
+    <p xml:id="pb31.p17" xml:lang="sl">V vialo smo odpipetirali 200 μL vzorca in dopolnili z 2 % MFK do 1 mL. Tako pripravljene vzorce smo dobro premešali in jih takoj analizirali s HPLC. Na ta način smo analizirali ekstrakte v 2 % MFK in ekstrakte, katerim smo dodali reducent TCEP. Vsak vzorec smo analizirali v dveh paralelkah.</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">Koncentracijo L-AA v vzorcu oz. ekstraktu smo določili s pomočjo naklona umeritvene krivulje. Za izračun vsebnosti L-AA v plodovih smo upoštevali razredčitve, ki smo jih naredili pri pripravi in analizi vzorcev.</p>
+    <p xml:id="pb32.p2" xml:lang="sl">3.2.4 Meritev antioksidativne aktivnosti z luminescenčno metodo Reagenti:</p>
+    <p xml:id="pb32.p3" xml:lang="sl">- luminol (5-amino-2,3-dihidro-1,4-ftalazindion),</p>
+    <p xml:id="pb32.p4" xml:lang="sl">- AAPH (2,2'-azobis2-amidinopropan dihidroklorid),</p>
+    <p xml:id="pb32.p5" xml:lang="sl">- NaOH,</p>
+    <p xml:id="pb32.p6" xml:lang="sl">- DMSO,</p>
+    <p xml:id="pb32.p7" xml:lang="sl">- L-AA.</p>
+    <p xml:id="pb32.p8" xml:lang="sl">Izvedba</p>
+    <p xml:id="pb32.p9" xml:lang="sl">Meritev skupne AOP s pomočjo luminola je potekala s pomočjo fluorimetra. V kiveto, smo odpipetirali 2 mL 40 mM NaOH, dodali 100 μL 240mM AAPH in nato še 5 μL 20 mM luminola. Vse kemikalije smo dobro premešali, da se je takoj oksidiral celoten luminol oz. so nastali luminolovi radikali, ki v vzburjenem stanju emitirajo svetlobo. Ker bi sicer za ta poskus uporabili luminometer, smo morali zaradi premajhnih signalov tako pripravljeno mešanico vzbujati pri 300 nm. Velikost reže smo nastavili na 5 mm, fotopomnoževalko pa na najvišjo zaznavnost, da bi bili signali čim večji. Emitirano svetlobo smo detektirali pri valovni dolžini 420 nm.</p>
+    <p xml:id="pb32.p10" xml:lang="sl">Umeritvena krivulja:</p>
+    <p xml:id="pb32.p11" xml:lang="sl">Pripravili smo standardne raztopine L-AA s koncentracijo 2,0 mg/mL, 240 mM vodno raztopino AAPH, 40 mM raztopino NaOH in 20 mM raztopino luminola v DMSO. V kivete smo dodali 2 mL 40 mM NaOH, 100 μL 240mM AAPH in na koncu še 5 μL 20 mM luminola. Mešanico smo vzbujali z svetlobo dolžine 300 nm in spremljali njeno emisijo pri 420 nm. Signal, ki smo ga zaznali takoj po dodatku luminola, je maksimum emitirane svetlobe mešanice zgoraj naštetih kemikalij. To je bila bazna linija. Po 5 minutah, ko je luminol oksidiral in je signal postal bolj stabilen, smo v kiveto dodali od 5-40 μL L- AA.</p>
+    <p xml:id="pb32.p12" xml:lang="sl">Signal je močno padel in se nato po določenem času vrnil do začetne vrednosti. Merili smo čas od dodatka L-AA do takrat, ko se je signal vrnil do polovice prvotne vrednosti. Časi so linearno naraščali s koncentracijo dodane L-AA, zato smo lahko iz podatkov narisali umeritveno krivuljo.</p>
+    <p xml:id="pb32.p13" xml:lang="sl">Analiza vzorcev:</p>
+    <p xml:id="pb32.p14" xml:lang="sl">Meritve smo opravljali enako kot pri pripravi umeritvene krivulje, le da smo v reakcijsko mešanico namesto standardne raztopine dodali 35 μL ekstrakta šipkov, obranega septembra, in 30 μL ekstrakta šipka, obranega oktobra. Za analize smo uporabili zamrznjene ekstrakte v 2</p>
+    <p xml:id="pb32.p15" xml:lang="sl">% MFK, ki smo jih pred analizo odtajali. Merili smo, koliko časa je preteklo od dodatka ekstrakta do povrnitve signala na polovico prvotne vrednosti. Vzorce smo merili v dveh paralelkah. Skupno antioksidativno aktivnost plodov šipka smo izračunali s pomočjo umeritvene krivulje kot ekvivalent L-AA.</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">4 REZULTATI</p>
+    <p xml:id="pb33.p2" xml:lang="sl">4.1 DOLOČANJE SKUPNIH FENOLOV</p>
+    <p xml:id="pb33.p3" xml:lang="sl">4.1.1 Umeritvene krivulje</p>
+    <p xml:id="pb33.p4" xml:lang="sl">Vsebnost TP smo v vzorcih šipka določali z Folin- Ciocalteaujev (F-C) reagentom. Plodove šipka smo ekstrahirali z dvema različnima topiloma; 2 % MFK in 95 % metanolom z dodatkom metanojske kisline. Na začetku smo naredili umeritveni krivulji za kloragensko kislino v teh dveh topilih. y = 0,169x</p>
+    <p xml:id="pb33.p5" xml:lang="sl">R2 = 0,997</p>
+    <p xml:id="pb33.p6" xml:lang="en">c / (m ol /L× 10-5)</p>
+    <p xml:id="pb33.p7" xml:lang="en">A</p>
+    <p xml:id="pb33.p8" xml:lang="sl">n m</p>
+    <p xml:id="pb33.p9" xml:lang="sl">Slika 11: Odvisnost absorbance (746 nm) od koncentracije kloragenske kisline, raztopljene v 2 % MFK, ob prisotnosti F-C reagenta y = 0,163x</p>
+    <p xml:id="pb33.p10" xml:lang="sl">R2 = 0,997</p>
+    <p xml:id="pb33.p11" xml:lang="en">c / (m ol/L× 10-5)</p>
+    <p xml:id="pb33.p12" xml:lang="en">A</p>
+    <p xml:id="pb33.p13" xml:lang="sl">n m</p>
+    <p xml:id="pb33.p14" xml:lang="sl">Slika 12: Odvisnost absorbance (746 nm) od koncentracije kloragenske, kisline, raztopljene v 5 % metanolu, ob prisotnosti F-C reagenta</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">Na slikah 11 in 12 vidimo, da se absorbanca pri 746 nm linearno povečuje s količino dodane kloragenske kisline. Naklona umeritvenih krivulj za izbrana medija se bistveno ne razlikujeta, saj je delež metanola v vodni raztopini v drugem primeru relativno majhen. Vse vsebnosti TP v vzorcih šipka smo določili s pomočjo umeritvenih krivulj na sliki 11 in sliki 12.</p>
+    <p xml:id="pb34.p2" xml:lang="sl">Koncentracije TP, ki so prikazane v nadaljevanju, odgovarjajo koncentraciji kloragenske kisline, ki ob prisotnosti F-C reagenta povzroči enako absorbanco kot fenolne spojine v vzorcih po reakciji z F-C reagentom.</p>
+    <p xml:id="pb34.p3" xml:lang="sl">4.1.2 Analiza različnih delov šipkovega plodu</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Na začetku raziskav smo vsebnost TP v plodovih šipka določali na dva načina, da bi ugotovili po kateri metodi določimo večjo koncentracijo TP v vzorcu. Določali smo vsebnost TP birnega ploda šipka (samo rdeče meso šipka) in le-to primerjali z vsebnostjo TP celega ploda šipka. Na podlagi meritev smo odločili, katere dele šipkovega ploda bomo homogenizirali oz. uporabljali za nadaljnje analize.</p>
+    <p xml:id="pb34.p5" xml:lang="en">25 μl ekstrakta 100 μl ekstrakta 300 μl ekstrakta</p>
+    <p xml:id="pb34.p6" xml:lang="en">A</p>
+    <p xml:id="pb34.p7" xml:lang="sl">n m redče meso ploda cel plod</p>
+    <p xml:id="pb34.p8" xml:lang="sl">Slika 13: Absorbanca pri 746 nm, v različnih delih šipkovega plodu Slika 13 prikazuje razlike v vsebnosti TP v rdečem mesu ploda in celem plodu šipka. Za meritve smo uporabili različne volumne 100-krat razredčenega ekstrakta šipka (glej poglavje 3.2.2.1), ekstrahiranega z 2 % MFK. Iz grafa je razvidno, da absorbanca narašča z večanjem volumna ekstrakta, saj je tudi skupna količina fenolnih spojin večja. Opazimo pa tudi, da je absorbanca in s tem vsebnost TP za približno 10 % večja v ekstraktih celotnega ploda šipka v primerjavi z ekstrakti samo rdečega mesa šipka. Zato smo za vse nadaljnje analize uporabili cel plod šipka.</p>
+    <p xml:id="pb34.p9" xml:lang="sl">4.1.3 Analiza plodov šipka, obranih septembra (prvo obiranje) Plodovom šipka, obranih na različnih lokacijah v Sloveniji, smo določili vsebnost TP s pomočjo F-C metode, kot je opisano v poglavju 3.2.3.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">Preglednica 4: Vsebnost skupnih fenolov vzorcev šipka, ekstrahiranih z različnimi topili koncentracija skupnih fenolov (mmol/g) 2 % MFK 2 % MFK z dodatkom TCEP 95 % metanol + 5 % metanojska kislina</p>
+    <p xml:id="pb35.p2" xml:lang="sl">Hom 0,092 ± 0,004 0,142 ± 0,006 0,084 ± 0,003 Mengeš 0,097 ± 0,004 0,126 ± 0,005 0,107 ± 0,004 Ročinj 0,066 ± 0,003 0,101 ± 0,004 0,068 ± 0,003 Branik 0,099 ± 0,004 0,123 ± 0,005 0,092 ± 0,004 Ormož 0,108 ± 0,004 0,124 ± 0,005 0,091 ± 0,004 Radeče 0,096 ± 0,004 0,102 ± 0,004 0,083 ± 0,003 Koblarji-prisojna stran 0,104 ± 0,004 0,122 ± 0,005 0,111 ± 0,004 Koblarji-osojna stran 0,067 ± 0,003 0,090 ± 0,004 0,069 ± 0,003 Izola 0,109 ± 0,004 0,136 ± 0,006 0,103 ± 0,004 Ljubljana 0,080 ± 0,003 0,105 ± 0,004 0,080 ± 0,003 0 1 2 3 4 5 6 7 8 9</p>
+    <p xml:id="pb35.p3" xml:lang="sl">10 11 12 13 14 15 16 Ho m</p>
+    <p xml:id="pb35.p4" xml:lang="sl">Me ng eš Ro čin j</p>
+    <p xml:id="pb35.p5" xml:lang="sl">Br an ik Or mo ž</p>
+    <p xml:id="pb35.p6" xml:lang="sl">Ra de če Ko b.pr iso ja Ko b.os oja Izo la</p>
+    <p xml:id="pb35.p7" xml:lang="sl">Lju blj an ak on ce nt ra ci ja</p>
+    <p xml:id="pb35.p8" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb35.p9" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb35.p10" xml:lang="sl">/ ( m m ol</p>
+    <p xml:id="pb35.p11" xml:lang="sl">/g</p>
+    <p xml:id="pb35.p12" xml:lang="sl">x</p>
+    <p xml:id="pb35.p13" xml:lang="sl">) 2 % MFK 2 % MFK + TCEP METANOL</p>
+    <p xml:id="pb35.p14" xml:lang="sl">Slika 14: Koncentracija skupnih fenolov v plodovih šipka, obranih na različnih lokacijah in ekstrahiranih v različnih topilih</p>
+    <p xml:id="pb35.p15" xml:lang="sl">Kot je razvidno iz preglednice 4 in slike 14 so razlike v koncentraciji TP med plodovi, obranimi istočasno na različnih lokacijah relativno velike. Opazimo še, da imajo plodovi, ki so zoreli na grmih šipka v toplih območjih oz. na območjih z veliko sonca (Ormož, Izola, Branik, Koblarji-prisoja), večjo vsebnost TP. To je najverjetneje zaradi vpliva sonca na plodove, saj se očitno v plodovih, ki so bolj izpostavljeni soncu, sintetizira več polifenolov kot v plodovih, ki zorijo v senci.</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">Vsem vzorcem, katerim smo dodali reducent TCEP, smo določili višjo vsebnost TP. Višje vsebnosti so najverjetneje posledica redukcije L-DHA v L-AA, saj je znano, da tudi L-AA prispeva k signalu pri določevanju TP s F-C reagentom. Razlike so deloma lahko tudi posledica reakcije reducenta TCEP s F-C reagentom.</p>
+    <p xml:id="pb36.p2" xml:lang="sl">Rezultati kažejo še, da tudi polarnost topila deloma vpliva na vsebnost fenolov v ekstraktih.</p>
+    <p xml:id="pb36.p3" xml:lang="sl">Toda med ekstrakti s polarno raztopino 2 % MFK in ekstraktih z manj polarnim metanolom ni prišlo do bistvenih razlik, zato smo za nadaljnje analize uporabili vzorce, ekstrahirane v 2 % vodni raztopini MFK.</p>
+    <p xml:id="pb36.p4" xml:lang="sl">4.1.4 Analiza plodov šipka, obranih konec oktobra (drugo obiranje) Drugo obiranje je potekalo konec oktobra, 42 dni po prvem obiranju. Meritev vsebnosti TP je pokazala, da se je njihova koncentracija v tem času spremenila.</p>
+    <p xml:id="pb36.p5" xml:lang="sl">Preglednica 5: Vsebnost skupnih fenolov vzorcev šipka, obranih na različnih lokacijah in ekstrahiranih z različnimi topili koncentracija skupnih fenolov (mmol/g) 2 % MFK 2 % MFK z dodatkom TCEP 95 % metanol + 5 % metanojska kislina</p>
+    <p xml:id="pb36.p6" xml:lang="sl">Hom 0,124 ± 0,005 0,143 ± 0,006 0,071 ± 0,003 Mengeš 0,113 ± 0,005 0,128 ± 0,006 0,094 ± 0,004 Ročinj 0,091 ± 0,004 0,105 ± 0,004 0,088 ± 0,004 Branik 0,116 ± 0,005 0,133 ± 0,006 0,103 ± 0,004 Ormož 0,164 ± 0,007 0,167 ± 0,007 0,101 ± 0,004 Radeče 0,121 ± 0,005 0,137 ± 0,006 0,075 ± 0,003 Koblarji-prisoja 0,084 ± 0,004 0,113 ± 0,005 0,061 ± 0,003 Koblarji-osoja 0,076 ± 0,003 0,108 ± 0,005 0,050 ± 0,002 Izola 0,152 ± 0,006 0,178 ± 0,008 0,124 ± 0,005 Ljubljana 0,083 ± 0,004 0,105 ± 0,004 0,088 ± 0,004</p>
+    <p xml:id="pb36.p7" xml:lang="sl">Iz pregelednice 5 in slike 15 je razvidno, da se tudi plodovi, obrani konec oktobra razlikujejo po vsebnosti TP. Podobno kot pri prvem obiranju imajo plodovi, ki so zoreli na grmih šipka v toplih območjih oz. na območjih kjer ni bilo večkratne močne slane (Ormož, Izola), večjo vsebnost TP.</p>
+    <p xml:id="pb36.p8" xml:lang="sl">Največjo koncentracijo TP smo zopet določili v plodovih, ekstrahiranih z MFK ob prisotnosti reducenta TCEP.</p>
+    <p xml:id="pb36.p9" xml:lang="sl">Opazimo tudi, da je vsebnost manj polarnih TP, ki smo jih ekstrahirali z metanolom, precej manjša, kot je vsebost polarnih, ektrahiranih z 2 % MFK.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Izola Ljubljana ko nc en tr ac ija</p>
+    <p xml:id="pb37.p3" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb37.p4" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb37.p5" xml:lang="sl">/ ( m m ol</p>
+    <p xml:id="pb37.p6" xml:lang="sl">/g</p>
+    <p xml:id="pb37.p7" xml:lang="sl">x</p>
+    <p xml:id="pb37.p8" xml:lang="sl">2 % MFK 2 % MFK+ TCEP METANOL</p>
+    <p xml:id="pb37.p9" xml:lang="sl">Slika 15: Koncentracije skupnih fenolov v plodovih šipka, obranih na različnih lokacijah in ekstrahiranih v različnih topilih</p>
+    <p xml:id="pb37.p10" xml:lang="sl">4.1.5 Primerjava vsebnosti skupnih fenolov v različno zrelih plodovih 0 1 2 3 4 5 6 7 8 9</p>
+    <p xml:id="pb37.p11" xml:lang="sl">10 11 12 13 14 15 16 17 18 Ho m</p>
+    <p xml:id="pb37.p12" xml:lang="sl">Me ng eš Ro čin j</p>
+    <p xml:id="pb37.p13" xml:lang="sl">Br an ik Or mo ž</p>
+    <p xml:id="pb37.p14" xml:lang="sl">Ra de če Ko b.pr iso ja Ko b.os oja Izo la</p>
+    <p xml:id="pb37.p15" xml:lang="sl">Lju blj an ak on ce nt ra ci ja</p>
+    <p xml:id="pb37.p16" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb37.p17" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb37.p18" xml:lang="sl">/ ( m m ol</p>
+    <p xml:id="pb37.p19" xml:lang="sl">/g</p>
+    <p xml:id="pb37.p20" xml:lang="sl">x</p>
+    <p xml:id="pb37.p21" xml:lang="sl">) 2 % MFK (prvo obiranje) 2 % MFK (drugo obiranje)</p>
+    <p xml:id="pb37.p22" xml:lang="sl">Slika 16: Primerjava koncentracij skupnih fenolov v različno zrelih plodovih, obranih iz enakega grma šipka in ekstrahiranih z 2 % MFK</p>
+    <p xml:id="pb37.p23" xml:lang="sl">Kot vidimo na sliki 16, se je koncentracija TP v plodovih šipka v preiskovalnem obdobju povečala od 4 % do 50 %. Največje povečanje koncentracije TP smo določili v vzorcih Ormož in Izola, ki sta med preiskovanimi lokacijami najtoplejši. Vsebnost TP se je zmanjšala le v vzorcu Koblarji – osoja, saj je bila vsebnost TP kar za 20 % manjša kot septembra. Na podlagi rezultatov lahko sklepamo, da se koncentracija TP v plodovih med zorenjem povečuje. Očitno vsebnost fenolov v plodovih narašča tudi v poznih jesenskih mesecih.</p>
+    <p xml:id="pb37.p24" xml:lang="sl">Deloma lahko povečanje koncentracije TP pripišemo tudi izgubi vode v plodovih, ki so dlje časa zoreli na grmu, kar pripelje do višje koncentracije aktivnih substanc v plodu.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">V nekaterih vzorcih pa se je povečalo razmerje med vsebnostjo polarnih in manj polarnih fenolnih spojin. Medtem, ko je bila vsebnost fenolnih spojin, ekstrahiranih v 2 % MFK in 95</p>
+    <p xml:id="pb38.p2" xml:lang="sl">% metanolu, pri prvem obiranju skoraj enaka, je pri drugem obiranju vsebnost manj polarnih fenolnih spojin bistveno nižja kot tista, ki se ekstrahirajo v polarnem topilu.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">4.1.6 Vsebnost skupnih fenolov v plodovih, ki so dolgo časa zoreli na grmu šipka Da bi ugotovili, kako se vsebnost TP spreminja v daljšem časovnem obdobju, smo vzorce šipka, ki raste pred Biotehniško fakulteto, analizirali vsak mesec, od septembra do decembra.</p>
+    <p xml:id="pb38.p4" xml:lang="sl">Pred vsako analizo smo obrali sveže plodove, jih isti dan homogenizirali in izmerili vsebnost TP. Plodove smo vedno ekstrahirali tako v 2 % MFK kot v 2 % MFK z dodatkom reducenta</p>
+    <p xml:id="pb38.p5" xml:lang="sl">TCEP.</p>
+    <p xml:id="pb38.p6" xml:lang="sl">10 12 14 16 18 20 22 24 26 takoj (prvo obiranje) po 42 dneh (drugo obiranje) po 67 dneh po 94 dnehko nc en tr ac ija</p>
+    <p xml:id="pb38.p7" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb38.p8" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb38.p9" xml:lang="sl">/ ( m m ol</p>
+    <p xml:id="pb38.p10" xml:lang="sl">/g</p>
+    <p xml:id="pb38.p11" xml:lang="sl">x</p>
+    <p xml:id="pb38.p12" xml:lang="sl">2 % MFK 2 % MFK + TCEP</p>
+    <p xml:id="pb38.p13" xml:lang="sl">Slika 17: Koncentracija skupnih fenolov v plodovih šipka (vzorec Ljubljana), ki so dlje časa zoreli na grmu. Za ekstrakcijsko sredstvo smo uporabili 2 % MFK in 2 % MFK z dodatkom reducenta Na sliki 17 vidimo, da vsebnost TP s časom zorenja narašča tudi v pozni jeseni. Koncentracija TP v plodovih, obranih decembra je 2-krat višja, kot v tistih, obranih septembra. Višjo vsebnost TP smo po pričakovanju vedno določili v vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta.</p>
+    <p xml:id="pb38.p14" xml:lang="sl">Lahko zaključimo, da se vsebnost fenolnih spojin tudi v mesecih pozno jeseni in začetku zime povečuje. Deloma zopet lahko povečanje koncentracije fenolnih spojin pripišemo sušenju plodov v mrzlih mesecih, saj smo za analizo vedno uporabili 6 g obranih plodov, ne glede na njihovo vsebnost vode. Vendar pa je povečanje preveliko, da bi bilo samo posledica sušenja.</p>
+    <p xml:id="pb38.p15" xml:lang="sl">4.1.7. Vsebnost skupnih fenolov v plodovih, shranjenih pri -20 °C Merili smo vsebnost TP plodov šipka, shranjenih v zamrzovalniku pri -20 °C. Za analize smo uporabili plodove, obrane septembra v Ročinju. Cele plodove smo shranjevali v zamrzovalniku. Ekstrakcijo smo izvedli v 2 % MFK in v ekstraktu merili vsebnost fenolnih spojin.</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">0 1 2 3 4 5 6 7 8 takoj po 32 dneh po 66 dneh po 93 dnehko nc en tr ac ija</p>
+    <p xml:id="pb39.p2" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb39.p3" xml:lang="sl">fe no lo v/</p>
+    <p xml:id="pb39.p4" xml:lang="sl">(m m ol</p>
+    <p xml:id="pb39.p5" xml:lang="sl">/g</p>
+    <p xml:id="pb39.p6" xml:lang="sl">x</p>
+    <p xml:id="pb39.p7" xml:lang="sl">Shranjevanje celih plodov</p>
+    <p xml:id="pb39.p8" xml:lang="sl">Slika 18: Koncentracija skupnih fenolov v plodovih šipka (vzorec Ročinj), shranjenih v zamrzovalniku in za analizo ekstrahiranih v 2 % MFK</p>
+    <p xml:id="pb39.p9" xml:lang="sl">Iz slike 18 je razvidno, da vsebnost TP v plodovih šipka s časom pada skoraj linearno. Po treh mesecih shranjevanja pri -20 °C znaša koncentracija TP samo še 62 % začetne vrednosti, kar pomeni, da zamrzovanje celih plodov ni najboljši način shranjevanja plodov šipka.</p>
+    <p xml:id="pb39.p10" xml:lang="sl">4.1.8 Vsebnost skupnih fenolov v ekstraktih, zamrzjenih pri -20 °C Vzorec (Ormož-prva trgatev) smo ekstrahirali v 2 % MFK (glej poglavje 3.2.2.1) in izmerili vsebnost fenolov. Meritve smo opravili takoj, po 2-mesečnem in po 6-mesečnem shranjevanju ekstraktov pri -20 °C in mu takoj izmerili vsebnost TP.</p>
+    <p xml:id="pb39.p11" xml:lang="sl">svež plod (10.09.2007) po 93 dneh po 191 dneh ko nc en tr ac ija</p>
+    <p xml:id="pb39.p12" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb39.p13" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb39.p14" xml:lang="sl">/ ( m m ol</p>
+    <p xml:id="pb39.p15" xml:lang="sl">/g</p>
+    <p xml:id="pb39.p16" xml:lang="sl">x</p>
+    <p xml:id="pb39.p17" xml:lang="sl">Slika 19: Koncentracija skupnih fenolov v šipkovih ekstraktih (vzorec Ormož), analiziranih takoj ter po treh in šestih mesecih shranjevanja v zamrzovalniku pri -20 °C</p>
+    <p xml:id="pb39.p18" xml:lang="sl">Iz slike 19 je razvidno, da se koncentracija TP v plodovih, shranjenih v 2 % MFK pri -20 °C, ni zmanjšala veliko. Po treh mesecih shranjevanja ekstraktov smo zaznali 12 % zmanjšanje vsebnosti TP. Nato se koncentracija po nadaljnjih štirih mesecih shranjevanja ekstrakta skoraj ni spremenila (opazimo zmanjšanje le za 2 %). Po šestih mesecih shranjevanja ekstrakta v 2 % MFK se koncentracija TP tako zmanjša za 14 %. Zato je 2 % MFK dober medij za shranjevanje zamrznjenih vzorcev, ki vsebujejo fenolne spojine. Tak način shranjevanja bistveno manj vpliva na vsebnost fenolnih snovi v plodovih šipka, kot pa shranjevanje celih plodov, saj se je tam vsebnost TP v treh mesecih znižala kar za 40 %. Zato je bolje plodove takoj ekstrahirati z 2 % MFK, ekstrakte pa shranjevati pri - 20 °C.</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">4.1.9 Vsebnost skupnih fenolov v posušenih plodovih, ekstrahiranih z 2 % MFK Ugotavljali smo tudi, kakšen vpliv ima sušenje plodov šipka na vsebnost TP. Zato smo izmerili vsebnost TP v sveže obranih plodovih in jo primerjali z vsebnostjo TP v plodovih po 14-dnevnem sušenju na sobni temperaturi.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">Zatehtali smo 50,00 g svežih plodov, nabranih 15.11.2007 v Ljubljani, jih narezali in sušili na sobni temperaturi. Po dveh tednih smo plodove ponovno stehtali in ugotovili, da je bila masa suhih plodov 30,25 g. To pomeni, da plodovi šipka vsebujejo okoli 40 % vode.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">10 12 14 16 18 20 sveži plodovi posušeni plodovik on ce nt ra ci ja</p>
+    <p xml:id="pb40.p4" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb40.p5" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb40.p6" xml:lang="sl">/ m m ol</p>
+    <p xml:id="pb40.p7" xml:lang="sl">/g</p>
+    <p xml:id="pb40.p8" xml:lang="sl">x</p>
+    <p xml:id="pb40.p9" xml:lang="sl">2 % MFK 2 % MFK + TCEP</p>
+    <p xml:id="pb40.p10" xml:lang="sl">Slika 20: Primerjava koncentracij skupnih fenolov v svežih plodovih in posušenih plodovih šipka (vzorec Ljubljana, 15.11.2007)</p>
+    <p xml:id="pb40.p11" xml:lang="sl">Kot je razvidno iz slike 20, se je koncentracija TP v posušenih plodovih zmanjšala za 57 % v primerjavi z sveže nabranimi plodovi. To je veliko zmanjšanje vsebnosti TP in je pomemben podatek predvsem pri izdelavi čaja in drugih napitkov iz posušenih plodov šipka.</p>
+    <p xml:id="pb40.p12" xml:lang="sl">Če upoštevamo količino vode v svežih plodovih, ker smo za meritev TP v obeh primerih zatehtali po 6 gramov plodov, vsebujejo posušeni plodovi le 25 % TP, v primerjavi s svežimi plodov.</p>
+    <p xml:id="pb40.p13" xml:lang="sl">Analizirali smo tudi komercialni šipkov čaj proizvajalca Droga Kolinska. Čaj vsebuje 75 % plodov šipka in 25 % cvetov hibiskusa. Vzorec iz čajne vrečke smo ekstrahirali z 2 % MFK.</p>
+    <p xml:id="pb40.p14" xml:lang="sl">Vzorec je vseboval 0,067 mmol/g TP. To je primerljivo z našim posušenim vzorcem (slika 20). Vendar je bil čaj v vrečke pakiran pred nekaj meseci, mi pa smo naš vzorec analizirali takoj po sušenju. Zato verjetno k visokim vsebnostim TP prispevajo cvetovi hibiskusa ali plodovi šipka, ki so bili nabrani na drugi lokaciji in so vsebovali več fenolnih spojin.</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">Za primerjavo smo prav tako smo izmerili vsebnost TP v zmletem posušenem šipku, staremu približno eno leto. Ta je vseboval je le 0,045 mmol/g TP. To pomeni, da se koncentracija fenolnih snovi pada z časom shranjevanja.</p>
+    <p xml:id="pb41.p2" xml:lang="sl">4.2 DOLOČANJE VITAMINA C</p>
+    <p xml:id="pb41.p3" xml:lang="sl">Količino vitamin C v plodovih šipka smo določali z metodo HPLC s spektrofotometrično detekcijo (UV-Vis). V viale smo odmerili po 200 μL ekstrakta plodov (glej poglavje 3.2.2.1) in 800 μL 2 % MFK, vzorce položili na avtomatski vzorčevalnik ter izvedli analizo.</p>
+    <p xml:id="pb41.p4" xml:lang="sl">Zanimale so nas koncentracije L-AA v vzorcih in razmerje med L-AA in L-DHA. Najprej smo naredili umeritveno krivuljo s standardno raztopino L-AA (Slika 21). y = 0,6963x</p>
+    <p xml:id="pb41.p5" xml:lang="sl">R2 = 0,9985</p>
+    <p xml:id="pb41.p6" xml:lang="sl">0 15 30 45 60 75 90 105 120 135 150 165 180 195 210 225 240 γL-AA(mg/L)</p>
+    <p xml:id="pb41.p7" xml:lang="sl">PO V R</p>
+    <p xml:id="pb41.p8" xml:lang="sl">ŠI N A</p>
+    <p xml:id="pb41.p9" xml:lang="sl">P</p>
+    <p xml:id="pb41.p10" xml:lang="sl">IK A</p>
+    <p xml:id="pb41.p11" xml:lang="sl">N A</p>
+    <p xml:id="pb41.p12" xml:lang="sl">U V</p>
+    <p xml:id="pb41.p13" xml:lang="sl">-V IS</p>
+    <p xml:id="pb41.p14" xml:lang="sl">D</p>
+    <p xml:id="pb41.p15" xml:lang="en">ET EK TO R</p>
+    <p xml:id="pb41.p16" xml:lang="sl">JU</p>
+    <p xml:id="pb41.p17" xml:lang="sl">Slika 21: Umeritvena krivulja za L-askorbinsko kislino na sistemu HPLC. Odvisnost površine pika od koncentracije L-AA. Kolona Synergie C18 250 mm × 4 mm, mobilna faza 5 mM H2SO4, pretok 1 mL</p>
+    <p xml:id="pb41.p18" xml:lang="sl">/min, detekcija pri 254 nm</p>
+    <p xml:id="pb41.p19" xml:lang="sl">Za izračun masne koncentracije L-AA v razredčenem vzorcu smo uporabili naslednjo enačbo: γL-AA(mg/L) = površina kromatografskega vrha/0,6965</p>
+    <p xml:id="pb41.p20" xml:lang="sl">Po zgornji enačbi smo dobili koncentracijo L-AA v viali, nato pa smo z upoštevanjem vseh razredčitev izračunali dejansko koncentracijo L-AA v plodovih.</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">4.2.1 Vsebnost vitamina C v vzorcih prvega obiranja</p>
+    <p xml:id="pb42.p2" xml:lang="sl">Preglednica 6: Vsebnosti L-askorbinske kisline z metodo HPLC v vzorcih šipka,ekstrahiranih z 2 % MFK, in vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta TCEP.</p>
+    <p xml:id="pb42.p3" xml:lang="sl">delež L-askorbinske kisline ( % ) Vzorci, obrani septembra (prvo obiranje)</p>
+    <p xml:id="pb42.p4" xml:lang="sl">2 % MFK 2 % MFK z dodatkom</p>
+    <p xml:id="pb42.p5" xml:lang="sl">TCEP</p>
+    <p xml:id="pb42.p6" xml:lang="sl">Hom 0,17 ± 0,01 0,23 ± 0,02 Mengeš 0,39 ± 0,03 0,40 ± 0,03 Ročinj 0,34 ± 0,02 0,48 ± 0,03 Branik 0,38 ± 0,02 0,40 ± 0,03 Ormož 0,29 ± 0,02 0,30 ± 0,02 Radeče 0,37 ± 0,02 0,45 ± 0,03 Koblarji-prisoja 0,43 ± 0,03 0,44 ± 0,03 Koblarji-osoja 0,36 ± 0,02 0,37 ± 0,02 Izola 0,39 ± 0,03 0,40 ± 0,03 Ljubljana 0,48 ± 0,03 0,51 ± 0,03</p>
+    <p xml:id="pb42.p7" xml:lang="sl">Slika 22: Rezultati meritev vsebnosti L-askorbinske kisline z metodo HPLC v vzorcih šipka, ekstrahiranih z 2 % MFK, in vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta TCEP Iz preglednice 6 in slike 22 lahko razberemo, da je količina L-AA v preiskovalnih vzorcih zelo različna in je predvsem odvisna od podnebnih značilnosti območja, v katerem so zoreli plodovi. Med meritvami izstopa vzorec Hom, saj je vsebnost L-AA skoraj trikrat manjša kot v vzorcu Ljubljana. Ostali vzorci vsebujejo med 0,25 % in 0,48 % L-AA.</p>
+    <p xml:id="pb42.p8" xml:lang="sl">Vidimo tudi, da so signali v vzorcih, ekstrahiranih z dodatkom TCEP, ki reducira L-DHA v L-AA višji, kar pomeni, da vzorci vsebujejo poleg L-AA tudi oksidirano obliko le-te.</p>
+    <p xml:id="pb42.p9" xml:lang="sl">Vsebnost L-DHA v posameznih vzorcih je dejansko razlika med levim in desnim stolpcem.</p>
+    <p xml:id="pb42.p10" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja</p>
+    <p xml:id="pb42.p11" xml:lang="sl">Kob.-osoja Izola Ljubljana</p>
+    <p xml:id="pb42.p12" xml:lang="sl">Las ko rb in sk a ki sl in a</p>
+    <p xml:id="pb42.p13" xml:lang="sl">2 % MFK 2 % MFK + TCEP</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">Na sliki 22 opazimo,da se vzorci razlikujejo v vsebnosti vitamina C in razmerju med L-AA in L-DHA. Vzorci povprečno vsebujejo 7,1 % L-DHA.</p>
+    <p xml:id="pb43.p2" xml:lang="sl">4.2.2 Vsebnost vitamina C v vzorcih drugega obiranja</p>
+    <p xml:id="pb43.p3" xml:lang="sl">Preglednica 7: Vsebnosti L-askorbinske kisline z metodo HPLC v vzorcih šipka, ekstrahiranih z 2 % MFK, in vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta TCEP</p>
+    <p xml:id="pb43.p4" xml:lang="sl">delež L-askorbinske kisline ( % ) Vzorci, obrani septembra (drugo obiranje)</p>
+    <p xml:id="pb43.p5" xml:lang="sl">2 % MFK 2 % MFK z dodatkom</p>
+    <p xml:id="pb43.p6" xml:lang="sl">TCEP</p>
+    <p xml:id="pb43.p7" xml:lang="sl">Hom 0,25 ± 0,02 0,29 ± 0,02 Mengeš 0,27 ± 0,02 0,34 ± 0,02 Ročinj 0,33 ± 0,02 0,42 ± 0,03 Branik 0,30 ± 0,02 0,39 ± 0,03 Ormož 0,12 ± 0,01 0,23 ± 0,02 Radeče 0,06 ± 0,01 0,10 ± 0,01 Koblarji-prisoja 0,34 ± 0,02 0,38 ± 0,03 Koblarji-osoja 0,28 ± 0,02 0,39 ± 0,03 Izola 0,29 ± 0,02 0,34 ± 0,02 Ljubljana 0,36 ± 0,02 0,46 ± 0,03 0</p>
+    <p xml:id="pb43.p8" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb43.p9" xml:lang="sl">Izola Ljubljana</p>
+    <p xml:id="pb43.p10" xml:lang="sl">Las ko rb in sk a ki sl in a</p>
+    <p xml:id="pb43.p11" xml:lang="sl">2 % MFK 2 % MFK + TCEP</p>
+    <p xml:id="pb43.p12" xml:lang="sl">Slika 23: Vsebnosti L-askorbinske kisline z metodo HPLC v vzorcih šipka, ekstrahiranih z 2 % MFK, in vzorcih, ekstrahiranih z 2 % MFK z dodatkom reducenta TCEP</p>
+    <p xml:id="pb43.p13" xml:lang="sl">Iz preglednice 7 in slike 23 je razvidno, da imajo skoraj vsi vzorci koncentracijo L-AA med 0,25 % in 0,36 %. Izjemi sta vzorca Ormož in Radeče, saj je koncentracija L-AA bistveno nižja kot pri ostalih vzorcih.</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">Količina L-AA je pri vseh vzorcih, ekstrahiranih z dodatkom reducenta TCEP, višja, kar pomeni, da vsi vzorci poleg L-AA vsebujejo tudi L-DHA. Pri vzorcih smo v skupnem vitaminu C določili, da povprečno vsebujejo 28 % L-DHA.</p>
+    <p xml:id="pb44.p2" xml:lang="sl">4.2.3 Primerjava vsebnosti vitamina C v različno zrelih plodovih 4.2.3.1 L-askorbinska kislina 0</p>
+    <p xml:id="pb44.p3" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb44.p4" xml:lang="sl">Izola Ljubljana</p>
+    <p xml:id="pb44.p5" xml:lang="en">-a sk or b in sk a ki sl in a (</p>
+    <p xml:id="pb44.p6" xml:lang="sl">) prvo obiranje drugo obiranje</p>
+    <p xml:id="pb44.p7" xml:lang="sl">Slika 24: Primerjava vsebnosti L-askorbinske kisline v vzorcih šipka iz prvega in drugega obiranja, ekstrahiranih z 2 % MFK</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Na sliki 24 vidimo, da se je pri vseh vzorcih količina L-AA v času zorenja plodov, od septembra do konca oktobra, zmanjšala. Samo pri vzorcu Hom, ki je ob prvem obiranju vseboval najmanj L-AA, se je koncentracija L-AA povečala. Pri vzorcu Radeče smo določili le 18 % začetne vsebnosti L-AA. Pri ostalih vzorcih smo določili zmanjšanje koncentracije LAA od 11 % do 58 %.To je najverjetneje posledica nizkih temperatur in krajšanje dneva oz. vseh parametrov, ki so se spremenili v tem mesecu zorenja plodov šipka.</p>
+    <p xml:id="pb44.p9" xml:lang="sl">4.2.3.2 L-dehidroaskorbinska kislina</p>
+    <p xml:id="pb44.p10" xml:lang="sl">Da bi ugotovili, kako se spreminja vsebnost oksidirane oblike vitamina C (L-DHA) v času zorenja šipka, smo za vse vzorce izračunali njegovo vsebnost in rezultate primerjali.</p>
+    <p xml:id="pb44.p11" xml:lang="sl">Količina L-DHA se je med prvim in drugim obiranjem povečala pri večini vzorcev (preglednice 8 in slika 25). Izjeme so vzorci Ročinj, Hom in Radeče. Pri vzorcu Hom je v tem obdobju prišlo do povečane vsebnosti L-AA, kar pomeni, da je v tem obdobju nastajala tudi reducirana oblika vitamina C, zato očitno vsebnost oksidirane oblike ni naraščala, ampak se je celo nekoliko zmanjšala. Pri vzorcu Radeče je v tem času prišlo do velikega zmanjšanja vsebnosti celotnega vitamina C, tako reducirane kot oksidirane oblike, kar je razvidno iz slike 24 in slike 25.</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Preglednica 8: Primerjava količine L-dehidroaskorbinske kisline v vzorcih šipka prve in druge trgatve</p>
+    <p xml:id="pb45.p2" xml:lang="sl">delež L-dehidroaskorbinske kisline (%) Vzorci prvo obiranje drugo obiranje Hom 0,055 ± 0,008 0,038 ± 0,005 Mengeš 0,007 ± 0,001 0,065 ± 0,009 Ročinj 0,099 ± 0,014 0,084 ± 0,012 Branik 0,024 ± 0,003 0,093 ± 0,013 Ormož 0,009 ± 0,001 0,110 ± 0,015 Radeče 0,079 ± 0,011 0,041 ± 0,006 Koblarji-prisoja 0,012 ± 0,002 0,038 ± 0,005 Koblarji-osoja 0,015 ± 0,002 0,044 ± 0,006 Izola 0,011 ± 0,002 0,039 ± 0,005 Ljubljana 0,051 ± 0,008 0,107 ± 0,015 0</p>
+    <p xml:id="pb45.p3" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb45.p4" xml:lang="sl">Izola Ljubljana</p>
+    <p xml:id="pb45.p5" xml:lang="en">-D H A</p>
+    <p xml:id="pb45.p6" xml:lang="en">(m g/</p>
+    <p xml:id="pb45.p7" xml:lang="sl">L-DHA (prvo obiranje) L-DHA (drugo obiranje)</p>
+    <p xml:id="pb45.p8" xml:lang="sl">Slika 25: Vsebnost L-dehidroaskorbinske kisline v vzorcih šipka prve in druge trgatve Količina L-DHA se je najbolj povečala pri vzorcu Ormož in to kar za 13-krat, sledi mu vzorec Mengeš, kateremu se je L-DHA povečala za 10-krat, pri ostalih vzorcih pa se je povečala okoli 3-krat. Lahko tudi opazimo, da je pri vzorcih, kjer se je količina L-AA najbolj zmanjšala, prišlo do največjega povečanja vsebnosti L-DHA. Verjetno nizke temperature povzročajo prehajanje L-AA v njeno oksidirano obliko L-DHA.</p>
+    <p xml:id="pb45.p9" xml:lang="sl">4.2.3.3 Skupni vitamin C</p>
+    <p xml:id="pb45.p10" xml:lang="sl">Da bi ugotovili, kako zorenje vpliva na skupno vsebnost vitamina C (tako reducirane kot oksidirane oblike), smo primerjali njegovo vsebnost v plodovih, obranih septembra, in plodovih, obranih konec oktobra.</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb46.p2" xml:lang="sl">Izola Ljubljana</p>
+    <p xml:id="pb46.p3" xml:lang="sl">Las ko rb in sk a ki sl in a</p>
+    <p xml:id="pb46.p4" xml:lang="sl">PRVO OBIRANJE DRUGO OBIRANJE</p>
+    <p xml:id="pb46.p5" xml:lang="sl">Slika 26: Primerjava vsebnosti celotnega vitamina C v vzorcih šipka iz prvega in drugega obiranja, ekstrahiranih z 2 % MFK</p>
+    <p xml:id="pb46.p6" xml:lang="sl">Na sliki 26 vidimo, da se vsebnost skupnega vitamina C v vseh plodovih v pozni jeseni zmanjšuje. Izjema je le vzorec Hom, kjer se je vsebnost skupnega vitamina C celo malo povečala.</p>
+    <p xml:id="pb46.p7" xml:lang="sl">4.2.4 Vsebnost vitamina C v plodovih, ki so dolgo časa zoreli na grmu šipka Svežim plodovom šipka smo v obdobju poznega zorenja mesečno merili vsebnost vitamina C.</p>
+    <p xml:id="pb46.p8" xml:lang="sl">Za analizo smo uporabljali vzorec Ljubljana in pred vsako analizo obrali sveže plodove, jih isti dan homogenizirali in izmerili vsebnost TP. Plodove smo ekstrahirali v 2 % MFK z dodatkom reducenta TCEP.</p>
+    <p xml:id="pb46.p9" xml:lang="en">0,1 0,2 0,3 0,4 0,5 0,6 september oktober december Vi ta m in</p>
+    <p xml:id="pb46.p10" xml:lang="en">C</p>
+    <p xml:id="pb46.p11" xml:lang="sl">Slika 27: Koncentracija vitamina C v plodovih šipka (vzorec Ljubljana), ki so dlje časa zoreli na grmu. Za ekstrakcijsko sredstvo smo uporabili 2 % MFK z dodatkom reducenta Na sliki 27 vidimo, da se je v obdobju treh mesecev vsebnost vitamina C v plodovih, ki so zoreli na grmu, zmanjšala za 14 %. Količina vitamina C se v plodovih šipka zmanjšuje tudi v poznih jesenskih mesecih in v začetku zime.</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">4.3 VSEBNOST SKUPNIH FENOLOV BREZ VITAMINA C</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Da bi ugotovili, kolikšen prispevek pri določanju fenolnih spojin s pomočjo F-C reagenta ima vitamin C, smo naredili umeritveno krivuljo za L-AA. y = 0,060x</p>
+    <p xml:id="pb47.p3" xml:lang="sl">R2 = 0,992</p>
+    <p xml:id="pb47.p4" xml:lang="en">0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 γL-AA /(m g/L)</p>
+    <p xml:id="pb47.p5" xml:lang="en">A</p>
+    <p xml:id="pb47.p6" xml:lang="en">n m</p>
+    <p xml:id="pb47.p7" xml:lang="sl">Slika 28: Odvisnost absorbance pri 746 nm od koncentracije L-AA, raztopljene v 2 % MFK, ob prisotnosti F-C reagenta.</p>
+    <p xml:id="pb47.p8" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb47.p9" xml:lang="sl">Izola Ljubljana ko nc en tr ac ija</p>
+    <p xml:id="pb47.p10" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb47.p11" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb47.p12" xml:lang="sl">/ ( m m ol</p>
+    <p xml:id="pb47.p13" xml:lang="sl">/g</p>
+    <p xml:id="pb47.p14" xml:lang="sl">x</p>
+    <p xml:id="pb47.p15" xml:lang="sl">) koncentracija skupnih fenolov v 2 % MFK koncetracija skupnih fenolov brez vitamina C Slika 29: Primerjava koncentracij skupnih fenolov v plodovih šipka (prvo obiranje) s koncentracijo skupnih fenolov brez vitamina C</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">Da bi ugotovili, kolikšen delež signala ob prisotnosti F-C reagenta ni posledica vitamina C, ki je v plodovih, ampak drugih antioksidantov, ki reagirajo s F-C reagentom, smo od celotne vsebnosti fenolnih spojin, ki smo jo določili z F-C metodo, odšteli signal, ki je bil posledica vitamina C. Za koncentracije L-AA smo uporabili rezultate meritev le-teh v posameznih vzorcih z metodo HPLC (tabela 6).</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Pri tej metodi določanja antioksidantov oz. TP lahko vidimo, da ima vitamin C samo 10-20 % prispevek k signalu pri določanju TP s F-C metodo (slika 29).</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Podobne rezultate smo dobili tudi pri vzorcih drugega obiranja, kar je razvidno iz slike 30.</p>
+    <p xml:id="pb48.p4" xml:lang="sl">Hom Mengeš Ročinj Dornberg Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb48.p5" xml:lang="sl">Izola Ljubljana ko nc en tr ac ija</p>
+    <p xml:id="pb48.p6" xml:lang="sl">s ku pn ih</p>
+    <p xml:id="pb48.p7" xml:lang="sl">fe no lo v</p>
+    <p xml:id="pb48.p8" xml:lang="sl">/ ( m ol</p>
+    <p xml:id="pb48.p9" xml:lang="en">x</p>
+    <p xml:id="pb48.p10" xml:lang="sl">) koncentracija skupnih fenolov v 2 % MFK koncentracija skupnih fenolov brez vitamina C Slika 30: Primerjava koncentracij skupnih fenolov v plodovih šipka (drugo obiranje) z koncentracijo skupnih fenolov brez vitamina C</p>
+    <p xml:id="pb48.p11" xml:lang="sl">Rezultati kažejo, da je poleg vitamina C v plodovih šipka prisotnih precej antioksidantov, ki reagirajo z F-C reagentom. Kot je znano, F-C metoda poleg fenolnih spojin zaznava tudi veliko drugih antioksidantov.</p>
+    <p xml:id="pb48.p12" xml:lang="sl">4.4 DOLOČANJE SKUPNE ANTIOKSIDATIVNE AKTIVNOSTI</p>
+    <p xml:id="pb48.p13" xml:lang="sl">Meritev skupne antioksidativne aktivnosti (AOP) smo v plodovih šipka merili s pomočjo fluorimetra. Za izračun skupne AOP vzorcev smo najprej pripravili umeritveno krivuljo z LAA (slika 31).</p>
+    <p xml:id="pb48.p14" xml:lang="sl">Ker smo za standard pri izvedbi umeritvene krivulje uporabili L-AA, so rezultati podani kot ekvivalent koncentracije L-AA, čeprav na signal pri tej metodi vplivajo tudi drugi prisotni antioksidanti v vzorcih. y = 0,0224x</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">R2 = 0,9715</p>
+    <p xml:id="pb49.p2" xml:lang="sl">0 5 10 15 20 25 30 35 40 L-askorbinska kislina (mg/L) t ( m in</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Slika 31: Umeritvena krivulja za določanje skupne antioksidativne aktivnosti (AOP). Odvisnost časa inhibicije luminiscence od. koncentracije L-AA</p>
+    <p xml:id="pb49.p4" xml:lang="sl">Preglednica 9: Primerjava količine L-askorbinske kisline v vzorcih šipka, ekstrahiranih v 2 % MFK</p>
+    <p xml:id="pb49.p5" xml:lang="sl">količina L-AA (mmol/g ) Vzorci ekstrahirani v 2 % MFK prvo obiranje drugo obiranje Hom 0,051 ± 0,004 0,130 ± 0,010 Mengeš 0,056 ± 0,005 0,130 ± 0,010 Ročinj 0,047 ± 0,004 0,120 ± 0,009 Branik 0,053 ± 0,005 0,092 ± 0,007 Ormož 0,037 ± 0,003 0,031 ± 0,002 Radeče 0,073 ± 0,006 0,038 ± 0,003 Koblarji-prisoja 0,068 ± 0,006 0,107 ± 0,008 Koblarji-osoja 0,036 ± 0,003 0,053 ± 0,005 Izola 0,068 ± 0,006 0,096 ± 0,008 Ljubljana 0,066 ± 0,006 0,086 ± 0,007</p>
+    <p xml:id="pb49.p6" xml:lang="sl">Iz preglednice 9 vidimo, da AOP v času zorenja od septembra do konca oktobra skoraj v vseh vzorcih naraste. Najbolj se AOP poveča v vzorcih Hom, Mengeš in Ročinj, kar za okrog 150 %. AOP se je zmanjšala le v vzorcih Ormož in Koblarji-prisoja. V tem obdobju narašča tudi vsebnost TP, kot je opisano v poglavju 4.1.5.</p>
+    <p xml:id="pb49.p7" xml:lang="sl">Vzorec Hom ima nizko AOP, plodovi nabrani iz tega območja imajo tudi najnižjo koncentracijo vitamina C in TP.</p>
+    <p xml:id="pb49.p8" xml:lang="sl">Najnižjo AOP prvega obiranja ima vzorec Ormož, ta vzorec ima sicer visoko vsebnost fenolov, ima pa zelo nizko koncentracijo vitamina C, kar najverjetneje vpliva na nizko AOP.</p>
+    <p xml:id="pb49.p9" xml:lang="sl">Plodovi, obranih septembra, povprečno vsebujejo 0,055 mmol/g skupnih antioksidantov, plodovih obrani oktobra pa vsebujejo 0,091mmol/g skupnih antioksidantov.</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">Hom Mengeš Ročinj Branik Ormož Radeče Kob.prisoja Kob.osoja</p>
+    <p xml:id="pb50.p2" xml:lang="sl">Izola Ljubljana</p>
+    <p xml:id="pb50.p3" xml:lang="sl">A O P</p>
+    <p xml:id="pb50.p4" xml:lang="sl">(m m ol</p>
+    <p xml:id="pb50.p5" xml:lang="sl">/g</p>
+    <p xml:id="pb50.p6" xml:lang="sl">x</p>
+    <p xml:id="pb50.p7" xml:lang="sl">L-AA (prvo obiranje) L-AA (drugo obiranje)</p>
+    <p xml:id="pb50.p8" xml:lang="sl">Slika 32: Antioksidativna aktivnost (AOP) v vzorcih šipka prve in druge trgatve Iz slike 32 lahko razberemo, da imata vzorca Ormož in Radeče nižjo AOP pri drugem obiranju. Najverjetneje je to zaradi izgube vitamina C v tem obdobju, saj smo ravno pri teh dveh vzorcih določili največje zmanjšanje le-tega (poglavje 4.2.3.1).</p>
+    <p xml:id="pb50.p9" xml:lang="sl">V preiskovalnem obdobju smo opazili, da se AOP večine vzorcev v času zorenja povečuje, kar najverjetneje pomeni, da L-AA ni poglavitni antioksidant, ki vpliva na inhibicijo luminiscence pri tej metodi. Analize L-AA so namreč pokazale, da se njene vsebnosti med zorenjem zmanjšujejo, medtem pa se količina TP povečuje. To pomeni, da k AOP močno prispevajo polifenolne spojine, ki so tudi dobri antioksidanti.</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">5 RAZPRAVA IN SKLEPI 5.1 RAZPRAVA</p>
+    <p xml:id="pb51.p2" xml:lang="sl">V okviru diplomskega dela smo želeli ugotoviti, če obstajajo razlike med plodovi šipka, ki so rastli in zoreli na različnih lokacijah Slovenije. V opravljenem poskusu smo primerjali koncentracije TP, vitamina C in AOP plodov, obranih na 10 različnih lokacijah Slovenije.</p>
+    <p xml:id="pb51.p3" xml:lang="sl">Merili smo spremembo zgoraj naštetih parametrov v plodovih šipka med zorenjem v poznih jesenskih mesecih med septembrom in oktobrom (po 42 dneh) in prišli do sklepa, da so spremembe velike.</p>
+    <p xml:id="pb51.p4" xml:lang="sl">Preden smo začeli analizirati vzorce, smo morali izbrati dobro ekstrakcijsko sredstvo, ki nam bo prineslo optimalne rezultate. Izbirali smo med 2 % MFK, 2 % MFK z dodatkom reducenta TCEP in manj polarnim topilom, ki je vsebovalo 95 % metanola in 5 % metanojske kisline, in nato primerjali razlike v vsebnosti TP.</p>
+    <p xml:id="pb51.p5" xml:lang="sl">Ker smo hoteli iz plodov šipka ekstrahirati maksimalno količino preiskovanih snovi, smo med sabo primerjali različne dele plodu šipka. Na podlagi rezultatov smo za nadaljnje analize homogenizirali cel plod šipka, ker smo dobili najvišje vrednosti preiskovalnih snovi.</p>
+    <p xml:id="pb51.p6" xml:lang="sl">5.1.1 Vsebnost skupnih fenolov</p>
+    <p xml:id="pb51.p7" xml:lang="sl">Pri vseh meritvah vzorcev, obranih septembra (prva trgatev), smo največjo koncentracijo TP dobili v vzorcih, ekstrahiranih z 2 % MFK z dodatkom reagenta TCEP. Reducent TCEP reducira L-DHA v L-AA, ta pa najverjetneje zviša signal pri F-C metodi, saj metoda ni preveč specifična in poleg fenolnih spojin zaznava tudi ostale antioksidante. Sledili so vzorci, ekstrahirani z 2 % MFK, in vzorci, pri katerih smo za ekstrakcijsko sredstvo uporabili 95 % metanol in 5 % metanojske kisline. Med zadnjima dvema topiloma nismo izmerili velikih razlik, koncentracija TP je pri obeh topilih skoraj enaka.</p>
+    <p xml:id="pb51.p8" xml:lang="sl">Vsebnost TP v plodovih, obranih septembra, se pri vseh desetih vzorcih ne razlikuje za več kot 30 %.</p>
+    <p xml:id="pb51.p9" xml:lang="sl">Pri meritvah vzorcev, obranih konec oktobra (drugo obiranje), smo največjo koncentracijo TP izmerili v vzorcih, ekstrahiranih v 2 % MFK z dodatkom reagenta TCEP, in vzorcih, ekstrahiranih z 2 % MFK. Znižala se je koncentracija manj polarnih antioksidantov ekstrahiranih v 95 % metanolu z dodatkom 5 % metanojske kisline.</p>
+    <p xml:id="pb51.p10" xml:lang="sl">Tudi pri vzorcih, obranih oktobra, smo največjo koncentracijo TP določili v plodovih, ki so zoreli na grmih šipka v toplejših legah Slovenije.</p>
+    <p xml:id="pb51.p11" xml:lang="sl">V preiskovalnem obdobju dveh mesecev smo največje povečanje koncentracije TP opazili pri vzorcih, kateri rastejo oz. zorijo v toplejših območjih Slovenije. To sta vzorca iz Ormoža in Izole. Tudi pri vseh ostalih vzorcih je koncentracija TP narasla, a ne tako veliko. Izjema je le vzorec Koblarji-prisoja, pri kateremu smo zabeležili zmanjšanje vsebnosti teh snovi.</p>
+    <p xml:id="pb51.p12" xml:lang="sl">Naraščanje vsebnosti TP vidimo tudi v dvomesečnem obdobju poznega zorenja. Za analizo smo uporabljali vzorec iz Ljubljane, ker grm šipka raste na lokaciji Biotehniške fakultete.</p>
+    <p xml:id="pb51.p13" xml:lang="sl">Tako smo lahko pred vsako analizo obrali sveže plodove in mu mesečno merili vsebnost teh snovi od septembra do decembra. Rezultati so pokazali, da se je koncentracija TP v plodovih šipka v tem obdobju povečala za več kot polovico.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">Preverjali smo obstojnost TP v vzorcih, ekstrahiranih z 2 % MFK in shranjenih v zamrzovalniku pri - 20 °C. Koncentracija TP se v sveže ekstrahiranem vzorcu in vzorcu, ekstrahiranem v 2 % MFK, ki smo ga shranjevali več mesecev v zamrzovalniku pri - 20 °C, ne razlikuje veliko. Po pol leta shranjevanja zamrznjenega ekstrakta smo opazili 14 % zmanjšanje koncentracije TP.</p>
+    <p xml:id="pb52.p2" xml:lang="sl">Merili smo tudi koncentracijo TP v celih plodovih, shranjenih v zamrzovalniku pri - 20 °C.</p>
+    <p xml:id="pb52.p3" xml:lang="sl">Na začetku smo koncentracijo TP izmerili v sveže obranem plodu, nato pa plodove shranjevali v zamrzovalniku pri - 20 °C in mesečno merili koncentracijo TP v plodovih. Za ekstrakcijsko sredstvo smo uporabili 2 % MFK. Koncentracija TP v plodovih, shranjenih na ta način, konstantno pada, tako smo po treh mesecih shranjevanja v plodovih zaznali le 62 % prvotne vsebnosti TP.</p>
+    <p xml:id="pb52.p4" xml:lang="sl">Primerjali smo tudi vsebnost TP v posušenih in sveže obranih plodovih. Plodove smo posušili in ugotovili, da vsebujejo približno 40 % vode. V posušenih plodovih je koncentracija TP štirikrat manjša kot v svežih plodovih. Med sušenjem plodovi izgubijo veliko fenolnih spojin.</p>
+    <p xml:id="pb52.p5" xml:lang="sl">5.1.2 Vsebnost vitamina C</p>
+    <p xml:id="pb52.p6" xml:lang="sl">Koncentracijo L-AA smo v vzorcih, ekstrahiranih z 2 % MFK in z 2 % MFK z dodatkom reagenta TCEP, merili z metodo HPLC. V vzorcih,obranih septembra, je bila koncentracija LAA od 0,17 % do 0,48 %. V literaturi lahko zasledimo, da plodovi šipka vsebujejo do 0,3 % vitamina C. Povprečna vrednost L-AA v plodovih, obranih na 10 lokacijah v Sloveniji, je 0,36</p>
+    <p xml:id="pb52.p7" xml:lang="sl">%. Največjo količino L-AA vsebuje vzorec Ljubljana (0,48 %), medtem ko vzorec Hom vsebuje le 0,17 % tega vitamina.</p>
+    <p xml:id="pb52.p8" xml:lang="sl">V vzorcih, obranih oktobra, se je količina L-AA zmanjšala v primerjavi z vzorci, obranimi septembra. Izjema je le vzorec Hom, kateremu se je koncentracija L-AA povečala iz 0,17 % na 0,25 %. Vzorci, obrani konec oktobra, povprečno vsebujejo 0,26 % vitamina C.</p>
+    <p xml:id="pb52.p9" xml:lang="sl">Koncentracija vitamina C se je povprečno zmanjšala za 27 %. Izjema sta vzorca Ormož in Radeče. Vzorec Radeče vsebuje v primerjavi z vzorcem, obranim septembra, le šestino L-AA, vzorcu Ormož pa je ostalo le še tretjino L-AA.</p>
+    <p xml:id="pb52.p10" xml:lang="sl">Ker smo vse vzorce, obrane septembra in oktobra, ekstrahirali z 2 % MFK in z 2 % MFK z dodatkom reagenta TCEP, smo izračunali tudi vsebnosti L-DHA. Količina L-DHA se je med prvim in drugim obiranjem povečala skoraj pri vseh vzorcih. Izjeme so vzorci Ročinj, Hom in Radeče. Pri vzorcih, obranih septembra, L-DHA v povprečju predstavlja 7 % skupnega vitamina C, medtem ko je ta delež pri drugem obiranju kar 27 %.</p>
+    <p xml:id="pb52.p11" xml:lang="sl">Izračunali smo tudi vpliv vitamina C na signal pri F-C metodi za določanje TP. Ugotovili smo, da vitamin C prispeva med 10 – 20 % signala, ki ga zaznamo s to metodo in ga napačno pripišemo fenolnim spojinam.</p>
+    <p xml:id="pb52.p12" xml:lang="sl">5.1.3 Skupna antioksidativna aktivnost</p>
+    <p xml:id="pb52.p13" xml:lang="sl">Skupno AOP smo v vzorcih izrazili kot koncentracijo L-AA, ker smo za umeritveno krivuljo uporabili vodno raztopino L-AA s koncentracijo 2 mg/mL.</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">Na skupno AOP vpliva mnogo antioksidantov, zato je koncentracija teh snovi v vzorcih višja, kot pri določanju TP in vitamina C.</p>
+    <p xml:id="pb53.p2" xml:lang="sl">Pri prvem obiranju smo v plodovih izmerili AOP, ki je ekvivalentna vsebnosti L-AA s koncentracijami od 0,036 mmol/g do 0,073 mmol/g. Najvišjo AOP pri prvem obiranju ima vzorec Radeče, nadpovprečno AOP imajo še vzorci Ljublana, Izola in Koblarji-osoja.</p>
+    <p xml:id="pb53.p3" xml:lang="sl">V vzorcih smo v preiskovalnem obdobju 42 dni med septembrom in oktobrom določili od 30 % do 150 % povečanje AOP. Količina L-AA se v tem obdobju pri vzorcih zmanjšuje.</p>
+    <p xml:id="pb53.p4" xml:lang="sl">Obratno, pa se povečuje količina TP.</p>
+    <p xml:id="pb53.p5" xml:lang="sl">5.2 SKLEPI</p>
+    <p xml:id="pb53.p6" xml:lang="sl">Na osnovi opravljenega dela lahko oblikujemo naslednje sklepe:</p>
+    <p xml:id="pb53.p7" xml:lang="sl">- Na vsebnost TP, vitamina C in antioksidantov vpliva lokacija rasti šipka.</p>
+    <p xml:id="pb53.p8" xml:lang="sl">- Vsebnost TP, vitamina C in antioksidantov se spreminja v času zorenja med septembrom in decembrom.</p>
+    <p xml:id="pb53.p9" xml:lang="sl">- S polarnim topilom (2 % vodno raztopino MFK) ekstrahiramo podobne količine antioksidantov kot z manj polarnim metanolom.</p>
+    <p xml:id="pb53.p10" xml:lang="sl">- Celoten plod vsebuje večji delež antioksidantov kot le rdeče meso ploda.</p>
+    <p xml:id="pb53.p11" xml:lang="sl">- Višje vsebnost TP vsebujejo plodovi, ki zorijo v toplejših legah Slovenije.</p>
+    <p xml:id="pb53.p12" xml:lang="sl">- Vsebnost TP in AOP med zorenjem jeseni narašča.</p>
+    <p xml:id="pb53.p13" xml:lang="sl">- Vsebnost vitamina C se med zorenjem jeseni zmanjšuje.</p>
+    <p xml:id="pb53.p14" xml:lang="sl">- Vsebnost L-DHA med zorenjem jeseni narašča.</p>
+    <p xml:id="pb53.p15" xml:lang="sl">- Delež L-DHA se med zorenjem povečuje glede na L-AA.</p>
+    <p xml:id="pb53.p16" xml:lang="sl">- Pri prvem obiranju v septembru L-DHA predstavlja 7 % celotnega vitamina C, pri drugem obiranju konec oktobra pa je njen delež 27 %.</p>
+    <p xml:id="pb53.p17" xml:lang="sl">- Vitamin C prispeva med 10 % in 20 % signala, ki ga pripisujemo fenolnih spojinam s F-C metodo.</p>
+    <p xml:id="pb53.p18" xml:lang="sl">- 2 % MFK je dober medij za shranjevanje zamrznjenih ekstraktov.</p>
+    <p xml:id="pb53.p19" xml:lang="sl">- Plodovi šipka pri dolgotrajnejšem shranjevanju pri -20 °C in pri sušenju izgubijo veliko antioksidantov.</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">6 POVZETEK</p>
+    <p xml:id="pb54.p2" xml:lang="sl">V okviru diplomskega dela smo preučevali vsebnost fenolnih spojin, vitamina C ter antioksidantov v plodovih šipka. Za poskuse smo uporabili plodove navadnega šipka (Rosa canina L.), obranega na desetih lokacijah po celi Sloveniji.</p>
+    <p xml:id="pb54.p3" xml:lang="sl">Za analizo plodov je bilo potrebno plodove homogenizirali in jih ekstrahirati. Za ekstrakcijo smo uporabili tri različne medije; vodno raztopino 2 % MFK, 2 % MFK z dodatkom reducenta TCEP in 95 % metanol z dodatkom 5 % metanojske kisline. Ugotovili smo, da celoten plod šipka vsebuje večji delež fenolnih spojin kot samo rdeče meso, zato smo za nadaljnje analize opravili ekstrakcije celotnega plodu. Ker se s polarnim topilom (2 % vodno raztopino MFK) ekstrahira primerljiva koločina antioksidantov kot z manj polarnim metanolom, smo za ekstrakcijski medij izbrali 2 % raztopino MFK. Ob dodatku reducenta TCEP je prišlo do redukcije L-DHA, kar je pomenilo večje signale tako pri F-C metodi kot pri določanju vitamina C z metodo HPLC.</p>
+    <p xml:id="pb54.p4" xml:lang="sl">Vsebnost TP smo določali spektrofotometrično (s F-C reagentom) v vseh treh ekstrakcijskih medijih. Vsebnost vitamina C smo določali v vodnih ekstraktih s kromatografsko metodo (HPLC). Pri določevanju skupne AOP plodov smo uporabili luminescenčno metodo, za detekcijo signala pa uporabili fluorimeter. Po opravljenih meritvah smo podatke statistično obdelali in analizirali. Prišli smo do zaključka, da plodovi, obrani na različnih lokacijah, vsebujejo različne količine antioksidantov. Tako imajo plodovi iz območja, ki imajo povprečno višje letne temperature (Primorska, Štajerska) kot ostali deli Slovenije, večjo vsebnost TP in vitamina C.</p>
+    <p xml:id="pb54.p5" xml:lang="sl">Plodove šipka smo na vseh lokacijah obirali dvakrat. Prvič smo plodove obrali sredi septembra in drugič konec oktobra. To smo naredili zato, da bi ugotovili, kako okoljski dejavniki vplivajo na vsebnost antioksidantov. Vsebnost TP in skupna AOP plodov v tem obdobju naraščata, medtem ko se v plodovih zmanjšuje koncentracija vitamina C.</p>
+    <p xml:id="pb54.p6" xml:lang="sl">Koncentracijo vitamina C smo določali z metodo HPLC in določili različne vsebnosti tega vitamina med posameznimi vzorci. Z metodo HPLC smo izmerili višje signale v vzorcih, ekstrahiranih z dodatkom TCEP, ki reducira L-DHA v L-AA, kar pomeni, da vzorci vsebujejo poleg L-AA tudi oksidirano obliko le-te. V preiskovalnem obdobju 42 dni se koncentracija vitamina C zmanjšuje, koncentracija L-DHA pa se povečuje.</p>
+    <p xml:id="pb54.p7" xml:lang="sl">Izmerili smo tudi zmanjšanje vsebnosti vitamina C in manjšo koncentracijo TP pri različnih načinih shranjevanja plodov. Ugotovili smo, da se pri shranjevanju celih plodov v zamrzovalniku izgubi nekaj vitamina C in fenolov. Večje zmanjšanje vsebnosti antioksidantov pa opazimo pri sušenju narezanih plodov.</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">7 VIRI</p>
+    <p xml:id="pb55.p2" xml:lang="sl">Abram V. 2000. Antioksidativno delovanje flavonoidov. V: Antioksidanti v živilstvu. 20.</p>
+    <p xml:id="pb55.p3" xml:lang="sl">Bitenčevi živilski dnevi, Portorož, 26-27 okt. 2000. Žlender B., Gašperlin L. (ur.). Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 23-32</p>
+    <p xml:id="pb55.p4" xml:lang="sl">Abram V., Simčič M. 1997. Fenolne spojine kot antioksidanti. Farmacevtski vestnik, 48: 573589</p>
+    <p xml:id="pb55.p5" xml:lang="sl">Brus R. 2005. Dendrologija za gozdarje. Ljubljana, Biotehniška fakulteta, Oddelek za gozdarstvo in gozdne obnovljive vire: 214-216 Barovič V. 1999. Vitamin C v različnih dietah. JAMA, 7, 4: 5-7</p>
+    <p xml:id="pb55.p6" xml:lang="sl">Darja Rudan-Tasič. 2000. Vitamin C, vitamin E, koencim Q10. V: Antioksidanti v živilstvu.</p>
+    <p xml:id="pb55.p7" xml:lang="sl">20. Bitenčevi živilski dnevi, Portorož, 26.in 27.oktober 2000. Žlender B., Gašperlin L.(ur.).</p>
+    <p xml:id="pb55.p8" xml:lang="sl">Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 39-51</p>
+    <p xml:id="pb55.p9" xml:lang="en">Davey W. M., Montagu M. V., Inze D., Sanmartin M., Kanelis A., Smirnoff N., Bejzie J. J. I., Strain J. J., Favell D., Fletcher J. 2000. Plant l-ascorbic acid: chemistry, funtcion, metabolism, bioavailability and effects of processing. Journal of the Science of Food and Agriculture, 80:825-860</p>
+    <p xml:id="pb55.p10" xml:lang="en">Girotti S., Bolelli L., Budini R., Arfelli G. 2002. Comparison of analytical methods in determing total antioxidant capacity in red wine. Analytical Letters, 35: 747-758 Gordon, M.H.1993. Natural antioksidants. V: Encyclopedia of food science, food technology and nutrition. Vol 1. Macrae R., Robinson R. K., Sadler M. J. (eds.). London, Academic Press: 7-112</p>
+    <p xml:id="pb55.p11" xml:lang="en">Gökmen V., Kahraman N., Demir N., Acar J. 2000. Enzymatically validated liquid chromatographic method for the determination of ascorbic and dehydroascorbic acids in fruit and vegetables. Journal of Chromatography A, 881: 309–331</p>
+    <p xml:id="pb55.p12" xml:lang="en">Kaur C., Kapoor H.. C. 2001. Antioxidants in fruits and vegetables - the millennium's health. International Journal of Food Science and Technology, 36: 703-725 Kennedy J.F., Rivera Z., Lloyd L.L., Warner F. P., Jumel K. 1992. L-Ascorbic acid stability in aseptical processed orange juice in Tetra Birk cartons and the affect of oxygen. Food Chemistry, 45: 327-331</p>
+    <p xml:id="pb55.p13" xml:lang="sl">Kreft I., Škrabanja V., Bonafaccia G. 2000. Temelji prehranskih in biotskih vplivov antioksidantov. V:Antioksidanti v živilstvu. 20. Bitenčevi živilski dnevi, Portorož, 26.in 27.oktober 2000. Žlender B., Gašperlin L.(ur.). Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 101-114</p>
+    <p xml:id="pb55.p14" xml:lang="en">Kuellmer V. 1999. Vitamins: Ascorbic acid. V: Wiley encyclopedia of food science and tehnology. 4 volume Set. 2nd ed. Francis F. J. (ed.). Massachusetts, John Wiley &amp; Sons: 24492467</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="en">Levine M., Rumsey S.C., Daruwala R., Park J.B., Wang Y. 1999. Criteria and recomendation for vitamin C intake. JAMA, 281: 1415-1423</p>
+    <p xml:id="pb56.p2" xml:lang="en">Lykkesfeldt J. 2000. Determination of ascorbic acid and dehydroascorbic acid in biological samples by high-performance liquid chromatography using subtraction methods: reliable reduction with tris[2-carboxyethyl]phosphine hydrochloride. Analytical Biochemistry, 282: 89–93</p>
+    <p xml:id="pb56.p3" xml:lang="sl">Maček B. 2006. Polifenoli v netresku, ruskusu in ričkovem olju. Diplomsko delo. Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 5-18</p>
+    <p xml:id="pb56.p4" xml:lang="en">Murkovic M. 2003. Phenolic compounds. V: Encyclopedia of food sciences and nutriton. Vol.</p>
+    <p xml:id="pb56.p5" xml:lang="en">3. 2nd ed. Caballero B. Turgo L. C., Finglas P.M.(eds.). Amsterdam, Academic Press: 45074513</p>
+    <p xml:id="pb56.p6" xml:lang="en">Natural-resources. 2001. Culj-Napoca, Proplanta. (Januar 2001) http://proplanta.ro/natural-resources/maciesul-rosa-canina (Oktober 2008): 7 str.</p>
+    <p xml:id="pb56.p7" xml:lang="en">Rose hips products. 2007. Tehnological charateristics of cultived rose hips. Silven, Eco Farm Ltd. (Julij 2007) http://rashkoff.en.busytrade.com/products/info/179302/Rose_hips.html (Oktober 2008): 1 str.</p>
+    <p xml:id="pb56.p8" xml:lang="sl">Raspor P., Kovač B., Batič M., Berglez D. 2000. Bioprocesi pridobivanja antioksidantov. V: Antioksidanti v živilstvu. 20. Bitenčevi živilski dnevi, Portorož, 26.in 27.oktober 2000.</p>
+    <p xml:id="pb56.p9" xml:lang="sl">Žlender B., Gašperlin L.(ur.). Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 101-114 Rener M. 2006. Vpliv rezanja in kontrolirane atmosfere na vsebnost vitamina C v zelju.</p>
+    <p xml:id="pb56.p10" xml:lang="en">Diplomsko delo. Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 26-29 Roginsky V., Lissi E. A. 2005. Review of methods to determinate chain-breaking antioxidant activity in food. Food Chemistry, 92: 235-254</p>
+    <p xml:id="pb56.p11" xml:lang="sl">Rupnik B. 1997. Polifenoli v netresku. Diplomsko delo. Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 6-9</p>
+    <p xml:id="pb56.p12" xml:lang="sl">Salobir K. 2000. Antioksidanti v živilih – vpliv na zdravje. V: Antioksidanti v živilstvu. 20.</p>
+    <p xml:id="pb56.p13" xml:lang="sl">Bitenčevi živilski dnevi, Portorož, 26.in 27.oktober 2000. Žlender B., Gašperlin L.(ur.).</p>
+    <p xml:id="pb56.p14" xml:lang="en">Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 287-294 Stefanovits-Banayai E, Markoth H., Bertenyi Z., Monspart J. 2002. Nutritionally important components Rosa canina L. originating from various areas of Hungary. Budapest, Szent Istvan University, Faculty of Food Science, Department of Applied Chemistry, 23: 174-179 Strack D. 1997. Phenolic metabolism. V: Plant biochemistry. Dey P.M., Harborne J.B. (eds.).</p>
+    <p xml:id="pb56.p15" xml:lang="sl">San Diego, Academic Press: 387-416</p>
+    <p xml:id="pb56.p16" xml:lang="sl">Vidrih R., Kač M. 2000. Analitika antioksidantov. V:Antioksidanti v živilstvu. 20. Bitenčevi živilski dnevi, Portorož, 26.in 27.oktober 2000. Žlender B., Gašperlin L.(ur.). Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 101-114</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-14000.pdf#page=57">
+    <p xml:id="pb57.p1" xml:lang="en">Wechtersbach L. 2005. Stabilnost polarnih in nepolarnih antioksidantov v kompleksnem matriksu. Diplomsko delo. Ljubljana, Biotehniška fakulteta, Oddelek za živilstvo: 3-8 Wilson J. X. 2002. The physiological role of dehydroascorbic acid. FEBS Letters, 527, 1-3: 59</p>
+  </page>
+</document>

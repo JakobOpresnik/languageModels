@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-839000" doc_id="839000" text_id="987813" cobiss_id="10027804" title="Proučitev podjetja Parfumerija Douglas d.o.o. in planiranje njegovega razvoja" author="Cvörnjek, Nataša" supervisor="Štrukelj, Tjaša" year="2009" publisher_abbr="UM EPF" publisher="Ekonomsko-poslovna fakulteta" place="Maribor" url="http://dkum.uni-mb.si/Dokument.php?id=11100" type="Diplomsko delo" udc="005.4" udc_desc="Procesi pri menedžmentu" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb1.p2" xml:lang="sl">EKONOMSKO-POSLOVNA FAKULTETA, MARIBOR DIPLOMSKO DELO</p>
+    <p xml:id="pb1.p3" xml:lang="sl">Nataša Cvörnjek</p>
+    <p xml:id="pb1.p4" xml:lang="sl">Maribor, september 2009</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb2.p2" xml:lang="sl">EKONOMSKO-POSLOVNA FAKULTETA, MARIBOR DIPLOMSKO DELO</p>
+    <p xml:id="pb2.p3" xml:lang="sl">Proučitev podjetja Parfumerija Douglas d.o.o. in planiranje njegovega razvoja Investigating company Parfumery Douglas Ltd. and planning it's developement</p>
+    <p xml:id="pb2.p4" xml:lang="sl">Kandidatka: Nataša Cvörnjek</p>
+    <p xml:id="pb2.p5" xml:lang="sl">Študentka izrednega študija</p>
+    <p xml:id="pb2.p6" xml:lang="sl">Številka indeksa: 81624973</p>
+    <p xml:id="pb2.p7" xml:lang="sl">Program: visokošolski strokovni</p>
+    <p xml:id="pb2.p8" xml:lang="sl">Študijska smer: Podjetništvo</p>
+    <p xml:id="pb2.p9" xml:lang="sl">Mentor: mag. Tjaša Štrukelj Maribor, september 2009</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb3.p2" xml:lang="sl">EKONOMSKO-POSLOVNA FAKULTETA</p>
+    <p xml:id="pb3.p3" xml:lang="sl">IZJAVA O ISTOVETNOSTI TISKANE IN ELEKTRONSKE VERZIJE DIPLOMSKEGA DELA IN OBJAVI OSEBNIH PODATKOV DIPLOMANTOV</p>
+    <p xml:id="pb3.p4" xml:lang="sl">Ime in priimek diplomanta-tke: NATAŠA CVÖRNJEK Vpisna številka: 81624973</p>
+    <p xml:id="pb3.p5" xml:lang="sl">Študijski program: VISOKOŠOLSKI STROKOVNI – POSLOVNA EKONOMIJA Naslov diplomskega dela: PROUČITEV PODJETJA PARFUMERIJA DOUGLAS D.O.O. IN</p>
+    <p xml:id="pb3.p6" xml:lang="sl">PLANIRANJE NJEGOVEGA RAZVOJA</p>
+    <p xml:id="pb3.p7" xml:lang="en">Somentor: /</p>
+    <p xml:id="pb3.p8" xml:lang="sl">Podpisani-a NATAŠA CVÖRNJEK izjavljam, da sem za potrebe arhiviranja oddal elektronsko verzijo zaključnega dela v Digitalno knjižnico Univerze v Mariboru.</p>
+    <p xml:id="pb3.p9" xml:lang="sl">Diplomsko delo sem izdelal-a sam-a ob pomoči mentorja. V skladu s 1. odstavkom 21. člena Zakona o avtorskih in sorodnih pravicah (Ur. l. RS, št. 16/2007) dovoljujem, da se zgoraj navedeno zaključno delo objavi na portalu Digitalne knjižnice Univerze v Mariboru.</p>
+    <p xml:id="pb3.p10" xml:lang="sl">Tiskana verzija diplomskega dela je istovetna elektronski verziji, ki sem jo oddal za objavo v Digitalno knjižnico Univerze v Mariboru.</p>
+    <p xml:id="pb3.p11" xml:lang="sl">Podpisani izjavljam, da dovoljujem objavo osebnih podatkov vezanih na zaključek študija (ime, priimek, leto in kraj rojstva, datum diplomiranja, naslov diplomskega dela) na spletnih straneh in v publikacijah UM.</p>
+    <p xml:id="pb3.p12" xml:lang="sl">Datum in kraj: Maribor, 29.9. 2009 Podpis diplomanta-tke:</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">PREDGOVOR</p>
+    <p xml:id="pb4.p2" xml:lang="sl">Podjetje Parfumerija Douglas d.o.o. je del parfumerij Douglas, ki so vodilne v Evropi.</p>
+    <p xml:id="pb4.p3" xml:lang="sl">Dejavnost podjetja je usmerjena v prodajo toaletnih in kozmetičnih izdelkov.</p>
+    <p xml:id="pb4.p4" xml:lang="sl">Najpomembnejši cilj njihovega delovanja je zadovoljstvo kupcev, ki jim iz dneva v dan s svojim izvrstnim svetovanjem olepšujejo nakupovanje.</p>
+    <p xml:id="pb4.p5" xml:lang="sl">Za temo diplomskega dela sem se odločila zaradi samega veselja do dela na področju kozmetike. Idejo o proučevanju izbranega podjetja in planiranja njegovega razvoja sem dobila v okviru predmeta Vodenje malega in srednje velikega podjetja.</p>
+    <p xml:id="pb4.p6" xml:lang="sl">V diplomskem delu bomo predstavili obstoječe podjetje Parfumerija Douglas d.o.o., ki deluje na območju Slovenije. Obstoječe podjetje bomo predstavili z vidika njegovih značilnosti, poudarek pa bo namenjen planiranju razvoja podjetja Parfumerija Douglas d.o.o. na ravni politike podjetja in strateškega managementa, ki ga bomo zaključili s programom razvoja in rasti podjetja za nadaljnjih pet let. V okviru politike podjetja bomo predstavili njegovo poslanstvo, smotre in temeljne cilje. Na ravni strateškega managementa bomo določili programsko-tržna področja podjetja Parfumerija Douglas d.o.o. ter iskali strateške možnosti.</p>
+    <p xml:id="pb4.p7" xml:lang="sl">Predstavili bomo tudi izbrane strategije za podjetje Parfumerija Douglas d.o.o.</p>
+    <p xml:id="pb4.p8" xml:lang="sl">ZAHVALA</p>
+    <p xml:id="pb4.p9" xml:lang="sl">Mentorici mag. Tjaši Štrukelj se zahvaljujem za pomoč in podporo pri izdelavi diplomskega dela.</p>
+    <p xml:id="pb4.p10" xml:lang="sl">Zahvala gre tudi mojim staršem, ki so mi omogočili študij in me v času študija ter pisanja diplomskega dela podpirali in mi stali ob strani.</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">Kazalo</p>
+    <p xml:id="pb5.p2" xml:lang="sl">1 UVOD ................................................................................................................................ 5</p>
+    <p xml:id="pb5.p3" xml:lang="sl">1.1 Opredelitev področja in opis problema diplomskega dela .......................................... 5 1.2 Namen, cilji in teze (osnovne trditve) diplomskega dela ............................................ 5 1.3 Predpostavke in omejitve diplomskega dela ............................................................... 6 1.4 Metode raziskovanja diplomskega dela ....................................................................... 7</p>
+    <p xml:id="pb5.p4" xml:lang="sl">2 PREDSTAVITEV PODJETJA PARFUMERIJA DOUGLAS D.O.O. ............................. 8</p>
+    <p xml:id="pb5.p5" xml:lang="sl">2.1 Predstavitev obravnavanega podjetja in podjetniške ideje .......................................... 8 2.2 Opredelitev značilnosti obravnavanega podjetja ......................................................... 9 2.1.1 Opredelitev velikosti in izbranih značilnosti podjetja .............................................. 9 2.2.2 Dejavniki uspešnosti podjetja ................................................................................. 11 2.3 Faza razvoja proučevanega podjetja .......................................................................... 12 2.4 Obstoječa politika podjetja in interesni potenciali obravnavanega podjetja ............. 12 2.5 Obstoječe strategije .................................................................................................... 14 2.6 Obstoječe strukture proučevanega podjetja ............................................................... 15</p>
+    <p xml:id="pb5.p6" xml:lang="sl">3 PLANIRANJE RAZVOJA NA RAVNI POLITIKE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb5.p7" xml:lang="en">DOUGLAS D.O.O. ............................................................................................................. 22</p>
+    <p xml:id="pb5.p8" xml:lang="sl">3.1 Proučevanje vrednot (udeležencev) obravnavanega podjetja .................................... 22 3.2 Opredelitev osnovnih informacij o obravnavanem podjetju ter določitev prednosti in slabosti proučevanega podjetja ........................................................................................ 24 3.3 Proučitev pričakovanega razvoja okolja ter določitev priložnosti in nevarnosti za proučevano podjetje ......................................................................................................... 30 3.4 Planirana politika proučevanega podjetja .................................................................. 32</p>
+    <p xml:id="pb5.p9" xml:lang="sl">4 PLANIRANJE RAZVOJA PODJETJA PARFUMERIJA DOUGLAS D.O.O. NA RAVNI</p>
+    <p xml:id="pb5.p10" xml:lang="sl">STRATEŠKEGA MANAGEMENTA ................................................................................ 34</p>
+    <p xml:id="pb5.p11" xml:lang="sl">4.1 Programsko-tržna področja in strateške poslovne enote proučevanega podjetja ...... 34 4.2 Iskanje strateških možnosti proučevanega podjetja ................................................... 39 4.3 Izbrane strategije podjetja Parfumerija Douglas d.o.o. ............................................. 41 4.4 Predvidene strukture podjetja Parfumerija Douglas d.o.o. ........................................ 42 4.5 Program razvoja in rasti proučevanega podjetja ........................................................ 45</p>
+    <p xml:id="pb5.p12" xml:lang="sl">5 SKLEP .............................................................................................................................. 47 6 POVZETEK ..................................................................................................................... 48 ABSTRACT ........................................................................................................................ 49 LITERATURA .................................................................................................................... 50 VIRI ..................................................................................................................................... 51 SEZNAM PREGLEDNIC IN SLIK ................................................................................... 52 1 UVOD</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=6"/>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">1.1 Opredelitev področja in opis problema diplomskega dela</p>
+    <p xml:id="pb7.p2" xml:lang="sl">V diplomskem delu bomo proučevali trgovinsko podjetje Parfumerija Douglas d.o.o., ki se ukvarja s prodajo kozmetičnih izdelkov in parfumov.</p>
+    <p xml:id="pb7.p3" xml:lang="sl">Diplomska naloga bo temeljila na proučitvi podjetja Parfumerija Douglas d.o.o. s poudarkom na planiranju njegovega razvoja na ravni politike podjetja in na ravni strateškega managementa.</p>
+    <p xml:id="pb7.p4" xml:lang="sl">V prvem osrednjem delu diplomske naloge bomo predstavili podjetje in njegovo podjetniško idejo. Nadalje bomo opredelili značilnosti podjetja, kjer bomo predstavili tudi velikost podjetja ter dejavnike uspešnosti podjetja. V sklopu prvega dela bomo predstavili tudi fazo razvoja podjetja. Nadaljevali bomo s predstavitvijo obstoječe politike in obstoječih strategij podjetja. Prvi del diplomske naloge bomo zaključili s predstavitvijo obstoječih struktur podjetja, kjer se bomo osredotočili na organizacijsko strukturo, lastniško strukturo, kadrovsko strukturo, tehnično-tehnološko strukturo in premoženjsko strukturo.</p>
+    <p xml:id="pb7.p5" xml:lang="sl">V drugem osrednjem delu diplomske naloge se bomo poglobili v planiranje razvoja proučevanega podjetja na ravni politike podjetja. Natančneje bomo proučevali vrednote (udeležencev) podjetja, proučili bomo prednosti in slabosti podjetja ter možnosti in nevarnosti za proučevano podjetje. Sledila bo prognostična obdelava podjetja in njegove politike.</p>
+    <p xml:id="pb7.p6" xml:lang="sl">V tretjem osrednjem delu diplomske naloge bomo planirali razvoj proučevanega podjetja na ravni strateškega managementa. Določili bomo programsko-tržna področja in strateške poslovne enote. Nadalje bomo iskali strateške možnosti in strategije ter izbrane strategije tudi predstavili. Ob koncu bomo planirali tudi za uresničitev strategij potrebne razvojne strukture ter podali program razvoja proučevanega podjetja brez njihovega ekonomskega vrednotenja.</p>
+    <p xml:id="pb7.p7" xml:lang="sl">1.2 Namen, cilji in teze (osnovne trditve) diplomskega dela</p>
+    <p xml:id="pb7.p8" xml:lang="sl">Podjetje Parfumerija Douglas d.o.o. se uvršča med specializirane trgovine z visoko in srednje cenovno kozmetiko ter parfumi. V omenjeni dejavnosti konkurenca močno narašča, zato se morajo taka podjetja prilagajati spremembam v okolju, če želijo preživeti. Za nadaljnji obstoj in razvoj ter doseganje želene prednosti pred konkurenco je pomembno, da podjetje planira svoj razvoj na ravni politike podjetja ter na ravni strateškega managementa.</p>
+    <p xml:id="pb7.p9" xml:lang="sl">Namen diplomske naloge je oblikovati in izbrati najustreznejšo politiko podjetja in program njegovega razvoja z namenom doseganja dolgoročne uspešnosti in učinkovitosti podjetja.</p>
+    <p xml:id="pb7.p10" xml:lang="sl">Poudarek je na planiranju njegovega razvoja na ravni politike podjetja in na ravni strateškega managementa.</p>
+    <p xml:id="pb7.p11" xml:lang="sl">Cilj diplomskega dela je predstavitev proučevanega podjetja, opredelitev politike podjetja ter planiranje razvoja na ravni strateškega managementa. Cilji diplomske naloge so predvsem:</p>
+    <p xml:id="pb7.p12" xml:lang="sl">- proučiti značilnosti in posebnosti obravnavanega podjetja;</p>
+    <p xml:id="pb7.p13" xml:lang="sl">- planiranje razvoja obravnavanega podjetja za obdobje petih let;</p>
+    <p xml:id="pb7.p14" xml:lang="sl">- proučitev podjetja;</p>
+    <p xml:id="pb7.p15" xml:lang="sl">- proučiti obstoječo politiko, strategije in strukture podjetja;</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">- proučiti dejavnike uspešnosti podjetja;</p>
+    <p xml:id="pb8.p2" xml:lang="sl">- proučitev prednosti in slabosti podjetja;</p>
+    <p xml:id="pb8.p3" xml:lang="sl">- proučitev priložnosti in nevarnosti za podjetje;</p>
+    <p xml:id="pb8.p4" xml:lang="sl">- proučitev vrednot (udeležencev) podjetja;</p>
+    <p xml:id="pb8.p5" xml:lang="sl">- opredelitev poslanstva, smotrov in temeljnih ciljev podjetja;</p>
+    <p xml:id="pb8.p6" xml:lang="sl">- planiranje programsko-tržnih področij;</p>
+    <p xml:id="pb8.p7" xml:lang="sl">- planiranje strateških možnosti proučevanega podjetja in planiranje strategij v proučevanem podjetju;</p>
+    <p xml:id="pb8.p8" xml:lang="sl">- programiranje razvoja proučevanega podjetja.</p>
+    <p xml:id="pb8.p9" xml:lang="sl">Teze:</p>
+    <p xml:id="pb8.p10" xml:lang="sl">- politika podjetja izhaja iz vizije podjetja;</p>
+    <p xml:id="pb8.p11" xml:lang="sl">- strukture podjetja sledijo strategijam;</p>
+    <p xml:id="pb8.p12" xml:lang="sl">- strategije iščemo;</p>
+    <p xml:id="pb8.p13" xml:lang="sl">- vpliv finančne krize je opazen v manjšem obsegu;</p>
+    <p xml:id="pb8.p14" xml:lang="sl">- politika podjetja je izhodišče za planiranje razvoja na ravni strateškega managementa;</p>
+    <p xml:id="pb8.p15" xml:lang="sl">- za uspešno planiranje razvoja na ravni politike podjetja je potrebno v podjetju proučiti vrednote (udeležencev) podjetja, proučiti prednosti in slabosti podjetja, proučiti priložnosti in nevarnosti za podjetje ter obstoječo politiko podjetja;</p>
+    <p xml:id="pb8.p16" xml:lang="sl">- planiranje razvoja se nanaša na daljše časovno obdobje;</p>
+    <p xml:id="pb8.p17" xml:lang="sl">- strategije podjetja so sredstvo za uresničevanje poslanstva, smotrov in temeljnih ciljev podjetja.</p>
+    <p xml:id="pb8.p18" xml:lang="sl">1.3 Predpostavke in omejitve diplomskega dela Predpostavke so naslednje:</p>
+    <p xml:id="pb8.p19" xml:lang="sl">- podjetje brez planiranja ne more uspešno delovati;</p>
+    <p xml:id="pb8.p20" xml:lang="sl">- planiranje politike podjetja ima temeljni pomen v razvoju podjetja;</p>
+    <p xml:id="pb8.p21" xml:lang="sl">- razvoj in obstoj podjetja sta v veliki meri odvisna od proučevanja okolja podjetja in iz okolja izhajajočih se priložnosti in nevarnosti, opredelitve prednosti in slabosti podjetja ter od proučevanja vrednot (udeležencev) podjetja;</p>
+    <p xml:id="pb8.p22" xml:lang="sl">- konkurenca na trgu bo v prihodnosti še ostrejša;</p>
+    <p xml:id="pb8.p23" xml:lang="sl">- predpostavljamo, da bomo za planiranje razvoja proučevanega podjetja dobili vse potrebne podatke;</p>
+    <p xml:id="pb8.p24" xml:lang="sl">- predpostavljamo, da bo podjetje dosegalo uspeh s pravilnimi odločitvami, ki morajo v prvi vrsti biti usmerjene v zadovoljevanje želja kupcev;</p>
+    <p xml:id="pb8.p25" xml:lang="sl">- predpostavljamo, da bo podjetje predviden program razvoja sposobno uresničiti;</p>
+    <p xml:id="pb8.p26" xml:lang="sl">- predpostavljamo, da bo finančna kriza v manjši meri vplivala na trgovino.</p>
+    <p xml:id="pb8.p27" xml:lang="sl">Omejitve pri raziskovanju bodo naslednje:</p>
+    <p xml:id="pb8.p28" xml:lang="sl">- omejili se bomo na proučevanje enega samega že obstoječega podjetja;</p>
+    <p xml:id="pb8.p29" xml:lang="sl">- glede velikosti se bomo omejili na mikro podjetje;</p>
+    <p xml:id="pb8.p30" xml:lang="sl">- glede delovanja podjetja se bomo omejili na slovenski trg;</p>
+    <p xml:id="pb8.p31" xml:lang="sl">- glede pravne oblike se bomo omejili na družbo z omejeno odgovornostjo;</p>
+    <p xml:id="pb8.p32" xml:lang="sl">- omejili se bomo na mariborski model integralnega managementa;</p>
+    <p xml:id="pb8.p33" xml:lang="sl">- omejili se bomo na trgovinsko dejavnost;</p>
+    <p xml:id="pb8.p34" xml:lang="sl">- omejili se bomo na planiranje razvoja za obdobje petih let;</p>
+    <p xml:id="pb8.p35" xml:lang="sl">- omejuje nas pomanjkanje izkušenj pri planiranju razvoja podjetja;</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">- planiranih strategij ne bomo ekonomsko vrednotili;</p>
+    <p xml:id="pb9.p2" xml:lang="sl">- pri planiranju razvoja obstoječega podjetja se bomo omejili na planiranje podjetja na ravni politike podjetja in strateškega managementa, ne bomo pa prikazali planiranja razvoja na ravni operativnega managementa.</p>
+    <p xml:id="pb9.p3" xml:lang="sl">1.4 Metode raziskovanja diplomskega dela</p>
+    <p xml:id="pb9.p4" xml:lang="sl">Diplomska naloga se nanaša na področje razvojnega planiranja podjetja na ravni politike podjetja in na ravni strateškega managementa, zato bomo v diplomski nalogi uporabili poslovno raziskavo. V okviru poslovne raziskave bomo uporavili dinamično ekonomsko raziskavo.</p>
+    <p xml:id="pb9.p5" xml:lang="sl">Pri raziskovanju bomo uporabljali deskriptivni in analitični pristop. V okviru deskriptivnega pristopa se bomo poslužili metode deskripcije, ker bomo opisovali dejstva, procese in pojave v podjetju ter metode kompilacije, ker bomo povzemali opazovanja, stališča, sklepe in rezultate drugih avtorjev. V zvezi z izbranim problemom pa bomo prišli do novih slepov in stališč. V okviru analitičnega pristopa bomo uporabili deduktivno metodo, saj bomo iz splošnih stališč oblikovali posamične sklepe o odvisnosti med pojavi, ki jih bomo analizirali.</p>
+    <p xml:id="pb9.p6" xml:lang="sl">Na ravni politike podjetja bomo za planiranje razvoja podjetja uporabili metode za proučevanje vrednot (udeležencev) podjetja, proučevanje podjetja z opredelitvijo njegovih prednosti in slabosti, proučevanje razvoja okolja ter z njimi povezanih možnosti in nevarnosti za podjetje ter metode za prognostično obdelavo podjetja in njegove politike.</p>
+    <p xml:id="pb9.p7" xml:lang="sl">Za planiranje razvoja na ravni strateškega managementa bomo uporabili portfolio metodo ter outside-in metodoza določanje programsko-tržnih področij.</p>
+    <p xml:id="pb9.p8" xml:lang="sl">Podatke, ki nam bodo v pomoč pri izdelavi diplomske naloge bomo zbirali tudi s pomočjo učbenikov, revij, časopisov in interneta. V pomoč nam bodo tudi v času študija pridobljena znanja. Praktične podatke bomo pridobili s pomočjo ustnega razgovora z vodjo proučevanega podjetja.</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">2 PREDSTAVITEV PODJETJA PARFUMERIJA DOUGLAS D.O.O.</p>
+    <p xml:id="pb10.p2" xml:lang="sl">2.1 Predstavitev obravnavanega podjetja in podjetniške ideje Parfumerija Douglas je vodilna evropska znamka na področju kozmetike z izvrstnim svetovanjem in bogato izbiro. Ustanovitelj parfumerij Douglas je Parfümerie Douglas International GMBH. Podjetje ima glavni sedež v Nemčiji. Prva parfumerija je bila ustanovljena leta 1969 v Nemčiji, danes je po svetu že več kot 1000 trgovin v 23 različnih državah. V Sloveniji smo dobili prvo parfumerijo leta 2003 v mestu Maribor. Danes imamo v Sloveniji tri poslovalnice, od tega dve v Mariboru in eno v Ljubljani, kupci pa lahko izbirajo med več kot 10.000 izdelki priznanih blagovnih znamk parfumov in kozmetike.</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Parfumerija Douglas ponuja bogato izbiro izdelkov negovalne in dekorativne kozmetike, izdelkov za nego telesa, kopalniške opreme, pribora za nego in ličenje, ki sega od vrhunskih proizvodov vodilnih svetovnih znamk do ponudbe izdelkov široke porabe (glej Parfümerie Douglas, 2009). Logo podjetja Parfumerija Douglas d.o.o. je prikazan na sliki 1.</p>
+    <p xml:id="pb10.p4" xml:lang="sl">SLIKA 1: LOGOTIP PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb10.p5" xml:lang="sl">DOUGLAS - Skupina se je v zadnjih štirih desetletjih razvila v vodilno trgovsko podjetje v Evropi. Danes dosegamo v svojih približno 2.000 specializiranih prodajalnah v več kot 20. državah letni promet, ki presega 3 milijarde eurov. K temu uspehu so v prvi vrsti pripomogli naši sodelavci, ki jih je že preko 24.000. Ti dan za dnem s prvovrstno storitvijo navdušujejo naše stranke za nakup v specializirani prodajalni - zvesto našemu načelu "Trgovanje s srcem in razumom" (glej Douglas Holding 2009).</p>
+    <p xml:id="pb10.p6" xml:lang="sl">Podjetje parfumerija Douglas d.o.o. je trgovinsko podjetje s specializiranimi prodajalnami s kozmetičnimi in toaletnimi izdelki. Podjetje je bilo v Sloveniji ustanovljeno leta 2003, takrat se je odprla tudi prva trgovina. Podjetje se je z leti razvijalo na slovenskem območju in si tako do danes pridobilo zaupanje kupcev.</p>
+    <p xml:id="pb10.p7" xml:lang="sl">Posebnost podjetja Parfumerija Douglas d.o.o. so kozmetični izdelki, kot so negovalne kreme, parfumske in toaletne vodice, dekorativna kozmetika ter kozmetika za nego telesa in sicer svetovno priznanih blagovnih znamk, ki jih odlikuje izjemna kvaliteta.</p>
+    <p xml:id="pb10.p8" xml:lang="sl">Glavno vodilo podjetja je: Skupaj uspešni – fit za prihodnost. Podjetje v največji meri daje prednost kupcem.</p>
+    <p xml:id="pb10.p9" xml:lang="sl">Preden se je odprlo podjetje na slovenskem območju, je bilo že po svetu, predvsem pa v Evropi na tisoče parfumskih trgovin Douglas. Ker se je takrat Slovenija na trgovinskem področju zelo razvijala, v istem času so namreč odprli nekaj znanih nemških trgovin (H&amp;M d.o.o., New Yorker d.o.o.), tako se je tudi Douglas Holding odločil za odprtje poslovalnic na našem področju. Povpraševanje po tovrstnih izdelkih je bilo razmeroma visoko kar je nakazovalo dober obisk do takrat že obstoječih parfumerij pri nas.</p>
+    <p xml:id="pb10.p10" xml:lang="sl">Ustanovitvena vizija izhaja iz potreb bo trgovinski dejavnosti, ki je nepogrešljiv člen vsake družbe. Ustanovitvena vizija podjetja Parfumerija Douglas d.o.o. je ponuditi svojim kupcem celovito ponudbo kvalitetnih izdelkov in storitev ter pridobiti stalne in zadovoljne stranke ter povečati ugled celotnega podjetja v Evropi in po svetu.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">2.2 Opredelitev značilnosti obravnavanega podjetja 2.1.1 Opredelitev velikosti in izbranih značilnosti podjetja</p>
+    <p xml:id="pb11.p2" xml:lang="sl">Čeprav so odvisne nekatere posebnosti podjetij od okolij v katerih delujejo ali naj bi delovala podjetja, jih vendarle lahko razvrstimo v nekoliko značilnih skupin.</p>
+    <p xml:id="pb11.p3" xml:lang="sl">Pri razvrščanju podjetij v značilne skupine uporabimo že znane kriterije (Belak 2002, 23-24):</p>
+    <p xml:id="pb11.p4" xml:lang="sl">• velikost,</p>
+    <p xml:id="pb11.p5" xml:lang="sl">• dejavnost,</p>
+    <p xml:id="pb11.p6" xml:lang="sl">• tehnično-ekonomska struktura,</p>
+    <p xml:id="pb11.p7" xml:lang="sl">• pravna oblika,</p>
+    <p xml:id="pb11.p8" xml:lang="sl">• lokacija,</p>
+    <p xml:id="pb11.p9" xml:lang="sl">• stopnja kooperativnosti,</p>
+    <p xml:id="pb11.p10" xml:lang="sl">• stopnja internacionalizacije podjetja ter</p>
+    <p xml:id="pb11.p11" xml:lang="sl">• oblika podjetniške povezave.</p>
+    <p xml:id="pb11.p12" xml:lang="sl">Pri proučevanju obravnavanega podjetja bomo upoštevali Belakovo opredelitev razvrščanja podjetij v značilne skupine. Podjetje Parfumerija Douglas d.o.o. pa bomo proučili tudi po nekaterih drugih po lastni presoji izbranih vidikih.</p>
+    <p xml:id="pb11.p13" xml:lang="sl">Velikost: V podjetju Parfumerija Douglas d.o.o. je zaposlenih 23 delavcev, čisti prihodki od prodaje ter vrednost aktive niso večji od 2 milijonov evrov. Po kriterijih Zakona o gospodarskih družbah (55. člen) spada podjetje med mikro družbe, za katere je značilno:</p>
+    <p xml:id="pb11.p14" xml:lang="sl">- povprečno število zaposlenih v zadnjem poslovnem letu ne presega 10;</p>
+    <p xml:id="pb11.p15" xml:lang="sl">- čisti prihodki od prodaje v zadnjem poslovnem letu ne presegajo 2 milijonov evrov;</p>
+    <p xml:id="pb11.p16" xml:lang="sl">- vrednost aktive ob koncu poslovnega leta ne presega 2 milijonov evrov.</p>
+    <p xml:id="pb11.p17" xml:lang="sl">Dejavnost: Glede na dejavnost uvrščamo Parfumerijo Douglas d.o.o. v terciarni sektor (storitve), saj opravlja trgovinske storitve.</p>
+    <p xml:id="pb11.p18" xml:lang="sl">Tehnično-ekonomska struktura: Podjetje spada med delovno intenzivna podjetja. V njem izmenjuje fizično in umsko delo. Med fizična dela spada urejanje trgovine ter s tem povezano delo, med umska dela pa spada svetovanje strankam in izpopolnjevanje glede kozmetike.</p>
+    <p xml:id="pb11.p19" xml:lang="sl">Pravna oblika: Podjetje Parfumerija Douglas d.o.o. spada med kapitalske družbe in je družba z omejeno odgovornostjo</p>
+    <p xml:id="pb11.p20" xml:lang="sl">Lokacija: Podjetje ima sedež na Jurčičevi ulici 5, 2000 Maribor.</p>
+    <p xml:id="pb11.p21" xml:lang="sl">Stopnja kooperativnosti: Podjetje Parfumerija Douglas d.o.o. je del podružnice Douglas Holding, ki ima več vej trgovin. Podjetje Parfumerija Douglas d.o.o. je udeleženo v delniškem kapitalu delniške družbe Douglas Holding.</p>
+    <p xml:id="pb11.p22" xml:lang="sl">Upravljalno-vodstveni proces: Podjetje Parfumerija Douglas d.o.o. za Slovenijo vodi Adrijana Bokan kot vodja uprave. Direktor Parfumerije Douglas za območje Slovenije je Roland Szalay. Lastnik in ustanovitelj podjetja je Parfümerie Douglas Internacional GMBH.</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">Strateške razvojne situacije</p>
+    <p xml:id="pb12.p2" xml:lang="sl">Poznamo štiri različne tipe razvojnih okoliščin, ki jih poimenujemo sledeče: 1. lokalna MSP z lokalnim trgom, 2. lokalna MSP s svetovnim trgom, 3. globalna MSP z lokalnim trgom,</p>
+    <p xml:id="pb12.p3" xml:lang="sl">4. globalna MSP s svetovnim trgom (Obrecht 1998, v Belak 1998, 162).</p>
+    <p xml:id="pb12.p4" xml:lang="sl">Tržni prostor: Tržni prostor podjetja Parfumerija Douglas d.o.o. je celotna Slovenija, predvsem pa območje Maribora in Ljubljane, kjer ima podjetje svoje trgovine. Douglas Slovenija nabavlja in prodaja predvsem v Sloveniji.</p>
+    <p xml:id="pb12.p5" xml:lang="sl">Operacijski prostor: Podjetje deluje na območju Slovenije, zato je operacijski prostor lokalen.</p>
+    <p xml:id="pb12.p6" xml:lang="sl">Kognicijski prostor: Podjetje Parfumerija Douglas d.o.o. deluje skladno z gospodarskim, socialnim in kulturnim okoljem vseh držav, kjer posluje. Kognicijski prostor je globalen.</p>
+    <p xml:id="pb12.p7" xml:lang="sl">Prostor spoznanja obravnavanega podjetja je svetoven, saj so podjetja pri katerih iščemo ideje in možnosti izboljševanja s celega sveta.</p>
+    <p xml:id="pb12.p8" xml:lang="sl">Kultura podjetja</p>
+    <p xml:id="pb12.p9" xml:lang="sl">Kulturo podjetja Parfumerija Douglas d.o.o. smo določili s pomočjo tipologije kulture, ki jo je razvil Thommen (1996, 697-698 v Belak 2002, 95). Avtor razlikuje štiri tipe kultur, ki jih je poimenoval:</p>
+    <p xml:id="pb12.p10" xml:lang="sl">• kultura – tveganj: »Vse ali nič«;</p>
+    <p xml:id="pb12.p11" xml:lang="sl">• macho – kultura: »Trdi možje«;</p>
+    <p xml:id="pb12.p12" xml:lang="sl">• procesna – kultura: »Pisarniške moči«;</p>
+    <p xml:id="pb12.p13" xml:lang="sl">• kultura »kruha in iger«: »Trdo delo/mnogo zabave«.</p>
+    <p xml:id="pb12.p14" xml:lang="sl">Za podjetje Parfumerija Douglas d.o.o. menimo, da je najprimernejša kultura »kruha in iger«: »Trdo delo/mnogo zabave«. Sodelavci v proučevanem podjetju ne sprejemajo velikih tveganj, prednost dajejo okolju, ki nudi mnoge uporabne možnosti. Sodelovanje v timu je enostavno.</p>
+    <p xml:id="pb12.p15" xml:lang="sl">Praznovanja so prisotna ob zaključkih leta ter rojstnih dnevih.</p>
+    <p xml:id="pb12.p16" xml:lang="sl">Etika podjetja</p>
+    <p xml:id="pb12.p17" xml:lang="sl">Učinkovitost delovanja je v podjetju Parfumerija Douglas d.o.o. usmerjena v zadovoljevanje potreb kupcev. Da so te potrebe v najvišji meri zadovoljene, skrbimo s kakovostno ponudbo izdelkov in storitev. V proučevanem podjetju kupcem ponujamo izdelke in storitve, ki zadovoljujejo njihove resnične potrebe ter tiste izdelke in storitve, ki so konkurenčno sposobne. Le tako lahko ustvarjamo dobiček obenem pa se izognemo nepotrebnim zalogam izdelkov. Odgovorni smo do svojih sodelavcev, tako da jim zagotavljamo varnost pri delu.</p>
+    <p xml:id="pb12.p18" xml:lang="sl">Odgovorni smo za moralno obnašanje in prevzemamo posledice svojega ravnanja in početja.</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">2.2.2 Dejavniki uspešnosti podjetja</p>
+    <p xml:id="pb13.p2" xml:lang="sl">Uspešnost ustanavljanja podjetij je odvisna od sreče in od določenih sposobnosti podjetja ter njihove uveljavitve v postopku ustanavljanja. Teorija o ustanavljanju podjetij poskuša razjasniti, kateri dejavniki spodbujajo ustanovitev podjetja in kateri izrazito vodijo k uspešni ustanovitvi.</p>
+    <p xml:id="pb13.p3" xml:lang="sl">Dejavnike uspešnosti pri ustanavljanju podjetja lahko razvrstimo z naslednjih vidikov:</p>
+    <p xml:id="pb13.p4" xml:lang="sl">- okolje ustanovitve</p>
+    <p xml:id="pb13.p5" xml:lang="sl">- osebnost ustanovitelja</p>
+    <p xml:id="pb13.p6" xml:lang="sl">- predmet ustanovitve (Mugler 1999, 64).</p>
+    <p xml:id="pb13.p7" xml:lang="sl">Dejavniki uspešnosti, ki jih ustvarja okolje: Iz vidika inovacijske naravnanosti Slovenije, ni bilo nobenih preprečevalnih ali zaviralnih dejavnikov za ustanovitev in razvoj podjetja.</p>
+    <p xml:id="pb13.p8" xml:lang="sl">Podjetje Parfumerija Douglas d.o.o. deluje na območju Republike Slovenije, kjer je infrastruktura z vidika pravnega reda urejena. Podjetje posluje na treh lokacijah od katerih sta dve v Mariboru in ena v Ljubljani, kar podjetju omogoča dober dostop do storitvene infrastrukture, tako poštnih, transportnih, skladiščnih in informacijskih storitev. Tudi sedež podjetja je v centru mesta Maribor. Prodajno področje podjetja je slovenski trg. Svoje storitve opravljamo na ožjem geografskem področju saj imamo poslovalnice le v Mariboru in Ljubljani, v naslednjih letih pa se še nameravamo razširiti na območje osrednje Slovenije in na območje Primorske. Pri svojem delovanju in na svojem območju se srečujemo z nekaj pomembnimi konkurenti.</p>
+    <p xml:id="pb13.p9" xml:lang="sl">Dejavniki uspešnosti, ki izhajajo iz osebnosti ustanovitelja: Pri proučevanju uspešnosti, ki izhajajo iz osebnosti ustanovitelja sem se omejila predvsem na vodjo uprave podjetja saj je to odgovorna oseba za podjetje Douglas na območju Slovenije.</p>
+    <p xml:id="pb13.p10" xml:lang="sl">Smo mnenja, da se pri vodji podjetja izražajo nekatere lastnosti, kot so pripravljenost na tveganje, prizadevnost za uspeh in fleksibilnost. Seveda se pri omenjenem vodji izražajo tudi določene pomanjkljivosti.</p>
+    <p xml:id="pb13.p11" xml:lang="sl">Dejavniki uspešnosti, ki izhajajo iz oblikovanja predmeta ustanovitve: Podjetje Parfumerija Douglas d.o.o. je bilo ustanovljeno kot družba z omejeno odgovornostjo. Gospodarska družba z omejeno odgovornostjo je družba, katere osnovni kapital sestavljajo osnovni vložki družbenikov. Vrednost vložkov je lahko različna, lahko so v obliki stvari, pravic oziroma denarja. Na podlagi osnovnega vložka in sorazmerno z njegovo vrednostjo v osnovnem kapitalu pridobi družbenik svoj poslovni delež. Vsak družbenik lahko ob ustanovitvi prispeva le en osnovni vložek in ima le en poslovni delež. Za obveznosti gospodarske družbe d.o.o. družbeniki ne odgovarjajo. Gospodarsko družbo d.o.o. lahko ustanovi ena ali več fizičnih oziroma pravnih oseb, ki postanejo z ustanovitvijo družbe njeni lastniki (Koželj 2007, 88).</p>
+    <p xml:id="pb13.p12" xml:lang="sl">Ustanovitelji podjetja Parfumerija Douglas d.o.o. so Parfümerie Douglas International GMBH. Podjetje je odprlo prvo poslovalnico v mestu Maribor, saj na tem območju konkurenca še ni bila tako močna, kot na primer v Ljubljani. Tudi povpraševanje po tovrstnih kozmetičnih izdelkih je bilo primerno. Tako je bil v Mariboru ustanovljen sedež podjetja, ki je v strogem centru mesta na Jurčičevi ulici. Tam je bila prva odprta poslovalnica. Leto za tem je bila odprta še poslovalnica v Ljubljani, ki se nahaja v trgovskem središču Citypark.</p>
+    <p xml:id="pb13.p13" xml:lang="sl">Nazadnje je bila pred dobrim letom odprta še tretja poslovalnica, prav tako v Mariboru in sicer v trgovskem središču Europark.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">2.3 Faza razvoja proučevanega podjetja</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Scott in Bruce (Duh 2002, 89-90) sta pri zasnovi svojega modela razvoja malega podjetja upoštevala spoznanja Greinerja, Churcilla in Lewisa ter značilnosti njihovih modelov. Model sta prav tako razvijala s podmeno, da podjetje sicer raste, vendar se nujno ne razvije v veliko podjetje. Vedeti moramo, da se oblika krivulje in hitrost, s katero podjetje prehaja skozi stopnje, razlikujeta od podjetja do podjetja. Avtorja tudi poudarjata, da podjetje sicer lahko kadarkoli doživi neuspeh, vendar pa je najbolj verjetno, da se bo to zgodilo v eni od kritičnih točk, na prehodu med posameznimi fazami razvoja podjetja.</p>
+    <p xml:id="pb14.p3" xml:lang="sl">Podjetje Parfumerija Douglas d.o.o. spada v sklopu modela razvoja podjetja po Scottu in Bruceu v II. fazo razvoja podjetja, to je v fazo preživetja. Podjetje ima že veliko odjemalcev, ki zagotavljajo obstoj podjetja. Osredotočajo se predvsem na razvoj podjetja. Tudi velikost podjetja je zadostna za preživetje podjetja. Podjetje je delujoča poslovna enota z enostavno organizacijsko strukturo. V primeru širjenja podjetja bo moralo podjetje najeti dodatne kredite. Podjetje je glede konkuriranja še vedno negotovo, saj se na trgu srečuje s pomembnimi konkurenti, ki imajo nekatere prednosti v primerjavi z obravnavanim podjetjem.</p>
+    <p xml:id="pb14.p4" xml:lang="sl">2.4 Obstoječa politika podjetja in interesni potenciali obravnavanega podjetja Današnja vizija</p>
+    <p xml:id="pb14.p5" xml:lang="sl">Podjetniška vizija je celostna, daljnovidna predstava ciljev in poti za njihovo dosego. Ustvarja ideje za doseganje družbene koristi. Kot zvezda vodnica usmerja poslovanje podjetja (Bleicher 1994, 102 v Belak 2002, 74).</p>
+    <p xml:id="pb14.p6" xml:lang="sl">Današnja vizija, kot jo ima proučevano podjetje zapisano: Zadovoljstvo naših strank je najpomembnejši cilj našega delovanja. Za nakupovanje ustvarjamo okolje, v katerem se naše stranke dobro počutijo. Z željo, da bi našim strankam ugodili, jim z velikim zadovoljstvom svetujemo in jim z veseljem postrežemo. S tem jim delno polepšamo življenje dan za dnem, na vsakem prodajnem mestu in ne ozirajoč se na državo (glej Parfumerija Douglas 2009).</p>
+    <p xml:id="pb14.p7" xml:lang="sl">Izvrstna storitev, prvovrstna ponudba in k doživetjem usmerjeno okolje. To je naš vsakdanji cilj v vseh okoljih našega poslovanja. Na področju strokovne maloprodaje je naše osebje med najboljšimi. Osnova tega je zavzetost in dovzetnost za učenje, prijaznost in navdušenje ter medsebojno sodelovanje.</p>
+    <p xml:id="pb14.p8" xml:lang="sl">Politika podjetja</p>
+    <p xml:id="pb14.p9" xml:lang="sl">Politika podjetja opredeljuje temeljne in splošne ter dolgoročnejše značilnosti podjetja.</p>
+    <p xml:id="pb14.p10" xml:lang="sl">Vsebuje poslanstvo podjetja ter smotre in temeljne cilje podjetja z globalno opredelitvijo uresničitvenih potencialov, procesov in izidov podjetja (Belak 2002, 76).</p>
+    <p xml:id="pb14.p11" xml:lang="sl">Poslanstvo</p>
+    <p xml:id="pb14.p12" xml:lang="sl">Poslanstvo, kot ga imajo v proučevanem podjetju zapisanega: Področje dela podjetja Parfumerija Douglas d.o.o. zajema prodajo kozmetičnih izdelkov ter svetovanje na področju kozmetike. Pri opravljanju storitev sledijo potrebam kupcev. Zaposleni v podjetju so ustrezno usposobljeni in kvalificirani za opravljanje storitev. Vodilo njihovega dela je: »Skupaj uspešni</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">– fit za prihodnost!« Smotri</p>
+    <p xml:id="pb15.p2" xml:lang="sl">Smotri, kot jih imajo v proučevanem podjetju zapisane: Smotri podjetja so trajno zadovoljevanje potreb kupcev ter trajno zagotavljanje prihodkov in dobička. Trajni razvojni smotri se kažejo v povečevanju ugleda celotne parfumerije.</p>
+    <p xml:id="pb15.p3" xml:lang="sl">Cilji</p>
+    <p xml:id="pb15.p4" xml:lang="sl">Cilji, kot jih imajo v proučevanem podjetju zapisane: Cilj podjetja je zagotoviti stalne in zadovoljne kupce. Temeljni cilji podjetja so dolgoročna učinkovitost in uspešnost, večanje premoženja in izboljšati tržni položaj.</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Interesni potenciali podjetja</p>
+    <p xml:id="pb15.p6" xml:lang="sl">Belak (2002, 108) pravi, da so procesi snovanja, oblikovanja in izbire politike podjetja predvsem procesi interesnega usklajevanja med udeleženci podjetja. V teh procesih sodelujejo različni udeleženci. Praviloma se brez interesa nihče ne vključuje v podjetje, niti v zvezi s podjetjem nič ne počenja. To pa pomeni, da mora vsako podjetje pri opredeljevanju politike podjetja upoštevati interese vseh svojih udeležencev. To velja za lastnike in upravljavce podjetja, za direktorje in managerje, za strokovne in druge izvajalne kadre v podjetju (notranji udeleženci podjetja), velja pa tudi za njegove kupce in dobavitelje ter za financerje, za nosilce infrastrukturnih dejavnosti, za državo in njene inštitucije in celo za konkurente (zunanji udeleženci podjetja).</p>
+    <p xml:id="pb15.p7" xml:lang="sl">V podjetju Parfumerija Douglas d.o.o. so notranji udeleženci podjetja:</p>
+    <p xml:id="pb15.p8" xml:lang="sl">- lastnik/direktor,</p>
+    <p xml:id="pb15.p9" xml:lang="sl">- vodja uprave,</p>
+    <p xml:id="pb15.p10" xml:lang="sl">- računovodja,</p>
+    <p xml:id="pb15.p11" xml:lang="sl">- zaposlene prodajalke/svetovalke.</p>
+    <p xml:id="pb15.p12" xml:lang="sl">Interesi notranjih udeležencev: Interes direktorja/lastnika podjetja je čim večji dobiček ob koncu poslovnega leta. Interes vodje uprave je zagotoviti uspešno delo, ustvariti čim večji dobiček na področju Slovenije in s tem zadovoljiti interes direktorja in lastnika. Interes računovodje je prav tako poslovanje podjetja z dobičkom. Poleg tega je še v interesu računovodje uspešno delo s plačilnimi listami, kjer izračunava osebne dohodke zaposlenim, sestavljanje bilanc s katerimi seznanja poslovodstvo podjetja. Glavni interes zaposlenih prodajalk je osebni dohodek.</p>
+    <p xml:id="pb15.p13" xml:lang="sl">Zunanji udeleženci v podjetju so:</p>
+    <p xml:id="pb15.p14" xml:lang="sl">- konkurenti ( Parfumerije Limoni d.o.o., Müller d.o.o.),</p>
+    <p xml:id="pb15.p15" xml:lang="sl">- banka (glej Unicredit bank 2009),</p>
+    <p xml:id="pb15.p16" xml:lang="sl">- varnost (glej Sintal 2009),</p>
+    <p xml:id="pb15.p17" xml:lang="sl">- kupci,</p>
+    <p xml:id="pb15.p18" xml:lang="en">- dobavitelji (Orbico d.o.o., Promands d.o.o., Everet d.o.o., Martimex d.o.o., Domina Activa d.o.o.),</p>
+    <p xml:id="pb15.p19" xml:lang="sl">- javnost,</p>
+    <p xml:id="pb15.p20" xml:lang="sl">- državne inštitucije.</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">Interesi zunanjih udeležencev: Interesi kupcev so kakovostni izdelki in kakovostno opravljene storitve po ugodni ceni. Interesi dobaviteljev so dobaviti blago kupcu v čim krajšem času ter čimprejšnje plačano dobavljeno blago. Interes konkurentov je privabljanje kupcev še pred odločijo nakupa v Parfumeriji Douglas. To lahko storijo z akcijskimi cenami in ponudbami.</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Interes banke je dolgoročno sodelovanje, saj si tako banke zaračunavajo obresti tudi na podlagi danih kreditov.</p>
+    <p xml:id="pb16.p3" xml:lang="sl">2.5 Obstoječe strategije</p>
+    <p xml:id="pb16.p4" xml:lang="sl">Strategija podjetja (Belak 2002, 144) je način uresničevanja politike podjetja, torej njegovega poslanstva, smotrov in temeljih ciljev in vanjo vgrajenih interesov udeležencev podjetja.</p>
+    <p xml:id="pb16.p5" xml:lang="sl">V obravnavanem podjetju strategij nimajo formalno zapisanih. Strategije bomo razbrali iz proučevanje v zvezi z obravnavanim podjetjem.</p>
+    <p xml:id="pb16.p6" xml:lang="sl">Splošne strategije</p>
+    <p xml:id="pb16.p7" xml:lang="sl">Kot splošne strategije pojmujemo strategije, ki si za podjetje splošno uporabne ne glede na raven (Belak 2002, 144).</p>
+    <p xml:id="pb16.p8" xml:lang="sl">V zvezi s ponudbo ugotavljamo, da se v podjetju Parfumerija Douglas zavzemajo za širjenje ponudbe svojih učinkov. V proučevanem podjetju se v največji meri zavzemajo za zadovoljstvo strank, prav tako se prilagajajo potrebam strank. Na področju kozmetike in parfumerije so vedno prisotne novosti, ki jih je treba predstaviti obstoječim in bodočim uporabnikom. Ponudba učinkov je standardna.</p>
+    <p xml:id="pb16.p9" xml:lang="sl">V zvezi s konkurenco ugotavljamo, da uporablja podjetje Parfumerija Douglas d.o.o. predvsem defenzivno strategijo. Podjetje se ukvarja z dejavnostjo, ki ima na trgu veliko konkurentov, zato skuša ves čas izboljševati kakovost svojih storitev (sem spada znanje, postrežba in strokovnost svetovalk). Tako poskuša biti obravnavano podjetje drugačno in boljše od konkurence. Podjetje Parfumerija Douglas d.o.o. uporablja v kombinaciji z defenzivno strategijo še inovativno strategijo, kar pomeni, da nudi storitve, ki jih konkurenca še ni uporabljala. Sem spadajo storitve, kot so manikura ter analiza kože.</p>
+    <p xml:id="pb16.p10" xml:lang="sl">V zvezi z lastnim delovanjem se podjetje trudi tako za zadovoljstvo svojih kupcev kot tudi za zadovoljstvo svojih zaposlenih ter zunanjih udeležencev. Ugotavljamo, da podjetje uporablja strategijo vzajemnega ustvarjanja vrednosti.</p>
+    <p xml:id="pb16.p11" xml:lang="sl">V zvezi z resursi uporablja podjetje strategijo fleksibilne oskrbe, saj se podjetje prilagaja potrebam kupcev. Podjetje mora nenehno slediti novim trendom na trgu.</p>
+    <p xml:id="pb16.p12" xml:lang="sl">Temeljna strategija</p>
+    <p xml:id="pb16.p13" xml:lang="sl">Temeljna strategija celovitega podjetja, torej koncerna ali holdinga, opredeljuje globalni odnos podjetja do lastnega okolja z izbiro svojih prihodnjih dejavnosti. S temi strategijami opredeljujejo podjetja optimalni izbor svojih prihodnjih dejavnosti in planirajo tudi potrebno globalno razporeditev resursov za izvedbo teh dejavnosti (Belak 2002, 146).</p>
+    <p xml:id="pb16.p14" xml:lang="sl">Temeljna dejavnost podjetja Parfumerija Douglas d.o.o. je usmerjena v prodajo parfumskih in kozmetičnih izdelkov. V obravnavanem podjetju je prioriteta zadovoljstvo kupcev.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Prevladuje tudi želja po širjenju podjetja na določena področja v Sloveniji, kjer podjetje še nima odprtih poslovalnic, vendar pa na teh področjih že delujejo njihovi konkurenti. Temeljna strategija podjetja Parfumerija Douglas d.o.o. je tako usmerjena v nadaljnji razvoj in rast dejavnosti. Za to skrbijo predvsem z nenehnim širjenjem ponudbe svojih izdelkov ter storitev ter izobraževanjem zaposlenih na področju kozmetičnih izdelkov in parfumov.</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Poslovne strategije</p>
+    <p xml:id="pb17.p3" xml:lang="sl">Poslovne strategije izhajajo iz temeljnih strategij celovitega podjetja – opredeljujejo pa cilje posameznega programsko-tržnega področja in globalne naloge strateških poslovnih enot za dosego teh ciljev (Belak 2002, 147).</p>
+    <p xml:id="pb17.p4" xml:lang="sl">Glede poslovne strategije v podjetju Parfumerija Douglas d.o.o. lahko rečemo, da sledi razvijanju tržne niše na osnovi diferenciacije. Ta strategija omogoča doseganje višjih prodajnih cen. Z zadovoljevanjem specializiranih potreb bomo zapolnili tržno praznino. Tako bomo našim kupcem nudili storitve kot so manikura, ličenje ter analiza kože. Teh potreb večji konkurenti v panogi niso pripravljeni zadovoljevati. Biti moramo ustvarjalni in vedno v koraku z trendi. Naši odjemalci cenijo prestiž ter zanesljivost storitev in postrežbe. S takim načinom bomo tudi uspešnejši od naših konkurentov ter dosegali dobro prodajo in s tem tudi dobiček.</p>
+    <p xml:id="pb17.p5" xml:lang="sl">2.6 Obstoječe strukture proučevanega podjetja Lastniška struktura</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Podjetje Parfumerija Douglas d.o.o. je zasebna lastnina. Ustanovitelj in lastnik podjetja je Parfümerie Douglas Internacional GMBH. Zakoniti zastopniki podjetja so Herfeld Stefan Wolfgang, Szalay Roland in Vennewald Dieter Siegfried Heinrich Bernhard.</p>
+    <p xml:id="pb17.p7" xml:lang="sl">Organizacijska struktura</p>
+    <p xml:id="pb17.p8" xml:lang="sl">Struktura organiziranosti je izid organiziranja in odseva statični vidik organiziranosti odnosov med nosilci organizacijskih nalog (Ivanko 1999, 49). Struktura je sistem odnosov med ljudmi, da se izvrši določeno delo (Perrow 1967, 195 v Ivanko 1999, 49).</p>
+    <p xml:id="pb17.p9" xml:lang="sl">Na sliki 2 je prikazana organizacijska struktura podjetja Parfumerija Douglas d.o.o.</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">SLIKA 2: ORGANIZACIJSKA STRUKTURA VODENJA PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb18.p2" xml:lang="sl">DOUGLAS d.o.o.</p>
+    <p xml:id="pb18.p3" xml:lang="sl">V podjetju Parfumerija Douglas d.o.o. je skupaj zaposlenih enaindvajset ljudi, od tega eden vodja, ki je vodja uprave in vseh trgovin za območje Slovenije, dve računovodkinji, eno administratorko, tri poslovodje ter šestnajst prodajalk. Slika prikazuje kako je sestavljena struktura vodenja v podjetju Parfumerija Douglas d.o.o.. Vse poslovodje odgovarjajo vodji uprave, prodajalke odgovarjajo poslovodji v določeni poslovni enoti. Podjetje Parfumerija Douglas d.o.o. ima eno upravno enoto v centru Maribora ter tri poslovne enote in sicer poslovna enota Maribor Center, poslovna enota Ljubljana Citypark ter poslovna enota Maribor Europark. Administracijska dela se opravljajo v sami upravi in so pod nadzorom vodje uprave. Prav tako se opravljajo računovodska dela v upravi in jih nadzoruje vodja uprave.</p>
+    <p xml:id="pb18.p4" xml:lang="sl">Glede organizacijske oblike spada podjetje Parfumerija Douglas d.o.o. med specializirane prodajalne na drobno. Značilnosti specializiranih prodajaln so:</p>
+    <p xml:id="pb18.p5" xml:lang="sl">- manjše do srednje velike prodajalne,</p>
+    <p xml:id="pb18.p6" xml:lang="sl">- ponujajo ozek, toda globok sortiment. Ponudbo ozko specializiranih prodajaln sestavlja le del sortimenta branžne trgovine na drobno, vendar je ponujeni sortiment zelo poglobljen. Ozko specializirane prodajalne uvajajo v svoj sortiment tudi dopolnilne artikle, vendar je ta del sortimenta zelo plitev (Potočnik 1998, 45).</p>
+    <p xml:id="pb18.p7" xml:lang="sl">Kadrovska struktura</p>
+    <p xml:id="pb18.p8" xml:lang="sl">Analiziranje kadrov se nanaša na razne vidike strukture zaposlenih (po spolu, po starosti, po izobrazbi ipd.), dalje na potrebe po zaposlovanju in izbiranju za zaposlitev, o uspešnosti zaposlenih, o organizacijskem razvoju v povezanosti z osebnim razvojem zaposlenih in morebitnim načrtovanjem karier (Kralj 1998, 197).</p>
+    <p xml:id="pb18.p9" xml:lang="sl">VODJA UPRAVE (1) RAČUNOVODSTVO (2) ADMINISTRACIJA (1) PE MB CENTER POSLOVODJA (1) PRODAJALKE (4) PE LJ CITYPARK POSLOVODJA (1) PRODAJALKE (5) PE MB EUROPARK POSLOVODJA (1) PRODAJALKE (5)</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">V kadrovski strukturi so opredeljene delovne naloge vsakega zaposlenega, izobrazba zaposlenih ter število zaposlenih. Preglednica 1 prikazuje kadrovsko strukturo podjetja Parfumerija Douglas d.o.o.</p>
+    <p xml:id="pb19.p2" xml:lang="sl">PREGLEDNICA 1: KADROVSKA STRUKTURA PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb19.p3" xml:lang="sl">DOUGLAS d.o.o.</p>
+    <p xml:id="pb19.p4" xml:lang="sl">Delovno mesto</p>
+    <p xml:id="pb19.p5" xml:lang="sl">Delovne naloge Izobrazba Delovne izkušnje, sposobnosti Število zaposlenih Direktor Vodenje podjetja, opredeljevanje politike podjetja in strategij</p>
+    <p xml:id="pb19.p6" xml:lang="sl">VII. stopnja Vodenje podjetja 1</p>
+    <p xml:id="pb19.p7" xml:lang="sl">Vodja uprave Vodenje vseh trgovin na področju Slovenije</p>
+    <p xml:id="pb19.p8" xml:lang="sl">V. stopnja Vodenje trgovin, pogajalstvo, komunikacija 1</p>
+    <p xml:id="pb19.p9" xml:lang="sl">Računovodja Obračun plač, vodenje stroškov, sestavljanje bilanc</p>
+    <p xml:id="pb19.p10" xml:lang="sl">V. stopnja Organiziranost, zbranost, natančnost, kontrola 2</p>
+    <p xml:id="pb19.p11" xml:lang="sl">Administrator Vnašanje podatkov</p>
+    <p xml:id="pb19.p12" xml:lang="sl">V. stopnja Natančnost, poznavanje dela z računalnikom 1</p>
+    <p xml:id="pb19.p13" xml:lang="sl">Poslovodja Vodenje posamezne trgovine, skrb za nabavo blaga in urejenost trgovine</p>
+    <p xml:id="pb19.p14" xml:lang="sl">V. stopnja ali IV. stopnja Prodaja, komuniciranje, urejenost 3</p>
+    <p xml:id="pb19.p15" xml:lang="sl">Prodajalci Prodaja izdelkov, svetovanje in ličenje.</p>
+    <p xml:id="pb19.p16" xml:lang="sl">V. stopnja ali IV. stopnja Prodaja, komuniciranje, strpnost 14</p>
+    <p xml:id="pb19.p17" xml:lang="sl">Skupaj</p>
+    <p xml:id="pb19.p18" xml:lang="sl">Vodja uprave vodi vse trgovine po Sloveniji. Med pristojnosti vodje uprave spada dogovarjanje z dobavitelji, naročanje blaga ter komuniciranje z matično enoto v Nemčiji.</p>
+    <p xml:id="pb19.p19" xml:lang="sl">Vodja uprave je torej manager za podjetje Parfumerija Douglas d.o.o. Manager v najširšem smislu besede je vsakdo, kdor vsaj enemu podrejenemu sodelavcu načrtuje, organizira, usmerja in nadzira delovanje (Tavčar 2002, 5). Štiri temeljne dejavnosti managerja so prikazane na sliki x. Vodja uprave je po izobrazbi ekonomski tehnik. Menimo, da bi za vodjo uprave bila primernejša vsaj šesta stopnja izobrazbe. V proučevanem podjetju sta zaposleni dve računovodkinji. Ena izmed računovodkinj je zaposlena za polni delovni čas, druga računovodkinja za polovični delovni čas. Računovodkinja je odgovorna za vse finančne zadeve med njene pristojnosti pa spada tudi obračun plač, vodenje stroškov, izdelava kvartalnih bilanc ter obračuni DDV-ja. Računovodkinji imata peto stopnjo izobrazbe.</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">Menimo, da bi za tako delo bila ustreznejša šesta stopnja izobrazbe. V podjetju je zaposlena tudi ena administratorka, ki je pristojna za vnos podatkov v računalnik. Administratorka ima peto stopnjo izobrazbe. Menimo, da je ta stopnja izobrazbe primerna glede na delo, ki ga opravlja. Podjetje zaposluje tudi tri poslovodje in sicer za vsako poslovno enoto enega.</p>
+    <p xml:id="pb20.p2" xml:lang="sl">Poslovodja je odgovoren za vodenje posamezne poslovne enote, skrbi za urejenost trgovine ter nabavo blaga v poslovni enoti katere vodja je. Poslovodje imajo peto stopnjo izobrazbe za katero menimo, da je primerna glede na zahtevnost dela, ki ga opravlja. V podjetju je zaposlenih šestnajst prodajalk. Pristojne so za prodajo izdelkov, svetovanje strankam, ličenje in manikuro. Prodajalke imajo četrto in peto stopnjo izobrazbe, ki je primerna za delo, ki ga opravljajo.</p>
+    <p xml:id="pb20.p3" xml:lang="sl">SLIKA 3: ŠTIRI TEMELJNE DEJAVNOSTI MANAGERJA</p>
+    <p xml:id="pb20.p4" xml:lang="sl">Vir: Tavčar 2002, 5</p>
+    <p xml:id="pb20.p5" xml:lang="sl">Tehnično-tehnološka struktura</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Z vidika tehnično-tehnološke strukture ugotavljam, da so poslovni prostori ustrezno sodobno opremljeni. Trgovine so klimatizirane. Trgovini v Mariboru (razen tiste v centru mesta) ter v Ljubljani se nahajata v trgovskem središču tako da je urejen parkirni prostor za kupce. Vse trgovine imajo za zaposlene tudi svoje sanitarije in kuhinjski prostor. Trgovine so opremljene z novejšimi računalniki in kamerami. Podjetje ima tudi informacijski sistem, s katerim ima nadzor nad nabavo, prodajo ter stanjem izdelkov na zalogi.</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Premoženjska struktura</p>
+    <p xml:id="pb20.p8" xml:lang="sl">V obračunskih izkazih so predstavljene in zapisane trditve o podatkih in informacijah o poslovnih dogodkih, ki so se zgodili v preteklosti. Računovodski izkazi morajo biti pripravljeni z namenom zadovoljevati splošne potrebe večine uporabnikov, zato tudi ne vsebujejo vseh informacij, ki bi jih uporabniki morebiti potrebovali pri gospodarskem odločanju. Zaradi tega in popolnejšega informiranja je treba računovodskim izkazom dodajati pojasnila ter dodatne razpredelnice in druge informacije. Med dodatne informacije štejemo Načrtuje delo sodelavcev Nadzira delo sodelavcev Organizira delo sodelavcev Usmerja delo sodelavcev predvsem razkritja o tveganju in negotovostih, ki vplivajo na organizacijo, ter o sredstvih in obveznostih, ki niso izkazani v bilanci stanja. Le podatki in informacije iz računovodskih izkazov, dopolnjeni s tistimi iz zadostnih in kakovostno pripravljenih pojasnil oziroma razkritij, zagotavljajo zadovoljivo informiranost uporabnikov računovodskih informacij (Turk et al., 2004, 59-60).</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">Namen računovodskih izkazov je zagotavljati in dajati informacije o finančnem položaju, uspešnosti in spremembah finančnega položaja organizacije, ki so koristne širokemu krogu uporabnikov pri njihovem odločanju. Za pripravo računovodskih informacij je odgovorno poslovodstvo. Poslovodstvo tudi določi obliko in vsebino dodatnih informacij, potrebnih za zadovoljevanje lastnih potreb. Poročanje na podlagi teh informacij sicer ne spada v poročanje o računovodskih izkazih, vendar so objavljeni računovodski izkazi zasnovani tudi na informacijah, ki jih uporablja poslovodstvo organizacije ter se nanašajo na finančni položaj, uspešnost in spremembe finančnega položaja organizacije (Turk et al., 2004, 60).</p>
+    <p xml:id="pb21.p2" xml:lang="sl">V nadaljevanju bomo predstavili izkaz poslovnega izida in bilanco stanja podjetja Parfumerija Douglas d.o.o. za leto 2007 in 2008. Posebna navodila za izdelavo bilanc dobiva obravnavano podjetje iz svoje matične enote, torej iz Hagna. Te bilance se nekoliko razlikujejo od navadnih bilanc. Poslovno leto za obravnavano podjetje traja od 1.10 do 31.9 naslednjega leta. Razlog za to je povečan obseg dela v mesecu novembru in decembru, zato se poslovna poročila sestavijo prej. Prav tako se meseca septembra izvršijo vse inventure. Bilance se v obravnavanem podjetju izdelujejo in oddajajo četrtletno. Te bilance pripravlja zaposlena računovodkinja. Končno letno poročilo izdela zunanje računovodsko podjetje Finea (glej Finea 2008). Vsa poročila pregleda direktor na Madžarskem, nato se oddajo v matično enoto v Hagen.</p>
+    <p xml:id="pb21.p3" xml:lang="sl">V preglednici 2 je prikazan izkaz poslovnega izida za leto 2007 in leto 2008. Kot je razvidno iz preglednice največji delež med prihodki predstavljajo čisti prihodki od prodaje na domačem trgu. Kot lahko vidimo, so se prihodki leta 2008 povečali v primerjavi z letom 2007.</p>
+    <p xml:id="pb21.p4" xml:lang="sl">Največji delež med odhodki predstavljajo poslovni odhodki in sicer stroški blaga, materiala in storitev. V primerjavi z letom 2007 so bili ti leta 2008 nekoliko višji, kar je posledica tega, da se je iz leta 2007 na 2008 odprla še ena trgovina, zaposlili pa so tudi nove ljudi, kar kažejo tudi povečani stroški dela leta 2008. Podjetje je leta 2007 in 2008 poslovalo z izgubo, ki se je leta 2008 nekoliko povečala, kar je posledica že prej omenjene širitve podjetja in povečanja stroškov.</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">PREGLEDNICA 2: PRIKAZ IZKAZA POSLOVNEGA IZIDA PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb22.p2" xml:lang="sl">DOUGLAS d.o.o. LETA 2007 IN LETA 2008 v EUR</p>
+    <p xml:id="pb22.p3" xml:lang="sl">Postavka Znesek leta 2008 Znesek leta 2007</p>
+    <p xml:id="pb22.p4" xml:lang="sl">A. ČISTI PRIHODKI OD PRODAJE 2.381.456 1.803.179</p>
+    <p xml:id="pb22.p5" xml:lang="sl">I.Čisti prihodki od prodaje na domačem trgu 2.381.456 1.802.567 II.Čisti prihodki od prodaje na trgu EU 0 612 III.Čisti prihodki od prodaje na trgu izven EU 0 0</p>
+    <p xml:id="pb22.p6" xml:lang="sl">B.POVEČANJE VREDNOSTI ZALOG PROIZVODOV IN NEDOKONČANE PROIZVODNJE</p>
+    <p xml:id="pb22.p7" xml:lang="sl">C.ZMANJŠANJE VREDNOSTI ZALOG PROIZVODOV IN NEDOKONČANE PROIZVODNJE</p>
+    <p xml:id="pb22.p8" xml:lang="sl">Č. USREDSTVENI LASTNI PROIZVODI IN LASTNE STORITVE</p>
+    <p xml:id="pb22.p9" xml:lang="sl">D.SUBVENCIJE, DOTACIJE, REGRESI, KOMPENZACIJE IN DRUGI PRIHODKI, KI SO POVEZANI S POSLOVNIMI UČINKI</p>
+    <p xml:id="pb22.p10" xml:lang="sl">E. DRUGI POSLOVNI PRIHODKI 844 721</p>
+    <p xml:id="pb22.p11" xml:lang="sl">F.KOSMATI DONOS OD POSLOVANJA 2.382.300 1.803.900 G.POSLOVNI ODHODKI 2.612.903 2.037.944</p>
+    <p xml:id="pb22.p12" xml:lang="sl">I.Stroški blaga, materiala in storitev 1.996.525 1.552.568 II. Stroški dela 414.402 314.790 III. Odpisi vrednosti 197.842 168.036 IV. Drugi poslovni odhodki 4.134 2.135</p>
+    <p xml:id="pb22.p13" xml:lang="sl">H.DOBIČEK IZ POSLOVANJA 0 0 I.IZGUBA IZ POSLOVANJA 230.603 234.044 J. FINANČNI PRIHODKI 8.378 4.249</p>
+    <p xml:id="pb22.p14" xml:lang="sl">I. Finančni prihodki iz deležev 0 0 II. Finančni prihodki iz danih posojil 0 0 III. Finančni prihodki iz poslovnih terjatev 8.378 4.249</p>
+    <p xml:id="pb22.p15" xml:lang="sl">K. FINANČNI ODHODKI 70.483 39.270</p>
+    <p xml:id="pb22.p16" xml:lang="sl">I. Finančni odhodki iz oslabitve in odpisov finančnih naložb 0 0 II.Finančni odhodki iz finančnih obveznosti 70.332 37.772 III. Finančni odhodki iz poslovnih obveznosti 151 1.498</p>
+    <p xml:id="pb22.p17" xml:lang="sl">L. DRUGI PRIHODKI 0 71</p>
+    <p xml:id="pb22.p18" xml:lang="sl">II. Drugi finančni prihodki in ostali prihodki 0 71</p>
+    <p xml:id="pb22.p19" xml:lang="sl">M. DRUGI ODHODKI 2 10 N.CELOTNI DOBIČEK 0 0</p>
+    <p xml:id="pb22.p20" xml:lang="sl">O.CELOTNA IZGUBA 292.710 269.004 P. DAVEK IZ DOBIČKA 0 0 R. ODLOŽENI DAVKI 0 0</p>
+    <p xml:id="pb22.p21" xml:lang="sl">S.ČISTI DOBIČEK OBRAČUNSKEGA OBDOBJA 0 0 Š.ČISTA IZGUBA OBRAČUNSKEGA OBDOBJA 292.710 269.004</p>
+    <p xml:id="pb22.p22" xml:lang="sl">Vir: AJPES, 2009</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">PREGLEDNICA 3: PRIKAZ BILANCE STANJA PODJETJA PARFUMERIJA DOUGLAS d.o.o. LETA 2007 IN LETA 2008 v EUR</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Postavka Znesek leta 2008</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Znesek leta 2007</p>
+    <p xml:id="pb23.p4" xml:lang="sl">SREDSTVA 1.839.840 2.023.960 A.DOLGOROČNA SREDSTVA 641.696 823.868</p>
+    <p xml:id="pb23.p5" xml:lang="sl">I. Neopredmetena sredstva in dolgoročne aktivne časovne razmejitve 449.314 561.777</p>
+    <p xml:id="pb23.p6" xml:lang="sl">II.Opredmetena osnovna sredstva 192.382 307.091 III. Naložbene nepremičnine 0 0 IV. Dolgoročne finančne naložbe 0 0 V.Dolgoročne poslovne terjatve 0 0 VI. Odložene terjatve za davek 0 0</p>
+    <p xml:id="pb23.p7" xml:lang="sl">B.KRATKOROČNA SREDSTVA 1.100.437 1.109.811</p>
+    <p xml:id="pb23.p8" xml:lang="sl">I.Sredstva (skupine za odtujitev) za Prodajo 0 0</p>
+    <p xml:id="pb23.p9" xml:lang="sl">II. Zaloge 702.939 689.373 III. Kratkoročne finančne naložbe 0 0 IV.Kratkoročne poslovne terjatve 184.441 59.778 V. Denarna sredstva 213.057 360.660</p>
+    <p xml:id="pb23.p10" xml:lang="sl">C.KRATKOROČNE AKTIVNE ČASOVNE RAZMEJITVE</p>
+    <p xml:id="pb23.p11" xml:lang="sl">OBVEZNOSTI DO VIROV SREDSTEV 1.839.840 2.023.960 A.KAPITAL 275.063 467.773</p>
+    <p xml:id="pb23.p12" xml:lang="sl">I. Vpoklicani kapital 467.785 467.785 II. Kapitalske rezerve 631.892 531.892 III.Rezerve iz dobička 0 0 IV. Presežek iz prevrednotenja 0 0 V. Preneseni čisti dobiček 0 0 VI. Prenesena čista izguba 531.904 262.900 VII. Čisti dobiček poslovnega leta 0 0 VIII. Čista izguba poslovnega leta 292.710 269.004</p>
+    <p xml:id="pb23.p13" xml:lang="sl">B.REZERVACIJE IN DOLGOROČNE PASIVNE ČASOVNE RAZMEJITVE</p>
+    <p xml:id="pb23.p14" xml:lang="sl">C.DOLGOROČNE OBVEZNOSTI 0 0</p>
+    <p xml:id="pb23.p15" xml:lang="sl">I.Dolgoročne finančne obveznosti 0 0 II.Dolgoročne poslovne obveznosti 0 0 III. Odložene obveznosti za davek 0 0</p>
+    <p xml:id="pb23.p16" xml:lang="sl">Č.KRATKOROČNE OBVEZNOSTI 1.525.491 1.525.832</p>
+    <p xml:id="pb23.p17" xml:lang="sl">II.Kratkoročne finančne obveznosti 1.250.000 1.250.000 III.Kratkoročne poslovne obveznosti 275.491 275.832</p>
+    <p xml:id="pb23.p18" xml:lang="sl">D.KRATKOROČNE PASIVNE ČASOVNE RAZMEJITVE</p>
+    <p xml:id="pb23.p19" xml:lang="sl">39.286 30.355 Vir: AJPES, 2009</p>
+    <p xml:id="pb23.p20" xml:lang="sl">Iz preglednice 3 je razvidno, da so se tako sredstva kot obveznosti do virov sredstev iz leta 2007 na leto 2008 zmanjšala. Razlog pri sredstvih je predvsem zmanjšanje opredmetenih osnovnih sredstev, medtem ko se je pri obveznostih zmanjšal kapital.</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">3 PLANIRANJE RAZVOJA NA RAVNI POLITIKE PODJETJA PARFUMERIJA DOUGLAS D.O.O.</p>
+    <p xml:id="pb24.p2" xml:lang="sl">3.1 Proučevanje vrednot (udeležencev) obravnavanega podjetja</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Za proučitev vrednot (udeležencev) podjetja bomo uporabili Urlichovo shemo za profiliranje sistema vrednot (glej Belak 2002, 116). Ključni udeleženec podjetja je lastnik in ustanovitelj podjetja, vendar teh vrednot ne bomo mogli predstavit saj z ključnim udeležencem nimamo kontakta. Tako bomo pri naši analizi upoštevali enega ključnega udeleženca, to je vodjo za Slovenijo. Nazornejšo predstavo o teh vrednotah bomo predstavili v preglednici 4.</p>
+    <p xml:id="pb24.p4" xml:lang="sl">V prvem koraku bomo ugotovili obstoječe vrednote, s čimer bomo opredelili odnos do tveganj, inovativnosti, stila vodenja, ciljev, rasti podjetja in tržnega deleža. V drugem koraku bomo analizirali ugotovitve o obstoječih vrednotah. Analiza vrednot ključnega udeleženca je pomembna, saj tako dobimo izhodišča za oblikovanje politike podjetja Parfumerija Douglas d.o.o.</p>
+    <p xml:id="pb24.p5" xml:lang="sl">Vodja namenja dobičku za dividende »čim manj«, saj je bolj pomemben dobiček za reinvestiranje , ker bi z njim lahko vlagali v nadaljnjo rast in razvoj podjetja, kot je širitev podjetja na druga področja, usposabljanja in izobraževanja zaposlenih, izboljšanje kakovosti storitev ter promocije izdelkov. Vodja se zaveda, da je tveganje v obravnavanem podjetju nujno potrebno za nadaljnji razvoj podjetja. Vodja tudi pri svojem delu veliko tvega. Tveganje se nanaša na naročanje izdelkov. Kjer je potrebna previdnost, kajti hitro se lahko kopičijo zaloge. Tveganje je prisotno pri novih izdelkih, saj se ne ve, kako jih bodo kupci sprejeli.</p>
+    <p xml:id="pb24.p6" xml:lang="sl">Tveganje predstavlja tudi zaposlovanje kadrov, ki se lahko v nekaterih primerih izkažejo kot neprimerne za tako delo. Vodja se zavzema za maksimalno rast prodaje, saj se v tem odraža zadovoljstvo kupcev, ki so bistvenega pomena za podjetje. Ker v obravnavanem podjetju ponujajo kupcem blagovne znamke najvišjega kakovostnega razreda, mora biti tudi temu primerna postrežba kupcev, zato je kakovost tržnih učinkov maksimalna vrednota podjetja.</p>
+    <p xml:id="pb24.p7" xml:lang="sl">Geografska razsežnost je lokalna. Prodaja se v regiji kjer ima podjetje poslovne enote. Ena poslovna enota je locirana v mestnem središču, ostali dve pa v nakupovalnih središčih. To so središča, ki so privlačna za kupce, saj je v njih veliko trgovin na enem mestu. V kolikor bo podjetje poslovalo z dobičkom, bodo zaposleni ob koncu leta deležni nagrad, kar je v taki dejavnosti nujno potrebno, saj motivira zaposlene. Inovacijska usmeritev je primerno visoka zaradi velike konkurence. Potrebna je inovativna usmerjenost, da bi privabila kupce in bila drugačna ter boljša od konkurentov. Vodja se zavzema za politično nevtralnost saj nam to zagotavlja, da nismo fizično ali politično odvisni od države. Vodja upošteva cilje sodelavcev le če stimulirajo dobiček. Takrat bodo deležni nagrad ali stimulacij. Zaveda se, da cilje zaposlenih v obravnavanem podjetju ni mogoče vedno upoštevati. Stil vodenja je omejeno kooperativen. Sodelavci lahko izrazijo svoja mnenja in kritike, večje odločitve pa sprejema vodstvo. Vrednote podjetja Parfumerija Douglas d.o.o. so prikazane v preglednici 4.</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">PREGLEDNICA 4: VREDNOTE PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb25.p2" xml:lang="sl">Dejavniki Način izražanja Dobiček za dividende čim manj stabilne, skromne dividende dividende glede na izid čim več nizke primerne visoke Dobiček za reinvestiranje nič delež v doseženem skupnem dobičku čim več majhen srednji visok Odnos do tveganj čim večja vrednost sprejemanje »kalkuliranih tveganj« sprejem največjih tveganj majhno srednje veliko Rast prodaje upadanje ostaja stabilna</p>
+    <p xml:id="pb25.p3" xml:lang="sl">»primerna rast« maksimalna rast majhna srednja velika Kakovost tržnih učinkov nepomembna primerna raven kakovosti maksimalna kakovost je vrednota podjetja nizka srednja visoka Geografska razsežnost lokalna regijska nacionalna omejeno multi-nacionalna Lastninski odnosi osebna posest družinska posest majhen krog lastnikov javna družba soudeležba sodelavcev Inovacijska usmeritev zelo majhna primerna inovacijska sposobnost zelo visoka nizka srednja visoka Odnos do države negativna obrambna drža politična abstinenca politična nevtralnost politična aktivnost v določeno smer maksimalna podpora in podrejanje Upoštevanje družbenih ciljev nikakršno le v lastnem interesu od primera do primera v splošnem kolikor je mogoče če žrtev ni velika če ustreza lastnemu prepričanju Upoštevanje ciljev sodelavcev nikakršno le če stimulira učinek tudi če je povezano z žrtovanjem maksimalno upoštevanje</p>
+    <p xml:id="pb25.p4" xml:lang="sl">Stil vodenja »avtorita- tiven«</p>
+    <p xml:id="pb25.p5" xml:lang="sl">»kooperativen« »demokratičen« omejeno široko</p>
+    <p xml:id="pb25.p6" xml:lang="sl">Vir: Urlich 1990; povzeto po Belak 2002, 116</p>
+    <p xml:id="pb25.p7" xml:lang="sl">Večina dejavnikov, ki smo jih proučevali pri vodji uprave je usklajena z vrednotami podjetja Parfumerija Douglas d.o.o. Posebej izstopata dva dejavnika, ki nista povsem usklajena z vrednotami obravnavanega podjetja. Stil vodenja bi moral biti demokratičen. Tako vodenje bi temeljilo na timskem delu kar je za podjetje izjemnega pomena. Vodja je v tem primeru dober poslušalec in se vede kot član tima. Ker je ena izmed vrednot podjetja decentralizirano vodenje, vodenje kot ga ima obravnavano podjetje ne sovpada z vrednotami podjetja. Po mnenju zaposlenih je moč opaziti, da stil vodenja meji celo na avtoritativno vodenje.</p>
+    <p xml:id="pb25.p8" xml:lang="sl">Upoštevanje ciljev sodelavcev bi v skladu z vrednotami podjetja Parfumerija Douglas d.o.o. moralo biti maksimalno saj bi tako podjetje uresničevalo eno izmed svojih vrednost to je zadovoljstvo zaposlenih.</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">3.2 Opredelitev osnovnih informacij o obravnavanem podjetju ter določitev prednosti in slabosti proučevanega podjetja Pridobitev osnovnih informacij o podjetju</p>
+    <p xml:id="pb26.p2" xml:lang="sl">• Analiza programsko-tržnih področij podjetja</p>
+    <p xml:id="pb26.p3" xml:lang="sl">Osnovno dejavnost podjetja Parfumerija Douglas d.o.o. predstavlja prodaja kozmetičnih in parfumskih izdelkov. Delovanje podjetja je možno razčleniti na tri programsko – tržna področja (PTP) in sicer:</p>
+    <p xml:id="pb26.p4" xml:lang="sl">- PTP 1: parfumi Maribor center, Ljubljana Citypark, Maribor Europark;</p>
+    <p xml:id="pb26.p5" xml:lang="sl">- PTP 2: dekorativna kozmetika Maribor center, Citypark, Maribor Europark;</p>
+    <p xml:id="pb26.p6" xml:lang="sl">- PTP 3: negovalna kozmetika Maribor center, Citypark, Maribor Europark.</p>
+    <p xml:id="pb26.p7" xml:lang="sl">PTP 1 predstavljajo parfumi, ki so na voljo v trgovinah Maribor center, Ljubljana Citypark in Maribor Europark. Podjetje Parfumerija Douglas d.o.o. ponuja v teh trgovinah moške in ženske parfume visoko cenovnih in srednje cenovnih razredov. Med visoko cenovne blagovne znamke, ki jih ponujamo kupcem spadajo znamke: Chanel, Dior, Kenzo, Yves Saint Laurent, Calvin Klein, Boss, Escada, Lacoste, Givency, Pacco Rabbane, Carilina Herrera, Gucci, Prada, Dolce &amp; Gabbana, Ed Hardy, Nina Ricci, Armani, Valentino. Med srednje cenovne znamke spadajo: Naomi Campbell, Cristina Aguilera, Mexx, Tom Taylor, Puma. Strankam na tem programsko-tržnem področju nudimo brezplačne reklamne vzorčke parfumov in jim tako skušamo olajšati izbiro glede nakupa parfuma.</p>
+    <p xml:id="pb26.p8" xml:lang="sl">PTP 2 predstavlja negovalna kozmetika, ki je na voljo v trgovinah Maribor center, Ljubljana Citypark in Maribor Europark. Med vrhunske blagovne znamke na področju negovalne kozmetike, ki jih ponujamo kupcem spadajo: La Prairie, Juvena, Decleor, Biotherm, Lancome, Dior, Chanel, Shiseido, Kanebo, Collistar, Yves Saint Laurent. V trgovinah Maribor center ter Ljubljana Citypark sta kupcem na voljo tudi blagovna znamka Loreal ter Nivea, ki spada med srednje cenovne razrede. Med negovalno kozmetiko na PTP 2 spadajo spredstva za čiščenje obraza, kot so razni čistilni geli, pene, čistilna mleka, toniki, serumi ter kreme za nego obraza. Med negovalno kozmetiko spadajo tudi izdelki za nego telesa, kot so losioni za telo, mleka za telo, kreme za telo in deodoranti. Vsem kupcem so na voljo brezplačni vzorci, ki jih lahko testirajo doma in se tako odločijo za nakup. Nakup jim olajšamo tudi z brezplačno analizo kože v trgovini Europark ter s strokovnim posvetovanjem s katerokoli izmed zaposlenih prodajalk v vseh trgovinah.</p>
+    <p xml:id="pb26.p9" xml:lang="sl">PTP 3 predstavlja dekorativna kozmetika, ki je na voljo v trgovinah Maribor center, Ljubljana Citypark in Maribor Europark. Kupcem ponujamo blagovne znamke višjega cenovnega razreda ter srednjega cenovnega razreda. V to programsko-tržno področje spadajo izdelki kot so rdečila za ustnice, senčila, rdečila za obraz, pudri ter maskare. Svojim kupcem nudimo strokovno posvetovanje glede ličenja prav tako pa nudimo tudi brezplačna ličenja na katera se lahko stranke naročijo.</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">• Analiza funkcijskih področij</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Na raziskovalno-razvojnem področju je pomembno, da smo v podjetju seznanjeni o konkurenci, o razvoju panoge v katero sodi dejavnost podjetja ter o obstoječih in potencialnih prodajnih ter oskrbnih trgih. Raziskovanja v podjetju so aplikativne narave saj obsegajo iskanje novih, ekonomsko optimalnih rešitev njihovega prihodnjega razvoja ter delovanja in obnašanja. Raziskave opravljamo v podjetju sami. Najpomembnejše področje raziskovanja je konkurenca, katero preverjamo mesečno in sicer na podlagi števila izdanih računov, s čemer lahko ocenimo obisk strank. Analize o konkurenci opravljajo poslovodje trgovin ter vodja uprave, zato ni potrebe da bi za to področje zaposlili dodatne ljudi. Vse ostale raziskave opravlja vodja uprave.</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Na področju prodajnega marketinga skrbimo predvsem za inovacijo storitev. To dosegamo na ta način, da strankam ponujamo brezplačne storitve na področju kozmetike, za katere morajo pri drugih ponudnikih plačati. Pozorni smo na uvajanje novih proizvodov saj je na področju kozmetike vedno nekaj novega in vse novosti je potrebno v najhitrejšem času predstaviti našim kupcem. Informiramo jih z raznimi oglasi v revijah, preko elektronske pošte, s plakati pred trgovino ter preko naše internetne strani. Strankam delimo brezplačni reklamni in promocijski material kot so parfumski vzorčki, vzorčki krem, pudrov in šmink. V podjetju je nujno potrebno pospeševanje prodaje. Za pospeševanje prodaje se dogovarjamo z dobavitelji, ki nas oskrbijo z dodatnimi izdelki, ki jih prejme kupec ob nakupu brezplačno. Na ta način se lahko znebimo prevelikih zalog, slabše prodajanih izdelkov ter izdelkov, ki jih opuščamo iz prodajnega programa.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Na področju oskrbe z izdelki lahko rečemo, da podjetje sodeluje z dobavitelji s katerimi ima dobre poslovne odnose. Ti nas oskrbujejo s potrebnimi izdelki za prodajo ter reklamnim materialom. Izdelki so dostavljeni v hitrem času. V podjetju ne ustvarjamo večjih zalog, proizvodi se naročajo glede na uspešnost prodaje določenega izdelka. Večje zaloge naročamo za tiste izdelke, za katere je veliko povpraševanje. Večja naročila se delajo meseca oktobra in novembra ko mora biti vse pripravljeno za povečan obseg prodaje meseca decembra.</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Na področju opravljanja storitev smo usmerjeni v kakovostno postrežbo svojih kupcev. Vsak kupec je deležen posebne pozornosti in svetovanja v zvezi z nakupom. Na področju opravljanja storitev pa nudimo svojim kupcem tudi brezplačne storitve kot so urejanje nohtov, analiza kože ter ličenja.</p>
+    <p xml:id="pb27.p6" xml:lang="sl">Na kadrovskem področju ne planiramo zaposlovanja novih kadrov saj glede na trenuten obseg podjetja potrebe po večjem številu zaposlenih ni. Za čim bolj učinkovito delovanje zaposlenih skrbimo tako, da so deležni čim večjih udeležb pri šolanjih glede kozmetike in novostih na trgu.</p>
+    <p xml:id="pb27.p7" xml:lang="sl">Na področju financiranja je potrebno skrbeti za stalno likvidnost. V podjetju še ne poslujemo z dobičkom. Kredite imamo najete pri Unicredit banki. Glavni nosilec finančne funkcije je matična enota v Nemčiji v Hagnu, zato lahko le z njenim dovoljenjem najemamo kredite.</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">• Analiza vodstva in vodenja podjetja</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Vodja podjetja prisega na timsko delo, saj je le to pogoj za nadaljnjo uspešnost, učinkovitost in razvoj podjetja. Ker sem v tem podjetju zaposlena že več kot eno leto ugotavljam, da vodja naših trgovin ne upošteva v celoti potrebe in cilje sodelavcev. Vodja vpliva z direktivami na poslovodje in tudi neposredno na prodajalce v trgovinah. V podjetju se trudijo ustvariti dobro delovno klimo, vendar iz izkušenj v tem podjetju, jim to težko uspeva, kar pa je tudi posledica tega, da podjetje zelo pogosto spreminja tim z opuščanjem že zaposlenih delavcem in pridobivanjem novih na kratki rok. Za podjetje taki način ni dober že iz tega vidika, ker delo v parfumeriji zahteva visoko mero strokovne podkovanosti iz področja kozmetike, z menjavanjem timov pa dosegajo ravno nasprotno, vedno znova je treba usposabljati nove zaposlene, kar pa ni ugodno niti iz stroškovnega vidika. Tisti zaposleni, ki že dlje časa delujejo v podjetju imajo seveda vsa potrebna znanja in izkušnje za kvalitetno predstavljanje samega podjetja javnosti in kupcem.</p>
+    <p xml:id="pb28.p3" xml:lang="sl">O vodenju glej npr. tudi Kelly (2004).</p>
+    <p xml:id="pb28.p4" xml:lang="sl">• Konkurenti in spoznanja o premagovanju konkurence</p>
+    <p xml:id="pb28.p5" xml:lang="sl">Do konkurence med podjetji prihaja, ker se sorodni izdelki različnih podjetij potegujejo za zadovoljevanje enakih ali vsaj zelo sorodnih potreb kupcev, katerih kupna moč, z njo pa tudi njihovo plačilno sposobno povpraševanje, je omejena.</p>
+    <p xml:id="pb28.p6" xml:lang="sl">Gre torej za to, da več enakih izdelkov različnih podjetij lahko zadovolji določeno potrebo, katere kupna moč zadošča za samo en proizvod enega podjetja. Ker podjetje, ki bo potrebo zadovoljilo, ni vnaprej izbrano, si vsako prizadeva, da bi kupci izbrali prav njega. Podjetja morajo zato tekmovati med seboj, pri tem pa morajo poznati področje, kjer tekmujejo. Poznati morajo strukturo panoge (Rebernik 2008, 237).</p>
+    <p xml:id="pb28.p7" xml:lang="sl">Najpomembnejša konkurenta našega podjetja sta Parfumerija Limoni ter Müller Slovenija.</p>
+    <p xml:id="pb28.p8" xml:lang="sl">Parfumerija Limoni (glej Limoni 2009) se prav tako kot naša parfumerija ukvarja z prodajo parfumov, negovalne in dekorativne kozmetike najbolj priznanih in prestižnih blagovnih znamk.</p>
+    <p xml:id="pb28.p9" xml:lang="sl">Müller trgovina (glej Müller 2009) se ukvarja sicer z večimi dejavnstmi, kot so drogerija, multimedija in gospodinjstvo, vendar pa za nas predstavlja konkurenco oddelek za parfumerijo. Müller je v Sloveniji že zelo dolgo časa, zato je med kupci tudi zelo prepoznaven. Prednost je tudi v tem, da kupci poleg parfumerije lahko izbirajo tudi med drugimi oddelki in si tako zagotovijo nakup vse na enem mestu.</p>
+    <p xml:id="pb28.p10" xml:lang="sl">Konkurenčni položaj podjetje izboljšuje z prilagajanjem željam in potrebam kupcev. Oba prej navedena konkurenta sta v neposredni bližini Parfumerij Douglas tako v Mariboru kot Ljubljani. Naša glavna prednost v primerjavi s konkurenti je da je naše osebje zelo prijazno in strokovno usposobljeno. Za večjo prednost organiziramo vsakdanja brezplačna ličenja ter brezplačno zavijamo darila za kupce. Pomembno je tudi zadostno reklamiranje v javnosti, kar izvajamo z razpošiljanjem raznih brošur in udeležbo na raznih modnih revijah.</p>
+    <p xml:id="pb28.p11" xml:lang="sl">V preglednici 5 bomo prikazali primerjavo glede števila strank leta 2008 in v preglednici 6 za leto 2009 v poslovalnici Europark z našim največjim konkurentom, to je parfumerijo Limoni, ki se nahaja prav tako v nakupovalnem središču Europark. Konkurenta smo spremljali od leta 2008 in sicer za vsak tekoči mesec na podlagi izdanih računov parfumerije Limoni. Tako smo najlažje primerjali obe podjetji po številu obiskov strank. Meseca decembra števila stran nismo primerjali, saj se takrat v obeh trgovinah močno poveča obisk in prodaja.</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">PREGLEDNICA 5: PRIMERJAVA ŠTEVILA STRANK PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb29.p2" xml:lang="sl">DOUGLAS d.o.o. S KONKURENTOM PARFUMERIJO LIMONI LETA 2008</p>
+    <p xml:id="pb29.p3" xml:lang="sl">PARFUMERIJA MESEC ŠTEVILO STRANK RAZLIKA</p>
+    <p xml:id="pb29.p4" xml:lang="en">Douglas Julij 2128 84 Limoni Julij 2044 Douglas Avgust 1960 62 Limoni Avgust 1898</p>
+    <p xml:id="pb29.p5" xml:lang="en">Douglas September 2026 -95 Limoni September 2121 Douglas Oktober 2347 223 Limoni Oktober 2124 Douglas November 1594 -458 Limoni November 2052</p>
+    <p xml:id="pb29.p6" xml:lang="sl">SKUPAJ DOUGLAS 10055 -184 SKUPAJ LIMONI 10239</p>
+    <p xml:id="pb29.p7" xml:lang="sl">PREGLEDNICA 6: PRIMERJAVA ŠTEVILA STRANK PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb29.p8" xml:lang="sl">DOUGLAS d.o.o. S KONKURENTOM PARFUMERIJO LIMONI LETA 2009</p>
+    <p xml:id="pb29.p9" xml:lang="sl">PARFUMERIJA MESEC ŠTEVILO STRANK RAZLIKA</p>
+    <p xml:id="pb29.p10" xml:lang="en">Douglas Januar 1685 -384 Limoni Januar 2069 Douglas Februar 1939 -58 Limoni Februar 1997 Douglas Marec 1993 70 Limoni Marec 1923 Douglas April 2156 -1534 Limoni April 3690 Douglas Maj 1910 -105 Limoni Maj 2015</p>
+    <p xml:id="pb29.p11" xml:lang="sl">SKUPAJ DOUGLAS 9683 -2011 SKUPAJ LIMONI 11694</p>
+    <p xml:id="pb29.p12" xml:lang="sl">Iz preglednice 5 in preglednice 6 je razvidno, da ima parfumerija Limoni, ki je naš največji konkurent v nakupovalnem središču, prednost pred nami glede števila strank. Čeprav smo analizo delali le za poslovalnici v Europarku, lahko sklepamo, da ima naš največji konkurent prednosti pred nami. Posledica večjega obiska našega konkurenta je predvsem ta, da je parfumerija Limoni obstajala na slovenskem trgu že veliko prej kot naše podjetje. Tako so uspeli pridobiti tudi svoje stalne stranke in ustvarili prepoznavnost. Kot vidimo v tabeli razlike glede števila strank nihajo iz meseca v mesec, kar je odvisno tudi od tega kaj kdo ponuja in po kakšnih cenah. Obisk v naših trgovinah se je najbolj povečal ob ponudbi izdelkov po akcijskih cenah ter ob velikem oglaševanju v revijah. Glede na to, da strankam ponujamo na storitvenem področju tudi brezplačne storitve, ki jih naši konkurentje ne ponujajo, pričakujemo v naslednjem letu večje število strank kot jih ima naš konkurent. Na podlagi tega lahko pričakujemo tudi povečanje obsega prodaje v primerjavi z našimi konkurenti. Povečanje obsega prodaje lahko dosežemo na več različnih načinov. Obstoječe kupce lahko pritegnemo z navzkrižno prodajo ali povečanim številom stikov (prodajni obiski, telefonski klici, direktna pošta ipd.), nove kupce pa s tehnikami pridobivanja. Glavni cilj je vsekakor obdržati obstoječe kupce, saj je pridobivanje novih kupcev dražje in traja več let, da se investicija povrne. Sodelovanje med prodajalcem in kupcem, ki temelji na zaupanju, daje možnosti za prodajo večjih količin izdelkov oziroma prodajo več različnih izdelkov in storitev (Vukovič 2008, 90).</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">• Dobavitelji</p>
+    <p xml:id="pb30.p2" xml:lang="sl">Izbira dobrega dobavitelja je ključnega pomena za uspešno poslovanje podjetja. Vedno se poraja vprašanje, kakšen oziroma kateri je najboljši dobavitelj. To je tisti, ki zagotavlja konstantno kakovost svojih izdelkov, jih dobavlja v dogovorjenih rokih, se je sposoben prilagajati željam kupcev, ima dostopne oziroma konkurenčne cene nudi izdelke in storitve, ki ustrezajo določenim standardom, ima dobro logistično podporo, je sposoben hitro ter učinkovito odpravljati morebitne napake in podobno (Vukovič, 2008, 81).</p>
+    <p xml:id="pb30.p3" xml:lang="sl">Vsi naši dobavitelji se nahajajo na območju Slovenije, predvsem v Ljubljani. Bistvenega pomena je kakovost izdelkov dobaviteljev ter razne ugodnosti pri cenah (rabati, skonto) in darila za pospeševanje prodaje.</p>
+    <p xml:id="pb30.p4" xml:lang="sl">• Kupci</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Kupce predstavljajo vsi prebivalci z vseh območij Slovenije ne glede na starost in spol.</p>
+    <p xml:id="pb30.p6" xml:lang="sl">Analiziranje prednosti in slabosti podjetja</p>
+    <p xml:id="pb30.p7" xml:lang="sl">V preglednici 7 bomo prikazali prednosti in slabosti proučevanega podjetja, ki jih bomo v nadaljevanju natančneje predstavili in opisali.</p>
+    <p xml:id="pb30.p8" xml:lang="sl">PREGLEDNICA 7: SLABOSTI IN PREDNOSTI PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb30.p9" xml:lang="sl">SLABOSTI PREDNOSTI</p>
+    <p xml:id="pb30.p10" xml:lang="sl">KRITERIJ Zelo slabo Slabo Zelo dobro Dobro Kakovost storitev x Cene x</p>
+    <p xml:id="pb30.p11" xml:lang="sl">Geografska razsežnost x Raznolikost storitev x Število zaposlenih x Izkušnje zaposlenih x Poslovni izid x Vodenje x</p>
+    <p xml:id="pb30.p12" xml:lang="sl">Prilagodljivost x Lokacija x</p>
+    <p xml:id="pb30.p13" xml:lang="sl">Odnosi med zaposlenimi x Motivacija zaposlenih x</p>
+    <p xml:id="pb30.p14" xml:lang="sl">Vir: za proučevano podjetje prirejeno po Belak 2003, 104 Prednosti podjetja:</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Največja prednost podjetja je kakovost storitev saj so za podjetje največjega pomena zadovoljni kupci. Bistvenega pomena sta kvalitetna in strokovna postrežba ter svetovanje kupcem, kar izvira iz tega da zaposleni vsake toliko časa obiskujejo šolanja in izobraževanja, kjer se med drugim učijo tudi veščin dobre in kvalitetne postrežbe.</p>
+    <p xml:id="pb31.p2" xml:lang="sl">Cene podjetja spadajo med njegove prednosti, saj podjetje nudi storitve kot so ličenje strank, analiza kože ter manikura, brezplačno. S tem si podjetje zagotovi tudi čim več strank in lažje prodaja svoje izdelke. Glede izdelkov, ki jih prodajamo so cene dokaj visoke, saj prodajamo prestižno kozmetiko in parfume, vendar pa se na vsake toliko časa omogočijo kupcem akcijske cene ali dodatni popusti ob nakupu.</p>
+    <p xml:id="pb31.p3" xml:lang="sl">Med prednostmi podjetja naj omenimo tudi raznolikost storitev. Podjetje se ukvarja s prodajo kozmetičnih in parfumskih izdelkov, poleg tega pa nudi še storitve kot so manikura, ličenje ter analiza kože. Med omenjene storitve spada tudi brezplačno in kvalitetno svetovanje glede nege obraza, nasveti za ličenje ter nego nohtov. S tako raznolikostjo storitev nismo le prodajalna temveč trgovina s srcem in razumom.</p>
+    <p xml:id="pb31.p4" xml:lang="sl">Število zaposlenih štejemo med prednosti podjetja. V vsaki trgovini je zaposlenih toliko prodajalk, da so kupci kvalitetno postreženi ter da se opravijo še druga opravila kot so prevzem blaga, naročila ter čiščenje trgovine. Tudi za ostala področja, kot so pisarniška in računovodska dela je v podjetju zaposlenih dovolj ljudi, da so vsa opravila pravočasno narejena.</p>
+    <p xml:id="pb31.p5" xml:lang="sl">V proučevanem podjetju se vedno prilagajamo potrebam kupcev tako da smo njihove potrebe pripravljeni vedno zadovoljiti tako v obliki svetovanj kot nudenju brezplačnih storitev kar je tudi naša prednost.</p>
+    <p xml:id="pb31.p6" xml:lang="sl">Kot prednost proučevanega podjetja lahko navedemo lokacijo podjetja in njegovih poslovnih enot. Največjo prednost predstavljata trgovini v Mariboru (Europark) in v Ljubljani (BTC) saj se obe nahajata v velikem trgovskem centru, ki ga dnevno obiskuje veliko ljudi.</p>
+    <p xml:id="pb31.p7" xml:lang="sl">Slabosti podjetja:</p>
+    <p xml:id="pb31.p8" xml:lang="sl">Kot slabost podjetja naj navedemo geografsko razsežnost, saj podjetje posluje le v Mariboru in Ljubljani. Podjetje bi s širitvijo lahko povečalo prodajo in pridobilo nove kupce.</p>
+    <p xml:id="pb31.p9" xml:lang="sl">Bistvena slabost podjetja je negativni poslovni izid, kar je razvidno tudi iz premoženjske strukture proučevanega podjetja.</p>
+    <p xml:id="pb31.p10" xml:lang="sl">Slabost podjetja so tudi napeti odnosi znotraj podjetja, kar sem omenila že pri kulturi podjetja.</p>
+    <p xml:id="pb31.p11" xml:lang="sl">K temu pripomore tudi neposlušnost vodstva do zaposlenih. To vpliva na še eno slabost podjetja to je premajhna motiviranost zaposlenih. Zaposleni imajo v podjetju nizke plače, prav tako pa so le redkokdaj deležni nagrad in dodatkov k osebnemu dohodku.</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">3.3 Proučitev pričakovanega razvoja okolja ter določitev priložnosti in nevarnosti za proučevano podjetje</p>
+    <p xml:id="pb32.p2" xml:lang="sl">Možnosti za obstoj in razvoj vsakega podjetja izhajajo iz njegovega okolja. Ob razvojnih možnostih so v okolju seveda tudi nevarnosti in tveganja, ki prežijo na podjetje. Nekatere možnosti imajo ob sebi večje nevarnosti, druge manjše (Belak 2002, 123).</p>
+    <p xml:id="pb32.p3" xml:lang="sl">Ekološko okolje: Proučevano podjetje se zaveda pomembnosti vključevanja varovanja okolja, zato ga vključujejo v razvojne možnosti podjetja. Podjetje Parfumerija Douglas d.o.o. s svojo dejavnostjo neposredno ne ogroža okolja. Kupci se vse bolj zavedajo škodljivih snovi, ki jih vsebujejo kozmetični izdelki, zato priložnost na tem področju predstavlja prodaja naravne kozmetike, ki je dražja vendar manj onesnaževalna. Priložnost predstavlja okolju prijazna embalaža narejena iz recikliranega materiala vendar se kot nevarnost pojavijo visoki stroški, tako pridelanih izdelkov posledično tudi višja prodajna cena. Podjetje Parfumerija Douglas d.o.o. se zavzema za utrjevanje ekološke zavesti ter varno ravnanje z odpadki.</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Družbeno-politično in drugo socialno okolje: Na podjetje v veliki meri vpliva tudi zakonodaja. Podjetje pri svojem delovanju upošteva zakonska določila in zahteve, pravne vrednote in norme. Prav tako podjetje nenehno skrbi za usposabljanje delavcev ter varstva na delovnem mestu. Ljudje se v zadnjih časih veliko zadržujejo v nakupovalnih centrih in trgovinah, ki pa jih ne izkoriščajo samo za nakupovanje marveč tudi za druženja in preživljanje prostega časa. Zavzemamo se zato, da strankam pomagamo pri izbiri ter ji s svojo prijaznostjo in svetovanjem olepšamo nakup. Zahtevnost strank čedalje narašča zato se v največji meri zavzemamo za izobraževanja in usposabljanja zaposlenih, tako da bodo kupci deležni čim bolj kakovostne postrežbe.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">Tehnično-tehnološko okolje: Priložnost za podjetje predstavlja potreba po nezahtevni tehnologiji ter razmeroma poceni tehnologiji. Podjetje mora vedno znova vlagati v nove izdelke na področju kozmetike in parfumerije, saj bodo le tako v koraku s trendi in v prednosti pred konkurenco.</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Ekonomsko okolje: Obstoj podjetja je odvisen od ekonomske uspešnosti podjetja. Priložnost za podjetje predstavlja večanje življenjskega standarda prebivalcev, čedalje večja želja po prestižu kupcev, prepoznavnost blagovnih znamk, ki jih prodajamo. Nevarnost v današnjem času predstavlja trenutna finančna kriza, posledično tudi upad BDP-ja. V prvem četrtletju se je gospodarska kriza v Sloveniji še poglobila, saj se je BDP glede na zadnje četrtletje lani realno znižal za 6,4%, v primerjavi z prvim četrtletjem lani pa je bil nižji kar za 8,5% (UMAR, 2009). Ker se naše podjetje ukvarja s prodajo izdelkov, ki spadajo med luksuzne dobrine, obstaja nevarnost, da bomo zabeležili upad prodaje glede na finančno krizo.</p>
+    <p xml:id="pb32.p7" xml:lang="sl">Trgi</p>
+    <p xml:id="pb32.p8" xml:lang="sl">Oskrbni trgi s surovinami: Proučevano podjetje večinoma nabavlja resurse na domačem trgu, občasno pa tudi zunaj Slovenije, predvsem iz Nemčije in Madžarske. Podjetje nabavlja resurse pri dobaviteljih,</p>
+    <p xml:id="pb32.p9" xml:lang="sl">Trg delovne sile: Za podjetje predstavlja trg delovne sile domači trg. Delovna sile na trgovinskem področju je zelo velika. Podjetje pri zaposlovanju išče predvsem sodelavce z znanjem in izkušnjami na področju kozmetike.</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Prodajni trg: Prodajni trg proučevanega podjetja predstavlja slovenski trg, predvsem območje Maribora in Ljubljane, kjer ima podjetje trenutno svoje poslovalnice. Nevarnost na teh območjih predstavljajo konkurenti na teh območjih, vendar se podjetje po vseh močeh trudi biti boljše od njih.</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Trg kapitala: Podjetje opravlja finančne posle izključno z Uni Credit banko, pri kateri ima podjetje najete kredite. Podjetje je do sedaj vlagalo v nabavo potrebnih sredstev za poslovanje podjetje. Kasneje se bo podjetje financiralo iz ustvarjenega dobička.</p>
+    <p xml:id="pb33.p3" xml:lang="sl">Priložnosti in nevarnosti podjetja Parfumerija Douglas d.o.o. so prikazane v preglednici 8.</p>
+    <p xml:id="pb33.p4" xml:lang="sl">PREGLEDNICA 8: PRILOŽNOSTI IN NEVARNOSTI PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb33.p5" xml:lang="sl">DOUGLAS d.o.o.</p>
+    <p xml:id="pb33.p6" xml:lang="sl">Ugotovljeni razvoj okolja, ki je pomemben za podjetje Opis možnih</p>
+    <p xml:id="pb33.p7" xml:lang="sl">Priložnosti Nevarnosti</p>
+    <p xml:id="pb33.p8" xml:lang="sl">Ekološko okolje Ekološka zavest se povečuje.</p>
+    <p xml:id="pb33.p9" xml:lang="sl">Izdelki z čim manj vpliva na okolje, izdelki z naravnimi sestavinami.</p>
+    <p xml:id="pb33.p10" xml:lang="sl">Novi zakonski predpisi , višje cene recikliranega materiala.</p>
+    <p xml:id="pb33.p11" xml:lang="sl">Tehnološko okolje Razvoj informacijske tehnologije narašča.</p>
+    <p xml:id="pb33.p12" xml:lang="sl">Lažje in hitrejše delo v trgovini, pregled nad zalogami, lažje naročanje.</p>
+    <p xml:id="pb33.p13" xml:lang="sl">Nova in dražja tehnologija.</p>
+    <p xml:id="pb33.p14" xml:lang="sl">Družbeno okolje Vlaganja v izobraževanja zaposlenih, vedno bolj kakovostno in individualno delo s stranko.</p>
+    <p xml:id="pb33.p15" xml:lang="sl">Strokovna ponudba in svetovanje kupcem ter zadovoljni kupci.</p>
+    <p xml:id="pb33.p16" xml:lang="sl">Delo s strankami lahko povzroča pritisk na zaposlene.</p>
+    <p xml:id="pb33.p17" xml:lang="sl">Gospodarsko okolje</p>
+    <p xml:id="pb33.p18" xml:lang="sl">Vpliv finančne krize na poslovanje podjetja.</p>
+    <p xml:id="pb33.p19" xml:lang="sl">Želja po luksuznih dobrinah.</p>
+    <p xml:id="pb33.p20" xml:lang="sl">Finančna gospodarska kriza, znižanje BDP-ja, padec kupne moči.</p>
+    <p xml:id="pb33.p21" xml:lang="sl">Trgi:</p>
+    <p xml:id="pb33.p22" xml:lang="sl">- oskrbni trgi</p>
+    <p xml:id="pb33.p23" xml:lang="sl">- prodajni trgi</p>
+    <p xml:id="pb33.p24" xml:lang="sl">- trg delovne sile</p>
+    <p xml:id="pb33.p25" xml:lang="sl">- trg kapitala Večanje oskrbnih in prodajnih trgov.</p>
+    <p xml:id="pb33.p26" xml:lang="sl">Kvalificirani zaposleni, ugodni nabavni pogoji pri obstoječih dobaviteljih, ugodni kreditni pogoji.</p>
+    <p xml:id="pb33.p27" xml:lang="sl">Močna konkurenca, večanje obrestnih mer za najete kredite.</p>
+    <p xml:id="pb33.p28" xml:lang="sl">Vir: Prirejeno po Belak 2002, 124 3.4 Planirana politika proučevanega podjetja</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">Politika podjetja opredeljuje temeljne in splošne ter dolgoročnejše značilnosti podjetja.</p>
+    <p xml:id="pb34.p2" xml:lang="sl">Vsebuje poslanstvo (ali misijo) podjetja ter smotre in temeljne cilje podjetja z globalno opredelitvijo uresničitvenih potencialov, procesov in izidov podjetja (Belak 2002, 76).</p>
+    <p xml:id="pb34.p3" xml:lang="sl">POSLANSTVO</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Poslanstvo podjetja se izraža v zaupani nalogi in vlogi podjetja v odnosu do njegovega okolja.</p>
+    <p xml:id="pb34.p5" xml:lang="sl">S poslanstvom opredeljuje podjetje svojo vlogo v okolju in osnovne značilnosti svojega ravnanja v tem okolju. V poslanstvu se kažejo vrednote in smotri podjetja; je trajnejše ter nastaja in se tudi spreminja s spreminjanjem dolgoročnih interesov pomembnejših udeležencev podjetja (Belak 2002, 76).</p>
+    <p xml:id="pb34.p6" xml:lang="sl">Podjetje opredeljuje svoje poslanstvo kot svetovanje in prodaja kozmetičnih in parfumskih izdelkov. Podjetje bo še naprej sledilo potrebam kupcev in tako izboljševalo kakovost svojih storitev. Podjetje bo v svojem delovanju inovativno in bo nudilo kakovostno in ugodno ponudbo izdelkov in storitev na področju kozmetike in parfumov.</p>
+    <p xml:id="pb34.p7" xml:lang="sl">SMOTRI</p>
+    <p xml:id="pb34.p8" xml:lang="sl">Smotri izražajo namen podjetja. Opredeljujejo namembnost obstoja in razvoja, pa tudi delovanja in obnašanja podjetja. Tako kot vizije, zamisli in poslanstvo morajo biti tudi smotri konsistentni z interesi udeležencev podjetja. Praviloma ima, izhajajoč iz različnih interesov, vsako podjetje več različnih smotrov (Belak 2002, 76). Razlikujemo sprotne stalne razvojne smotre in trajne razvojne smotre. Sprotni stalni smotri se morajo uresničevati sprotno in vodijo k trajnim razvojnim smotrom (Kralj 1995, 164 v Belak 2002, 82).</p>
+    <p xml:id="pb34.p9" xml:lang="sl">Sprotni stalni smotri proučevanega podjetja bodo:</p>
+    <p xml:id="pb34.p10" xml:lang="sl">- ohranjanje premoženja in dobiček lastnikom;</p>
+    <p xml:id="pb34.p11" xml:lang="sl">- zaposlenim omogočiti stalno zaposlitev in socialno varnost;</p>
+    <p xml:id="pb34.p12" xml:lang="sl">- zadovoljevanje potreb kupcev ter zadovoljstvo kupcev;</p>
+    <p xml:id="pb34.p13" xml:lang="sl">- nuditi kakovostno storitev uporabnikom.</p>
+    <p xml:id="pb34.p14" xml:lang="sl">Trajni razvojni smotri proučevanega podjetja bodo:</p>
+    <p xml:id="pb34.p15" xml:lang="sl">- učinkovito in uspešno delovanje;</p>
+    <p xml:id="pb34.p16" xml:lang="sl">- image podjetja v javnosti;</p>
+    <p xml:id="pb34.p17" xml:lang="sl">- zadovoljstvo sodelavcev;</p>
+    <p xml:id="pb34.p18" xml:lang="sl">- zanesljivost;</p>
+    <p xml:id="pb34.p19" xml:lang="sl">- razvojna kakovost in rast.</p>
+    <p xml:id="pb34.p20" xml:lang="sl">Namen obstoja podjetja Parfumerija Douglas d.o.o. je zadovoljevanje kupcev, njihovih potreb in želja. Prizadevali si bomo za zadovoljitev potreb lastnikov zato se bomo zavzemali za ustvarjanje dobička in povečanje premoženja podjetja. Svojim kupcem bomo nudili kakovostne storitve ter jim strokovno svetovali. Svojim zaposlenim bomo skušali omogočiti stalno zaposlitev ter socialno varnost. Hkrati bomo skrbeli tudi za razvoj kadrov tako, da bomo vlagali v njihovo izobraževanje. Za še večje zadovoljstvo sodelavcev bomo skrbeli za njihovo motivacijo in jih za njihovo uspešno delo tudi primerno nagradili. Za učinkovito in uspešno delovanje bomo skrbeli z dobrimi poslovnimi odnosi z vsemi udeleženci našega podjetja. Skrbeli bomo za ugled podjetja v javnosti.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">TEMELJNI CILJI PROUČEVANEGA PODJETJA</p>
+    <p xml:id="pb35.p2" xml:lang="sl">Cilji podjetja opredeljujejo tiste prihodnje pojave, katerih doseganje je potrebno za uresničitev poslanstva in smotrov podjetja, s tem pa tudi za zadovoljitev interesov njegovih udeležencev (Belak 2002, 82).</p>
+    <p xml:id="pb35.p3" xml:lang="sl">Temeljni cilji proučevanega podjetja bodo:</p>
+    <p xml:id="pb35.p4" xml:lang="sl">- z uspešnim delovanjem zagotoviti obstoj in razvoj podjetja;</p>
+    <p xml:id="pb35.p5" xml:lang="sl">- ohranitev in povečanje kapitala;</p>
+    <p xml:id="pb35.p6" xml:lang="sl">- zagotavljanje plačilne sposobnosti;</p>
+    <p xml:id="pb35.p7" xml:lang="sl">- doseči rentabilno poslovanje;</p>
+    <p xml:id="pb35.p8" xml:lang="sl">- zadovoljstvo notranjih in zunanjih udeležencev podjetja;</p>
+    <p xml:id="pb35.p9" xml:lang="sl">- povečanje kakovosti ponudbe.</p>
+    <p xml:id="pb35.p10" xml:lang="sl">S temeljnimi cilji bomo v podjetju Parfumerija Douglas d.o.o. uresničevali poslanstvo in smotre podjetja. Tako bomo dosegli zadovoljstvo vseh udeležencev podjetja. Obstoj in razvoj podjetja, kot temeljni cilj bomo zagotovili z uspešnim delovanjem, ki bo temeljilo na večanju kakovosti ponudbe. Na podlagi razvoja podjetja bomo uresničevali in zagotavljali plačilno sposobnost in si zagotovili rentabilno poslovanje.</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">4 PLANIRANJE RAZVOJA PODJETJA PARFUMERIJA DOUGLAS D.O.O. NA RAVNI STRATEŠKEGA MANAGEMENTA</p>
+    <p xml:id="pb36.p2" xml:lang="sl">4.1 Programsko-tržna področja in strateške poslovne enote proučevanega podjetja Na področju poslovnih ved zaenkrat ne obstaja enotno gledanje na pojem strategije, pač pa je najti različna, širša in ožja opredeljevanja tega pojma. Tako se širi harvardska šola širše pojmovanje strategije, ko pravi, da je to opredelitev osnovnih dolgoročnih smotrov in ciljev podjetja ter smeri akcije pa tudi alokacije resursev, ki je potrebna za dosego ciljev. Ožje je pojmovanje, ki v strategiji vidi splet odločitvenih pravil, ki imajo dolčene značilnosti in služijo izbiri kombinacij, ki so v podjetju na voljo. Še ožje je tisto pojmovanje strategije, ki vidi v njej sredstvo za doseganje planskih ciljev (Pučko 2006, 169). O pojmu strategije glej npr. tudi Dobson in Starkey (2004).</p>
+    <p xml:id="pb36.p3" xml:lang="sl">Planiranje razvoja na ravni strateškega managementa bomo začeli z določitvijo programsko- tržne strukture proučevanega podjetja, nadaljevali bomo z iskanjem strateških možnosti, nato bo sledila predstavitev predvidenih struktur, zaključili bomo s programom razvoja podjetja Parfumerija Douglas d.o.o.</p>
+    <p xml:id="pb36.p4" xml:lang="sl">Za strateški management so zelo pomembne strategije posameznih poslovnih ali programsko- tržnih področij podjetja. To so poslovne strategije, ki usmerjajo podjetje na ravni njegovih programsko-tržnih področij. Pri planiranju poslovnih strategij je zelo pomembno pravilno opredeljevanje poslovnih ali programsko-tržnih področij (Belak 2002, 138).</p>
+    <p xml:id="pb36.p5" xml:lang="sl">S pomočjo strateških značilnosti, prikazanih v preglednici 9, smo za podjetje Parfumerija Douglas d.o.o. opredelili naslednja programsko-tržna področja:</p>
+    <p xml:id="pb36.p6" xml:lang="sl">- PTP 1: parfumi Maribor center, Ljubljana Citypark in Maribor Europark,</p>
+    <p xml:id="pb36.p7" xml:lang="sl">- PTP 2: dekorativna kozmetika Maribor center, Ljubljana Citypark in Maribor Europark,</p>
+    <p xml:id="pb36.p8" xml:lang="sl">- PTP 3: negovalna kozmetika kozmetika Maribor center, Ljubljana Citypark in Maribor Europark.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">PREGLEDNICA 9 : STRATEŠKE ZNAČILNOSTI PLANIRANIH PROGRAMOV</p>
+    <p xml:id="pb37.p2" xml:lang="sl">PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb37.p3" xml:lang="sl">Izbor proizvodov Strateški elementi Parfumi Dekorativna kozmetika Negovalna kozmetika</p>
+    <p xml:id="pb37.p4" xml:lang="sl">Značilnosti izdelka Potrebe, ki jih zadovoljuje</p>
+    <p xml:id="pb37.p5" xml:lang="sl">Prijeten vonj</p>
+    <p xml:id="pb37.p6" xml:lang="sl">Dobro počutje</p>
+    <p xml:id="pb37.p7" xml:lang="sl">Ličenje</p>
+    <p xml:id="pb37.p8" xml:lang="sl">Lep videz</p>
+    <p xml:id="pb37.p9" xml:lang="sl">Nega obraza</p>
+    <p xml:id="pb37.p10" xml:lang="sl">Nega telesa</p>
+    <p xml:id="pb37.p11" xml:lang="sl">Čas prodaje Vso leto Vso leto Vso leto Cena Konkurenčna Konkurenčna Konkurenčna Značilnosti trga</p>
+    <p xml:id="pb37.p12" xml:lang="sl">Prodajna področja Maribor in Ljubljana Maribor in Ljubljana Maribor in Ljubljana</p>
+    <p xml:id="pb37.p13" xml:lang="sl">Skupine odjemalcev Mlade in starejše ženske</p>
+    <p xml:id="pb37.p14" xml:lang="sl">Mladi in starejši moški</p>
+    <p xml:id="pb37.p15" xml:lang="sl">Mladostniki</p>
+    <p xml:id="pb37.p16" xml:lang="sl">Mlade in starejše ženske</p>
+    <p xml:id="pb37.p17" xml:lang="sl">Mlade in starejše ženske</p>
+    <p xml:id="pb37.p18" xml:lang="sl">Mladi in starejši moški</p>
+    <p xml:id="pb37.p19" xml:lang="sl">Mladostniki</p>
+    <p xml:id="pb37.p20" xml:lang="sl">Dobavitelji Znotraj Slovenije občasno tudi iz tujine</p>
+    <p xml:id="pb37.p21" xml:lang="sl">Znotraj Slovenije Znotraj Slovenije</p>
+    <p xml:id="pb37.p22" xml:lang="sl">Položaj konkurence Močna konkurenca Močna konkurenca Močna konkurenca Perspektivnost programsko-tržnih področij smo prikazali v preglednici 10. Ocenili smo jo z naslednjimi kriteriji:</p>
+    <p xml:id="pb37.p23" xml:lang="sl">• stopnja rasti trga (ocena 5 ponazarja najhitrejšo rast trga, ocena o pa stagnacijo);</p>
+    <p xml:id="pb37.p24" xml:lang="sl">• stabilnost prodaje (ocena 5 ponazarja zelo stabilno prodajo, ocena 0 pa nestabilno prodajo);</p>
+    <p xml:id="pb37.p25" xml:lang="sl">• razmerje s kupci (ocena 5 ponazarja odlične poslovne odnose s kupci, ocena 0 pa zelo slabe odnose s kupci);</p>
+    <p xml:id="pb37.p26" xml:lang="sl">• ponudba konkurence (ocena 5 pomeni, da konkurence ni, ocena 0 pomeni, da je konkurenca močna).</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">PREGLEDNICA 10: OCENA PERSPEKTIVNOSTI PROGRAMSKO-TRŽNIH PODROČIJ</p>
+    <p xml:id="pb38.p2" xml:lang="sl">PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">PROGRAMSKO-TRŽNO PODROČJE POKAZATELJ PARFUMI, MARIBOR CENTER, LJUBLJANA CITYPARK IN MARIBOR EUROPARK DEKORATIVNA KOZMETIKA MARIBOR CENTER, LJUBLJANA CITYPARK IN MARIBOR EUROPARK NEGOVALNA KOZMETIKA MARIBOR CENTER, LJUBLJANA CITYPARK IN MARIBOR EUROPARK</p>
+    <p xml:id="pb38.p4" xml:lang="sl">RAST TRGA 5 4 4</p>
+    <p xml:id="pb38.p5" xml:lang="sl">STABILNOST PRODAJE 5 4 4 RAZMERJE S KUPCI 5 5 5 PONUDBA KONKURENCE</p>
+    <p xml:id="pb38.p6" xml:lang="sl">SKUPAJ OD MOŽNIH 20 18 17 17</p>
+    <p xml:id="pb38.p7" xml:lang="sl">Iz preglednice 10 je razvidno, da ima največjo perspektivnost PTP 1, ter da imata PTP 2 in PTP 3 izenačeno perspektivnost in le malo zaostajata za PTP 1. Ugotavljamo, da so za proučevano podjetje z vidika perspektivnosti pomembna vsa tri programsko-tržna področja in, da med njimi ni večjih odstopanj. Na vseh treh programsko-tržnih področjih so razmerja s kupci ocenjena zelo visoko kar pomeni, da ima podjetje s svojimi kupci in obstoječimi strankami odlične poslovne odnose, ki so posledica vrhunske postrežbe in svetovanja. Na PTP 1 je konkurenca najbolj močna saj tudi naši konkurenti ponujajo kupcem široko paleto parfumskih izdelkov, tako da se na tem programsko-tržnem področju od konkurentov ne razlikujemo. Tu ti nudijo kupcem izdelke po akcijskih cenah in jih s tem prepričajo v nakup.</p>
+    <p xml:id="pb38.p8" xml:lang="sl">Konkurenčno sposobnost programsko-tržnih področij smo prikazali v preglednici 11. Ocenili smo jo z naslednjimi kriteriji:</p>
+    <p xml:id="pb38.p9" xml:lang="sl">• ekonomičnost storitev in proizvodov (ocena 5 ponazarja najvišjo, ocena 0 pa najnižjo stopnjo ekonomičnosti posameznega programsko - tržnega področja);</p>
+    <p xml:id="pb38.p10" xml:lang="sl">• razpoložljivost izdelkov (ocena 5 ponazarja najvišjo razpoložljivost izdelkov, ocena 0 ponazarja najnižjo razpoložljivost izdelkov);</p>
+    <p xml:id="pb38.p11" xml:lang="sl">• upoštevanje želja odjemalcev (ocena 5 ponazarja zelo visoko upoštevanje želja odjemalcev, ocena 0 ponazarja zelo nizko upoštevanje želja odjemalcev);</p>
+    <p xml:id="pb38.p12" xml:lang="sl">• kakovost izdelkov (ocena 5 ponazarja zelo visoko kakovost izdelkov, ocena 0 ponazarja zelo nizko kakovost izdelkov).</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">PREGLEDNICA 11: OCENA KONKURENČNIH SPOSOBNOSTI PODJETJA</p>
+    <p xml:id="pb39.p2" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb39.p3" xml:lang="sl">PROGRAMSKO-TRŽNO PODROČJE POKAZATELJ PARFUMI, MARIBOR CENTER, LJUBLJANA CITYPARK IN MARIBOR EUROPARK DEKORATIVNA KOZMETIKA MARIBOR CENTER, LJUBLJANA CITYPARK IN MARIBOR EUROPARK NEGOVALNA KOZMETIKA MARIBOR CENTER, LJUBLJANA CITYPARK IN MARIBOR EUROPARK</p>
+    <p xml:id="pb39.p4" xml:lang="sl">EKONOMIČNOST STORITEV</p>
+    <p xml:id="pb39.p5" xml:lang="sl">IN PROIZVODOV</p>
+    <p xml:id="pb39.p6" xml:lang="sl">RAZPOLOŽLJIVOST IZDELKOV</p>
+    <p xml:id="pb39.p7" xml:lang="sl">UPOŠTEVANJE</p>
+    <p xml:id="pb39.p8" xml:lang="sl">ŽELJA ODJEMALCEV</p>
+    <p xml:id="pb39.p9" xml:lang="sl">KAKOVOST STORITEV 3 5 5 SKUPAJ OD MOŽNIH 20 19 18 18</p>
+    <p xml:id="pb39.p10" xml:lang="sl">Iz preglednice 11 je razvidno, da ima najvišjo konkurenčno sposobnost PTP 1. PTP 2 in PTP 3 ne zaostajata bistveno za PTP 1. Opazimo, da je konkurenčna sposobnost me vsemi tremi programsko-tržnimi področji dokaj izenačena. Glede kakovosti storitev nekoliko izstopata PTP 2 in PTP 3 saj na teh dveh programsko-tržnih področjih nudimo kupcem brezplačne storitve. Na PTP 2 kupcem strokovno svetujemo glede pravilne izbire nege, na PTP 3 pa glede ličenja. Na PTP 1 kupci največkrat ne rabijo posebne pomoči, zato tudi kakovost storitev ne pride tako do izraza.</p>
+    <p xml:id="pb39.p11" xml:lang="sl">Za določitev najboljše strukture programsko-tržnega področja smo izdelali portfolio matriko, prikazano na sliki 4. Pri izdelavi portfolio matrike smo izhajali iz predhodne ocene perspektivnosti in konkurenčne sposobnosti programsko-tržnih področij podjetja Parfumerija Douglas d.o.o.</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">SLIKA 4 : PORTFOLIO ANALIZA PROGRAMSKO-TRŽNIH PODROČIJ PODJETJA</p>
+    <p xml:id="pb40.p2" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">Iz slike 4 je razvidno, da je konkurenčna sposobnost in perspektivnost največja na PTP 1 oziroma Parfumi Maribor Center, Ljubljana Citypark in Maribor Europark. Prodaja je na tem PTP najbolj stabilna, veliko je tudi zadovoljstvo kupcev. Konkurenca je na tem PTP zelo močna, vendar skušamo s čim pogostejšimi akcijskimi cenami in ponudbami privabiti čim več kupcev na to programsko-tržno področje. K visoki perspektivnosti tega PTP pripomore tudi želja kupcev po prestižnih parfumih, uporabniki pa so tako moški kot ženske vseh starosti. Kakovost storitev na tem področju je srednje visoka, saj se zaposlenim glede prodaje ni treba posebej truditi, ker si stranka v večini primerov izbere parfum sama, brez kakšnega posebnega svetovanja s strani zaposlenih. Glede perspektivnosti in konkurenčne sposobnosti pa zelo malo zaostajata za PTP 1, PTP 2 oziroma dekorativna kozmetika Maribor center, Ljubljana Citypark in Maribor Europark in PTP 3 negovalna kozmetika Maribor center, Ljubljana Citypark in Maribor Europark. Oba PTP imata odlične odnose s kupci, predvsem zaradi strokovne postrežbe in znanja zaposlenih. Ponudba konkurence je na obeh programsko-tržnih področjih močna, čeprav nekoliko manj kot na PTP 1. To dosegamo s posebnimi brezplačnimi storitvami, ki jih izvajamo na PTP 2 in PTP 3. Na PTP 2 nudimo strankam brezplačna ličenja in svetovanje glede ličil na podlagi česa se lahko stranka lažje odloči za nakup. Na PTP 3 nudimo brezplačno analizo kože, s katero stranki določamo tip kože in ji omogočamo lažji nakup proizvoda za nego obraza. Na PTP 2 in PTP 3 smo v primerjavi s konkurenti v prednosti, saj le-ti tovrstnih storitev strankam ne nudijo. Na vseh treh programsko-tržnih področjih je bistvenega pomena upoštevanje želja odjemalcev, zato vedno sledimo novim trendom in omogočamo odjemalcem, da so tudi oni istočasno informirani o teh trendih ter jih tako privabljamo k ponovnemu nakupu.</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">Proučevanemu podjetju na podlagi proučevanj predlagamo, da v bodoče še naprej vlaga v obstoječa programsko-tržna področja saj so ključnega pomena za uspešnost podjetja. Podjetje naj bo še najprej najbolj pozorno na konkurenco, ki je na trgu saj je le-ta zelo močna.</p>
+    <p xml:id="pb41.p2" xml:lang="sl">Podjetje Parfumerija Douglas d.o.o. strateških poslovnih enot nima in jih v prihodnosti tudi ne planira.</p>
+    <p xml:id="pb41.p3" xml:lang="sl">4.2 Iskanje strateških možnosti proučevanega podjetja</p>
+    <p xml:id="pb41.p4" xml:lang="sl">PREGLEDNICA 12 : STRATEŠKE ALTERNATIVE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb41.p5" xml:lang="sl">DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »PROIZVODI-TRG« Proizvodi/storitve Prodajni trgi Stari Novi Stari</p>
+    <p xml:id="pb41.p6" xml:lang="sl">Prodor na trg Inovacija proizvoda Novi</p>
+    <p xml:id="pb41.p7" xml:lang="sl">Razširitev trga Diverzifikacija Vir: Belak 2002, 150</p>
+    <p xml:id="pb41.p8" xml:lang="sl">Podjetje želi v prihodnosti osvojiti nove trge s že obstoječimi proizvodi in storitvami, kar je prikazano v preglednici 12. Podjetje se bo v prihodnosti razširilo na območje Primorske, svoj trg pa nameravamo razširiti tudi v Ljubljani, kjer imamo že eno poslovalnico. Oba trga sta privlačna zaradi povečanega obiska turistov, območje Ljubljane pa je še posebej privlačno zaradi večje kupne moči prebivalstva.</p>
+    <p xml:id="pb41.p9" xml:lang="sl">PREGLEDNICA 13: STRATEŠKE ALTERNATIVE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb41.p10" xml:lang="sl">DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »RESURSI-NABAVNI TRGI« Resursi</p>
+    <p xml:id="pb41.p11" xml:lang="sl">Oskrbni trgi Stari Novi Stari</p>
+    <p xml:id="pb41.p12" xml:lang="sl">Prodor na nabavni trg Inovacija resursov Novi</p>
+    <p xml:id="pb41.p13" xml:lang="sl">Razširitev nabavnega trga Diverzifikacija resursov in trga</p>
+    <p xml:id="pb41.p14" xml:lang="sl">Vir: Belak 2002, 150</p>
+    <p xml:id="pb41.p15" xml:lang="sl">Podjetje bo nabavljalo potrebne resurse na starih oskrbnih trgih, kar je prikazano v preglednici 13. Ti trgi že obstajajo in pri njih nabavljajo tudi konkurenti. Podjetje se bo v tudi v prihodnosti skušalo s svojimi dobavitelji dogovarjati o določenih ugodnostih ter dobrih plačilnih pogojih ter si tako zagotavljati rednost pred konkurenco.</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">PREGLEDNICA14: STRATEŠKE ALTERNATIVE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb42.p2" xml:lang="sl">DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »SODELAVCI-TRG DELOVNE</p>
+    <p xml:id="pb42.p3" xml:lang="sl">SILE«</p>
+    <p xml:id="pb42.p4" xml:lang="sl">Sodelavci</p>
+    <p xml:id="pb42.p5" xml:lang="sl">Trgi delovne sile Stari Novi Stari</p>
+    <p xml:id="pb42.p6" xml:lang="sl">Enaka kvalifikacija z istega trga delovne sile</p>
+    <p xml:id="pb42.p7" xml:lang="sl">Nova kvalifikacija z istega trga delovne sile Novi</p>
+    <p xml:id="pb42.p8" xml:lang="sl">Enaka kvalifikacija z novega trga delovne sile</p>
+    <p xml:id="pb42.p9" xml:lang="sl">Nova kvalifikacija z novega trga delovne sile Vir: Belak 2002, 151</p>
+    <p xml:id="pb42.p10" xml:lang="sl">Podjetje zaenkrat ostaja pri enaki kvalifikaciji z istega trga delovne sile, kar je razvidno iz preglednice 14. Zaposleni so iz Maribora in Ljubljane. V primeru širitve podjetja bomo zaposlili še nabavnega in področnega vodjo. Oba zaposlena bosta iz Maribora. V podjetju bomo vsa potrebna znanja primerno nadgrajevali z dodatnim izobraževanjem in usposabljanjem.</p>
+    <p xml:id="pb42.p11" xml:lang="sl">PREGLEDNICA 15: STRATEŠKE ALTERNATIVE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb42.p12" xml:lang="sl">DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »KAPITAL-TRG KAPITALA« Vrsta kapitala Trgi kapitala Stari Novi Stari</p>
+    <p xml:id="pb42.p13" xml:lang="sl">Isti financerji in iste vrste kapitala</p>
+    <p xml:id="pb42.p14" xml:lang="sl">Sprememba strukture kapitala Novi</p>
+    <p xml:id="pb42.p15" xml:lang="sl">Novi financerji in iste vrste kapitala</p>
+    <p xml:id="pb42.p16" xml:lang="sl">Nove vrste kapitala z novega trga kapitala</p>
+    <p xml:id="pb42.p17" xml:lang="sl">Vir: Belak 2002, 151</p>
+    <p xml:id="pb42.p18" xml:lang="sl">V kolikor se bo podjetje v prihodnosti razširilo na druge trge, bo za nove poslovalnice potreben nakup nove opreme, za kar pa bodo potrebna tudi nova finančna sredstva. Ta si bo podjetje še naprej zagotavljalo pri istih financerjih v obliki najetih kreditov, kar je tudi razvidno iz preglednice 15. Prihodnja vlaganja bodo financirana iz ustvarjenega dobička od poslovanja.</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">4.3 Izbrane strategije podjetja Parfumerija Douglas d.o.o.</p>
+    <p xml:id="pb43.p2" xml:lang="sl">Za podjetje Parfumerija Douglas d.o.o. predlagamo naslednje splošne strategije:</p>
+    <p xml:id="pb43.p3" xml:lang="sl">• v zvezi s ponudbo: naj podjetje v prihodnosti planira strategijo širjenja ponudbe izdelkov na vseh treh programsko-tržnih področjih ter izpopolnjuje program prodaje svojih izdelkov. Tako bodo zadovoljili obstoječe stranke in pridobili nove. Ponudba izelkov naj bo strandardna na vseh treh programsko-tržnih področjih, nabavljajo naj pri že obstoječih dobaviteljih s katerimi imajo dobre poslovne odnose in pri katerih do možni dodatni popusti ob naročilih. Na PTP 1 naj zaposleni strankam delijo brezplačne reklamne vzorce pred in ob nakupu ter darila ob večjih nakupih. Na PTP 2 naj podjetje še naprej ponuja brezplačno storitev ličenja ter na PTP 3 brezplačno analizo kože. Bistvenega pomena naj bo še naprej strokovna in kakovostna postrežba, saj si bomo le tako pridobili zaupanje kupcev in postali konkurenčnejši.</p>
+    <p xml:id="pb43.p4" xml:lang="sl">• v zvezi s konkurenco: naj proučevano podjetje tudi v bodoče uresničuje defenzivno strategijo, ki pa naj jo spremlja inovativna strategija. Ker je na vseh treh programsko-tržnih področjih prisotna močna konkurenca naj obravnavano podjetje ohranja svoje inovativne storitve kot so brezplačna ličenja, manikura in analiza kože. Predlagamo, da naj podjetje oblikuje program zvestobe, kjer bi lahko zvestim kupcem ob nakupih nudili še dodaten popust.</p>
+    <p xml:id="pb43.p5" xml:lang="sl">• v zvezi z lastnim delovanjem: podjetje naj bo v bodoče usmerjeno na zadovoljstvo svojih kupcev. Obenem naj se trudi za zadovoljstvo svojih zaposlenih tako, da skuša v čim večji meri upoštevati njihova mnenja. Potrebe kupcev naj bodo v celoti zadovoljene. Le tako bodo v obravnavanem podjetju dosegali pričakovano rast in razvoj. V skladu s tem naj obravnavano podjetje za vsa tri programsko-tržna področja izbere strategijo optimiranja dobička z doseganjem tržne uspešnosti ter strategijo vzajemnega ustvarjanja vrednosti.</p>
+    <p xml:id="pb43.p6" xml:lang="sl">• v zvezi z resursi: naj obravnavano podjetje sledi strategij fleksibilne oskrbe. Za podjetje je bistvenega pomena zadovoljevanje potreb kupcev, le-te pa postajajo s časom čedalje bolj zahtevne. Podjetje naj bo v prihodnosti informirano o vseh novostih s strani dobaviteljev ter se z njimi oskrbi v tolikšni meri, da bo zadovoljilo potrebe kupcev. Izdelke naj obravnavano podjetje nabavlja sproti in takrat ko jih potrebuje.</p>
+    <p xml:id="pb43.p7" xml:lang="sl">Za podjetje Parfumerija Douglas d.o.o. predlagamo naslednjo temeljno strategijo: Temeljna dejavnost podjetja naj bo tudi v prihodnje usmerjena v prodajo parfumskih in kozmetičnih izdelkov. Za podjetje predlagamo strategijo nadaljnjega razvoja in rasti podjetja.</p>
+    <p xml:id="pb43.p8" xml:lang="sl">To strategijo bi lahko podjetje doseglo, če bi v prihodnosti svojo ponudbo razširili na druga področja v Sloveniji. Razvoj bi podjetje dosegalo z dodatnim sprotnim izobraževanjem zaposlenih prodajalk ter tako povečali kakovost storitev. Za rast podjetja smo se odločili zato, da bi povečali število strank ter se razširili na tista področja, kjer naši konkurenti že delujejo.</p>
+    <p xml:id="pb43.p9" xml:lang="sl">Strategiji nadaljnjega razvoja in rasti naj sledi podjetje na vseh treh programsko-tržnh področjih.</p>
+    <p xml:id="pb43.p10" xml:lang="sl">Za podjetje Parfumerija Douglas d.o.o. predlagamo naslednje poslovne strategije: Podjetje naj sprejme za vsa tri programsko-tržna področja strategijo razvijanja tržne niše na podlagi diferenciacije. To strategijo bomo dosegli z zadovoljevanjem specializiranih potreb naših kupcev, ki jih naši največji konkurenti niso pripravljeni zadovoljevati. Tako bo lahko podjetje povečalo konkurenčno prednost na vseh treh programsko-tržnih področjih.</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">4.4 Predvidene strukture podjetja Parfumerija Douglas d.o.o.</p>
+    <p xml:id="pb44.p2" xml:lang="sl">Predvidena lastniška struktura: v obdobju 2010-2015 bo podjetje Parfumerija Douglas d.o.o. še naprej zasebna lastnina. Tudi zakoniti zastopniki bodo ostali enaki.</p>
+    <p xml:id="pb44.p3" xml:lang="sl">Predvidena organizacijska struktura</p>
+    <p xml:id="pb44.p4" xml:lang="sl">Predvidena organizacijska struktura je prestavljena na sliki 5.</p>
+    <p xml:id="pb44.p5" xml:lang="sl">SLIKA 5: PREDVIDENA ORGANIZACIJSKA STRUKTURA VODENJA PODJETJA</p>
+    <p xml:id="pb44.p6" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb44.p7" xml:lang="sl">LEGENDA:</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Sprememba leta 2011 Sprememba leta 2012</p>
+    <p xml:id="pb44.p9" xml:lang="sl">Sprememba leta 2011</p>
+    <p xml:id="pb44.p10" xml:lang="sl">VODJA UPRAVE (1) RAČUNOVODSTVO (2) ADMINISTRACIJA (1) PE MB CENTER POSLOVODJA (1) PRODAJALKE (4) PE LJ CITYPARK POSLOVODJA (1) PRODAJALKE (5) PE MB EUROPARK POSLOVODJA (1) PRODAJALKE (5) PODROČNI VODJA (1) NABAVNI VODJA (1) PE KOPER SUPERNOVA POSLOVODJA (1) PRODAJALKE (4) PE LJUBLJANA CENTER POSLOVODJA (1) PRODAJALKE 4)</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Kot je razvidno iz slike 5 planiramo spremembe v organizacijski strukturi podjetja.</p>
+    <p xml:id="pb45.p2" xml:lang="sl">Spremembe so povezane s rastjo podjetja na določena območja Slovenije, kar smo opredelili pri strategijah podjetja. Organizacijska struktura se bo spremenila z zaposlitvijo nabavnega in področnega vodje, nato pa še z odprtjem poslovne enote v Ljubljani in poslovne enote v Kopru. Na vrhu organizacijske strukture bo tudi v prihodnosti vodja uprave, kateremu bodo odgovarjali vsi zaposleni. Vodja bo tudi v prihodnosti sprejemal vse pomembne odločitve v zvezi z podjetjem. Vodstvo podjetja bo imelo osebni stik z zaposlenimi.</p>
+    <p xml:id="pb45.p3" xml:lang="sl">Predvidena kadrovska struktura:</p>
+    <p xml:id="pb45.p4" xml:lang="sl">Kot je razvidno iz preglednice 16 se bo kadrovska struktura planirano povečala z rastjo podjetja. Leta 2011 bomo zaposlili področnega in nabavnega vodjo, enega poslovodjo ter štiri prodajalke. Delo področnega vodje bo obsegalo nadzor nad trgovinami njegovo delo bo potekalo po navodilih vodje uprave. Nabavni vodja bo skrbel za naročila izdelkov v trgovinah ter imel pregled nad vsemi zalogami obstoječih poslovnih enot. Za leto 2011 planiramo tudi odprtje nove poslovne enote v Kopru. Skladno s tem se bo povečal tudi obseg zaposlenih.</p>
+    <p xml:id="pb45.p5" xml:lang="sl">Tako bomo v letu 2011 zaposlili še štiri prodajalke, ki bodo zaposlene v poslovni enoti Koper.</p>
+    <p xml:id="pb45.p6" xml:lang="sl">Njihovo delo bo strokovno svetovanje in strežba strank. Za poslovno enoto Koper bomo zaposlili tudi poslovodjo, katerega delo bo vodenje poslovne enote, vodenje zaposlenih v tej enoti ter skrb za urejenost trgovine. Leta 2012 se bo število zaposlenih še nekoliko povečalo, kar bo posledica širjenja podjetja v Ljubljano center. Tako bomo za to poslovno enoto zaposlili štiri prodajalke ter enega poslovodjo.</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">PREGLEDNICA 16: PREDVIDENA KADROVSKA STRUKTURA PODJETJA</p>
+    <p xml:id="pb46.p2" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb46.p3" xml:lang="sl">Delovno mesto Delovne naloge</p>
+    <p xml:id="pb46.p4" xml:lang="sl">Izobrazba Delovne izkušnje, sposobnosti</p>
+    <p xml:id="pb46.p5" xml:lang="sl">Število zaposlenih Leta 2010 Leta 2011 Leta 2012 Leta 2013 Leta 2014</p>
+    <p xml:id="pb46.p6" xml:lang="sl">Vodja uprave Vodenje vseh trgovin na področju Slovenije.</p>
+    <p xml:id="pb46.p7" xml:lang="sl">V. stopnja.</p>
+    <p xml:id="pb46.p8" xml:lang="sl">Vodenje trgovin, pogajalstvo, komunikacija.</p>
+    <p xml:id="pb46.p9" xml:lang="sl">1 1 1 1 1 Računovodja Obračun plač, vodenje stroškov, sestavljanje bilanc.</p>
+    <p xml:id="pb46.p10" xml:lang="sl">V. stopnja.</p>
+    <p xml:id="pb46.p11" xml:lang="sl">Organiziranost, zbranost, natančnost, kontrola.</p>
+    <p xml:id="pb46.p12" xml:lang="sl">Administrator Vnašanje podatkov.</p>
+    <p xml:id="pb46.p13" xml:lang="sl">V. stopnja.</p>
+    <p xml:id="pb46.p14" xml:lang="sl">Natančnost, poznavanje dela z računalnikom.</p>
+    <p xml:id="pb46.p15" xml:lang="sl">1 1 1 1 1 Področni vodja</p>
+    <p xml:id="pb46.p16" xml:lang="sl">Nadzor nad trgovinami.</p>
+    <p xml:id="pb46.p17" xml:lang="sl">V. stopnja ali VI. stopnja.</p>
+    <p xml:id="pb46.p18" xml:lang="sl">Organizacijske sposobnosti, komunikacija, Vodenje zaposlenih.</p>
+    <p xml:id="pb46.p19" xml:lang="sl">0 1 1 1 1 Nabavni vodja</p>
+    <p xml:id="pb46.p20" xml:lang="sl">Naročanje izdelkov, kontrola zalog.</p>
+    <p xml:id="pb46.p21" xml:lang="sl">V. stopnja ali VI. stopnja.</p>
+    <p xml:id="pb46.p22" xml:lang="sl">Organizacijske sposobnosti, natančnost, poznavanje dela z računalnikom.</p>
+    <p xml:id="pb46.p23" xml:lang="sl">0 1 1 1 1 Poslovodja Vodenje posamezne trgovine, skrb za nabavo blaga in urejenost trgovine.</p>
+    <p xml:id="pb46.p24" xml:lang="sl">V. stopnja ali IV. stopnja.</p>
+    <p xml:id="pb46.p25" xml:lang="sl">Prodaja, komuniciranje, urejenost.</p>
+    <p xml:id="pb46.p26" xml:lang="sl">3 4 5 5 5 Prodajalci Prodaja izdelkov, svetovanje in ličenje.</p>
+    <p xml:id="pb46.p27" xml:lang="sl">V. stopnja ali IV. stopnja.</p>
+    <p xml:id="pb46.p28" xml:lang="sl">Prodaja, komuniciranje, strpnost.</p>
+    <p xml:id="pb46.p29" xml:lang="sl">14 18 22 22 22 Skupaj</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Predvidena tehnično-tehnološka struktura:</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Tehnično-tehnološka struktura se do leta 2011 ne bo bistveno spremenila. Leta 2010 planiramo nakup novih izpopolnjenih pos-terminalov za plačilne kartice v vseh poslovalnicah.</p>
+    <p xml:id="pb47.p3" xml:lang="sl">Leta 2011 planiramo nakup dveh osebnih računalnikov za potrebe nabavnega in področnega vodje. Z odprtjem nove poslovalnice v Kopru bo potrebna celotna nova oprema za trgovino zato bo potreben nakup pohištva, treh računalnikov ter klime. Potreben bo tudi novi informacijski sistem s katerim bomo imeli nadzor nad nabavo, prodajo izdelkov in stanjem zalog. Leta 2012 bo prav tako potreben nakup celotne opreme vključno z pohištvom, dvema računalnikoma, klimo ter novim informacijskim sistemom za poslovno enoto Ljubljana center, ki jo planiramo odpreti istega leta. Ves nakup potrebnih sredstev bo podjetje financiralo iz najetih kreditov.</p>
+    <p xml:id="pb47.p4" xml:lang="sl">4.5 Program razvoja in rasti proučevanega podjetja</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Program razvoja in rasti proučevanega podjetja bomo uresničevali na podlagi strategij, ki smo jih izbrali za proučevano podjetje . Zadovoljstvo strank je za naše podjetje bistvenega pomena, saj si s tem večamo ugled ter obenem ustvarjamo dobiček. Da bodo naše stranke zadovoljne bomo nenehno skrbeli za razvoj našega podjetja s tem, da bomo vlagali v usposabljanje v organizaciji in se strankam tudi čim bolj kakovostno in strokovno posvetili.</p>
+    <p xml:id="pb47.p6" xml:lang="sl">Temeljni cilj usposabljanja je v dodajanju vrednosti najpomembnejšemu viru organizacije, ki ga pomenijo v njej zaposleni delavci, da bi s tem omogočili ali pripomogli k doseganju njenega smotra in temeljnih ciljev (Treven 1998, 208).</p>
+    <p xml:id="pb47.p7" xml:lang="sl">Program razvoja in rasti za vsa leta permanentno:</p>
+    <p xml:id="pb47.p8" xml:lang="sl">• vlaganje v prodajni marketing na vseh programsko-tržnih področjih (deljenje brezplačnih vzorcev, brezplačno zavijanje daril, deljenje vizitk);</p>
+    <p xml:id="pb47.p9" xml:lang="sl">• vlaganje v usposabljanje kadrov (predvsem glede novosti na trgu kozmetike);</p>
+    <p xml:id="pb47.p10" xml:lang="sl">• vlaganje v dobro ime ter prepoznavnost podjetja;</p>
+    <p xml:id="pb47.p11" xml:lang="sl">• skrb za urejenost trgovin;</p>
+    <p xml:id="pb47.p12" xml:lang="sl">• vlaganje v organizacijski razvoj podjetja;</p>
+    <p xml:id="pb47.p13" xml:lang="sl">• spremljanje delovanja konkurence;</p>
+    <p xml:id="pb47.p14" xml:lang="sl">• posodabljanje in izpopolnjevanje internetne strani; Ob tem pa še: Leta 2010:</p>
+    <p xml:id="pb47.p15" xml:lang="sl">• nakup novih pos-terminalov za plačilne kartice;</p>
+    <p xml:id="pb47.p16" xml:lang="sl">• uvedba programa zvestobe za naše stalne stranke;</p>
+    <p xml:id="pb47.p17" xml:lang="sl">• sodelovanje na raznih modnih revijah.</p>
+    <p xml:id="pb47.p18" xml:lang="sl">Leta 2011:</p>
+    <p xml:id="pb47.p19" xml:lang="sl">• zaposlitev nabavnega in področnega vodje;</p>
+    <p xml:id="pb47.p20" xml:lang="sl">• zaposlitev poslovodje in novih prodajalk;</p>
+    <p xml:id="pb47.p21" xml:lang="sl">• odprtje nove poslovne enote v Kopru;</p>
+    <p xml:id="pb47.p22" xml:lang="sl">• usposabljanje novega kadra;</p>
+    <p xml:id="pb47.p23" xml:lang="sl">• nakup opreme za novo poslovalnico v Kopru.</p>
+    <p xml:id="pb47.p24" xml:lang="sl">Leta 2012:</p>
+    <p xml:id="pb47.p25" xml:lang="sl">• odprtje nove poslovne enote v Ljubljani;</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">• zaposlitev poslovodje in novih prodajalk;</p>
+    <p xml:id="pb48.p2" xml:lang="sl">• usposabljanje novega kadra;</p>
+    <p xml:id="pb48.p3" xml:lang="sl">• nakup opreme za novo poslovalnico v Ljubljani.</p>
+    <p xml:id="pb48.p4" xml:lang="sl">Leta 2013:</p>
+    <p xml:id="pb48.p5" xml:lang="sl">• nakup novih blagajn za poslovalnice Maribor center, Ljubljana Citypark in Maribor Europark;</p>
+    <p xml:id="pb48.p6" xml:lang="sl">• posodobitev informacijskih sistemov.</p>
+    <p xml:id="pb48.p7" xml:lang="sl">Leta 2014:</p>
+    <p xml:id="pb48.p8" xml:lang="sl">• povečanje ugleda in prepoznavnosti podjetja;</p>
+    <p xml:id="pb48.p9" xml:lang="sl">• povečanje števila odjemalcev ter ustvarjanje dobička;</p>
+    <p xml:id="pb48.p10" xml:lang="sl">• izboljšanje poslovnega izida.</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">5 SKLEP</p>
+    <p xml:id="pb49.p2" xml:lang="sl">V diplomski nalogi smo prikazali planiranje razvoja že obstoječega podjetja Parfumerija Douglas d.o.o. na ravni politike podjetja in strateškega managementa.</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Podjetje Parfumerija Douglas d.o.o. se ukvarja z dejavnostjo za katero je na trgu značilna močna konkurenca. Tako podjetje lahko uspe le s pravilno planiranim razvojem. V tej dejavnosti je bistvenega pomena, da zaposleni v čim večji meri zadovoljujejo kupce, kar pomeni boljše od konkurentov s katerimi se srečujejo na trgu. Zato je ključnega pomena za podjetje dobro izdelana ocena prednosti in slabosti ter priložnosti in nevarnosti, postavljanje strateških ciljev, oblikovanje strategij za dosego ciljev in izbiranje optimalne strategije.</p>
+    <p xml:id="pb49.p4" xml:lang="sl">Na ravni politike podjetja smo izhajali iz vizije podjetja. Zastavili smo si poslanstvo, smotre in temeljne cilje in tako oblikovali politiko podjetja, ki nam je služila kot izhodišče za planiranje na ravni strateškega managementa. Na ravni strateškega managementa je potrebno iskati strateške možnosti in strategije, da bi lahko zastavljeno politiko podjetja uresničili.</p>
+    <p xml:id="pb49.p5" xml:lang="sl">Za obdobje naslednjih petih let predlagamo kot temeljno strategijo, strategijo razvoja in rasti s katero lahko dosežemo povečanje obsega poslovanja in se razširi na trg kjer deluje njegova konkurenca. V zvezi s poslovno strategijo predlagamo strategijo razvijanja tržne niše na podlagi diferenciacije s katero bomo zagotovili zadovoljstvo naših kupev, kar je temeljni cilj našega obstoja in delovanja.</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">6 POVZETEK</p>
+    <p xml:id="pb50.p2" xml:lang="sl">V diplomski nalogi smo predstavili planiranje razvoja podjetja Parfumerija Douglas d.o.o. na ravni politike podjetja in strateškega managementa.</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Na začetku diplomske naloge smo predstavili podjetje Parfumerija Douglas d.o.o. Opredelili smo značilnosti podjetja, predstavili obstoječo politiko, obstoječe strukture ter strategije.</p>
+    <p xml:id="pb50.p4" xml:lang="sl">V diplomski nalogi smo proučevali vrednote podjetja Parfumerija Douglas d.o.o., proučili prednosti in slabosti ter priložnosti in nevarnosti ter na tej osnovi planirali politiko podjetja Parfumerija Douglas d.o.o.</p>
+    <p xml:id="pb50.p5" xml:lang="sl">Na ravni strateškega managementa smo iskali strateške možnosti in strategije, ki pa jih nismo ekonomsko vrednotili. Za podjetje Parfumerija Douglas d.o.o. smo izbrali po našem mnenju najprimernejše strategije in planiranje na ravni strateškega managementa zaključili s programom razvoja za nadaljnjih pet let.</p>
+    <p xml:id="pb50.p6" xml:lang="sl">Ključne besede:</p>
+    <p xml:id="pb50.p7" xml:lang="sl">• politika podjetja,</p>
+    <p xml:id="pb50.p8" xml:lang="sl">• vrednote,</p>
+    <p xml:id="pb50.p9" xml:lang="sl">• prednosti in slabosti,</p>
+    <p xml:id="pb50.p10" xml:lang="sl">• priložnosti in nevarnosti,</p>
+    <p xml:id="pb50.p11" xml:lang="sl">• strategije,</p>
+    <p xml:id="pb50.p12" xml:lang="sl">• strateški management.</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">ABSTRACT</p>
+    <p xml:id="pb51.p2" xml:lang="en">In dissertation introduced planning of development of company Perfumery Douglas Ltd. on level policy of company and of strategic management.</p>
+    <p xml:id="pb51.p3" xml:lang="en">At the beginning dissertation introduced company Perfumery Douglas Ltd. Determined are of feature of company Perfumery Douglas Ltd., they introduced existent policy, existent structures and strategies.</p>
+    <p xml:id="pb51.p4" xml:lang="en">In dissertation were looking of value of company Perfumery Douglas Ltd., they looked into advantages and disadvantages and opportunities and dangers and so planned policy of company Perfumery Douglas Ltd.</p>
+    <p xml:id="pb51.p5" xml:lang="en">We searched for strategic possibilities and strategies on level of strategic management, that we weren't passing judgement on them economically. For company Perfumery Douglas chose most properly strategy and they finished planning on level of strategic management with program of development during further heels of years.</p>
+    <p xml:id="pb51.p6" xml:lang="en">Key words:</p>
+    <p xml:id="pb51.p7" xml:lang="en">• business policy,</p>
+    <p xml:id="pb51.p8" xml:lang="en">• values,</p>
+    <p xml:id="pb51.p9" xml:lang="en">• strenghts and weakness,</p>
+    <p xml:id="pb51.p10" xml:lang="en">• opportunities and threats,</p>
+    <p xml:id="pb51.p11" xml:lang="en">• strategy,</p>
+    <p xml:id="pb51.p12" xml:lang="en">• strategic management.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">LITERATURA</p>
+    <p xml:id="pb52.p2" xml:lang="sl">1. Belak, Janko, soavtorice in soavtorji ( 2003): Praktikum managementa. MER Evrocenter, Maribor.</p>
+    <p xml:id="pb52.p3" xml:lang="sl">2. Belak, Janko (2002): Politika podjetja in strateški management. MER Evrocenter, Gubno.</p>
+    <p xml:id="pb52.p4" xml:lang="en">3. Bleicher, Knut (1994): Normatives Managemet. Politik, Verfassung und Phisophie des Unternehmens. V: Belak, Janko: Politika podjetja in strateški management. Mer Evrocenter, Gubno.</p>
+    <p xml:id="pb52.p5" xml:lang="en">4. Dobson, Paul and Strakey, Ken (2004): Strategic managemet: Issues and Cases.</p>
+    <p xml:id="pb52.p6" xml:lang="en">United Kingdom: Blackwell Publishing.</p>
+    <p xml:id="pb52.p7" xml:lang="sl">5. Duh, Mojca (2002): Model razvoja podjetja po Churchillu in Lewisu (stran 85-86). V Duh Mojca, Kajzer Štefan: Razvojni modeli podjetja in managementa. Gubno: MER Evrocenter.</p>
+    <p xml:id="pb52.p8" xml:lang="sl">6. Ivanko, Štefan (1999): Temelji organizacijskih proučevanj. Novo mesto: Visoka šola za upravljanje in poslovanje.</p>
+    <p xml:id="pb52.p9" xml:lang="en">7. Kelly, Luise and Booth, Christopher ( 2004). Dictionary of strategy: strategic management A-Z. New Delhi: Sage Publications.</p>
+    <p xml:id="pb52.p10" xml:lang="sl">8. Koželj, Stanko (2007): Poslovno računovodstvo. Celje: Visoka komercialna šola.</p>
+    <p xml:id="pb52.p11" xml:lang="sl">9. Kralj, Janko ( 1998): Temelji managementa in naloge managerjev. Koper: Visoka šola za management.</p>
+    <p xml:id="pb52.p12" xml:lang="sl">10. Kralj, Janko (1995): Politika podjetja v tržnem gospodarstvu. V: Belak, Janko: Politika podjetja in strateški management. Mer Evrocenter, Gubno.</p>
+    <p xml:id="pb52.p13" xml:lang="sl">11. Mugler, Josef (1999): Dejavniki uspešnosti pri ustanavljanju podjetij. MER Revija za management in razvoj. Mer Evrocenter, št. 2.</p>
+    <p xml:id="pb52.p14" xml:lang="sl">12. Obrecht, Jean-Jaques (1998): Strateške razvojne situacije malih in srednje velikih podjetij. V: Belak, Janko in soavtorji : Razvoj podjetja in razvojni management: Posebnosti malih in srednje velikih podjetij. Gubno: MER Evrocenter.</p>
+    <p xml:id="pb52.p15" xml:lang="sl">13. Perrow, Charles (1967): Technology and Organizational Structure. V: Ivanko, Štefan: Temelji organizacijskih proučevanj. Novo mesto: Visoka šola za upravljanje in poslovanje.</p>
+    <p xml:id="pb52.p16" xml:lang="sl">14. Potočnik, Vekoslav (1998): Poslovanje trgovskih podjetij. Ljubljana: Ekonomska fakulteta.</p>
+    <p xml:id="pb52.p17" xml:lang="sl">15. Pučko, Danijel (2006): Strateško upravljanje. Ljubljana, Ekonomska fakulteta v Ljubljani.</p>
+    <p xml:id="pb52.p18" xml:lang="sl">16. Rebernik, Miroslav (2008): Ekonomika podjetja. Ljubljana: Gospodarski vestnik.</p>
+    <p xml:id="pb52.p19" xml:lang="sl">17. Tavčar, Mitja (2002): Strateški management. Koper: Visoka šola za management.</p>
+    <p xml:id="pb52.p20" xml:lang="sl">18. Treven, Sonja (1998): Management človeških virov. Ljubljana: Gospodarski vestnik.</p>
+    <p xml:id="pb52.p21" xml:lang="sl">19. Turk, I., D.Melavc, in B. Korošec (2004): Uvod v računovodstvo. Ljubljana: Slovenski inštitut za revizijo.</p>
+    <p xml:id="pb52.p22" xml:lang="sl">20. Vukovič, Goran ( 2008): Obvladovanje prodaje. Portorož: Turistica.</p>
+    <p xml:id="pb52.p23" xml:lang="sl">21. Vukovič, Goran (2008): Obvladovanje nabave. Portorož: Turistica.</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">VIRI</p>
+    <p xml:id="pb53.p2" xml:lang="sl">1. Ajpes (2009). Letno poročilo. Dostopno na:</p>
+    <p xml:id="pb53.p3" xml:lang="sl">[http://www.ajpes.si/JOLP/podjetje_pdf_view.asp?segment=LP&amp;keyword=LP&amp;jezik</p>
+    <p xml:id="pb53.p4" xml:lang="sl">=SL&amp;stPor=2]. [26.8.2009].</p>
+    <p xml:id="pb53.p5" xml:lang="sl">2. Collin, P. H (2003) Poslovni slovar: angleško-slovenski, slovensko-angleški.</p>
+    <p xml:id="pb53.p6" xml:lang="sl">Ljubljana: DZS.</p>
+    <p xml:id="pb53.p7" xml:lang="en">3. Douglas Holding (2009). Geschäftsbericht 2007/2008. Dostopno: http://www.douglas- holding.de/fileadmin/Bilder/pdfs/de/GB2007-2008DE.pdf [18.8.2009].</p>
+    <p xml:id="pb53.p8" xml:lang="sl">4. Everet (2009). Dosegljivo na: http://www.everet-group.com [5.9.2009] 5. Finea holding (2008). Dosegljivo na: http://www.finea-holding.si/ [23.8.2009].</p>
+    <p xml:id="pb53.p9" xml:lang="sl">6. Limoni Slovenija (2009). Dosegljivo na: http://www.limoni.si/ [19.8.2009].</p>
+    <p xml:id="pb53.p10" xml:lang="sl">7. Müller Slovenija (2009). Dosegljivo na: http://www.mueller.si/ [19.8.2009].</p>
+    <p xml:id="pb53.p11" xml:lang="sl">8. Orbico (2008). Dosegljivo na: http://www.orbico.si/ [5.9.2009] 9. Parfümerie Douglas (2009). Dosegljivo na: http://www.douglas.de/douglas/ [23.8.2009].</p>
+    <p xml:id="pb53.p12" xml:lang="sl">10. Parfumerija Douglas (2009). Dosegljivo na: http://parfumerija-douglas.si/ [1.9.2009].</p>
+    <p xml:id="pb53.p13" xml:lang="sl">11. Sintal d.d. (2009). Dosegljivo na: http://www.sintal.si [21.8.2009].</p>
+    <p xml:id="pb53.p14" xml:lang="sl">12. UMAR – Urad za makroekonomske analize in razvoj (2009): Tekoča gospodarska gibanja. Ekonomsko ogledalo. Letnik 15, št. 6, str. 7.</p>
+    <p xml:id="pb53.p15" xml:lang="sl">13. Unicredit Bank (2009). Dosegljivo na: http://www.unicreditbank.si/ [22.8.2009] 14. Zakon o gospodarskih družbah (8.5.2008). 55. člen-mikro, majhne, srednje in velike družbe. Dostopno na: http://www.zakonodaja.com/zakoni/vi/1/1/zgd_1/cleni/55.clen/55.clen [28.8.2009]</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-839000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">SEZNAM PREGLEDNIC IN SLIK</p>
+    <p xml:id="pb54.p2" xml:lang="sl">PREGLEDNICA 1: KADROVSKA STRUKTURA PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p3" xml:lang="sl">DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p4" xml:lang="sl">PREGLEDNICA 2: PRIKAZ IZKAZA POSLOVNEGA IZIDA PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p5" xml:lang="sl">DOUGLAS d.o.o. LETA 2007 IN LETA 2008</p>
+    <p xml:id="pb54.p6" xml:lang="sl">PREGLEDNICA 3: PRIKAZ BILANCE STANJA PODJETJA PARFUMERIJA DOUGLAS d.o.o. LETA 2007 IN LETA 2008</p>
+    <p xml:id="pb54.p7" xml:lang="sl">PREGLEDNICA 4: VREDNOTE PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p8" xml:lang="sl">PREGLEDNICA 5: PRIMERJAVA ŠTEVILA STRANK PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p9" xml:lang="sl">DOUGLAS d.o.o. Z KONKURENTOM PARFUMERIJO LIMONI LETA 2008</p>
+    <p xml:id="pb54.p10" xml:lang="sl">PREGLEDNICA 6: PRIMERJAVA ŠTEVILA STRANK PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p11" xml:lang="sl">DOUGLAS d.o.o. Z KONKURENTOM PARFUMERIJO LIMONI LETA 2009</p>
+    <p xml:id="pb54.p12" xml:lang="sl">PREGLEDNICA 7: SLABOSTI IN PREDNOSTI PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p13" xml:lang="sl">PREGLEDNICA 8: PRILOŽNOSTI IN NEVARNOSTI PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p14" xml:lang="sl">DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p15" xml:lang="sl">PREGLEDNICA 9: STRATEŠKE ZNAČILNOSTI PLANIRANIH PROGRAMOV</p>
+    <p xml:id="pb54.p16" xml:lang="sl">PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p17" xml:lang="sl">PREGLEDNICA 10: OCENA PERSPEKTIVNOSTI PROGRAMSKO-TRŽNIH PODROČIJ</p>
+    <p xml:id="pb54.p18" xml:lang="sl">PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p19" xml:lang="sl">PREGLEDNICA 11: OCENA KONKURENČNIH SPOSOBNOSTI PODJETJA</p>
+    <p xml:id="pb54.p20" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p21" xml:lang="sl">PREGLEDNICA 12: PREGLEDNICA 12 : STRATEŠKE ALTERNATIVE PODJETJA</p>
+    <p xml:id="pb54.p22" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »PROIZVODI-</p>
+    <p xml:id="pb54.p23" xml:lang="sl">TRG«</p>
+    <p xml:id="pb54.p24" xml:lang="sl">PREGLEDNICA 13: STRATEŠKE ALTERNATIVE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p25" xml:lang="sl">DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »RESURSI-NABAVNI TRGI«</p>
+    <p xml:id="pb54.p26" xml:lang="sl">PREGLEDNICA 14: STRATEŠKE ALTERNATIVE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p27" xml:lang="sl">DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »SODELAVCI-TRG DELOVNE</p>
+    <p xml:id="pb54.p28" xml:lang="sl">SILE«</p>
+    <p xml:id="pb54.p29" xml:lang="sl">PREGLEDNICA 15: STRATEŠKE ALTERNATIVE PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p30" xml:lang="sl">DOUGLAS d.o.o. NA ODLOČITVENEM PODROČJU »KAPITAL-TRG KAPITALA«</p>
+    <p xml:id="pb54.p31" xml:lang="sl">PREGLEDNICA 16: PREDVIDENA KADROVSKA STRUKTURA PODJETJA</p>
+    <p xml:id="pb54.p32" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p33" xml:lang="sl">SLIKA 1: LOGOTIP PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p34" xml:lang="sl">SLIKA 2: ORGANIZACIJSKA STRUKTURA PODJETJA PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p35" xml:lang="sl">SLIKA 3: ŠTIRI TEMELJNE DEJAVNOSTI MANAGERJA SLIKA 4: PORTFOLIO ANALIZA PROGRAMSKO-TRŽNIH PODROČIJ PODJETJA</p>
+    <p xml:id="pb54.p36" xml:lang="sl">PARFUMERIJA DOUGLAS d.o.o.</p>
+    <p xml:id="pb54.p37" xml:lang="sl">SLIKA 5: PREDVIDENA ORGANIZACIJSKA STRUKTURA PODJETJA PARFUMERIJA</p>
+    <p xml:id="pb54.p38" xml:lang="sl">DOUGLAS d.o.o.</p>
+  </page>
+</document>

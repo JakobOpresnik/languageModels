@@ -1,0 +1,888 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-8000" doc_id="8000" text_id="13991" cobiss_id="1587876" title="Prehrana pri sladkorni bolezni" author="Krajnc, Janja" supervisor="Nerat, Jasmina" year="2010" publisher_abbr="UM FZV" publisher="Fakulteta za zdravstvene vede" place="Maribor" url="http://dkum.uni-mb.si/Dokument.php?id=13829" type="Diplomsko delo" udc="613.2:616.379-008.64" udc_desc="Dietetika. Prehrambna načela glede na hranjenje in vrsto hrane. Bolezni prebavil. Gastroenterologija" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb1.p2" xml:lang="sl">FAKULTETA ZA ZDRAVSTVENE VEDE PREHRANA PRI SLADKORNI BOLEZNI</p>
+    <p xml:id="pb1.p3" xml:lang="sl">(diplomsko delo)</p>
+    <p xml:id="pb1.p4" xml:lang="sl">Maribor, 2010 Janja Krajnc</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb2.p2" xml:lang="sl">FAKULTETA ZA ZDRAVSTVENE VEDE</p>
+    <p xml:id="pb2.p3" xml:lang="sl">MENTOR: Predav. Jasmina NERAT, univ. dipl. org. ii</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">POVZETEK</p>
+    <p xml:id="pb3.p2" xml:lang="sl">Diplomsko delo obravnava prehrano pri sladkorni bolezni. V teoretičnem delu je predstavljena sladkorna bolezen, klasifikacija le te, načini zdravljenja in zapleti pri sladkorni bolezni.</p>
+    <p xml:id="pb3.p3" xml:lang="sl">Poseben poudarek je namenjen zdravi in uravnoteženi prehrani pri sladkorni bolezni, saj na raven sladkorja v krvi vpliva vse kar pojemo. Modra izbira hrane je ključnega pomena za zdravo življenje in preprečevanje različnih bolezni.</p>
+    <p xml:id="pb3.p4" xml:lang="sl">V raziskovalnem delu diplomskega dela so predstavljeni rezultati anonimne ankete, ki je bila opravljena v oktobru in novembru leta 2009 v diabetološki ambulanti Splošne bolnišnice Ptuj. Anketa zajema sto naključno izbranih bolnikov s sladkorno boleznijo.</p>
+    <p xml:id="pb3.p5" xml:lang="sl">Ugotavljali smo, kakšen je način prehranjevanja anketiranih in seznanjenost o sladkorni bolezni in njenih zapletih.</p>
+    <p xml:id="pb3.p6" xml:lang="sl">Rezultati ankete so pokazali, da načela zdrave prehrane upoštevajo le nekateri izmed anketiranih, le nekateri vedo, katera hrana najbolj poviša raven sladkorja v krvi. Prav tako je iz rezultatov razvidno, da je poznavanje zapletov pri sladkorni bolezni izjemno pomanjkljivo, ter da sladkorna bolezen vpliva na kakovost življenja anketirane populacije.</p>
+    <p xml:id="pb3.p7" xml:lang="sl">Ključne besede: sladkorna bolezen, zapleti pri sladkorni bolezni, zdrava uravnotežena prehrana iii</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">ABSTRACT</p>
+    <p xml:id="pb4.p2" xml:lang="en">The diploma thesis deals with nutrition principles in diabetes. Theoretical part introduces diabetes, classifies it, and shows ways of treatment and related complications; with special emphasis on a healthy and balanced diet, since blood sugar levels are affected by everything a person eats. Wise choice of food is crucial in ensuring a healthy life and in prevention of different diseases.</p>
+    <p xml:id="pb4.p3" xml:lang="en">The research part of the thesis shows the results of an anonymous survey made between October and November 2009 in a Diabetes Clinic of the General Hospital Ptuj. The survey was conducted on one hundred randomly chosen diabetic patients.</p>
+    <p xml:id="pb4.p4" xml:lang="en">The goal was to learn about their diet and knowledge of diabetes and its possible complications.</p>
+    <p xml:id="pb4.p5" xml:lang="en">The survey results have shown that only some of the interviewees pay attention to the principles of a healthy diet and only some know which foods increase blood sugar levels the most. The results also show that the interviewees’ knowledge about possible complications of diabetes is very insufficient and that the diabetes affects the quality of their lives.</p>
+    <p xml:id="pb4.p6" xml:lang="en">Key words: diabetes, diabetes complications, healthy balanced diet iv</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">KAZALO VSEBINE</p>
+    <p xml:id="pb5.p2" xml:lang="sl">POVZETEK .......................................................................................................................... ii ABSTRACT .........................................................................................................................iii KAZALO VSEBINE............................................................................................................ iv KAZALO SLIK.................................................................................................................... vi KAZALO TABEL................................................................................................................ vi KAZALO GRAFOV ............................................................................................................ vi</p>
+    <p xml:id="pb5.p3" xml:lang="sl">1 UVOD............................................................................................................................... 1 2 NAMEN IN CILJI DIPLOMSKEGA DELA................................................................... 2 3 SLADKORNA BOLEZEN .............................................................................................. 3</p>
+    <p xml:id="pb5.p4" xml:lang="sl">3.1 Klasifikacija sladkorne bolezni ................................................................................. 4 3.1.1 Sladkorna bolezen tipa 1..................................................................................... 4 3.1.2 Sladkorna bolezen tipa 2..................................................................................... 5 3.1.3 Sladkorna bolezen v nosečnosti.......................................................................... 6 3.1.4 Drugi tipi sladkorne bolezni ............................................................................... 8 3.1.5 Motena toleranca za glukozo (MTG) in mejna bazalna glikemija (MBG) ........ 8</p>
+    <p xml:id="pb5.p5" xml:lang="sl">3.2 Ogrožene skupine ljudi.............................................................................................. 8 3.3 Diagnostika sladkorne bolezni .................................................................................. 9 3.4 Zdravljenje sladkorne bolezni ................................................................................. 10 3.4.1 Farmakološki načini zdravljenja sladkorne bolezni ......................................... 11 3.4.2 Nefarmakološki načini zdravljenja sladkorne bolezni...................................... 13 3.5 Zapleti pri sladkorni bolezni.................................................................................... 14 3.5.1 Akutni zapleti sladkorne bolezni ...................................................................... 14 3.5.2 Kronični zapleti sladkorne bolezni ................................................................... 15</p>
+    <p xml:id="pb5.p6" xml:lang="sl">4 ZDRAVSTVENA VZOJA BOLNIKOV S SLADKORNO BOLEZNIJO O</p>
+    <p xml:id="pb5.p7" xml:lang="sl">PREHRANI PRI SLADKORNI BOLEZNI........................................................................ 20</p>
+    <p xml:id="pb5.p8" xml:lang="sl">4.1 Uravnotežena prehrana ............................................................................................ 21 4.1.1 Ogljikovi hidrati ............................................................................................... 23 4.1.2 Beljakovine....................................................................................................... 26 4.1.3 Maščobe............................................................................................................ 27 4.1.4 Vitamini ............................................................................................................ 28 4.1.5 Minerali ............................................................................................................ 30 4.1.6 Pijače ................................................................................................................ 30 4.1.7 Začimbe in zelišča ............................................................................................ 32 4.1.8 Sladkorna bolezen in antioksidanti................................................................... 32 4.2 Načini prehranjevanja.............................................................................................. 33 4.2.1 Alternativni načini prehranjevanja ................................................................... 34 4.3 Priprava hrane.......................................................................................................... 35 4.4 Merjena prehrana..................................................................................................... 37 4.5 Parenteralna prehrana .............................................................................................. 40 4.6 Enteralna prehrana................................................................................................... 41 4.7 Debelost in bolniki s sladkorno boleznijo ............................................................... 42 4.8 Hujšanje ................................................................................................................... 42 4.9 Prehrana bolnika s sladkorno boleznijo in odpovedjo ledvic .................................. 43</p>
+    <p xml:id="pb5.p9" xml:lang="sl">5 EMPIRIČNI DEL........................................................................................................... 46</p>
+    <p xml:id="pb5.p10" xml:lang="sl">5.1 Namen in cilji raziskave .......................................................................................... 46 v</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">5.2 Raziskovalna vprašanja ........................................................................................... 46 5.3 Metodologija............................................................................................................ 47 5.3.1 Raziskovalne metode........................................................................................ 47 5.3.2 Raziskovalni vzorec.......................................................................................... 47 5.3.3 Postopki zbiranja podatkov .............................................................................. 47</p>
+    <p xml:id="pb6.p2" xml:lang="sl">6 REZULTATI .................................................................................................................. 48</p>
+    <p xml:id="pb6.p3" xml:lang="sl">6.1 Preverjanje izhodiščnih raziskovalnih vprašanj ...................................................... 60</p>
+    <p xml:id="pb6.p4" xml:lang="sl">7 RAZPRAVA................................................................................................................... 62 8 SKLEP............................................................................................................................ 65 ZAHVALA</p>
+    <p xml:id="pb6.p5" xml:lang="en">9 LITERATURA IN VIRI................................................................................................. 67 10 PRILOGE ....................................................................................................................... 1</p>
+    <p xml:id="pb6.p6" xml:lang="sl">10.1 Anketni vprašalnik..................................................................................................... 1 vi</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">KAZALO SLIK</p>
+    <p xml:id="pb7.p2" xml:lang="sl">Slika 1: Prehranska piramida............................................................................................... 21</p>
+    <p xml:id="pb7.p3" xml:lang="sl">KAZALO TABEL</p>
+    <p xml:id="pb7.p4" xml:lang="sl">Tabela 1: Klasifikacija sladkorne bolezni in drugih motenj tolerance za glukozo................ 4 Tabela 2: Preglednica sestave in energijskih vrednosti enote živil ..................................... 39</p>
+    <p xml:id="pb7.p5" xml:lang="sl">KAZALO GRAFOV</p>
+    <p xml:id="pb7.p6" xml:lang="sl">Graf 1: Starostna struktura anketiranih................................................................................ 48 Graf 2: Struktura anketiranih po spolu. ............................................................................... 48 Graf 3: Struktura anketiranih po izobrazbi. ......................................................................... 49 Graf 4: Tipi sladkorne bolezni............................................................................................. 49 Graf 5: Zdravljenje sladkorne bolezni. ................................................................................ 50 Graf 6: Število dnevno zaužitih obrokov............................................................................. 50 Graf 7: Pogostost zajtrka pri anketiranih. ............................................................................ 51 Graf 8: Vrsta kruha, ki jo anketirani najpogosteje uživajo.................................................. 51 Graf 9: Pogostost uživanja ocvrtih jedi. .............................................................................. 52 Graf 10: Maščobe, ki jih anketirani najpogosteje uporabljajo............................................. 52 Graf 11: Vrste mesa, ki jih anketirani najpogosteje uživajo................................................ 53 Graf 12: Pogostost uživanja sadja in zelenjave. .................................................................. 53 Graf 13: Sladice, ki jih anketirani uživajo........................................................................... 54 Graf 14: Pogostost uživanja sladic. ..................................................................................... 54 Graf 15: Pijače, ki jih anketirani najpogosteje pijejo. ......................................................... 55 Graf 16: Pogostost uživanja alkohola.................................................................................. 55 Graf 17: Sladila, ki jih anketirani uporabljajo. .................................................................... 56 Graf 18: Nakup izdelkov primernih za diabetike. ............................................................... 56 Graf 19: Upoštevanje načel zdrave prehrane....................................................................... 57 Graf 20: Izračunavanje dnevne količine kalorij. ................................................................. 57 Graf 21: Telesna aktivnost anketiranih vsaj 30 minut dnevno. ........................................... 58 Graf 22: Vrsta hrane, ki najbolj vpliva na dvig sladkorja v krvi. ........................................ 58 Graf 23: Vpliv sladkorne bolezni na kvaliteto življenja...................................................... 59 Graf 24: Poznavanje zapletov pri sladkorni bolezni............................................................ 59</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">1 UVOD</p>
+    <p xml:id="pb8.p2" xml:lang="sl">Zdravje je najpogostejši odgovor, ko sogovornika vprašamo, kaj si v prihodnosti najbolj želi. Starejši kot je sogovornik, večja je verjetnost za tak odgovor. S starostjo število obolenj narašča, z njo je pogostejša tudi sladkorna bolezen tipa 2 (Cizelj Jordan, 2008, str. 7).</p>
+    <p xml:id="pb8.p3" xml:lang="sl">Sladkorna bolezen je poleg bolezni srca in ožilja, debelosti in osteoporoze najbolj razširjena kronična nenalezljiva bolezen v svetu. Opredeljena je kot presnovna motnja z značilno zvišanim nivojem glukoze v krvi. Zdravljenje je trajno in zahtevno in le bolnik, ki bo sodeloval v procesu zdravljenja kot dobro poučen in spodbujen partner, bo lahko dosegel dobre izide zdravljenja (Jurečič, 2008, str. 37).</p>
+    <p xml:id="pb8.p4" xml:lang="sl">Življenje s sladkorno boleznijo je svojevrstna umetnost, saj je treba obvladovati hiperglikemijo in obenem paziti, da se hipoglikemija ne pojavlja prepogosto.</p>
+    <p xml:id="pb8.p5" xml:lang="sl">Hipoglikemija je eden največjih izzivov v moderni diabetologiji, ki je rešljiv le v tesnem sodelovanju med človekom s sladkorno boleznijo in diabetologom ter celotnim diabetološkim timom (Kanc Hanžel, 2009).</p>
+    <p xml:id="pb8.p6" xml:lang="sl">Eden temeljnih zdravilnih ukrepov zoper sladkorne bolezni je zdrava in uravnotežena prehrana. Zelo majhen del bolnikov s sladkorno boleznijo pozna in upošteva načela zdrave prehrane. Sprememba načina prehrane je del sprememb življenjskega sloga.</p>
+    <p xml:id="pb8.p7" xml:lang="sl">Prehranjevati se zdravo in uravnoteženo ne pomeni jesti več sadja in zelenjave. Zdrava prehrana je celovitejša sprememba. Da je hrana uravnotežena, sta pomembni količina in razmerje hranljivih snovi v obroku in tudi vse, kar vpliva na dinamiko dotekanja hranljivih snovi v presnovni sistem ter s tem na hormonsko in encimsko stanje organizma (Bohnec in Semolič Valič, 2006).</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">2 NAMEN IN CILJI DIPLOMSKEGA DELA NAMEN</p>
+    <p xml:id="pb9.p2" xml:lang="sl">Namen diplomskega dela je predstaviti sladkorno bolezen in vlogo prehrane pri obvladovanju le te.</p>
+    <p xml:id="pb9.p3" xml:lang="sl">CILJI:</p>
+    <p xml:id="pb9.p4" xml:lang="sl">- predstaviti sladkorno bolezen tipa 1 in 2 ter diagnostiko in zdravljenje sladkorne bolezni,</p>
+    <p xml:id="pb9.p5" xml:lang="sl">- predstaviti zaplete pri bolnikih s sladkorno boleznijo,</p>
+    <p xml:id="pb9.p6" xml:lang="sl">- predstaviti, kako se naj bolniki s sladkorno boleznijo prehranjujejo,</p>
+    <p xml:id="pb9.p7" xml:lang="sl">- z raziskavo spoznati načine prehranjevanja bolnikov s sladkorno boleznijo,</p>
+    <p xml:id="pb9.p8" xml:lang="sl">- ugotoviti, ali bolniki s sladkorno boleznijo upoštevajo načela zdrave prehrane.</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">3 SLADKORNA BOLEZEN</p>
+    <p xml:id="pb10.p2" xml:lang="sl">Sladkorna bolezen je skupina presnovnih bolezni, katerih skupna značilnost je kronična hiperglikemija, ki nastane zaradi pomanjkljive oziroma zmanjšane sposobnosti celic beta trebušne slinavke, da izločijo insulin. Posledica je motena presnova ogljikovih hidratov, maščob in beljakovin. Kronična hiperglikemija povzroča okvaro, motnjo ali odpoved različnih organov, posebno oči, ledvic, živcev, srca, možganov in ožilja.</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Sladkorna bolezen se lahko kaže z značilnimi simptomi oziroma znaki: žejo, poliurijo, hujšanjem. Poleg teh lahko ima bolnik še druge simptome: motnje vida, genitalni pruritus, srbečo kožo, utrujenost, povečan apetit, kožne okužbe, vrtoglavico, izsušenost. Vsi našteti simptomi niso odvisni le od ravni hiperglikemije in niso značilni samo za sladkorno bolezen. Za dokaz sladkorne bolezni je potrebno ugotoviti hiperglikemijo in narediti Oral glucose tolerance test (OGTT). Merila za diagnozo sladkorne bolezni in kriterije OGTT sta določili Svetovna zdravstvena organizacija in Ameriška zveza za diabetes (Koselj, 2006).</p>
+    <p xml:id="pb10.p4" xml:lang="sl">Diagnozo ugotovimo na osnovi klinične slike in laboratorijskega določanja glukoze v krvi. Najznačilnejša oporna točka za diagnozo sledi že iz definicije bolezni – treba je dokazati hiperglikemijo. Diagnoza ni težka pri jasnih kliničnih znakih (žeja, hujšanje, poliurija…), problem nastopi pri bolniku brez simptomov, če je glukoza nekoliko višja od zgornje meje za zdravo prebivalstvo. Takrat je diagnoza odvisna od višine glukoze v danih razmerah, pri čemer upoštevamo merila za mejne vrednosti med patološkim in normalnim območjem, kot so določene na osnovi epidemioloških študij pregledanih večjih populacij (Mrevlje, 2005, str. 682).</p>
+    <p xml:id="pb10.p5" xml:lang="sl">V raziskavi Dejavniki tveganja za nenalezljive bolezni odraslih prebivalcev Slovenije leta 2001 je bila prevalenca sladkorne bolezni ocenjena na 4,3 %. Rezultati omenjene raziskave govorijo o relativno nizki prevalenci starostne skupine 40 – 44 let, hitro naraščanje pri starostni skupini 60 – 64 let in nato njeno zmanjšanje. Zaskrbljujoče je, da se sladkorna bolezen tipa 2 ne povečuje le pri starostnikih, ampak tudi med otroki in mladostniki (Kramberger e tal., 2008, str. 29 – 34).</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">Približno ena četrtina vseh bolnikov ima sladkorno bolezen tipa 1, tri četrtine pa tipa 2.</p>
+    <p xml:id="pb11.p2" xml:lang="sl">Razmerje med obema tipoma se s starostjo spreminja. Pri mladih je pogostejši tip 1, pri starejših pa tip 2 (Kržišnik, 2006, str. 65).</p>
+    <p xml:id="pb11.p3" xml:lang="sl">3.1 Klasifikacija sladkorne bolezni</p>
+    <p xml:id="pb11.p4" xml:lang="sl">Tabela 1: Klasifikacija sladkorne bolezni in drugih motenj tolerance za glukozo</p>
+    <p xml:id="pb11.p5" xml:lang="sl">(SZO 1999, ADA 1998, 2003)</p>
+    <p xml:id="pb11.p6" xml:lang="sl">Sladkorna bolezen Sladkorna bolezen tipa 1</p>
+    <p xml:id="pb11.p7" xml:lang="sl">- imunsko povzročena</p>
+    <p xml:id="pb11.p8" xml:lang="sl">- idiopatska</p>
+    <p xml:id="pb11.p9" xml:lang="sl">Sladkorna bolezen tipa 2</p>
+    <p xml:id="pb11.p10" xml:lang="sl">Nosečnostna sladkorna bolezen (gestacijski diabetes) Drugi tipi sladkorne bolezni Motena toleranca za glukozo (MTG) Mejna bazalna glikemija (MBG) Vir: Bohnec et al. (2006, str. 44).</p>
+    <p xml:id="pb11.p11" xml:lang="sl">3.1.1 Sladkorna bolezen tipa 1</p>
+    <p xml:id="pb11.p12" xml:lang="sl">Pri sladkorni bolezni tipa 1 gre večinoma za imunsko povzročeno uničenje celic beta trebušne slinavke s hudim pomanjkanjem insulina, redko pa tudi za enako obliko brez znakov avtoimunskega dogajanja (idiopatična oblika). Obstaja tudi avtoimunska oblika, ki se običajno pojavi v srednji starosti in po poteku bolj spominja na sladkorno bolezen tipa 2. Tipična sladkorna bolezen tipa 1 se praviloma pojavi v mladosti, čeprav zanjo ni starostne omejitve (Mrevlje, 2005, str. 683 – 684).</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">Značilnosti sladkorne bolezni tipa 1</p>
+    <p xml:id="pb12.p2" xml:lang="sl">Za sladkorno bolezen tipa 1 je značilno zmanjšanje ali popolno prenehanje izločanja insulina. Ketoacidoze so pogoste. Preživetje je možno le z nadomestnimi injekcijami insulina. Najpogosteje se pojavlja v jesenskih in zimskih mesecih, v času številnih virusnih okužb, najredkeje pa poleti. Znano je dejstvo, da je bolezen redka v ekvatorialnem predelu zemeljske oble in da narašča v smeri proti poloma, najbolj pogosta pa je v Evropi.</p>
+    <p xml:id="pb12.p3" xml:lang="sl">Sladkorna bolezen tipa 1 je poligena. Tudi številni neugodni okoljski vplivi lahko povzročijo avtoimuni razpad pankreasnih celic beta pri predispondiranih osebah. Pri dojenih otrocih je manjša možnost nastanka sladkorne bolezni tipa 1 kot pri hranjenih s kravjim mlekom. Tudi različni kemični toksini, kot so nitrati in nitriti, zaužiti v hrani, lahko povzročijo okvaro pankreasnih celic beta.</p>
+    <p xml:id="pb12.p4" xml:lang="sl">Pred nastankom zaznavne sladkorne bolezni je možno opredeliti več njenih napovednih faz (prediabetes).</p>
+    <p xml:id="pb12.p5" xml:lang="sl">Ločimo:</p>
+    <p xml:id="pb12.p6" xml:lang="sl">- Zgodnji prediabetes: prisotna so protitelesa proti membranskim in citoplazmatskim komponentam celic beta (ICA – islet cell antibody) ter protitelesa proti insulinu in glutaminski kislinski dekarboksilazi (GAD - glutamic acid decarboxylase).</p>
+    <p xml:id="pb12.p7" xml:lang="sl">Sekrecija insulina je normalna.</p>
+    <p xml:id="pb12.p8" xml:lang="sl">- Napredovalni prediabetes: kljub vsem trem vrstam protiteles je sekrecija insulina v prvi fazi spodbujanja zmanjšana, vendar manj kot v poznem prediabetesu.</p>
+    <p xml:id="pb12.p9" xml:lang="sl">- Pozni prediabetes: poleg vseh treh vrst protiteles je sekrecija insulina močno zmanjšana (Kržišnik, 2006, str. 65 – 74).</p>
+    <p xml:id="pb12.p10" xml:lang="sl">3.1.2 Sladkorna bolezen tipa 2</p>
+    <p xml:id="pb12.p11" xml:lang="sl">Sladkorna bolezen tipa 2 je najpogostejša oblika sladkorne bolezni. Značilno je, da poteka progresivno (napreduje).</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">Sladkorno bolezen tipa 2 odkrijejo praviloma po 40. letu starosti, največ okrog 55. leta, po 65. letu pa je odkrijejo izrazito manj zaradi naravnega osipa populacije.</p>
+    <p xml:id="pb13.p2" xml:lang="sl">V Evropi je 10 do 15, na svetu pa okrog 200 milijonov bolnikov s sladkorno boleznijo tipa 2. Vzrok je predvsem v pojavljanju debelosti in opustitvi gibanja (Mrevlje, 2005, str. 685).</p>
+    <p xml:id="pb13.p3" xml:lang="sl">Značilnosti sladkorne bolezni tipa 2</p>
+    <p xml:id="pb13.p4" xml:lang="sl">Pomembna značilnost sladkorne bolezni tipa 2 je metabolični sindrom, ki je v bistvu skupek dejavnikov, ki se v večji meri, kot bi pričakovali, pojavljajo skupaj, vsak zase pa je aterogen. Poleg običajnih dejavnikov tveganja (debelost, hipertenzija, dislipidemija, hiperglikemija) imajo osebe z metaboličnim sindromom še vrsto drugih nenormalnosti, ki so tudi aterogene. Ker je skupek nenormalnosti izredno aterogen, obstaja za te bolnike vsaj dva krat večje tveganje za aterosklerotično srčno-žilno bolezen. Metabolični sindrom je naravni predhodnik in poznejši spremljevalec sladkorne bolezni tipa 2 pri večini oseb, kjer se ta bolezen pojavi. Sladkorna bolezen tipa 2 se z leti poslabšuje (Medvešček, 2006, str. 75 – 82).</p>
+    <p xml:id="pb13.p5" xml:lang="sl">3.1.3 Sladkorna bolezen v nosečnosti</p>
+    <p xml:id="pb13.p6" xml:lang="sl">Sladkorna bolezen v nosečnosti je oblika, ki jo odkrijemo v nosečnosti in se konča najpozneje s prenehanjem dojenja. Nosečnica prej ni imela sladkorne bolezni. Bolezen poteka brez simptomov. Je dejavnik tveganja za nastanek zapletov v nosečnosti in predstavlja pomemben zdravstveni problem.</p>
+    <p xml:id="pb13.p7" xml:lang="sl">Sladkorna bolezen v nosečnosti je definirana kot intoleranca za glukozo različne stopnje, ki se pojavi ali jo prvič odkrijemo v nosečnosti. Številne študije so pokazale povečano tveganje za perinatalno obolevnost in smrtnost pri otrocih nosečnic z nezdravljeno ali neustrezno zdravljeno nosečnostno sladkorno boleznijo.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Nezdravljena ali slabo zdravljena nosečnostna sladkorna bolezen povzroča makrosomijo, poveča se tveganje za porodne poškodbe in perinatalne zaplete, značilne za otroke mater s sladkorno boleznijo. Hiperglikemija je vzrok za večje število spontanih splavov in poznih intrauterinih smrti. Uspešen izhod nosečnosti je odvisen od vzdrževanja normoglikemije med nosečnostjo, zato pa je potrebno znanje o pravilni prehrani, pogosto določanje ravni glukoze v krvi in pravilno odmerjanje insulina.</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Nosečnica potrebuje individualno svetovanje o prehrani, saj je sprememba prehrane v nosečnosti potrebna zaradi spremenjenega metabolizma. Metabolizem v nosečnosti že v prvih tednih kaže dve značilnosti: v obdobju stradanja je črpanje hranil iz zalog hitrejše, v obdobju hranjenja pa je pospešena tvorba zalog. Prva sprememba se kaže z zmanjšano toleranco za stradanje, česar posledica je nagnjenost h ketonemiji. Hitra poraba hranil za izgradnjo pa se kaže z nizkimi vrednostmi glukoze v krvi na tešče in pred obroki. Po 20. tednu nosečnosti se tem spremembam pridruži še pojav naraščajoče odpornosti proti insulinu, ki zahteva vedno večjo količino insulina za normalno uravnavanje ravni glukoze v krvi. Odpornost proti insulinu je največja med 3. in 9. uro zjutraj, zato je tudi potreba po insulinu v tem času največja. Prehrana mora biti torej ne le kalorično prilagojena posameznici, temveč mora upoštevati vse omenjene spremembe. Posebno skrbno načrtovana mora biti prehrana za bolnice, ki ne prenašajo mleka ali so vegetarijanke. Sladkorno bolezen v nosečnosti pravočasno ugotovimo le z izvajanjem presejalnega testa z obremenitvijo z glukozo. V prvih tednih nosečnosti opravimo presejalni test, če so pri nosečnici prisotni dejavniki z velikim tveganjem za pojav sladkorne bolezni. Če je prisotno zmerno tveganje, presejalni test opravimo med 24. in 28. tednom nosečnosti. Za presejalni test uporabimo obremenitev s 50 g glukoze, za diagnostični test pa uporabimo 3-urni 100-gramski obremenilni glukozni tolerančni test. Če je dosežena ali presežena ena mejna vrednost, gre za nosečnostno moteno toleranco na glukozo, če sta doseženi ali preseženi dve vrednosti, je prisotna nosečnostna sladkorna bolezen (Tomažič, 2006, str. 719 – 727).</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">3.1.4 Drugi tipi sladkorne bolezni</p>
+    <p xml:id="pb15.p2" xml:lang="sl">Drugi tipi sladkorne bolezni zajemajo stanje kronične hiperglikemije, kjer je vzrok sladkorne bolezni znan, ali pa gre za stanja, pri katerih se sladkorna bolezen pogosteje pojavlja zaradi danes še neznanih vzrokov (Mrevlje, 2005, str. 684).</p>
+    <p xml:id="pb15.p3" xml:lang="sl">Najpogosteje se sladkorna bolezen razvije po akutnem in kroničnem pankreatitisu, poškodbah trebušne slinavke ali resekciji in ob novotvorbah ali nekaterih endokrinih boleznih (akromegaliji, Cushingovem sindromu, hipertirozi…). Pogosto jo povzroči tudi uporaba nekaterih zdravil: tiazidov, glukokortikoidov… (Koselj, 2006, str. 45).</p>
+    <p xml:id="pb15.p4" xml:lang="sl">3.1.5 Motena toleranca za glukozo (MTG) in mejna bazalna glikemija (MBG) Motena toleranca za glukozo je najbolj blaga oblika kronične hiperglikemije. O moteni toleranci za glukozo govorimo, če diagnostični kriteriji (glukoza v krvi v OGTT) ne dosegajo meril za sladkorno bolezen. OGTT potrdi diagnozo MTG.</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Mejna bazalna glikemija je patološka vrednost glukoze na tešče, ki ne dosega diabetične vrednosti (6,1 do 6,9 mmol/l). Zaradi slabe ponovljivosti in nepraktičnosti OGTT mnogi dajejo prednost le določitvi koncentracije glukoze na tešče.</p>
+    <p xml:id="pb15.p6" xml:lang="sl">Motena toleranca za glukozo in mejna bazalna glikemija pokažeta enako preddiabetično stanje, torej sta razvojni predstopnji, ki pogosto napredujeta v sladkorno bolezen. Treba ju je zdraviti z nefarmakološkimi ukrepi kot blago hiperglikemijo, saj te bolnike spremlja visoka srčno-žilna ogroženost (Koselj, 2006, str. 45).</p>
+    <p xml:id="pb15.p7" xml:lang="sl">3.2 Ogrožene skupine ljudi</p>
+    <p xml:id="pb15.p8" xml:lang="sl">Sladkorna bolezen je na nek način dedna. Pri številnih sorodnikih s to boleznijo je možnost obolevnosti velika. Vendar se bolezen deduje zelo zapleteno in je razlaga zato težja. Poenostavljeno, najožji sorodniki bolnikov starostnega diabetesa, imenovanega tip 2 imajo kar 90% možnosti, da se bodo sami soočili z boleznijo. Mehanizem pa ni preprost in je za izbruh bolezni nujna celotna veriga dejavnikov.</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">Zdravo življenje, primerna telesna aktivnost (vsaj) do štiridesetega leta, uravnotežena prehrana z dovolj balasta v sadnih in zelenjavnih jedeh in primerna telesna teža vsekakor bistveno odložijo nastop bolezni, lahko pa jo tudi preprečijo. Žal pa preko sorodnikov dedujemo tudi prehrambene navade, ki jih skupaj z geni prenašamo v poznejša leta, in ki, tako kot že pri naših sorodnikih, sprožijo nastanek bolezni.</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Nekoliko drugače je pri diabetesu tipa 1, oziroma mladostnem tipu. Tu gre za pomanjkanje nekaterih genskih struktur, zaradi katerih smo manj odporni na vplive iz okolja. Kot posledica zmanjšane odpornosti organizma lahko nekateri virusi sprožijo tako hudo vnetje trebušne slinavke, da le ta odpove. Tukaj je dedovanje manj verjetno, »le« 10 do 30 odstotno (Justinek in Lovšin 2006).</p>
+    <p xml:id="pb16.p3" xml:lang="sl">Med najbolj ogrožene skupine ljudi spadajo debeli ljudje. Debelost pri sladkornih bolnikih poveča možnost kroničnih zapletov in tudi umrljivost. Pri preseganju idealne telesne mase za 20% je umrljivost 3-krat, za 40% pa 7-krat večja. Debelost za 4-krat poveča tveganje pojava sladkorne bolezni tipa 2, huda debelost pa kar za 10-krat. Bolj kot sama telesna masa je pomembna razporeditev maščevja – tipično za diabetes tipa 2 je centralno nabiranje v abdominalnem predelu. Tveganje je povečano celo, če je telesna masa normalna, vendar je maščevje razporejeno centralno. Prav zato je za sladkorne bolnike s povečano telesno maso nujno potreben shujševalni program.</p>
+    <p xml:id="pb16.p4" xml:lang="sl">Cilj hujšanja je znižati simptome in znake v povezavi z debelostjo in tveganjem za razvoj presnovnih in kardiovaskularnih bolezni in povečati funkcionalne in fiziološke sposobnosti bolnika. 5 do 10% shujšanje že lahko zniža krvni tlak, izboljša inzulinsko občutljivost, zniža krvno glukozo in potrebe po antidiabetičnih zdravilih, zniža krvne lipide in izboljša pljučno funkcijo ter zmanjša prezgodnjo umrljivost za 20% (Pokorn, 2004).</p>
+    <p xml:id="pb16.p5" xml:lang="sl">3.3 Diagnostika sladkorne bolezni</p>
+    <p xml:id="pb16.p6" xml:lang="sl">Diagnoza sladkorne bolezni temelji na klinični sliki, ki je posledica hiperglikemije in na izvidu glukoze v krvi. Koncentracija glukoze v krvi, diagnostična za sladkorno bolezen, je tista, pri kateri ima oseba nedvomno povečano tveganje za pojav mikroangiopatičnih zapletov.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Njihov pojav je specifična lastnost sladkorne bolezni, zato koncentracija glukoze v krvi, nad katero se pojavljajo, ločuje bolnike s sladkorno boleznijo od tistih z normalno vrednostjo glukoze v krvi in tudi od oseb z moteno toleranco za glukozo ali mejno bazalno glikemijo. Kadar je presežena diagnostična vrednost glukoze v krvi na tešče ali po obroku, posebno, če ima bolnik značilno klinično simptomatiko, je prisotnost sladkorne bolezni zelo verjetna.</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Vsak patološki izvid ugotovljen prvič, pa pomeni šele sum na sladkorno bolezen in ga moramo potrditi ob drugi priložnosti oziroma na drug dan (Medvešček in Pavčič, 1999).</p>
+    <p xml:id="pb17.p3" xml:lang="sl">Sladkorno bolezen z gotovostjo ugotovimo, če je glukoza v krvi na tešče 7,0 mmol/l ali več (venska ali kapilarna plazma ali serum) ali 11,1 mmol/l kadar koli.</p>
+    <p xml:id="pb17.p4" xml:lang="sl">Za diagnozo potrebujemo dva rezultata o zvišani ravni glukoze v krvi v dveh različnih dnevih, zlasti če ni kliničnih simptomov. Pri vrednosti glukoze na tešče med 6,1 in 7,0 mmol/l je treba napraviti OGTT, ki ga napravimo vedno zjutraj med 7. in 8. uro, ko je toleranca za glukozo najslabša. Preiskovanec popije 75g glukoze v 3 do 5 dl vode. Kri za določitev glukoze odvzamemo na tešče pred pitjem glukoze in po dveh urah. Test je dovolj specifičen, vendar slabo ponovljiv. Vrednosti glukoze v krvi nad 7,0 mmol/l na tešče in nad 11,1 mmol/l po dveh urah govorijo za sladkorno bolezen. Normalen izvid testa pokaže glukozo na tešče pod 6,1 mmol/l in po dveh urah pod 7,8 mmol/l. Večje vrednosti od navedenih kažejo na moteno toleranco za glukozo (Koselj, 2006).</p>
+    <p xml:id="pb17.p5" xml:lang="sl">3.4 Zdravljenje sladkorne bolezni</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Sladkorna bolezen je kronična bolezen, zato je zdravljenje trajno in se sčasoma spreminja. Poleg uravnavanja hiperglikemije je potrebno tudi odpravljanje ali zdravljenje vseh dejavnikov tveganja (Mrevlje, 2005, str. 694).</p>
+    <p xml:id="pb17.p7" xml:lang="sl">Osnovni namen zdravljenja je zmanjševanje oz. zboljševanje vseh navedenih nevšečnosti in nevarnosti. Sladkorna bolezen je neozdravljiva. Nedvoumno pa je dokazano, da lahko s sodobnimi terapevtičnimi metodami bistveno zmanjšamo bolnikovo tveganje tako za nenadno poslabšanje bolezni kakor tudi dolgoročno tveganje za nastanek in napredovanje kroničnih organskih okvar. To velja tako za sladkorno bolezen tipa 1 kot za sladkorno bolezen tipa 2 (Krentz, 2000).</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">Pri zdravljenju bolnika s sladkorno boleznijo si moramo najprej zastaviti cilje, ki jih želimo in moremo doseči z bolnikovim sodelovanjem. Cilji zdravljenja so le delno odvisni od narave bolezni. Pomembnejše so druge okoliščine, npr. bolnikova sposobnost in motiviranost, starost oz. pričakovana življenjska doba, socialne okoliščine (Lebovitz, 2004).</p>
+    <p xml:id="pb18.p2" xml:lang="sl">Cilji zdravljenja sladkorne bolezni:</p>
+    <p xml:id="pb18.p3" xml:lang="sl">- odprava simptomov in znakov bolezni,</p>
+    <p xml:id="pb18.p4" xml:lang="sl">- preprečevanje akutnih zapletov,</p>
+    <p xml:id="pb18.p5" xml:lang="sl">- preprečevanje in zaviranje kroničnih zapletov bolezni,</p>
+    <p xml:id="pb18.p6" xml:lang="sl">- preprečevanje organskih okvar,</p>
+    <p xml:id="pb18.p7" xml:lang="sl">- podaljšanje življenjske dobe,</p>
+    <p xml:id="pb18.p8" xml:lang="sl">- izboljšanje kakovosti življenja (Mrevlje, 2006).</p>
+    <p xml:id="pb18.p9" xml:lang="sl">Navedene cilje skušamo doseči pri čim več bolnikih, vendar se moramo zavedati, da to pri vseh ni možno, niti ni nujno. V teh primerih se moramo zadovoljiti s skromnejšimi cilji.</p>
+    <p xml:id="pb18.p10" xml:lang="sl">Ločimo dva različna načina zdravljenja sladkorne bolezni:</p>
+    <p xml:id="pb18.p11" xml:lang="sl">- farmakološki načini in</p>
+    <p xml:id="pb18.p12" xml:lang="sl">- nefarmakološki načini.</p>
+    <p xml:id="pb18.p13" xml:lang="sl">3.4.1 Farmakološki načini zdravljenja sladkorne bolezni Farmakološki načini zdravljenja sladkorne bolezni:</p>
+    <p xml:id="pb18.p14" xml:lang="sl">- zdravljenje z oralnimi zdravili (antidiabetiki),</p>
+    <p xml:id="pb18.p15" xml:lang="sl">- zdravljenje z insulinom,</p>
+    <p xml:id="pb18.p16" xml:lang="sl">- uravnavanje glikemije,</p>
+    <p xml:id="pb18.p17" xml:lang="sl">- uravnavanje dislipidemije,</p>
+    <p xml:id="pb18.p18" xml:lang="sl">- uravnavanje arterijske hipertenzije,</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">- uravnavanje telesne mase (Mrevlje, 2006).</p>
+    <p xml:id="pb19.p2" xml:lang="sl">Zdravila za zdravljenje sladkorne bolezni delimo na peroralne antidiabetike in insuline.</p>
+    <p xml:id="pb19.p3" xml:lang="sl">Peroralni antidiabetiki</p>
+    <p xml:id="pb19.p4" xml:lang="sl">Peroralni antidiabetiki se razlikujejo po mestu in načinu delovanja. Delimo jih na:</p>
+    <p xml:id="pb19.p5" xml:lang="sl">- spodbujevalce izločanja insulina,</p>
+    <p xml:id="pb19.p6" xml:lang="sl">- spodbujevalce občutljivosti za insulin,</p>
+    <p xml:id="pb19.p7" xml:lang="sl">- zaviralce glukozidaz alfa v črevesu.</p>
+    <p xml:id="pb19.p8" xml:lang="sl">Insulin</p>
+    <p xml:id="pb19.p9" xml:lang="sl">Zdravljenje z insulinom je potrebno takoj, ko maksimalno peroralno zdravljenje ni več učinkovito. Gre za nadomestno zdravljenje, saj z eksogenim insulinom nadomeščamo bolj ali manj izraženo pomanjkanje endogenega insulina (Walsh et al., 2003).</p>
+    <p xml:id="pb19.p10" xml:lang="sl">Vsi insulini so beljakovine, zato jih je mogoče dajati le v podkožje, mišico ali veno (vanjo samo kratkodelujoče insuline). Po sestavi molekule ločimo humane insuline in njihove analoge. Humani insulin se imenuje zato, ker je njegova molekula identična z molekulo človeškega insulina. Analogi so humanim insulinom podobni, ne pa tudi enaki, zato imajo drugačne lastnosti kot humani insulini. Danes še uporabljamo humane insuline, vse bolj pa se uveljavljajo analogi. Po trajanju delovanja delimo insuline na ultrakratkodelujoče, kratkodelujoče, srednjedolgo in dolgodelujoče.</p>
+    <p xml:id="pb19.p11" xml:lang="sl">Poleg posameznih insulinov poznamo že tovarniško pripravljene dvofazne insuline, ki vsebujejo hitro in počasno komponento insulina v različnih razmerjih. Odmerke insulina izražamo v mednarodnih enotah (E). V večini razvitih držav, tudi v Sloveniji, je na voljo insulin samo v koncentraciji 100E/ml, kar je splošno sprejeti standard (Mrevlje, 2006).</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">3.4.2 Nefarmakološki načini zdravljenja sladkorne bolezni Nefarmakološki načini zdravljenja sladkorne bolezni:</p>
+    <p xml:id="pb20.p2" xml:lang="sl">- zdravstvena vzgoja in izobraževanje,</p>
+    <p xml:id="pb20.p3" xml:lang="sl">- zdrava prehrana oz. prehransko zdravljenje,</p>
+    <p xml:id="pb20.p4" xml:lang="sl">- redna telesna aktivnost,</p>
+    <p xml:id="pb20.p5" xml:lang="sl">- samokontrola.</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Zdravstvena vzgoja bolnikov s sladkorno boleznijo je osnova za zdravljenje in uspešno urejenost njihove bolezni. Njen cilj je bolnika usposobiti za dejavno sodelovanje pri zdravljenju lastne bolezni. Za dosego tega pa je potrebna posameznikova motivacija.</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Ta je lahko notranja, ko se posameznik zaveda svojih potreb, teženj in si sam želi spremembe, ali zunanja motivacija, ki traja toliko časa, dokler je posameznik pod kontrolo (Bohnec et al., 2006).</p>
+    <p xml:id="pb20.p8" xml:lang="sl">Pravilno načrtovana prehrana je prav tako zelo pomemben vidik nefarmakološkega zdravljenja. Priporočila za zdravo prehrano narekujejo zmernost v količini ter raznolikost pri izbiri živil in sestavi jedi. Le na ta način lahko dosežemo in vzdržujemo optimalno glikemijo, zagotovimo dovolj vseh hranilnih snovi, dosežemo pri mlajših ljudeh s sladkorno boleznijo primerno rast in razvoj, pozneje pa primerno vzdrževanje telesne teže (Širca Čampa, 2007).</p>
+    <p xml:id="pb20.p9" xml:lang="sl">Tudi telesna dejavnost je za bolnike s sladkorno boleznijo pomemben del zdravljenja in samokontrole. Telesno dejavnost naj bi izvajali vsak dan ali vsaj vsak drugi dan, vsakič vsaj po 30 minut ali več. Rekreacija samo ob koncu tedna v zdravstvenem smislu ni kaj prida učinkovita. Telesna dejavnost mora biti prilagojena bolnikovim zmožnostim in interesom (Mrevlje, 2005).</p>
+    <p xml:id="pb20.p10" xml:lang="sl">Bistvenega pomena je, da je bolnik seznanjen s progresivnostjo njegove bolezni.</p>
+    <p xml:id="pb20.p11" xml:lang="sl">Potrebno mu je razložiti, da bo sčasoma potreboval vedno bolj intenzivno zdravljenje z zdravili, čeprav je že dovolj discipliniran pri prehrani in vzdrževanju telesne teže. Z razlago mu pomagamo odpraviti občutek krivde, da se ni zavzemal dovolj za nefarmakološko zdravljenje, torej za zdrav način življenja.</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">Po teoriji Virginie Henderson sta pri bolnikih s sladkorno boleznijo, pri katerih je pomembno učenje in pridobivanje znanj ob uvajanju insulinskega zdravljenja ali zdravljenja s tabletami bistveni življenjski dejavnosti učenje in komuniciranje. Z učenjem bolnika namreč navadimo biti samostojen s svojo boleznijo, hkrati pa ga naučimo tudi zdravega načina življenja.</p>
+    <p xml:id="pb21.p2" xml:lang="sl">Po teoriji Dorotheae E. Orem je naloga medicinske sestre, da ugotovi, kaj lahko bolnik s sladkorno boleznijo stori sam, medicinska sestra pa naredi le tisto, česar sam ne zmore (Pajnkihar, 1999). Poudarjena je tudi vzgojno-izobraževalna funkcija medicinske sestre, da bolnika s sladkorno boleznijo nauči biti samostojen. Pri obravnavi bolnika s sladkorno boleznijo medicinska sestra nastopa kot edukatorica, ki bolnika vodi, mu svetuje, ga usmerja in uči o sladkorni bolezni. Sladkorna bolezen zahteva samooskrbo na več področjih, kot so: vbrizgavanje insulina, merjenje sladkorja v krvi, upoštevanje navodil zdrave prehrane, redno gibanje in zmanjšanje telesne mase.</p>
+    <p xml:id="pb21.p3" xml:lang="sl">Zelo pomembno je vključevanje družinskih članov in prijateljev v zdravstveno vzgojni program skupaj z bolnikom, če medicinska sestra presodi, da bolnik ni zmožen samostojne samooskrbe pri vodenju sladkorne bolezni (Peklaj, 2006, str. 845 – 848).</p>
+    <p xml:id="pb21.p4" xml:lang="sl">3.5 Zapleti pri sladkorni bolezni</p>
+    <p xml:id="pb21.p5" xml:lang="sl">Zaplete sladkorne bolezni delimo na akutne in kronične. Akutni zaplet sladkorne bolezni pomeni vsako nenadno ali nepredvideno poslabšanje presnove, ki ga pri vseh oblikah označuje nenaden hud porast glukoze v krvi, kar spremljajo različni drugi laboratorijski in klinični znaki. Do akutnega poslabšanja lahko pride pri vseh oblikah sladkorne bolezni, in to ne glede na zdravljenje.</p>
+    <p xml:id="pb21.p6" xml:lang="sl">3.5.1 Akutni zapleti sladkorne bolezni Poznamo tri vrste akutnih zapletov sladkorne bolezni:</p>
+    <p xml:id="pb21.p7" xml:lang="sl">- hiperglikemični sindrom (HS),</p>
+    <p xml:id="pb21.p8" xml:lang="sl">- diabetična ketoacidoza (DKA),</p>
+    <p xml:id="pb21.p9" xml:lang="sl">- diabetični hiperosmolarni aketotični sindrom (DHAS).</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">Vedno moramo opredeliti osnovni vzrok, ki je privedel do akutnega zapleta. Če ga je povzročila druga akutna bolezen, jo zdravimo v skladu z njeno doktrino. Kadar gre za novoodkrito sladkorno bolezen ali opustitev zdravljenja že znane bolezni, moramo bolnika ali njegove svojce napotiti na temeljito edukacijo, da bi se v prihodnje izognili takim nevarnim poslabšanjem sladkorne bolezni (Mrevlje, 2006).</p>
+    <p xml:id="pb22.p2" xml:lang="sl">3.5.2 Kronični zapleti sladkorne bolezni Okvare ožilja</p>
+    <p xml:id="pb22.p3" xml:lang="sl">Med kronične zaplete sladkorne bolezni spadajo spremembe na velikih žilah (makroangiopatija) in malih žilah (mikroangiopatija, kjer so prizadete arteriole, kapilare in venule). Mikroangiopatija je značilna samo za sladkorne bolnike.</p>
+    <p xml:id="pb22.p4" xml:lang="sl">Makroangiopatija (predvsem ateroskleroza) je pri sladkornih bolnikih pogostejša, ni pa specifična. Hiperglikemija je osnovni patogenetični dejavnik za razvoj kroničnih zapletov sladkorne bolezni. Predvsem prizadene tkiva, v katerih presnova ni odvisna od insulina, in sicer: oči (mrežnico, lečo), ledvice, živce in arterije. To so organi in tkiva, kjer se razvijejo mikroangiopatija, makroangiopatija in nevropatija (Koselj, 2006).</p>
+    <p xml:id="pb22.p5" xml:lang="sl">Kronični zapleti sladkorne bolezni se običajno pojavijo 5 do 10 let po začetku bolezni, popolno se razvijejo nekako po 25 letih bolezni. Pri tipu 2 jih lahko najdemo že ob odkritju bolezni (Krajnc in Pečovnik Balon, 2000).</p>
+    <p xml:id="pb22.p6" xml:lang="sl">Diabetična retinopatija</p>
+    <p xml:id="pb22.p7" xml:lang="sl">Diabetično retinopatijo imajo bolniki s tipom 1 in 2 ter drugimi tipi sladkorne bolezni.</p>
+    <p xml:id="pb22.p8" xml:lang="sl">Je mikroangiopatija na mrežnici sladkornega bolnika in najpogostejši vzrok za novonastalo slabovidnost ali slepoto med odraslimi. Dejavniki tveganja za diabetično retinopatijo so trajanje sladkorne bolezni, hiperglikemija in arterijska hipertenzija.</p>
+    <p xml:id="pb22.p9" xml:lang="sl">Druge očesne bolezni pri sladkornem bolniku:</p>
+    <p xml:id="pb22.p10" xml:lang="sl">- katarakta in refrakcijske motnje,</p>
+    <p xml:id="pb22.p11" xml:lang="sl">- primarni glavkom,</p>
+    <p xml:id="pb22.p12" xml:lang="sl">- pareza očesnih žicev (Koselj, 2006).</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">Diabetična nefropatija</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Pri diabetični nefropatiji pride do zadebelitve bazalne membrane v glumerulih, mezanglij se razraste. Ledvična telesca propadejo in pride do odpovedi delovanja ledvic (Krajnc in Pečovnik Balon, 2000).</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Diabetična nefropatija se razvije pri sladkorni bolezni tipa 1 in 2. Je kronična specifična okvara ledvic zaradi sladkorne bolezni. Število bolnikov s končno ledvično odpovedjo zaradi diabetične nefropatije strmo narašča.</p>
+    <p xml:id="pb23.p4" xml:lang="sl">V Sloveniji in v svetu ima kar polovica bolnikov, ki na novo vstopajo v program nadomestnega zdravljenja končne ledvične odpovedi, sočasno tudi sladkorno bolezen.</p>
+    <p xml:id="pb23.p5" xml:lang="sl">Glede na funkcionalne in morfološke spremembe delimo diabetično nefropatijo v pet stadijev:</p>
+    <p xml:id="pb23.p6" xml:lang="sl">- stadij I: hiperfunkcija in hipertrofija (stanje na začetku sladkorne bolezni);</p>
+    <p xml:id="pb23.p7" xml:lang="sl">- stadij II: klinično prikrite funkcijske in morfološke spremembe (pojavijo se po približno petih letih sladkorne bolezni);</p>
+    <p xml:id="pb23.p8" xml:lang="sl">- stadij III: začetna nefropatija (pojavi se 5 do 15 let po začetku sladkorne bolezni);</p>
+    <p xml:id="pb23.p9" xml:lang="sl">- stadij IV: klinično zaznavna nefropatija (pojavi se 5 do 25 let po odkritju sladkorne bolezni);</p>
+    <p xml:id="pb23.p10" xml:lang="sl">- stadij V: ledvična odpoved (nastopi do 35. leta trajanja sladkorne bolezni).</p>
+    <p xml:id="pb23.p11" xml:lang="sl">Druge ledvične bolezni pri sladkornem bolniku:</p>
+    <p xml:id="pb23.p12" xml:lang="sl">- okužba spodnjih sečil,</p>
+    <p xml:id="pb23.p13" xml:lang="sl">- pielonefritis,</p>
+    <p xml:id="pb23.p14" xml:lang="sl">- papilarna nekroza,</p>
+    <p xml:id="pb23.p15" xml:lang="sl">- zožitev ledvičnih arterij,</p>
+    <p xml:id="pb23.p16" xml:lang="sl">- glomerulonefritis (Mrevlje, 2005, str. 712 - 716).</p>
+    <p xml:id="pb23.p17" xml:lang="sl">Diabetična nevropatija</p>
+    <p xml:id="pb23.p18" xml:lang="sl">Diabetična nevropatija je najbolj razširjena nevropatija. Prizadane periferno in avtonomno živčevje. Po nekaj letih jo najdemo pri obeh tipih sladkorne bolezni.</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">Periferna nevropatija se razvija počasi, bolniki občutijo mravljince in krče v nogah, ki jih pogosto pečejo, jih mrazi jih, lahko izgubijo občutek za toploto in dotik.</p>
+    <p xml:id="pb24.p2" xml:lang="sl">Avtonomna nevropatija prizadene simpatično in parasimpatično živčevje. Pojavijo se lahko motnje znojenja, motnje v delovanju prebavil, sečil… zdravljenje je simptomatično (Krajnc in Pečovnik Balon, 2000).</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Klasifikacija diabetične nevropatije</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Po prisotnosti kliničnih znakov delimo diabetično nevropatijo na generalizirane in žariščne diabetične nevropatije.</p>
+    <p xml:id="pb24.p5" xml:lang="sl">1. Generalizirane diabetične nevropatije:</p>
+    <p xml:id="pb24.p6" xml:lang="sl">- simetrična senzomotorična nevropatija,</p>
+    <p xml:id="pb24.p7" xml:lang="sl">- simetrična proksimalna nevropatija spodnjih udov,</p>
+    <p xml:id="pb24.p8" xml:lang="sl">- avtonomna nevropatija.</p>
+    <p xml:id="pb24.p9" xml:lang="sl">2. Žariščne diabetične nevropatije:</p>
+    <p xml:id="pb24.p10" xml:lang="sl">- kranialne nevropatije,</p>
+    <p xml:id="pb24.p11" xml:lang="sl">- radikulopatija in pleksopatije,</p>
+    <p xml:id="pb24.p12" xml:lang="sl">- utesnitvene nevropatije (Koselj, 2006).</p>
+    <p xml:id="pb24.p13" xml:lang="sl">Kardiovaskularna avtonomna nevropatija</p>
+    <p xml:id="pb24.p14" xml:lang="sl">Ima jo približno 20% sladkornih bolnikov z obema tipoma sladkorne bolezni. Prognoza bolnika s kardiovaskularno avtonomno nevropatijo je slaba. Sladkorni bolniki, ki imajo kardiovaskularno avtonomno nevropatijo umirajo petkrat pogosteje. Tudi smrt zaradi srčnega infarkta ali motnje srčnega ritma je pogosta (Koselj, 2006).</p>
+    <p xml:id="pb24.p15" xml:lang="sl">Diabetična noga</p>
+    <p xml:id="pb24.p16" xml:lang="sl">Diabetična noga je skupina sindromov, pri katerih nevropatija, ishemija in okužba pripeljejo do propada tkiva, kar ima za končno posledico gangreno ali celo amputacijo.</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">Izguba okončine je ena najhujših posledic sladkorne bolezni. Zapleti v zvezi z diabetično nogo so najpogostejši razlog za sprejem v bolnišnico, saj se prav pri sladkornih bolnikih opravi približno 50% vseh netravmatičnih amputacij.</p>
+    <p xml:id="pb25.p2" xml:lang="sl">Na nastanek diabetične noge najpomembneje vplivajo kronični zapleti sladkorne bolezni (nevropatija, angiopatija), svoje pa prispevajo tudi drugi dejavniki tveganja za žilne okvare (arterijska hipertenzija, hiperlipidemija, kajenje).</p>
+    <p xml:id="pb25.p3" xml:lang="sl">Tveganje za amputacijo še povečajo poškodbe, okužbe ter neustrezna nega in nestrokovna pedikura, ki jo izvajajo bodisi slabo poučeni bolniki bodisi neprimerno usposobljeni pedikerji.</p>
+    <p xml:id="pb25.p4" xml:lang="sl">Glede na prevladujoče spremembe delimo diabetično nogo na nevropatično in nevroishemično. Izolirano ishemijo, brez spremljajoče nevropatije, srečamo v praksi le redko. V klinični sliki nevropatične noge so vodilni znaki, ki so posledica okvare živčevja. Pri nevroishemični nogi so v ospredju znaki motene arterijske prekrvavitve (hladna, cianotična in marmorirana koža, trofične motnje, odsotni stopalni pulzi, bolečine v mečih pri hoji) ob bolj ali manj izraženi nevropatiji (Urbanič Rovan, 2006).</p>
+    <p xml:id="pb25.p5" xml:lang="sl">Urbanič Rovan (2006) navaja, da zdravljenje diabetičnega stopala obsega tri skupine ukrepov:</p>
+    <p xml:id="pb25.p6" xml:lang="sl">1.) Preventiva razjed:</p>
+    <p xml:id="pb25.p7" xml:lang="sl">- vzgoja bolnikov, svojcev in zdravstvenega osebja,</p>
+    <p xml:id="pb25.p8" xml:lang="sl">- redna nega nog,</p>
+    <p xml:id="pb25.p9" xml:lang="sl">- ustrezna obutev,</p>
+    <p xml:id="pb25.p10" xml:lang="sl">- v vseh ambulantah redno pregledovanje nog sladkornih bolnikov.</p>
+    <p xml:id="pb25.p11" xml:lang="sl">2.) Zdravljenje razjed:</p>
+    <p xml:id="pb25.p12" xml:lang="sl">- počitek in razbremenitev,</p>
+    <p xml:id="pb25.p13" xml:lang="sl">- toaleta rane,</p>
+    <p xml:id="pb25.p14" xml:lang="sl">- redno prevezovanje,</p>
+    <p xml:id="pb25.p15" xml:lang="sl">- zdravljenje okužbe,</p>
+    <p xml:id="pb25.p16" xml:lang="sl">- pravočasna napotitev h kirurgu.</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">3.) Rehabilitacija med zdravljenjem razjede in po njej ter po amputaciji.</p>
+    <p xml:id="pb26.p2" xml:lang="sl">Zapleti z diabetično nogo se lahko pojavijo pri vsakem bolniku, ki ima sladkorno bolezen, čeprav se zdravi le z dieto in ima krvni sladkor dobro urejen. Nobena, še tako majhna poškodba noge ni nepomembna, saj lahko zelo hitro pride do okužbe, gangrene in izgube okončine (Urbančič Rovan, 2006).</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">4 ZDRAVSTVENA VZOJA BOLNIKOV S SLADKORNO BOLEZNIJO O PREHRANI PRI SLADKORNI BOLEZNI</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Zdravstvena vzgoja bolnikov s sladkorno boleznijo je osnova za zdravljenje njihove bolezni. Njen cilj je usposobiti sladkornega bolnika za dejavno sodelovanje v zdravljenju lastne bolezni. Za dosego tega je potrebna posameznikova motivacija.</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Zdravstvena vzgoja se pogosto začne s svetovanjem in si prizadeva, da bi posameznik imel zdravje za največjo vrednoto, izoblikoval pozitivna stališča do zdravja in jih tudi uresničil. Pri zdravstveni vzgoji bolnikov s sladkorno boleznijo ima, zraven zdravnika, zelo pomembno vlogo tudi medicinska sestra.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Za uspešno svetovanje mora svetovalec pridobiti bolnika za sodelovanje, zato mora vedeti čim več o sladkorni bolezni, znati vešče komunicirati, imeti pedagoške sposobnosti in biti splošno razgledan.</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Pomemben del zdravstvene vzgoje je namenjen zdravi, uravnoteženi prehrani, ki varuje in krepi zdravje, preprečuje nastanek bolezni in jih tudi zdravi. Zdrava prehrana je osnova zdravljenja sladkorne bolezni (Bohnec et al., 2006).</p>
+    <p xml:id="pb27.p6" xml:lang="sl">Sodobno zdravljenje sladkorne bolezni je večplastno. Sestavljeno je iz dietne prehrane, vzgoje in izobraževanja, telesne aktivnosti, samokontrole ter zdravljenja s tabletami in/ali insulinom. Nekdaj je bila dietna prehrana bolnika s sladkorno boleznijo polna prepovedi. Sodobna dietna prehrana temelji na načelih zdrave, uravnotežene prehrane in je prilagojena potrebam, zmožnostim in interesom posameznika (Širca Čampa, 2007).</p>
+    <p xml:id="pb27.p7" xml:lang="sl">Nizko kalorična dietna prehrana pri ljudeh s povečanim tveganjem zmanjšuje odpornost insulina in preprečuje sladkorno bolezen tipa 2.</p>
+    <p xml:id="pb27.p8" xml:lang="sl">Dieta z malo ogljikovimi hidrati in več maščobami sodi med alternativne diete, vendar lahko ima povečanje maščob v dietni prehrani škodljive učinke ter zelo slabo vpliva na zmanjševanje teže (Bradley et al., 2009).</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">4.1 Uravnotežena prehrana</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Bistvenega pomena za ohranjanje zdravja je zdrava in uravnotežena prehrana, ki predstavlja tudi pomemben dejavnik urejanja sladkorne bolezni. Prehranjevati se zdravo in uravnoteženo ne pomeni jesti več sadja in zelenjave. Zdrava prehrana je celovitejša sprememba. Da je hrana uravnotežena, sta pomembni količina in razmerje hranljivih snovi v obroku in tudi vse, kar vpliva na dinamiko dotekanja hranljivih snovi v presnovni sistem ter s tem na hormonsko in encimsko stanje organizma (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Prehrana bolnika s sladkorno boleznijo se bistveno ne razlikuje od zdrave prehrane, vendar je pomembnost le te mnogo večja, saj so bolniki s sladkorno boleznijo bolj podvrženi tveganju za žilne bolezni. Prehrana mora biti urejena. Pri izbiri in sestavi jedi priporočila narekujejo zmernost, saj le na ta način dosežemo in vzdržujemo optimalno glikemijo, zagotovimo dovolj vseh hranilnih snovi in primerno vzdržujemo telesno težo. Celodnevno prehrano sestavlja pet rednih obrokov (trije glavni in dve malici), ki so enakomerno časovno porazdeljeni, da presnova naenkrat ni preveč obremenjena. Obrokov načeloma ne izpuščamo, saj to lahko vodi v prenajedanje ter posledično v povečevanje telesne teže in debelost (Blatnik et al., 2008, str. 85 – 90).</p>
+    <p xml:id="pb28.p4" xml:lang="sl">Slika 1: Prehranska piramida</p>
+    <p xml:id="pb28.p5" xml:lang="sl">Vir: Prehranska piramida (vzajemci.com, 2009).</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Prehranska piramida je nazoren prikaz prehranskih priporočil, ki so rezultat številnih raziskav v svetu. Piramida usmerja predvsem v izbiro živil, ki so za zdravje najustreznejša. Prikazuje primerno razmerje živil v prehrani s poudarkom na zmanjšanju vidnih in skritih maščob ter zvečanju količine zelenjave in sadja.</p>
+    <p xml:id="pb29.p2" xml:lang="sl">Piramida spodbuja uživanje pestre hrane, s katero dobimo potrebne hranilne snovi in hkrati ustrezno količino kalorij. Sestavlja jo pet glavnih prehranskih skupin. Vsaka od skupin vsebuje nekatere hranilne snovi, ne pa vseh, ki jih potrebujemo. Zato živila iz ene skupine ne morejo nadomestiti živil iz druge skupine. Za dobro zdravje potrebujemo živila iz vseh skupin. Na vrhu piramide so živila z več maščob in dodanih sladkorjev, to so maščobe, olja in slaščice. Pri uživanju teh živil moramo biti zmerni, pri izboru živil iz ostalih treh skupin pa moramo biti pozorni na vse skrite maščobe in sladkorje, ki so skriti v njih. Pomembno je, da se naučimo natančno brati sestavo kupljenih živil (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb29.p3" xml:lang="sl">Cilji prehranskih priporočil za sladkornega bolnika</p>
+    <p xml:id="pb29.p4" xml:lang="sl">- dolgoročno ohranjanje zdravja,</p>
+    <p xml:id="pb29.p5" xml:lang="sl">- preprečevanje poznih zapletov sladkorne bolezni,</p>
+    <p xml:id="pb29.p6" xml:lang="sl">- čim boljši nadzor nad glikemijo (normoglikemija 4-7 mmol/l),</p>
+    <p xml:id="pb29.p7" xml:lang="sl">- normalna rast in normalen razvoj.</p>
+    <p xml:id="pb29.p8" xml:lang="sl">Hranilna sestava obrokov pri sladkorni bolezni</p>
+    <p xml:id="pb29.p9" xml:lang="sl">Pravilno prehranjevanje pomeni jesti uravnoteženo hrano, bogato z energijo in s hranilnimi snovmi, ki so v njej zastopane v naslednjem razmerju:</p>
+    <p xml:id="pb29.p10" xml:lang="sl">- 45-50% ogljikovih hidratov,</p>
+    <p xml:id="pb29.p11" xml:lang="sl">- 15-20% beljakovin,</p>
+    <p xml:id="pb29.p12" xml:lang="sl">- 30-35% maščob.</p>
+    <p xml:id="pb29.p13" xml:lang="sl">Obrok mora vsebovati:</p>
+    <p xml:id="pb29.p14" xml:lang="sl">- pretežno sestavljene ogljikove hidrate - škrobna živila,</p>
+    <p xml:id="pb29.p15" xml:lang="sl">- jedi z veliko dietnih vlaknin,</p>
+    <p xml:id="pb29.p16" xml:lang="sl">- vsakič zelenjavo in/ali sadje,</p>
+    <p xml:id="pb29.p17" xml:lang="sl">- beljakovinska živila z manj maščobe (npr. pusto meso),</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">- čim manj nasičenih maščob živalskega izvora,</p>
+    <p xml:id="pb30.p2" xml:lang="sl">- čim manjšo količino enostavnih ogljikovih hidratov.</p>
+    <p xml:id="pb30.p3" xml:lang="sl">Takšen obrok je uravnotežen in raznolik ter organizmu zagotavlja dovolj energije in hranilnih snovi (Širca Čampa, 2007).</p>
+    <p xml:id="pb30.p4" xml:lang="sl">4.1.1 Ogljikovi hidrati</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Ogljikovi hidrati so glavni vir energije v telesu, saj se med presnovo pretvorijo v glukozo, edini sladkor, ki prehaja v kri. Presežek glukoze se shranjuje kot rezerva v obliki glikogena v mišicah in jetrih. V prehrani so pomembni tisti ogljikovi hidrati, ki zvišujejo vrednost glukoze v krvi počasi in imajo manjšo osmozno aktivnost. To so škrobna živila.</p>
+    <p xml:id="pb30.p6" xml:lang="sl">Vrste ogljikovih hidratov</p>
+    <p xml:id="pb30.p7" xml:lang="sl">Ogljikove hidrate delimo (glede na število molekul) na:</p>
+    <p xml:id="pb30.p8" xml:lang="sl">- monosaharide (enostavni sladkorji),</p>
+    <p xml:id="pb30.p9" xml:lang="sl">- disaharide (sestavljeni sladkorji),</p>
+    <p xml:id="pb30.p10" xml:lang="sl">- polisaharide (sestavljeni sladkorji).</p>
+    <p xml:id="pb30.p11" xml:lang="sl">Monosaharidi so preprosto zgrajeni ogljikovi hidrati z eno samo molekulo. Sem spadajo:</p>
+    <p xml:id="pb30.p12" xml:lang="sl">- glukoza ali grozdni sladkor,</p>
+    <p xml:id="pb30.p13" xml:lang="sl">- fruktoza ali sadni sladkor,</p>
+    <p xml:id="pb30.p14" xml:lang="sl">- manoza.</p>
+    <p xml:id="pb30.p15" xml:lang="sl">Disaharidi so iz dveh molekul monosaharidov sestavljeni ogljikovi hidrati. Sem spadajo:</p>
+    <p xml:id="pb30.p16" xml:lang="sl">- saharoza (trsni ali pesni sladkor),</p>
+    <p xml:id="pb30.p17" xml:lang="sl">- maltoza (sadni sladkor),</p>
+    <p xml:id="pb30.p18" xml:lang="sl">- laktoza (mlečni sladkor).</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Polisaharidi so iz veliko molekul monosaharidov sestavljeni ogljikovi hidrati. Sem spadajo:</p>
+    <p xml:id="pb31.p2" xml:lang="sl">- škrob,</p>
+    <p xml:id="pb31.p3" xml:lang="sl">- dekstrin,</p>
+    <p xml:id="pb31.p4" xml:lang="sl">- glikogen,</p>
+    <p xml:id="pb31.p5" xml:lang="sl">- dietne vlaknine,</p>
+    <p xml:id="pb31.p6" xml:lang="sl">- netopne balastne snovi (celuloza, hemiceluloza, lignin),</p>
+    <p xml:id="pb31.p7" xml:lang="sl">- v vodi topne balastne snovi (pektin, rastlinske gume, balastne snovi, ki so prisotne v sadju, zelenjavi, žitih in stročnicah) (Pokorn, 1999).</p>
+    <p xml:id="pb31.p8" xml:lang="sl">Enako pomembna kot izbira ogljikovih hidratov je pogostost njihovega uživanja.</p>
+    <p xml:id="pb31.p9" xml:lang="sl">Ogljikovi hidrati vplivajo na porast ravni sladkorja v krvi po vsakem obroku, ki ga zaužijemo. Bolniki s sladkorno boleznijo morajo to upoštevati in izbrati ogljikohidratna živila, ki ne povzročajo hitrega dviga ravni sladkorja v krvi (izdelki iz polnovredne moke in živila, bogata s škrobom) (Warshaw in Kulkarni, 2001).</p>
+    <p xml:id="pb31.p10" xml:lang="sl">Še pred kratkim je v zgodovini zdravljenja sladkorne bolezni veljalo, da bolniki s sladkorno boleznijo ne smejo jesti ogljikohidratnih živil. Danes vemo, da je delež energije, ki jo dobimo iz ogljikovih hidratov, prenizek in delež sladkorjev previsok.</p>
+    <p xml:id="pb31.p11" xml:lang="sl">Zato mora bolnik s sladkorno boleznijo upoštevati nekatera priporočila, kot so: ogljikohidratna živila mora razporediti skozi ves dan, povečati mora energijski delež iz kompleksnih ogljikovih hidratov in zmanjšati delež iz sladkorjev (posebno iz saharoze) ter obroke hrane razdeliti na 3- do 5-krat na dan. Tako se izogne preveliki obremenitvi trebušne slinavke naenkrat.</p>
+    <p xml:id="pb31.p12" xml:lang="sl">Živila z ogljikovimi hidrati, ki se hitro prebavljajo in hitro dvigajo raven sladkorja v krvi niso priporočljiva za bolnike s sladkorno boleznijo. To so:</p>
+    <p xml:id="pb31.p13" xml:lang="sl">- živila, ki vsebujejo enostavne sladkorje (kuhinjski sladkor, živila in pijače, ki vsebujejo sladkor: marmelada, med, sladkarije…) in</p>
+    <p xml:id="pb31.p14" xml:lang="sl">- nekatero sadje: rozine, fige, dateljni, grozdje, ananas, večje količine sadnih sokov, mleka…</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">Enostavni sladkorji zvišujejo raven trigliceridov v krvi, kar lahko privede do srčno- žilnih obolenj, enako tudi vplivajo na dvig ravni holesterola in sečne kisline v krvi (arterioskleroza in nekatere oblike artritisa zaradi nalaganja protina) (Pokorn, 1999).</p>
+    <p xml:id="pb32.p2" xml:lang="sl">Sladila</p>
+    <p xml:id="pb32.p3" xml:lang="sl">K sladilom prištevamo: med, sladkor, sladkorne nadomestke (fruktoza, sorbitol, manitol, ksilitol), umetna sladila (aspartam, saharin, ciklamat).</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Po priporočilih zdrave prehrane ni zaželeno uživanje sladkorja, saj le-ta povzroči nenadzorovan dvig ravni sladkorja. To še posebej velja za bolnike s sladkorno boleznijo, saj bi jim sladkor povzročal velike preglavice pri delovanju trebušne slinavke, ki že tako izloči premalo insulina ali pa ga sploh ne. Bolniki s sladkorno boleznijo si lahko pomagajo s sladkornimi nadomestki ali umetnimi sladili. K temu je treba dodati, naj omenjena sladila tudi zdravi ljudje uživajo v čim manjši meri, če pa že, je dobro, da hkrati uporabljajo različna sladila v majhnih količinah.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">Sladkorni nadomestki imajo nižjo energijsko vrednost. Pri njihovi razgradnji insulin ne sodeluje. V telo se vsrkavajo počasi in ne povzročijo hitrega dviga ravni sladkorja. V večjih količinah povzročajo drisko, uživati pa jih smemo v majhnih količinah v več manjših obrokih z veliko tekočine.</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Umetna sladila so umetno pridobljene kemične snovi, katerih sestava ni ogljikohidratna in nimajo energijske vrednosti. Sodobnejši izraz zanje je nekalorična oz. neenergijska živila (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb32.p7" xml:lang="sl">Prehranske vlaknine</p>
+    <p xml:id="pb32.p8" xml:lang="sl">V prehrani so pomembne tudi prehranske vlaknine, ki so sestavine rastlinske hrane.</p>
+    <p xml:id="pb32.p9" xml:lang="sl">Prehranske vlaknine bakterije v črevesu deloma razgradijo v maščobne kisline s kratkimi verigami. To povzroči znižanje pH-vrednosti vsebine črevesa in črevesni sluznici služijo kot hranljive snovi. Pomembne so tudi zaradi preprečevanja številnih bolezni, kot so rak na debelem črevesu, žolčni kamni, čezmerna telesna masa, povišana raven holesterola, sladkorna bolezen… (Širca Čampa, 2007).</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Glikemični indeks</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Glikemični indeks je razmerje med površino pod krivuljo povečanja vrednosti sladkorja v krvi po zaužitju testnega obroka in površino krivulje povečanja koncentracije sladkorja v krvi po zaužiti glukozi ali standardnem živilu (beli kruh), merjeno pri isti osebi in izraženo v odstotkih.</p>
+    <p xml:id="pb33.p3" xml:lang="sl">Glikemični indeks nam pove, kako hitro in za koliko bo po zaužiti hrani raven sladkorja v krvi porasla in nato padla. Hitrejša je sprememba (višji indeks), slabše je, in počasnejša je sprememba (nižji indeks), bolje je.</p>
+    <p xml:id="pb33.p4" xml:lang="sl">Danes je glikemični indeks dejavnik, ki pomaga pri preventivi, zdravljenju in kontroliranju sladkorne bolezni, bolezni srca in čezmerni telesni masi, uporabljajo pa ga tudi športniki, estetski atleti, in tudi vsi tisti, ki si želijo zmanjšati delež maščob v telesu (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb33.p5" xml:lang="sl">4.1.2 Beljakovine</p>
+    <p xml:id="pb33.p6" xml:lang="sl">Prehranske beljakovine oskrbujejo telo z aminokislinami in drugimi dušikovimi spojinami, potrebnimi za nastajanje telesu lastnih beljakovin. Beljakovine v telesu so pomembne za zaščito, so sestavni del hormonov (npr. insulina), encimov in življenjskih sokov.</p>
+    <p xml:id="pb33.p7" xml:lang="sl">Vrste beljakovin Beljakovine delimo na:</p>
+    <p xml:id="pb33.p8" xml:lang="sl">- enostavne in</p>
+    <p xml:id="pb33.p9" xml:lang="sl">- sestavljene.</p>
+    <p xml:id="pb33.p10" xml:lang="sl">Enostavne beljakovine (ali proteini) so sestavljeni samo iz aminokislin. Delimo jih na:</p>
+    <p xml:id="pb33.p11" xml:lang="sl">- prave beljakovine in</p>
+    <p xml:id="pb33.p12" xml:lang="sl">- skeletne beljakovine.</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">Sestavljene beljakovine (ali proteidi) so sestavljene iz beljakovinskega in nebeljakovinskega dela (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb34.p2" xml:lang="sl">Najnovejša prehranska priporočila priporočajo pokritje 15-20% dnevnih potreb po energiji z beljakovinami. Polovico teh potreb pokrivamo z beljakovinami živalskega izvora, polovico pa z beljakovinami rastlinskega izvora. Hranilne vrednosti beljakovinskih živil živalskega in rastlinskega izvora se med seboj dopolnjujejo in le skupaj prinašajo veliko biološko vrednost ter dober izkoristek.</p>
+    <p xml:id="pb34.p3" xml:lang="sl">Beljakovine živalskega izvora najdemo v mesu (izbiramo puste kose mesa, perutnini odstranimo kožo), mesnih izdelkih, ribah, morskih sadežih, jajcih, mleku, siru in skuti.</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Beljakovine rastlinskega izvora so v polnovrednih žitih in izdelkih iz njih, stročnicah, oreščkih in soji.</p>
+    <p xml:id="pb34.p5" xml:lang="sl">Beljakovinska živila razporedimo enakomerno v vse dnevne obroke. Večje količine lahko uvrstimo v obrok po končani izrazitejši telesni dejavnosti. To pomeni v večerni obrok hrane, če smo telesno dejavni pozno popoldne.</p>
+    <p xml:id="pb34.p6" xml:lang="sl">Prevelike količine beljakovinskih živil v obroku in hkrati majhna količina ogljikovih hidratov (npr. polnovredne testenine) lahko vodijo v hipoglikemijo v uri do dveh po obroku, več ur po obroku pa pripeljejo do povečanja vrednosti glukoze v krvi (Širca Čampa, 2007).</p>
+    <p xml:id="pb34.p7" xml:lang="sl">4.1.3 Maščobe</p>
+    <p xml:id="pb34.p8" xml:lang="sl">Maščobe telo potrebuje v taki količini, da je zagotovljena potrebna količina esencialnih maščobnih kislin (linolna in alfalinolenska kislina). Potrebne so tudi pri izredno velikih potrebah po energiji za povečanje energijske gostote obroka hrane. Njihova energijska vrednost je skoraj dvakrat večja kot pri ogljikovih hidratih in beljakovinah.</p>
+    <p xml:id="pb34.p9" xml:lang="sl">Glede na izvor delimo maščobe na rastlinske in živalske. Delimo jih tudi na prave maščobe ali lipide in maščobam podobne snovi ali lipoide.</p>
+    <p xml:id="pb34.p10" xml:lang="sl">Z maščobami torej organizmu zagotovimo nujno potrebne esencialne maščobne kisline, gradnike celičnih sten, tvorce žolčnih soli in medij za vitamine (A, D, E, K), topne v maščobah.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">Če hrana vsebuje izredno malo maščob, se vitamini, topni v maščobah, ne morejo absorbirati iz črevesja v limfo. Podobno kot ogljikove hidrate tudi maščobe lahko delimo na »dobre« in »slabe«.</p>
+    <p xml:id="pb35.p2" xml:lang="sl">»Slabe« maščobe</p>
+    <p xml:id="pb35.p3" xml:lang="sl">»Slabe« jim pravimo zato, ker se nam za njihov vnos ni treba prav nič truditi. S hrano jih, če ne pazimo, hitro zaužijemo celo preveč. Posledica so povišan, tako imenovani slabi LDL-holesterol in trigliceridi v krvi, krive pa so tudi za srčno-žilne zaplete. Te maščobe imenujemo tudi nasičene maščobe. Prisotne so v mastnem mesu, mesnih izdelkih, sirih, polnomastni skuti, maslu, smetani, jajcih in morskih sadežih.</p>
+    <p xml:id="pb35.p4" xml:lang="sl">Da nasičenih maščob v organizem ne vnašamo v prevelikih količinah, je dovolj že preprost ukrep: vso vidno maščobo pri mesu odstranimo, uživamo kakovostne mesne izdelke, manj mastne sire, posneto skuto, maslo nadomestimo s kakovostno margarino, smetano uporabljamo le kot začimbo.</p>
+    <p xml:id="pb35.p5" xml:lang="sl">»Dobre« maščobe</p>
+    <p xml:id="pb35.p6" xml:lang="sl">Sem sodijo enkrat in večkrat nenasičene maščobe, ki jih s prehrano v telo po navadi ne vnašamo v zadostni količini. V večini primerov je za to kriv strah pred dodajanjem maščob hrani. Med te maščobe sodita linolna in alfalinolenska maščobna kislina, ki sta esencialni. Poglavitni vir linolne kisline so sončnično, koruzno, olivo in sojino olje.</p>
+    <p xml:id="pb35.p7" xml:lang="sl">Alfalinolenska kislina je v olju repice, pšeničnih kalčkov in v maščobi mastnih morskih rib. Da bi zadostili potrebam organizma po obeh esencialnih maščobah, je smiselno zmešati več vrst olja (npr. olivno, repično in sončnično) ali pa jih vsaj izmenično uporabljati. Maščobo vključujemo v obroke vedno skupaj z ogljikovimi hidrati in beljakovinskimi živili (Širca Čampa, 2007).</p>
+    <p xml:id="pb35.p8" xml:lang="sl">4.1.4 Vitamini</p>
+    <p xml:id="pb35.p9" xml:lang="sl">Vitamini so esencialne hranilne snovi, ki jih dobimo s hrano. V telesu opravljajo različne pomembne naloge: so biokatalizatorji, ščitijo organizem, omogočajo normalno delovanje organizma. Zaradi nepravilnega uživanja vitaminov lahko zbolimo. Za pravilno delovanje telesa potrebujemo 15 vitaminov.</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">Glede na topnost delimo vitamine v dve skupini:</p>
+    <p xml:id="pb36.p2" xml:lang="sl">- topni v vodi so vitamini skupine B (B1, B2, niacin, folna kislina, B6, pantotenska kislina, B12), C in H (biotin);</p>
+    <p xml:id="pb36.p3" xml:lang="sl">- topni v maščobah so vitamini A, D, E in K.</p>
+    <p xml:id="pb36.p4" xml:lang="sl">Posebnega pomena so antioksidanti, saj pomagajo preprečevati škodljive učinke snovi, ki nastanejo pri prebavi in presnovi. Najpomembnejši antioksidanti v hrani so vitamin E, nekateri karoteni, vitamin C, od mineralnih snovi pa selen.</p>
+    <p xml:id="pb36.p5" xml:lang="sl">Diabetiki naj bi uživali sadje in zelenjavo različnih vrst, posebno temno zelenolistnato zelenjavo, križnice in rumeno-oranžne vrste, ter različne vrsta sadja, posebno citruse ter temno rumene in oranžne vrste sadja. Pri uživanju sadja morajo biti bolniki s sladkorno boleznijo zmerni, uživajo naj predvsem sadje, ki ne vsebuje veliko sladkorja.</p>
+    <p xml:id="pb36.p6" xml:lang="sl">Priporočljivo je predvsem jabolko (za prebavo) in jagodičje (velika vsebnost antocianov - antioksidanti) ter drugo sadje temno modre barve (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb36.p7" xml:lang="sl">Precejšnjo vlogo pri izgradnji glikogena ima biotin. Pomemben je pri glukoneogenezi, pri kateri se lahko od 16 do 22 aminokislin pretvori v glukozo, kar je nadvse pomembno za izravnavanje nivoja sladkorja v krvi. Biotin sodeluje z insulinom, in sicer tako, da zažene glukokinazo, ta pa je zaganjalnik motorja za presnovo glukoze.</p>
+    <p xml:id="pb36.p8" xml:lang="sl">Glukokinaza nastaja v jetrih, skladišču biotina, kar je pomembno za diabetike, ki imajo v jetrih malo glukokinaze. Znanstveniki so ugotovili, da se pri sladkornih bolnikih s posebnimi dodatki biotina presnova glukoze znatno izboljša (Oberbeil, 2002).</p>
+    <p xml:id="pb36.p9" xml:lang="sl">Poškodbe živcev, ki so značilne za bolnike s sladkorno boleznijo, so podobne kot pri pomanjkanju vitamina B12. Nekateri znanstveniki so prepričani, da motnje v presnovi B12 pri bolnikih s sladkorno boleznijo še poslabšajo poškodbe živcev, zato je jemanje dodatkov zanje smiselno (Ursell, 2003).</p>
+    <p xml:id="pb36.p10" xml:lang="sl">Sladkor v krvi pomagajo uravnovešati buče, ki spodbujajo delovanje trebušne slinavke.</p>
+    <p xml:id="pb36.p11" xml:lang="sl">Tudi grah in kumare omogočajo enakomernejšo raven sladkorja v krvi in tako razbremenijo trebušno slinavko. Čičerika vsebuje fitinske kisline, ki zmanjšujejo sprejem rudnin in vplivajo na presnovo ogljikovih hidratov, tako da upočasnjujejo sproščanje glukoze v krvi, kar je presnovna pomoč bolnikom s sladkorno boleznijo (Cortese, 2005a).</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">4.1.5 Minerali</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Človeško telo vsebuje 70 elementov, 22 makro in mikroelementov je za življenje nujno potrebnih. Mineralne snovi so anorganske snovi in pri sežigu ostanejo v obliki pepela.</p>
+    <p xml:id="pb37.p3" xml:lang="sl">Minerali so pomembni za delovanje vseh telesnih organov in procesov. Sodelujejo pri zgradbi:</p>
+    <p xml:id="pb37.p4" xml:lang="sl">- kosti in zob (kalcij in fosfor),</p>
+    <p xml:id="pb37.p5" xml:lang="sl">- krvnega barvila ali hemoglobina (železo) in</p>
+    <p xml:id="pb37.p6" xml:lang="sl">- pri nastanku hormonov (jod).</p>
+    <p xml:id="pb37.p7" xml:lang="sl">Mineralne snovi se med seboj razlikujejo po količini v telesu in pomenu za telo.</p>
+    <p xml:id="pb37.p8" xml:lang="sl">Delimo jih na:</p>
+    <p xml:id="pb37.p9" xml:lang="sl">- makroelemente: kalcij, fosfor, magnezij, kalij in natrij; količinsko jih v telesu potrebujemo več;</p>
+    <p xml:id="pb37.p10" xml:lang="sl">- mikroelemente: železo, baker, selen, kobalt, mangan, cink in jod (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb37.p11" xml:lang="sl">Pomanjkanje magnezija lahko pri bolnikih s sladkorno boleznijo povzroči bolezni srca, težave z ledvicami in poškodbe živcev, saj je magnezij pomemben za prenos glukoze in tudi za sproščanje insulina (Pressman in Buff, 2000).</p>
+    <p xml:id="pb37.p12" xml:lang="sl">Nekatere raziskave kažejo, da raven sladkorja v krvi povprečno upade za 18 odstotkov, če bolniki s sladkorno boleznijo zaužijejo 200 mg kromovega tripikolinata na dan.</p>
+    <p xml:id="pb37.p13" xml:lang="sl">Dodatna količina kroma naj bi pomagala odpraviti tako pomanjkanje kroma v prehrani kot slabšo absorpcijo (Ursell, 2003).</p>
+    <p xml:id="pb37.p14" xml:lang="sl">4.1.6 Pijače</p>
+    <p xml:id="pb37.p15" xml:lang="sl">Voda je življenjsko pomembno živilo za človeka ter za ves biološki svet. Je najpomembnejša sestavina v telesu in predstavlja 69 do 75 odstotkov človekovega telesa. Za človekov obstoj je nujno potrebna, saj vemo, da brez vode ne moremo preživeti več kot tri dni.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">S hrano in pijačo naj bi v telo vnesli dva in pol litra vode na dan. Nekaj vode telo tudi samo ustvari v presnovnih procesih in jo je mogoče znova uporabiti (oksidacijska voda).</p>
+    <p xml:id="pb38.p2" xml:lang="sl">Človeško telo nima zalog vode, zato mora izločeno vodo vsak dan nadomestiti. Sveže sadje je dober vir vode. Običajno je v sadežih približno 85% vode, v lubenici pa kar 90%.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">Prav to je vzrok, da se, ko jemo večje količine sadja, zmanjša naša potreba po tekočini.</p>
+    <p xml:id="pb38.p4" xml:lang="sl">Pitna voda je nujen pogoj za zdravje. Kakovost vode je treba stalno nadzorovati s kemijskimi in mikrobiološkimi analizami (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb38.p5" xml:lang="sl">Priporočljivo je, da sladkorni bolniki za žejo pijejo vodovodno ali ustekleničeno vodo, naravno mineralno vodo in/ali nesladkane čaje. Mleko in sadni sok (tudi, če ne vsebuje sladkorja) za gasitev žeje nista primerna. Sadni sokovi so narejeni iz prezrelega sadja in so primeren nadomestek le, če ne moremo uživati svežega sadja. V tem primeru je 100 ml soka brez dodanega sladkorja enako enemu jabolku (Širca Čampa, 2007).</p>
+    <p xml:id="pb38.p6" xml:lang="sl">Bolniki s sladkorno boleznijo in alkohol</p>
+    <p xml:id="pb38.p7" xml:lang="sl">Alkohol pri bolnikih s sladkorno boleznijo znižuje raven sladkorja v krvi, saj ovira sprostitev glukoze iz jeter v času, ko telo potrebuje sladkor.</p>
+    <p xml:id="pb38.p8" xml:lang="sl">To lahko privede do hipoglikemije. Zato je priporočljivo, da bolniki s sladkorno boleznijo alkoholne pijače uživajo med obrokom. Od alkoholov so najnevarnejše žgane pijače, ki močno koncentrirane povzročajo dodatno brazgotinjenje že tako okvarjene trebušne slinavke. Imajo veliko energije, kar je treba upoštevati v dnevnem načrtu prehrane in zaradi alkohola zmanjšati ustrezno količino maščob in ogljikovih hidratov (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb38.p9" xml:lang="sl">Vino je manj problematično, saj starejšim osebam po jedi pospeši prebavo, po večerji pa kozarček vina izboljša prekrvavitev možganov. Pivo je zelo kalorično in po kalorijah velja že za samostojni obrok in bi ob njem lahko uživali le zelenjavo in beljakovine. Vino ne prispeva toliko kalorij, vendar naredi dober apetiti. Zaužit po jedi je manj škodljiv kot pred malico (Justinek in Lovšin, 2006).</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">4.1.7 Začimbe in zelišča</p>
+    <p xml:id="pb39.p2" xml:lang="sl">Pri pripravi jedi dodajamo živilom različne začimbe, ki dajo jedi ustrezen okus. Skoraj vsem jedem dodajamo sol, druga najpogostejša začimba pa je poper. Odrasli zaužijejo 9 do 12 g soli na dan, kar pa že presega priporočila za zdravo prehrano (5 do 6 g na dan). Največ soli zaužijemo v mesnih izdelkih (Pokorn, 2005, str. 53).</p>
+    <p xml:id="pb39.p3" xml:lang="sl">Dišave in začimbe so nepogrešljive v prehrani, saj spodbujajo tek in močnejše izločanje sline ter želodčnega soka, kar ugodno vpliva na prebavo. Nekatere dišavne snovi izboljšujejo prebavljivost jedi ali delujejo kot konzervansi. Osnova dišavnih snovi so eterična olja, ki so močno hlapljiva in ostrega okusa. Izraz dišavnica uporabljamo za dišavna zelišča, ki rastejo pri nas ter so milega okusa in vonja. To so bazilika, koper, krebuljica, kreša, luštrek, lovor, majaron, timijan, melisa, meta origano, pehtran, pelin, rožmarin, šetraj …</p>
+    <p xml:id="pb39.p4" xml:lang="sl">Začimbe prihajajo iz tropskih krajev ter so po okusu in vonju izrazitejše, nekatere celo pekoče. Sem spadajo poper, kajenski poper, muškatni orešček in cvet, ingver, klinčki, koriander, cimet, vanilja. Za začimbe uporabljamo tudi plodove in semena drugih rastlin, recimo brinove jagode, gorčično seme, janež, kumino, olive… Pri kuhi nam kot sveže začimbe popestrijo okus tudi nekatere vrtnine, kot so česen, čebula, šalotka, feferoni, drobnjak, zelena, peteršilj…</p>
+    <p xml:id="pb39.p5" xml:lang="sl">Uspešnost pri kuhanju se kaže v okusnosti pripravljenih jedi, na katero vplivata izbor in uporaba raznovrstnih zelišč (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb39.p6" xml:lang="sl">4.1.8 Sladkorna bolezen in antioksidanti</p>
+    <p xml:id="pb39.p7" xml:lang="sl">Antioksidanti se uporabljajo kot pomoč lastnemu obrambnemu sistemu, ki je v stanju bolezni bolj obremenjen. V zadnjih nekaj letih je bilo narejenih več kliničnih študij, ki dokazujejo koristnost antioksidantov pri lajšanju težav pri sladkorni bolezni. Pod vodstvom prof. Petra Rohdevalda so v Nemčiji na univerzi v Munstru izvedli študijo o vplivu antioksidantov na sladkorne bolnike. V štiritedenski študiji so preiskovali 60 bolnikov s sladkorno boleznijo tipa 2. Stari so bili od 55 do 68 let in so vsaj tri leta dobivali enega od insulinskih izdelkov.</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">Pol bolnikov je poleg insulina jemalo tudi izvleček mediteranskega bora (Punus maritima) pycnogenol, kot enega najmočnejših antioksidantov, pol bolnikov pa le insulin. Nato so ugotavljali pretoke krvi in občutljivost kože na mehanske dražljaje. Pri bolnikih, ki so štiri tedne jemali pycnogenol, so ugotovili bistveno izboljšanje v prekrvavitvi tkiv, boljšo prevodnost živčnih signalov in zmanjšanje nastanka diabetičnih ran na koži.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">Zanimivo je, da se je po jemanju pycnogenola v odmerku od 50 do 200 mg na dan, primerjalno s skupino bolnikov, ki ga niso jemali, znižal tudi nivo krvnega sladkorja.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">Pycnogenol je prehransko dopolnilo, ki nikakor ni nadomestek standardne terapije.</p>
+    <p xml:id="pb40.p4" xml:lang="sl">Lajša nekatere simptome in izboljšuje fiziološko stanje organizma. Nikakor ga ne smemo zamenjati za kakršnokoli antidiabetično zdravilo (Štrukelj, 2008, str. 99 – 100).</p>
+    <p xml:id="pb40.p5" xml:lang="sl">4.2 Načini prehranjevanja</p>
+    <p xml:id="pb40.p6" xml:lang="sl">Način človekove prehrane lahko razdelimo na tradicionalno prehrano in/ali ljudsko prehrano na določenem območju, prehrano določene skupnosti, ki se prenaša iz roda v rod, oziroma prehrambne navade in običaje, ki so pod vplivom kulturnih in socialno- ekonomskih pogojev. Vzporedno s to obliko prehrane poznamo priporočeno, zdravo prehrano, ki predstavlja najbolj dognan model zdrave prehrane za zdravega in bolnega človeka in ohranja in krepi naše zdravje.</p>
+    <p xml:id="pb40.p7" xml:lang="sl">Številne alternativne oblike prehrane, modne diete ali tudi že ustaljene in znane oblike prehrane, kot sta npr. vegetarijanska in makrobiotična prehrana, predstavljajo izključujoče se možnosti prehrane, ki jih človek sprejme kot del svojega bolj ali manj zdravega ali uživaškega načina življenja (Pokorn, 2004).</p>
+    <p xml:id="pb40.p8" xml:lang="sl">Dolgoročni učinki in varnost modne diete, kot je npr. nizko-ogljikohidratna dieta, na bolnike s sladkorno boleznijo tipa 2 niso popolnoma znani (Sargrad et al, 200d).</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">4.2.1 Alternativni načini prehranjevanja Vegetarijanska prehrana</p>
+    <p xml:id="pb41.p2" xml:lang="sl">Najpogostejši način alternativnega prehranjevanja je vegetarijanstvo. Vegetarijanstvo je kot način življenja in prehranjevanja prisotno že kar nekaj časa in ima mnogo privržencev, ki poudarjajo ugoden vpliv na zdravje in druge prednosti tega načina prehranjevanja in življenja.</p>
+    <p xml:id="pb41.p3" xml:lang="sl">Pojem vegetarijanstvo zajema več znanih, različnih sistemov prehranjevanja:</p>
+    <p xml:id="pb41.p4" xml:lang="sl">- Laktovegetarijanci uživajo poleg žit, sadja in zelenjave tudi mleko in mlečne izdelke.</p>
+    <p xml:id="pb41.p5" xml:lang="sl">Izključujejo meso, perutnino, ribe, morske sadeže in jajca.</p>
+    <p xml:id="pb41.p6" xml:lang="sl">- Laktoovovski vegetarijanci vključujejo v prehrano poleg žit, sadja in zelenjave tudi</p>
+    <p xml:id="pb41.p7" xml:lang="sl">mleko in mlečne izdelke ter jajca. Izključujejo meso, perutnino, ribe in morske</p>
+    <p xml:id="pb41.p8" xml:lang="sl">sadeže.</p>
+    <p xml:id="pb41.p9" xml:lang="sl">- Strogi vegetarijanci (vegans) uživajo le živila rastlinskega izvora (žita, sadje in</p>
+    <p xml:id="pb41.p10" xml:lang="sl">zelenjavo). Zaradi enoličnosti je tak način prehranjevanja lahko škodljiv.</p>
+    <p xml:id="pb41.p11" xml:lang="sl">- Strogi frutarijanci uživajo samo sadje in oreščke (orehe, lešnike, mandeljne…).</p>
+    <p xml:id="pb41.p12" xml:lang="sl">- Zmerni frutarijanci v manjših količinah uživajo tudi zelenjavo in žita.</p>
+    <p xml:id="pb41.p13" xml:lang="sl">Strokovnjaki so mnenja, da je lahko vegetarijanski način prehrane laktoovo sprejemljiv in da lahko skrbno načrtovan posamezniku omogoča zdravo prehranjevanje. Raziskave kažejo manjše tveganje vegetarijancev za nastanek civilizacijskih bolezni, kot so npr. sladkorna bolezen tipa 2, debelost, srčno-žilne bolezni in rak. Vzrok za manjšo pogostost civilizacijskih bolezni ni samo v njihovi prehrani, ampak tudi v načinu življenja, ki je v povprečju bolj zdrav in zmeren kot pri ljudeh z mešano prehrano.</p>
+    <p xml:id="pb41.p14" xml:lang="sl">Vegetarijanci so v povprečju bolj telesno dejavni, popijejo manj alkohola, manj kadijo, kar vse bistveno pripomore k boljšemu zdravju (Pokorn, 1999).</p>
+    <p xml:id="pb41.p15" xml:lang="sl">Med vegetarijanci je polovico manj bolnikov s sladkorno boleznijo kot v skupini mesojedcev. Vegetarijanska prehrana ima več škroba in dietnih vlaknin v primerjavi z mesno prehrano. Žita, sadje, zelenjava, zlasti stročnice po zaužitju hrane in tudi na tešče znižujejo sladkor v krvi.</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">Stročnice, zlasti iz vrst soje, imajo zelo ugoden vpliv pri zniževanju plazemske glukoze oziroma pri preprečevanju in zdravljenju sladkorne bolezni (Whitney et al., 2002).</p>
+    <p xml:id="pb42.p2" xml:lang="sl">Makrobiotična prehrana</p>
+    <p xml:id="pb42.p3" xml:lang="sl">Makrobiotični način prehranjevanja temelji na življenjskem nauku jina in janga, dveh nasprotujočih si elementov, ki se odražata tudi v hrani. Stremi k ravnotežju, tako da hrano tipa jin (rastlinsko) naredi bolj jang (s kuhanjem, soljenjem…) in tipa jang (pretežno živalskega izvora) naredi bolj jin (spremeni v lažjo, hladnejšo, mehkejšo konsistenco).</p>
+    <p xml:id="pb42.p4" xml:lang="sl">Hrana je zdravju koristnejša, ko sta jin in jang v ravnotežju. Če je enega preveč in drugega premalo pride do neravnovesja, kar vodi v bolezen. Hrana jang daje toplotno moč, disciplino in vitalnost. Skrajna hrana jang so rdeče meso, jajca, preslana živila.</p>
+    <p xml:id="pb42.p5" xml:lang="sl">Hrana jih ohlaja, očiščuje, sprošča, pospešuje potrpežljivost; njena živila so med, sladkor, alkohol. Prvo pravilo makrobiotike je uživati majhne količine hrane, v mirnem in sproščenem okolju. Hrano je treba temeljito prežvečiti. Priporočljivo je uživati čim več žit in žitnih izdelkov, stročnic, zelenjave in sadja oziroma čim manj mesa, mastnih živil in sladkarij. Osnovno pravilo makrobiotike je uživati biološko pridelana živila lokalne (domače) oskrbe. Stroga privrženost makrobiotični dieti lahko pripelje tudi do zdravstvenih težav. Če posameznik ne uživa mleka in drugih živil živalskega izvora, se lahko pojavijo pomanjkanje beljakovin, vitamina B12, vitamina D in železa.</p>
+    <p xml:id="pb42.p6" xml:lang="sl">Med alternativne načine prehranjevanja spadajo tudi različne shujševalne diete (Montignacova metoda, Atkinsonova dieta, dieta Zone…).</p>
+    <p xml:id="pb42.p7" xml:lang="sl">Kadar se bolnik s sladkorno boleznijo odloči za katerega izmed alternativnih načinov prehranjevanja, je zelo pomembno, da je seznanjen tudi z učinki, ki so lahko ogrožajoči za njegovo zdravje (Pokorn, 1999).</p>
+    <p xml:id="pb42.p8" xml:lang="sl">4.3 Priprava hrane</p>
+    <p xml:id="pb42.p9" xml:lang="sl">Hrano pripravljamo tako, da kar najbolj ohranimo hranilno in biološko vrednost živil.</p>
+    <p xml:id="pb42.p10" xml:lang="sl">Zaradi napačne priprave hrane je lahko ta revnejša z vitamini in rudninami ali pa izgubi svojo biološko vrednost.</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">Pri pripravi hrane nastanejo nekatere snovi, ki so zdravju škodljive. Ne priporočamo cvrenja, ker se pri cvrenju živilo navzame veliko maščobe, ki se pri višji temperaturi kemično spremeni in škoduje zdravju. Največ vitaminov in rudnin izgubimo med pripravo hrane. Vsi v vodi topni vitamini, torej vitamin C in vitamini skupine B, se, če živila dalj časa splakujemo in kuhamo, izlužijo v vodo. Največ vitaminov in rudnin izgubimo pri kuhanju v večji količini vode, ki jo po kuhi zavržemo. Rudnine se med kuhanjem ne morejo uničiti, se pa izlužijo skupaj s sokom živila. Znatno manj mineralov se izgubi z dušenjem. Zato je priporočljivo kuhati v posodi, kjer lahko hrano pripravljajmo brez maščob.</p>
+    <p xml:id="pb43.p2" xml:lang="sl">Če kuhamo brez vode in dodajanja soli, hrana obdrži svojo obliko in sestavine, ki so za zdravje pomembne. Kuhanje ne zahteva dosoljevanja, ker snovi, ki se izlužijo iz živila, same dajo hrani dovolj soli (Bohnec in Semolič Valič, 2006).</p>
+    <p xml:id="pb43.p3" xml:lang="sl">Čim več hrane, zlasti sadja in zelenjave, užijmo sveže, od termičnih načinov pa so najprimernejši:</p>
+    <p xml:id="pb43.p4" xml:lang="sl">• Kuhanje:</p>
+    <p xml:id="pb43.p5" xml:lang="sl">- v majhni količini vode,</p>
+    <p xml:id="pb43.p6" xml:lang="sl">- v sopari,</p>
+    <p xml:id="pb43.p7" xml:lang="sl">- v aluminijasti foliji,</p>
+    <p xml:id="pb43.p8" xml:lang="sl">- pod zvišanim pritiskom.</p>
+    <p xml:id="pb43.p9" xml:lang="sl">• Dušenje:</p>
+    <p xml:id="pb43.p10" xml:lang="sl">- brez dodane vode ali dušenje v lastnem soku,</p>
+    <p xml:id="pb43.p11" xml:lang="sl">- z dodano maščobo,</p>
+    <p xml:id="pb43.p12" xml:lang="sl">- z malo dodane maščobe in vode.</p>
+    <p xml:id="pb43.p13" xml:lang="sl">• Pečenje:</p>
+    <p xml:id="pb43.p14" xml:lang="sl">- v ponvah,</p>
+    <p xml:id="pb43.p15" xml:lang="sl">- v teflonskih posodah,</p>
+    <p xml:id="pb43.p16" xml:lang="sl">- v pečici,</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">- v pečici v foliji za pečenje,</p>
+    <p xml:id="pb44.p2" xml:lang="sl">- v pečici s suho vročino,</p>
+    <p xml:id="pb44.p3" xml:lang="sl">- na žaru in ražnju (Cortese, 2005b).</p>
+    <p xml:id="pb44.p4" xml:lang="sl">4.4 Merjena prehrana</p>
+    <p xml:id="pb44.p5" xml:lang="sl">Bolniku s sladkorno boleznijo svetujemo posebno prehrano. To je zdravilna, zdrava prehrana, ki priporoča oziroma odsvetuje posamezna živila, vendar ni dieta s polno prepovedi. Zdrava prehrana narekuje način prehranjevanja za zmanjšanje aterogenih dejavnikov za vsakogar, prehrana za sladkornega bolnika pa dodatno svetuje uporabo ogljikohidratnih živil, ki povzročajo čim manjši porast glukoze v krvi.</p>
+    <p xml:id="pb44.p6" xml:lang="sl">Zdravstvenovzgojno svetovanje zdrave prehrane za sladkorne bolnike je temelj osnovnega zdravljenja za vse, ki imajo sladkorno bolezen tipa 2 in tudi tipa 1 ter za nosečnice z nosečniško sladkorno boleznijo. Z zdravo prehrano želimo pri bolniku s sladkorno boleznijo doseči ureditev vrednosti sladkorja v krvi, dolgoročno pa preprečevati kronične zaplete.</p>
+    <p xml:id="pb44.p7" xml:lang="sl">Prehransko svetovanje mora zajemati naslednje postavke:</p>
+    <p xml:id="pb44.p8" xml:lang="sl">- Količina energije v hrani naj zadosti energijskim potrebam, sočasno pa omogoči uravnavanje telesne teže čim bližje idealni.</p>
+    <p xml:id="pb44.p9" xml:lang="sl">- Največji delež energije naj pokrivajo ogljikovi hidrati, ki čim manj zvišujejo raven sladkorja v krvi.</p>
+    <p xml:id="pb44.p10" xml:lang="sl">- Količina in kakovost maščob naj bo uravnana tako, da karseda zmanjša aterogeni učinek, vendar še zadosti potrebnim količinam esencialnih maščobnih kislin.</p>
+    <p xml:id="pb44.p11" xml:lang="sl">- Beljekovinskih živil naj bo toliko, da je presežen telesni beljakovinski minimum.</p>
+    <p xml:id="pb44.p12" xml:lang="sl">- Hrana naj vsebuje vsaj 20 g/1000 kkal prehranskih vlaknin.</p>
+    <p xml:id="pb44.p13" xml:lang="sl">- Vsebnost vitaminov in mineralov v hrani naj omogoča optimalno presnovo hrane.</p>
+    <p xml:id="pb44.p14" xml:lang="sl">- Za učinkovito zdravilno prehrano je nujna individualna obravnava, to je merjena prehrana, ki upošteva navedene zahteve in je prilagojena posameznikovim potrebam in vrednotam (Medvešček, 2006).</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Načrtovanje merjene prehrane</p>
+    <p xml:id="pb45.p2" xml:lang="sl">Merjeno prehrano je treba načrtovati skupaj z bolnikom. Temelji naj na zgoraj naštetih zahtevah ter upošteva posameznikove socialne, družbene in kulturne zahteve.</p>
+    <p xml:id="pb45.p3" xml:lang="sl">Energijske potrebe izračunamo s podatki o bolnikovi idealni telesni teži (ITT), dnevni telesni obremenitvi, spolu, starosti in dejanski hranjenosti. Oceno telesne teže določimo glede na vrednost indeksa telesne mase (ITM).</p>
+    <p xml:id="pb45.p4" xml:lang="sl">Jedilnik merjene prehrane sestavimo glede na posameznikove energijske potrebe in po energijsko določeni shemi po obrokih, ki so razdeljeni na različne skupine živil.</p>
+    <p xml:id="pb45.p5" xml:lang="sl">Temeljni so pestri obroki, ustrezna priprava živil (dušenje namesto pečenja), majhen delež živil, ki vplivajo na hiter porast sladkorja v krvi, zadosten delež vlaknin in upoštevanje posameznikovih želja. Jedilnik sestavimo po standardnem načrtu za celodnevno prehrano z uporabo preglednice enakovrednih živil, ki je razdeljena v sedem smiselnih skupin, v kateri pomeni živilo eno enoto:</p>
+    <p xml:id="pb45.p6" xml:lang="sl">- mleko in fermentirana mleka,</p>
+    <p xml:id="pb45.p7" xml:lang="sl">- zelenjava,</p>
+    <p xml:id="pb45.p8" xml:lang="sl">- sadje,</p>
+    <p xml:id="pb45.p9" xml:lang="sl">- škrobna živila/stročnice in zamenjave,</p>
+    <p xml:id="pb45.p10" xml:lang="sl">- meso in zamenjave,</p>
+    <p xml:id="pb45.p11" xml:lang="sl">- maščobe in maščobna živila,</p>
+    <p xml:id="pb45.p12" xml:lang="sl">- sladkor in sladka živila (Medvešček, 2006).</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">Tabela 2: Preglednica sestave in energijskih vrednosti enote živil Skupina ogljikovi hidrati (g) beljakovine (g) maščobe (g) kJ kcal</p>
+    <p xml:id="pb46.p2" xml:lang="sl">1. Mleko in fermentirana mleka</p>
+    <p xml:id="pb46.p3" xml:lang="sl">2. Zelenjava 5 2 - 105 25 3. Sadje 15 - - 250 60 4. Škrobna živila 15 2 - 300 70 4a. Stročnice in zamenjave 15 5 - 350 83 5. Meso in zamenjave - pusto meso srednje mastno meso mastno meso</p>
+    <p xml:id="pb46.p4" xml:lang="sl">6. Maščobe in maščobna živila</p>
+    <p xml:id="pb46.p5" xml:lang="sl">7. Sladkor in sladka živila 10 - - 170 40</p>
+    <p xml:id="pb46.p6" xml:lang="sl">Vir: Bohnec et al. (2006, str. 474).</p>
+    <p xml:id="pb46.p7" xml:lang="sl">Vnaprej določeni jedilnik deluje na uporabnika togo, zato ga lahko spremeni znotraj dovoljenega. Lahko zamenja živila, četudi ne sodijo v isto skupino, vendar samo v dovoljenem obsegu. Tako je mogoče zamenjati:</p>
+    <p xml:id="pb46.p8" xml:lang="sl">- 1 enoto sadja z 2 enotama zelenjave,</p>
+    <p xml:id="pb46.p9" xml:lang="sl">- 1 enota mleka z 1 enoto sadja in 1 enoto pustega mesa,</p>
+    <p xml:id="pb46.p10" xml:lang="sl">- 1 enota mleka z 2 enotama zelenjave in 1 enoto pustega mesa.</p>
+    <p xml:id="pb46.p11" xml:lang="sl">Možna je zamenjava tudi v nasprotni smeri (Medvešček in Pavčič, 2002).</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">4.5 Parenteralna prehrana</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Nekateri bolniki s sladkorno boleznijo se soočajo s problemom nezadostnega uživanja hrane in pitja per os, kar lahko privede do nedohranjenosti in izsušenosti. Parenteralna prehrana je eden izmed načinov, s katerim lahko bolniku zagotovimo manjkajoče kalorije in tekočino. Parenteralna in enteralna prehrana morata zadovoljiti bolnikove potrebe, njuna sestava mora biti prilagojena osnovnemu obolenju, sočasnim boleznim in morebitnim zapletom.</p>
+    <p xml:id="pb47.p3" xml:lang="sl">Količinsko in kakovostno ustrezna prehrana je pomemben sestavni del zdravljenja sladkornega bolnika, ki prispeva tudi k njegovi boljši kakovosti življenja. Količinsko in kakovostno nezadosten vnos vodi k izgubi telesne teže in pojavu simptomov, kot so splošna slabost, utrujenost, izguba moči, brezvoljnost. Tak bolnik je dodatno ogrožen, dovzetnejši za okužbe in zaplete spremljajoče bolezni in počasneje okreva. Bolnikom, ki se per os ne hranijo zadovoljivo, morajo uvesti prehrambeno podporo – parenteralno prehrano. Parenteralni pripravek naj bi hitro in enostavno zadovoljil vse kalorične potrebe, hkrati pa naj bi organizem parenteralno infundirano hrano bolje in laže izrabil.</p>
+    <p xml:id="pb47.p4" xml:lang="sl">Parenteralni pripravek je izdelek, ki vsebuje točno določene količine sestavin, je sterilen in apirogen ter fizikalno in kemično stabilen za določeno časovno obdobje. V pripravek lahko dodajamo različne snovi (vitamine, kalij…), vendar pazimo, da ostane stabilen in se kemično ne spremeni. Odločilno vlogo pri izbiri parenteralne prehrane ima zdravnik.</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Pri uvedbi parenteralne prehrane sladkornemu bolniku obstajata dve možnosti:</p>
+    <p xml:id="pb47.p6" xml:lang="sl">- posebej dane infuzije glukoze, aminokislin in lipidov ter</p>
+    <p xml:id="pb47.p7" xml:lang="sl">- vnaprej pripravljena mešanica za 24 ur kot kompletna parenteralna prehrana.</p>
+    <p xml:id="pb47.p8" xml:lang="sl">Zaradi pogostih menjav infuzijskih raztopin uporabljamo steklenice s prostornino 500 ml in 1000 ml. V infuzije (glukozo, fiziološko raztopino ali mešanico obeh) dodajamo kalijev klorid, vitamine in insulin. Odmerek insulina sproti prilagajamo glede na vrednost sladkorja v krvi pred iztekom infuzijske steklenice.</p>
+    <p xml:id="pb47.p9" xml:lang="sl">Količino, vrsto, hitrost in način vnašanja infuzijske raztopine odredi zdravnik za vsakega bolnika posamezno, pri čemer upošteva njegovo klinično stanje, potrebe, starost, telesno maso in spremljajoče bolezni (Vujičič, 2006).</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">4.6 Enteralna prehrana</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Kadar bolniki s sladkorno boleznijo ne morejo zagotoviti vseh prehranskih potreb z običajnim dnevnim vnosom hrane, uporabljamo pripravke enteralne prehrane. Gre za tekoče dietne pripravke za peroralno ali enteralno aplikacijo. Enteralne pripravke lahko bolniki s sladkorno boleznijo uživajo normalno skozi usta, lahko pa se poslužujemo nazo/oro-gastričnih sond. Enteralna hrana ima pred parenteralno številne prednosti. Je manj zapletena, varnejša, cenejša, pomaga vzdrževati celovitost sluznice prebavil in tako preprečuje nastanek razjed (Urlep Žužej, 2005, str. 123 – 131).</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Hranjenje po nazogastrični sondi je najbolj običajen in pogost način enteralnega prehranjevanja bolnika s sladkorno boleznijo. Hrana je načeloma tekoča. Na trgu je več vrst komercialnih sondnih pripravkov, na splošno pa mora hrana ustrezati naslednjim zahtevam: zadostiti mora prehrambenim potrebam bolnika s sladkorno boleznijo; zlahka mora teči po sondi; priprava ne sme biti zapletena. Za bolnike s sladkorno boleznijo se uporablja posebna dieta, ki je prilagojena presnovi bolnika. Ta vsebuje balastne snovi, vsebnost hranilnih snovi pa je določena in uravnotežena. Hrana ne vsebuje neželenih sestavin, kot so gluten, purini, holesterol in laktoza. Pakirana je v stekleničkah po 200 oziroma 500 ml. Hranimo jo pri sobni temperaturi, tako da pred samo uporabo ni potrebna posebna priprava. Hrana, namenjena hranjenju po nazogastrični sondi, vsebuje 16% beljakovin, 32% maščob in 52% ogljikovih hidratov.</p>
+    <p xml:id="pb48.p4" xml:lang="sl">Beljakovine so sestavljene iz mlečnih in sojinih beljakovin. Maščobe sestavljajo sončnično, sojino, ribje in repično olje, lecitin, monogliceridi in mlečne maščobe.</p>
+    <p xml:id="pb48.p5" xml:lang="sl">Ogljikove hidrate pa sestavljajo škrob, rezistentni škrob, soja, inulin. Vlaknine sestavljajo 1,5% enteralne hrane za bolnike s sladkorno boleznijo. Ta hrana je obogatena tudi z antioksidanti (vitaminom C, vitaminom E in karotenoidi). Vsebuje snovi rastlinskega izvora iz sojinih beljakovin, izvlečke zelenega čaja, limone in grozdnih pešk. Povprečna količina te hrane je od 1500 do 2000 ml na dan, to je od 1500 do 2000 kcal na dan (Fritsch, 2006).</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">4.7 Debelost in bolniki s sladkorno boleznijo</p>
+    <p xml:id="pb49.p2" xml:lang="sl">Debelost je kronična, presnovna in socialna bolezen. Je posledica delovanja genetskih dejavnikov, dejavnikov okolja in psihosocialnih vzrokov. Telesna neaktivnost in energijsko gosta hrana (prehrana z veliko maščob in sladkorja in malo sadja in/ali zelenjave) sta med najbolj pomembnimi vzroki debelosti. Prevelika količina zaužite energije, ki preseže porabo, pospešuje nalaganje telesnega maščevja in nastanek debelosti (Pokorn, 2004).</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Debelost pri sladkornih bolnikih tipa 2 zmanjša občutljivost za insulin, poveča hiperglikemijo in dislipidemijo ter zmanjšuje učinkovitost zdravljenja z zdravili.</p>
+    <p xml:id="pb49.p4" xml:lang="sl">Posledica je slabša metabolna urejenost, ki poveča možnost za kronične okvare zaradi sladkorne bolezni in umrljivost (Medvešček in Pavčič, 1999).</p>
+    <p xml:id="pb49.p5" xml:lang="sl">Za izboljšanje in poenotenje strokovnega znanja vseh zdravnikov in diabetoloških enot, so bile leta 2007 v Sloveniji pripravljene smernice za zdravstveno oskrbo bolnikov sladkorno boleznijo tipa 2 (endodiab.org, 2009).</p>
+    <p xml:id="pb49.p6" xml:lang="sl">4.8 Hujšanje</p>
+    <p xml:id="pb49.p7" xml:lang="sl">Pri ljudeh s preveliko telesno težo se sladkorna bolezen tipa 2 največkrat razvije precej prej. Tkiva, na katera deluje insulin, so namreč pri debelih in telesno malo dejavnih ljudeh bolj odporna na njegovo delovanje (Skvarča, 2009).</p>
+    <p xml:id="pb49.p8" xml:lang="sl">Z zmanjšanjem telesne teže pomembno omejimo tveganje za pojav sladkorne bolezni tipa 2 in za bolezni srca in ožilja. Pri bolnikih s sladkorno boleznijo tipa 2 se zaradi zmanjšanja telesne teže znižajo krvni tlak, ravni trigliceridov, LDL in celotnega holesterola, prav tako sladkorja v krvi, poviša pa se raven holesterola HDL v krvi (Zaletel Vrtovec, 2006).</p>
+    <p xml:id="pb49.p9" xml:lang="sl">Če bolnik s sladkorno boleznijo zniža telesno težo le za 3 do 4 odstotke, se bo postopoma, v treh do štirih tednih, začel zniževati tudi krvni sladkor. Hujšanje mora biti postopno, od pol do največ dva kilograma mesečno (Justinek in Lovšin, 2006).</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">4.9 Prehrana bolnika s sladkorno boleznijo in odpovedjo ledvic Pravilno prehranjevanje je za bolnika z ledvično odpovedjo zelo pomemben del nefarmakološkega zdravljenja.</p>
+    <p xml:id="pb50.p2" xml:lang="sl">Pri bolniku s sladkorno boleznijo, čigar ledvice delujejo slabše ali nič več, moramo s prehrano preprečiti kopičenje odpadnih snovi kot so urea, fosfati, kalij, tekočina in sol.</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Preprečevati moramo metabolne zaplete, nadomestiti hranila, ki se izločijo z dializo in zagotoviti normalno stanje prehranjenosti. Pri bolniku s sladkorno boleznijo in ledvično okvaro ne moremo obravnavati uravnavanja krvnega sladkorja s prehrano, ne da bi sočasno namenili posebno pozornost njegovi prehrani zaradi ledvičnega obolenja.</p>
+    <p xml:id="pb50.p4" xml:lang="sl">Ravno tako bi naredili veliko napako, če bi izvajali samo prehrano zaradi ledvičnega obolenja in pozabili urejati raven sladkorja v krvi. Prehranske cilje pri sladkorni bolezni poskušamo združiti s tistimi pri ledvičnem obolenju.</p>
+    <p xml:id="pb50.p5" xml:lang="sl">Načrtovanje prehrane po shemi krožnika je komajda primerno načrtovanje za bolnike s sladkorno boleznijo in kroničnim ledvičnim obolenjem. Iz osnovnega nabora jedi moramo umakniti vsa živila, ki so bogata s fosfati, in omejiti vsa z veliko vsebnostjo kalija. Natančno ocenjevanje zaužitih živil pri tej metodi ni mogoče (Lavrinec, 2006).</p>
+    <p xml:id="pb50.p6" xml:lang="sl">Štetje ogljikovih hidratov pri urejanju sladkorne bolezni</p>
+    <p xml:id="pb50.p7" xml:lang="sl">Metoda štetja ogljikovih hidratov se je v svetu uveljavila pri uporabnikih insulinske črpalke. Je namreč najboljši način za doseganje dobre urejenosti sladkorne bolezni, ki dopolnjuje vrhunske tehnične zmogljivosti insulinske črpalke. S pridom pa je metodo mogoče uporabljati tudi pri zdravljenju s funkcionalno insulinsko terapijo. S štetjem ogljikovih hidratov je mogoče veliko lažje uskladiti obroke hrane s pravilnim odmerkom insulina, potrebnega za kritje posameznega obroka.</p>
+    <p xml:id="pb50.p8" xml:lang="sl">Metoda štetja ogljikovih hidratov je postala dokaj preprosta za uporabo in vsaj osnovne zahteve so razumljive večjemu številu ledvičnih bolnikov. Seveda jo moramo dopolniti še z načeli ledvične diete (Lavrinec in Širca Čampa, 2005).</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">Sheme ledvičnih izbir</p>
+    <p xml:id="pb51.p2" xml:lang="sl">Sheme ledvičnih izbir sodijo med izredno uporabne metode v nefrologiji. Uporabimo jih lahko za načrtovanje prehrane pri bolnikih v preddializnem zdravljenju, nadomestnem zdravljenju s hemodializo in nadomestnem zdravljenju s peritonealno dializo. Prehranska 15-gramska ogljikohidratna zasnova s škrobnimi, visokoenergijskimi in sadnimi živili je zelo uporabna tudi, ko ima bolnik še sladkorno bolezen.</p>
+    <p xml:id="pb51.p3" xml:lang="sl">Živila so razdeljena v različne skupine, ki se medsebojno razlikujejo po povprečni vrednosti energije, beljakovin, ogljikovih hidratov, kalija in fosfatov.</p>
+    <p xml:id="pb51.p4" xml:lang="sl">V okviru posamezne skupine razpolagamo s številnimi izbirami, med katerimi ima vsaka vnaprej določeno količino.</p>
+    <p xml:id="pb51.p5" xml:lang="sl">Mleko in mlečni izdelki, nekateri mesni izdelki, drobovina, rumenjak, stročnice so odličen vir biološko kakovostnih beljakovin in obenem izredno bogati s fosfati. Bolniki s sladkorno boleznijo in kroničnimi ledvičnimi obolenji imajo pogoste težave zaradi hiperfosfatemije, zato je v dnevnem načrtu prehrane dovoljena samo ena oziroma izjemoma dve izbiri teh živil. Pri bolnikih, pri katerih se hiperfosfatemija že pojavlja, živila iz te skupine začasno povsem opustimo. Oreščki in semena vsebujejo izredno veliko maščob, ogljikovih hidratov in beljakovin, a tudi kalija in fosfatov, zato spadajo med nezaželena živila. Vsaka mesna izbira zagotavlja 7 g beljakovin, 4 g maščob in 65 kal ter najmanj 250 mg natrija (lahko tudi veliko več). V skupino škrobne izbire sodijo vse vrste kruha, žit in žitnih izdelkov, testenin, keksov, prepečenca in izbranih sladic.</p>
+    <p xml:id="pb51.p6" xml:lang="sl">Vanjo izjemoma ne uvrščamo suhega fižola in ostalih stročnic, ker vsebujejo izredno velike količine kalija in fosfatov. Zaradi velike vsebnosti fosforja je tudi močno omejeno uživanje otrobov in polnozrnatih živil. Zelenjavo in sadje razdelimo po vsebnosti kalija v štiri skupine. Bolnikom svetujemo redno uživanje sadja in zelenjave iz prvih dveh skupin (čebula, kuhan korenček, paprika, por, beluši, brokoli, cvetača, endivija, borovnice, jabolka…), občasno poseganje po živilih iz tretje skupine - skupine z visoko vsebnostjo kalija (avokado, blitva, ohrovt, paradižnik, banane, češnje, kivi…), živila iz četrte skupine - z izredno veliko vsebnostjo kalija (krompir, kečap, paradižnikov koncentrat, dinja, marelice, črni ribez…) pa naj bodo samo izjemoma na jedilniku.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">Visokoenergijske izbire, kot so koncentrirani sladkorji in prečiščeni ogljikovi hidrati, običajno vsebujejo zelo majhne količine kalija in fosforja, zato jih uporabljamo za pokrivanje energijskih zahtev in za prehrano bolnikov s slabim apetitom. Pri osnovnem izračunavanju predvidevamo, da je hrana pripravljena brez soli. Dovoljeno količino soli dodamo hrani pozneje. Da bo bolnik prehranski načrt razumel, potrebuje kakovostno zdravstveno vzgojo, s katero ga usposobimo za čim bolj samostojno življenje (Obrovnik, 2006).</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">5 EMPIRIČNI DEL</p>
+    <p xml:id="pb53.p2" xml:lang="sl">5.1 Namen in cilji raziskave</p>
+    <p xml:id="pb53.p3" xml:lang="sl">NAMEN</p>
+    <p xml:id="pb53.p4" xml:lang="sl">Namen raziskave je ugotoviti, kakšne so prehranske navade bolnikov s sladkorno boleznijo in kakšen je njihov način življenja.</p>
+    <p xml:id="pb53.p5" xml:lang="sl">CILJI:</p>
+    <p xml:id="pb53.p6" xml:lang="sl">- ugotoviti ali bolniki s sladkorno boleznijo upoštevajo načela zdrave prehrane,</p>
+    <p xml:id="pb53.p7" xml:lang="sl">- ugotoviti ali so bolniki s sladkorno boleznijo dnevno aktivni vsaj 30 minut,</p>
+    <p xml:id="pb53.p8" xml:lang="sl">- ugotoviti ali bolniki s sladkorno boleznijo poznajo zaplete pri sladkorni bolezni,</p>
+    <p xml:id="pb53.p9" xml:lang="sl">- ugotoviti ali sladkorna bolezen vpliva na kvaliteto življenja.</p>
+    <p xml:id="pb53.p10" xml:lang="sl">5.2 Raziskovalna vprašanja</p>
+    <p xml:id="pb53.p11" xml:lang="sl">V diplomski nalogi smo si postavili naslednja raziskovalna vprašanja: 1. Ali bolniki s sladkorno boleznijo upoštevajo načela zdrave prehrane?</p>
+    <p xml:id="pb53.p12" xml:lang="sl">2. Ali bolniki s sladkorno boleznijo vedo katera vrsta hrane najbolj vpliva na dvig krvnega sladkorja?</p>
+    <p xml:id="pb53.p13" xml:lang="sl">3. Ali se bolniki s sladkorno boleznijo zavedajo kako pomembna je telesna aktivnost pri sladkorni bolezni?</p>
+    <p xml:id="pb53.p14" xml:lang="sl">4. Ali jih sladkorna bolezen ovira pri vsakdanjem življenju oz. zmanjšuje kvaliteto življenja?</p>
+    <p xml:id="pb53.p15" xml:lang="sl">5. Ali poznajo zaplete pri sladkorni bolezni?</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">5.3 Metodologija</p>
+    <p xml:id="pb54.p2" xml:lang="sl">5.3.1 Raziskovalne metode</p>
+    <p xml:id="pb54.p3" xml:lang="sl">Pri izdelavi diplomskega dela smo uporabili deskriptivno (opisno) metodo dela.</p>
+    <p xml:id="pb54.p4" xml:lang="sl">Strokovno literaturo, ki obravnava prehrano bolnika s sladkorno boleznijo, smo pridobili s sistematičnim iskanjem v domačih (COBISS) in tujih podatkovnih zbirkah.</p>
+    <p xml:id="pb54.p5" xml:lang="sl">Uporabljali smo vire, ki so dostopni v knjižnicah ali preko svetovnega spleta.</p>
+    <p xml:id="pb54.p6" xml:lang="sl">Pridobljene podatke iz domače in tuje strokovne literature in virov smo sistematično pregledali in kritično analizirali ter jih predstavili v diplomski nalogi. Prav tako so nam bili ti podatki osnova za oblikovanje anketnega vprašalnika. Na osnovi anketnega vprašalnika smo izvedli anketo med 100 bolniki s sladkorno boleznijo.</p>
+    <p xml:id="pb54.p7" xml:lang="sl">5.3.2 Raziskovalni vzorec</p>
+    <p xml:id="pb54.p8" xml:lang="sl">Anketirali smo sto naključno izbranih bolnikov s sladkorno boleznijo, ki so v oktobru in novembru leta 2009 prišli na kurativni pregled v Diabetološko ambulanto zdravstvenega doma Ptuj. Anketirancem smo zagotovili anonimnost, jim razložili namen raziskave, imeli so možnost odklonitve sodelovanja v raziskavi, zbrane podatke pa smo uporabili izključno v namen diplomskega dela.</p>
+    <p xml:id="pb54.p9" xml:lang="sl">Upoštevali smo etična načela Kodeksa etike medicinskih sester in zdravstvenih tehnikov Slovenije.</p>
+    <p xml:id="pb54.p10" xml:lang="sl">5.3.3 Postopki zbiranja podatkov</p>
+    <p xml:id="pb54.p11" xml:lang="sl">Raziskavo smo izvedli v Diabetološki ambulanti zdravstvenega doma Ptuj. Za odobritev in izvedbo raziskave smo zaprosili vodstvo zdravstvenega doma. Podatke smo zbrali s pomočjo anketnega vprašalnika. Anketni vprašalnik vsebuje štiriindvajset vprašanj zaprtega tipa. Zbrane podatke smo med seboj primerjali. Podatke pridobljene z raziskavo smo obdelali ročno in s pomočjo računalniškega programa Microsoft Excel.</p>
+    <p xml:id="pb54.p12" xml:lang="sl">Rezultati anketnega vprašalnika so prikazani grafično s strukturnimi krogi in opisno.</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">6 REZULTATI</p>
+    <p xml:id="pb55.p2" xml:lang="sl">V strukturnih krogih so rezultati prikazani z relativnimi števili, razen pri štiriindvajsetem strukturnem krogu so prikazani z absolutnimi števili.</p>
+    <p xml:id="pb55.p3" xml:lang="sl">Graf 1: Starostna struktura anketiranih.</p>
+    <p xml:id="pb55.p4" xml:lang="sl">1% 10% 34%55% do 25</p>
+    <p xml:id="pb55.p5" xml:lang="sl">26 do 40 41 do 60 nad 60</p>
+    <p xml:id="pb55.p6" xml:lang="sl">1 % anketiranih spada v starostno skupino do 25 let, 10 % anketirancev je starih med 26 in 40 let, 34 % anketirancev od 41 do 60 let, 55 % anketirancev pa je starih nad 60 let.</p>
+    <p xml:id="pb55.p7" xml:lang="sl">Graf 2: Struktura anketiranih po spolu.</p>
+    <p xml:id="pb55.p8" xml:lang="sl">Od vseh anketiranih je bilo 37 % moških in 63 % žensk.</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="sl">Graf 3: Struktura anketiranih po izobrazbi.</p>
+    <p xml:id="pb56.p2" xml:lang="sl">54%38% 5% 3% 0% os novnoš olsk a srednješ ols ka vis okoš ols ka univerzitetna drugo</p>
+    <p xml:id="pb56.p3" xml:lang="sl">Osnovnošolsko izobrazbo ima 54 % anketiranih, srednješolsko 38 %, visokošolsko 5 % in univerzitetno samo 3 % anketiranih.</p>
+    <p xml:id="pb56.p4" xml:lang="sl">Graf 4: Tipi sladkorne bolezni.</p>
+    <p xml:id="pb56.p5" xml:lang="sl">8 % anketiranih ima sladkorno bolezen tipa 1, 91 % anketiranih pa sladkorno bolezen tipa 2. Moteno toleranco za glukozo ima 1 % anketiranih.</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=57">
+    <p xml:id="pb57.p1" xml:lang="sl">Graf 5: Zdravljenje sladkorne bolezni.</p>
+    <p xml:id="pb57.p2" xml:lang="sl">30 % anketiranih se zdravi samo z zdravo prehrano, 20 % z zdravo prehrano in antidiabetičnimi tabletami, 3 % pa se zdravijo samo z antidiabetičnimi tabletami. Z zdravo prehrano in insulinom se jih zdravi 25 %, samo z insulinom se zdravita 2 % anketiranih, z zdravo prehrano, insulinom in antidiabetičnimi tabletami se jih zdravi 20</p>
+    <p xml:id="pb57.p3" xml:lang="sl">Graf 6: Število dnevno zaužitih obrokov.</p>
+    <p xml:id="pb57.p4" xml:lang="sl">23 % anketiranih zaužije dnevno najmanj 5 obrokov, 70 % jih zaužije 3 do 4 obroke dnevno, 7 % anketiranih pa dnevno zaužije manj kot 3 obroke.</p>
+  </page>
+  <page xml:id="pb58" n="58" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=58">
+    <p xml:id="pb58.p1" xml:lang="sl">Graf 7: Pogostost zajtrka pri anketiranih.</p>
+    <p xml:id="pb58.p2" xml:lang="sl">77 % anketiranih bolnikov s sladkorno boleznijo zajtrkuje vsak dan, 15 % jih zajtrkuje 3 do 5 x na teden, 8 % jih zajtrka ne uživa.</p>
+    <p xml:id="pb58.p3" xml:lang="sl">Graf 8: Vrsta kruha, ki jo anketirani najpogosteje uživajo.</p>
+    <p xml:id="pb58.p4" xml:lang="sl">Črn kruh uživa 71 % anketiranih, 9 % anketiranih uživa polnozrnatega, 7 % jih uživa graham kruh, bel kruh pa uživa 13 % anketiranih.</p>
+  </page>
+  <page xml:id="pb59" n="59" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=59">
+    <p xml:id="pb59.p1" xml:lang="sl">Graf 9: Pogostost uživanja ocvrtih jedi.</p>
+    <p xml:id="pb59.p2" xml:lang="sl">1 % anketiranih uživa ocvrte jedi vsak dan, 9 % anketiranih uživa ocvrte jedi 3 x na teden, in 35 % anketiranih 1 x na teden. Kar 47 % anketiranih uživa ocvrte jedi samo 2 do 3 x na mesec, 8 % anketiranih pa ocvrtih jedi sploh ne uživa.</p>
+    <p xml:id="pb59.p3" xml:lang="sl">Graf 10: Maščobe, ki jih anketirani najpogosteje uporabljajo.</p>
+    <p xml:id="pb59.p4" xml:lang="sl">8 % anketiranih največ uporablja olivno olje, 64 % jih največ uporablja rastlinsko olje, 27 % svinjsko mast. Margarino največ uporablja le 1 % anketiranih, masla pa ne uporabljajo.</p>
+  </page>
+  <page xml:id="pb60" n="60" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=60">
+    <p xml:id="pb60.p1" xml:lang="sl">Graf 11: Vrste mesa, ki jih anketirani najpogosteje uživajo.</p>
+    <p xml:id="pb60.p2" xml:lang="sl">24 % anketiranih uživa svinjino, 18 % anketiranih govedino, kar 55 % jih najpogosteje uživa perutnino. Samo 3 % anketiranih najpogosteje uživa divjačino.</p>
+    <p xml:id="pb60.p3" xml:lang="sl">Graf 12: Pogostost uživanja sadja in zelenjave.</p>
+    <p xml:id="pb60.p4" xml:lang="sl">Sadje in zelenjavo uživajo vsi anketirani. 16 % jih uživa sadje in zelenjavo 3 do 5 x na dan, 1 do 2 x na dan jih uživa sadje in zelenjavo kar 66 %, 3 do 5 x na teden 11 %, 1 do 2 x na teden pa 7 % anketiranih.</p>
+  </page>
+  <page xml:id="pb61" n="61" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=61">
+    <p xml:id="pb61.p1" xml:lang="sl">Graf 13: Sladice, ki jih anketirani uživajo.</p>
+    <p xml:id="pb61.p2" xml:lang="sl">Torte in drobno pecivo uživa 31 % anketiranih, 21 % jih uživa slano pecivo, 12 % jih uživa čokolado in bonbone, 14 % jih uživa pecivo za diabetike, 22 % anketiranih pa sladic ne uživa.</p>
+    <p xml:id="pb61.p3" xml:lang="sl">Graf 14: Pogostost uživanja sladic.</p>
+    <p xml:id="pb61.p4" xml:lang="sl">1 % anketiranih uživa sladice vsak dan, 11 % anketiranih 3 do 5 x na teden, 39 % anketiranih 1 do 2 x na teden, 27 % anketiranih 2 do 3 x na mesec, 22 % jih sladic ne uživa.</p>
+  </page>
+  <page xml:id="pb62" n="62" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=62">
+    <p xml:id="pb62.p1" xml:lang="sl">Graf 15: Pijače, ki jih anketirani najpogosteje pijejo.</p>
+    <p xml:id="pb62.p2" xml:lang="sl">61 % anketiranih najpogosteje pije vodo, 6 % jih pije gazirane pijače, 8 % sadne sokove, 25 % anketiranih najpogosteje pije čaj.</p>
+    <p xml:id="pb62.p3" xml:lang="sl">Graf 16: Pogostost uživanja alkohola.</p>
+    <p xml:id="pb62.p4" xml:lang="sl">27 % anketiranih alkohola nikoli ne uživa, 51 % ob posebnih priložnostih, 19 % jih spije kakšen kozarček po kosilu, 3 % pa uživajo alkohol večkrat na dan.</p>
+  </page>
+  <page xml:id="pb63" n="63" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=63">
+    <p xml:id="pb63.p1" xml:lang="sl">Graf 17: Sladila, ki jih anketirani uporabljajo.</p>
+    <p xml:id="pb63.p2" xml:lang="sl">Rjavi sladkor uporablja samo 7 % anketiranih, belega 41 % anketiranih, 52 % anketiranih uporablja umetna sladila.</p>
+    <p xml:id="pb63.p3" xml:lang="sl">Graf 18: Nakup izdelkov primernih za diabetike.</p>
+    <p xml:id="pb63.p4" xml:lang="sl">46 % anketiranih je ob nakupu hrane pozornih na to, da so izdelki primerni za diabetike, 16 % jih na to ni posebej pozornih. 38 % anketiranih je le včasih pozornih na to, da so izdelki primerni za diabetike.</p>
+  </page>
+  <page xml:id="pb64" n="64" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=64">
+    <p xml:id="pb64.p1" xml:lang="sl">Graf 19: Upoštevanje načel zdrave prehrane.</p>
+    <p xml:id="pb64.p2" xml:lang="sl">57 % anketiranih upošteva načela zdrave prehrane, 6 % teh načel ne upošteva, 35 % jih upošteva občasno, 2 % anketiranih pa načel zdrave prehrane ne poznata.</p>
+    <p xml:id="pb64.p3" xml:lang="sl">Graf 20: Izračunavanje dnevne količine kalorij.</p>
+    <p xml:id="pb64.p4" xml:lang="sl">10 % anketiranih dnevno izračunava kalorije, ki jih zaužijejo, kar 77 % jih tega ne počne. 13 % anketiranih izračunava kalorije le včasih.</p>
+  </page>
+  <page xml:id="pb65" n="65" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=65">
+    <p xml:id="pb65.p1" xml:lang="sl">Graf 21: Telesna aktivnost anketiranih vsaj 30 minut dnevno.</p>
+    <p xml:id="pb65.p2" xml:lang="sl">54 % anketiranih je vsak dan telesno aktivnih najmanj 30 minut, 46 % anketiranih pa za telesno aktivnost ne skrbi vsak dan.</p>
+    <p xml:id="pb65.p3" xml:lang="sl">Graf 22: Vrsta hrane, ki najbolj vpliva na dvig sladkorja v krvi.</p>
+    <p xml:id="pb65.p4" xml:lang="sl">27 % anketiranih je mnenja, da na dvig sladkorja v krvi najbolj vplivajo ogljikovi hidrati, 66 % je prepričanih, da so to maščobe, 5 % anketiranih je mnenja, da so to beljakovine, 2 % pa mislita, da so vitamini tisti, ki najbolj povečajo sladkor v krvi.</p>
+  </page>
+  <page xml:id="pb66" n="66" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=66">
+    <p xml:id="pb66.p1" xml:lang="sl">Graf 23: Vpliv sladkorne bolezni na kvaliteto življenja.</p>
+    <p xml:id="pb66.p2" xml:lang="sl">63 % anketiranih je odgovorilo, da sladkorna bolezen bistveno znižuje kvaliteto njihovega življenja, 37 % pa ravno nasprotno, da sladkorna bolezen bistveno ne znižuje kvalitete njihovega življenja.</p>
+    <p xml:id="pb66.p3" xml:lang="sl">Graf 24: Poznavanje zapletov pri sladkorni bolezni.</p>
+    <p xml:id="pb66.p4" xml:lang="sl">Pri zadnjem vprašanju je bilo možnih več pravilnih odgovorov. Od 100 anketiranih bolnikov jih 93 pozna zaplete z očmi, 43 jih je mnenja, da med zaplete sladkorne bolezni sodi izguba spomina, 19 je prepričanih, da med zaplete sodijo tudi želodčne težave. 61 jih pozna zaplete s stopali, 13 je mnenja, da med zaplete sladkorne bolezni sodi slabokrvnost. 19 anketiranih je med zaplete sladkorne bolezni uvrstilo hiperglikemijo, 20 pa hipoglikemijo. 23 jih je mnenja, da med zaplete sodi slabšanje sluha, 66 anketiranih pozna zaplete z ožiljem.</p>
+  </page>
+  <page xml:id="pb67" n="67" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=67">
+    <p xml:id="pb67.p1" xml:lang="sl">6.1 Preverjanje izhodiščnih raziskovalnih vprašanj</p>
+    <p xml:id="pb67.p2" xml:lang="sl">Raziskovalno vprašanje št. 1: Ali bolniki s sladkorno boleznijo upoštevajo načela zdrave prehrane?</p>
+    <p xml:id="pb67.p3" xml:lang="sl">Anketirani bolniki s sladkorno boleznijo ne upoštevajo načel zdrave prehrane. Dobra polovica anketiranih trdi, da pozna in upošteva načela zdrave prehrane, vendar iz nekaterih drugih odgovorov vidimo, da to ne drži. Anketirani še vedno v veliki meri uživajo ocvrte jedi, kar nekaj jih najpogosteje uživa svinjino, pri kuhanju pa uporablja svinjsko mast.</p>
+    <p xml:id="pb67.p4" xml:lang="sl">Raziskovalno vprašanje št. 2: Ali bolniki s sladkorno boleznijo vedo katera vrsta hrane najbolj vpliva na dvig krvnega sladkorja?</p>
+    <p xml:id="pb67.p5" xml:lang="sl">Anketirani bolniki s sladkorno boleznijo ne vedo katera hrana najbolj vpliva na dvig krvnega sladkorja. Samo 27 % anketiranih ve, da so to ogljikovi hidrati, večina je prepričana, da so to maščobe. Nekateri mislijo, da so to beljakovine in vitamini.</p>
+    <p xml:id="pb67.p6" xml:lang="sl">Raziskovalno vprašanje št. 3: Ali se bolniki s sladkorno boleznijo zavedajo kako pomembna je telesna aktivnost pri sladkorni bolezni?</p>
+    <p xml:id="pb67.p7" xml:lang="sl">Anketirani bolniki s sladkorno boleznijo se zavedajo kako pomembna je telesna aktivnost pri sladkorni bolezni. Dobra polovica anketiranih poskrbi 30 minut dnevno za telesno aktivnost, vendar smo ugotovili, da štejejo med telesno aktivnost kakršnokoli aktivnost tekom dneva.</p>
+    <p xml:id="pb67.p8" xml:lang="sl">Raziskovalno vprašanje št. 4: Ali jih sladkorna bolezen ovira pri vsakdanjem življenju oz. zmanjšuje kvaliteto življenja?</p>
+    <p xml:id="pb67.p9" xml:lang="sl">Večino anketiranih bolnikov sladkorna bolezen ovira pri vsakdanjem življenju in bistveno znižuje kvaliteto njihovega življenja.</p>
+  </page>
+  <page xml:id="pb68" n="68" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=68">
+    <p xml:id="pb68.p1" xml:lang="sl">Raziskovalno vprašanje št. 5: Ali poznajo zaplete pri sladkorni bolezni?</p>
+    <p xml:id="pb68.p2" xml:lang="sl">Skoraj vsi anketirani bolniki s sladkorno boleznijo poznajo zaplete z očmi, dobra polovica jih pozna zaplete z ožiljem in stopali, o ostalih zapletih pa niso najbolje osveščeni.</p>
+    <p xml:id="pb68.p3" xml:lang="sl">Ugotovili smo, da bolniki s sladkorno boleznijo dokaj slabo poznajo zaplete pri sladkorni bolezni. Kar nekaj anketiranih je obkrožilo vse možne odgovore, kar pomeni, da zapletov pri sladkorni bolezni ne poznajo.</p>
+  </page>
+  <page xml:id="pb69" n="69" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=69">
+    <p xml:id="pb69.p1" xml:lang="sl">7 RAZPRAVA</p>
+    <p xml:id="pb69.p2" xml:lang="sl">Struktura anketiranih po spolu kaže, da je v raziskavi sodelovalo 63 % žensk in 37 % moških. Največ, 55 % anketiranih je bilo v starostni skupini nad 60 let, 34 % anketiranih med 41 in 60 let, 10 % anketiranih med 26 in 40 let in le eden pod 25 let.</p>
+    <p xml:id="pb69.p3" xml:lang="sl">Večina anketiranih ima sladkorno bolezen tipa 2. Nekaj jih ima sladkorno bolezen tipa 1 in le eden ima moteno toleranco za glukozo. Koselj (2006, str. 47) navaja, da je sladkorna bolezen tipa 2 najpogostejša oblika sladkorne bolezni. Pojavljati se začne po 40. letu, največ pa se je odkrije po 50. letu starosti. V Sloveniji ima med registriranimi bolniki s sladkorno boleznijo 75 % bolnikov sladkorno bolezen in 25 % bolnikov moteno toleranco za glukozo. V skupini bolnikov s sladkorno boleznijo ima 96 % bolnikov tip 2, 3 % tip 1, 1 % je drugih tipov in nosečniške oblike.</p>
+    <p xml:id="pb69.p4" xml:lang="sl">Mrevlje (2006) navaja, da je pri sladkorni bolezni tipa 2 poleg zdrave prehrane najpogostejša terapija z antidiabetičnimi tabletami, ki jih dobiva 50 – 70 % bolnikov.</p>
+    <p xml:id="pb69.p5" xml:lang="sl">Insulin dobivajo vsi bolniki s sladkorno boleznijo tipa 1 in 15 – 20 % bolnikov s sladkorno boleznijo tipa 2. V raziskavi smo ugotovili, da se 30 % anketiranih zdravi samo z zdravo prehrano, 20 % anketiranih se zdravi z zdravo prehrano in antidiabetičnimi tabletami, prav tako se 20 % anketiranih zdravi z zdravo prehrano, antidiabetičnimi tabletami in insulinom.</p>
+    <p xml:id="pb69.p6" xml:lang="sl">Dobra petina anketiranih dnevno zaužije 5 ali več obrokov, večina le 3 do 4 obroke dnevno. Blatnik in sodelavci (2008, str. 85) navajajo, da je priporočljivo jesti več manjših obrokov, in ne manj večjih. Celodnevno prehrano mora sestavljati pet rednih obrokov, ki so enakomerno časovno porazdeljeni.</p>
+    <p xml:id="pb69.p7" xml:lang="sl">Ugotovili smo, da večina anketiranih zajtrkuje vsak dan, najpogosteje uživajo črn kruh.</p>
+    <p xml:id="pb69.p8" xml:lang="sl">Pri kuhanju največ uporabljajo rastlinsko olje, ena tretjina jih še vedno uporablja svinjsko mast. Od mesa največ uživajo perutnino, nekateri tudi svinjino in govedino.</p>
+    <p xml:id="pb69.p9" xml:lang="sl">Sadje in zelenjava sta pri večini na jedilniku dnevno.</p>
+  </page>
+  <page xml:id="pb70" n="70" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=70">
+    <p xml:id="pb70.p1" xml:lang="sl">Anketirani občasno uživajo sladice, najpogosteje pa pijejo vodo. Kar nekaj anketiranih uživa alkohol ob posebnih priložnostih. Slaba polovica anketiranih je pri nakupu hrane pozornih, da so izdelki primerni za diabetike.</p>
+    <p xml:id="pb70.p2" xml:lang="sl">Dobra polovica anketiranih je pozornih na načela zdrave prehrane, 2 pa teh načel ne poznata. Večina anketiranih dnevne količine kalorij, ki jih zaužije ne izračunava.</p>
+    <p xml:id="pb70.p3" xml:lang="sl">Iz tega lahko sklepamo, da imajo anketirani dokaj slabe prehranske navade in le delno upoštevajo načela zdrave prehrane. Razlog za to je slaba poučenost o sladkorni bolezni.</p>
+    <p xml:id="pb70.p4" xml:lang="sl">Na posameznikov način prehranjevanja pa močno vpliva tudi socialno ekonomski status posameznika.</p>
+    <p xml:id="pb70.p5" xml:lang="sl">Le slaba tretjina anketiranih je odgovorila, da na dvig krvnega sladkorja najbolj vplivajo ogljikovi hidrati. Na osnovi tega lahko sklepamo, da so o pomenu ogljikovih hidratov za sladkorno bolezen slabo poučeni.</p>
+    <p xml:id="pb70.p6" xml:lang="sl">Lavrinec in Širca Čampa (2005, str. 7) opisujeta kako zaužitje ogljikovih hidratov povzroči porast sladkorja v krvi. Če bolnik s hrano zaužije preveč ogljikovih hidratov in istočasno ne doda dovolj insulina, nivo krvnega sladkorja neverjetno poraste. Če pa bolnik s hrano zaužije premalo ogljikovih hidratov, odmerek insulina pa ostane enak, se bo nivo sladkorja v krvi najverjetneje preveč znižal, kar lahko vodi do hipoglikemije.</p>
+    <p xml:id="pb70.p7" xml:lang="sl">Vsaj 30 minut na dan za telesno aktivnost poskrbi dobra polovica anketiranih. Kržišnik (2006) navaja, da osnovno zdravljenje sladkorne bolezni tvorita pravilna prehrana in odmerki insulina, vendar je kljub temu treba vsakega posameznika s sladkorno boleznijo spodbujati k redni telesni dejavnosti. Odnos do športne dejavnosti lahko vpliva na bolnikov odnos do zdravja, prehrane in načina življenja, kar posredno pomembno vpliva na urejenost sladkorne bolezni.</p>
+    <p xml:id="pb70.p8" xml:lang="sl">Večina anketiranih od zapletov pri sladkorni bolezni pozna zaplete z očmi. Nekaj jih pozna tudi okvare ožilja in zaplete s stopali. Zelo malo jih je kot akutni zaplet sladkorne bolezni navedlo hiperglikemijo.</p>
+  </page>
+  <page xml:id="pb71" n="71" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=71">
+    <p xml:id="pb71.p1" xml:lang="sl">20 anketiranih bolnikov je kot zaplet sladkorne bolezni navedlo hipoglikemijo, ki pa je v bistvu zaplet zdravljenja sladkorne bolezni. Na osnovi rezultatov raziskave lahko trdimo, da anketirani bolniki dokaj slabo poznajo zaplete sladkorne bolezni.</p>
+    <p xml:id="pb71.p2" xml:lang="sl">Zanimivo je, da vse zdravstvene težave, ki jih imajo anketirani bolniki, pripisujejo sladkorni bolezni. Potrebno je poudariti pomen zdravstvene vzgoje, ki se pogosto začne s svetovanjem in je osnova za zdravljenje in uspešno urejenost sladkorne bolezni. Če bi bili anketirani bolniki bolj osveščeni o sladkorni bolezni in načelih zdrave prehrane, bi se prehranjevali bolj zdravo, posledično imeli bolj urejeni krvni sladkor in s tem manj zapletov zaradi sladkorne bolezni.</p>
+  </page>
+  <page xml:id="pb72" n="72" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=72">
+    <p xml:id="pb72.p1" xml:lang="sl">8 SKLEP</p>
+    <p xml:id="pb72.p2" xml:lang="sl">Sladkorna bolezen je neozdravljiva kronična bolezen. Med ključne dejavnike za nastanek sladkorne bolezni tipa 2 sodi nezdrav življenjski slog, predvsem nezdravo prehranjevanje in nezadostna telesna dejavnost. Zdravljenje sladkorne bolezni je trajno.</p>
+    <p xml:id="pb72.p3" xml:lang="sl">Sladkorna bolezen spada med civilizacijske bolezni oziroma bolezni izobilja.</p>
+    <p xml:id="pb72.p4" xml:lang="sl">Dejavniki, ki povzročajo in pospešujejo nastanek teh bolezni so prisotni v našem življenjskem okolju. Prehrana kot del okolja ima pri tem najpomembnejšo vlogo.</p>
+    <p xml:id="pb72.p5" xml:lang="sl">Zdrava in uravnotežena prehrana je osnova za uspešno nadzorovanje sladkorja v krvi.</p>
+    <p xml:id="pb72.p6" xml:lang="sl">Tako imenovana »diabetična prehrana« ni dieta, ampak zdrav načrt prehranjevanja, primeren za vsakogar. Uravnotežena prehrana torej pomaga nadzorovati raven sladkorja v krvi in vzdrževati telesno težo.</p>
+    <p xml:id="pb72.p7" xml:lang="sl">Z anketo smo med sto naključno izbranimi bolniki s sladkorno boleznijo ugotavljali, kako so seznanjeni s sladkorno boleznijo in njenimi zapleti. Ugotovili smo, da zaplete sladkorne bolezni poznajo dokaj slabo. Večina anketiranih bolnikov dnevno zaužije 3 do 4 obroke, zajtrka skoraj nikoli ne izpustijo. Večina anketiranih ne ve katera hrana najbolj vpliva na porast sladkorja v krvi. Prav tako smo ugotovili, da se dobra polovica anketiranih zaveda pomena telesne aktivnosti. Več kot polovica anketiranih bolnikov je tudi odgovorila, da sladkorna bolezen bistveno znižuje kvaliteto njihovega življenja.</p>
+  </page>
+  <page xml:id="pb73" n="73" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=73">
+    <p xml:id="pb73.p1" xml:lang="sl">ZAHVALA</p>
+    <p xml:id="pb73.p2" xml:lang="sl">Najprej bi se rada zahvalila mentorici predav. Jasmini Nerat, univ. dipl. org., saj mi je veliko pomagala s svojimi nasveti in predlogi, z razumevanjem in potrpljenjem pri nastajanju diplomske naloge.</p>
+    <p xml:id="pb73.p3" xml:lang="sl">Zahvaljujem se osebju Diabetološke ambulante zdravstvenega doma Ptuj za možnost izvedbe ankete, za vse strokovne napotke in informacije.</p>
+    <p xml:id="pb73.p4" xml:lang="sl">Zahvalila bi se tudi svoji družini in fantu, ki so me ves čas študija podpirali in mi stali ob strani.</p>
+  </page>
+  <page xml:id="pb74" n="74" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=74">
+    <p xml:id="pb74.p1" xml:lang="sl">9 LITERATURA IN VIRI</p>
+    <p xml:id="pb74.p2" xml:lang="sl">Blatnik, M et al. Prehrana bolnika z diabetesom v zdravstvenih in drugih ustanovah. V: Lovšin, D (ur). Spremenimo diabetes. Od preventive in zdravljenja do strategije celovitega obvladanja diabetesa: Zbornik nacionalne konference o diabetesu.</p>
+    <p xml:id="pb74.p3" xml:lang="sl">Ljubljana: Zavod za izobraževanje o diabetesu, 2008: 85 – 90.</p>
+    <p xml:id="pb74.p4" xml:lang="sl">Bohnec, M, Klavs, J, Tomažin Šporar, M, Krašovec, A, Žargaj, B. Sladkorna bolezen.</p>
+    <p xml:id="pb74.p5" xml:lang="sl">Ljubljana: Tiskarna Januš, 2006.</p>
+    <p xml:id="pb74.p6" xml:lang="sl">Bohnec, M, Semolič Valič, A. Zdrava in uravnotežena prehrana. V: Bohnec, M et al.</p>
+    <p xml:id="pb74.p7" xml:lang="sl">(ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 367 – 447.</p>
+    <p xml:id="pb74.p8" xml:lang="en">Bradley, U, Spence, M, Courtney, CH, McKinley, MC, Ennis, CN, McCance, DR, McEneny J, Bell, PM, Young, IS, Hunter, SJ. Low-Fat versus Low-Carbohydrate Weight Reduction Diets: Effects on Weight Loss, Insulin Resistance and Cardiovascular Risk A Randomised Control Trial. Belfast: Regional Centre for Endocrinology and Diabetes, Royal Victoria Hospital, August 2009.</p>
+    <p xml:id="pb74.p9" xml:lang="sl">Dostopno na: http://www.ncbi.nlm.nih.gov/pubmed/19720791?ordinalpos=16&amp;itool=EntrezSystem2.</p>
+    <p xml:id="pb74.p10" xml:lang="en">PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DefaultReportPanel.Pubmed_RVDoc Sum (10.8.2009).</p>
+    <p xml:id="pb74.p11" xml:lang="sl">Cizelj Jordan, R. Sladkorna bolezen – nevarnost za sodobnega človeka. V: Lovšin, D (ur). Spremenimo diabetes. Od preventive in zdravljenja do strategije celovitega obvladanja diabetesa: Zbornik nacionalne konference o diabetesu. Ljubljana: Zavod za izobraževanje o diabetesu, 2008: 7.</p>
+    <p xml:id="pb74.p12" xml:lang="sl">Cortese, D. Sadje, zelenjava, zelišča in njihova uporaba. Ljubljana: Samozaložba, 2005a.</p>
+  </page>
+  <page xml:id="pb75" n="75" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=75">
+    <p xml:id="pb75.p1" xml:lang="sl">Cortese, D. Zelenjava. Druga moč naravne hrane. Ljubljana: Kmečki glas, 2005b.</p>
+    <p xml:id="pb75.p2" xml:lang="sl">Fritsch, B. Hranjenje po sondi. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik.</p>
+    <p xml:id="pb75.p3" xml:lang="sl">Ljubljana: Tiskarna Januš, 2006: 544 – 558.</p>
+    <p xml:id="pb75.p4" xml:lang="sl">Jurečič, V. Aktualno stanje in problemi oskrbe diabetikov z zdravili in medicinskimi pripomočki. V: Lovšin, D (ur). Spremenimo diabetes. Od preventive in zdravljenja do strategije celovitega obvladanja diabetesa: Zbornik nacionalne konference o diabetesu.</p>
+    <p xml:id="pb75.p5" xml:lang="sl">Ljubljana: Zavod za izobraževanje o diabetesu, 2008: 37.</p>
+    <p xml:id="pb75.p6" xml:lang="sl">Justinek, D, Lovšin, D. 101 odgovor na vprašanja o diabetesu. Ljubljana: Založba Tales-Lovšin, 2006.</p>
+    <p xml:id="pb75.p7" xml:lang="sl">Kanc Hanžel, K. Hipoglikemija – znana neznanka. Abc zdravja 2009; September: 59 – 61.</p>
+    <p xml:id="pb75.p8" xml:lang="sl">Koselj, M. Definicija, diagnoza, klasifikacija in epidemiologija sladkorne bolezni. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 42 - 47.</p>
+    <p xml:id="pb75.p9" xml:lang="sl">Koselj, M, Medvešček, M, Mrevlje, F. Sladkorna bolezen tipa 2. Ljubljanja: Littera picta, 1999.</p>
+    <p xml:id="pb75.p10" xml:lang="sl">Krajnc, I, Pečovnik Balon, B. Interna medicina. Maribor: Visoka zdravstvena šola, 2000.</p>
+    <p xml:id="pb75.p11" xml:lang="sl">Kramberger, B, Janša, K, Toth, M. Strateški pomen celovitega obvladovanja sladkorne bolezni in drugih kroničnih bolezni ter razvojne strategije ZZZS. V: Lovšin, D (ur).</p>
+    <p xml:id="pb75.p12" xml:lang="sl">Spremenimo diabetes. Od preventive in zdravljenja do strategije celovitega obvladanja diabetesa: Zbornik nacionalne konference o diabetesu. Ljubljana: Zavod za izobraževanje o diabetesu, 2008: 29 - 34.</p>
+  </page>
+  <page xml:id="pb76" n="76" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=76">
+    <p xml:id="pb76.p1" xml:lang="en">Krentz, A. Churchill's pocketbook of diabetes. London: Harcourt Publishers, 2000.</p>
+    <p xml:id="pb76.p2" xml:lang="sl">Kržišnik, C. Značilnosti in preprečevanje sladkorne bolezni tipa 1. V: Bohnec, M et al.</p>
+    <p xml:id="pb76.p3" xml:lang="sl">(ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 65 – 74.</p>
+    <p xml:id="pb76.p4" xml:lang="sl">Lavrinec, J. Prehrana sladkornega bolnika s končno odpovedjo ledvic. V: Bohnec, M et al (ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 564 – 581.</p>
+    <p xml:id="pb76.p5" xml:lang="sl">Lavrinec, J, Širca Čampa, A. Pomen ogljikovih hidratov pri urejanju sladkorne bolezni.</p>
+    <p xml:id="pb76.p6" xml:lang="sl">Ljubljana: Odessa, 2005.</p>
+    <p xml:id="pb76.p7" xml:lang="en">Lebovitz, HE. Therapy for Diabetes Mellitus and Related Disorders. Alexandria:</p>
+    <p xml:id="pb76.p8" xml:lang="sl">American Diabetes Association, 2004.</p>
+    <p xml:id="pb76.p9" xml:lang="sl">Medvešček, M. Značilnosti sladkorne bolezni tipa 2 in možnosti za njeno preprečevanje. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 75 – 82.</p>
+    <p xml:id="pb76.p10" xml:lang="sl">Medvešček, M, Pavčič, M. Prehrana pri zdravljenju z inzulinom s preglednico enakovrednih živil. Ljubljana: Klinični oddelek za endokrinologijo, diabetes in presnovne bolezni, 2002.</p>
+    <p xml:id="pb76.p11" xml:lang="sl">Medvešček, M, Pavšič, M. Sladkorna bolezen: kako živeti z njo: dejstva od A do Ž: 100 receptov za zdravo prehrano. Ljubljana: Litera picta, 1999.</p>
+    <p xml:id="pb76.p12" xml:lang="sl">Mrevlje, F. Sladkorna bolezen. V: Kocijančič, A, Mrevlje, F, Štajer, D et al. (ur).</p>
+    <p xml:id="pb76.p13" xml:lang="sl">Interna medicina. Ljubljana: Littera picta, 2005: 682 – 716.</p>
+  </page>
+  <page xml:id="pb77" n="77" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=77">
+    <p xml:id="pb77.p1" xml:lang="sl">Mrevlje, F. Zdravljenje sladkorne bolezni tipa 2 s peroralnimi antidiabetiki in insulinom. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 94 - 95.</p>
+    <p xml:id="pb77.p2" xml:lang="sl">Oberbeil, K. Do zdravja z zdravo hrano. Ljubljana: Založba Mladinska knjiga, 2002.</p>
+    <p xml:id="pb77.p3" xml:lang="sl">Obrovnik, M. Sladkorni bolnik z odpovedjo ledvic. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik. Ljubljana:Tiskarna Januš, 2006: 559 – 563.</p>
+    <p xml:id="pb77.p4" xml:lang="sl">Pajnkihar, M. Teoretične osnove zdravstvene nege. Maribor: Visoka zdravstvena šola, 1999.</p>
+    <p xml:id="pb77.p5" xml:lang="sl">Peklaj, K. Aplikacija najustreznejše teorije zdravstvene nege na področju sladkorne bolezni. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 845 – 848.</p>
+    <p xml:id="pb77.p6" xml:lang="sl">Pokorn, D. Dietna prehrana bolnika. Ljubljana: Založba Marbona, 2004.</p>
+    <p xml:id="pb77.p7" xml:lang="sl">Pokorn, D. Klasična kuhinja v zdravi prehrani. Celje: Mohorjeva družba, 2005.</p>
+    <p xml:id="pb77.p8" xml:lang="sl">Pokorn, D. S prehrano do zdravja. Ljubljana: Mladinska knjiga, 1999.</p>
+    <p xml:id="pb77.p9" xml:lang="en">Pressman, AH, Buff, S. The Complete Idiot's Guide to Vitamins and Minerals.</p>
+    <p xml:id="pb77.p10" xml:lang="en">Indianapolis: Alpha Books, 2000.</p>
+  </page>
+  <page xml:id="pb78" n="78" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=78">
+    <p xml:id="pb78.p1" xml:lang="en">Sargrad, KR, Homko, C, Mozzoli, M, Boden, G. Effect of high protein against high carbohydrate intake on insulin sensitivity, body weight, hemoglobin A1c, and blood pressure in patients with type 2 diabetes mellitus. Philadelphia: Nutrition Center, Department of Bioscience and Biotechnology, Drexel University, April 2005.</p>
+    <p xml:id="pb78.p2" xml:lang="sl">Dostopno na: http://www.ncbi.nlm.nih.gov/pubmed/15800559?ordinalpos=1&amp;itool=EntrezSystem2.</p>
+    <p xml:id="pb78.p3" xml:lang="en">PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_DiscoveryPanel.Pubmed_Discovery_ RA&amp;linkpos=2&amp;log$=relatedarticles&amp;logdbfrom=pubmed (10.8.2009).</p>
+    <p xml:id="pb78.p4" xml:lang="sl">Skvarča, A. Diabetes in pridružene bolezni. Abc zdravja 2009; Junij: 66 – 67.</p>
+    <p xml:id="pb78.p5" xml:lang="sl">Širca Čampa, A. Prehrana pri sladkorni bolezni. V: Battelino, T, Janež, A (ur).</p>
+    <p xml:id="pb78.p6" xml:lang="sl">Insulinska črpalka. Ljubljana: Littera picta, 2007: 19 – 41.</p>
+    <p xml:id="pb78.p7" xml:lang="sl">Štrukelj, B. Antioksidanti in sladkorna bolezen. V: Lovšin, D (ur). Spremenimo diabetes. Od preventive in zdravljenja do strategije celovitega obvladanja diabetesa: Zbornik nacionalne konference o diabetesu. Ljubljana: Zavod za izobraževanje o diabetesu, 2008: 99 – 100.</p>
+    <p xml:id="pb78.p8" xml:lang="sl">Tomažič M. Sladkorna bolezen v nosečnosti. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 719 – 727.</p>
+    <p xml:id="pb78.p9" xml:lang="sl">Urbančič Rovan, V. Diabetična noga. V: Bohnec, M et al. (ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 176 – 180.</p>
+    <p xml:id="pb78.p10" xml:lang="sl">Urlep Žužej, D. Enteralna prehrana v zdravljenju kronične vnetne črevesne bolezni. V: Mičetić Turk et al. (ur). Klinična prehrana. Maribor: Visoka zdravstvena šola, 2005: 123 – 133.</p>
+    <p xml:id="pb78.p11" xml:lang="sl">Ursell, A. Vitamini in minerali. Ljubljana: Učila, 2003.</p>
+  </page>
+  <page xml:id="pb79" n="79" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=79">
+    <p xml:id="pb79.p1" xml:lang="sl">Vujičič, S. Parenteralna prehrana pri bolniku s sladkorno boleznijo. V: Bohnec, M et al.</p>
+    <p xml:id="pb79.p2" xml:lang="sl">(ur). Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 536 – 543.</p>
+    <p xml:id="pb79.p3" xml:lang="en">Walsh, J, Roberts, R, Varma, C, Bailey, T. Using Insulin. San Diego: Torrey Pines Press, 2003.</p>
+    <p xml:id="pb79.p4" xml:lang="en">Warshaw, HS, Kulkarni, K. Complete guide to carb counting. Canada: Transcontinental Printing, 2001.</p>
+    <p xml:id="pb79.p5" xml:lang="en">Whitney, EN, Cataldo, CB, Rolfes, SR. Vegetarian diet. V: Understanding Normal and Clinical Nutrition. Belmont: Wadsworth Thompson Learning, 2002: 196-202.</p>
+    <p xml:id="pb79.p6" xml:lang="sl">Zaletel Vrtovec, J. Debelost in bolniki s sladkorno boleznijo. V: Bohnec, M et al. (ur).</p>
+    <p xml:id="pb79.p7" xml:lang="sl">Sladkorna bolezen: priročnik. Ljubljana: Tiskarna Januš, 2006: 529 - 535.</p>
+    <p xml:id="pb79.p8" xml:lang="sl">VIRI</p>
+    <p xml:id="pb79.p9" xml:lang="sl">Združenje endokrinologov Slovenije, Klinični oddelek za endokrinologijo, diabetes in presnovne bolezni, Univerzitetni klinični center Ljubljana: Slovenske smernice za zdravstveno oskrbo bolnikov s sladkorno boleznijo tipa 2. Dostopno na: http://www.endodiab.org/Smernice2007.pdf (10.8. 2009).</p>
+    <p xml:id="pb79.p10" xml:lang="sl">Prehranska piramida. Dostopno na: http://vzajemci.com/images/Vzajemci/Slike_FN/Piramide/Prehranska_piramida_379x2 15.gif (15.9.2009)</p>
+  </page>
+  <page xml:id="pb80" n="80" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=80">
+    <p xml:id="pb80.p1" xml:lang="sl">10 PRILOGE</p>
+    <p xml:id="pb80.p2" xml:lang="sl">10.1 Anketni vprašalnik</p>
+    <p xml:id="pb80.p3" xml:lang="sl">ANKETNI VPRAŠALNIK</p>
+    <p xml:id="pb80.p4" xml:lang="sl">Sem Janja Krajnc, študentka Zdravstvene nege na Fakulteti za zdravstvene vede Univerze v Mariboru in delam diplomsko nalogo z naslovom Prehrana pri sladkornem bolniku. Moj namen je ugotoviti kako so bolniki s sladkorno boleznijo seznanjeni s pravilno prehrano pri sladkorni bolezni in ali jo upoštevajo. Anketa je anonimna, odgovori oz. rezultati bodo namenjeni le diplomskemu delu, sodelovanje v raziskavi pa lahko tudi odklonite.</p>
+    <p xml:id="pb80.p5" xml:lang="sl">Navodila za reševanje: pri vsakem vprašanju OBKROŽITE ustrezen odgovor, po potrebi PISNO odgovorite na vprašanje. Pri zadnjem vprašanju je možnih več pravilnih odgovorov.</p>
+    <p xml:id="pb80.p6" xml:lang="sl">1. Starost: a) do 25 b) 26-40 c) 41- 60 d) nad 60 2. Spol: M Ž</p>
+    <p xml:id="pb80.p7" xml:lang="sl">3. IZOBRAZBA: a) osnovnošolska c) visokošolska e) drugo____________ b) srednješolska d) univerzitetna</p>
+    <p xml:id="pb80.p8" xml:lang="sl">4. KATERI TIP SLADKORNE BOLEZNI IMATE? a) tip 1 b) tip 2 c) drugo_____________</p>
+  </page>
+  <page xml:id="pb81" n="81" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=81">
+    <p xml:id="pb81.p1" xml:lang="sl">5. KAKO POTEKA ZDRAVLJENJE VAŠE SLADKORNE BOLEZNI? a) z zdravo prehrano b) z zdravo prehrano in antidiabetičnimi tabletami c) z antidiabetičnimi tabletami d) z zdravo prehrano in insulinom e) z insulinom f) z zdravo prehrano, insulinom in antidiabetičnimi tabletami</p>
+    <p xml:id="pb81.p2" xml:lang="sl">6. KOLIKO OBROKOV DNEVNO ZAUŽIJETE? a) 5 in več b) 3 - 4 c) manj kot 3</p>
+    <p xml:id="pb81.p3" xml:lang="sl">7. KAKO POGOSTO ZAJTRKUJETE? a) vsak dan b) 3-5x na teden c) nikoli</p>
+    <p xml:id="pb81.p4" xml:lang="sl">8. KATERO VRSTO KRUHA NAJPOGOSTEJE UŽIVATE? a) črn kruh b) polnozrnat kruh c) graham d) bel kruh</p>
+    <p xml:id="pb81.p5" xml:lang="sl">9. KAKO POGOSTO UŽIVATE OCVRTE JEDI? a) vsak dan b) 3x na teden c) 1x na teden d) 2-3x na mesec e) ne uživam</p>
+  </page>
+  <page xml:id="pb82" n="82" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=82">
+    <p xml:id="pb82.p1" xml:lang="sl">10. KATERE VRSTE MAŠČOB NAJVEČ UPORABLJATE? a) olivno olje b) rastlinsko olje c) svinjska mast d) margarina e) maslo</p>
+    <p xml:id="pb82.p2" xml:lang="sl">11. KATERE VRSTE MESA NAJPOGOSTEJE UŽIVATE? a) svinjino b) govedino c) perutnino d) divjačino</p>
+    <p xml:id="pb82.p3" xml:lang="sl">12. KAKO POGOSTO UŽIVATE SADJE IN ZELENJAVO? a) 3-5x na dan b) 1-2x na dan c) 3-5x na teden d) 1-2x na teden e) nikoli</p>
+    <p xml:id="pb82.p4" xml:lang="sl">13. KAKŠNE SLADICE UŽIVATE? a) torte, drobno pecivo b) slano pecivo c) čokolada, bomboni d) pecivo za diabetike e) ne uživam sladic</p>
+  </page>
+  <page xml:id="pb83" n="83" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=83">
+    <p xml:id="pb83.p1" xml:lang="sl">14. KAKO POGOSTO UŽIVATE SLADICE? a) vsak dan b) 3-5x tedensko c) 1-2x tedensko d) 2-3x na mesec e) nikoli</p>
+    <p xml:id="pb83.p2" xml:lang="sl">15. KAJ NAJPOGOSTEJE PIJETE? a) vodo b) gazirane pijače c) sadne sokove d) čaj</p>
+    <p xml:id="pb83.p3" xml:lang="sl">16. KAKO POGOSTO UŽIVATE ALKOHOL? a) nikoli b) ob posebnih priložnostih c) kozarček po kosilu d) večkrat na dan</p>
+    <p xml:id="pb83.p4" xml:lang="sl">17. KATERA SLADILA UPORABLJATE ? a) rjavi sladkor b) beli sladkor c) umetna sladila (Saharin)</p>
+    <p xml:id="pb83.p5" xml:lang="sl">18. ALI STE PRI NAKUPU HRANE IN PIJAČE POZORNI NA TO, DA SO IZDELKI PRIMERNI ZA DIABETIKE? a) da b) ne c) včasih</p>
+  </page>
+  <page xml:id="pb84" n="84" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=84">
+    <p xml:id="pb84.p1" xml:lang="sl">19. ALI UPOŠTEVATE NAČELA ZDRAVE PREHRANE? a) da b) ne c) občasno d) jih ne poznam</p>
+    <p xml:id="pb84.p2" xml:lang="sl">20. ALI IZRAČUNAVATE DNEVNO KOLIČINO KALORIJ, KI JIH ZAUŽIJETE? a) da b) ne c) včasih</p>
+    <p xml:id="pb84.p3" xml:lang="sl">21. ALI POSKRBITE VSAJ 30 MINUT NA DAN ZA TELESNO AKTIVNOST? a) da b) ne</p>
+    <p xml:id="pb84.p4" xml:lang="sl">22. KATERA VRSTA HRANE NAJBOLJ VPLIVA NA DVIG KRVNEGA SLADKORJA? a) ogljikovi hidrati b) maščobe c) beljakovine d) vitamini</p>
+    <p xml:id="pb84.p5" xml:lang="sl">23. ALI SLADKORNA BOLEZEN BISTVENO ZNIŽUJE KVALITETO VAŠEGA ŽIVLJENJA? a) da b) ne</p>
+  </page>
+  <page xml:id="pb85" n="85" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8000.pdf#page=85">
+    <p xml:id="pb85.p1" xml:lang="sl">24. KAKŠNI ZAPLETI SE LAHKO POJAVIJO PRI SLADKORNI BOLEZNI?</p>
+    <p xml:id="pb85.p2" xml:lang="sl">(Možnih je več odgovorov.) a) zapleti z očmi f) hiperglikemija b) izguba spomina g) slabšanje sluha c) želodčne težave h) okvare ožilja d) zapleti s stopali i) hipoglikemija e) slabokrvnost Hvala za sodelovanje.</p>
+  </page>
+</document>

@@ -1,0 +1,609 @@
+UNIVERZA V MARIBORU
+EKONOMSKO-POSLOVNA FAKULTETA MARIBOR
+DIPLOMSKO DELO
+STRES NA DELOVNEM MESTU V PODJETJIH JAVNEGA SEKTORJA IN V ZASEBNEM SEKTORJU
+Študent: Tadej Hat Naslov: Borštnikova 26 2000 Maribor
+Številka indeksa: 81550777 Študij: Redni
+Program: Visokošolski strokovni Študijska smer: Management Mentor: prof. dr. Sonja Treven Maribor, marec 2008
+
+PREDGOVOR
+V trenutku, ko sem se znašel pred dejstvom, da je potrebno izbrati temo diplomske naloge, sem se odločal med kar nekaj različnimi stvarmi, katere počnem v življenju. Tudi tekom študija sem se odločal med dvema smerema, in sicer marketingom in managementom.
+Tehtnica se je naposled prevesila v prid managementa, saj sem spoznal, da le-ta zajema širše področje tako v poslovnem svetu splošno kot pri poslovanju nekega podjetja.
+Glede na to, da sem že ves čas študija tudi samostojni podjetnik in se ukvarjam s prodajo oglasnega prostora, založništvom in izdajanjem tiskanih revij, katerih obstoj je v celoti odvisen od marketinga oz. prodaje oglasnega prostora, sem pri izbiri teme diplomske naloge sprva razmišljal v smeri marketinga. Vendar se mi zdi prav, da zaključim ta del študijske poti v smeri, katero sem izbral, torej v okviru managementa.
+Ker sem se že pred tremi leti podal tudi v zavarovalniške vode, kjer sem takrat še kot študent spoznal poslovanje Zavarovalnice Triglav d.d., OE Maribor, danes pa se, sicer honorarno, srečujem s prodajo zavarovanj za zavarovalno agencijo Hil d.o.o., sem se odločil za temo v okviru managementa kadrov, in sicer Stres na delovnem mestu v dveh podjetjih, ki se po lastniški strukturi bistveno razlikujeta. Pri Zavarovalnici Triglav d.d. gre za večinsko državno last, pri podjetju Hil d.o.o. pa za stoodstotno zasebno last dveh partnerjev.
+Temo sem izbral na podlagi izkušenj in dejstev, ki sem jih spoznal najprej pri delu na Zavarovalnici Triglav d.d. ter ob dejstvih, s katerimi se srečujem sedaj pri delu za zavarovalno agencijo Hil d.o.o.. Razlika v organizaciji obeh podjetij je velika, kar je posledično tudi popolnoma normalno, saj podjetji med seboj nista primerljivi ne po velikosti oz. obsegu prometa kot ne po številu zaposlenih. Prav zato sem se za primerjavo podjetij pri Zavarovalnici Triglav d.d. osredotočil le na območno enoto Maribor. Izbrani podjetji pa imata popolnoma enako vlogo pri prodaji zavarovanj.
+Zavarovalnica Triglav d.d. ima namreč v okviru svoje prodajne mreže, torej zaposlenih zastopnikov (prodajalcev storitev), tudi pogodbene partnerje oz. tako imenovane agencije, ki tržijo oz. prodajajo njena zavarovanja oz. storitve. Ena izmed takšnih je tudi zavarovalna agencija Hil d.o.o., ki prodaja zavarovalniške produkte Zavarovalnice Triglav d.d..
+Glede na različno lastništvo izbranih podjetij, zavarovalna agencija Hil d.o.o. je v stoodstotni zasebni lasti, Zavarovalnica Triglav d.d. pa je v večinski državni lasti, so tudi interesi, nadzor in organizacija dela popolnoma različni v obeh izbranih podjetjih. Posledično so tudi prodajni plani naravnani z različnim interesom, saj le-te v zavarovalni agenciji Hil d.o.o. nastavljata neposredno lastnika podjetja, ki pravtako aktivno sodelujeta pri prodaji storitev in v prodaji zavarovalniških storitev vidita lasten interes kapitala, v Zavarovalnici Triglav d.d. pa prodajne plane nastavljajo zaposleni, bodisi so to člani uprave, direktorji področij bodisi vodje sektorjev prodaje na nižjih nivojih kadrovske organizacije.
+Tako je pritisk na prodajalce oz. zastopnike bistveno večji v zavarovalni agenciji Hil d.o.o., kot v Zavarovalnici Triglav d.d.. Ob tem se mi poraja vprašanje, kako je s stresom na delovnem mestu glede na vse razlike in osnovne lastnosti obeh podjetij ter dejstvo, da živimo v obdobju kapitalizma, kjer dobiva vse večji pomen kapital oz. ustvarjen dobiček, sploh v zasebnem sektorju.
+
+Cilj diplomske naloge je tako predstaviti in pokazati razliko prisotnosti stresa na delovnem mestu v obeh navedenih podjetjih, med katerima je bistvena razlika v lastniški strukturi podjetja.
+
+KAZALO 1 UVOD 5
+1.1 Opredelitev področja in opis problema 5 1.2 Namen, cilji in osnovne trditve 5 1.3 Predpostavke in omejitve 6 1.4 Predvidene metode raziskovanja 6
+2 TEORETIČNI DEL 7
+2.1 Definicija stresa 7
+2.1.1 Kaj je stres 7
+2.1.2 Vrste stresa 8
+2.1.3 Povzročitelji stresa 9 2.2 Stres in jeza na delovnem mestu 10
+2.2.1 Problem stresa na delovnem mestu 12
+2.2.2 Učinkoviti dejavniki za premagovanje stresa 14
+2.2.3 Stroški, nastali zaradi stresa zaposlenih 15 2.3 Izgorevanje na delovnem mestu 18
+2.3.1 Sindrom izgorevanja 18
+2.3.2 Vloga posameznika, kolektiva, vodje pri preprečevanju izgorevanja 19 2.3.3 Preprečevanje izgorevanja z ohranjanjem ravnotežja lastnih potreb 20 2.4 Javni in zasebni sektor 21
+2.4.1 Definicija javnega sektorja 21
+2.4.2 Definicija zasebnega sektorja 21
+2.4.3 Primerjava in razlike med javnim in zasebnim sektorjem 22
+3 PRAKTIČNI DEL 23
+3.1 Predstavitev podjetja A – Zavarovalnica Triglav d.d. 23 3.1.1 Predstavitev podjetja A v javnem sektorju 23 3.1.2 Predstavitev zaposlenih v podjetju A 24
+3.2 Predstavitev podjetja B – Holc in Lopert, družba za zastopanje v zavarovalništvu d.o.o. 24 3.2.1 Predstavitev podjetja B v zasebnem sektorju 24 3.2.2 Predstavitev zaposlenih v podjetju B 25 3.3 Predstavitev raziskave 26
+3.3.1 Predstavitev vprašanj, ki smo jih uporabili v anketi 26
+3.3.2. Predstavitev rezultatov v podjetju A in B, ki smo jih pridobili s pomočjo ankete 26 3.4 Rezultati raziskave 38
+3.4.1 Lasten komentar rezultatov v podjetju A 38 3.4.2 Lasten komentar rezultatov v podjetju B 38 3.5 Predlogi 39
+4 SKLEP 40 5 POVZETEK 41 6 SUMMARY 42 7 VIRI 43 1 UVOD
+
+1.1 OPREDELITEV PODROČJA IN OPIS PROBLEMA
+Predmet obravnave diplomske naloge je stres na delovnem mestu v podjetjih javnega sektorja in v podjetjih zasebnega sektorja. Gospodarstvo je vedno bolj tržno naravnano, kar posledično povzroča vedno večje pritiske na zaposlene kar pa povzroča njihovo izgorevanje na delavnem mestu.
+Izgorevanje na delovnem mestu ima dandanes epidemične razsežnosti. Ne gre zato, da bi bilo kaj narobe, ampak predvsem za to, da so delovna mesta in narava njihovega dela doživeli korenite spremembe. Današnje delovno mesto je v ekonomskem in psihološkem smislu hladen, negostoljuben in nadvse zahteven 'prostor'. Ljudje so čustveno, telesno in duhovno izčrpani. Dnevne delovne zahteve, družina in zraven še vse ostalo, načenjajo njihovo energijo in zavzetost. Veselje in navdušenje na poti do uspeha je vse težje začutiti. Predanost delu in motivacija upadata. Ljudje postajajo cinični, ostajajo na varni razdalji, trudijo se, da bi bili čim manj vpleteni.
+1.2 NAMEN, CILJI IN OSNOVNE TRDITVE
+Namen
+Osnovni namen diplomske naloge je, medsebojno primerjati dve podjetji, ki se razlikujeta po lastniški strukturi. Podjetje A je po strukturi lastništva v večinski lasti države, podjetje B pa je popolnoma zasebno podjetje. Med zaposlenimi v podjetju A in B bomo naredili raziskavo, ki bo pokazala, kateri zaposleni so bolj pod vplivom stresa in posledično doživljajo večje izgorevanje na delovnem mestu. Predvideno raziskavo bomo izvedli z vprašalnikom oziroma anketo med zaposlenimi v podjetju A in B.
+Cilji
+Če želimo uresničiti predstavljeni namen raziskave, moramo doseči naslednje cilje:
+- dokazati, kako stres škodljivo vpliva na zaposlene;
+- kako škodi izgorevanje na delovnem mestu celotni organizaciji;
+- dokazati, da je stres bolj prisoten na delovnem mestu v zasebnem sektorju kakor v javnem sektorju.
+Osnovne trditve
+- menim, da so zaposleni v zasebnem sektorju bolj izpostavljeni stresu in izgorevanju na delovnem mestu;
+- oblika stresa v zasebnem sektorju se odraža drugače kot v javnem sektorju;
+- javni sektor nudi manj stresna delovna mesta in stres se tudi v takšni meri ne prenaša na prosti čas zaposlenih.
+
+1.3 PREDPOSTAVKE IN OMEJITVE
+Predpostavke
+Osnovna predpostavka je, da opredelimo stopnjo stresa, kateremu so izpostavljeni zaposleni, kar nam bo pomagalo pri njegovem premagovanju.
+Stres in izgorevanje na delovnem mestu ni pozitiven učinek, na eni strani ne za podjetje, kot na drugi strani ne za zaposlenega posameznika, saj moti delovno storilnost in učinkovitost ter posledično doseganje dobrih rezultatov podjetja. Ljudje pogosteje zahajajo v bolniški stalež in se na tak način izogibajo delovnemu procesu.
+Omejitve
+Viri, ki smo jih pri delu uporabili, so strokovna literatura študija poslovne ekonomije, druge strokovne knjige in psihološka literatura, interni poslovni podatki, svetovni splet internet ter drugi viri.
+Omejitve, s katerimi smo se soočili pri raziskovanju stresa med zaposlenimi, so naslednje:
+- znanje s tega področja je omejeno;
+- na področju raziskovanja imamo zelo malo praktičnih izkušenj;
+- omejili smo se na dve različni podjetji;
+- čas za raziskavo je relativno kratek.
+1.4 PREDVIDENE METODE RAZISKOVANJA
+Obravnavo problema stresa med zaposlenimi v javnem in zasebnem sektorju lahko opredelimo kot poslovno raziskavo, saj se nanaša na dve različni podjetji. Ker gre pri tem za proces nastajanja sprememb, ki jih zahtevajo spremembe v okolju, lahko rečemo, da gre za statično poslovno raziskavo psihološkega značaja, za katero lahko trdimo, da je pomembna za uspešnost podjetja.
+Deskriptivni pristop je uporabljen za predstavitev dejstev, procesov in pojavov, čeprav je velik poudarek tudi na analitičnem pristopu, ki sem ga uporabil za raziskovanje vzrokov posameznih pojavov in za ugotavljanje njihovih medsebojnih odvisnosti.
+Pri sestavljanju teksta sem s pomočjo kompilacijske metode primerjal mnenja in ugotovitve različnih avtorjev. Za dokazovanje resničnosti trditev sem s pomočjo združevanja posameznih delov v celoto uporabil metodo sinteze. Komparativna metoda pa je služila za primerjavo teorije z dejanskim stanjem v tipskem podjetju.
+V teoretičnem delu sem uporabil domačo in tujo strokovno literaturo, ki se nanaša na obravnavano področja raziskovanja. V praktičnem delu so uporabljeni predvsem podatki, pridobljeni iz izkušenj pri delu in iz ankete, ki sem jo naredili med zaposlenimi. S pomočjo izvedene osebne ankete sem ugotovil, pod kakšnim stresom so zaposleni v javnem sektorju in pod kakšnim v zasebnem, ter jih medsebojno primerjali.
+
+2 TEORETIČNI DEL 2.1 DEFINICIJA STRESA
+Ko možgani ocenijo, da so zunanji pritiski preveliki in nam preti nevarnost, se nemudoma odzovejo. Sprožijo samoobrambno delovanje telesa in duševnosti. Odziv se zgodi v trenutku.
+Postanemo budni in pozorni, osredotočeni in aktivni. Telo je napeto kot struna in mišice pripravljene na delovanje. Srčni utrip je hiter in močan. Vsaka naša celica je pripravljena. V stresu smo. Nič hudega! Naše telo nas je samodejno zaščitilo. Človeški organizem se na zunanje pritiske odziva brezhibno. Dokler dogajanje obvladujemo, nas stres lahko motivira.
+Obvladovanje stresa je v današnji družbi mojstrstvo. In mojster ve, da je stres lahko njegov zaveznik in spodbujevalec, če ga le zna nadzorovati. (http://www.dominor.si/stres/) 2.1.1 Kaj je stres?
+Stres je pozitivni pojav, ki nam omogoča preživetje. Kadar čakamo na prehodu za pešce, smo v stresu. To je prav, saj smo zato bolj previdni in pozorni, torej imamo večje možnosti za varno prečkanje ceste. Stres je podoben elektriki – zvišuje budnost, povečuje energijo in izboljšuje učinkovitost. Kadar je električna napetost previsoka, ima stres lahko neugodne posledice, na primer neustrezen odziv na zunanje situacije. To pomeni tudi za premajhno stresno obremenitev, ki povzroča brezvoljnost, počasnost in neučinkovitost. Stres je škodljiv in zdravju nevaren, kadar imamo občutek, da zahteve okolja presegajo naše zmožnosti. (Kako premagamo stres, 6)
+Ko slišimo besedo stres, vedno pomislimo najprej na nekaj, neprijetnega, nekaj kar nam preti in na kar nimamo vpliva. Pa vendar je bil stres tisti, ki je pomagal ljudem skozi tisočletja, v današnjem svetu pa je postal sovražnik številka ena. Pripisujemo mu vzroke številnih nesreč, bolezni, prezgodnjih smrti, samomorov, nezadovoljstva in napetosti. Težko je izračunati izgube, ki jih povzroča v gospodarstvu. (Schmidt 2001, 6)
+Nihče ni povsem odporen proti stresu. Stres lahko prizadene vsakogar, saj je pomemben in bistven del našega življenja. Nastaja kot neizogibna posledica naših odnosov z nenehno spreminjajočim se okoljem, ki se mu moramo prilagajati. (Looker, Gregson 1993, 27) Beseda stres izvira iz anglosaksonskega sveta in se je prvotno uporabljala v fiziki za označevanje mehanskega napora. Pomeni zunanji pritisk, napetost, obremenitev na nek predmet (Newhouse 2000, 11). V medicino je izraz stres prvi uvedel Hans Selye leta 1949. Po njegovi definiciji je stres program telesnega prilagajanja novim okoliščinam, odgovor na dražljaje, ki motijo osebno ravnotežje- (Luban, Pozza 1994, 14)
+Vsako dogajanje v okolju, ki sproži stresno reakcijo, imenujemo stresor. Škodljivi dejavniki, na katere se odziva naš organizem, so lahko zunanji ali notranji. Organizem se nanje odzove s tako imenovano alarmno reakcijo, ki jo imenujemo tudi boj ali beg (angl. Fight or flight). To je reakcija zapletenih telesnih odzivov, ki se sproži, kadar naš organizem oceni, da je neko dogajanje za nas obremenjujoče, kadar nastopijo neznane, nepredvidene zahteve, izzivi ali kadar se pojavi občutek ogroženosti. Telo se pripravi v stanje najvišje pripravljenosti.
+(Looker, Gregson 1993, 37, 90; Horvatin 2003, 1) 2.1.2 Vrste stresa
+
+Vedno več se nas sooča z vse hitrejšim sprejemanjem odločitev v čedalje bolj kompleksnih in spreminjajočih se razmerah. In vendar marsikoga izzivi sodobnosti s stresom ne ogrožajo.
+Kako je to mogoče? Kako ne podležejo stresu? Stres nam je v užitek, ko se nam zdi, da so razmere obvladljive. Predstavljajte si dobro pripravljenega pogajalca pred pomembnim sestankom. On to ve.
+Če se nam zdi, da nas razmere presegajo, a vemo, da zmoremo in da bo kmalu vsega konec, je vpliv stresa običajno še pozitiven. Kdor je kdaj stopil pred občinstvo z občutkom treme, ve, da je pripomogla k dobro opravljenemu nastopu.
+Če se zdi, da so razmere neobvladljive in brez možnosti umika, lahko sprožijo škodljive posledice stresa. Pomislite na dolgotrajno stanje izrednih razmer. Ne veste, kaj vas lahko doleti in kako dolgo lahko nevarnost traja. (http://www.dominor.si/stres/vrste-posledice/) Pozitiven stres
+Vsakdanje stresne razmere, za katere možgani ocenijo, da jih lahko obvladamo, sprožajo pozitivne učinke stresa: sproščati se začneta adrenalin in noradrenalin, ki omogočita, da smo povsem budni in osredotočeni, polni energije, telesno pripravljeni in pozorni. Učinkovitost organizma se močno poveča.
+Učinki pozitivnega stresa so: visoka motiviranost, pozitivna vznemirjenost, družabnost, občutek zadovoljstva in sreče, umirjenost in samozavest, odločnost.
+Ko zaznavamo in doživljamo pozitivne učinke stresa, nas drugi opisujejo kot: energične, družabne, motivirane in vztrajne.
+Negativen stres
+Kadar so zunanji pritiski preveliki, se celotno delovanje organizma preusmeri v odzive za preživetje. Spremenita se naše zaznavanje in obnašanje.
+
+Pojavijo se znamenja škodljivega stresa: znižajo se intelektualne sposobnosti, pokažejo se očitne posledice na čustveni in socialni ravni, ki vplivajo na neučinkovito komunikacijo s soljudmi in z okolico.
+Pojavijo se simptomi in posledice negativnega stresa, kot so: povišan krvni tlak, razbijanje srca, težave s spanjem, zasoplost in pospešeno plitvo dihanje, težave s prebavo, bolečine in razdraženost v želodcu, motnje hranjenja, splošna mišična napetost, izguba želje po spolnosti, znižana stopnja miselnih sposobnosti (težave s koncentracijo, slab spomin), razdražljivost.
+Pogost ali dolgotrajen negativni stres škodljivo vpliva na naše zdravje in vsakdanje sposobnosti.
+Učinek stresnih dejavnikov občuti vsak posameznik na svoj način. Kako se bo nanje odzval, je odvisno predvsem od njegove osebnosti, izkušenj, energetske opremljenosti, življenjske naravnanosti in trenutnega spleta okoliščin. (Možina in Stritih v Kern 1998, 58) 2.1.3 Povzročitelj stresa
+Vsi smo obremenjeni z vsakdanjimi dolžnostmi, toda kadar je teh dolžnosti preveč, bo tista zadnja kaplja čez rob, ki bo tehtnico prevesila v korist zahtev, morda le nepomembna malenkost – na primer en telefonski klic preveč. Po drugi strani je povečan obseg dolžnosti pogosto povezan s pomembnimi življenjskimi dogodki in spremembami. Raziskave so pokazale tesno zvezo med številom prelomnih dogodkov in s stresom povezanih bolezni.
+Povzročitelji stresa so tako lahko na primer:
+- smrt,
+- ločitev,
+- hujša bolezen ali poškodba,
+- izguba službe,
+- upokojitev,
+- poroka ali začetek skupnega življenja,
+- nosečnost,
+- rojstvo ali posvojitev,
+- vedno bolj pogosta nesoglasja,
+- visoka hipoteka, posojilo ali dolg,
+- zamenjava službe ,
+- nesreča ali čustveni pretres,
+- denarne skrbi,
+- osamosvojitev otrok.
+(Kako premagamo stres, 46)
+
+2.2 STRES IN JEZA NA DELOVNEM MESTU
+»Stres na delovnem mestu se pojavi, kadar zahteve delovnega okolja presegajo oziroma presežejo sposobnosti zaposlenih, da jih izpolnijo ali obvladajo«.
+(http://agency.osha.eu.int/publications/factseets/22/sl/indeks.htm) »Stres na delovnem mestu je rezultat negativnih odnosov med zaposlenim in njegovim delovnim okoljem. Občutek in zavedanje zaposlenega, da ne zmore vsega dela, vodi v stres«.
+(http://www.workinfo.govt.nz/dokumets/uploads/managestress.pdf) V današnjem času prepogosto govorimo o stresu in izgorevanju na delovnem mestu. Stresu smo podvrženi vsi in je lahko pozitivna ali pa razdiralna sila. Z izrazom stres v praksi pogosto opisujemo predvsem negativne dejavnike. Vendar ni nujno, da je stres vedno negativen.
+Nekoliko stresa ne škoduje, ampak lahko deluje celo pozitivno. Določena mera stresa nam pomaga, da se uspešno spopademo z življenjem. Vsak od nas je po svoje podvržen stresu.
+(Kralj 2006, 17)
+Ko se podjetniki sprašujejo o razlogih za neučinkovitost, počasnost, nesreče pri delu, izostanke iz dela, slabo produktivnost, negativno klimo in slabo komunikacijo, redko pomislijo na stres. (Volčič 2003, 1) Delo, ki ga opravlja človek, se nenehno spreminja, kot se spreminjajo tudi organizacije, tehnologija, družba in vrednote. Podjetniki zahtevajo od delavcev več, kot le-ti zmorejo, da bi lahko sledili novostim in konkurenci, pri tem pa pozabljajo, da imajo opravka z ljudmi. Človek ni neizčrpen stroj ali celo strošek, nanj moramo gledati kot na investicijo.
+Kaj pa je z jezo? Neustrezna so prepričanja, da je jeza negativno čustvo, ki deluje razdiralno in onesrečuje dva, tistega, ki se jezi, in tistega, kateremu je namenjena. Pogosto je opaziti, da se posamezniki po tihem sramujejo jeze in ne marajo njenih posledic. Jeza jih vedno izčrpava in zbuja občutke krivde. Pri jezi občutijo notranji pritisk napetosti. Pa vendar je to čustvo, ki je namenjeno, da nas spravi v akcijo. Jezo povzročajo naše lastne misli, ki jih dobimo z dogodki. Jeziti se je smiselno, da natančno pokažemo, kaj želimo in česa ne želimo.
+(Kralj 2006, 17)
+Stres in jeza sta na delovnem mestu močno prisotna. Opažam, da pogosto neustrezno tolmačimo jezo, pravimo, da smo v stresu, v resnici pa smo jezni. Res je, da se stres in jeza prepletata in imata lahko delno podobne telesne znake, vendar ju ne smemo enačiti.
+Obvladovanje jeze in stresa je ključno. Obvladovanje vsebuje misli, čustva in dejanja, za to pa potrebujemo vrsto veščin mišljenja in samogovora, da bi lahko uravnavali strese in probleme.
+Soočanje in obvladovanje sta veščini, ki jih uporabljamo pri reševanju problemov. Problem lahko nastane, če ne znamo uravnavati stresa in jeze. (Kralj 2006, 17) Stres na delu je reakcija organizma, ki ne vzdrži več pritiska. (EEF 2001, 1) Stres na delu lahko definiramo tudi kot škodljiv psihičen in čustven odgovor na zahteve v službi, kadar se te ne ujemajo s sposobnostmi, viri ali potrebami. (Sauter et al. 1999, 6) Je psihičen in fizičen odgovor posameznika med prilagajanjem na notranje in zunanje pritiske. Nastane, kadar se pojavi neskladnost med osebo, delovnim mestom in organizacijo.
+(http://geosalud.com/Salud%20Ocupacional/esres_laboral.html) Stres
+
+Stres je reakcija organizma na dražljaje iz okolja. Je stanje napetosti organizma, v katerem se sproži obramba, pri tem pa se organizem sooči z ogrožajočo okolico. Temu sledi nespecifična reakcija organizma, ki vodi v »boj ali beg«. Gre za vrsto bioloških, psiholoških in vedenjskih pojavov, ki se jih zavedamo le delno. Povzročitelj stresa so stresne situacije in stresorji ter je lahko nekaj, kar človeku pomeni oviro, zahtevo, obremenitev ali izziv. Seveda se različni ljudje na isti dražljaj odzivajo različno (gneča in zastoj na cesti je za povprečnega ali pa slabega voznika obremenitev, navdušeni voznik pa jo sprejema kot izziv, in se je loti z užitkom). Pogoste stresne situacije nastanejo zaradi težav in konfliktov z drugimi osebami doma ali na delovnem mestu, zaradi zahtevnosti in odgovornosti del in nalog ter zaradi nedosegljivih zastavljenih ciljev. (Kralj 2006, 17)
+S psihološkega vidika je stres nekaj, kar nas izziva, da se prilagodimo oziroma obvladamo.
+Stres prihaja iz našega okolja iz našega uma ali iz našega telesa. Določena raven stresa (evstres) je koristna, ker nam pomaga pri motivaciji za delo in izboljša delovno storilnost.
+Škodljivi stres (distres) nastane, kadar zahteve presegajo naše sposobnosti. Pri tem pa ni pomembno, ali v resnici zahtevam nismo kos ali pa si samo domišljamo, da je tako.
+Dolgotrajni in premočni stres vodi v obremenitev in izgorevanje ter privede do telesnih, psihičnih, vedenjskih težav. (Kralj 2006, 17)
+Vsak posameznik je osebnost zase, zato ni najboljšega načina za obvladovanje stresa.
+Obvladovanje stresa mora biti prilagojeno potrebam posameznika, njegovim močem in omejitvam. Ključno pa je, da se zavedamo, kaj nam povzroča stres v življenju in kako se lahko uspešno spopademo z njim. Škodljivi stres je dobro razumsko sprejeti in se naučiti obvladati ga, preden stres obvlada nas. Zdrav način življenja, komunikacijske veščine, veščine reševanja problemov, socialne veščine in asertivnost so tisti dejavniki, ki vam bodo pomagali uspešno obvladati stresne situacije in stres. (Kralj 2006, 17) Jeza
+Jeza je napad, izživljanje, kreganje, dokazovanje moči, »praznjenje«, grobost, agresivnost, konflikt, kričanje, sovraštvo in destruktivnost. Jeza je neprijetno čustvo, ki jo človek doživlja, kadar ocenjujemo, da zunanji dogodki neupravičeno ogrožajo njegov »tako je prav« in ga pripravljajo na ustrezno reakcijo. Namen jeznega človeka je spremeniti obnašanje drugih oseb. S tem ni več ogrožena naša želja in naš sistem vrednot. (Kralj 2006, 17) Jeza je končni produkt verige dogodkov in reakcij. Njen prvi element je zunanji dražljaj ali dogodek (nekdo se neustrezno vede), sledi percepcija (biološko prepoznavanje realnosti) in nato odziv na ta dražljaj z apercepcijo (psihološko dekodiranje realnosti, misel ali razlaga).
+Četrti element je čustvo (jeza) in povprečna telesna vzburjenost. Na telesnem nivoju jeza vodi v hitre spremembe v organizmu (mišična napetost, stiskanje v prsih, hitrejši srčni utrip, pospešeno dihanje, napetost in pripravljenost na boj), kar povzroča, da oseba iz nizke stopnje aktivnosti preide v visoko stopnjo, s čimer doseže telesno pripravljenost za adaptivno vedenje.
+Peti element vsebuje izbor vrst obnašanja in na koncu reakcijo z obnašanjem. Psihološki namen jeze je v odrejanju meja osebnega jaza (ego meja). Socialni aspekt jeze je povezan z občutkom moči, jezi se tisti, ki se počuti dovolj močnega. Na vedenjskem nivoju se jeza izraža z agresijo. Namen agresije je nekaj spremeniti, da bi se dogodek ali situacija odvijala v skladu z lastnimi pričakovanji. (Kralj 2006, 17) 2.2.1 Problem stresa na delovnem mestu
+
+V današnjem času postaja vse bolj jasno, da se zamisel delovnega mesta kot učinkovitega stroja vrača kot bumerang in grozi, da bo spodkopala ideal delovnega mesta kot zdravega in varnega okolja, v katerem lahko človek z delom, ki ga resnično izpolnjuje, razvije vse svoje zmožnosti in za katero je tudi pošteno plačan. (Resnica o izgorevanju, 2) Kaj je tisto, kar je privedlo do te krize? Zakaj postaja oznaka »izgorevanje na delovnem mestu« vedno bolj običajen del vsakdanjega poklicnega izrazoslovja? Zakaj dobronamerni delavci, managerji in voditelji skupnosti ne morejo ničesar ukreniti zoper to? Korenine tega problema so pognale iz ekonomskih trendov, tehnologije in filozofije vodilnega osebja – managementa. (Resnica o izgorevanju, 2) Znižanje dejanske vrednosti
+Za skupnost, ki se oblikuje na delovnem mestu, je še posebno škodljivo, da korporacije unovčujejo svojo dejansko vrednost. Namesto da bi polnile fond za raziskovanje in dolgoročno rast, razprodajajo aktivno premoženje za delnice kratkoročnih vrednosti. Mrzlični ritem prevzemov in nakupov mednarodnih korporacij se napaja z izposojenim denarjem.
+Zaradi tega denarja so podjetja povsem izčrpana in živijo izključno od dolgov. Njihova prednostna naloga je zaradi orjaškega in neprestanega pritiska proizvajanje zadostnega pretoka denarja za servisiranje dolgov in ne ustvarjaje kakovostnih izdelkov ali graditev močnejše skupnosti. Za slednje skrbijo zgolj posamezni ljudje znotraj teh podjetji, medtem ko je skrb sistema v širšem smislu zgolj upravljanje financ.
+Globalna ekonomija
+Proizvodno delo se seli iz skupnosti in iz države. Hiter transport in komunikacije omogočajo umik dela kamorkoli in tako delo selijo tja, kjer so stroški poslovanja manjši. Pregrade v trgovanju, ki so ščitile domačo dražjo industrijo, so vladne ustanove industrializiranih narodov omejile deloma zaradi pritiskov vplivnih nadnacionalnih korporacij in deloma zato, ker zaščitniška politika »stare šole« preprosto ne služi več svojemu namenu. Posledica tega je, da morajo delavci v Severni Ameriki, Avstraliji in Evropi tekmovati z delavci dežel v razvoju.
+To tekmovanje vpliva na ekonomijo, katere obseg se neprestano širi. V začetku je bilo v države v razvoju mogoče preseliti samo osnovne oblike dela. Tamkajšnji prebivalci niso imeli potrebnega strokovnega znanja za zahtevna dela, njihova infrastruktura – ceste, telefonsko omrežje, električna napeljava – niso bili primerni za vzdrževanje velikih industrijskih kompleksov. Dandanes se vse to spreminja. Možnost selitve delovnih mest iz dežele pomeni pritisk na tiste, ki ostanejo doma.
+Tehnologija
+Kako korporacijam uspe opraviti več dela z manj ljudmi, ki so bolj prizadevni in zaslužijo manj denarja? Dve najbolj razširjeni strategiji za vzpodbujanje produktivnosti sta uporaba visoko razvitih tehnologij in nepopustljivost upravljanja človeške delovne sile.
+Visoko razvita tehnologija lahko v celoti nadomesti človeka na delovnem mestu. Dvigala in telefonske centrale je moral nekdo upravljati, zdaj so avtomatizirani. Bankomati zmanjšujejo število blagajnikov po vsem svetu. Roboti nadomeščajo montažne delavce, kajti stroji lahko opravljajo nekatere naloge hitreje in natančneje kot ljudje. Vsem tistim, ki še delajo, prinaša tehnologija nove zahteve.
+
+Prerazporeditev moči
+Druga strategija za povečanje produktivnosti je v ozko grlo usmerjeni management delovne sile. Moč sindikatov slabi. Njihovi člani so z izgubljanjem upanja v možnosti, da bi dosegli boljše plače in večjo varnost pred izgubo delovnih mest, vedno manj pripravljeni tvegati zaposlitev.
+Stresorji na delovnem mestu, ki izhajajo iz okolja
+Mednje sodijo tehnične, socialne, politične in ekonomske spremembe ter demografske sile na državni in mednarodni ravni. Na zunanje stresorje posamezniki kot tudi organizacije ne morejo neposredno vplivati, njihova naloga je predvsem uspešno prilagajanje novim spremembam.
+Primer za ekonomske spremembe je lahko naraščajoča inflacija, ki zmanjšuje kupno moč posameznika. Posameznik nima direktnega vpliva na spreminjanje inflacije in v takšnih okoliščinah stežka načrtuje finančna dogajanja. To lahko ustvarja negotovost, katere končni rezultat je stres.
+Politične spremembe prav tako povzročajo negotovost, še posebej v novo nastalih političnih situacijah. Podobno je pri socialnih spremembah, katerih glavna značilnost je prav tako negotovost.
+Tehnološke inovacije in spremembe so postale neizogiben del našega vsakdana. Novi bančni načini poslovanja, novi načini komuniciranja (mobilna telefonija, elektronska pošta, telekonference…) ter hiter razvoj ostalih področij industrije in informacijske tehnologije zahtevajo prilagodljivost posameznikov. Če se posameznik ni sposoben prilagajati spremembam, kaj hitro nastopijo težave, kar lahko povzroča stres.
+Organizacijski stresorji
+Med fiziološke obremenitve spadajo položaj telesa pri delu, telesne dejavnosti, teža dinamičnega mišičnega dela, senzorne in toplotne obremenitve. Med psihološke obremenitve pa sodijo intelektualne, psihosenzorne in emocionalne obremenitve. Fiziološke obremenitve, kot so prekomeren hrup, vročina, vibracije ali delo z nevarnimi snovmi lahko povzročijo stres ali da so zaposleni bolj občutljivi na stresorje pri delu.
+Individualni stresorji
+Odziv na stresne situacije je odvisen od posameznika. Na razvoj stresa vplivajo osebnostne lastnosti. Zaposleni reagirajo skladno s svojim dojemanjem realnosti in neskladnosti z realnostjo. Dojemanje oblikuje odnose med potencialno stresnimi pogoji in reakcijo zaposlenih. Tako se lahko na primer neka oseba boji, da bo izgubila službo, ker podjetje odpušča zaposlene, neka druga oseba pa vidi v tem priložnost, da bo dobila odpravnino in lahko začela z delom na svoje.
+
+2.2.2 Učinkoviti dejavniki za premagovanje stresa
+Stres ne vpliva le na zdravje delavcev, temveč tudi na delo v organizaciji. To se kaže predvsem v povečanem absentizmu, počasnosti, zamujanju, zapuščanju delovnih mest, neučinkovitosti, poklicnem izgorevanju, nesrečah na delovnem mestu, znižanju organizacije produktivnosti, uničeni organizacijski klimi.
+S stresom v podjetju se lahko spopademo na dva načina. Prvi način so temeljne organizacijske spremembe, drugi pa stresni management. Pri obeh načinih mora imeti organizacija podporo vodstva in vseh zaposlenih. (Sauter et al. 1999, 14)
+Organizacijske spremembe so najbolj neposredna metoda preprečevanja stresa na delovnem mestu. Vključuje prepoznavanje vseh vidikov stresa in oblikovanja strategij za zmanjšanje in odpravo stresorjev. Pri organizacijskih spremembah moramo:
+- zagotoviti, da je obremenitev delavca v skladu z njegovimi zmožnostmi, sposobnostmi in viri, ki jih ima na razpolago;
+- oblikovati delovne naloge tako, da zaposlenemu pomenijo smisel, spodbudo in priložnost, da lahko uporabi vse svoje spretnosti, talent in potencial;
+- jasno in natančno opredeliti vloge in odgovornosti, ki jih imajo zaposleni na svojem delovnem mestu;
+- zaposlenemu nuditi priložnosti, da sodeluje pri odločitvah, ki se nanašajo na njegovo delo;
+- zmanjšati negotovost glede kariere posameznika in njegove prihodnosti;
+- izoblikovati urnik, ki bo v skladu s potrebami zaposlenega in njegovimi obveznostmi izven službe. (Sauter et al. 1999, 14) Naloge stresnega managementa so:
+- svetovanje,
+- motiviranje zaposlenih,
+- učinkovito vodenje,
+- razvijanje komunikacijskih sposobnosti,
+- zadovoljstvo pri delu,
+- medsebojni odnosi.
+Ergonomija
+Pogosto se dogaja, da podjetja zapravijo ogromno denarja za drago ergonomsko opremo in usposabljanje, na koncu pa se zgodi, da jo zaposleni zavrnejo. Ergonomski program ni drag postopek. Pravzaprav ga podjetje lahko izpelje samo, brez zunanjih strokovnjakov. Da pa bi ga lahko uspešno vpeljali v podjetje, moramo vedeti, kaj sploh ergonomija je in kaj želimo s spremembami doseči. (Stanković 2003, 97)
+»Ergonomija je interdisciplinarna veda, ki ima za cilj prilagoditi delo, delovna sredstva in delovno okolje psihičnim in somatskim značilnostim človeka, da bi se vzpostavili najbolj optimalni odnosi med biološkimi, tehničnimi in ekonomskimi sistemi«. (Bilban 2001, 9) Gre za iskanje razbremenitev, tako da je naše delo bolj učinkovito, varno in zanesljivo. Delovno mesto bolj približamo našim psihofizičnim funkcijam, da bi ohranili naše zdravje in delovne zmožnosti, lajšamo delovne obremenitve, kot so akutna in kronična utrujenost, bolezni, povezane z delom, kronična obolenja in invalidnost. (Bilban 2001, 9) 2.2.3 Stroški, nastali zaradi stresa zaposlenih Zakon o varnosti pri delu
+
+Vsak delavec ima pravico do varnega in zdravega dela. V državah EU zagotavljajo te pravice z zakonskimi določili, priporočili in predlogi. Pri nas to ureja Zakon o varnosti in zdravju pri delu. (Hraševec 2001, 1)
+Človek preživi na delovnem mestu tretjino svojega življenja. Naše zdravje je v veliki meri odvisno tudi od delovnega okolja. Vsako delo mora potekati v takšnih pogojih, da ni ogroženo niti naše zdravje niti varnost, saj s pogodbo o zaposlitvi prodamo naše delo, ne pa zdravja.
+Vsako delo mora biti organizirano tako, da je varno. (Teržan et al. 2000, 2) Da bi delodajalci in delavci to upoštevali, je Državni zbor RS sprejel 30. junija 1999 Zakon o varnosti in zdravju pri delu. Delodajalci morajo poskrbeti, da bo delo potekalo v okolju, ki ne bo ogrožalo delavcev. Nalaga jim tudi materialno in odškodninsko odgovornost za varovanje zdravja delavcev in delovnega okolja. (Teržan et al. 2000, 4)
+Temeljna načela določajo: 5.člen: »V zvezi z zagotavljanjem varnosti mora delavec z ustrezno organiziranostjo ter potrebnimi materialnimi sredstvi izvajati ukrepe za preprečevanje nevarnosti, o tem obveščati in usposabljati delavce.« 8. člen: »Delovni proces mora biti prilagojen telesnim in duševnim zmožnostim delavca, delovno okolje in sredstva za delo pa morajo glede na naravo dela, zagotavljati delavcu varnost in ne smejo ogrožati njegovega zdravja«. 9.člen: »Delavec mora opravljati delo s tolikšno pazljivostjo, da s tem varuje svoje življenje in zdravje ter življenje in zdravje drugih oseb«.
+(http://www.delavska-participacija.com/html/zvzd.html)
+Obveznosti delodajalcev: 14. člen: »Vsak delodajalec mora sprejeti izjavo o varnosti v pisni obliki, s katero določi način in ukrepe za zagotavljanje varnosti in zdravja pri delu ter jo dopolnjevati.« 15. člen: »Delodajalec mora zagotavljati varnost in zdravje pri delu zlasti tako, da: 1. poveri opravljanje nalog varnosti pri delu strokovnemu delavcu, naloge varovanja zdravja pa pooblaščenemu zdravniku; 2. sprejme ukrepe za zagotavljanje požarnega varstva v skladu s posebnimi predpisi; 3. sprejme ukrepe za zagotavljanje prve pomoči in evakuacije v primeru ogroženosti; 4. obvešča delavce o uvajanju novih tehnologij in sredstev za delo ter o nevarnostih za poškodbe in zdravstvene okvare, ki so povezane z njimi za varno delo; 5. usposablja delavce za varno delo; zagotavlja delavcem sredstva in opremo za osebno varnost pri delu in njihovo uporabo, če sredstva za delo in delovno okolje kljub varnostnim ukrepom ne zagotavljajo varnosti in zdravja pri delu; 7. zagotavlja periodične preiskave delovnega okolja in periodične preglede in preizkuse delovne opreme; 8. zagotavlja zdravstvene preglede delavcev«. (http://www.delavska-participacija.com/html/zvzd.html) Pravice in dolžnosti delavcev: 32. člen: »Delavec ima pravico in dolžnost, da se seznanja z varnostnimi ukrepi in ukrepi zdravstvenega varstva ter da se usposablja za njihovo izvajanje.« 33. člen: »Delavec ima pravico odkloniti delo, če ni bil predhodno seznanjen z vsemi nevarnostmi in škodljivostmi pri delu ali če delodajalec ni zagotovil predpisanega zdravstvenega pregleda. Delavec ima pravico odkloniti delo, če mu grozi neposredna nevarnost, ker niso bili izvedeni predpisani varnostni ukrepi. Delavec ima pravico odkloniti delo v primeru, ko dela več kot polni delovni čas oziroma ponoči, če bi mu z mnenjem pooblaščenega zdravnika takšno delo poslabšalo zdravstveno stanje«.
+(http://www.delavska-participacija.com/html/zvzd.html)
+
+Delodajalec mora delavcem omogočiti sodelovanje pri obravnavi vprašanj, povezanih z varnostjo in zdravjem. To nalogo opravi svet delavcev. Če tega ni, izvolijo svojega predstavnika, ki mu zaupajo to vlogo. Za zagotovitev varnega delovnega okolja morajo delavci sodelovati z delodajalcem in strokovnim sodelavcem za varnost in zdravje.
+(Teržan et al. 2000, 4) Stroški posledic stresa
+Stroške stresa na delovnem mestu moramo oceniti zelo previdno. Zveza med vzroki in posledicami mnogokrat ni povsem jasna, zato ti podatki temeljijo na ugibanjih. Obenem pa jih ne moremo zanesljivo primerjati med podjetji, kaj šele med državami. Povsem nemogoče pa je iz njih izvajati kakršne koli sklepe ali posploševanja. Pri ocenjevanju teh stroškov gre za ugotavljanje deleža bolezenske odsotnosti, ki je posledica stresa, glede na celotni absentizem na določenem nivoju. Ocenjuje jih mednarodna organizacija ILO, in sicer na treh nivojih: na individualnem nivoju, na nivoju organizacije ter na državnem nivoju.
+(Hoel et al. 2001, 38-39)
+Na individualnem nivoju: gre predvsem za individualno izgubo dohodka ter za stroške zdravljenja. Za kakšno vsoto je oboleli prikrajšan pri prihodku, pa zavisi od načina kompenzacije v različnih državah. Ponekod krije stroške delodajalec, drugje država, največkrat pa gre za kombinacijo obojega. V slučaju izgube dela ali predčasne upokojitve pa so individualni stroški še veliko večji. Individualne stroške je težko oceniti, saj so odvisni od prevelikega števila faktorjev, variirajo pa lahko celo pri isti osebi, v različnih obdobjih.
+(Hoel et al. 2001 39-41)
+Na nivoju organizacij: organizacije imajo stroške zaradi izgube absentizma, prezgodnjih upokojitev, nadomeščanja, sodnih stroškov, škode na opremi, manjše produktivnosti ter zaradi izgube dobrega imena in ugleda. (Hoel et al. 2001, 42-46) Med razlogi za nenačrtovano odsotnost z dela prednjači bolezen, takoj za njo so družinski problemi, stres je na tretjem mestu. To prikazuje tudi graf.
+GRAF št. 1: Vir (Tangri 2003, 34)
+RAZLOGI ZA NENAČRTOVANO ODSOTNOST Z DELA upravičeni izostanki; 9% stres; 19% družinske zadeve; 21% osebne potrebe; 11% drugo; 8% bolezen; 32%
+
+NIOSH (The National Institute for Occupational Safety and Health) je leta 1990 stroške obolenj in nesreč, ki jih povzroča stres v ZDA, ocenil na 6,6 bilijona dolarjev na leto, HSE (Health and Safety Executive) jih je leta 1995 v Angliji ocenil med 1,1 in 2,2 bilojona angleških funtov na leto, avstralske zavarovalne družbe pa so jih leta 1995, ocenile na 9,2 bilijona ECU-jev na leto. Vendar so ti stroški ocenjeni prenizko, saj ne upoštevajo nadurnega dela, izgube strank, osebnih problemov ter upadanja delovne morale. 30% vseh obolenj povzroča stres. Z upoštevanjem zgodnjih štirih faktorjev, pa naraste procent s stresom povzročenih obolenj s 30% na 40%. (Hoel et al. 2001, 46) Pri izračunu stroškov stresa v podjetju je upoštevanih:
+1. 19% stroškov absentizma, v katerih so zajete plače odsotnih delavcev, skupaj z vsemi bonitetami ter stroški nadomeščanja;
+2. 40% vseh stroškov, ki nastanejo zaradi odhoda delavca iz podjetja, začasnega nadomeščanja ter najemanja novega delavca; pri tem vzamejo za osnovo 150% - 250% plače odhajajočega, v odvisnosti od položaja, ki ga je imel v podjetju; 3. 55% cene vseh antistresnih programov v podjetju;
+4. 30% stroškov, ki nastanejo zaradi kratkotrajne ali dolgotrajne nezmožnosti za delo; 5. 10% cene za psihoterapije in antidepresivna zdravila; 6. 60% vseh stroškov, povezanih z nesrečami pri delu; 7. 100% vseh stroškov za plačila kompenzacij in morebitnih sodnih stroškov.
+(Tangri 2003, 23-33) Pri izračunu niso všteti:
+1. stroški zmanjšane produktivnosti v času, ko je prizadeti še na delovnem mestu; 2. nasilje na delovnem mestu; 3. stroški zdravljenja posledic stresa.
+(Tangri 2003, 23-33)
+Na nivoju države: stroškov, ki jih zaradi posledic stresa utrpi država, ne moremo izračunati s seštevanjem individualnih stroškov ter stroškov delovnih organizacij, saj se prerazporedijo med posameznimi skupinami. Država mora plačevati stroške zdravljenja, absentizma ter stroške zaradi prezgodnjih upokojitev. Stroške na državnem nivoju je še težje oceniti, saj bi bilo potrebno upoštevati že skoraj nesmiselno veliko število faktorjev. Vendar bi naj po grobih ocenah NIOSH-a v svetu v povprečju dosegli 0,5 - 3,5% bruto družbenega proizvoda.
+(Hoel et al. 2001, 51) Absentizem v Sloveniji
+Slovenija porabi okoli desetino zbranih sredstev v zdravstvenem zavarovanju za nadomestila plač zaposlenim, ki so začasno zadržani z dela zaradi bolezni. Zaradi 803.248 bolniških izostankov smo leta 2004 v Sloveniji izgubili 10.774.911 koledarskih dni. Vsak zaposleni je bil leta 2004 zaradi bolniške odsoten z dela v povprečju 13,4 dni. (Urad za statistiko RS http://www.stat.si/letopis/indeks_vsebina.asp?poglavje=10&leto=2005&jezik=si).
+Absentizem v Evropi
+Države, članice EU, ki financirajo zdravstveno dejavnost in določene denarne dajatve zavarovancev iz sredstev proračuna, se srečujejo z naraščajočimi izdatki za nadomestila med začasno zadržanostjo z dela, kar ob čedalje večjih težavah uskladitve prihodkov in stroškov problem dodatno zaostruje. Zato ga skušajo spraviti v okvire, ki bi bili sprejemljivi z vidika narodnogospodarskih možnosti in interesov. Zmanjšati želijo obseg začasne zadržanosti z dela zaradi bolezni, zlasti pa doseči boljše zdravje aktivne populacije, da bi bila ta delovno sposobna do svoje upokojitve in še dlje. S tem bi se zmanjšala nadomestila plač, pa tudi izdatki za zdravljenje bolezni in poškodb.
+
+(http://www.sigov.si/zmar/arhiv/og0799/eosl0799.html#idr)
+2.3 IZGOREVANJE NA DELOVNEM MESTU
+Izgorevanje na delovnem mestu ima dandanes epidemične razsežnosti. Ne gre zato, ker bi bilo z njimi kaj narobe, ampak predvsem za to, da so delovna mesta in narava njihovega dela doživeli korenite spremembe. Današnje delovno mesto je v ekonomskem in psihološkem smislu hladen, negostoljuben in nadvse zahteven prostor. Ljudje so čustveno, telesno in duhovno izčrpani. Dnevne delovne zahteve, družina in zraven še vse drugo, načenjajo njihovo energijo in zavzetost. Veselje in navdušenje ob uspehu je vse težje doseči. Predanost delu upada. (Resnica o izgorevanju na delovnem mestu) 2.3.1 Sindrom izgorevanja
+Sindrom izgorevanja je skupek simptomov, ki se kažejo v življenju vsakega posameznika.
+Kadar zahteve prevladajo nad sposobnostmi, se tehtnica nagne in izgubi ravnotežje. Pojavljajo se telesni in čustveni simptomi. Njihova oblika je ponavadi pogojena z dednostjo in človekovim temperamentom. Neprijetna posledica telesnih simptomov je, da sčasoma tudi sami postanejo sekundarni povzročitelj stresa. Če vas zaradi prehude obremenjenosti z dolžnostmi na primer zajame panika, vas bo mogoče bolj strah naslednjega napada panike kot pa primernega vzroka, zaradi katerega je do napada sploh prišlo. Zapletli se boste v začaran krog, v katerem bodo stresogeni dogodki povzročali telesne simptome, ki bodo postali dodatni, sekundarni vir stresa. Sekundarni stres pa včasih povzroča še hujše simptome kot primarni.
+Telesni in čustveni simptomi stresa:
+- glavobol,
+- mišična napetost,
+- napadi panike,
+- diareja,
+- pomanjkanje samospoštovanja,
+- depresija,
+- utrujenost,
+- motnje v prehranjevanju,
+- fobije,
+- pretirano uživanje alkohola,
+- kajenje,
+- nespečnost,
+- obsesivno vedenje…
+Na ravni organizacije se ti simptomi kažejo skozi povečan absentizem in zamujanje na delo, disciplinske težave, konflikte med managementom in zaposlenimi ter z drugimi oblikami problemov industrijskih odnosov ter slabim upravljanjem kakovosti. Vsi ti simptomi lahko pripeljejo do pogostih in hudih nesreč, različnih oblik stavk in apatije ter disorganizacije.
+(Černigoj Sadar 2002, 85)
+
+Pomembno je omeniti, da imajo simptomi stresa kumulativni učinek. Kopičenje stresa namreč zmanjšuje sposobnost opažanja; ljudje postanejo vedno manj občutljivi in težje zaznavajo učinke nadaljnjega stresa. S kopičenjem stresa pa telo slabi in se vse težje upira nadaljnjim obremenitvam. Človek postane ujet v začarano vijačnico, ki jo navija, vse dokler se ne pretrga kakor preveč napeta elastika. (Kure 2002, 16)
+2.3.2 Vloga posameznika, kolektiva, vodje pri preprečevanju izgorevanja Vsako opravilo in vsako delovno mesto v različnih podjetjih zahteva določeno delovno vnemo in opravljanje določenih opravil. Zato je težko reči, da je kakšno delo manj ali bolj zahtevno. Različna delovna mesta zahtevajo takšna in drugačna fizična ali psihično opravljanja svojih nalog. Delovno mesto je zelo hladen, negostoljuben in nadvse zahteven prostor. Ljudje se mnogokrat čustveno, telesno in duhovno izčrpajo. Tako posameznik kot tudi kolektiv in vodje lahko prispevajo k manjšemu izgorevanju na delovnem mestu.
+Kot posameznik se lahko trudimo, da:
+- vsak organizira svoje delo in ga tudi nadzira, spremlja rezultate, uspehe, načrtuje izvajanje dodatnih aktivnosti v obsegu svojih zmožnosti;
+- smo strokovno usposobljeni za delo, ki ga opravljamo, tako da se dodatno izobražujemo;
+- krepimo osebnostne lastnosti (doslednost, natančnost, odločnost);
+- skrbimo za kvalitetno izrabo prostega časa (sprostitev, šport, kultura, zabava,…);
+- ločujemo službo in zasebno življenje;
+- postavljamo meje v odnosu do uporabnikov in sodelavcev;
+- zaznavamo probleme z odzivom;
+- zastavljamo realne in dosegljive cilje.
+V kolektivu lahko poskrbimo za:
+- kvalitetne medsebojne odnose (razumevanje, komunikacija, poštenost, sprotno reševanje konfliktov na strpen način, zaupanje, spoštovanje,…);
+- medsebojna pomoč pri delu;
+- enotnost pri delu;
+- sproščeno druženje s sodelavci;
+- skupna praznovanja.
+Kot vodja skrbimo da:
+- jasno opredeljujemo naloge;
+- ustvarjamo primerne pogoje za delo;
+- ustvarjamo timski duh pri delu;
+- vzpostavljamo horizontalno komunikacijo;
+- delimo pohvale;
+- se posvetujemo;
+- zastavljamo realne in dosegljive cilje;
+- omogočamo izbiro, odločanje, razmišljanje o problemih in rešitvah;
+- zaznavamo in se soočamo s problemi;
+- redno načrtujemo;
+- organiziramo razgovore.
+
+Izgorevanje je razkroj vrednot, dostojanstva, duha in volje. Je razkroj človeške duše. Vodi v kronično utrujenost, cinizem, odtujenost od dela, neučinkovitost pri delu, lahko pa je tudi pogubno za zdravje, za zmožnost premagovanja ovir in življenjski slog. Izgorevanje lahko povzroči telesne, čustvene, vedenjske in mišljenjske simptome, kot so glavoboli, želodčne in trebušne bolezni, visok krvni tlak, napetost v mišicah, občutek tesnobe, potrtost, šibak spanec, pozabljivost, izogibanje pogovorom in posledično dolgotrajni bolniški staleži. Cena izgorevanja na delovnem mestu je pomembna tako za posameznike, kolektiv in celotno organizacijo. Za posameznika je težava v službi, kar zmanjšuje kakovost njegovega življenja, možnost produktivne in uspešne kariere. Za organizacije pa je težava v delovni sili, ki ni več predana delu, ni ustvarjalna in ne produktivna, kot je bila. Zato ni pomembno le zdravljenje, ampak tudi preventiva – preprečevanje izgorevanja. Vlogo in nalogo pri preprečevanju pa imamo vsi: posameznik, kolektiv in vodja.
+2.3.3 Preprečevanje izgorevanja z ohranjanjem ravnotežja lastnih potreb Vse svoje življenje moramo svoje različne potrebe ohranjati v ravnotežju. Tudi ko je ena potreba na pravem mestu, moramo ustrezno poskrbeti za druge. Ravnotežje lahko ohranjamo, ko vemo, kaj iščemo in si priznavamo svoje različne potrebe.
+(Dr. John Gray, Koristni čudeži za moške in ženske, stran 131) Vsako delo, pa najsi je še tako zanimivo, sčasoma postane monotono in dolgočasno. Ljudje enostavno ne vidimo novih ciljev, motivatorjev ali pozitivnih pretresov, ki bi nas še lahko ohranjali v »gibanju«. Lahko rečemo, da je nekaj podobnega tudi v zakonu, ko zakonci v prvih letih svojega zakona eden v drugem vidijo vse najboljše, vendar pa skozi leta ta čar zbledi in če zakonca ne najdeta nove poti, to lahko pripelje do pasivnosti ali v najslabšem primeru zakon propade. Nekaj podobnega lahko najdemo tudi na delovnem mestu.
+Dejavnike, ki vplivajo na izgorevanje, lahko v prvi vrsti najdemo v mentaliteti in obnašanju zaposlenih. V drugi vrsti pa lahko začnemo vzroke iskati tudi pri vodji. Za svoja dejanja in izgorevanje pa žal ne smemo kriviti drugih, ampak mora vsak posameznik narediti kaj, da to prepreči.
+Potrebno je, da se znamo veseliti vseh lastnih, najmanjših, zmag, ki se zdijo na zunaj nepomembne. Čim manj se ozirati na to, kar si drugi mislijo o vas. Naučiti se moramo uživati ob delu, pa naj se včasih zdi še tako dolgočasno. Postaviti si moramo vedno nove (realne) cilje in nikoli ne smemo misliti, da tega ne bomo zmogli. Naučiti se moramo zaupati sodelavcem svoje probleme, znati postavljati meje sebi in drugim, dvigniti svojo samozavest in poskrbeti za fizične aktivnosti v naravi. Konec koncev, če povzamemo, ljubiti moramo samega sebe.
+
+2.4 JAVNI IN ZASEBNI SEKTOR
+Javni in zasebni sektor sta dva od treh sektorjev, ki obstajajo v širšem gospodarstvu. Tretji sektor je tako imenovani prostovoljni sektor.
+Razlike med javnim in zasebnim lahko opredelimo iz različnih vidikov. Javni in zasebni sektor v gospodarstvu se razlikujeta glede na namen posameznega sektorja, ustanovitelja in lastnika.
+V Sloveniji, pa je še vedno velik del lastništva gospodarskih družb v lasti države oziroma posredno državnih institucij (KAD, SOD). Sicer so napovedi in ambicije vlade, da se država postopoma umika iz gospodarstva. Kar pomeni, da gre za odprodajo državnih deležev v posameznih družbah (država – KAD in SOD, prodaja svoje deleže v podjetjih).
+Ob tem se postavlja vprašanje natančne ločnice med javnim in zasebnim sektorjem, vsaj iz lastniškega vidika. Saj je še veliko podjetij, ki so v večinski lasti države.
+2.4.1 Definicija javnega sektorja
+Poznamo več definicij javnega sektorja, katere razvrščamo na:
+- Organizacijsko ali statusno definicijo
+V javni sektor sodijo vse organizacije, ki imajo status javnih subjektov. Javni sektor po tej definiciji so vse osebe javnega prava (javni skladi, javni sektorji) ne glede na njihovo dejavnost.
+- Javno finančno definicijo
+Temelji na Zakonu o javnih financah. Ta definicija šteje v javni sektor vse proračunske uporabnike. Vendar pa je treba paziti, saj poznamo državni, občinski in evropski proračun. Ti proračunski uporabniki so vsako leto določeni poimensko v Ministrstvu za finance z odredbo.
+- Funkcionalno definicijo
+V javni sektor sodijo vsi subjekti, javni in zasebni, ki opravljajo javne naloge. Javne naloge pa so: komunala (gospodarska), zdravstvo, muzej (družbene), naloga izvajanja oblasti-izdaja pravilnika, vodenje evidenc (upravne). Da je neka naloga javna, se določi z zakonom.
+- Ekonomska definicija
+V javni sektor se uvrščajo vse osebe, katere ustanovitelj sta država ali občina, ali pa ima v teh osebah večinski vpliv – javna podjetja.
+- Kombinirana definicija (funkcionalna + ekonomska)
+Združuje funkcionalno in ekonomsko definicijo. Po tej definiciji v javni sektor sodijo vse osebe javnega prava in javna podjetja (s pravnega vidika Evropske skupnosti so nelegalne).
+- Druga kombinirana definicija po ZJU in ZSPJU
+Združuje organizacijsko in javno finančno definicijo. Določena pa je z Zakonom o javnih uslužbencih.
+2.4.2 Definicija zasebnega sektorja
+Zasebni sektor je oblikovan na osnovi zasebnih vložkov, torej vložkov bodisi posameznikov, bodisi drugih gospodarskih družb. Zasebni sektor za razliko od javnega stremi k dobičku in deluje na principu proste konkurence.
+V zasebnem sektorju vladajo zasebni interesi lastnikov in upravljavcev družb. Končni cilj pa je vedno profit. V zasebnem sektorju je toliko bolj kot v javnem nujno potrebna konkurenca, ki na eni strani ščiti položaj kupcev oziroma odjemalcev, na drugi pa dviguje raven kvalitete oziroma celotne ponudbe na trgu.
+
+2.4.3 Primerjava in razlike med javnim in zasebnim sektorjem
+Primerjava javnega in zasebnega sektorja je možna iz različnih vidikov. Javni in zasebni sektor v gospodarstvu se razlikujeta glede na namen posameznega sektorja, ustanovitelja in lastnika.
+Za posamezni sektor bi naj veljale temeljne lastnosti oziroma značilnosti:
+- Javni sektor: bi naj deloval kot neprofiten, njegova osnovna značilnost bi naj bila varstvo javne koristi. Torej je ustanovitelj in lastnik javnega sektorja država neposredno ali preko svojih pristojnih inštitucij. Zato mora delovati v javno korist oziroma v javnem interesu – njegova širša družbena korist je določena z zakonodajo.
+- Zasebni sektor: stremi k dobičku in deluje na principu proste konkurence. Njegovi ustanovitelji in lastniki so zasebniki z lastnimi finančnimi vložki.
+- Prostovoljni sektor vključuje različne oblike društev, samoorganizacijske oblike (zbornice), ki slonijo na principih civilne družbe. Ta sektor je neprofiten v jedru, vendar za razliko od javnega sektorja tu ne gre za organiziranje sorodnih interesov v okviru oblastne funkcije.
+
+3 PRAKTIČNI DEL
+PREDSTAVITEV PODJETJA A – Zavarovalnica Triglav d.d., OE Maribor
+Predstavitev podjetja A – Zavarovalnica Triglav d.d., v javnem sektorju Zavarovalnica Triglav, d.d.
+Danes je Zavarovalnica Triglav največja zavarovalnica v Sloveniji. Vodilno mesto na zavarovalniškem trgu zahteva ponudbo kakovostnih zavarovalnih kritij, ki ustrezajo potrebam in zahtevam sodobnega zavarovanca. Ključ do zaupanja zavarovancev zagotavlja zanesljivost poslovanja, ki jo je Zavarovalnica Triglav dosegla s povečanjem zavarovalno-tehničnih rezervacij in s krepitvijo kapitalske moči družbe. Zavarovalno-tehnične rezervacije so z vso potrebno skrbnostjo preudarno naložene v kakovostne in varne finančne naložbe. S tem si je Zavarovalnica Triglav zagotovila solventnost, t.j. možnost takojšnjega izplačila odškodnin oziroma zavarovalnin.
+Povečanje rezervacij in stabilnosti družbe predstavljajo dodatno zagotovilo za vse, ki so Zavarovalnici Triglav zaupali svoja dolgoročna zavarovanja.
+Skrbno razvita poslovna mreža zagotavlja, da so zavarovalne storitve vedno dostopne zavarovancem. To velja tako za sklepanje zavarovanj kot tudi v primeru škodnih dogodkov.
+Zavarovalniške storitve se opravljajo na poslovnih mestih v dvanajstih območnih enotah, dveh poslovnih enotah, devetindevetdesetih predstavništvih in zastopstvih ter s pomočjo sedemsto-petindvajsetimi zastopniki po vsej Sloveniji.
+Dejavnost zavarovalnice
+Dejavnost Zavarovalnice Triglav je opravljanje zavarovalnih poslov v vseh zavarovalnih vrstah v zavarovalni skupini premoženjskega zavarovanja in v vseh zavarovalnih vrstah v zavarovalni skupini življenjskega zavarovanja; dejavnost upravljanja pokojninskih skladov po zakonu; opravljanje obveznih zavarovanj v prometu; opravljanje dopolnilnih zdravstvenih zavarovanj ter opravljanje zavarovalnih poslov pasivnega pozavarovanja.
+Osnovna dejavnost Zavarovalnice Triglav se odvija na naslednjih zavarovalnih področjih:
+• zavarovanje premoženja in premoženjskih interesov
+• avtomobilska zavarovanja
+• kmetijska zavarovanja
+• transportna zavarovanja
+• zavarovanje terjatev
+• zavarovanje nudenja pomoči
+• osebna zavarovanja Lastniška struktura
+Na dan 31.12.2005 je osnovni kapital Zavarovalnice Triglav znašal 5.562.660.000 SIT.
+Razdeljen je bil na 5.562.660 navadnih delnic z oznako ZVTG. Normirana vrednost delnice je bila tedanjih 1.000 SIT.
+Lastniška struktura zavarovalnice se je gibala predvsem pod vplivom določil Zakona o lastninskem preoblikovanju zavarovalnic in z njim povezanih odločb Vlade Republike Slovenije (Odločba o uskladitvi kapitalskih razmerij v Zavarovalnici Triglav, d.d., Ljubljana) ter Odločbo o ugotovitvi kapitalskih deležev v nenormiranem kapitalu Zavarovalnice Triglav d.d., Ljubljana in upravičencev teh deležev.
+
+Največji delničarji Zavarovalnice Triglav d.d., 31.12.2005: 1. Slovenska odškodninska družbe, d.d., Ljubljana – 45,48% 2. Kapitalska družba, d.d., Ljubljana – 35,22% 3. Slovenijales, d.d., Ljubljana – 1,56% 4. Sava-Re, d.d., Ljubljana – 1,16% 5. HIT d.d., Nova Gorica – 1,15% 6. in ostali manjši delničarji.
+(Poročilo o poslovanju Zavarovalnice Triglav, d.d., v letu 2005, 52) 3.1.2 Predstavitev zaposlenih v podjetju A – Zavarovalnica Triglav d.d., OE Maribor Pri obravnavanju Zavarovalnice Triglav d.d. sem se odločil, da zajamem samo OE Maribor.
+Prav tako je težko najti zasebno podjetje, ki bi lahko v primerjavi s številom zaposlenih konkuriralo podjetju, kot je Zavarovalnica Triglav d.d. V celotnem podjetju Zavarovalnice Triglav je po vsej Sloveniji zaposlenih več kot 697 zavarovalnih zastopnikov. Območna enota Maribor, pa zaposluje 56 zavarovalnih zastopnikov.
+3.2. PREDSTAVITEV PODJETJA B – Holc in Lopert,
+družba za zastopanje v zavarovalništvu d.o.o.
+3.2.1 Predstavitev podjetja B v zasebnem sektorju
+HOLC IN LOPERT, družba za zastopanje v zavarovalništvu d.o.o. (skrajšano HiL d.o.o.) Na zavarovalnem trgu so se začele večje spremembe okrog leta 1990. Zavarovalnica Triglav se je reorganizirala. Iz dela Zavarovalnice Triglav v Mariboru je nastala Zavarovalnica Maribor, v Kopru Adriatic, v Novem Mestu Tilia. V Slovenijo je prišla tudi nova prva mešana zavarovalnica Prima, danes Grawe zavarovalnica.
+V razmerah, ko si je zavarovalnica Triglav utrjevala svoj portfelj zavarovancev, druge zavarovalnice pa so osvajale zavarovalniški trg, je nastala potreba po zastopniških in posredniških podjetjih, ki bi bila sposobna prodajati zavarovanja.
+Med drugimi je leta 1991 nastalo podjetje Holc in Lopert, družba za posredovanje v poslih zavarovanja d.o.o. Družbo sta ustanovila Gabriela Holc in Miran Holc. V začetku leta 1992, je bilo podjetje vpisano v sodni register pravnih oseb z naslednjo dejavnostjo firme:
+- posredovanje in zastopanje pri zavarovalnih poslih vseh vrst osebnega in premoženjskega zavarovanja;
+- posli snemanja rizikov;
+- posli snemanja in ocene škode;
+- pravna pomoč ter druge intelektualne in tehnične storitve v zvezi z zavarovalnimi posli.
+
+Zavarovalna zastopniška družba je pravna oseba, ki kot gospodarsko dejavnost opravlja storitve zastopanja zavarovalnic pri sklepanju zavarovalnih pogodb. Zavarovalna zastopniška družba lahko opravlja samo storitve zavarovalnega zastopanja. Družba za zavarovalnico opravlja posle, ki so z zavarovalnimi posli v neposredni zvezi, posreduje pri prodaji oz. prodaji v zavarovalnih primerih poškodovanih predmetov, ki ob reševanju škodnih primerov pripadajo zavarovalnici; izvaja ukrepe za preprečevanje in odpravljanje nevarnosti, ki ogrožajo zavarovano premoženje in osebe; ocenjuje stopnje izpostavljenosti zavarovalnega objekta in ocenjuje škodo; opravlja druge intelektualne in tehnične storitve v zvezi z zavarovalnimi posli.
+HiL d.o.o. je podjetje, ki ne deluje ekskluzivno samo za eno zavarovalnico, temveč za več zavarovalnic. Pogodbe o zastopanju ima s štirimi zavarovalnicami, vendar več kot 90 % realizira z zastopanjem Zavarovalnice Maribor in Zavarovalnice Triglav.
+Pogodbo ima sklenjeno tudi z Zdravstveno zavarovalnico Triglav. Delo s tovrstnim zavarovanjem izstopa od ostalih zavarovanj. Pri tem gre za jamstvo, ki je kot dopolnilno zdravstveno zavarovanje osnovnemu zdravstvenemu zavarovanju.
+Od leta 1992 je bilo podjetje dvakrat dokapitalizirano zaradi sprememb zakona o zavarovalnicah. Prav zaradi tega se je moralo podjetje tudi preimenovati iz Holc in Lopert, družba za posredovanje v poslih zavarovanja d.o.o. v Holc in Lopert, družba za zastopanje v zavarovalništvu d.o.o. Po spremembah zakona o zavarovalnicah iz leta 2000 je podjetje moralo pridobiti tudi spremembo standardne klasifikacije dejavnosti iz 66.030 (druga zavarovanja, razen življenjska) v J/67.200 (pomožne dejavnosti v zavarovalništvu in pokojninskih skladih) in dovoljenje za delo od Agencije za zavarovalni nadzor.
+Od leta 1992 do leta 1999 sta bila v podjetju zaposlena lastnika. Večji obseg dela, veliko novih prodajnih zavarovalnih artiklov in več pogodb z zavarovalnicami je narekovalo, da se je podjetje razširilo in ima trenutno štiri zaposlene.
+Poleg redno zaposlenih ima podjetje sklenjene pogodbe s štirimi samostojnimi podjetniki.
+Dva od teh imata ustrezno licenco, dva pa delujeta kot izpolnitvena pomočnika.
+V tako malem podjetju je težko razmejiti in točno določiti delo in delavne naloge. Vsi zaposleni so usposobljeni za:
+- delo z zavarovanci in
+- delo z zavarovalnicami.
+3.2.2 Predstavitev zaposlenih v podjetju B – Holc in Lopert, družba za zastopanje v zavarovalništvu d.o.o.
+Pri obravnavi zavarovalne agencije Holc in Loperd, družba za zastopanje v zavarovalništvu d.o.o. sem ugotovil, da imajo, ob tem da se s prodajo ukvarjata tudi lastnika, redno zaposlenega samo enega zavarovalnega zastopnika, torej človeka, ki se ukvarja izključno s pridobivanjem strank na terenu. Imajo pa veliko število zunanjih sodelavcev, ki prodajajo zavarovalne storitve na trgu, bodisi študente, bodisi honorarne sodelavce. Tako je, če izvzamem lastnika podjetja, vse skupaj 28 priložnostnih sodelavcev, ki prodajajo zavarovalne storitve za podjetje HiL d.o.o..
+
+3.3 PREDSTAVITEV RAZISKAVE
+3.3.1 Predstavitev vprašanj, ki sem jih uporabili v anketi
+Na začetku sem uporabil vprašanja, s katerimi sem pridobil nekaj demografskih podatkov, ki prikazujejo spol, starost in izobrazbo posameznega anketiranca. Ti podatki so pomembni za raziskavo, saj nam dajejo podatek, za kakšno vrsto ljudi gre oziroma s temi podatki si lažje razlagamo tudi odgovore na vprašanja, ki sledijo v nadaljevanju. Prav tako nam dajejo podatke, ali so stresu na delavnem mestu bolj izpostavljene ženske ali moški, starejši ali mlajši, bolj ali manj izobraženi ter katera stopnja v hierarhiji managementa je bolj izpostavljena stresu.
+Sledijo vprašanja, povezana z delovnim okoljem in zadovoljstvom dela, ki ga posameznik opravlja. Odgovori nam dajejo sliko delovnega okolja, v katerem posameznik deluje, oziroma prikazujejo, kako posameznik svoje delo sploh dojema.
+Naslednja vprašanja so povezana z osebnostjo posameznika. Kako posameznik dojema svoje življenje, kakšen tip človeka je, kako se znajde v določenih situacijah, kako se odziva na spremembe v življenju in seveda na stresne situacije.
+3.3.2 Predstavitev rezultatov v podjetju A in B, ki smo jih pridobili s pomočjo ankete Namen raziskave je ugotoviti prisotnost stresa v delovnem okolju obeh organizacij. Predvsem pa spoznati, katera organizacija je bolj obremenjena s stresom, gre predvsem za ugotovitve prisotnosti negativnega stresa.
+Na vprašanja v anketi je odgovarjalo 25 zastopnikov Zavarovalnice Triglav d.d., OE Maribor in 25 zastopnikov pri zavarovalni agenciji HIL d.o.o.. Vzorec je bil manjši, kot sem pričakovali, kajti zaposleni se niso želeli izpostavljati in odgovarjati na omenjeno anketo, saj so bili skeptični, ali gre res zgolj za diplomsko nalogo ali za kakšen preizkus delodajalca. Pri zastopnikih prav tako nisem posebej gledal na delovno razmerje, v kakršnem so s podjetjem, v katerem delajo, kajti oblika le-tega se mi za raziskavo ni zdela bistvenega pomena. Kljub vsemu sem dobil dovolj plodne rezultate, ki nazorno prikazujejo prisotnost stresa na delovnem mestu, med zaposlenimi v obeh organizacijah.
+Rezultati raziskave kažejo, da je med zaposlenimi zastopniki tako v enem kot tudi v drugem podjetju večje število moških, saj poklic zavarovalnega zastopnika zahteva veliko terenskega dela, ta pa na terenu zahteva številne pripomočke (računalnik, tiskalnik, ceniki, ostala papirologija,…), katere je potrebno prenašati od stranke do stranke, kar predstavlja fizični napor oziroma fizično aktivnost čez cel dan. Kar je bolj primerno za moške. Prav tako sem v obeh podjetjih izvedel, da se na to delavno mesto prijavljajo tudi ženske, toda v velikem številu hitro ugotovijo, da je delo prenaporno zanje.
+Največje število zastopnikov je starih med 30 in 40 let, nekaj je tudi mlajših in starejših.
+Večina zavarovalnih zastopnikov ima dokončano srednješolsko izobrazbo. Čeprav izobrazba in dokončana šola v razpisih nista pogoj, so zastopniki zavezani narediti licenco za zavarovalnega zastopnika za sklepanje in prodajo zavarovanj.
+
+VPRAŠANJA POVEZANA Z DELOVNIM OKOLJEM
+Pri prvem vprašanju, povezanim z delovnim okoljem, so se pokazale prve razlike, ki smo jih predvideli že na začetku.
+Sem zadovoljen s svojim delovnim mestom in delom.
+Zaposleni v podjetju HIL d.o.o. so v večini odgovarjali z oceno 3, kar je pomenilo, da trditev srednje drži. Nobeden od vprašanih ni odgovoril, da je popolnoma nezadovoljen. 25% vprašanih pa jih je popolnoma zadovoljnih s svojim delom in delovnim mestom.
+Za razliko od podjetja HIL d.o.o., so zaposleni v Zavarovalnici Triglav d.d., OE Maribor bolj zadovoljni s svojim delovnim mestom in delom. Več kot polovica oziroma 56% je svoje zadovoljstvo ocenila s 4 (Trditev delno drži.) na lestvici od 1 do 5.
+Zaposleni v podjetju HIL d.o.o.
+Zaposleni v podjetju Zavarovalnica Triglav d.d., OE Maribor 16% 56% 28%
+42% - Trditev srednje drži | 25% - Trditev popolnoma drži | 33% Trditev delno drži 28% - Trditev srednje drži | 16% - Trditev popolnoma drži | 56% Trditev delno drži Pri vprašanju oziroma oceni, kako je njihovo delo cenjeno, lahko vidimo, da so zaposleni pri podjetju HIL d.o.o. bolje ocenili situacijo v podjetju in da se njihovo delo bolj ceni, kot pri podjetju Zavarovalnica Triglav d.d., OE Maribor.
+
+Pri vprašanju oziroma oceni, ali je delo, ki ga opravljajo, pestro in zanimivo, sem dobil zelo podobne odgovore, kar sem tudi pričakoval, saj gre za identično delo, ki ga zaposleni opravljajo v obeh podjetjih.
+Tudi pri vprašanju terenskega dela so ocene bile podobne, saj je majhen procent zastopnikov v podjetju Zavarovalnica Triglav d.d., OE Maribor takšnih, ki delo opravljajo za pultom v pisarni. Vsi ostali zastopniki so terenski.
+Zaposlene v obeh podjetjih smo povprašali tudi, kakšen odnos do stresa imajo njihovi nadrejeni.
+Zaposleni v podjetju HIL d.o.o.
+Iz grafa pri podjetju HIL d.o.o. je razvidno, da nadrejeni v tem podjetju stres izenačujejo s slabostjo. Kar 76% zaposlenih je odgovorilo pritrdilno na vprašanje, ali velja stres v podjetju kot slabost.
+12% - Trditev srednje drži | 76% - Trditev popolnoma drži | 12% Trditev delno drži V nasprotju z rezultati v podjetju Hil d.o.o., so zaposleni v Zavarovalnici Triglav d.d., OE Maribor se le delno strinjali s trditvijo, 16% pa je bilo takšnih, ki se s trditvijo niso strinjali.
+
+Pri vprašanju, ali imajo kot zaposleni kakšen vpliv na program svojega dela, so se zaposleni pri HIL d.o.o. opredelili z 72% popolnoma pritrdilno, saj si kot zastopniki sami izbirajo svoj teren dela in popolnoma sami razporejajo stranke. V nasprotju z zaposlenimi v podjetju Zavarovalnica Triglav d.d., OE Maribor so stranke zastopnikov po večini vnaprej znane in tudi teren dela je omejen in predpisan.
+Tudi delovne naloge in pristojnosti zastopnika so jasno opredeljene in se jih tako zastopniki v podjetju HIL d.o.o. zavedajo in držijo kot tudi pri podjetju Zavarovalnica Triglav d.d., OE Maribor.
+Pri sprejemanju pomembnih odločitev so se zaposleni v podjetju HIL d.o.o., kot tudi v Zavarovalnici Triglav d.d., OE Maribor opredelili, da trditev ne drži in tako oboji izkazali, da niso vključeni v sprejemanje pomembnih odločitev.
+Pri vprašanju, ali se jim delo zdi pretežko, sem dobil iz obeh podjetji zelo raznolike odgovore. Pri podjetju HIL d.o.o. so se zaposleni v večini opredelili, da trditev popolnoma drži. Pri podjetju Zavarovalnica Triglav d.d., OE Maribor pa so delo označili kot srednje težko.
+Zaposleni v Zavarovalnici Triglav d.d., OE Maribor 16% 48% 36%
+36% - Trditev srednje drži | 16% - Trditev ne drži | 48% Trditev delno drži Zaposleni v podjetju HIL d.o.o.
+
+Zaposleni Zavarovalnice Triglav d.d., OE Maribor 12% 36% 28% 24%
+Prav tako smo zelo raznolike odgovore dobili pri trditvi »Včasih čutim praznino in depresivnost zaradi svojega dela«. Pri podjetju HIL d.o.o. je tej trditev popolnoma pritrdilo 28% vprašanih, pri podjetju Zavarovalnica Triglav d.d., OE Maribor pa le 12% vprašanih.
+Povsem različna slika se je pokazala tudi pri trditvi »Imam preveč dela in premalo časa«.
+Kar 76% vprašanih zaposlenih pri podjetju HIL d.o.o. se je popolnoma strinjalo s trditvijo, v nasprotju z zaposlenimi v Zavarovalnici Triglav d.d., OE Maribor, kjer se je samo 20% vprašanih popolnoma strinjalo z navedeno trditvijo.
+28% - Trditev popolnoma drži | 40% - Trditev delno drži | 12% - Trditev srednje drži | 20% - trditev ne drži 12% - Trditev popolnoma drži | 36% - Trditev delno drži | 28% Trditev srednje drži | 24% - trditev ne drži Izkazalo se je tudi, da je trditev, »moja komunikacija s sodelavci/nadrejenimi/družino je napeta«, dobila zelo različne pritrditve pri obeh podjetjih, in da zaposleni pri podjetju HIL d.o.o. bolj napeto komunicirajo s sodelavci, nadrejenimi in posledično tudi z družino in s tem izkazujejo tudi večjo napetost in stres na delovnem mestu, ki ga pa prenašajo tudi v domače okolje.
+
+Nadrejeni upoštevajo mnenje zaposlenih.
+Zaposleni pri podjetju HIL d.o.o.
+12% je takšnih v podjetju HIL d.o.o., ki so ocenili, da trditev popolnoma drži, 28% je takšnih, ki so ocenili, da trditev delno drži, 48% takšnih, ki so ocenili, da trditev srednje drži in pa 12% takšnih, ki so ocenili, da trditev ne drži.
+Zaposleni Zavarovalnice Triglav d.d., OE Maribor 40% 28% 20% 12%
+40% je takšnih v podjetju Zavarovalnica Triglav d.d., OE Maribor, ki so ocenili, da trditev delno drži, 28% je takšnih, ki so ocenili, da trditev srednje drži in 20% je takšnih, ki so ocenili, da trditev ne drži in 12% je takšnih, ki so ocenili, da trditev popolnoma drži.
+12% - Trditev popolnoma drži | 28% - Trditev delno drži | 48% Trditev srednje drži | 12% - trditev ne drži 12% - Trditev popolnoma drži | 40% - Trditev delno drži | 28% Trditev srednje drži | 20% - trditev ne drži Redno nas obveščajo o seminarjih.
+
+Zaposleni pri podjetju HIL d.o.o.
+16% je takšnih, ki se s trditvijo ne strinjajo, 40% je takšnih, ki se s trditvijo delno strinjajo in 44% je takšnih, ki se s trditvijo srednje strinjajo.
+16% je takšnih, ki se s trditvijo srednje strinjajo, 48% je takšnih, ki se s trditvijo popolnoma strinjajo in 36% je takšnih, ki se s trditvijo delno strinjajo.
+Tukaj lahko vidimo razliko med zaposlenimi v javnem in zasebnem sektorju. Prav tako je izkazana temeljna razlika med zaposlenimi, ki imajo na eni strani pravico obiskovanja seminarjev in dodatnega izobraževanja na račun podjetja v javnem sektorju, in zaposlenimi, ki te možnosti nimajo, ker so zaposleni v zasebnem sektorju.
+Zaposleni pri podjetju Zavarovalnica Triglav d.d., OE Maribor 16% 48% 36%
+16% - Trditev ne drži | 40% - Trditev delno drži | 44% Trditev srednje drži 48% - Trditev popolnoma drži | 36% - Trditev delno drži | 16% Trditev srednje drži Pri zelo kočljivi trditvi »zaradi stresa na delovnem mestu se poslužujem sintetičnih substanc-tablet«, smo dobili odgovore, ki nakazujejo k temu, da se kljub vsemu večje število zaposlenih poslužuje sintetičnih substanc v zasebnem sektorju. Seveda pa ni raziskano kako so vprašani to vprašanje razumeli in ali so upoštevali tudi tablete za glavobol, ki jo vzamejo ob prihodu domov.
+
+VPRAŠANJA, POVEZANA Z OSEBNOSTJO POSAMEZNIKA
+Prav tako so vidne razlike tudi pri naslednjih vprašanjih, povezanih z osebnostjo posameznika.
+Prvo vprašanje se je glasilo. Spadate med ljudi, ki: ZAPOSLENI V PODJETJU HIL d.o.o.
+- eksplodirate, a se hitro umirite.
+- se grizete v sebi, a tega ne pokažete.
+- Nikoli ne izgubite nadzora nad seboj.
+ZAPOSLENI V PODJETJU ZAVAROVALNICA TRIGLAV d.d,
+OE MARIBOR
+- eksplodirate, a se hitro umirite.
+- se grizete v sebi, a tega ne pokažete.
+- Nikoli ne izgubite nadzora nad seboj.
+
+Večina zaposlenih v podjetju HIL d.o.o. je odgovorila, da se grize v sebi, a tega ne pokaže.
+Večina vprašanih pri Zavarovalnici Triglav d.d., OE Maribor pa je odgovorila, da eksplodira, a se hitro umiri.
+Pri vprašanju, kateri pregovor je najbližji vaši osebnostni opredelitvi, sta zaposlenim pri podjetju HIL d.o.o. najbližja pregovora Nikoli ni tako slabo, da ne bi moglo biti še slabše in vsaka stvar je za nekaj dobra. Prav nasprotno pa je pri podjetju Zavarovalnica Triglav d.d., OE Maribor, kjer je večina vprašanih odgovorila, da se najbolj prepoznajo v pregovoru nobena juha se ne poje tako vroča, kot se skuha.
+Vprašanje, ki je sledilo, je od vprašanih zahtevalo jasen odgovor. Kako sami vidite svoje življenje? 48% vprašanih zaposlenih pri podjetju HIL d.o.o. je odgovorilo zadovoljivo, 28% je takšnih, ki se veselijo novega dne in 24% je takšnih, ki menijo, da bi lahko bilo bistveno boljše. Prav tako, pa smo tudi pri tem vprašanju zasledili veliko razliko med odgovori zaposlenih v obeh podjetjih, saj 76% vprašanih zaposlenih v Zavarovalnici Triglav d.d., OE Maribor meni, da se veselijo vsakega novega dne, 16% je takšnih, ki menijo, da je njihovo življenje zadovoljivo in samo 8%, da bi lahko bilo bistveno boljše.
+Na vprašanje kakšni ste? So sledili naslednji odgovori.
+ZAPOSLENI PRI PODJETJU HIL d.o.o.
+- Živahni in brezskrbni, odporni proti kopičenju pritiska, na pritiske se odzovete z mrzlično aktivnostjo.
+- Počasni, sproščeni, metodični, odporni proti stresu, v obremenilnih situacijah se skušate nadzirati in postanete nedejavni, trmasti in togi.
+- Tihi in otožni, kar se v stresnih razmerah spremeni v depresivnost, odmaknjenost in nedejavnost.
+
+ZAPOSLENI V PODJETJU ZAVAROVALNICA TRIGLAV d.d.,
+OE MARIBOR
+- Živahni in brezskrbni, odporni proti kopičenju pritiska, na pritiske se odzovete z mrzlično aktivnostjo.
+- Počasni, sproščeni, metodični, odporni proti stresu, v obremenilnih situacijah se skušate nadzirati in postanete nedejavni, trmasti in togi.
+- Tihi in otožni, kar se v stresnih razmerah spremeni v depresivnost, odmaknjenost in nedejavnost.
+V anketi smo zastopnike obeh podjetji vprašali tudi, kako bi reagirali, če bi jih na zdravniškem pregledu opozorili, da imajo zvišane vrednosti holesterola. Kaj bi storili?
+32% zaposlenih v podjetju HIL d.o.o. in 28% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: Slabe prehranjevalne navade bom nemudoma nadomestili z dobrimi in se naučil sproščati napetosti.
+44% zaposlenih v podjetju HIL d.o.o. in 56% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: Kot vedno, si bom takoj obljubili, da se bom začel rekreirati, uporabljati stopnice namesto dvigala, da bom svoj avtomobil parkiral dovolj daleč, zato da bom več hodil peš.
+24% zaposlenih v podjetju HIL d.o.o. in 16% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: Ne bom se preveč vznemirjal, samo ob stresnem dnevu, ko me zaboli srce in je moje dihanje oteženo, se prestrašim.
+Odgovori so bili enaki v obeh podjetjih, gre le za manjšo odstopanje v odstotkih.
+Naslednje vprašanje se je nanašalo na vzroke nespečnosti. Kadar ne morete zaspati, najdete vzrok v tem, da ste,
+16% zaposlenih v podjetju HIL d.o.o. in kar 44% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: nekoliko sem iz ravnotežja zaradi slabe prebave, pozne kave ali prevelikega števila pokajenih cigaret ter preveč alkohola.
+24% zaposlenih v podjetju HIL d.o.o. in 40% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: nemiren sem in vznemirjen brez pravega vzroka.
+60% zaposlenih v podjetju HIL d.o.o. in 16% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: ležim buden v postelji in razmišljam o tem, kaj se mi je zgodilo ta dan, kaj se mi je zgodilo včeraj in kaj vse se mi lahko zgodi jutri.
+
+Kakšne občutke vam povzročijo spremembe v življenju, kot so selitev, otrokovo rojstvo, nova služba, ločitev?
+68% zaposlenih v podjetju HIL d.o.o. in kar 40% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: veselje in pričakovanje.
+8% zaposlenih v podjetju HIL d.o.o. in 16% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: utrujenost in brezvoljnost.
+24% zaposlenih v podjetju HIL d.o.o. in 44% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: razdražljivost in utrujenost.
+Na vprašanje, kako bi reagirali, ko ste utrujeni, otroci se prepirajo, stanovanje je nepospravljeno, nimate časa za nič. Partner vam sicer pomaga, vendar ne dovolj. Vaše reakcije?
+24% zaposlenih v podjetju HIL d.o.o. in 32% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: vem, da je to partner mojega življenja in mu zato poskušam mirno povedati, kaj me moti. 48% zaposlenih v podjetju HIL d.o.o. in 48% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: delam, kolikor se pač da, in se tolažim, da partner ni ravno idealen, ima pa vseeno veliko drugih dobrih lastnosti. 28% zaposlenih v podjetju HIL d.o.o. in 20% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: razmišljam o prekinitvi slabega partnerstva.
+V primeru, ko ste poslali prošnjo za novo službo. Ravnokar ste prejeli pismo, v katerem vam sporočajo, da niste sprejeti. Kako reagirate?
+ZAPOSLENI V PODJETJU HIL d.o.o.
+- Prošnjo pošljete še na vse druge naslove, šele potem se boste odločali, kako naprej.
+- Zmečkate pismo in ga vržete v smeti. Služba tako ali tako ni kdove kakšna.
+- Tedne hodite naokoli, sprašujete in razmišljate samo o tem, zakaj vas niso sprejeli.
+
+ZAPOSLENI V PODJETJU ZAVAROvALNICA TRIGLAV d.d.,
+OE MARIBOR
+- Prošnjo pošljete še na vse druge naslove, šele potem se boste odločali, kako naprej.
+- Zmečkate pismo in ga vržete v smeti. Služba tako ali tako ni kdove kakšna.
+- Tedne hodite naokoli, sprašujete in razmišljate samo o tem, zakaj vas niso sprejeli.
+Zadnje vprašanje se je nanašalo na zamudo na pomemben sestanek. Vse vam gre narobe: na cesti je gneča, avtomobil nagaja, ura teče … vas pa čakajo! Kako reagirate?
+16% zaposlenih v podjetju HIL d.o.o. in 40% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: Sporočim, da zamujam, in upam, da bodo razumeli.
+12% zaposlenih v podjetju HIL d.o.o. in 44% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: Hupam in se poskušam prebiti naprej. Če bom vozil dovolj hitro, bom morda prišel pravočasno.
+72% zaposlenih v podjetju HIL d.o.o. in 16% zaposlenih v podjetju Zavarovalnica Triglav d.d., OE Maribor je odgovorilo: Paničen sem in s strahom, kaj bo.
+
+3.4 REZULTATI RAZISKAVE
+3.4.1 Lasten komentar rezultatov v podjetju HIL d.o.o.
+Analiza rezultatov je podala jasno sliko o stanju v podjetju HIL d.o.o. v zvezi s prisotnostjo stresa na delovnem mestu. Pri analizi zastopnikov se je jasno pokazalo, da so zastopniki preobremenjeni z delom in preobremenjeni z dejstvom, da morajo pripeljati stranke, saj je od tega odvisno njihovo plačilo.
+Nadrejeni zaposlenih v podjetju HIL d.o.o. sprejemajo stres kot slabost, kar pa dodatno zaposlenim povzroča pritisk, ki se ga le težko znebijo. Zaposleni v podjetju HIL d.o.o. so tudi nenehno nadzorovani, njihovo delo je vedno pod nadzorom, čeprav imajo proste roke pri izbiri svojih strank.
+Zaposleni v podjetju HIL d.o.o. so tudi manj obveščeni o seminarjih in dodatnih izobraževanjih zaradi dodatnih stroškov, ki s tem nastanejo v podjetju. To ponovno kaže na slabosti, ki se pojavljajo pri zasebnikih, ki veliko manj denarja namenjajo dodatnemu izobraževanju, pa naj gre za formalno izobrazbo ali dodatna izpopolnjevanja.
+Pri vprašanjih o osebnostni rasti lahko vidimo, da so ljudje, zaposleni pri podjetju HIL d.o.o., veliko bolj zadržani pri izražanju svojega mnenja, saj je lahko prenaglo in preveč razburljivo stanje krivo za njihov odpust. Zaposleni pri tem podjetju so v različnih delovnih razmerjih, kjer lahko zelo hitro sledi, da se jim zahvalijo za sodelovanje.
+Ob vsakodnevnih problemih, ki nastanejo, se zaposleni v podjetju HIL d.o.o. tolažijo s pregovorom Nikoli ni tako slabo, da ne bi moglo biti še slabše in vsaka stvar je za nekaj dobra, kar kaže na neko srednje zadovoljstvo in upanje, da ne bi bilo še slabše. Vsi ti odgovori pa kažejo tudi na značaj zaposlenih, ki sami sebe ocenjujejo kot počasne, sproščene, metodične, odporne proti stresu, v obremenilnih situacijah se skušajo nadzirati in postanejo nedejavni, trmasti in togi.
+Prav tako pa tudi ostali odgovori nakazujejo na stresna stanja, kot sta nespečnost, razdražljivost in utrujenost.
+3.4.2 Lasten komentar rezultatov v podjetju Zavarovalnica Triglav d.d., OE Maribor V podjetju Zavarovalnica Triglav d.d., OE Maribor pa ne moremo zagotovo trditi, da imamo povsem drugačno sliko njihovega stanja. Stres je prisoten vsepovsod in ljudje ga le drugače dojemajo. Opaziti je spremenjeno sliko pri nekaterih vprašanjih, ki vodijo tudi v večji stres, sploh če gre za osebni dohodek zaposlenega. Seveda pa je tukaj zelo jasno razvidno, tako kot sem v diplomski nalogi že večkrat poudaril, da so zaposleni zastopniki pri podjetju Zavarovalnica Triglav d.d., OE Maribor zaposleni za nedoločen čas in prejemajo minimalno zajamčeno plačo. Vse, kar pa naredijo dodatno, dobijo še dodatno plačano. Kar pa jim daje socialno varnost in redne prihodke v primerjavi z zastopniki pri podjetju HIL d.o.o..
+Tako eni kot drugi zastopniki so se strinjali v več pogledih. Eden izmed njih je bil zahtevnost dela, večinsko terensko delo in zadovoljstvo s svojim delom, kar seveda kaže tudi na to, da če tega ne bi želeli, ne bi delali.
+
+3.5 PREDLOGI
+Iz celotne raziskave je razvidno, da je stres veliko bolj prisoten v podjetjih, ki so v zasebni lasti, kjer so ljudje veliko bolj pod nadzorom, veliko bolj je pomembna njihova učinkovitost in delovna storilnost. V večjih podjetjih, kot je Zavarovalnica Triglav d.d. s svojo območno enoto v Mariboru, je proces dela veliko širše zastavljen in preglednost nad storilnostjo in učinkovitostjo vsakega posameznika veliko manjša.
+Skozi ugotovitve iz raziskave bi večjim podjetjem, kot je Zavarovalnica Triglav d.d. s svojimi območnimi enotami, ki so po številu zaposlenih tako velika kot manjša oziroma srednje velika podjetja v Sloveniji, predlagal, da po določenem obdobju naredijo reorganizacijo podjetja, s tem pa na novo določijo naloge za vsakega zaposlenega, mu dodelijo dodatne naloge ter s tem delavce motivirajo in jim nudijo tako osebnostni razvoj kot napredovanje v podjetju. Delavec s tem pridobi možnost napredovanja in dodatne odgovornosti ter kompetence, kar mu daje novo motivacijo pri delu.
+Prav tako pa bi podjetju HIL d.o.o. svetoval, da razmisli o možnostih dodatnega zaposlovanja, saj je bolniški stalež zaposlenih velikokrat posledica stresa. Predlagam tudi dodatne motivacijske prijeme, ki bodo zaposlenim - zastopnikom dajali dodaten zagon pri delu.
+
+4 SKLEP
+Stres je danes v poslovnem svetu problematika številka ena v domala vseh državah, kjer je razvito gospodarstvo v smeri kapitalističnih tendenc. Velja za novodobno bolezen zaposlenih, ki povzroča težave tako zaposlenim kot vodilnim oziroma lastnikom podjetij. Zaposleni se s stresom srečujejo vsak dan in le redkim uspe stres obvladati. Zaradi vse večjega opozarjanja na posledice stresa sem se tudi sam odločil svoj študij zaključiti s to temo. Ob proučevanju dveh podjetji, enega z zasebnim in drugega s pretežno državnim lastništvom, sem lahko prikazal razlike, ki se pojavljajo pri delu in odražajo na počutju zaposlenih oziroma delavcev.
+Ob analizi prisotnosti stresa v podjetju HIL d.o.o. in Zavarovalnici Triglav d.d., OE Maribor je razvidno, da so zaposleni slednjega podjetja veliko manj podvrženi stresu in da imajo pri svojem delu veliko več svobode. Za kar pa je po mojem mnenju tudi vzrok osebni dohodek.
+Zaposleni zastopniki pri Zavarovalnici Triglav, OE Maribor imajo namreč fiksno minimalno zajamčeno plačo, njihov dodatni prihodek pa je sestavljen iz provizije dodatno prodanih zavarovanj, katere prodajo tekom meseca. Torej rečeno pavšalno. Minimalno plačo na mesec imajo zagotovljeno. Za razliko od zastopnikov pri podjetju HIL d.o.o., ki so na podjetje vezani s pogodbenimi razmerji in so mesečno odvisni od pripeljanih strank oziroma prodanih zavarovanj.
+Glede na prisotnost stresa v obeh podjetjih in spoznanj, ki sem jih dobil s pomočjo odgovorov zaposlenih, lahko le upam, da jim bodo nadrejeni v podjetjih bolj naklonjeni in da bodo upoštevali navedene predloge. Zaposleni so danes najpomembnejši segment podjetja in brez dobrih, zdravih in motiviranih zaposlenih lahko še tako uspešno podjetje zabrede v težave, saj še tako uspešno podjetje brez zaposlenih ne more delovati in biti uspešno.
+
+5 POVZETEK
+V današnjem času skorajda ni človeka med delovno aktivnim prebivalstvom, ki ne bi vsaj malo trpel zaradi stresa oziroma bil le-temu izpostavljen. Stres je prisoten na vsakem našem koraku in po vsem svetu. Stres je bolezensko stanje današnjega časa, ki lahko povzroči vrsto novih - drugih bolezni, kot najpogostejša se pojavljajo rakasta obolenja.
+Zato je pomembno, da negativni stres, ki ga doživljamo, čimprej spoznamo in ga tudi poskušamo odpraviti. Najpogosteje se stres pojavlja na delovnem mestu. Zakaj?
+Delovno mesto nam predstavlja vir preživetja. In če so naši predhodniki nekoč hrano lovili, si jo sedaj lahko kupimo z denarjem, katerega moramo pridelati oziroma zaslužiti. Na trgu delovne sile vlada vedno večja konkurenca, vedno več je takšnih, ki dela sploh ne dobijo in vse to nas pripelje do stresa. Dodatno stresno obremenitev pa nam nalagajo tudi vodje v podjetjih oziroma lastniki podjetij, ki vse bolj in bolj stremijo k dodani vrednosti kapitala oziroma dobička.
+Na delovnem mestu se želimo čim bolj dokazovati in zato prejeti čim večje plačilo. Prav zato smo nenehno v pogonu, kar pa pomeni stres. Telesne zmogljivosti so velikokrat presežene in začnejo se pojavljati prvi znaki stresa. Nespečnost, glavoboli, tesnoba, zaskrbljenost, pozabljivost, neučinkovitost, neuspešnost, neodločnost,…
+Pri preprečevanju stresa in odpravljanju njegovih posledic igra telesna aktivnost zelo pomembno vlogo, vendar pa je istočasno priporočljivo tudi učenje tehnik za sproščanje, ki vplivajo na spremembo odziva na stresno situacijo.
+Ključne besede:
+- stres
+- negativni stres
+- posledice
+- sproščanje
+- preobremenjenost
+- delovno mesto
+- kadri
+- zasebni sektor
+- javni sektor
+
+6 SUMMARY
+In today’s world almost everyone among the active working population suffers from stress or is at least exposed to it. Stress is everywhere—a part of every lifestyle around the world.
+Stress is the constant disease of our time, and its effects can contribute to a number of other illnesses, particularly cancer.
+Therefore, it is imperative that people recognise the negative impacts of personal stress and try to eliminate it. In most cases stress is work-related. But why? One’s workplace represents one’s source of survival. While human ancestors once hunted to obtain food, now most people buy food in markets with the money they have to earn. The competition within the labour market is growing stronger every day, and with each day, more people are left unable to find or keep a job, adding to the stress of everyday existence. In addition, managers and business owners who want to increase their profit margin push more pressure on their employees, adding even more stress for their workers.
+At the workplace people want to demonstrate their knowledge to earn the highest salary possible. This goal encourages people to be constantly on the move, which consequently means that stress is constantly present. People go beyond their physical limits, and the first signs of stress become apparent: sleeplessness, headaches, discomposure, solicitude, forgetfulness, ineffectiveness, unsuccessfulness, and inconclusiveness as well as others.
+Physical activity plays a decisive role in avoiding stress and attempting to eliminate its consequences. At the same time, it is advisable to learn the different stress relaxation techniques that effect one’s reaction to stress situations.
+Key words:
+- stress,
+- negative stress,
+- consequence,
+- to loosen,
+- burdening,
+- passage,
+- workers,
+- private sector,
+- public sector
+
+7 VIRI
+Knjižni viri
+1. Maslach, Christina in Michael P. Leitner. 2002. Resnica o izgorevanju na delovnem mestu. Ljubljana: Educy d.o.o.
+2. Powell, Trevor. 1999. Kako premagamo stres. Ljubljana: Založba Mladinska knjiga
+3. Muchinsky, Paul. 1997. Psychology Applied to Work. ZDA: 5th Edition 4. Setnikar - Cankar, Stanka. 2003. Ekonomika Javnega sektorja s proračunskim financiranjem. Ljubljana: Univerza v Ljubljani. Visoka upravna šola 5. Pečar, Zdravko. 2003. Management v javnem sektorju. Ljubljana: Univerza v Ljubljani, Visoka upravna šola.
+6. Nowotny, Ewald. 1991. Der öffentliche Sektor. Berlin: Springer - Verlag.
+7. Obermann, Gabriel in Karl Soukup, 1992. Öffentliche Unternehmen und die europäische Integration, Wien: Manzsche Verlags- und Universitätbuchhandlung.
+8. Kovčič, Bogdan. 1999. Poslovodenje v javnem sektorju. Novo mesto: Visokošolsko središče Novo mesto, Visoka šola za upravljanje in poslovanje.
+9. Firth-Cozens, Jenny in Payne, Roy. 1999. Stress in health professionals : psychological and organisational causes and interventions
+10. Ihan, Alojz. 2005. Stres na delovnem mestu in spoprijemanje z njim : kaj lahko naredim, da živim v sožitju s stresom?
+11. Božič, Mija. 2003. Stres pri delu : priročnik za prepoznavanje in odpravljanje stresa pri delu poslovnih sekretarjev
+12. Treven, Sonja; Potočan, Vojko; Kovač, Jure. 2005. Premagovanje stresa 13. Barling, Julian; Kelloway, E. Kevin; Frone, Michael Robert. 2005. Handbook of work stress Internetni viri
+1. (http://www.dominor.si/stres/)
+2. (http://www.dominor.si/stres/vrste-posledice/) 3. (http://agency.osha.eu.int/publications/factseets/22/sl/indeks.htm) 4. (http://www.workinfo.govt.nz/dokumets/uploads/managestress.pdf) 5. (http://geosalud.com/Salud%20Ocupacional/esres_laboral.html) 6. (http://www.delavska-participacija.com/html/zvzd.html) 7. (http://www.stat.si/letopis/indeks_vsebina.asp?poglavje=10&leto=2005&jezik=si) 8. (http://www.sigov.si/zmar/arhiv/og0799/eosl0799.html#idr)
+
+PRILOGA 1: ANKETA O STRESU NA DELOVNEM MESTU V PODJETJIH JAVNEGA IN ZASEBNEGA SEKTORJA
+Spoštovani!
+Sem Tadej Hat, absolvent Ekonomsko-poslovne fakultete v Mariboru. Pripravljam diplomsko nalogo z naslovom STRES NA DELOVNEM MESTU V PODJETJIH JAVNEGA IN ZASEBNEGA SEKTORJA. Naprošam vas, da mi odgovorite na spodnja zastavljena vprašanja, kar mi bo v pomoč pri ugotavljanju stresa na vašem delovnem mestu.
+V naprej se vam zahvaljujem.
+1. SPOL a) moški b) ženski
+2. STAROST a) od 20 do 30 b) od 30 do 40 c) od 40 do 50 d) od 50 do 60 e) 60 ali več
+3. DOKONČANA IZOBRAZBA a) srednješolska b) višja poslovna c) visoka poslovna d) univerzitetna e) podiplomska
+4. DELOVNA ORGANIZACIJA 5. DELOVNO MESTO
+Prosim, če naslednje trditve ocenite z vrednostmi od 1 do 5 1 – pomeni, da trditev ne drži 5 – pomeni, da trditev popolnoma drži
+TRDITVE SO POVEZANA Z VAŠIM DELOVNIM OKOLJEM
+6. Sem zadovoljen s svojim delovnim mestom.
+7. Moje delo je cenjeno.
+8. Moje delo v podjetju je pestro in zanimivo.
+
+9. Moje delo vključuje nadure.
+10. Stres v podjetju velja kot slabost.
+11. Imam vpliv na program svojega dela.
+12. Opis delovnih nalog je jasen, pristojnosti so jasno opredeljene.
+13. Vključen-a sem v sprejemanje pomembnih odločitev.
+14. Delo se mi zdi pretežko.
+15. Pri svojem delu ne čutim veliko zadovoljstva.
+16. Včasih čutim praznino in depresivnost zaradi svojega dela.
+17. Imam preveč dela in premalo časa.
+18. Moja komunikacija z sodelavci/nadrejenimi/družino je napeta.
+19. Moji nadrejeni zlorabljajo položaj.
+20. Nadrejeni upoštevajo mnenje zaposlenih.
+21. Imam dovolj znanja, da bi lahko delal na novih področjih.
+22. Redno nas obveščajo o seminarjih.
+23. Zaradi stresa na delovnem mestu se poslužujem sintetičnih substanc (beri: tablet).
+
+NASLEDNJA VPRAŠANJA SO POVEZANA Z VAŠO OSEBNOSTJO
+24. Spadate med ljudi, ki:
+- eksplodirate, a se hitro umirite.
+- se grizete v sebi, a tega ne pokažete.
+- Nikoli ne izgubite nadzora nad seboj.
+25. Kateri pregovor je najbližji vaši osebnostni opredelitvi?
+- Nobena juha se ne poje tako vroča, kot se skuha.
+- Vsaka stvar je za nekaj dobra.
+- Nikoli ni tako slabo, da ne bi moglo biti še slabše.
+26. Kako sami vidite svoje življenje?
+- Veselim se vsakega novega dne.
+- Zadovoljivo.
+- Lahko bi bilo bistveno boljše.
+27. Kakšni ste?
+- Živahni in brezskrbni, odporni proti kopičenju pritiska, na pritiske se odzovete z mrzlično aktivnostjo.
+- Počasni, sproščeni, metodični, odporni proti stresu, v obremenilnih situacijah se skušate nadzirati in postanete nedejavni, trmasti in togi.
+- Tihi in otožni, kar se v stresnih razmerah spremeni v depresivnost, odmaknjenost in nedejavnost.
+28. Na zdravniškem pregledu vas opozorijo, da imate zvišane vrednosti holesterola. Kaj boste storili?
+- Slabe prehranjevalne navade boste nemudoma nadomestili z dobrimi in se naučili sproščati napetosti.
+- Kot vedno, si boste takoj obljubili, da se boste začeli rekreirati, uporabljati stopnice namesto dvigala, da boste svoj avtomobil parkirali dovolj daleč zato, da boste več hodili peš.
+- Ne boste se preveč vznemirjali, samo ob stresnem dnevu, ko vas zaboli srce in je vaše dihanje oteženo, se prestrašite.
+29. Kadar ne morete zaspati, najdete vzrok v tem, da ste:
+- nekoliko iz ravnotežja zaradi slabe prebave, pozne kave ali prevelikega števila pokajenih cigaret ter preveč alkohola,
+- nemirni in vznemirjeni brez pravega vzroka,
+- ležite budni v postelji in razmišljate o tem, kaj se vam je zgodilo ta dan, kaj se vam je zgodilo včeraj in kaj vse se vam lahko zgodi jutri.
+30. Večje spremembe v življenju (selitev, otrokovo rojstvo, nova služba, ločitev ...) vam povzročijo občutke:
+- veselja in pričakovanja
+- utrujenosti in brezvoljnosti
+- razdražljivosti in napetosti
+
+31. Utrujeni ste, otroci se prepirajo, stanovanje je nepospravljeno, nimate časa za nič. Partner vam sicer pomaga, vendar ne dovolj. Vaše reakcije?
+- Veste, da je to partner vašega življenja in mu zato poskušate mirno povedati, kaj vas moti.
+- Delate, kolikor se pač da, in se tolažite, da partner ni ravno idealen, ima pa vseeno veliko drugih dobrih lastnosti
+- Razmišljate o prekinitvi slabega partnerstva
+32. Poslali ste prošnjo za novo službo. Ravnokar ste prejeli pismo, v katerem vam sporočajo, da niste sprejeti.
+- Prošnjo pošljete še na vse druge naslove, šele potem se boste odločali, kako naprej.
+- Zmečkate pismo in ga vržete v smeti. Služba tako ali tako ni kdove kakšna.
+- Tedne hodite naokoli, sprašujete in razmišljate samo o tem, zakaj vas niso sprejeli.
+33. Zamujate na pomemben sestanek. Vse vam gre narobe: na cesti je gneča, avtomobil nagaja, ura teče … vas pa čakajo! Kako reagirate?
+- Sporočite, da zamujate, in upate, da bodo razumeli.
+- Hupate in se poskušate prebiti naprej. Če boste vozili dovolj hitro, boste morda prišli pravočasno.
+- Panično in s strahom, kaj bo.
+

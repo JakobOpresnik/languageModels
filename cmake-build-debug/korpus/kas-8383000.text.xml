@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-8383000" doc_id="8383000" text_id="8727201" cobiss_id="17605654" title="Sanacija kotlovnice v hotelu Orel" author="Kirbiš, Jernej" supervisor="Hribernik, Aleš" year="2013" publisher_abbr="UM FS" publisher="Fakulteta za strojništvo" url="http://dkum.uni-mb.si/IzpisGradiva.php?id=41488" type="Diplomsko delo" udc="697.32(043.2)" udc_desc="Ogrevanje. Zračenje. Hlajenje. Klimatizacija zgradb" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V MARIBORU FAKULTETA ZA STROJNIŠTVO</p>
+    <p xml:id="pb1.p2" xml:lang="sl">Jernej KIRBIŠ</p>
+    <p xml:id="pb1.p3" xml:lang="sl">SANACIJA KOTLOVNICE V HOTELU OREL</p>
+    <p xml:id="pb1.p4" xml:lang="sl">Diplomsko delo univerzitetnega študijskega programa 1. stopnje Strojništvo</p>
+    <p xml:id="pb1.p5" xml:lang="sl">Maribor, september 2013</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">SANACIJA KOTLOVNICE V HOTELU OREL</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Diplomsko delo</p>
+    <p xml:id="pb2.p3" xml:lang="sl">Študent: Jernej KIRBIŠ</p>
+    <p xml:id="pb2.p4" xml:lang="sl">Študijski program: Univerzitetni študijski program 1. stopnje Strojništvo Smer: Energetsko, procesno in okoljsko strojništvo Mentor: red. prof. dr. Aleš HRIBERNIK Maribor, september 2013</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">- III - IV I Z J A V A</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">Podpisani Jernej KIRBIŠ izjavljam, da:</p>
+    <p xml:id="pb4.p2" xml:lang="sl">je bilo predloženo diplomsko delo opravljeno samostojno pod mentorstvom red. prof. dr. Aleša HRIBERNIKA;</p>
+    <p xml:id="pb4.p3" xml:lang="sl">predloženo diplomsko delo v celoti ali v delih ni bilo predloženo za pridobitev kakršnekoli izobrazbe na drugi fakulteti ali univerzi;</p>
+    <p xml:id="pb4.p4" xml:lang="sl">soglašam z javno dostopnostjo diplomskega dela v Knjižnici tehniških fakultet Univerze v Mariboru.</p>
+    <p xml:id="pb4.p5" xml:lang="sl">Maribor, 10.9.2013 Podpis: ___________________________</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">- V ZAHVALA</p>
+    <p xml:id="pb5.p2" xml:lang="sl">Zahvaljujem se mentorju red. prof. dr. Alešu HRIBERNIKU za pomoč in vodenje pri opravljanju diplomskega dela. Zahvaljujem se tudi Bojanu GAVEZU, Boštjanu VISOČNIKU in podjetju Menerga d. o. o. za pomoč, svetovanje in možnost uporabe programske opreme.</p>
+    <p xml:id="pb5.p3" xml:lang="sl">Posebna zahvala velja staršem, ki so mi omogočili študij, me podpirali in spodbujali skozi študijska leta.</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">- VI SANACIJA KOTLOVNICE V HOTELU OREL</p>
+    <p xml:id="pb6.p2" xml:lang="sl">Ključne besede: kotlovnica, toplotne izgube, energetska učinkovitost, obnovljivi viri energije.</p>
+    <p xml:id="pb6.p3" xml:lang="sl">UDK: 697.32(043.2) POVZETEK</p>
+    <p xml:id="pb6.p4" xml:lang="sl">V kotlovnici so nameščeni kotli, namenjeni ogrevanju prostorov. Pri sanaciji kotlovnice pa predvsem zamenjamo obstoječe kotle z novimi. Glavni cilj diplomskega dela je predstaviti trenutno stanje glede toplotnih potreb hotela Orel in drugih objektov, ki souporabljajo kotlovnico hotela, ter predlagati ukrepe, ki bi zmanjšali toplotne izgube objektov in povečali njihovo energetsko učinkovitost. Na podlagi že znanih načrtov in shem objektov se je opravil izračun toplotnih izgub stavb. Izračun se je opravil s programsko opremo ETU Haustechnik, z upoštevanjem izračuna, podatkov o porabi plina in pravilnika o učinkoviti rabi energije v stavbah pa se je določila potrebna moč kotlov.</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="en">- VII RECONSTRUCTION OF BOILER ROOM IN HOTEL OREL</p>
+    <p xml:id="pb7.p2" xml:lang="en">Key words: boiling room, heat losses, the energy performance of buildings, renewable energy sources.</p>
+    <p xml:id="pb7.p3" xml:lang="en">UDK: 697.32(043.2) ABSTRACT</p>
+    <p xml:id="pb7.p4" xml:lang="en">Boilers are installed in a boiler room, and are used for heating buildings and living areas.</p>
+    <p xml:id="pb7.p5" xml:lang="en">When reconstructing a boiler room we primarily replace old boilers with new ones. The main objective of the thesis is to present the current state regarding heat losses of the hotel Orel and other buildings and facilities that share the boiler room of hotel Orel, and to suggest measures, which would reduce heat losses and improve energy efficiency of buildings. Based on known plans and schemes of buildings, a calculation of heat losses was made. We used a program ETU Haustechnik to calculate heat losses, and according to results, the data about gas consumption and in accordance with Regulations on effective energy use in buildings, the necessary power of boilers was determined.</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">- VIII KAZALO</p>
+    <p xml:id="pb8.p2" xml:lang="sl">1 UVOD ................................................................................................................................. 1 1.1 OPIS SPLOŠNEGA PODROČJA DIPLOMSKEGA DELA ......................................................... 1 1.2 OPREDELITEV DIPLOMSKEGA DELA ............................................................................... 1 1.3 STRUKTURA DIPLOMSKEGA DELA ................................................................................. 2 2 TRADICIONALNI MODEL PRENOSA TOPLOTE V STAVBAH ........................... 3</p>
+    <p xml:id="pb8.p3" xml:lang="sl">2.1 PREZRAČEVALNE IZGUBE .............................................................................................. 4 2.2 TRANSMISIJSKE IZGUBE ................................................................................................ 6 3 AKTUALNA PROBLEMATIKA .................................................................................... 9 3.1 PRAVILNIK O UČINKOVITI RABI ENERGIJE V STAVBAH ................................................... 9 3.2 ENERGETSKA UČINKOVITOST STAVBE ......................................................................... 10 4 OPIS PODJETJA ............................................................................................................ 12 4.1 TERME MARIBOR D. D. ................................................................................................ 12 4.2 HOTELA OREL IN UNI ................................................................................................. 13 5 POSTOPEK IZRAČUNA TOPLOTNIH IZGUB ....................................................... 14 5.1 PROGRAM ETU HAUSTECHNIK ................................................................................... 14 5.2 TRENUTNO STANJE ...................................................................................................... 15 6 REZULTATI ................................................................................................................... 17 6.1 PORABA PLINA ............................................................................................................ 17 6.2 TEMPERATURE PROSTOROV IN OKOLICE ..................................................................... 19 6.3 PRIMERJAVA PODROBNEGA IN POENOSTAVLJENEGA IZRAČUNA .................................. 20 6.4 IZRAČUN TOPLOTNIH IZGUB ........................................................................................ 24</p>
+    <p xml:id="pb8.p4" xml:lang="sl">6.4.1 Konstrukcijski elementi za prenos toplote .............................................................. 24</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">- IX 6.5 PREDLOG PRENOVE ..................................................................................................... 33 6.6 CELOTNE TOPLOTNE IZGUBE ....................................................................................... 35 6.7 IZRABA ODPADNE TOPLOTE PRALNICE HOTELA S POMOČJO TOPLOTNE ČRPALKE ........ 38</p>
+    <p xml:id="pb9.p2" xml:lang="sl">6.7.1 Parametri pralnice hotela Orel .............................................................................. 38</p>
+    <p xml:id="pb9.p3" xml:lang="sl">6.8 OKVIRNI STROŠKI PRENOVE ........................................................................................ 39</p>
+    <p xml:id="pb9.p4" xml:lang="sl">6.8.1 Toplotna izolacija ................................................................................................... 39 6.8.2 Okna ....................................................................................................................... 40 6.8.3 Kotli ........................................................................................................................ 41 6.8.4 Toplotna črpalka .................................................................................................... 41 6.8.5 Variabilni stroški .................................................................................................... 41 6.8.6 Skupni stroški prenove ........................................................................................... 42 6.8.7 Ekonomičnost investicije ........................................................................................ 43</p>
+    <p xml:id="pb9.p5" xml:lang="sl">7 SKLEP .............................................................................................................................. 46 8 SEZNAM UPORABLJENIH VIROV ........................................................................... 47 9 PRILOGE ........................................................................................................................ 48</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">- X UPORABLJENI SIMBOLI</p>
+    <p xml:id="pb10.p2" xml:lang="sl">Q – potrebna toplota za ogrevanje stavbe; tudi toplotne izgube Tn – temperatura n-te plasti Ti – notranja temperatura prostora Te – zunanja temperatura okolice V – faktor prezračevalnih izgub A – površina</p>
+    <p xml:id="pb10.p3" xml:lang="sl">U – toplotna prehodnost v – volumski tok zraka s – volumetrična specifična toplota zraka N – število menjav zraka v prostoru v eni uri Vr – volumen prostora hc – faktor konvekcijske izmenjave toplote ε – emisivnost</p>
+    <p xml:id="pb10.p4" xml:lang="sl">– sevalna izmenjava toplote na enoto površine hi – koeficient notranje plasti stene he – koeficient zunanje plasti stene</p>
+    <p xml:id="pb10.p5" xml:lang="sl">– toplotna prevodnost X – debelina plasti stene Ri – toplotni upor plasti stene</p>
+    <p xml:id="pb10.p6" xml:lang="sl">̅ – povprečna moč</p>
+    <p xml:id="pb10.p7" xml:lang="sl">– kurilnost</p>
+    <p xml:id="pb10.p8" xml:lang="sl">– prostornina plina t – čas</p>
+    <p xml:id="pb10.p9" xml:lang="sl">– specifična toplota</p>
+    <p xml:id="pb10.p10" xml:lang="sl">– temperaturna sprememba m – masa</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">- XI UPORABLJENE KRATICE</p>
+    <p xml:id="pb11.p2" xml:lang="sl">PURES – pravilnik o učinkoviti rabi energije v stavbah EPK – Evropska prestolnica kulture MTC – medicinsko termalni center</p>
+    <p xml:id="pb11.p3" xml:lang="sl">SPTE – soproizvodnja toplotne in električne energije</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">1 UVOD</p>
+    <p xml:id="pb12.p2" xml:lang="sl">1.1 Opis splošnega področja diplomskega dela</p>
+    <p xml:id="pb12.p3" xml:lang="sl">Narava je pač takšna, da se nizkim temperaturam v naravi kljub razviti tehnologiji ne moremo izogniti. Zato je za naše dobro počutje potrebno naša stanovanja, hiše in druge objekte ogrevati. Zaradi lastnosti materialov, ki sestavljajo okna, zidove, strehe, tla, nam toplota tako ali drugače uhaja v okolico, torej moramo toploto nenehno nadomeščati, če želimo ohranjati želeno temperaturo prostora.</p>
+    <p xml:id="pb12.p4" xml:lang="sl">V ta namen imamo v vsakem objektu peči, ki skrbijo za ogrevanje prostorov. V večjih objektih – hoteli, industrijski in poslovni objekti, medicinski objekti, trgovski centri in druge javne ustanove – so peči in kotli nameščeni v temu namenjenih prostorih – kotlovnicah. Tako so jasno vidne peči, napeljave in razvodi, lažje je vzdrževanje in nadzorovanje delovanja.</p>
+    <p xml:id="pb12.p5" xml:lang="sl">Glavni namen kotlov je zagotavljati zadostno količino toplote, potrebne za ogrevanje nekega objekta, preko regulacije pa še vzdrževanje želene temperature.</p>
+    <p xml:id="pb12.p6" xml:lang="sl">1.2 Opredelitev diplomskega dela</p>
+    <p xml:id="pb12.p7" xml:lang="sl">Pri sanaciji kotlovnice gre predvsem za zamenjavo obstoječih kotlov z novimi. Pri tem je najpomembnejša moč kotlov, saj kotli premajhnih moči ne bi proizvedli dovolj toplote in ne bi uspeli zagreti prostore do želene temperature. Za določitev moči kotlov pa je potrebno poznati toplotne izgube, torej je potrebno določiti toplotni ovoj stavbe. Za izračun smo upoštevali načrte objekta, ki so bili na voljo. V primeru premalo zanesljivih načrtov, bi se morale opraviti ponovne izmere objekta in izrisati nove podloge.</p>
+    <p xml:id="pb12.p8" xml:lang="sl">Za izračun toplotnih izgub se je uporabila programska oprema ETU Haustechnik podjetja ETU GmbH iz Welsa v Avstriji. Programsko opremo je nudilo mariborsko podjetje Menerga d. o. o. V program so se vnašali vsi parametri, ki so potrebni za določitev toplotnih izgub. Pri tem so se upoštevali predpisi, standardi in zakonodaja. Program temelji na standardu EN 12831 [3].</p>
+    <p xml:id="pb12.p9" xml:lang="sl">Na podlagi dobljenih rezultatov so se na koncu oblikovali predlogi glede prenove objektov ter kako zmanjšati toplotne izgube in izboljšati energetsko učinkovitost objekta.</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">1.3 Struktura diplomskega dela</p>
+    <p xml:id="pb13.p2" xml:lang="sl">V diplomskem delu je najprej podan splošni del glede prenosa toplote in računanja toplotnih izgub stavbe. Sledi povzetek iz slovenske zakonodaje, iz pravilnika o učinkoviti rabi energije v stavbah ter o lastnostih le-tega. Predstavljeni so tudi pogoji, ki jih mora stavba izpolnjevati, da je dosežena energijska učinkovitost. Za tem sledijo splošni podatki o podjetju kot lastniku objekta ter podatki o samem objektu, ki je predmet obravnave v diplomskem delu. Podrobneje je predstavljena kotlovnica in ogrevalni sistem stavbe ter opisano trenutno stanje. Sledijo značilnosti programske opreme ETU Haustechnik in postopek izračuna toplotnih izgub v tem programu. Prikazani so podatki glede porabe plina, iz teh podatkov pa izračunana moč kotlov.</p>
+    <p xml:id="pb13.p3" xml:lang="sl">Za tem so podani rezultati toplotnega preračuna. Najprej so podani rezultati podrobnega izračuna in primerjava le-tega s poenostavljenim. Nato so podani rezultati izračunov za vse stavbe, ki so zajete v izračunu. V zadnjem delu so podani predlogi za izboljšanje energetske učinkovitosti stavbe, katerim so prav tako dodani toplotni izračuni. Na podlagi rezultatov se predlaga nova oprema, ki bi se ob sanaciji kotlovnice lahko namestila v objekt. Delo vključuje tudi okviren izračun stroškov delov prenove objektov.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">2 TRADICIONALNI MODEL PRENOSA TOPLOTE V STAVBAH</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Glede na tradicionalni model je celotna toplota, ki jo potrebujemo za ogrevanje prostora:</p>
+    <p xml:id="pb14.p3" xml:lang="sl">– toplota, potrebna za ogrevanje</p>
+    <p xml:id="pb14.p4" xml:lang="sl">– notranja temperatura prostora</p>
+    <p xml:id="pb14.p5" xml:lang="sl">– zunanja temperatura okolice</p>
+    <p xml:id="pb14.p6" xml:lang="sl">] – koeficient prezračevalnih izgub</p>
+    <p xml:id="pb14.p7" xml:lang="sl">– površina</p>
+    <p xml:id="pb14.p8" xml:lang="sl">] – toplotna prehodnost</p>
+    <p xml:id="pb14.p9" xml:lang="sl">Slika 2.1: Temperaturni profil pri prehodu toplote skozi steno s tremi sloji Parameter Ti je temperatura prostora, ki velja kot merilo za tok toplote proti zunanji temperaturi Te, hkrati pa je to temperatura, pri kateri se v prostor dovaja toplota za ogrevanje.</p>
+    <p xml:id="pb14.p10" xml:lang="sl">Ista temperatura služi tudi kot merilo za termično udobje. V in ∑AU pa sta faktorja posameznih toplotnih izgub; V predstavlja prezračevalne izgube, ∑AU pa transmisijske izgube zaradi prevoda toplote (Slika 2.1).</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">Pri ogrevanju v prostor dovajamo toploto preko grelnih teles, ta toplota pa se razporedi po sobi s pomočjo konvekcije in sevanja. To sta dva mehanizma prenosa toplote, ki pa ju ta model obravnava v zelo poenostavljeni obliki. Kljub temu pa se je model uporabljal pri konstruiranju elektrarn in toplarn vse do leta 1970, in velja za model, ki poda dovolj dobre in zanesljive približke, ki zadostujejo za reševanje enostavnejših problemov.</p>
+    <p xml:id="pb15.p2" xml:lang="sl">Vrednost V+∑AU je znana kot faktor toplotnih izgub in je včasih označena še bolj poenostavljeno kot AU. Koeficient AU je razmerje med količino vnesene toplote in temperaturno razliko. V tako poenostavljeni obliki bi lahko potrebno toploto ocenili z nekaj meritvami in nekaj računanja; grelna telesa namreč porabljajo vir energije (elektrika, fosilna goriva …), oddajajo proizvedeno toploto v prostor in tako vzdržujejo temperaturo prostora približno konstantno.</p>
+    <p xml:id="pb15.p3" xml:lang="sl">2.1 Prezračevalne izgube</p>
+    <p xml:id="pb15.p4" xml:lang="sl">Navadno pri reševanju problemov iz prenosa toplote v stavbah predvidevamo, da se okoliški zrak temperature Te pri vstopu v prostor takoj porazdeli in pomeša s prostorskim zrakom in se zagreje na temperaturo prostora Ti. Izraz 'naravno prezračevanje' se pogosto uporablja za označevanje izmenjave zraka med prostorom in zunanjostjo skozi arhitekturno oblikovane odprtine, kot so okna, vrata, prezračevalni kanali in odprtine. Infiltracija je nekontrolirano gibanje zraka skozi razpoke in odprtine različnih vrst. V vseh primerih pa infiltracijo poganja slednje: veter v okolici se pojavi zaradi horizontalnih tlačnih razlik, hkrati pa se zračni tok lahko ustvari zaradi temperaturnih razlik in se pojavijo še tlačne razlike v vertikalni smeri, kar samo po sebi predstavlja nek zračni tok in z ustvarjeno silo na podlago zaradi gibanja potiska zrak skozi razpoke in odprtine. Prisilno prezračevanje pa se nanaša na zračni tok, ki ga ustvarja ventilator, bodisi enostavno vgrajen v steno ali kot del kompleksnejšega sistema, ki dovaja zrak preko prezračevalnih kanalov.</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">»Prezračevanje in infiltracija zraka v prostore in zgradbe predstavljata znatne energijske izgube, ki lahko znašajo med 25 – 50 % celotne količine toplote, ki jo zgradba potrebuje za ogrevanje. Dandanes zgradbe postajajo vedno bolj energetsko učinkovite, zato je pričakovati, da bo prezračevanje postalo glavni mehanizem transporta toplote. Nepotrebno in prekomerno izmenjavanje zraka lahko ima globalno gledano pomemben vpliv na energijske izgube. Na drugi strani pa lahko preslabo, nezadostno prezračevanje privede do slabe kvalitete prostorskega zraka in posledično do zdravstvenih težav ljudi. Načrtovanje optimalnega prezračevanja in prezračevalnega sistema je torej zelo pomemben, vitalen del projektiranja zgradbe, saj moramo zagotoviti energetsko učinkovitost sistema in zdravju prijazno okolje. To pa je navadno zelo zahtevna naloga zaradi kompleksnosti obnašanja zračnega toka, klimatskih vplivov, karakteristik uporabnika prostora in karakteristik onesnaženosti okoliškega zraka.« Liddament (1998) [2].</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Če je v [m3/s] volumski tok zraka in s [J/m3K] volumetrična specifična toplota zraka (znaša okrog 1200 J/m 3</p>
+    <p xml:id="pb16.p3" xml:lang="sl">K), potem mora biti razlika v notranji energiji vs(Ti-Te) enaka toploti Qc, ki jo dovede zrak. Če še zanemarimo minimalne spremembe gostote zaradi spremembe temperature, potem lahko zapišemo prezračevalne izgube toplote V [W/K] kot: Pogosto se potrebna stopnja prezračevanja poda tudi kot število menjav prostorskega zraka v eni uri. Torej velja:</p>
+    <p xml:id="pb16.p4" xml:lang="sl">– število menjav zraka v prostoru v eni uri</p>
+    <p xml:id="pb16.p5" xml:lang="sl">– število menjav zraka v sekundi</p>
+    <p xml:id="pb16.p6" xml:lang="sl">– prostornina prostora</p>
+    <p xml:id="pb16.p7" xml:lang="sl">] – volumetrična specifična toplota zraka [2]</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Priporočene vrednosti za število menjave zraka N so med 0,5 in 1 menjavo zraka prostora na uro, kar pa lahko privede do vrtoglavih vrednosti pri zelo velikih prostorih.</p>
+    <p xml:id="pb17.p2" xml:lang="sl">2.2 Transmisijske izgube</p>
+    <p xml:id="pb17.p3" xml:lang="sl">Konvekcijsko izmenjavo toplote med zrakom in trdno površino opisuje koeficient hc, ki navadno znaša okrog 3 W/m2K. Sevalna izmenjava toplote na enoto površine, kot so na primer tla, z emisivnostjo ε, znaša približno:</p>
+    <p xml:id="pb17.p4" xml:lang="sl">] – koeficient sevalne izmenjave toplote</p>
+    <p xml:id="pb17.p5" xml:lang="sl">– emisivnost</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Večina gradbenih materialov ima emisivnost ε okrog 0,9. Delci prahu, kondenzirana vlaga in korozija so vzrok tako visoke vrednosti emisivnosti, čeprav lahko imajo nove čiste površine nižjo vrednost.</p>
+    <p xml:id="pb17.p7" xml:lang="sl">Ti dve vrednosti lahko združimo v en sam koeficient notranje plasti, ki torej znaša:</p>
+    <p xml:id="pb17.p8" xml:lang="sl">– koeficient konvekcijske izmenjave toplote</p>
+    <p xml:id="pb17.p9" xml:lang="sl">– koeficient notranje plasti</p>
+    <p xml:id="pb17.p10" xml:lang="sl">Toplotni tok s prostora temperature na površino, ki obdaja prostor s površino A in ima temperaturo , znaša: kjer indeks n predstavlja n-to, zadnjo plast stene, gledano iz zunanje strani proti notranjosti.</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">Na enak način lahko zapišemo tudi enačbo za toplotni tok, ki teče s stene v zunanji zrak: kjer indeks 0 označuje najbolj zunanjo plast stene, indeks e pa zunanji zrak.</p>
+    <p xml:id="pb18.p2" xml:lang="sl">Tako kot za koeficient hi, se tudi za koeficient he jemlje neka srednja izkustvena vrednost, in znaša 18 W/m2K. Ta vrednost prav tako vsebuje sevalni in konvektivni del, je pa toliko večji od koeficienta na notranji strani predvsem zaradi vetra, ki obteka površine. Tako se tukaj pojavi prisilna konvekcija, zaradi katere v realnosti ta vrednost ni konstantna, ampak se spreminja.</p>
+    <p xml:id="pb18.p3" xml:lang="sl">Enodimenzionalni toplotni tok skozi plast debeline X1 in prevodnosti λ1 pri temperaturah obeh mejnih površin plasti T0 in T1 je:</p>
+    <p xml:id="pb18.p4" xml:lang="sl">] – toplotna prevodnost</p>
+    <p xml:id="pb18.p5" xml:lang="sl">– debelina plasti</p>
+    <p xml:id="pb18.p6" xml:lang="sl">V stacionarnih razmerah je toplotni tok iz notranjosti skozi dve plasti v zunanjost: Toplotna prehodnost ali U-faktor je definiran kot: Iz prejšnje enačbe lahko zapišemo:</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">Če posplošimo, pa velja, da je prehodnost obratna vrednost vseh toplotnih uporov plasti, ki gradijo element, skozi katerega teče toplotni tok:</p>
+    <p xml:id="pb19.p2" xml:lang="sl">] – vsota vseh toplotnih uporov plasti</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">3 AKTUALNA PROBLEMATIKA</p>
+    <p xml:id="pb20.p2" xml:lang="sl">3.1 Pravilnik o učinkoviti rabi energije v stavbah</p>
+    <p xml:id="pb20.p3" xml:lang="sl">22. junija 2010 je Ministrstvo za okolje sprejelo Pravilnik o učinkoviti rabi energije v stavbah (PURES) [11], v veljavo pa je stopil s prvim julijem 2010. Ta pravilnik določa tehnične zahteve, ki morajo biti izpolnjene za učinkovito rabo energije v stavbah na področju toplotne zaščite (Preglednica 3.1), ogrevanja, hlajenja, prezračevanja ali njihove kombinacije, priprave tople vode in razsvetljave v stavbah, zagotavljanja lastnih obnovljivih virov energije za delovanje sistemov v stavbi ter metodologijo za izračun energijskih lastnosti stavbe.</p>
+    <p xml:id="pb20.p4" xml:lang="sl">Pravilnik se uporablja pri gradnji novih stavb in rekonstrukciji stavbe oziroma njenega posameznega dela, kjer se posega v najmanj 25 odstotkov površine toplotnega ovoja, če je to tehnično izvedljivo. Pri zagotavljanju učinkovite rabe energije v stavbah je treba upoštevati celotno življenjsko dobo stavbe, njeno namembnost, podnebne podatke, materiale konstrukcije in ovoja, lego in orientiranost, parametre notranjega okolja, vgrajene sisteme in naprave ter uporabo obnovljivih virov energije.</p>
+    <p xml:id="pb20.p5" xml:lang="sl">S toplotno zaščito površine toplotnega ovoja stavbe in ločilnih elementov delov stavbe z različnimi režimi notranjega toplotnega ugodja je treba:</p>
+    <p xml:id="pb20.p6" xml:lang="sl">– zmanjšati prehod energije skozi površino toplotnega ovoja stavbe;</p>
+    <p xml:id="pb20.p7" xml:lang="sl">– zmanjšati podhlajevanje ali pregrevanje stavbe;</p>
+    <p xml:id="pb20.p8" xml:lang="sl">– zagotoviti tako sestavo gradbenih konstrukcij, da ne prihaja do poškodb ali drugih škodljivih vplivov zaradi difuzijskega prehoda vodne pare;</p>
+    <p xml:id="pb20.p9" xml:lang="sl">– nadzorovati (uravnavati) zrakotesnost stavbe.</p>
+    <p xml:id="pb20.p10" xml:lang="sl">Projektirani in izvedeni sistem ogrevanja stavbe mora ob najmanjših toplotnih izgubah zagotoviti takšno raven notranjega toplotnega ugodja, kot je določena s predpisi, ki urejajo prezračevanje in klimatizacijo stavb, oziroma je določena v projektni nalogi, če je ta strožja od predpisane. Energijsko učinkovitost ogrevalnega sistema se zagotavlja z izborom energijsko učinkovitih generatorjev toplote, načrtovanja in izvedbe energijsko učinkovitega cevnega razvoda, izbora nizke projektne temperature ogrevalnega sistema in njegovega uravnoteženja ter regulacije temperature zraka v stavbi, njenem posameznem delu ali prostoru.</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">3.2 Energetska učinkovitost stavbe</p>
+    <p xml:id="pb21.p2" xml:lang="sl">Energijska učinkovitost stavbe je dosežena tudi, če je delež končne energije za ogrevanje in hlajenje stavbe ter pripravo tople vode pridobljen na enega od naslednjih načinov:</p>
+    <p xml:id="pb21.p3" xml:lang="sl">– najmanj 25 odstotkov iz sončnega obsevanja;</p>
+    <p xml:id="pb21.p4" xml:lang="sl">– najmanj 30 odstotkov iz plinaste biomase;</p>
+    <p xml:id="pb21.p5" xml:lang="sl">– najmanj 50 odstotkov iz trdne biomase;</p>
+    <p xml:id="pb21.p6" xml:lang="sl">– najmanj 70 odstotkov iz geotermalne energije;</p>
+    <p xml:id="pb21.p7" xml:lang="sl">– najmanj 50 odstotkov iz toplote okolja;</p>
+    <p xml:id="pb21.p8" xml:lang="sl">– najmanj 50 odstotkov iz naprav SPTE z visokim izkoristkom v skladu s predpisom, ki ureja podpore električni energiji, proizvedeni v soproizvodnji toplote in električne energije z visokim izkoristkom;</p>
+    <p xml:id="pb21.p9" xml:lang="sl">– da je stavba najmanj 50 odstotkov oskrbovana iz sistema energijsko učinkovitega daljinskega ogrevanja oziroma hlajenja.</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">Preglednica 3.1: Največja dovoljena toplotna prehodnost Umax [10] Št. Gradbena konstrukcija Umax [W/m 2</p>
+    <p xml:id="pb22.p2" xml:lang="sl">K]</p>
+    <p xml:id="pb22.p3" xml:lang="sl">1. Zunanje stene in stene proti neogrevanim prostorom, tla nad neogrevano kletjo ali nad neogrevanim prostorom in tla nad zunanjim zrakom.</p>
+    <p xml:id="pb22.p4" xml:lang="sl">1a. Zunanje stene in stene proti neogrevanim prostorom – manjše površine pod 10 % površine neprozornega dela.</p>
+    <p xml:id="pb22.p5" xml:lang="sl">2. Stene med ogrevanimi prostori različnih enot, različnih uporabnikov ali lastnikov</p>
+    <p xml:id="pb22.p6" xml:lang="sl">Stene, ki mejijo na sosednje stavbe 0,90 0,50</p>
+    <p xml:id="pb22.p7" xml:lang="sl">3. Dvojne fasade: prepustnost celotnega sončnega sevanja stekla g. svetlobna prepustnost stekla WD65.</p>
+    <p xml:id="pb22.p8" xml:lang="sl">4. Zunanja stena proti terenu in strop proti terenu. 0,30 5. Stropna konstrukcija med ogrevanimi prostori 1,35. 1,35 6. Strop proti neogrevanemu prostoru, ravna in poševna streha nad neogrevanim prostorom.</p>
+    <p xml:id="pb22.p9" xml:lang="sl">7. Tla na terenu (ne velja za industrijske stavbe). 0,30 8. Tla na terenu in tla nad terenom pri ploskovnem gretju. 0,30 9. Lahke gradbene konstrukcije (pod 150 kg/m2) razen streh. 0,20 10. Okna in okenska vrata v gretih prostorih: prepustnost celotnega sončnega sevanja stekla g. svetlobna prepustnost stekla WD65.</p>
+    <p xml:id="pb22.p10" xml:lang="sl">11. Steklene strehe, svetlobniki, zimski vrtovi: največja prepustnost celotnega sončnega sevanja stekla g. najmanjša svetlobna prepustnost stekla WD65.</p>
+    <p xml:id="pb22.p11" xml:lang="sl">12. Svetlobne kupole: največja prepustnost celotnega sončnega sevanja stekla g. najmanjša svetlobna prepustnost stekla WD65.</p>
+    <p xml:id="pb22.p12" xml:lang="sl">13. Zaščita pred soncem. Pri uporabi refleksijskih stekel veljajo naslednje vrednosti: za dvojne fasade: največja prepustnost celotnega sončnega sevanja stekla g. najmanjša svetlobna prepustnost stekla WD65. za okna in okenska vrata: največja prepustnost celotnega sončnega sevanja stekla g. najmanjša svetlobna prepustnost stekla WD65.</p>
+    <p xml:id="pb22.p13" xml:lang="sl">14. Dodatek k Um zaradi manjših toplotnih mostov 'Um. 0,05 15. Srednje vrednosti dovoljenih toplotnih prehodnosti Upov za skupine konstrukcij, kadar se zahteve iz točk 1 do 15 zaradi tehnoloških razlogov ne morejo uporabiti za posamezen del konstrukcije: a) neprosojne gradbene konstrukcije ovoja stavbe (razen če niso zajete v c) in d)) b) prosojne gradbene konstrukcije ovoja stavbe (razen če niso zajete v c) in d)) c) dvojne fasade d) steklene strehe, svetlobniki, svetlobne kupole 0,35 1,90 1,90 3,10</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">4 OPIS PODJETJA</p>
+    <p xml:id="pb23.p2" xml:lang="sl">4.1 Terme Maribor d. d. [12]</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Družba Terme Maribor d. d. je podjetje, ki se ukvarja s turističnimi storitvami v Sloveniji, sedež pa imajo v Mariboru. Podjetje je nastalo leta 1985 z izključitvijo iz prometno turistične organizacije Certus Maribor. Prvotna družba se je imenovala Turistično gostinsko podjetje Pohorje Maribor.</p>
+    <p xml:id="pb23.p4" xml:lang="sl">Terme Maribor d.d. se ukvarja z različnimi dejavnostmi. V hotelih, Travel Shop-ih in gostinskem obratu Gostilna Pri Treh ribnikih izvajajo hotelske, kongresne, medicinske, wellness, gostinske, catering in trgovinske dejavnosti.</p>
+    <p xml:id="pb23.p5" xml:lang="sl">– Hotel Habakuk je prestižen hotel s petimi zvezdicami, ki se nahaja ob vznožju Pohorja.</p>
+    <p xml:id="pb23.p6" xml:lang="sl">– Hotel Piramida je poslovni hotel s štirimi zvezdicami in se nahaja v samem središču mesta Maribor.</p>
+    <p xml:id="pb23.p7" xml:lang="sl">– Hotel Bellevue se nahaja na Mariborskem Pohorju, ob zgornji postaji Pohorske vzpenjače v neposredni bližini smučišča.</p>
+    <p xml:id="pb23.p8" xml:lang="sl">– Hotel Orel je mestni hotel s 150 let dolgo tradicijo; leži sredi starega mestnega jedra.</p>
+    <p xml:id="pb23.p9" xml:lang="sl">– Hotel UNI se nahaja v centru mesta (neposredna bližina Rektorata Univerze v Mariboru, ekonomsko poslovne fakultete, Tehniške fakultete, Pravne fakultete in univerzitetne knjižnice) in je namenjen študentom ter gostujočim profesorjem.</p>
+    <p xml:id="pb23.p10" xml:lang="sl">– Prodajalne (Travel shop) se nahajajo na mejnih prehodih Šentilj in Trate.</p>
+    <p xml:id="pb23.p11" xml:lang="sl">– Gostilna Pri treh ribnikih s tristoletno tradicijo se nahaja v okolju Mestnega parka.</p>
+    <p xml:id="pb23.p12" xml:lang="sl">– MTC Fontana sodi med najsodobnejše centre v Sloveniji. Tukaj najdemo Center za rekreacijo (notranji in zunanji bazeni s termalno vodo, z whirpooli, s fitnesom ...) in Center za medicino (specialistične ambulante s področij fizikalne medicine in rehabilitacije, radiologije ...).</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">4.2 Hotela Orel in Uni [4]</p>
+    <p xml:id="pb24.p2" xml:lang="sl">Hotel Orel je mestni hotel s tremi zvezdicami in leži sredi starega mestnega jedra Maribor.</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Hotel Orel stoji na mestu, kjer je v 18. stoletju stala gostilna Pri črnem Orlu. Jedro sedanjega hotela je bilo postavljeno leta 1928, v nadzidanem delu gostilne. Sama stavba, kjer je sedaj hotel Orel pa je bila zgrajena leta 1969. V letu 1989 je bil povezan s tedanjim hotelom Zamorc (sedaj imenovan Uni hotel). Stari del stavbe je bil prodan leta 2006, na tem mestu je v letu 2007 nastal trgovski center. Zadnja obnova hotela Orel je bila leta 2006. Hotel Orel nudi 71 udobnih sob (25 enoposteljnih sob, 20 dvoposteljnih sob z dodatnim ležiščem, 18 dvoposteljnih sob, 2 družinski dvoposteljni sobi) in 2 apartmaja.</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Hotel Zamorc oz. Uni hotel je stara neorenesančna zgradba iz leta 1897 (arhitekt Adolf Baltzer). Po združitvi s hotelom Orel in prenovi, je bilo notranje dvorišče zgradbe predelano v zimski vrt z restavracijo. Po zadnji obnovi leta 1998 je bil hotel preimenovan v Uni rezidenčni hotel. Hotel Uni ima na voljo 53 sob (enoposteljne, dvoposteljne in troposteljne sobe) oz. 84 ležišč.</p>
+    <p xml:id="pb24.p5" xml:lang="sl">Slika 4.1: Hotel Orel (levo), hotel Uni (desno zgoraj) in mostovž (desno spodaj)</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">5 POSTOPEK IZRAČUNA TOPLOTNIH IZGUB</p>
+    <p xml:id="pb25.p2" xml:lang="sl">5.1 Program ETU Haustechnik</p>
+    <p xml:id="pb25.p3" xml:lang="sl">Za izračun toplotnih izgub so potrebni podatki o gradbenih materialih, iz katerih so objekti zgrajeni. Prav tako je potrebno imeti načrte objektov, saj je prenos toplote odvisen tudi od dimenzij in geometrije. Za izračun toplote, ki jo je z gretjem potrebno nadomestiti, smo uporabili program ETU Haustechnik, ki je namenjen tako računanju zimskih kot letnih transmisij, torej za ogrevanje in hlajenje objektov. Vključuje tudi nekatere druge module za opravljanje preračunov na drugih področjih. Program za računanje zimskih transmisij temelji na standardu EN 12831, v skladu s Pravilnikom o učinkoviti rabi energije v stavbah.</p>
+    <p xml:id="pb25.p4" xml:lang="sl">Izračun v programu poteka približno po sledečih korakih:</p>
+    <p xml:id="pb25.p5" xml:lang="sl">– Zagon programa;</p>
+    <p xml:id="pb25.p6" xml:lang="sl">– Ustvarjanje novega projekta;</p>
+    <p xml:id="pb25.p7" xml:lang="sl">– Vpis splošnih podatkov o projektu (ime objekta, oznaka, projektant …);</p>
+    <p xml:id="pb25.p8" xml:lang="sl">– Definiranje lokacije stavbe, hkrati določitev računske zunanje temperature;</p>
+    <p xml:id="pb25.p9" xml:lang="sl">– Definiranje vseh tipov prostorov v objektih in notranjih temperatur le-teh;</p>
+    <p xml:id="pb25.p10" xml:lang="sl">– Definiranje vseh elementov v katalogu materialov in izračun toplotnih prehodnosti;</p>
+    <p xml:id="pb25.p11" xml:lang="sl">– Vnos zgradb (stavb) v projekt;</p>
+    <p xml:id="pb25.p12" xml:lang="sl">– Definiranje dimenzij samih zgradb (višina, zunanja površina …);</p>
+    <p xml:id="pb25.p13" xml:lang="sl">– Vnos podatkov za globino podtalnice in definiranje parametrov glede stika stavbe z zemljo;</p>
+    <p xml:id="pb25.p14" xml:lang="sl">– Za vsako zgradbo definiranje števila in vrste etaž (nadstropje, pritličje, klet, podstrešje);</p>
+    <p xml:id="pb25.p15" xml:lang="sl">– Vnos podatkov za vsako etažo (svetla višina etaže, debelina stropa ...);</p>
+    <p xml:id="pb25.p16" xml:lang="sl">– Za vsako etažo v zgradbi definiranje prostorov v etaži;</p>
+    <p xml:id="pb25.p17" xml:lang="sl">– Vnos podatkov za vsak prostor (površina prostora, dolžine sten in drugih elementov …);</p>
+    <p xml:id="pb25.p18" xml:lang="sl">– Izpis izračuna.</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">Program ob vnašanju vseh parametrov in podatkov v ozadju sproti samodejno opravlja izračun in ga ob vnosu novih podatkov posodablja. Ko zaključimo z vnašanjem podatkov, program sam pripravi izpis celotnega preračuna in ga shrani v obliki PDF. V izpisu so navedeni vsi podatki o projektu, o vseh stavbah, vseh elementih in gradnikih, prehodnostih, toplotnih izgubah za vsak prostor posebej, o prezračevalnih izgubah in o skupni količini toplote, ki prehaja v okolico.</p>
+    <p xml:id="pb26.p2" xml:lang="sl">5.2 Trenutno stanje</p>
+    <p xml:id="pb26.p3" xml:lang="sl">Stavba hotela Orel (glej priloge 1 do 8) ima 8 etaž: pritličje, nad njim 5 nadstropij in pod njim dve kleti. V pritličju je glavni vhod v hotel, pri katerem je recepcija hotela Orel in hotela Uni (gre za skupno recepcijo, saj sta se hotela združila). Prav tako so v pritličju še kuhinja, jedilnica, sobe za strežbo, pisarne in sobe za osebje. V vseh nadstropjih so sobe za goste.</p>
+    <p xml:id="pb26.p4" xml:lang="sl">Razporeditev sob je identična v vseh nadstropjih; v vsakem nadstropju je v hotelskem delu 14 sob, razen v petem nadstropju je 13 sob, pri čemer sta dve izmed sob združeni v eno enoto. V prvih štirih nadstropjih je v drugem delu stavbe še nekaj sob, apartmaji in manjša dvorana.</p>
+    <p xml:id="pb26.p5" xml:lang="sl">Nad petim nadstropjem je še majhno podstrešje, ki pa ni v uporabi in je neogrevano. Prav tako sta neogrevani obe kleti, kjer so kotlovnica, pralnica, arhivi, garaže, skladišča in drugi prostori, namenjeni shranjevanju in vzdrževanju hotela.</p>
+    <p xml:id="pb26.p6" xml:lang="sl">Stavba hotela Uni (glej priloge 9 do 13) ima pritličje, klet, dve nadstropji in mansardo, na sredini stavbe pa je dvorišče, ki je v pritličju pokrito s stekleno streho. Prvo in drugo nadstropje hotela Uni sta preko mostovža povezana s prvim in drugim nadstropjem hotela Orel, mansarda hotela Uni pa je povezana s tretjim nadstropjem hotela Orel. V nadstropjih in mansardi stavbe so urejene sobe za bivanje gostov hotela Uni, v pritličju so poslovni in trgovinski prostori ter skladišča, nekateri v uporabi, nekateri pa prazni. Sicer pa so to prostori nekdanjega hotela Zamorc, kjer so pred združitvijo s hotelom Orel bili kuhinja, umivalnica, jedilnica s pokritim zimskim vrtom, sanitarije, skladišča, pisarne, bife in drogerija.</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">Kotlovnica za ogrevanje prostorov se nahaja v kleti hotela Orel. V njej sta nameščena dva kotla, vsak izmed njiju ima moč 1400 kW. Pred leti so se kotli uporabljali zgolj za proizvodnjo toplote za ogrevanje prostorov, vodo pa so segrevali s samostojnimi grelniki moči 150 kW. Po okvari grelnikov pa so tudi gretje sanitarne vode prevzeli kotli, v kotlovnici pa imajo nameščene rezervoarje tople vode. Rezervoarja sta dva, vsak ima kapaciteto 3000 litrov. Skupno imajo vedno na zalogi 6000 litrov tople vode.</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Iz kotlovnice v hotelu Orel se ni ogreval samo hotel, ampak tudi drugi objekti v bližini. Tako je hotel s toploto oskrboval še hotel Uni (bivši hotel Zamorc), mostovž (povezavo med hotelom Orel in hotelom Uni), nekdanjo restavracijo Nordsee (danes na tem mestu trgovina C&amp;A), prostore podjetij Sojer d. o. o. in Tobačne 3dva d. o. o. na Slovenski ulici, prostore trgovine Babor, E2RD Dizajn-a, Popelar Saše s. p. in Tekstila d. d. Ljubljana na Gosposki ulici, skupnost stanovalcev na naslovu Grajski trg 1, prostore restavracije in pivnice Štajerc ter pisarne in druge prostore podjetja Princeps d. d., prostore podjetij Planeta d.o.o., Ilirika borzno posredniška hiša d. d., Diagnostični center Clarus d. o. o., Ekonomika in Maribor 2012</p>
+    <p xml:id="pb27.p3" xml:lang="sl">– EPK ter prostore trgovine ONAON.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Večina objektov, ki imajo priključek v kotlovnici hotela Orel, si je do danes že uredila svojo kotlovnico oziroma so v objekte instalirali lastne peči. Tako se danes iz kotlovnice ogrevajo le še hotel Orel, hotel Uni, stanovanja na naslovu Grajski trg 1 ter restavracija in pivnica Štajerc.</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Zaradi tega je v polnem obratovanju v zadnjem času bil le eden kotel, drugi je služil bolj kot rezerva v primeru okvare prvega. Že iz tega vidika je potrebna sanacija, saj imajo instalirani kotli veliko moč, ki za trenutne razmere niti ni potrebna.</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">6 REZULTATI</p>
+    <p xml:id="pb28.p2" xml:lang="sl">6.1 Poraba plina</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Kot že omenjeno, se je stanje glede števila ogrevanih prostorov zadnja leta spreminjalo; prostorov, ki so se ogrevali iz kotlovnice v hotelu Orel, je bilo vedno manj. Zadnja leta se tako ogrevajo le prostori, ki bi se ogrevali tudi po sanaciji. Kotli kot gorivo uporabljajo zemeljski plin, zato lahko o potrebni moči ogrevalnih kotlov sklepamo tudi iz statistike porabe zemeljskega plina skozi zadnja leta.</p>
+    <p xml:id="pb28.p4" xml:lang="sl">Slika 6.1: Poraba plina od leta 2008 do danes</p>
+    <p xml:id="pb28.p5" xml:lang="sl">Na Sliki 6.1 je prikazana poraba plina za ogrevanje prostorov in sanitarne vode od leta 2008 do danes. Razvidno je, da se je poraba plina dejansko iz leta v leto manjšala; nekaj k temu pripomorejo tudi klimatske spremembe in vremenske razmere, sicer pa je glavni razlog v zmanjšanju skupne površine, ki se je ogrevala iz kotlovnice hotela Orel.</p>
+    <p xml:id="pb28.p6" xml:lang="sl">Poraba plina Poraba plina</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Ogrevalni kotli morajo biti dimenzionirani tako, da uspešno ogrevajo prostore v najhladnejših in najbolj obremenjenih časih. Zato se v tem primeru skoncentriramo na zimske mesece in poiščemo, kdaj je bila poraba plina največja in kolikšna je bila. Če imamo volumen porabljenega plina v določenem času in podatek o kalorični vrednosti (kurilnosti) Hi za zemeljski plin, lahko izračunamo povprečno moč:</p>
+    <p xml:id="pb29.p2" xml:lang="sl">̅</p>
+    <p xml:id="pb29.p3" xml:lang="sl">– kurilnost</p>
+    <p xml:id="pb29.p4" xml:lang="sl">– prostornina porabljenega plina</p>
+    <p xml:id="pb29.p5" xml:lang="sl">– čas</p>
+    <p xml:id="pb29.p6" xml:lang="sl">Povprečna zgornja kalorična vrednost zemeljskega plina v Sloveniji znaša 37,968</p>
+    <p xml:id="pb29.p7" xml:lang="sl">[6], kar je enako:</p>
+    <p xml:id="pb29.p8" xml:lang="sl">Največja poraba plina je bila meseca decembra v letu 2008 in je znašala 38114 kubičnih metrov. Kotel pa obratuje dnevno od šeste ure zjutraj do enajste ure zvečer (od 6.00 do 23.00), torej 17 ur na dan.</p>
+    <p xml:id="pb29.p9" xml:lang="sl">Povprečna moč kotla glede na te podatke znaša:</p>
+    <p xml:id="pb29.p10" xml:lang="sl">̅</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">Vendar je največja poraba 38.114 kubičnih metrov plina bila že pred petimi leti, zadnja leta pa poraba v višku kurilne sezone nikoli ni presegla 30.000 kubičnih metrov plina (Slika 6.1).</p>
+    <p xml:id="pb30.p2" xml:lang="sl">Zato je statistično gledano morda bolj merodajno vzeti naslednjo največjo vrednost, saj ta iz decembra 2008 zelo izstopa, poraba pa tudi skozi naslednja leta vsako zimo upada. Naslednja najvišja vrednost porabe plina je bila januarja 2010 in je znašala 29.155 kubičnih metrov. Pri tem je povprečna moč kotlov:</p>
+    <p xml:id="pb30.p3" xml:lang="sl">̅</p>
+    <p xml:id="pb30.p4" xml:lang="sl">6.2 Temperature prostorov in okolice</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Za ugotovitev potrebne moči ogrevalnih kotlov je najpomembnejši podatek količina izgubljene toplote, ki uhaja skozi toplotni ovoj stavbe. V tem primeru je potrebno poznati toplotne izgube ogrevanih objektov, to so hotel Orel, hotel Uni, stanovanja ter restavracija in pivnica Štajerc. Gonilna sila za prenos toplote in pomemben podatek za izračun toplotnih izgub je predvsem temperaturna razlika, zaradi česar moramo poznati temperature tako prostorov kot okolice.</p>
+    <p xml:id="pb30.p6" xml:lang="sl">V Preglednici 6.1 so navedene temperature prostorov, ki so zahtevane po standardu EN 12831, in so aktualne tudi v primeru preračuna hotelov Orel in Uni.</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Preglednica 6.1: Standardne notranje temperature po standardu EN 12831 [3] Tip prostora Temperatura</p>
+    <p xml:id="pb31.p2" xml:lang="sl">[°C]</p>
+    <p xml:id="pb31.p3" xml:lang="sl">Pisarna 20</p>
+    <p xml:id="pb31.p4" xml:lang="sl">Konferenčna soba 20 Avditorij 20 Kavarna 20</p>
+    <p xml:id="pb31.p5" xml:lang="sl">Restavracija 20 Učilnica 20</p>
+    <p xml:id="pb31.p6" xml:lang="sl">Veleblagovnica 16 Vrtec 20</p>
+    <p xml:id="pb31.p7" xml:lang="sl">Stanovanje 20 Kopalnica 24 Cerkev 15 Muzej 16 Galerija 16</p>
+    <p xml:id="pb31.p8" xml:lang="sl">V vseh objektih so naslednji prostori: hotelska soba/stanovanje – temperatura prostora 20 °C, kopalnica – temperatura prostora 24 °C, pisarna – temperatura prostora 20 °C, restavracija temperatura prostora 20 °C, hodnik – temperatura prostora 18 °C, računska temperatura neogrevanih prostorov pa je izbrana na 10 °C.</p>
+    <p xml:id="pb31.p9" xml:lang="sl">Vsi objekti preračuna so locirani v Mariboru. Tako je kot računska zunanja temperatura vzeta –13 °C.</p>
+    <p xml:id="pb31.p10" xml:lang="sl">6.3 Primerjava podrobnega in poenostavljenega izračuna</p>
+    <p xml:id="pb31.p11" xml:lang="sl">Za potrebe primerjave se je pri preračunu za hotel Orel izvedel detajlni izračun transmisij enega nadstropja (tretje nadstropje) in poenostavljen izračun transmisij.</p>
+    <p xml:id="pb31.p12" xml:lang="sl">Pri detajlnem izračunu so bili v program vstavljeni podatki za vsak prostor v nadstropju posebej (Preglednica 6.2). Nadstropje ima glavni hodnik s stopniščem, dvigalo, sobarico, jašek, 14 hotelskih sob, v vsaki sobi je kopalnica.</p>
+    <p xml:id="pb31.p13" xml:lang="sl">Rezultati podrobnega izračuna toplotnih izgub so prikazani v Preglednici 6.3.</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">Preglednica 6.2: Podatki o prostorih v nadstropju hotela Orel Oznaka prostora</p>
+    <p xml:id="pb32.p2" xml:lang="sl">Vrsta prostora Notranja temperatura prostora</p>
+    <p xml:id="pb32.p3" xml:lang="sl">[°C]</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Minimalna izmenjava zraka [h</p>
+    <p xml:id="pb32.p5" xml:lang="sl">Stopnja zračne prepustnosti [h</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Površina prostora [m 2</p>
+    <p xml:id="pb32.p7" xml:lang="sl">301 Hotelska soba 20 0,5 6,0 11,10 301K Kopalnica 24 1,5 6,0 1,85 302 Hotelska soba 20 0,5 6,0 10,90 302K Kopalnica 24 1,5 6,0 2,00 303 Hotelska soba 20 0,5 6,0 10,60 303K Kopalnica 24 1,5 6,0 1,80 304 Hotelska soba 20 0,5 6,0 10,20 304K Kopalnica 24 1,5 6,0 1,50 305 Hotelska soba 20 0,5 6,0 10,90 305K Kopalnica 24 1,5 6,0 1,85 306 Hotelska soba 20 0,5 6,0 11,00 306K Kopalnica 24 1,5 6,0 2,00 307 Hotelska soba 20 0,5 6,0 10,80 307K Kopalnica 24 1,5 6,0 1,85 308 Hotelska soba 20 0,5 6,0 11,00 308K Kopalnica 24 1,5 6,0 2,20 309 Hotelska soba 20 0,5 6,0 20,60 309K Kopalnica 24 1,5 6,0 2,43 310 Hotelska soba 20 0,5 6,0 16,10 310K Kopalnica 24 1,5 6,0 3,60 311 Hotelska soba 20 0,5 6,0 21,40 311K Kopalnica 24 1,5 6,0 1,72 312 Hotelska soba 20 0,5 6,0 22,50 312K Kopalnica 24 1,5 6,0 1,97 313 Hotelska soba 20 0,5 6,0 21,70 313K Kopalnica 24 1,5 6,0 1,95 314 Hotelska soba 20 0,5 6,0 21,80 314K Kopalnica 24 1,5 6,0 1,95 Sobarica Pisarna 20 0,5 6,0 5,30 Dvigalo Hodnik 18 0,5 6,0 12,70 Jašek Hodnik 18 0,5 6,0 4,70 Hodnik Hodnik 18 0,5 6,0 64,60</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Preglednica 6.3: Toplotne izgube prostorov nadstropja hotela Orel pri podrobnem izračunu Oznaka prostora</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Vrsta prostora Transmisijske izgube</p>
+    <p xml:id="pb33.p3" xml:lang="sl">[W]</p>
+    <p xml:id="pb33.p4" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb33.p5" xml:lang="sl">[W]</p>
+    <p xml:id="pb33.p6" xml:lang="sl">Toplotne izgube</p>
+    <p xml:id="pb33.p7" xml:lang="sl">[W]</p>
+    <p xml:id="pb33.p8" xml:lang="sl">301 Hotelska soba 515 156 671 301K Kopalnica 95 87 182 302 Hotelska soba 401 153 554 302K Kopalnica 93 94 188 303 Hotelska soba 394 149 542 303K Kopalnica 93 85 178 304 Hotelska soba 373 143 516 304K Kopalnica 83 71 154 305 Hotelska soba 395 153 548 305K Kopalnica 91 87 179 306 Hotelska soba 398 154 552 306K Kopalnica 97 94 191 307 Hotelska soba 394 151 545 307K Kopalnica 93 87 180 308 Hotelska soba 396 154 551 308K Kopalnica 101 104 205 309 Hotelska soba 1326 289 1615 309K Kopalnica 106 115 221 310 Hotelska soba 1204 226 1430 310K Kopalnica 148 170 318 311 Hotelska soba 849 300 1150 311K Kopalnica 95 81 176 312 Hotelska soba 863 316 1178 312K Kopalnica 110 93 202 313 Hotelska soba 853 304 1157 313K Kopalnica 105 92 197 314 Hotelska soba 897 306 1203 314K Kopalnica 153 92 245 Sobarica Pisarna 371 149 520 Dvigalo Hodnik 849 167 1016 Jašek Hodnik -20 62 42 Hodnik Hodnik 933 851 1784</p>
+    <p xml:id="pb33.p9" xml:lang="sl">Skupaj toplotne izgube 12.856 5535 18.391</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">Pri poenostavljenem izračunu transmisij pa je bil upoštevan le toplotni ovoj stavbe oziroma nadstropja. Predpostavljena je bila enotna temperatura za celotno nadstropje, torej je za računanje relevanten le prenos toplote skozi stene, vrata in okna, ki so v stiku z zunanjim zrakom (Preglednica 6.4).</p>
+    <p xml:id="pb34.p2" xml:lang="sl">Preglednica 6.4: Podatki o nadstropju bivalnega dela hotela Orel Oznaka prostora Notranja temperatura prostora</p>
+    <p xml:id="pb34.p3" xml:lang="sl">[°C]</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Minimalna izmenjava zraka [h</p>
+    <p xml:id="pb34.p5" xml:lang="sl">Stopnja zračne prepustnosti [h</p>
+    <p xml:id="pb34.p6" xml:lang="sl">Površina prostora [m 2</p>
+    <p xml:id="pb34.p7" xml:lang="sl">Etaža 3 20 0,5 6,0 368,0</p>
+    <p xml:id="pb34.p8" xml:lang="sl">Preglednica 6.5: Toplotne izgube celotnega nadstropja pri poenostavljenem izračunu Oznaka prostora</p>
+    <p xml:id="pb34.p9" xml:lang="sl">Vrsta prostora Transmisijske izgube</p>
+    <p xml:id="pb34.p10" xml:lang="sl">[W]</p>
+    <p xml:id="pb34.p11" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb34.p12" xml:lang="sl">[W]</p>
+    <p xml:id="pb34.p13" xml:lang="sl">Toplotne izgube</p>
+    <p xml:id="pb34.p14" xml:lang="sl">[W]</p>
+    <p xml:id="pb34.p15" xml:lang="sl">Etaža 3 Hotelska soba 12.637 5161 17.798</p>
+    <p xml:id="pb34.p16" xml:lang="sl">Če primerjamo rezultate detajlnega (Preglednica 6.3) in poenostavljenega izračuna (Preglednica 6.5) opazimo, da je pri skupnih transmisijah razlike za 593 W, kar predstavlja 3,2 odstotno napako. Za potrebe sanacije kotlovnice je poenostavljen izračun dovolj natančen, saj se končne moči kotlov ne določajo tako natančno, da bi tako majhno odstopanje imelo velik pomen. Prav tako je vedno potrebna rezerva, saj temperature v hotelskih sobah in drugih prostorih navadno niso takšne, kot jih predvideva standard in po katerih program izračuna dane vrednosti. Hkrati pa se predvideva zgolj zamenjava kotlov in glavnih instalacij ob kotlu, medtem ko napeljava in razvodi po hotelu in do drugih ogrevanih prostorov pa ne bi bili zamenjani, kar povzroči še dodatna odstopanja od realnega stanja. Zato se je odstopanje zanemarilo in se je v nadaljevanju opravil poenostavljen izračun za celotne stavbe, pri čemer se je upošteval le toplotni ovoj stavbe in ne vsak prostor posebej.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">6.4 Izračun toplotnih izgub</p>
+    <p xml:id="pb35.p2" xml:lang="sl">Izračun toplotnih izgub s programom ETU Haustechnik je bil opravljen za oba hotela, torej za hotel Orel in hotel Uni. Izračun se je razdelil na tri dele, in sicer toplotne izgube samega hotela Orel, toplotne izgube hotela Uni in izgube mostovža. Tako so razdeljeni tudi sledeči rezultati izračuna, ki so prikazani v tabelah (Preglednice 6.14 do 6.16).</p>
+    <p xml:id="pb35.p3" xml:lang="sl">Izkustveno dejstvo je, da v hotelski sobi v času bivanja gostov le-ti vedno nastavijo višjo temperaturo kot jo predvideva standard. Zato se je spremenila notranja temperatura prostora, in sicer se predvideva 22 °C, kar je za človeka udobnejša temperatura od standardnih 20 °C. Projektna zunanja temperatura ostaja nespremenjena, torej –13 °C.</p>
+    <p xml:id="pb35.p4" xml:lang="sl">6.4.1 Konstrukcijski elementi za prenos toplote Konstrukcijski element: zunanja stena.</p>
+    <p xml:id="pb35.p5" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih gradnikov zunanje stene so prikazani v Preglednici 6.6.</p>
+    <p xml:id="pb35.p6" xml:lang="sl">Preglednica 6.6: Podatki o toplotnih prevodnostih in upornostih gradnikov zunanje stene Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb35.p7" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb35.p8" xml:lang="sl">K/W]</p>
+    <p xml:id="pb35.p9" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb35.p10" xml:lang="en">1 Normalna malta 2,00 1,20 0,017 1800 2</p>
+    <p xml:id="pb35.p11" xml:lang="en">Poro opeka A+B,</p>
+    <p xml:id="pb35.p12" xml:lang="en">DIN 105</p>
+    <p xml:id="pb35.p13" xml:lang="sl">3 Normalna malta 2,00 1,20 0,017 1800 Skupna toplotna prehodnost elementa je 1,16 W/m 2</p>
+    <p xml:id="pb35.p14" xml:lang="sl">K in ne ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti (Preglednica 3.1) in znaša 0,28 W/m 2</p>
+    <p xml:id="pb35.p15" xml:lang="sl">K . Celotna debelina stene znaša 33 cm in meji na zunanji zrak.</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">Konstrukcijski element: strop proti neogrevanemu prostoru.</p>
+    <p xml:id="pb36.p2" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih gradnikov stropa proti neogrevanemu prostoru so prikazani v Preglednici 6.7.</p>
+    <p xml:id="pb36.p3" xml:lang="sl">Preglednica 6.7: Podatki o toplotnih prevodnostih in upornostih gradnikov stropa nad neogrevanim prostorom Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb36.p4" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb36.p5" xml:lang="sl">K/W]</p>
+    <p xml:id="pb36.p6" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb36.p7" xml:lang="sl">1 Beton 20,00 1,35 0,148 2000 2 Steklena pena 15,00 0,05 3,000 125 3 Cementni estrih 7,00 1,40 0,050 2000 Skupna toplotna prehodnost elementa je 0,28 W/m 2</p>
+    <p xml:id="pb36.p8" xml:lang="sl">K in ne ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti (Preglednica 3.1) in znaša 0,20 W/m 2</p>
+    <p xml:id="pb36.p9" xml:lang="sl">K. Celotna debelina stropa znaša 42 cm, element pa meji na neogrevan prostor, v tem primeru na neogrevano podstrešje.</p>
+    <p xml:id="pb36.p10" xml:lang="sl">Konstrukcijski element: steklena streha.</p>
+    <p xml:id="pb36.p11" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih steklene strehe so prikazani v Preglednici 6.8.</p>
+    <p xml:id="pb36.p12" xml:lang="sl">Preglednica 6.8: Podatki o toplotnih prevodnostih in upornostih steklene strehe Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb36.p13" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb36.p14" xml:lang="sl">K/W]</p>
+    <p xml:id="pb36.p15" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb36.p16" xml:lang="sl">1 Steklo 2,00 1,00 0,02 2500</p>
+    <p xml:id="pb36.p17" xml:lang="sl">Skupna toplotna prehodnost elementa je 4,35 W/m 2</p>
+    <p xml:id="pb36.p18" xml:lang="sl">K in ne ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti (Preglednica 3.1) in znaša 2,40 W/m 2</p>
+    <p xml:id="pb36.p19" xml:lang="sl">K. Debelina stekla znaša 2 cm, element pa meji na zunanji zrak. Tovrstna streha je prisotna le v osrednjem delu stavbe hotela Uni, kjer je tako pokrit zimski vrt nekdanje jedilnice.</p>
+    <p xml:id="pb36.p20" xml:lang="sl">Konstrukcijski element: strop.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih gradnikov stropa so prikazani v Preglednici 6.9.</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Preglednica 6.9: Podatki o toplotnih prevodnostih in upornostih gradnikov stropa Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb37.p3" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb37.p4" xml:lang="sl">K/W]</p>
+    <p xml:id="pb37.p5" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb37.p6" xml:lang="sl">1 Beton 20,00 1,35 0,148 2000 2</p>
+    <p xml:id="pb37.p7" xml:lang="sl">Lesno vlaknena izolacijska plošča 3,00 0,035 0,857 290</p>
+    <p xml:id="pb37.p8" xml:lang="sl">3 Cementni estrih 7,00 1,40 0,050 2000 Skupna toplotna prehodnost elementa je 0,72 W/m 2</p>
+    <p xml:id="pb37.p9" xml:lang="sl">K in ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti (Preglednica 3.1) in znaša 1,35 W/m 2</p>
+    <p xml:id="pb37.p10" xml:lang="sl">K. Celotna debelina stropa znaša 30 cm, element pa meji na ogrevan prostor sosednje zgornje etaže.</p>
+    <p xml:id="pb37.p11" xml:lang="sl">Konstrukcijski element: tla.</p>
+    <p xml:id="pb37.p12" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih gradnikov tal so prikazani v Preglednici 6.10.</p>
+    <p xml:id="pb37.p13" xml:lang="sl">Preglednica 6.10: Podatki o toplotnih prevodnostih in upornostih gradnikov tal Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb37.p14" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb37.p15" xml:lang="sl">K/W]</p>
+    <p xml:id="pb37.p16" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb37.p17" xml:lang="sl">1 Beton 20,00 1,35 0,148 2000 2</p>
+    <p xml:id="pb37.p18" xml:lang="sl">Lesno vlaknena izolacijska plošča 3,00 0,035 0,857 290</p>
+    <p xml:id="pb37.p19" xml:lang="sl">3 Cementni estrih 7,00 1,40 0,050 2000 Skupna toplotna prehodnost elementa je 0,72 W/m 2</p>
+    <p xml:id="pb37.p20" xml:lang="sl">K in ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti (Preglednica 3.1) in znaša 1,35 W/m 2</p>
+    <p xml:id="pb37.p21" xml:lang="sl">K. Celotna debelina tal znaša 30 cm, struktura tal je enaka kot struktura stropa. Element meji na ogrevan prostor spodnje sosednje etaže, oziroma v primeru pritličja, kjer tla mejijo na spodnjo neogrevano klet.</p>
+    <p xml:id="pb37.p22" xml:lang="sl">Konstrukcijski element: notranja vrata.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih notranjih vrat so prikazani v Preglednici 6.11.</p>
+    <p xml:id="pb38.p2" xml:lang="sl">Preglednica 6.11: Podatki o toplotnih prevodnostih in upornostih notranjih vrat Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb38.p3" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb38.p4" xml:lang="sl">K/W]</p>
+    <p xml:id="pb38.p5" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb38.p6" xml:lang="sl">1 Vezan les 3,50 0,24 0,146 1000</p>
+    <p xml:id="pb38.p7" xml:lang="sl">Skupna toplotna prehodnost elementa je 2,46 W/m 2</p>
+    <p xml:id="pb38.p8" xml:lang="sl">K. Ocenjena debelina vrat znaša 3,5 cm, element pa meji na sosednji ogrevan prostor.</p>
+    <p xml:id="pb38.p9" xml:lang="sl">Konstrukcijski element: notranja stena.</p>
+    <p xml:id="pb38.p10" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih gradnikov notranje stene so prikazani v Preglednici 6.12.</p>
+    <p xml:id="pb38.p11" xml:lang="sl">Preglednica 6.12: Podatki o toplotnih prevodnostih in upornostih gradnikov notranje stene Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb38.p12" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb38.p13" xml:lang="sl">K/W]</p>
+    <p xml:id="pb38.p14" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb38.p15" xml:lang="en">1 Normalna malta 2,00 1,20 0,017 1800 2</p>
+    <p xml:id="pb38.p16" xml:lang="en">Poro opeka A+B,</p>
+    <p xml:id="pb38.p17" xml:lang="en">DIN 105</p>
+    <p xml:id="pb38.p18" xml:lang="sl">3 Normalna malta 2,00 1,20 0,017 1800 Skupna toplotna prehodnost elementa je 1,54 W/m 2</p>
+    <p xml:id="pb38.p19" xml:lang="sl">K in ne ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti (Preglednica 3.1) in znaša 0,90 W/m 2</p>
+    <p xml:id="pb38.p20" xml:lang="sl">K. Celotna debelina stene znaša 19 cm, element pa meji na sosednji ogrevan prostor.</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">Konstrukcijski element: zunanja vrata.</p>
+    <p xml:id="pb39.p2" xml:lang="sl">Podatki o toplotnih prevodnostih in upornostih zunanjih vrat so prikazani v Preglednici 6.13.</p>
+    <p xml:id="pb39.p3" xml:lang="sl">Preglednica 6.13: Podatki o toplotnih prevodnostih in upornostih zunanjih vrat Št. Opis materiala Debelina [cm]</p>
+    <p xml:id="pb39.p4" xml:lang="sl">Toplotna prevodnost [W/mK] Toplotna upornost [m 2</p>
+    <p xml:id="pb39.p5" xml:lang="sl">K/W]</p>
+    <p xml:id="pb39.p6" xml:lang="sl">Gostota [kg/m 3</p>
+    <p xml:id="pb39.p7" xml:lang="sl">1 Vezan les 4,00 0,24 0,167 1000</p>
+    <p xml:id="pb39.p8" xml:lang="sl">Skupna toplotna prehodnost elementa je 2,97 W/m 2</p>
+    <p xml:id="pb39.p9" xml:lang="sl">K. Ocenjena debelina vrat znaša 4 cm, element pa meji na zunanji zrak.</p>
+    <p xml:id="pb39.p10" xml:lang="sl">Konstrukcijski element: zunanje okno.</p>
+    <p xml:id="pb39.p11" xml:lang="sl">V stavbah hotela Orel in hotela Uni prevladujejo trije tipi oken. V pritličju hotela Orel je južna stena skoraj v celoti iz stekla (Slika 4.1 levo), kar predstavlja prvi tip okna. Drugi tip okna je v nadstropjih hotela Orel; v hotelskih sobah so okna širine 1,6 m in višine 1,45 m (Slika 6.2 levo). Tretji tip okna je prisoten v mostovžu in hotelu Uni; širina oken je 1,0 m, višina pa 1,9 m (Slika 6.2 desno). Vsa okna so zunanja, torej mejijo na zunanji zrak.</p>
+    <p xml:id="pb39.p12" xml:lang="sl">Slika 6.2: Okna v hotelu Orel (levo) in hotelu Uni (desno) Podatki o oknih v pritličju hotela Orel:</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">– Zasteklitev: dvojno steklo, aluminijasti rob.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">– Okvir: aluminij.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">– Razčlenitev okna: brez (enokrilno okno).</p>
+    <p xml:id="pb40.p4" xml:lang="sl">– Dimenzije okna: o širina: 2,00 m, višina: 4,30 m. o površina: 8,60 m2. o debelina okvirja: 2 cm.</p>
+    <p xml:id="pb40.p5" xml:lang="sl">– Skupna toplotna prehodnost elementa: 3,12 W/m2K.</p>
+    <p xml:id="pb40.p6" xml:lang="sl">Podatki o oknih v nadstropnih hotela Orel:</p>
+    <p xml:id="pb40.p7" xml:lang="sl">– Zasteklitev: dvojno steklo, aluminijasti rob.</p>
+    <p xml:id="pb40.p8" xml:lang="sl">– Okvir: lesen, starejša izvedba.</p>
+    <p xml:id="pb40.p9" xml:lang="sl">– Razčlenitev okna: brez (enokrilno okno).</p>
+    <p xml:id="pb40.p10" xml:lang="sl">– Dimenzije okna: o širina: 1,60 m, višina: 1,45 m. o površina: 2,32 m2. o debelina okvirja: 10 cm.</p>
+    <p xml:id="pb40.p11" xml:lang="sl">– Skupna toplotna prehodnost elementa: 2,77 W/m2K.</p>
+    <p xml:id="pb40.p12" xml:lang="sl">Podatki o oknih v mostovžu in hotelu Uni:</p>
+    <p xml:id="pb40.p13" xml:lang="sl">– Zasteklitev: dvojno steklo, aluminijasti rob.</p>
+    <p xml:id="pb40.p14" xml:lang="sl">– Okvir: lesen, starejša izvedba.</p>
+    <p xml:id="pb40.p15" xml:lang="sl">– Razčlenitev okna: dvokrilno okno, lesen križ.</p>
+    <p xml:id="pb40.p16" xml:lang="sl">– Dimenzije okna: o širina: 1,00 m, višina: 1,90 m. o površina: 1,90 m2. o debelina okvirja: 10 cm.</p>
+    <p xml:id="pb40.p17" xml:lang="sl">– Skupna toplotna prehodnost elementa: 2,88 W/m2K.</p>
+    <p xml:id="pb40.p18" xml:lang="sl">Širina oken je sicer na hodnikih večja kot v sobah, vendar to ne vpliva na prehodnost oken.</p>
+    <p xml:id="pb40.p19" xml:lang="sl">Skupne toplotne prehodnosti oken ne ustrezajo vrednosti, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti (Preglednica 3.1) in znaša 1,30 W/m2K.</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">Hotel Orel</p>
+    <p xml:id="pb41.p2" xml:lang="sl">Preglednica 6.14: Toplotne izgube hotela Orel po etažah Prostor Površina Transmisijske izgube</p>
+    <p xml:id="pb41.p3" xml:lang="sl">[W]</p>
+    <p xml:id="pb41.p4" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb41.p5" xml:lang="sl">[W]</p>
+    <p xml:id="pb41.p6" xml:lang="sl">Skupaj toplotne izgube</p>
+    <p xml:id="pb41.p7" xml:lang="sl">[W]</p>
+    <p xml:id="pb41.p8" xml:lang="sl">Pritličje 440,0 25.358 11.257 36.615 Etaža 1 368,0 13.403 5474 18.877 Etaža 2 368,0 13.403 5474 18.877 Etaža 3 368,0 13.403 5474 18.877 Etaža 4 368,0 13.403 5474 18.877 Etaža 5 368,0 17.211 5474 22.685 Vsota 2280,0 96.181 38.627 134.808</p>
+    <p xml:id="pb41.p9" xml:lang="sl">V Preglednici 6.14 so prikazani rezultati izračuna, torej toplotne izgube za sam hotel Orel.</p>
+    <p xml:id="pb41.p10" xml:lang="sl">Toplotne izgube znašajo 134.808 W oziroma 134,8 kW. Ob skupni površini prostorov 2280,0 m 2</p>
+    <p xml:id="pb41.p11" xml:lang="sl">znašajo toplotne izgube na kvadratni meter 59,1 W/m2.</p>
+    <p xml:id="pb41.p12" xml:lang="sl">Hotel Uni</p>
+    <p xml:id="pb41.p13" xml:lang="sl">Preglednica 6.15: Toplotne izgube hotela Uni po etažah Prostor Površina Transmisijske izgube</p>
+    <p xml:id="pb41.p14" xml:lang="sl">[W]</p>
+    <p xml:id="pb41.p15" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb41.p16" xml:lang="sl">[W]</p>
+    <p xml:id="pb41.p17" xml:lang="sl">Skupaj toplotne izgube</p>
+    <p xml:id="pb41.p18" xml:lang="sl">[W]</p>
+    <p xml:id="pb41.p19" xml:lang="sl">Pritličje 813,0 48.422 15.480 63.902 Etaža 1 679,0 24.933 10.100 35.033 Etaža 2 679,0 24.933 10.100 35.033 Mansarda 679,0 27.869 10.100 37.969 Vsota 2850,0 136.156 45.780 171.936</p>
+    <p xml:id="pb41.p20" xml:lang="sl">Toplotne izgube za sam hotel Uni znašajo 171.936 W oziroma 171,9 kW. Ob skupni površini prostorov 2850,0 m 2</p>
+    <p xml:id="pb41.p21" xml:lang="sl">znašajo toplotne izgube na kvadratni meter 60,3 W/m2.</p>
+    <p xml:id="pb41.p22" xml:lang="sl">Mostovž</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">Preglednica 6.16: Toplotne izgube mostovža po etažah Prostor Površina Transmisijske izgube</p>
+    <p xml:id="pb42.p2" xml:lang="sl">[W]</p>
+    <p xml:id="pb42.p3" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb42.p4" xml:lang="sl">[W]</p>
+    <p xml:id="pb42.p5" xml:lang="sl">Skupaj toplotne izgube</p>
+    <p xml:id="pb42.p6" xml:lang="sl">[W]</p>
+    <p xml:id="pb42.p7" xml:lang="sl">Etaža 1 69,1 7033 1028 8061 Etaža 2 69,1 5318 1028 6346 Etaža 3 69,1 6030 1028 7058 Vsota 207,3 18.381 3084 21.465</p>
+    <p xml:id="pb42.p8" xml:lang="sl">Toplotne izgube za mostovž znašajo 21.465 W oziroma 21,5 kW. Ob skupni površini prostorov 207,3 m 2</p>
+    <p xml:id="pb42.p9" xml:lang="sl">znašajo toplotne izgube na kvadratni meter 103,5 W/m2.</p>
+    <p xml:id="pb42.p10" xml:lang="sl">Drugi objekti</p>
+    <p xml:id="pb42.p11" xml:lang="sl">Kot že omenjeno, se zraven obeh hotelov in mostovža ogreva tudi nekaj stanovanj ter restavracija in pivnica Štajerc. Stanovanja imajo skupno površino okrog 240 m2. Če sklepamo, da so temperature v stanovanjih enake kot v hotelu ter da so zunanje stene stavb še vedno neizolirane oziroma je izolacija zelo stara in slaba, okna pa so prav tako starejše izvedbe, potem lahko ocenimo specifične toplotne izgube na okrog 50 W/m2. Ob teh vrednostih znaša potrebna toplotna moč za ogrevanje stanovanj okrog 12.000 W oziroma 12,0 kW.</p>
+    <p xml:id="pb42.p12" xml:lang="sl">Enake pogoje lahko predpostavimo za stavbo gostilne Štajerc. Če prav tako ocenimo specifične toplotne izgube na 50 W/m2, površino ogrevanih prostorov pa na 600 m2, potem znaša potrebna toplotna moč za ogrevanje gostilne okrog 30.000 W oziroma 30,0 kW.</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">Ogrevanje sanitarne vode</p>
+    <p xml:id="pb43.p2" xml:lang="sl">Kotli segrevajo tudi sanitarno vodo. Toplo vodo shranjujejo v dveh akumulatorjih s skupno kapaciteto 6000 litrov. Vodo segrevajo do temperature 55 °C, hladna voda pa ima temperaturo 20 °C. Celotno količino vode je potrebno segreti v času štirih ur. Moč, potrebna zgolj za segretje tolikšne količine vode v danem času znaša:</p>
+    <p xml:id="pb43.p3" xml:lang="sl">̅</p>
+    <p xml:id="pb43.p4" xml:lang="sl">– masa</p>
+    <p xml:id="pb43.p5" xml:lang="sl">] – specifična toplota [2] Izgube zaradi prezračevanja</p>
+    <p xml:id="pb43.p6" xml:lang="sl">V hotelu imajo tudi prezračevalni sistem – sistem ventilatorjev, ki iz vseh kopalnic v hotelskih sobah črpajo zrak. Zaradi tega prisilnega prezračevanja se pojavijo še dodatne prezračevalne izgube, ki v gornjem preračunu niso zajete.</p>
+    <p xml:id="pb43.p7" xml:lang="sl">Iz vsake kopalnice je do zunanjosti napeljana cev premera 100 mm, po katerih iz kopalnic črpajo slab zrak. V hotelu Uni so na en večji ventilator povezani kanali, ki prihajajo iz petnajstih kopalnic; na strehi so nameščeni trije takšni ventilatorji. V hotelu Orel pa ima vsaka kopalnica svoj manjši ventilator. Za vsako kopalnico ocenimo, da se v njej menja 50 kubičnih metrov zraka v eni uri zaradi prisilnega prezračevanja. Iz tega dobimo podatek o volumskem pretoku vsega zraka, ki zapušča stavbi: Celotne toplotne izgube zaradi prisilnega prezračevanja znašajo: 6.5 Predlog prenove</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">Toplotne izgube hotelov so relativno visoke. Rezultate pojasni predvsem dejstvo, da stavbe niso primerno izolirane oziroma na zunanjih stenah sploh nimajo izolacije, prav tako so vgrajena stara okna, ki niso dovolj tesna in učinkovita. Zato je prvi korak k zmanjšanju toplotnih izgub ravno obnovitev fasade stavb ter menjava oken.</p>
+    <p xml:id="pb44.p2" xml:lang="sl">Fasade je potrebno primerno toplotno izolirati. Lahko se odločimo za nakup klasičnih izolacijskih plošč ali pa za posebne fasadne sisteme, ki jih ponujajo nekatera podjetja. V nadaljevanju so prikazani rezultati za dve vrsti izolacije oziroma fasadnega sistema.</p>
+    <p xml:id="pb44.p3" xml:lang="sl">Izolacijske plošče FKD-S (PTP-035)</p>
+    <p xml:id="pb44.p4" xml:lang="sl">Izolacijske plošče za kontaktne fasade FKD-S (PTP-035), ki jih ponuja podjetje Knauf Insulation, so kot nosilni element fasade namenjene toplotni, zvočni in požarni zaščiti zunanjih sten v sistemu tankoslojne kontaktne fasade. Plošče odlikujejo izboljšana toplotna izolativnost, priročne dimenzije, majhna teža in dobre mehanske lastnosti. Plošče so na zid poleg lepljenja tudi mehansko pritrjene z ustreznimi fasadnimi pritrdili. Priporočljive so za vse vrste objektov, predvsem pa za sanacije starih neizoliranih fasad.</p>
+    <p xml:id="pb44.p5" xml:lang="sl">Tehnične lastnosti izolacijskih plošč so prikazane v Preglednici 6.17.</p>
+    <p xml:id="pb44.p6" xml:lang="sl">Preglednica 6.17: Lastnosti izolacijske plošče za kontaktne fasade FKD-S (PTP-035) Deklarirana toplotna prevodnost 0,036 W/m 2</p>
+    <p xml:id="pb44.p7" xml:lang="sl">K</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Odziv na ogenj Razred A1 Tališče &gt; 1000 °C</p>
+    <p xml:id="pb44.p9" xml:lang="sl">Razplastna trdnost &gt; 10 kPa Navzemanje vode &lt; 1 kg/m 2</p>
+    <p xml:id="pb44.p10" xml:lang="sl">Specifična toplota 1030 J/kgK Difuzijska upornost vodni pari 3,5</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Priporoča se debelina izolacije med 12 in 16 cm. Izbrana je debelina izolacije 14 cm. V primeru namestitve te izolacije se spremeni prehodnost in posledično tudi toplotne izgube skozi ovoj. Prehodnost se iz sedanjih 1,16 W/m 2K zmanjša na 0,21 W/m2K, kar pa ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti.</p>
+    <p xml:id="pb45.p2" xml:lang="sl">Zraven prenove fasade so potrebna zamenjave tudi vsa okna. Danes imajo nova okna povprečno prehodnost 1,30 W/m2K, kar je privzeta vrednost za okna v tem primeru. Zaradi zmanjšanja prehodnosti tako zunanje stene kot oken, se zmanjšajo tudi toplotne izgube.</p>
+    <p xml:id="pb45.p3" xml:lang="sl">Vrednosti toplotnih izgub prenovljene fasade so prikazane v Preglednici 6.18.</p>
+    <p xml:id="pb45.p4" xml:lang="sl">Preglednica 6.18: Toplotne izgube pri prenovljeni fasadi (izolacija FKD-S (PTP-035), 14 cm) Zgradba</p>
+    <p xml:id="pb45.p5" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb45.p6" xml:lang="sl">[W]</p>
+    <p xml:id="pb45.p7" xml:lang="sl">Transmisijske izgube</p>
+    <p xml:id="pb45.p8" xml:lang="sl">[W]</p>
+    <p xml:id="pb45.p9" xml:lang="sl">Toplotne izgube</p>
+    <p xml:id="pb45.p10" xml:lang="sl">[W]</p>
+    <p xml:id="pb45.p11" xml:lang="sl">Hotel Orel 54.393 42.905 76.867 Hotel Uni 45.780 60.976 106.756 Mostovž 3084 8437 11.521 Fasadni sistem DEMIT AClimaTIVE</p>
+    <p xml:id="pb45.p12" xml:lang="sl">Fasadni sistem DEMIT AClimaTIVE podjetja DEMIT predstavlja difuzijsko usklajen fasadni sistem, ki ga odlikujejo fasadne plošče DEMIT Active 032 z luknjicami in DEMIT Active [armflex] lepilna malta z izboljšano paropropustnostjo. Sistem je primeren za novogradnje, predvsem pa za obnovo obstoječih, starejših objektov.</p>
+    <p xml:id="pb45.p13" xml:lang="sl">Tehnične lastnosti izolacijskih plošč so prikazane v Preglednici 6.19.</p>
+    <p xml:id="pb45.p14" xml:lang="sl">Preglednica 6.19: Lastnosti izolacijske plošče fasadnega sistema DEMIT AClimaTIVE Deklarirana toplotna prevodnost 0,032 W/m 2</p>
+    <p xml:id="pb45.p15" xml:lang="sl">K</p>
+    <p xml:id="pb45.p16" xml:lang="sl">Odziv na ogenj Evrorazred E Dimenzijska stabilnost 1603 % Natezna trdnost 1607 kPa Upogibna trdnost 12.089 kPa Temperaturna obstojnost 80 °C – dolgotrajno 95 °C – kratkotrajno</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">Tudi ta vrsta izolacijskih plošč je na voljo z različnimi debelinami. Izolacija debeline 12 cm ustreza in zadostuje pogojem EKO Sklada za pridobitev subvencije, vendar EKO Sklad podeljuje subvencije zgolj za prenovo stanovanj in hiš, torej za primer prenove fasade hotela ne pride v poštev. Pri izbrani debelini izolacije se prehodnost zunanje stene zmanjša iz sedanjih 1,16 W/m 2</p>
+    <p xml:id="pb46.p2" xml:lang="sl">K na 0,22 W/m 2</p>
+    <p xml:id="pb46.p3" xml:lang="sl">K, kar ustreza vrednostim, ki jih navaja pravilnik glede maksimalnih dovoljenih toplotnih prehodnosti. Za primerjavo: če še malenkost povečamo debelino izolacije na 16 cm, se prehodnost še zmanjša, in sicer na 0,17 W/m2K. Seveda pa so v tem primeru višji stroški materiala.</p>
+    <p xml:id="pb46.p4" xml:lang="sl">Kot že omenjeno, je potrebno zamenjati tudi okna, pri čemer je za nova okna privzeta vrednost za prehodnost 1,30 W/m 2</p>
+    <p xml:id="pb46.p5" xml:lang="sl">K. Tako se zmanjšajo tudi toplotne izgube.</p>
+    <p xml:id="pb46.p6" xml:lang="sl">Preglednica 6.20: Toplotne izgube pri prenovljeni fasadi (DEMIT AClimaTIVE, 12 cm) Zgradba</p>
+    <p xml:id="pb46.p7" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb46.p8" xml:lang="sl">[W]</p>
+    <p xml:id="pb46.p9" xml:lang="sl">Transmisijske izgube</p>
+    <p xml:id="pb46.p10" xml:lang="sl">[W]</p>
+    <p xml:id="pb46.p11" xml:lang="sl">Toplotne izgube</p>
+    <p xml:id="pb46.p12" xml:lang="sl">[W]</p>
+    <p xml:id="pb46.p13" xml:lang="sl">Hotel Orel 54.393 43.328 77.149 Hotel Uni 45.780 61.339 107.119 Mostovž 3084 8478 11.561</p>
+    <p xml:id="pb46.p14" xml:lang="sl">Preglednica 6.21: Toplotne izgube pri prenovljeni fasadi (DEMIT AClimaTIVE, 16 cm) Zgradba</p>
+    <p xml:id="pb46.p15" xml:lang="sl">Prezračevalne izgube</p>
+    <p xml:id="pb46.p16" xml:lang="sl">[W]</p>
+    <p xml:id="pb46.p17" xml:lang="sl">Transmisijske izgube</p>
+    <p xml:id="pb46.p18" xml:lang="sl">[W]</p>
+    <p xml:id="pb46.p19" xml:lang="sl">Toplotne izgube</p>
+    <p xml:id="pb46.p20" xml:lang="sl">[W]</p>
+    <p xml:id="pb46.p21" xml:lang="sl">Hotel Orel 54.393 40.242 75.088 Hotel Uni 45.780 58.696 104.476 Mostovž 3084 8182 11.266 6.6 Celotne toplotne izgube</p>
+    <p xml:id="pb46.p22" xml:lang="sl">Za določitev potrebne moči ogrevalnih kotlov so pomembni vsi prispevki, zaradi katerih se izgublja toplota v zgradbah. Celotna moč predstavlja torej seštevek vseh vrst toplotnih izgub: transmisijske izgube skozi toplotni ovoj stavbe, prezračevalne izgube zaradi netesnosti stavbe, izgube zaradi prisilnega prezračevanja ter moč, potrebna za segretje vode. Pri tem moramo upoštevati vse objekte, ki se ogrevajo iz kotlovnice.</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Za primer prenove objektov in zamenjave oken so vrednosti toplotnih izgub in celotna potreba po toploti navedene v Preglednici 6.22.</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Preglednica 6.22: Celotna potreba po toploti v primeru prenove Vrsta toplotnih izgub Vrednost toplotnih izgub [kW]</p>
+    <p xml:id="pb47.p3" xml:lang="sl">Transmisijske izgube – hotel Orel 77,1 Transmisijske izgube – hotel Uni 107,1 Transmisijske izgube – mostovž 11,6 Toplotne izgube – stanovanja Grajski trg 1 12,0 Toplotne izgube – gostilna Štajerc 30,0 Toplota za ogrevanje sanitarne vode 60,9 Prezračevalne izgube 71,2 Skupaj 369,9</p>
+    <p xml:id="pb47.p4" xml:lang="sl">V primeru, da se podjetje ne bi odločilo za prenovo fasade, ampak zgolj za zamenjavo ogrevalnih kotlov v kotlovnici, pa bi vrednosti bile malenkost višje. Navedene so v Preglednici 6.23.</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Preglednica 6.23: Celotna potreba po toploti v primeru zamenjave kotlov brez prenove fasade Vrsta toplotnih izgub Vrednost toplotnih izgub [kW]</p>
+    <p xml:id="pb47.p6" xml:lang="sl">Transmisijske izgube – hotel Orel 134,8 Transmisijske izgube – hotel Uni 171,9 Transmisijske izgube – mostovž 21,5 Toplotne izgube – stanovanja Grajski trg 1 12,0 Toplotne izgube – gostilna Štajerc 30,0 Toplota za ogrevanje sanitarne vode 60,9 Prezračevalne izgube 71,2 Skupaj 502,3</p>
+    <p xml:id="pb47.p7" xml:lang="sl">V primeru prenove je torej kotel moči 400 kW tisti, ki bi pokril vse izgube in potrebe po toploti. V primeru, da bi zamenjali samo obstoječe kotle, pa so potrebe po toploti malo večje, in sicer bi bil potreben kotel z močjo vsaj 500 kW. V vsakem primeru pa predlagamo, da se zaradi rezerve namesti kotel, ki ima moč malenkost večjo od potrebne. Rezultati izračuna so jasni, vendar se lahko pojavijo odstopanja; moč ob zagonu in segrevanju prostorov je večja kot ob vzdrževanju temperature prostorov, prav tako se lahko temperature prostorov spreminjajo, saj želje gostov hotela niso enake za vse, potrebno pa je upoštevati tudi možnost zapolnjenosti hotelskih kapacitet, kar pomeni večjo potrebo po topli vodi in ogrevanju prostorov.</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">S prenovo fasade in zamenjavo oken se sicer zmanjšajo transmisijske izgube, vendar je zaradi novih oken zgradba po menjavi tudi bolj tesna. Stara okna, ki so danes vgrajena, zagotovo niso tako tesna kot bi bila nova, kar spremeni tudi pogoje glede prezračevanja.</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Infiltracije zaradi netesnosti se zmanjšajo, zaradi česar se zrak v prostorih zamenja manjkrat kot trenutno, to pa vodi tudi do slabše kvalitete zraka. Posledično bi bilo potrebno urediti tudi prisilno prezračevanje prostorov, s čimer pa bi se povečale tudi prezračevalne izgube.</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Zato se predlaga namestitev dveh kotlov, in sicer enega moči 500 kW in drugega moči 200 kW, torej skupne moči 700 kW. Kotel z močjo 500 kW bi pokrival vse tekoče toplotne potrebe, ob visoki zasedenosti hotela in obremenitvi sistema za ogrevanje pa bi se priključil še kotel moči 200 kW. Oba kotla skupaj bi z močjo 700 kW zanesljivo zagotovila zadostno količino toplote za ogrevanje.</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">6.7 Izraba odpadne toplote pralnice hotela s pomočjo toplotne črpalke Toplotne črpalke ponujajo najbolj energetsko učinkovit način, ki zagotavlja ogrevanje in hlajenje na raznovrstne načine z uporabo obnovljivih virov toplote v naši okolici. Zemlja, voda in zrak vsebujejo koristno toploto, ki se s pomočjo sončnih žarkov nenehno obnavlja. Ta toplota je za nas koristna, ko je zunaj mraz. S pomočjo dodatne energije, proizvedene s strani toplotne črpalke, se lahko toplota dvigne na potrebno raven da segreje naš dom, pisarno, objekt itd. Podobno lahko toplotne črpalke izkoristijo odvečno toploto, na primer pri industrijskih procesih, pri opremi za hlajenje itd. Prav tako se uporabljajo za prezračevanje zraka iz zgradbe.</p>
+    <p xml:id="pb49.p2" xml:lang="sl">Toplotne črpalke porabijo manj primarne energije od običajnih sistemov za ogrevanje, zato ogromno prispevajo tudi k zmanjševanju emisij toplogrednih plinov, ki škodujejo okolju (npr. ogljikov dioksid, žveplov dioksid, dušikov oksid). Toplotna črpalka pri nizkih temperaturah greje, pri visokih ohlaja. Gre za ekološko usmerjeno rešitev ogrevanja, ki ne obremenjuje okolja.</p>
+    <p xml:id="pb49.p3" xml:lang="sl">6.7.1 Parametri pralnice hotela Orel</p>
+    <p xml:id="pb49.p4" xml:lang="sl">Pralnica je nujen del vsakega hotela. V hotelu Orel imajo v kletnih prostorih manjšo pralnico, kjer so nameščeni štirje pralni stroji, dva sušilca in dva likalna stroja. Vsi skupaj porabljajo 250 kW električne energije. Ti stroji pa oddajajo velike količine toplote; pralni stroji perejo pri temperaturah nad 40 °C, sušilni in likalni stroji imajo prav tako visoke delovne temperature. Vsa ta toplota pa se oddaja v prostor, zato bi bilo smotrno to toplotno energijo tudi izrabiti.</p>
+    <p xml:id="pb49.p5" xml:lang="sl">Ocenjuje se, da stroji oddajo v okolico okrog tretjine energije v obliki toplote, kar pomeni, da bi lahko okrog 80 kW toplotne moči pokrili s pomočjo toplotne črpalke, ki bi se jo namestilo v pralnici. To je ogromna količina energije, ki bi lahko služila, na primer, za ogrevanje sanitarne vode. Seveda pa to velja ob predpostavki, da pralnica nenehno obratuje in konstantno proizvaja tolikšno količino toplote. Ker pa ta toplota v realnosti ne bi bila vedno na razpolago, pa bi sistem morali urediti tako, da bi ob zadostni količini toplote iz pralnice sanitarno vodo segrevala toplotna črpalka, sicer pa bi tudi gretje vode prevzeli ogrevalni kotli.</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">6.8 Okvirni stroški prenove 6.8.1 Toplotna izolacija</p>
+    <p xml:id="pb50.p2" xml:lang="sl">Za različne vrste izolacij in fasadnih sistemov različnih proizvajalcev se razumljivo pojavijo tudi razlike v cenah izdelkov. Cene za prej predstavljene vrste izolacij so zbrane v Preglednici 6.24.</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Preglednica 6.24: Cene izolacijskega materiala Izdelek Cena brez DDV</p>
+    <p xml:id="pb50.p4" xml:lang="sl">KNAUF Insulation, FKD-S (PTP-035) 17,39 EUR/m 2</p>
+    <p xml:id="pb50.p5" xml:lang="sl">DEMIT, AClimaTIVE – 12 cm 22,28 EUR/m 2</p>
+    <p xml:id="pb50.p6" xml:lang="sl">DEMIT, AClimaTIVE – 16 cm 27,16 EUR/m 2</p>
+    <p xml:id="pb50.p7" xml:lang="sl">Za izračun cene je potreben še podatek o površini zunanje stene, ki bi se prenovila. Površine zunanjih sten in oken so navedene v Preglednici 6.25.</p>
+    <p xml:id="pb50.p8" xml:lang="sl">Preglednica 6.25: Površine zunanjih sten in oken na objektih Zgradba</p>
+    <p xml:id="pb50.p9" xml:lang="sl">Površina stene [m 2</p>
+    <p xml:id="pb50.p10" xml:lang="sl">Površina oken [m 2</p>
+    <p xml:id="pb50.p11" xml:lang="sl">Hotel Orel 1273,6 232,0 Hotel Uni 1633,0 198,0 Mostovž 182,8 60,5</p>
+    <p xml:id="pb50.p12" xml:lang="sl">Skupaj površina 3089,4 490,5</p>
+    <p xml:id="pb50.p13" xml:lang="sl">Cena izbranega izolacijskega materiala za celotno površino zunanjih sten objektov je prikazana v Preglednici 6.26.</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">Preglednica 6.26: Cene izolacijskega materiala za celotno površino zunanjih sten Izdelek</p>
+    <p xml:id="pb51.p2" xml:lang="sl">Cena brez DDV [EUR/m 2</p>
+    <p xml:id="pb51.p3" xml:lang="sl">Površina [m 2</p>
+    <p xml:id="pb51.p4" xml:lang="sl">Cena materiala brez DDV</p>
+    <p xml:id="pb51.p5" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb51.p6" xml:lang="sl">KNAUF Insulation, FKD-S (PTP035)</p>
+    <p xml:id="pb51.p7" xml:lang="sl">17,39 EUR/m 2</p>
+    <p xml:id="pb51.p8" xml:lang="en">DEMIT, AClimaTIVE – 12 cm 22,28 EUR/m 2</p>
+    <p xml:id="pb51.p9" xml:lang="en">DEMIT, AClimaTIVE – 16 cm 27,16 EUR/m 2</p>
+    <p xml:id="pb51.p10" xml:lang="sl">K tem cenam je treba prišteti še stroške drugega potrebnega materiala, kot so lepilo, malta, armirne mrežice, pritrdilni elementi, barva … Povprečno lahko ocenimo ceno tovrstnih materialov in pripomočkov na okrog 10–15 EUR na kvadratni meter. Torej je treba prišteti še okoli 41.000 EUR.</p>
+    <p xml:id="pb51.p11" xml:lang="sl">Zraven materiala je potrebno upoštevati tudi stroške dela, torej same izvedbe prenove fasade. Le-ti navadno znašajo 15–20 EUR na kvadratni meter fasade; v tem primeru bi lahko stroške dela ocenili na okrog 55.000 EUR.</p>
+    <p xml:id="pb51.p12" xml:lang="sl">6.8.2 Okna</p>
+    <p xml:id="pb51.p13" xml:lang="sl">Ob prenovi fasade je potrebna tudi zamenjava oken na obeh hotelih. V večini so, z izjemo pritličja, v hotelu Orel vsa okna v nadstropjih identična. Prav tako so, z izjemo nekaj oken na hodnikih, tudi v hotelu Uni okna v sobah identična. Enaka okna kot v hotelu Uni so, z izjemo velikega okna v prvem nadstropju, vgrajena tudi v mostovžu. V Preglednici 6.27 so navedene cene za ti dve vrsti oken, izbrana pa so klasična okna tipa OPTIMUM, Preglednica 6.27: Cene oken in strošek menjave vseh oken na hotelu Orel in hotelu Uni Zgradba</p>
+    <p xml:id="pb51.p14" xml:lang="sl">Dimenzije okna</p>
+    <p xml:id="pb51.p15" xml:lang="sl">(širina [m] x višina [m]) Cena okna</p>
+    <p xml:id="pb51.p16" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb51.p17" xml:lang="sl">Količina Cena</p>
+    <p xml:id="pb51.p18" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb51.p19" xml:lang="sl">Hotel Orel 160 x 145 414,94 103 42.738,82 Hotel Uni + mostovž</p>
+    <p xml:id="pb51.p20" xml:lang="sl">100 x 190 299,70 106 31.786,20 Skupaj 74.507,02 podjetja TIP-TOP Design.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">6.8.3 Kotli</p>
+    <p xml:id="pb52.p2" xml:lang="sl">H končni ceni projekta doprinese tudi zamenjava ogrevalnih kotlov. Če za potrebe okvirne ocenitve cene zanemarimo stroške demontaže in transporta starih kotlov, je pomembna še nabavna cena novih kotlov. Kot že omenjeno, sta izbrana dva kotla moči 500 in 200 kW.</p>
+    <p xml:id="pb52.p3" xml:lang="sl">Kotla sta proizvod podjetja Stadler; kotel moči 500 kW ima oznako Z580 in stane 9324 EUR, kotel moči 200 kW z oznako Z230 pa ima ceno 5097 EUR.</p>
+    <p xml:id="pb52.p4" xml:lang="sl">6.8.4 Toplotna črpalka</p>
+    <p xml:id="pb52.p5" xml:lang="sl">V primeru namestitve toplotne črpalke pa tudi ta predstavlja dodaten strošek. Če vzamemo za primer kompaktno reverzibilno toplotno črpalko podjetja Kronoterm z močjo 60 kW, bi za njo odšteli dodatnih 13.482 EUR. K tej ceni pa je treba prišteti še stroške dodatne opreme, ki je potrebna za namestitev in delovanje toplotne črpalke; te stroške bomo ocenili na okrog 500</p>
+    <p xml:id="pb52.p6" xml:lang="sl">EUR.</p>
+    <p xml:id="pb52.p7" xml:lang="sl">6.8.5 Variabilni stroški</p>
+    <p xml:id="pb52.p8" xml:lang="sl">Te cene pa še vedno ne vključujejo nekaterih drugih stroškov, ki se lahko pojavijo: izdelava projektne dokumentacije, izmere objektov, postavitev in najem fasadnega odra, montaža odvodnih cevi, raznih pripomočkov, orodij,… Tovrstne stroške se je združilo v variabilne stroške in se jih ocenilo na 15.000 EUR.</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">6.8.6 Skupni stroški prenove</p>
+    <p xml:id="pb53.p2" xml:lang="sl">Celotni okvirni stroški prenove so navedeni v Preglednici 6.28.</p>
+    <p xml:id="pb53.p3" xml:lang="sl">Preglednica 6.28: Celotni stroški investicije Cena</p>
+    <p xml:id="pb53.p4" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb53.p5" xml:lang="sl">KNAUF Insulation,</p>
+    <p xml:id="pb53.p6" xml:lang="sl">FKD-S (PTP-035)</p>
+    <p xml:id="pb53.p7" xml:lang="sl">DEMIT, AClimaTIVE – 12 cm</p>
+    <p xml:id="pb53.p8" xml:lang="sl">DEMIT, AClimaTIVE – 16 cm</p>
+    <p xml:id="pb53.p9" xml:lang="sl">Izolacija 53.724,67 68.831,83 83.408,10 Pritrdilni material, barva, malta,… 41.000,00</p>
+    <p xml:id="pb53.p10" xml:lang="sl">Okna 74.507,02 Kotli 14.421,00</p>
+    <p xml:id="pb53.p11" xml:lang="sl">Toplotna črpalka 13.482,00 Izvedba prenove fasade</p>
+    <p xml:id="pb53.p12" xml:lang="sl">Variabilni stroški 15.000,00 Skupaj cena brez</p>
+    <p xml:id="pb53.p13" xml:lang="sl">DDV</p>
+    <p xml:id="pb53.p14" xml:lang="sl">267.134,69 282.241,85 296.818,12 Davek na dodano vrednost 22%</p>
+    <p xml:id="pb53.p15" xml:lang="sl">Skupaj cena z DDV 325.904,32 344.335,06 362.118,11 6.8.7 Ekonomičnost investicije</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">Letna poraba zemeljskega plina je leta 2012 znašala 136.951 kubičnih metrov, leto prej pa 157.684 kubičnih metrov. Če upoštevamo trenutno ceno zemeljskega plina, ki znaša 0,5104 EUR/m 3</p>
+    <p xml:id="pb54.p2" xml:lang="sl">, potem so stroški za zemeljski plin lani znašali 69.899,79 EUR. Pri tem znašajo trenutne toplotne izgube 502,3 kW. Po prenovi fasade in zamenjavi oken pa bi toplotne izgube znašale 369,9 kW, kar predstavlja 26,5 odstotkov manj kot sedaj. Če predpostavimo, da se za toliko zmanjša tudi letna količina porabljenega zemeljskega plina, potem lahko izračunamo tudi prihranek. V Preglednici 6.29 so prikazani prihranki pri prenovi kotlovnice, fasade in zamenjavi oken v primerjavi zgolj s prenovo kotlovnice. Prikazani so še dodatni prihranki v primeru namestitve toplotne črpalke; v tem primeru so toplotne izgube manjše za moč nameščene toplotne črpalke (60 kW).</p>
+    <p xml:id="pb54.p3" xml:lang="sl">Preglednica 6.29: Prihranek ob prenovi kotlovnice in fasade z in brez namestitve toplotne črpalke v primerjavi zgolj s prenovo kotlovnice Prenova kotlovnice</p>
+    <p xml:id="pb54.p4" xml:lang="sl">Prenova kotlovnice, fasade, zamenjava oken</p>
+    <p xml:id="pb54.p5" xml:lang="sl">Prenova kotlovnice, fasade, zamenjava oken, toplotna črpalka Toplotne izgube [kW]</p>
+    <p xml:id="pb54.p6" xml:lang="sl">502,3 369,9 309,9 Prihranek [%]</p>
+    <p xml:id="pb54.p7" xml:lang="sl">/ 26,4 38,3 Letna poraba zemeljskega plina [m 3</p>
+    <p xml:id="pb54.p8" xml:lang="sl">136.951 100.852 84.494 Prihranek zemeljskega plina [m 3</p>
+    <p xml:id="pb54.p9" xml:lang="sl">/ 36.099 52.458 Prihranek</p>
+    <p xml:id="pb54.p10" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb54.p11" xml:lang="sl">/ 18.424,71 26.774,28 Cena investicije</p>
+    <p xml:id="pb54.p12" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb54.p13" xml:lang="sl">35.893,62 327.887,02 363.855,06 Razlika v primerjavi s prenovo kotlovnice</p>
+    <p xml:id="pb54.p14" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb54.p15" xml:lang="sl">Za izračun ekonomičnosti smo uporabili metodo neto sedanje vrednosti, ki upošteva zmanjšanje vrednosti denarja skozi leta, zato so vrednosti (stroški, prihranki) iz leta v leto primerljive. Upoštevali smo 5,5 odstotno diskontno stopnjo. Rezultati so prikazani v Preglednici 6.30 in Preglednici 6.31.</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">Preglednica 6.30: Diskontirani prihranki in profit za primer prenove kotlovnice in fasade ter zamenjavo oken Leto</p>
+    <p xml:id="pb55.p2" xml:lang="sl">Prihranek diskontirano</p>
+    <p xml:id="pb55.p3" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb55.p4" xml:lang="sl">Prihranek kumulativno</p>
+    <p xml:id="pb55.p5" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb55.p6" xml:lang="sl">Profit</p>
+    <p xml:id="pb55.p7" xml:lang="sl">[EUR]</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="sl">Preglednica 3.31: Diskontirani prihranki in profit za primer prenove kotlovnice in fasade ter zamenjavo oken in namestitvijo toplotne črpalke Leto</p>
+    <p xml:id="pb56.p2" xml:lang="sl">Prihranek diskontirano</p>
+    <p xml:id="pb56.p3" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb56.p4" xml:lang="sl">Prihranek kumulativno</p>
+    <p xml:id="pb56.p5" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb56.p6" xml:lang="sl">Profit</p>
+    <p xml:id="pb56.p7" xml:lang="sl">[EUR]</p>
+    <p xml:id="pb56.p8" xml:lang="sl">Iz Preglednice 3.30 je razvidno, da se v primeru prenove fasade z zamenjavo oken brez namestitve toplotne črpalke investicija povrne šele v 37 letih. Pri dodatni namestitvi toplotne črpalke (Preglednica 3.31) pa se kljub višji ceni investicija povrne v 19 letih, saj so prihranki zaradi manjše porabe plina večji. V splošnem se investicija ekonomsko gledano ne izplača.</p>
+    <p xml:id="pb56.p9" xml:lang="sl">Tudi sicer toliko vredne investicije ne moremo opravičiti zgolj s sanacijo same kotlovnice, saj je menjava oken in prenova fasade zgolj zaradi zmanjšanja toplotnih izgub izredno draga.</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=57">
+    <p xml:id="pb57.p1" xml:lang="sl">7 SKLEP</p>
+    <p xml:id="pb57.p2" xml:lang="sl">Namen diplomskega dela je bil preučiti literaturo s področja prenosa toplote in toplotnih izgub stavb ter opraviti toplotni preračun za izbrane objekte, jih analizirati in podati predlog za prenovo in splošno izboljšanje energetske učinkovitosti objektov.</p>
+    <p xml:id="pb57.p3" xml:lang="sl">Toplotni izračun za ugotavljanje izgub objektov je bil opravljen s programsko opremo ETU Haustechnik, ki temelji na standardu EN 12831. Z vnašanjem ustreznih parametrov nam je program izračunal vrednosti, v katero so bile vštete tako transmisijske izgube zaradi temperaturne razlike kot tudi prezračevalne izgube toplote zaradi netesnosti zgradb. Rezultati izračuna so primerni za tovrstne objekte in se lahko primerjajo z drugimi.</p>
+    <p xml:id="pb57.p4" xml:lang="sl">Pri predlogih za prenovo smo se osredotočili predvsem na zamenjavo oken in prenovo fasade. Izkazalo se je, da je toplotna izolacija zgradbe zelo pomembna glede energetske učinkovitosti objekta, in da nam dobra izolacija lahko prinese kar nekaj prihrankov energije, kar pomeni tudi cenejše ogrevanje, manj stroškov. Prav tako omogoča nekaj prihrankov energije menjava oken, vendar ne tako učinkovito kot izolacija zunanje stene, kar bi morda bilo za pričakovati. Kljub temu pa sta oba posega potrebna, če želimo čim večje energijske prihranke.</p>
+    <p xml:id="pb57.p5" xml:lang="sl">Cilji, ki so bili na začetku zastavljeni, so bili doseženi; toplotne izgube so se izračunale, hkrati pa so se podali predlogi za prenovo. Seveda je na voljo še mnogo drugih načinov, s katerimi bi še izboljšali energetsko učinkovitost objektov. Nedvomno pa je potrebno objekte in opremo modernizirati, nadgraditi s sredstvi, ki so na voljo. Dandanes je varovanje okolja tema, ki je aktualna in terja veliko časa ter diskusije. Zato je potrebno stremeti k ustvarjanju lepšega, boljšega in energetsko učinkovitejšega okolja, k varčevanju in smotrni porabi energije.</p>
+  </page>
+  <page xml:id="pb58" n="58" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=58">
+    <p xml:id="pb58.p1" xml:lang="sl">8 SEZNAM UPORABLJENIH VIROV</p>
+    <p xml:id="pb58.p2" xml:lang="sl">[1] Ameln Helmut von. Centralno ogrevanje: obnova in popravila, izpopolnjen in predelan ponatis, prevedel Davorin Žitko. Ljubljana: Tehniška založba Slovenije, 1988.</p>
+    <p xml:id="pb58.p3" xml:lang="en">[2] Davies Morris Grenfell. Building Heat Transfer. West Sussex: John Wiley &amp; Sons Ltd, 2004.</p>
+    <p xml:id="pb58.p4" xml:lang="sl">[3] DIN EN 12831. Heizungsanlagen in Gebäuden. DIN, Berlin, 2003.</p>
+    <p xml:id="pb58.p5" xml:lang="sl">[4] Hotel Orel, Maribor [svetovni splet]. Wikimedia Foundation Inc. Dostopno na WWW: http://sl.wikipedia.org/wiki/Hotel_Orel,_Maribor [7. 8. 2013].</p>
+    <p xml:id="pb58.p6" xml:lang="sl">[5] Kako doseči prihranke s pomočjo toplotne črpalke in hkrati zmanjšati emisije CO2 [svetovni splet]. ToplotnaCrpalka.Org. Dostopno na WWW: http://toplotnacrpalka.org [10. 8. 2013].</p>
+    <p xml:id="pb58.p7" xml:lang="sl">[6] Kalorična vrednost (KV)/Calorific Value (CV) [svetovni splet]. Geoplin d.o.o.</p>
+    <p xml:id="pb58.p8" xml:lang="sl">Ljubljana. Dostopno na WWW: http://www.geoplin.si/zemeljski-plin/73 [12. 8. 2013].</p>
+    <p xml:id="pb58.p9" xml:lang="sl">[7] Kraut Bojan. Krautov strojniški priročnik, 14. slovenska izdaja/izdajo pripravila Jože</p>
+    <p xml:id="pb58.p10" xml:lang="sl">Puhar, Jože Stropnik. Ljubljana: Littera picta, 2003.</p>
+    <p xml:id="pb58.p11" xml:lang="sl">[8] Pravilnik o prezračevanju in klimatizaciji stavb. Uradni list RS, 2002, št. 42, str. 4139.</p>
+    <p xml:id="pb58.p12" xml:lang="sl">[9] Pravilnik o toplotni zaščiti stavb in učinkoviti rabi energije. Uradni list RS, 2002, št.</p>
+    <p xml:id="pb58.p13" xml:lang="sl">42, str. 4114.</p>
+    <p xml:id="pb58.p14" xml:lang="sl">[10] Pravilnik o učinkoviti rabi energije v stavbah. Uradni list RS, 2008, št. 93, str. 12698.</p>
+    <p xml:id="pb58.p15" xml:lang="sl">[11] Pravilnik o učinkoviti rabi energije v stavbah. Uradni list RS, 2010, št. 52, str. 7840.</p>
+    <p xml:id="pb58.p16" xml:lang="sl">[12] Terme Maribor, d.d. [svetovni splet]. Wikimedia Foundation Inc. Dostopno na WWW: http://sl.wikipedia.org/wiki/Terme_Maribor,_d.d. [7. 8. 2013].</p>
+    <p xml:id="pb58.p17" xml:lang="sl">[13] Trajanje kurilne sezone – povprečje za obdobje od 1971-2000 [svetovni splet].</p>
+    <p xml:id="pb58.p18" xml:lang="sl">Agencija RS za okolje. Dostopno na WWW: http://www.arso.gov.si/vreme/podnebje/karte/karta4046.html [20. 8. 2013].</p>
+    <p xml:id="pb58.p19" xml:lang="sl">[14] Zemeljski plin – spletni kalkulator [svetovni splet]. Plinarna Maribor d.o.o. Dostopno na WWW: http://www.plinarna-maribor.si/sl/index.cp2?cid=1EFF217D-D3DD-56551F6D-CADA57EFBA40&amp;linkid=calculator [20. 8. 2013].</p>
+  </page>
+  <page xml:id="pb59" n="59" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8383000.pdf#page=59">
+    <p xml:id="pb59.p1" xml:lang="sl">9 PRILOGE</p>
+    <p xml:id="pb59.p2" xml:lang="sl">Priloga [1] Tloris druge kleti hotela Orel (požarni načrt) Priloga [2] Tloris prve kleti hotela Orel (požarni načrt) Priloga [3] Tloris pritličja hotela Orel (požarni načrt) Priloga [4] Tloris prvega nadstropja hotela Orel (požarni načrt) Priloga [5] Tloris drugega nadstropja hotela Orel (požarni načrt) Priloga [6] Tloris tretjega nadstropja hotela Orel (požarni načrt) Priloga [7] Tloris četrtega nadstropja hotela Orel (požarni načrt) Priloga [8] Tloris petega nadstropja hotela Orel (požarni načrt) Priloga [9] Tloris prve kleti hotela Uni (požarni načrt) Priloga [10] Tloris pritličja hotela Uni (požarni načrt) Priloga [11] Tloris prvega nadstropja hotela Uni (požarni načrt) Priloga [12] Tloris drugega nadstropja hotela Uni (požarni načrt) Priloga [13] Tloris mansarde hotela Uni (požarni načrt)</p>
+  </page>
+</document>

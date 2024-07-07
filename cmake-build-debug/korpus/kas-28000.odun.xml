@@ -1,0 +1,4110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dokument>
+  <DocumentID>28000</DocumentID>
+  <ContentID>50404</ContentID>
+  <FileName>28000_file.pdf</FileName>
+  <Title>Pomen storitev po prodaji za porabnike storitev informacijske tehnologije</Title>
+  <EnglishTitle></EnglishTitle>
+  <Subtitle>diplomsko delo</Subtitle>
+  <EnglishSubtitle></EnglishSubtitle>
+  <Abstract></Abstract>
+  <EnglishAbstract></EnglishAbstract>
+  <Keywords>
+    <keyword>trženje</keyword>
+    <keyword>prodaja</keyword>
+    <keyword>storitve</keyword>
+    <keyword>kvaliteta</keyword>
+    <keyword>zadovoljstvo</keyword>
+    <keyword>case study</keyword>
+    <keyword>informatika</keyword>
+    <keyword>Adacta Dynamics Support Center</keyword>
+  </Keywords>
+  <EnglishKeywords />
+  <Publisher>[J. Kolenc]</Publisher>
+  <IssueYear>2009</IssueYear>
+  <ISBN></ISBN>
+  <ISSN></ISSN>
+  <DOI></DOI>
+  <EVSAbbreviation>UL EF</EVSAbbreviation>
+  <EVSName>Ekonomska fakulteta</EVSName>
+  <EVSEnglishName>Faculty of Economics</EVSEnglishName>
+  <Pages>I, 23 str., 13 str. pril.</Pages>
+  <Volume></Volume>
+  <Issue></Issue>
+  <Location>Ljubljana</Location>
+  <Url>http://www.cek.ef.uni-lj.si/UPES/kolenc304.pdf</Url>
+  <CobissID>18874342</CobissID>
+  <Typology>Diplomsko delo</Typology>
+  <UDC>339.138</UDC>
+  <UDCTagsSlo>
+    <tag>Splošna vprašanja o trgovanju in trgovini</tag>
+  </UDCTagsSlo>
+  <UDCTagsEng>
+    <tag>General questions of trade and commerce. Market</tag>
+  </UDCTagsEng>
+  <Authors>
+    <Author>
+      <Name>Jana</Name>
+      <Surname>Kolenc</Surname>
+      <Role>Avtor</Role>
+    </Author>
+    <Author>
+      <Name>Iča</Name>
+      <Surname>Rojšek</Surname>
+      <Role>Mentor</Role>
+    </Author>
+  </Authors>
+  <PlainText>UNIVERZA V LJUBLJANI
+EKONOMSKA FAKULTETA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIPLOMSKO DELO
+
+
+POMEN STORITEV PO PRODAJI ZA PORABNIKE STORITEV
+
+INFORMACIJSKE TEHNOLOGIJE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ljubljana, september 2009       JANA KOLENC
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IZJAVA
+
+ 
+
+Študentka Jana Kolenc izjavljam, da sem avtorica tega diplomskega dela, ki sem ga
+
+napisala pod mentorstvom prof. dr. Iče Rojšek, in da dovolim njegovo objavo na
+
+fakultetnih spletnih straneh.
+
+
+
+V Ljubljani, dne 7. 9. 2009             Podpis:
+
+ 
+
+
+
+i
+
+KAZALO
+
+UVOD ........................................................................................................................................1 
+
+1  STORITVE PO PRODAJI...............................................................................................2 
+
+2  KAKOVOST STORITEV ................................................................................................4 
+
+3  ZADOVOLJSTVO PORABNIKOV S STORITVAMI.................................................7 
+
+3.1  Povezava med kakovostjo storitev in zadovoljstvom porabnikov...............................7 
+
+3.2  Povezava med zadovoljstvom in zvestobo porabnikov ...............................................8 
+
+4  POMEN DIMENZIJ KAKOVOSTI STORITEV PO PRODAJI ZA PORABNIKE
+STORITEV ADACTA DYNAMICS SUPPORT CENTRA ...........................................10 
+
+4.1  Predstavitev Adacta Dynamics Support Centra.........................................................11 
+
+4.2  Metodologija in cilji raziskave...................................................................................12 
+
+4.3  Analiza in ugotovitve raziskave.................................................................................14 
+
+SKLEP .....................................................................................................................................20 
+
+LITERATURA IN VIRI ........................................................................................................22 
+
+PRILOGE 
+
+
+
+
+
+KAZALO SLIK
+
+Slika 1: Zaznavanje kakovosti storitev in zadovoljstvo strank...................................................8
+
+Slika 2: Razmerje med zadovoljstvom in zvestobo porabnikov.................................................9
+
+Slika 3: Najpomembnejši dejavnik storitev po prodaji ............................................................11 
+
+
+
+
+
+KAZALO PRILOG
+ 
+Priloga 1: Prošnja za sodelovanje v raziskavi (elektronsko sporočilo) ......................................1
+
+Priloga 2: Dopis ..........................................................................................................................2
+
+Priloga 3: Opomnik za vodenje globinskega intervjuja .............................................................3
+
+Priloga 4: Globinski intervjuji ....................................................................................................4
+
+
+
+
+
+ 
+UVOD
+
+Razvoj tehnologije je prinesel bolj zanesljive, vendar tudi bolj kompleksne izdelke. Za
+veliko podjetij prodaja še ne pomeni konec sodelovanja s kupci. Prav tako kakovosten
+izdelek ali storitev sama po sebi ne zagotavljata uspeh podjetja. Zato posebno v
+visokotehnološkem sektorju storitve po prodaji izdelek dopolnjujejo, ga razlikujejo od
+substitutov in pomenijo dodatno vrednost za kupca.
+
+V zgodnjih 80-ih letih prejšnjega stoletja, ko so bili mnogi izdelki deležni velikih
+neuspehov, je bil glavni namen storitev po prodaji hitro in zanesljivo popravilo. Z novimi
+tehnologijami pa se je obseg storitev po prodaji razširil in postal širše prepoznan. Podjetja
+sedaj uporabljajo bolj profesionalen pristop, kot so ga v preteklosti, in oddelki za storitve
+po prodaji se hitro razvijajo v neodvisne poslovne enote (Goffin, 1999, str. 378).
+
+Dandanes samo nakup izdelka ali storitve ne izpolnjuje več zahtev kupca. Storitve po
+prodaji so postale dejavnik, ki močno vpliva na zadovoljstvo kupcev. Tako igrajo ključno
+vlogo v gradnji dolgoročnega odnosa s strankami, saj predstavljajo eno izmed stalnih
+povezav, ki jih imajo kupci s podjetjem. Visoka kakovost storitev po prodaji vpliva tudi na
+boljšo podobo blagovne znamke (Gallagher, Mitchke &amp; Rogers, 2005, str. 3).
+
+V podjetju Adacta, ki se ukvarja z razvojem poslovnih informacijskih rešitev, se zavedajo,
+da ni pomembno le pridobivanje novih strank, ampak tudi ohranjanje obstoječih. Ena od
+poslovnih rešitev, ki jih ponujajo, je Microsoft Dynamics Navision. Le-ta tudi po
+zaključeni namestitvi potrebuje ustrezne vzdrževalne aktivnosti, da deluje v svoji polni
+funkcionalnosti. Zato Adacta v okviru svoje enote Adacta Dynamics Support Center nudi
+storitve, katerih bistvo je tehnična in vsebinska podpora strankam. Zaradi vpliva kakovosti
+storitev po prodaji na zadovoljstvo strank je namen mojega diplomskega dela podati
+praktična spoznanja, ki bodo prispevala k razvoju storitev Adacta Dynamics
+Support Centra in s tem k večjemu zadovoljstvu porabnikov. Cilj diplomskega dela je
+ugotoviti pomen dimenzij kakovosti storitev Adacta Dynamics Support Centra za izbrane
+porabnike.
+
+Razumevanje značilnosti storitev po prodaji je osnova za ponazoritev njihovega pomena za
+porabnike. V prvem poglavju diplomskega dela zato obravnavam njihovo opredelitev,
+ključne elemente in njihov pomen za podjetje. Drugo poglavje obsega kakovost storitev,
+kjer največji poudarek namenjam dimenzijam kakovosti storitev, saj so le-te predmet
+proučevanja raziskovalnega dela diplomske naloge. Tretje poglavje se nanaša na
+zadovoljstvo porabnikov s storitvami. V njem prikazujem povezavo med kakovostjo
+storitev, zadovoljstvom porabnikov in njihovo zvestobo. S tem želim prikazati pomen
+kakovosti storitev in njen vpliv na zadovoljstvo porabnikov ter posledično na njihovo
+zvestobo. Poglavje zaključujem z ugotovitvami raziskav o vplivu zadovoljstva porabnikov
+na dobičkonosnost podjetja. V četrtem poglavju predstavljam raziskovalni del diplomskega
+
+1
+ 
+
+
+
+ 
+dela. S pomočjo globinskih intervjujev sem želela ugotoviti, katere dimenzije kakovosti
+storitev so porabnikom storitev Adacta Dynamics Support Centra pomembne in kako so
+izbrani porabniki zadovoljni z njihovim izvajanjem. Rezultati kvalitativne raziskave
+omogočajo oblikovanje domnev o pomembnosti nekaterih dimenzij kakovosti storitev
+Adacta Dynamics Support Centra za njegove porabnike. Diplomsko delo zaključujem s
+sklepnimi ugotovitvami.
+
+1 STORITVE PO PRODAJI
+
+Rigopoulou, Chaniotakis, Lymperopoulos in Siomkos (2008, str. 514) podrobneje
+predstavljajo opredelitve vodilnih avtorjev na področju storitev po prodaji. Izraz storitve po
+prodaji se najpogosteje uporablja za opis storitev, ki so zagotovljene kupcem po dostavi
+izdelka. V literaturi so poleg tega omenjeni tudi izrazi podpora po prodaji, tehnična pomoč
+ali celo le storitev.
+
+Loomba (1996, str. 4) pravi, da storitve po prodaji vključujejo vse dejavnosti, ki
+zagotavljajo, da je izdelek brez težav z uporabo na voljo potrošnikom tudi po izteku
+njegove življenjske dobe. Grönroos (2000, str. 113) pa jih opredeljuje kot odziv na
+problem kupca, npr. neuspešno popravilo izdelka, definiranje problema, strokovna pomoč
+pri reševanju problema, težave z uporabo izdelka in podobno. Funkcija teh storitev je torej
+povrniti zadovoljstvo porabnikov na raven, na kateri je bilo pred pojavom težave z
+izdelkom.
+
+Storitve po prodaji so pridobile strateško vlogo kot pomembni vir diferenciacije ponudbe
+in ustvarjanja dobička. Njihove dejavnosti pridobivajo na pomenu v vseh glavnih procesih,
+ki so vključeni v načrtovanje in upravljanje življenjskega cikla izdelka. Dobički ustvarjeni
+s storitvami po prodaji so pogosto višji od dobičkov pridobljenih s prodajo. Storitve po
+prodaji lahko ustvarijo najmanj trikratno vrednost prvotnega nakupa v življenjskem ciklu
+nekega izdelka (Cavalieri, Gaiardelli &amp; Ierace, 2007, str. 437).
+
+Kupci različnih vrst izdelkov, od visokotehnoloških računalniških sistemov do
+gospodinjskih aparatov, zahtevajo podporo v smislu pomoči za dosego najvišje zaznane
+vrednosti za kupca ob njihovem nakupu. Zato morajo proizvajalci zagotoviti, da je kupcem
+njihovih izdelkov po nakupu na voljo ustrezna podpora. Goffin (1999, str. 375-378) navaja
+sedem glavnih elementov storitev po prodaji v življenjski dobi izdelkov:
+
+• Namestitev je za mnoge izdelke prvi element po prodaji. Za zapletene izdelke (npr.
+računalniški sistemi), ali ko gre za problem varnosti (npr. medicinski pripomočki),
+namestitev običajno izvaja osebje iz proizvodnega podjetja ali njihovi predstavniki.
+
+• Usposabljanje uporabnikov je pomembno zaradi kompleksnosti nekaterih vrst
+izdelkov. Veliko računalniških izdelkov vključuje funkcije, ki se jih morajo
+uporabniki najprej naučiti, da jim le-te omogočajo učinkovitejšo uporabo izdelka.
+Stroški usposabljanja pa so za uporabnike lahko zelo visoki.
+
+2
+ 
+
+
+
+ 
+• Dokumentacijo vsebuje večina izdelkov. Značilna vsebina dokumentacije je
+delovanje opreme, namestitev, vzdrževanje in popravilo. Dobra dokumentacija
+lahko vodi do nižjih stroškov vzdrževanja in povečane produktivnosti.
+
+• Vzdrževanje in popravilo, ki sta zgodovinsko gledano pomembna elementa za
+podporo izdelkom, zahtevata od podjetij precejšnje vlaganje sredstev. Na trgih, kjer
+imajo pomanjkljivosti izdelka velike posledice, na primer računalniški sistemi,
+morajo podjetja zagotoviti izdelke, ki morajo biti zelo zanesljivi oziroma se celo ne
+smejo nikoli pokvariti, in hitro odzivanje na težave. V računalniškem sektorju je
+predvsem tehnologija oddaljene podpore tista, ki omogoča, da so računalniški
+sistemi ažurirani in popravljeni prek telefonskih linij s pomočjo podpornih centrov.
+
+• On-line pomoč omogoča strankam učinkoviteje uporabljati izdelek, ugotoviti
+napake ali odpraviti težave. Telefonsko svetovanje strokovnjakov je pomemben
+element podpore za kupce v številnih sektorjih. Stroški problemov, rešenih prek
+telefona, so veliko nižji od obiska strokovnjaka pri stranki. On-line pomoč se še
+posebej pogosto uporabljala za izdelke programske opreme.
+
+• Proizvajalci večine izdelkov ponujajo garancijo. Na nekaterih trgih, kot je na
+primer avtomobilski, poskušajo proizvajalci s ponudbo daljše garancijske dobe
+pridobiti konkurenčno prednost. Garancija zmanjša finančno tveganje za lastnike
+izdelkov in je zato pomemben element podpore strankam po prodaji. Skozi celotno
+življenjsko dobo izdelka so lahko stroški podpore večji od njegove nabavne cene. V
+računalniškem sektorju se ti stroški nanašajo na delovanje računalniške opreme in
+so precej podobni ledeni gori – večina od njih je skritih.
+
+• Nadgradnja ponuja možnost izboljšave delovanja obstoječih izdelkov in je lahko
+pomemben element podpore. Na primer, računalniški proizvajalci ponujajo
+nadgradnje, s čimer podaljšujejo delovno dobo izdelkov in so pomemben vir
+prihodkov.
+
+
+Goffin (1999, str. 374) pravi, da so storitve po prodaji za proizvajalce pomembne, saj:
+
+• so lahko pomemben vir prihodkov, čeprav jim management pogosto namenja
+premalo pozornosti,
+
+• so bistvenega pomena za doseganje zadovoljstva strank in dobre dolgoročne odnose
+z njimi,
+
+• lahko zagotovijo konkurenčno prednost (to velja za večino visokotehnoloških
+sektorjev, kot tudi za nekatere nizkotehnološke sektorje),
+
+• imajo pomembno vlogo pri povečanju stopnje uspešnosti novih izdelkov.
+Sccani, Songini in Gaiardelli (2006, str. 263) navajajo tri različne vloge storitev po prodaji.
+Prva je usmeritev v razvoj izdelka in medfunkcijskega procesa. Storitve po prodaji
+omogočajo povratne informacije za ostale funkcije (načrtovanje, kakovost proizvodnje,
+prodajo in trženje), kar je še posebej uporabno za razvoj izdelkov in medfunkcijskih
+procesov. Druga vloga je usmeritev v prodajo in dobičkonosnost. Storitve po prodaji lahko
+podjetju omogočajo znatne prihodke in dobiček v kratkem času. Tretja vloga je trženjska
+
+3
+ 
+
+
+
+ 
+usmeritev. Storitve po prodaji lahko igrajo strateško vlogo pri dolgoročnem vplivu na
+zadovoljstvo kupcev in njihovo zvestobo ter pri zagotavljanju prihodnje prodaje novih
+izdelkov.
+
+2 KAKOVOST STORITEV
+
+Znano je, da boljša kakovost storitev krepi odnos med porabnikom in ponudnikom ter za
+oba prinaša koristi, kot sta zadovoljstvo in uspešnost (Rigopoulou et al., 2008, str. 512).
+Poleg tega je kakovost storitev upravičeno obravnavati kot eno najzanesljivejših sredstev
+za pridobivanje trajnostne konkurenčne prednosti, kar pomeni, da ima za podjetja bistveno
+strateško vlogo. To pa ne velja samo za čisti storitveni sektor, ampak tudi za ostale, v
+katerih storitve predstavljajo precejšen del razširjenega izdelka. Storitve po prodaji, kot so
+klicni centri za pomoč uporabnikom ter mnoge druge dobro znane in splošno sprejete
+oblike storitev po prodaji, bistveno prispevajo h gradnji razširjenega izdelka (Rigopoulou
+et al., 2008, str. 513).
+
+Zeithaml in Bitner (1996, str. 117) opredeljujeta kakovost storitev kot zagotovitev odlične
+ali vrhunske storitve glede na pričakovanja porabnikov. V literaturi obstaja več pogledov
+na kakovost storitev. Čeprav ni dokončnega dogovora med akademiki, vsi priznavajo, da je
+kakovost storitev večdimenzionalni pojem. Grönroos (2000, str. 63) deli kakovost storitev
+na tehnično, ki se nanaša na to, kakšno storitev porabnik dejansko prejme, in funkcionalno
+kakovost, ki pomeni proces dostave storitve. Zaznavanje kakovosti pa Grönroos (2000, str.
+67) opredeljuje kot rezultat primerjave pričakovanj, ki jih ima porabnik pred opravljeno
+storitvijo, s tistim, kar meni, da resnično dobi. Dobra zaznana kakovost je tako dosežena,
+ko izkustvena kakovost doseže pričakovanja kupca (pričakovano kakovost).
+
+Ko gre za kakovost storitev po prodaji, avtorji menijo, da storitve po prodaji prispevajo k
+tehnični kakovosti celotne storitve, in sicer bistveno vplivajo na to, kaj stranka prejme.
+Vzporedno vplivajo tudi na način, kako je osnovna storitev dostavljena. Torej igrajo
+pomembno vlogo tudi pri funkcionalnem vidiku kakovosti storitev. Tako so storitve po
+prodaji tesno povezane z obema razsežnostima kakovosti, tako s storitvijo samo kot tudi z
+njeno dostavo (Rigopoulou et al., 2008, str. 516).
+
+Armistead in Clark (1992, str. 158) navajata, da je za storitve po prodaji posebej primerna
+definicija kakovosti kot skupka lastnosti in značilnosti storitve, katerih sposobnost je, da
+izpolnjujejo pomembne potrebe kupca. Kakovost storitev po prodaji je bistvenega pomena
+za izboljšanje podobe kakovosti izdelka in za razlikovanje podjetja od konkurence. Odličen
+izdelek lahko hitro razočara s slabimi storitvami in podporo po prodaji.
+
+Kot že omenjeno, Grönroos (2000, str. 63) predlaga dve temeljni dimenziji kakovosti
+storitev, tehnično in funkcionalno. Rust in Oliver dodajata kot tretjo dimenzijo kakovosti
+še fizično okolje (Grönroos 2000, str. 65). Torej ni pomembno le, kaj in kako prejme kupec
+
+4
+ 
+
+
+
+ 
+storitve, ampak tudi, kje (s čimer je mišljen prostor, v katerem poteka storitveni proces in
+ki je viden kupcu). Fizično okolje je ključna sestavina storitvenega procesa, kadar se
+porabnik prvič sooči s storitvijo in kadar se mora za opravljeno storitev dalj časa zadrževati
+v prostorih storitvene organizacije. Storitveno okolje oblikuje porabnikovo vedenje in
+doživljanje storitve.
+
+Berry, Parasuraman in Zeithaml so znani avtorji, ki so opredelili deset dimenzij kakovosti
+storitev (Armistead &amp; Clark, 1992, str. 162-163):
+
+• Zanesljivost pomeni sposobnost držati se dogovorjenih datumov in vključuje
+obljubo, da se na primer telefonski klici vrnejo. Pomeni tudi potrjevanje dogovorov
+vnaprej, kadar je to mogoče, in njihovo prestavljanje v zelo redkih primerih, kadar
+je to nujno potrebno.
+
+• Odzivnost pomeni hitre storitve in prepričanje celotne organizacije, da je odziv na
+potrebe kupcev boljši kot pa iskanje načinov, kako se jim izogniti. Če je potrebno,
+zaposleni delajo nadure, ali pridejo v službo izjemoma, z namenom, da stranki
+zagotovijo prejem dobrih storitev. Dobri ponudniki storitev so tisti, ki vnaprej
+predvidijo večino strankinih zahtev in ne iščejo razlogov, zaradi katerih teh zahtev
+ni mogoče izpolniti.
+
+• Strokovnost pomeni znanje zaposlenih o storitvi in njihove potrebne spretnosti za
+opravljanje storitev in nalog podpore. Zaupanje uporabnikov se lahko poveča z
+zagotavljanjem osebja z izkušnjami in z dokazi o njihovem končanju ustreznih
+programov usposabljanja.
+
+• Dostopnost pomeni enostaven telefonski dostop prek telefonske številke za
+sprejemanje in reševanje problemov kupcev, ki si jo le-ti na lahek način zapomnijo.
+Pomeni tudi delovni čas in lokacijo podpornega osebja, ki ustrezata potrebam
+kupcev.
+
+• Ustrežljivost pomeni vljudnost osebja in skrb za strankino lastnino.
+• Komunikacija pomeni obveščanje strank o storitvi z uporabo izrazov, ki jih
+
+razumejo, in v času, ki je za njih ugoden. Bolje je obvestiti porabnike, ko se pojavi
+težava, kot upati, da zanjo ne bodo izvedeli. Komunikacija pomeni tudi jasno in
+natančno oceno stroškov in strankino seznanitev z njimi, preden se le-ta zaveže.
+
+• Verodostojnost pomeni iskrenost in poštenost izvajalca ter, da je le-ta vreden
+zaupanja. K temu prispevajo tudi osebne značilnosti kontaktnega osebja.
+
+• Varnost pomeni fizično varnost, nobene škode na premoženju, zaupanje in
+vrednost v očeh kupca.
+
+• Razumevanje pomeni individualno pozornost do strank in razlikovanje njihovih
+pravih zahtev od tistih, ki so jih navedle.
+
+• Otipljivost pomeni kakovost in videz objektov in opreme ter kakovost računov,
+ponudb in dopisov.
+
+
+
+
+5
+ 
+
+
+
+ 
+Isti avtorji so kot rezultat kasnejših raziskav 10 dimenzij kakovosti storitev zožili na
+naslednjih pet (v vrstnem redu po njihovi pomembnosti) (Kotler, 2004, str. 455):
+
+• zanesljivost,
+• odzivnost,
+• vzbujanje zaupanja,
+• zmožnost vživeti se v položaj drugega,
+• opredmetene sestavine.
+
+
+Grönroos (2000, str. 81) je dosedanje raziskave in koncepte glede dimenzij ali faktorjev
+kakovosti storitev povezal v sedem kriterijev dobro zaznane kakovost storitev:
+
+• Strokovnost in izkušenost – Kupci se zavedajo, da imajo ponudnik storitev,
+njegovi zaposleni, operativni sistemi in fizični viri potrebno zanje in izkušnje za
+reševanje težav na strokoven način (tehnična dimenzija kakovosti).
+
+• Odnos in vedenje – Kupci imajo občutek, da je kontaktno osebje osredotočeno
+nanje in na reševanje problemov na prijazen in sproščen način (funkcionalna
+dimenzija kakovosti).
+
+• Dostopnost in prilagodljivost – Kupci imajo občutek, da so ponudnik storitve,
+njegova lokacija, delovni čas, zaposleni in operativni sistemi oblikovani tako, da je
+dostop do storitev lahek. Imajo tudi občutek, da so zaposleni pripravljeni ugoditi
+njihovim zahtevam in željam na prilagodljiv način (tehnična dimenzija kakovosti).
+
+• Zanesljivost in vzbujanje zaupanja – Stranke vedo, da se lahko v zvezi z
+dogovorjenim zanesejo na ponudnika storitve, njegove zaposlene in sisteme, da leti držijo obljube in storitev opravijo v najboljšo korist stranke (funkcionalna
+dimenzija kakovosti).
+
+• Ravnanje v primeru, ko se kaj zaplete – Stranke vedo, da bo ponudnik storitve,
+če gre kaj narobe, ali se zgodi kaj nepredvidenega, nemudoma in aktivno ukrepal, z
+namenom, da bo vse pod kontrolo, in našel novo, sprejemljivo rešitev
+(funkcionalna dimenzija kakovosti).
+
+• Storitvena pokrajina – Stranke imajo občutek, da fizično okolje in videz okolja, s
+katerim se srečajo, pripomore k pozitivni izkušnji s storitvenim procesom
+(funkcionalna dimenzija kakovosti).
+
+• Ugled in verodostojnost – Stranke verjamejo, da je poslovanje s ponudnikom
+storitev vredno zaupanja in da ima primerno vrednost v njihovih očeh (dimenzija
+podobe podjetja).
+
+
+Omenjeni kriteriji dobro zaznane kakovosti storitev so lahko smernice pri razvoju storitev,
+saj temeljijo tako na empiričnih in konceptualnih raziskavah kot tudi dobri praksi. Iz istega
+razloga so lahko uporabljeni kot načela poslovodenja. Seveda seznam ni popoln, saj so v
+različnih panogah in za različne porabnike določene dimenzije pomembnejše od drugih.
+Prav tako so lahko v različnih situacijah uporabljeni drugi kriteriji dobre kakovosti storitev,
+ki niso zajeti z naštetimi dimenzijami (Grönroos, 2000, str. 80).
+
+6
+ 
+
+
+
+ 
+3 ZADOVOLJSTVO PORABNIKOV S STORITVAMI
+
+Zadovoljstvo je pomembno merilo, ki ga je potrebno izpolniti za izgradnjo zaupanja med
+partnerji in za nadaljevanje odnosa med njimi. Oliver (1999, str. 33) opredeljuje
+zadovoljstvo kot čustven odziv po uporabi, ki se lahko pojavi kot rezultat primerjave
+pričakovane in dejanske ravni storitve ali rezultat, ki se pojavi brez primerjave pričakovanj.
+Prav tako Oliver (1999, str. 34) govori o zadovoljstvu porabnikov kot o prijetni izpolnitvi.
+To pomeni, da porabnik čuti, da potrošnja izpolnjuje nekatere potrebe, želje, cilje ter da je
+ta izpolnitev prijetna.
+
+Povečana konkurenca v številnih panogah vodi k povečani pozornosti na storitve po
+prodaji. Različne študije kažejo, da ima lahko nezadovoljna stranka velik vpliv na prodajo
+podjetja, zato vsa podjetja posvečajo pozornosti temu, da je njihova stranka zadovoljna ter
+da izpolnijo njene potrebe in želje. Eno od močnih orodij, ki podjetjem pomaga pri
+doseganju zadovoljstva kupcev, je zagotavljanje najboljših storitev po prodaji (Forooz &amp;
+Rostamidehbaneh, 2006, str. 11).
+
+3.1 Povezava med kakovostjo storitev in zadovoljstvom porabnikov
+
+Zaithaml in Bitner (1996, str. 123) ugotavljata, da zgodnje razprave o razlikah med
+zadovoljstvom porabnikov in kakovostjo storitev opredeljujejo zadovoljstvo kot
+vrednotenje, ki se izvede na ravni posamezne transakcije, in ne na ravni celotne ocene.
+Sedanja razmišljanja pa kažejo na to, da lahko tako na kakovost storitev kot tudi na
+zadovoljstvo strank gledamo na ravni posamezne storitve ali na skupni ravni. Namesto
+razlikovanja kakovosti in zadovoljstva, ko gre za raven analize, narašča soglasje, da so v
+obeh konceptih bistvene razlike v osnovnih vzrokih in izidih. Medtem ko imata
+zadovoljstvo in kakovost nekatere stvari skupne, je zadovoljstvo na splošno širši koncept
+od kakovosti storitev, ki je osredotočena zlasti na dimenzije storitve. S tega vidika je
+zaznana kakovost storitev sestavina zadovoljstva.
+
+Na zadovoljstvo strank vplivajo tako zaznavanje kakovosti storitev, kakovosti izdelka in
+cene kot tudi situacijski in osebni dejavniki (Slika 1). Kakovost storitev, kakovost izdelka
+in cena so med seboj povezani dejavniki, povezava pa je odvisna predvsem od narave
+storitev. Če je cena visoka, porabnik pričakuje visoko kakovost storitve, kar vpliva tudi na
+njegovo zaznavanje. Pri nizki ceni pa lahko porabnik podvomi v kakovost storitve.
+Situacijski dejavniki predstavljajo okoliščine, za katere se porabniki zavedajo, da jih
+ponudnik storitev ne more kontrolirati (slabo vreme, nesreče, slučajno povečanje
+povpraševanja ipd.). Osebni dejavniki pa predstavljajo razpoloženje porabnika (npr.
+njegovo čustveno stanje) (Zaithaml &amp; Bitner, 1996, str. 124).
+
+
+
+
+7
+ 
+
+
+
+ 
+Slika 1: Zaznavanje kakovosti storitev in zadovoljstvo strank
+
+
+Zanesljivost
+
+Odzivnost
+
+Vzbujanje zaupanja
+
+Zmožnost vživeti se
+
+8
+
+v položaj drugega
+
+Opredmetene
+sestavine
+
+
+ 
+
+
+
+
+Kakovost
+storitev
+
+
+Kakovost
+izdelka
+
+
+Cena
+
+
+
+
+Zadovoljstvo
+strank 
+
+
+Situacijski
+dejavniki
+
+
+Osebni
+
+dejavniki
+
+    
+
+     
+
+
+
+
+
+Vir: V. A. Zeithaml &amp; M. J. Bitner, Services marketing, 2000, str. 123.
+
+Kot drugo splošno razliko med kakovostjo in zadovoljstvom Zaithaml in Bitner (1996, str.
+124) navajata, da se lahko zaznavanje kakovosti pojavi v odsotnosti dejanskih izkušenj z
+organizacijo, medtem ko je zadovoljstvo mogoče oceniti šele po dejanskih izkušnjah z
+organizacijo. Prav tako je kakovost storitev strankina ocena same storitve, medtem ko je
+zadovoljstvo ocena o tem, kako storitev čustveno vpliva na kupca (Schneider &amp; White,
+2008, str. 51).
+
+3.2 Povezava med zadovoljstvom in zvestobo porabnikov
+ 
+
+Oliver (1999, str. 33) pravi, da sta zvestoba in zadovoljstvo  porabnikov neločljivo
+povezana. Prav tako gre razumeti, da je to razmerje asimetrično, saj povečanje
+zadovoljstva ne poveča zvestobe v enaki meri. Čeprav so zvesti porabniki najpogosteje
+zadovoljni, se zadovoljstvo univerzalno ne pretvori v zvestobo.
+
+Oliver (1999, str. 34) opredeljuje zvestobo kot »globoko predanost ponovnemu nakupu
+želenega izdelka ali storitve iste blagovne znamke v prihodnosti, kljub situacijskim
+vplivom in trženjskim naporom konkurentov, ki lahko spremenijo obnašanje«.
+
+
+ 
+
+
+
+ 
+Oliverjeve (1999, str. 33) raziskave ugotavljajo, da je zadovoljstvo nujen korak pri
+oblikovanju zvestobe, vendar postane manj pomembno, ko se začne zvestoba oblikovati
+prek drugih dejavnikov. Ti dejavniki, izpuščeni iz obravnave v dosedanjih modelih,
+vključujejo vlogo osebne zavezanosti (vrednote, stališča, potrebe ipd.) in socialnega
+povezovanja na institucionalni in osebni ravni (družbene norme, medosebne in strukturne
+ovire ipd.). Zvestoba  je tako kombinacija zaznane odličnosti izdelka, osebne zavezanosti
+in socialnega povezovanja ter njihovih sinergijskih učinkov.
+
+Lovelock in Wirtz (2007, str. 371) pravita, da se temelj za resnično zvestobo skriva v
+zadovoljstvu kupcev,  za katerega je ključni pogoj kakovost storitev. Za zelo zadovoljne ali
+celo navdušene stranke je bolj verjetno, da bodo postale zvesti apostoli podjetja in da bodo
+širile pozitivno besedo. Prav tako so nedavne raziskave pokazale, da povečanje
+zadovoljstva strank vodi k povečanju cene delnic podjetja  (Lovelock &amp; Wirtz, 2007, str.
+371). 
+ 
+
+Na Sliki 2 je prikazano razmerje med zadovoljstvom in zvestobo, ki ga je mogoče razdeliti
+na tri glavna območja: odhajanje, ravnodušnost in predanost. Pri tem območje zadovoljstva
+1 pomeni zelo nezadovoljen, 2 nezadovoljen, 3 niti zadovoljen niti nezadovoljen, 4
+zadovoljen in 5 zelo zadovoljen. Območje odhajanja se pojavi pri nizki ravni zadovoljstva.
+Kupci se bodo v primeru, da stroški prehoda k drugemu ponudniku niso visoki, ali da je
+alternativa izvedljiva, preusmerili na drugega ponudnika. Zelo nezadovoljne stranke lahko
+postanejo teroristi, ki širijo slab glas o ponudniku storitev. Na območju ravnodušnosti gre
+za vmesno raven zadovoljstva. Tukaj so kupci pripravljeni oditi k drugemu ponudniku, če
+pri njem najdejo boljšo alternativo. Območje predanosti se nahaja na zelo visoki ravni
+zadovoljstva, kjer imajo lahko stranke tako visoko stopnjo zvestobe, da ne iščejo
+alternativnih ponudnikov storitev. Te stranke so opisane kot apostoli in v javnosti širijo
+dober glas ter priporočila o podjetju (Lovelock &amp; Wirtz, 2007, str. 371).
+
+
+Slika 2: Razmerje med zadovoljstvom in zvestobo porabnikov
+
+
+Zvestoba   100%                     Območje predanosti                   Apostoli
+(ohranjanje
+porabnikov) 80       Območje ravnodušnosti
+
+60
+
+40       Območje odhajanja
+
+20
+
+Teroristi         1          2          3          4          5
+
+Zadovoljstvo
+
+Vir: C. Lovelock &amp; J. Wirtz, Services Marketing. People, Technology, Strategy, 2007, str. 373.
+
+9
+ 
+
+
+
+ 
+Rezultati študij ameriških svetovalcev podjetja Bain and Company kažejo na odnos med
+storitvami, zadovoljstvom porabnikov in dobičkonosnostjo. Učinek visokega zadržanja
+kupcev je povečana donosnost. V svojem delu navajajo naslednje razloge, zakaj je temu
+tako (Armistead &amp; Clark, 1992, str. 246):
+• stroški pridobivanja novih kupcev so visoki, ohranitev kupcev pa razporedi te stroške
+
+na daljše časovno obdobje. Torej dlje kot kupec ostane pri ponudniku, višji so
+dobički, saj ni stroškov povezanih s pridobivanjem nove stranke.
+
+• stranke, ki ostanejo, so pripravljene porabiti več. Kupile bodo dodatne storitve in
+bodo zanje pripravljene plačati višjo ceno.
+
+• stroški poslovanja z rednimi strankami so nižji.
+
+Rezultat 5-odstotnega povečanja zvestobe porabnikov je povečana donosnost v razponu od
+25 do 125 odstotkov, odvisno od vrste storitve. To povečanje je posledica zmanjšanja
+operativnih stroškov, dobička dodatnih nakupov in dobička od novih strank, ki jim storitve
+podjetja priporočijo že obstoječe stranke (Armistead &amp; Clark, 1992, str. 246).
+
+4 POMEN DIMENZIJ KAKOVOSTI STORITEV PO PRODAJI ZA
+
+PORABNIKE STORITEV ADACTA DYNAMICS SUPPORT
+CENTRA
+
+ 
+
+Veliko podjetij v visokotehnološkem sektorju ne izkorišča celotnega potenciala storitev po
+prodaji.  Za oblikovanje prave ponudbe je na začetku pomembna segmentacija trga storitev
+po prodaji v skladu s potrebami strank. Viardot (2005, str. 25) v svojem članku o
+izkoriščanju celotnega potenciala storitev po prodaji v visokotehnološkem sektorju med
+drugim povzema tudi raziskave različnih podjetij o potrebah in pričakovanjih strank glede
+teh storitev. Podjetja, kot so Dell, Lexmark, Raytheon in Agilent, so opravila raziskave o
+potrebah in pričakovanjih svojih strank glede storitev po prodaji. Da podjetje ostane korak
+pred konkurenco, je pomembna dosledna uporaba povratnih informacij strank za povišanje
+ravni storitev po prodaji. Vse raziskave kažejo, da so kljub temu, da je cena za kupce
+pomembna, ključni dejavniki storitev po prodaji hitrost dostave in zanesljivost ter
+razpoložljivost storitev vzdrževanja (Slika 3). Pomembnost teh pričakovanj je običajno
+odvisna tako od odnosa strank do tveganja kot tudi njihove sposobnosti in pripravljenosti,
+da naredijo nekaj dela brez pomoči dobavitelja.
+
+
+
+
+
+
+
+
+
+10
+ 
+
+
+
+ 
+Slika 3: Najpomembnejši dejavnik storitev po prodaji
+
+
+
+Vir: E. Viardot, Exploiting the Full Potential of After-Sales Market, 2005, str. 23.
+
+V raziskovalnem delu diplomskega dela želim preučiti pomen posameznih dimenzij
+kakovosti storitev za porabnike storitev Adacta Dynamics Support Centra. Le-ta
+predstavlja prvo frontno linijo, saj skrbi za odnos, ki ga podjetje vzpostavi s kupci. Zato je
+kakovost njegovih storitev še toliko bolj pomembna in vpliva na zadovoljstvo ter
+ohranjanje strank. Pomen posamezne dimenzije kakovosti storitev Adacta Dynamics
+Support Centra za njegove porabnike me zanima zato, ker lahko izboljšanje kakovosti
+pomembne dimenzije močno vpliva na zadovoljstvo strank. Tovrstne raziskave v podjetju
+še niso izvedli.
+
+4.1 Predstavitev Adacta Dynamics Support Centra
+ 
+
+Podjetje Adacta d.o.o. za program Microsoft Dynamics Navision (v nadaljevanju
+Navision) po vzoru velikih tujih Microsoftovih partnerjev ali centrov za rešitve Navision
+od 15. aprila 2004 ponuja Adacta Dynamics Support Center (v nadaljevanju center za
+podporo). Nastal je kot odgovor na zahteve po pomoči z namenom, da bi s končnimi
+uporabniki hitro ugotovili in rešili probleme. Njegova glavna naloga je hitro in učinkovito
+reševanje težav in odpravljanje njihovih vzrokov. Storitve centra za podporo so strankam
+na voljo vsak delovni dan med 8:30 in 15:30 (v petek do 15:00) prek telefonske številke in
+elektronskega naslova. Center za podporo strankam zagotavlja takojšnjo pomoč ob manjših
+operativnih težavah, evidentiranje zahtevkov in spremljanje njihovega reševanja ter
+povratno obveščanje. Za zagotovitev čimprejšnje pomoči zaposleni v centru za podporo
+uporabljajo dostop do strankinih baz in sicer prek elektronskih medijev oziroma kopij
+podatkovnih baz. Storitve vsebinske in tehnične pomoči centra za podporo se obračunavajo
+v skladu z vzdrževalnimi pogodbami oziroma s splošnim cenikom (Adacta – Adacta
+Dynamics Support Center, 2009).
+
+V centru za podporo je zaposlenih devet oseb, od tega dva študenta. Vsi zaposleni imajo
+končano oziroma končujejo izobrazbo ekonomske smeri. Osebje je poleg poznavanja
+
+11
+ 
+
+
+
+ 
+programa seznanjeno tudi z aktualno problematiko, npr. spremembe DDV, Intrastat,
+zaključevanje poslovnega leta in podobno (Adacta – Adacta Dynamics Support Center,
+2009). Zaposleni se stalno izobražujejo v okviru internih izobraževanj in z opravljanjem
+Microsoftovih certifikatov.
+
+Adacta je kot najuspešnejši svetovalec in implementator poslovnih rešitev Microsoft
+Navision v Sloveniji tudi članica mednarodne organizaciji Help Desk Institution.
+
+4.2 Metodologija in cilji raziskave
+ 
+
+Za primere, ki naj bi povečali razumevanje, širjenje znanja, ustvarjanje hipotez, opredelili
+vrsto vedenj, pojasnili kupčevo motivacijo, odnos in vedenje ter zagotovili prispevek k
+prihodnji fazi raziskave, je optimalno uporabiti kvalitativne metode raziskovanja (Webb,
+1992, str. 113). Kvalitativne metode omogočajo bolj poglobljeno raziskovanje in
+vključujejo manjše število udeležencev (GfK – Kvalitativne raziskave, 2009).
+
+Globinski intervju je tehnika kvalitativnih raziskav, ki je namenjena razumevanju,
+temeljitemu iskanju in raziskovanju problemov (Webb, 1992, str. 122). Ta je posebej
+primerna, kadar je cilj razumeti razloge za vedenje udeležencev in njihova stališča.
+Poglobljene intervjuje je posebej koristno uporabiti v naslednjih okoliščinah (Webb, 1992,
+str. 122):
+
+• kadar gre za občutljive, stresne teme ali so le te zaupne narave,
+• kadar je potrebno izvesti podrobno analizo zapletenih situacij, kot so odnosi,
+
+prepričanja in čustva,
+• kadar lahko pritisk povzroči, da se nekateri izpraševanci strinjajo z družbenimi
+
+normami, ki pa so v nasprotju z njihovim resničnim vedenjem,
+• kadar mora raziskovalec pridobiti postopno predstavo o procesu odločanja, kot je
+
+na primer nakupno vedenje,
+• kadar gre za novo, zapleteno situacijo, kjer je glavni namen raziskati in ne meriti.
+
+
+Glavne značilnosti poglobljenega individualnega intervjuja so (GfK – Kvalitativne
+raziskave,  2009):
+
+• ni skupinske dinamike,
+• ni tekmovalnega ozračja,
+• več časa je za detajle,
+• je bolj primerna tehnika za občutljive teme,
+• veliko število pridobljenih informacij v kratkem času,
+• možno je uporabiti več stimulativnega materiala.
+
+
+Bregar, Ograjenšek in Bavdaž (2005, str. 85) pravijo, da mora raziskovalec med
+intervjujem vprašanja postavljati razločno in nevtralno, izpraševanca pa pozorno poslušati
+
+12
+ 
+
+
+
+ 
+in ne prekinjati. Po potrebi mora postaviti dodatna vprašanja, ki drugače predstavijo temo
+ali osvetljujejo kak nov vidik. Za ključne koncepte mora raziskovalec preveriti, ali je
+pravilno razumel izpraševanca, tako da na kratko povzame njegove misli. Pri izvedbi
+raziskave sem poskušala upoštevati navedene značilnosti dobrega vodenja globinskih in
+delno strukturiranih intervjujev.
+
+Cilj moje raziskave je ugotoviti pomen posameznih dimenzij kakovosti storitev centra za
+podporo za njegove porabnike. Dimenzije dobro zaznane kakovosti storitev, katerih pomen
+za porabnike me zanima, sem določila po Grönroosu (2000, str. 81). Te so strokovnost in
+izkušenost, odnos in vedenje, dostopnost in prilagodljivost, zanesljivost in vzbujanje
+zaupanja, ukrepanje ob težavah, storitvena pokrajina ter ugled in verodostojnost. Na
+podlagi razumevanja zadovoljstva izbranih porabnikov z izvajanjem dimenzij kakovosti
+storitev centra za podporo bom oblikovala raziskovalne domneve o pomembnosti teh
+dimenzij za porabnike.
+
+Izbor strank, s katerimi sem izvedla globinske intervjuje, temelji na namernem vzorčenju
+kot obliki neverjetnostnega vzorčenja. Z izbiro čim bolj različnih enot želim dobiti pregled
+nad problematiko celotne populacije. V raziskavo so tako vključena podjetja iz različnih
+dejavnosti, ki najpogosteje uporabljajo storitve centra za podporo, in zaposleni na različnih
+delovnih mestih.
+
+Na osnovi presoje vodje centra za podporo glede omenjenih kriterijev sem izbrala pet
+zaposlenih iz različnih podjetjih, ki uporabljajo storitve centra za podporo. 8. julija 2009 je
+bila po elektronski pošti izbranim porabnikom poslana prošnja za sodelovanje v raziskavi
+(glej Prilogo 1). Prošnjo je poslal vodja centra za podporo, saj so osebe bolj pripravljene
+sodelovati v raziskavi, če dobijo prošnjo od vplivnejšega zaposlenega, s katerim imajo stik.
+Elektronsko sporočilo je vsebovalo moj dopis s pojasnilom o pomenu raziskave in izbiri
+naslovnika (glej Prilogo 2) ter opomnik za vodenje globinskega intervjuja (glej Prilogo 3).
+Še isti dan sem dobila odgovor o pripravljenosti za sodelovanje od treh naslovnikov. Z
+dvema sem se na njuno željo dogovorila za izvedbo pogovora naslednji dan. Tretja oseba
+pa je predlagala izvedbo intervjuja v tednu, ki je sledil. Predlagan termin sem potrdila.
+Naslednji dan sem dobila odgovor še od enega naslovnika in se po telefonu dogovorila za
+pogovor v začetku sledečega tedna. Ena oseba na prošnjo ni odgovorila.
+
+Tako so bila v vzorec vključena štiri podjetja, ki se ukvarjajo z različnimi dejavnostmi, in
+sicer z veleprodajo naftnih derivatov, s prodajo, proizvodnjo in inženiringom nerjavečih
+materialov, z izdajanjem revij ter z distribucijo rezervnih delov za področje industrijskega
+vzdrževanja. Delovna mesta izbranih oseb so vodja računovodstva, informatik in
+računovodja. Zaradi zagotovljene anonimnosti imen podjetij in oseb ne navajam.
+
+Pred izvedbo globinskih intervjujev sem sestavila opomnik za vodenje globinskega
+intervjuja (glej Prilogo 3) z glavnimi iztočnicami za pogovor. Opomnik je delno
+
+13
+ 
+
+
+
+ 
+strukturiran, sestavljen iz osmih glavnih tem in ter dodatnih podtem. Teme v opomniku
+pokrivajo sedem dimenzij kakovosti storitev, ki so opredeljene v cilju raziskave. Seznam
+tem pokriva naslednja glavna problemska področja:
+
+• seznanitev s pristopom podjetja k uporabi storitev centra za podporo (začetek
+uporabe storitev, primeri uporabe storitve),
+
+• pridobitev mnenja glede strokovnosti in izkušenosti svetovalcev (vsebinsko in
+tehnično znanje svetovalcev),
+
+• pridobitev mnenja glede odnosa in vedenja svetovalcev,
+• pridobitev mnenja glede dostopnosti in prilagodljivosti (kakovost telefonskih
+
+povezav, ustreznost delovnega časa in lokacije, razpoložljivost svetovalcev,
+prilagajanje željam in zahtevam),
+
+• pridobitev mnenja glede zanesljivosti in vzbujanja zaupanja ter rokov izvedbe
+storitev,
+
+• pridobitev mnenja glede ukrepanja svetovalcev v nepredvidenih situacijah,
+• pridobitev mnenja glede storitvene pokrajine (urejenost in opremljenost prostorov,
+
+svetloba in podobno),
+• pridobitev mnenja glede ugleda in verodostojnosti.
+
+
+Opomnik je služil kot iztočnica za pogovor, da na ključne vsebine nisem pozabila. Vsebino
+vprašanj sem prilagajala sproti, glede na predhodni odgovor intervjuvanca. Največji
+poudarek je bil na pridobitvi mnenja o izvajanju posameznih dimenzij kakovosti storitev
+centra za podporo. Naslovnikom je bil v elektronski prošnji za sodelovanje posredovan
+tudi opomnik intervjuja kot možnost, da se na intervju pripravijo. Vnaprej posredovan
+seznam tem pozitivno vpliva na samozavest intervjuvanca in sproščenost med intervjujem
+(Bregar, Ograjenšek &amp; Bavdaž, 2005, str. 84).
+
+4.3 Analiza in ugotovitve raziskave
+ 
+
+Splošen proces analize kvalitativnih podatkov obsega zbiranje podatkov iz različnih virov,
+urejanje in strukturiranje podatkov, prikaz podatkov ter preverjanje podatkov s pomočjo
+drugih virov (Malhotra &amp; Birks, 2007, str. 236-247). Bregar, Ograjenšek in Bavdaž (2005,
+str. 158-159) povzemajo značilnosti analize kvalitativnih podatkov takole:
+
+• poudarjen pomen konteksta za razumevanje ekonomskih in poslovnih pojavov,
+• poudarjen pomen študij primera,
+• neposredni značaj analize kvalitativnih podatkov,
+• induktiven značaj analize kvalitativnih podatkov,
+• procesnost analize kvalitativnih podatkov,
+• interpretacija z vidika zaznav opazovanih ljudi,
+• visoka veljavnost in nizka zanesljivost (ponovljivost) analize kvalitativnih
+
+podatkov,
+• specifična vloga raziskovalca v okviru raziskovalne situacije.
+
+14
+ 
+
+
+
+ 
+9. in 14. julija 2009 sem izvedla štiri globinske intervjuje z porabniki storitev centra za
+podporo. Izbrala sem osebe z različnimi funkcijami v podjetju in sicer vodji
+računovodstva, informatika in računovodjo. Pogovore sem opravila vsakokrat z eno osebo.
+Da bi pripravila natančne zapise intervjujev in da bi se med pogovorom lažje osredotočila
+na poslušanje odgovorov ter postavljanje vprašanj, sem pred pogovorom izpraševance
+prosila za dovoljenje za snemanje. Trije udeleženci so snemanje pogovora dovolili, eden pa
+zaradi slabih izkušenj na snemanje ni pristal. Trije intervjuji so trajali pol ure, eden pa
+zaradi zapisovanja odgovorov 45 minut. Pripravila sem tri prepise intervjujev na osnovi
+zvočnih zapisov in en zapis intervjuja (glej Prilogo 4), na podlagi katerih sem naredila
+analizo.
+
+V nadaljevanju prikazujem rezultate raziskave po temah predstavljenih v opisu opomnika
+za vodenje globinskega intervjuja. V raziskavo sem vključila štiri porabnike storitev centra
+za podporo, kar pomeni, da zaradi majhnega števila vzorčnih enot rezultatov o kakovosti
+storitev centra za podporo ne smemo posploševati na vse porabnike. Z raziskavo
+ugotavljam le, katere od dimenzij kakovosti storitev so strankam pomembne.
+
+Kot izhodišče za pogovor sem poskušala ugotoviti, koliko časa podjetja uporabljajo
+storitve centra za podporo in v kakšnih primerih se obračajo nanj. Tri podjetja storitve
+centra za podporo uporabljajo od njegovega začetka leta 2004. Eno podjetje pa od začetka
+uporabe programa Navision v letu 2005. V enem do podjetij so imeli na začetku uporabe
+programa Navision drugo podporo. Zaradi neprofesionalnega pristopa in le enega
+svetovalca so leta 2002 prešli na storitve podjetja Adacta. Primeri, v katerih udeleženci
+uporabljajo storitve centra za podporo, se razlikujejo glede na njihovo delovno mesto.
+Informatik se na center za podporo obrne v primeru vsebinskih vprašanj in naročanja
+dodelav programa. Vodji računovodstva uporabljata storitve centra za podporo za
+naročanje dodelav programa in svetovanje glede delovanja teh dodelav. Eden od njiju se na
+center za podporo obrne tudi v primeru tehničnih težav s programom, saj v podjetju nimajo
+zaposlenega informatika. Računovodja se na center za podporo obrne tako v primeru
+tehničnih kot tudi vsebinskih težav.
+
+Strokovnost in izkušenost
+Eden od udeležencev meni, da je znanje svetovalcev dobro, saj vedno dobi odgovore na
+težave. Njegove izkušnje so, da znajo svetovalci glede tehničnih težav odgovoriti takoj,
+glede vsebinskih pa se posvetujejo med sabo. Trije udeleženci z znanjem svetovalcev niso
+zadovoljni. Vsi so poudarili problem neznanja svetovalcev glede specifičnega delovanja
+programa za njihovo podjetje. Standardni odgovori na določene težave za njih ne veljajo in
+si z njimi ne morejo pomagati. Eden od teh udeležencev pravi, da če svetovalec, ki pozna
+dodelave programa za njihovo podjetje, ni na voljo (to je le eden), ne dobi odgovora na
+težave. Drugi pravi, da se v takih primerih ne obrača na center za podporo, ampak direktno
+na svetovalce, za katere ve, da poznajo njihove specifične dodelave programa (niso
+zaposleni v centru na podporo). Na center za podporo se obrne le v primeru splošnih težav,
+
+15
+ 
+
+
+
+ 
+ko ne gre za prilagoditve programa njihovim potrebam. Enega od udeležencev moti, da isto
+težavo rešuje več svetovalcev. Meni, da zato, ker jo nekateri svetovalci ne znajo rešiti do
+konca. »Neznanja ne bomo plačevali«, je bil njegov komentar.
+
+Mnenje o izkušenosti svetovalcev je podobno kot pri odgovorih o njihovem znanju.
+Udeleženec, ki je z znanjem svetovalcev zadovoljen, prav tako meni, da so svetovalci
+izkušeni. Dva intervjuvanca menita, da imajo svetovalci dovolj izkušenj s programom na
+splošno, vendar premalo izkušenj s specifičnimi dodelavami v programu. Eden od
+udeležencev pa zaradi reševanja iste zadeve s strani več svetovalcev meni, da imajo le-ti
+premalo izkušenj.
+
+Glede na to, da so trije udeleženci pomanjkljivo znanje svetovalcev omenili tudi pri
+nekaterih drugih temah in ga posebno poudarili na koncu intervjuja, sklepam, da je
+strankam ta dimenzija kakovosti zelo pomembna.
+
+Odnos in vedenje
+Z odnosom in vedenjem svetovalcev so vsi udeleženci zadovoljni. Svetovalce so označili z
+izrazi prijazni, korektni, se trudijo, ustrežljivi. Dva od udeležencev sta pri tej temi ponovno
+omenila pomanjkljivo znanje svetovalcev. Verjetno zato, ker si temi sledita ena za drugo,
+saj ta dimenzija ni povezana z znanjem. Pri zadnji temi o ugledu in verodostojnosti so trije
+udeleženci izrazili zadovoljstvo s storitvami na splošno in pri tem močno poudarili dober
+odnos zaposlenih. Na podlagi tega sklepam, da je ta dimenzija kakovosti strankam zelo
+pomembna.  Prav tako menim, da sta prav dober odnos in vedenje zaposlenih tisto, zaradi
+česar so porabniki s storitvami centra za podporo na splošno zadovoljni.
+
+Dostopnost in prilagodljivost
+Mnenje glede ustreznosti delovnega časa centra za podporo je različno. Dva udeleženca
+nad delovnim časom nimata pripomb. Eden od njiju dela tudi do poznih večernih ur,
+vendar takrat problem posreduje po elektronski pošti. Mislim, da predvsem zaradi narave
+njunega dela delovni čas tema udeležencema ni pomemben. Druga dva udeleženca z
+delovnim časom nista zadovoljna. Njuno mnenje je, da bi moral biti center za podporo na
+voljo vsaj od 8. ure, saj z delom pričenjata bolj zgodaj in morata v primeru težav čakati do
+8:30. Eden od njiju se je izrazil, »preden je težava rešena, je ura že 9:30«. Drugi predlaga,
+da bi bil lahko eden od svetovalcev dežuren od 8. do 16. ure, saj je to delovni čas večine
+podjetij. Pomembnost te dimenzije kakovosti je po mojem mnenju odvisna predvsem od
+narave dela strank. Uporabnikom, ki pri svojem delu vedno potrebujejo program Navision
+in je njihovo delo odvisno od njegovega delovanja, je delovni čas zelo pomemben.
+
+Z razpoložljivostjo svetovalcev so vsi štirje udeleženci zadovoljni, saj vedno dobijo tistega,
+ki ga želijo. Pri tem sta delovni čas ponovno poudarila dva od udeležencev, ki z njim nista
+zadovoljna. Ker delovni čas vpliva tudi na razpoložljivost svetovalcev, se tudi tu kaže
+njegov pomen določenim porabnikom.
+
+16
+ 
+
+
+
+ 
+Trije udeleženci imajo s telefonskimi povezavami težave. »Sliši se, kot da bi bili v
+Kazahstanu«, pravi eden. Drugi pravi, da se včasih sliši slabo, vendar ko pokliče ponovno,
+je v redu. Enemu od udeležencev pa se zdi problem v tem, da ob prekinitvi telefonskih
+povezav tudi elektronska pošta ne deluje. En udeleženec je s telefonskimi povezavami
+zadovoljen. Iz pogovorov nisem razbrala, da bi udeleženci kakovosti povezav pripisovali
+velik pomen. Vendar mislim, da je zaradi tega, ker je poleg elektronske pošte telefonska
+povezava ključni vir komunikacije strank s centrom za podporo, kakovost telefonskih
+povezav pomembna.
+
+Mnenja sogovornikov glede ustreznosti lokacije Adacte so različna. Eden od udeležencev
+pogovora z lokacijo ni zadovoljen. Ker je njihovo podjetje v centru mesta in sam ne vozi
+avta, mu je odveč iti na sedež Adacte. Dva udeleženca še nista bila na sedežu. Eden od
+njiju se glede lokacije ni opredelil, drugi pa meni, da je lokacija v redu, ker je na obrobju
+Ljubljane in tako odmaknjena od gneče. Eden od udeležencev je z lokacijo zadovoljen.
+»Zaradi urejenega parkirišča nimam nikoli težav s parkiranjem«, poudarja pri tem. Kot sem
+že omenila komunikacija med porabniki storitev in centrom za podporo večinoma poteka
+prek telefona in elektronske pošte. Tudi to, da kljub večletni uporabi storitev centra za
+podporo večina sogovornikov še ni bila oziroma je bila malokrat na sedežu Adacte, kaže
+na to, da ustreznost lokacije porabnikom centra za podporo ni pomembna.
+
+Najbolj enotni so odgovori udeležencev glede prilagajanja željam in zahtevam. Vsi so s to
+dimenzijo kakovosti storitev zadovoljni: »Se potrudijo.«, »Nikoli me ni nihče skušal
+prepričati, da se nekaj, kar smo si zamislili, v Navisionu ne da narediti.«, »Vedno
+upoštevajo naše želje in jih rešijo na tak način, kot mi želimo.«, »Tudi če nekaj, kar sem si
+zamislila ni izvedljivo, predlagajo drugačen način, kako bi se to dalo rešiti.« Eden od
+udeležencev je zaradi slabih izkušenj poudaril, da je s prilagodljivostjo njihovim željam
+zadovoljen, če sodeluje s tistimi zaposlenimi, katere želi. Vsi sogovorniki so med
+pogovorom omenili, da imajo veliko specifičnih dodelav programa in da radi obstoječe
+funkcionalnosti priredijo v skladu s svojimi potrebami. Prav tako razvoj podjetij zahteva
+spremembo obstoječih in dodajanje novih funkcionalnosti, zato sem mnenja, da je ta
+dimenzija kakovosti strankam zelo pomembna. Zaradi zadovoljstva s prilagodljivostjo
+specifičnim željam in zahtevam eden od udeležencev veliko ljudem priporoča Adacto.
+
+Zanesljivost in vzbujanje zaupanja
+Pri dveh odgovorih glede zanesljivosti in vzbujanja zaupanja pride ponovno do izraza
+pomembnost znanja. Dva od udeležencev, ki nista zadovoljna z znanjem svetovalcev, sta
+to izpostavila kot razlog, zaradi katerega se na svetovalce v centu za podporo ne zaneseta.
+Eden od njiju se zanese le na enega svetovalca, ki pozna njihove specifične dodelave
+programa. Dva udeleženca se na svetovalce zaneseta in jim zaupata: »Vedno držijo
+obljube.« in »Nikoli ni nihče izkoristil mojega zaupanja.« Oba kot razlog zanesljivosti
+navajata tudi vrnjene klice v primeru, da svetovalec ob njihovem klicu ni na voljo oziroma
+klic svetovalca, s katerim stranko obvesti o rešitvi težave.
+
+17
+ 
+
+
+
+ 
+Pomemben element zanesljivosti in vzbujanja zaupanja je tudi dogovorjen čas izvedbe
+storitev. Trije udeleženci glede dogovorjenih rokov niso zadovoljni, saj pravijo, da se jih
+svetovalci ne držijo: »Če jih nekdo ne opominja, dajo stvar kar malo na stran.« Eden od
+udeležencev pa je z dogovorjenimi roki zadovoljen. Pravi, da so problemi urejeni »v
+nekem razumnem roku«. Držanje obljubljenih rokov je po mojem mnenju strankam zelo
+pomembno, saj so roki »postavljeni z razlogom«. Prav tako morajo porabniki
+»opravičevati roke svojim šefom« in prestavljanje le-teh lahko povzroči velike težave: »en
+mesec brez podatkov«.
+
+Ukrepanje ob težavah
+Pri tej dimenziji kakovosti storitev me je zanimalo, kako svetovalci v centru za podporo
+ukrepajo v nepredvidljivih situacijah. Eden od udeležencev meni, da se svetovalci
+potrudijo in da je problem pri sami organizaciji in zagotovitvi programerjev. Trije
+udeleženci pa se v takih primerih ne obračajo na center za podporo. Raje se obrnejo na
+projektnega vodjo oziroma svetovalca, ki dobro pozna njihovo poslovanje. »Ne obračam se
+na support center, ampak direktno na vodjo projekta, ker mu ni potrebno podrobno
+razlagati vse od začetka in on točno ve, za kaj se gre.« Ta udeleženec meni, da je problem
+v tem, da znanje ni enakomerno razporejeno. Ker gre za primere v katerih je potrebno
+nemudoma ukrepati, uporabniki pri tem »ne izgubljajo energije« skozi center za podporo.
+Naloga centra za podporo je takojšnja pomoč ob manjših operativnih težavah, v primeru
+zahtevnejših težav pa zagotoviti, da bodo nalogo prevzeli ustrezni svetovalci. Tudi
+porabniki se zavedajo, da v nepredvidljivih situacijah že zaradi same pomembnosti in
+odgovornosti problema svetovalci ne morejo ukrepati sami in se zato tudi sami v takih
+primerih raje obrnejo na osebe, ki so na odgovornejšem položaju.
+
+Storitvena pokrajina
+Dveh udeležencev o storitveni pokrajini nisem spraševala, saj še nista bila v prostorih
+Adacte. Ostala dva sta s fizičnim okoljem zadovoljna. Pravita, da je »lepo, dosti lepše kot
+pri nas« in »na visokem nivoju«. Svetovalci v centru za podporo so strankam na voljo
+predvsem prek telefonske povezave in elektronske pošte. Stranke zelo redko pridejo na
+sedež Adacte glede storitev centra za podporo. Tudi kratka odgovora dveh udeležencev na
+to vprašanje kažeta, da je ta dimenzija kakovosti storitev porabnikom najmanj pomembna.
+
+Ugled in verodostojnost
+Poslovanje porabnikov s centrom za podporo in poštenost pri tem sta me zanimala pri
+zadnji temi pogovora. Trije udeleženci so na splošno s poslovanjem s centrom za podporo
+in z zaračunavanjem storitev zadovoljni. Dvema od njiju se zdi v redu, da dobita v začetku
+meseca seznam opravljenih storitev in njihovo zaračunljivost za prejšnji mesec, tako da
+lahko vsa nesoglasja rešijo že pred izstavljenim računom. Eden od sogovornikov je omenil,
+da veliko ljudem priporoča Adacto zaradi njihove prilagodljivosti specifičnim zahtevam
+strank (tu se zopet kaže pomembnost dimenzije prilagodljivosti). Eden od udeležencev pa s
+poslovanjem s centrom za podporo ni zadovoljen. Meni, da ni pošteno zaračunavati
+
+18
+ 
+
+
+
+ 
+storitve, pri katerih ne dobiš odgovora na težavo. »Moral sem se znajti sam in najti ključne
+ljudi v podjetju, ki mi lahko pomagajo.« Tako se na center za podporo obrne le v primeru
+splošnih težav. Vsi udeleženci so omenili tudi visoke cene storitev. »Če bi bile cene
+storitev nižje, bi se večkrat obrnila na support center tudi glede težav, ki jih lahko rešim
+sama, vendar mi vzamejo veliko časa.« Mislim, da je poštenost poslovanja porabnikom
+pomembna, saj jih lahko dvom v le-to odvrne od uporabe centra za podporo.
+
+Na koncu vsakega intervjuja sem povzela glavne misli udeleženca, ki so bile omenjene
+med pogovorom. Vsi trije intervjuvanci, ki niso zadovoljni z znanjem svetovalcev, so to na
+koncu intervjuja poudarili kot največji problem. Eden od udeležencev bi se veliko raje
+obračal na center za podporo, če bi vedel, da svetovalci poznajo njihove dodelave v
+programu Navision. Prav tako meni, da bi si lahko svetovalci v centru za podporo razdelili
+projekte in »živeli in rastli s temi strankami«. Eden od udeležencev je celo predlagal
+rešitev, da bi se ob prejemu klica stranke svetovalcem izpisale njene specifične dodelave v
+programu in posebnosti, kot imajo to urejeno v nekaterih klicnih centrih. Eden od
+udeležencev je zadovoljen z vsemi dimenzijami, razen z delovnim časom, kar je poudaril
+tudi na koncu pogovora. Tudi zadovoljstvo s prilagajanjem svetovalcev željam in zahtevam
+strank je bilo na koncu pogovora omenjeno s strani enega od udeležencev.
+
+Podjetju predlagam, da posveti večjo pozornost znanju svetovalcev glede specifičnih
+dodelav programa Navision za stranke in spoštovanju dogovorjenih rokov. Ker je strank in
+s tem tudi specifičnosti poslovanja veliko, ni mogoče, da bi vsi svetovalci poznali posebne
+dodelave programa za vse stranke. Vsekakor pa bi moral več kot le en svetovalec poznati
+njihove specifičnosti. Svetovalci si lahko razdelijo projekte tako, da vsaj dva ali trije
+podrobno preučijo specifičnosti določene stranke in jih spremljajo sproti. Tako bodo
+stranke tudi v primeru odsotnosti enega od svetovalcev dobile odgovore na svoje težave.
+Če svetovalci poznajo dodelave programa in specifične želje določenih strank, lahko tudi
+ostalim porabnikom v primeru podobnih želja predlagajo že odkrite rešitve. Glede
+izpolnjevanja dogovorjenih rokov pa so svetovalci odvisni predvsem od programerjev.
+Šele ko ti naredijo dodelavo programa na bazi, lahko svetovalci testirajo pravilnost
+delovanja in napišejo navodila za uporabo. Mislim, da bi bilo glede tega potrebno
+predvsem izboljšanje organizacije razvojnega tima.
+
+Na osnovi analize podatkov pridobljenih z globinskimi intervjuji s štirimi porabniki
+storitev centra za podporo sem oblikovala naslednje domneve o pomembnosti dimenzij
+kakovosti storitev za porabnike centra za podporo:
+
+
+• Domneva 1: Strokovnost svetovalcev glede specifičnega delovanja programa za
+stranko je porabnikom centra za podporo zelo pomembna, večina porabnikov pa z
+njo ni zadovoljna.
+
+19
+ 
+
+
+
+ 
+Stranke centra za podporo imajo veliko specifičnih dodelav programa, zato jim standardni
+odgovori na težave ne zadostujejo. Slabo poznavanje dodelav programa s strani
+svetovalcev vpliva tudi na zaupanje porabnikov le-tem.
+
+
+• Domneva 2: Prilagodljivost željam in zahtevam je porabnikom storitev centra za
+podporo zelo pomembna, večina pa jih je z njo zadovoljna.
+
+Različnost poslovanja in razvoj podjetij zahtevata spremembo obstoječih in dodajanje
+novih funkcionalnosti v programu. Zavzetost svetovalcev in predlogi rešitev pa sta glavna
+razloga za zadovoljstvo porabnikov s to dimenzijo kakovosti storitev.
+
+
+• Domneva 3: Odnos in vedenje svetovalcev je dimenzija, ki močno vpliva na celotno
+
+zadovoljstvo s storitvami centra za podporo.
+Na splošno so porabniki s storitvami centra za podporo zadovoljni. Glavna razloga za to pa
+sta prijaznost in ustrežljivost zaposlenih.
+
+
+• Domneva 4: Izpolnjevanje dogovorjenih rokov je porabnikom storitev centra za
+podporo pomembno, večina porabnikov pa s to dimenzijo ni zadovoljna.
+
+Zamujanje rokov ima lahko za porabnike pomembne posledice (ostanejo brez pomembnih
+podatkov, ne oddajo podatkov pravočasno ipd.). Porabniki storitev centra za podporo z
+izpolnjevanjem dogovorjenih rokov niso zadovoljni, saj se jih svetovalci v centru za
+podporo pogosto ne držijo.
+ 
+
+SKLEP
+ 
+
+Pregled literature kaže, da je kakovost storitev eden od dejavnikov, ki vpliva na
+zadovoljstvo porabnikov. Le-ta pa je osnova za njihovo zvestobo. Storitve po prodaji so
+postale bistvenega pomena za doseganje zadovoljstva strank, zato je kakovostno izvajanje
+le-teh še toliko bolj pomembno.
+
+V raziskovalnem delu diplomske naloge sem se osredotočila na ugotavljanje pomena
+dimenzij kakovosti storitev za porabnike storitev centra za podporo. Kakovost pomembnih
+dimenzij ima namreč večji vpliv na zadovoljstvo porabnikov in posledično na njihovo
+zvestobo. Opravila sem kvalitativno raziskavo na vzorcu štirih porabnikov storitev centra
+za podporo. Upam, da bodo ugotovitve podjetju koristile in prispevale k razvoju storitev
+centra za podporo.
+
+Iz pogovorov sem izvedela mnenja udeležencev o izvajanju dimenzij kakovosti storitev
+centra za podporo in njihov pomen za porabnike. Strokovnost oziroma znanje glede
+specifičnih dodelav programa je bilo omenjeno pri več temah in poudarjeno v povzetkih
+pogovorov. Zadovoljstvo s storitvami centra za podporo na splošno je bilo utemeljeno z
+dobrim odnosom in vedenjem svetovalcev. Pomembnost prilagodljivosti svetovalcev se
+kaže v velikem številu specifičnih zahtev in dodelav programa za stranke. Dogovorjeni
+
+20
+ 
+
+
+
+ 
+roki pa so postavljeni z razlogom in prestavljanje le-teh lahko porabnikom povzroči težave.
+Tako rezultati raziskave kažejo, da so izbranim porabnikom najpomembnejše dimenzije
+kakovosti storitev strokovnost, odnos in vedenje, prilagodljivost zahtevam in željam ter
+dogovorjeni roki. Mnenja udeležencev glede izvajanja pomembnih dimenzij kakovosti
+storitev so precej usklajena. S strokovnostjo svetovalcev in držanjem dogovorjenih rokov
+porabniki storitev centra za podporo niso zadovoljni. Večina jih pravi, da svetovalci ne
+poznajo njihovih specifičnih dodelav programa in ne izpolnjujejo dogovorjenih rokov.
+Odnos in vedenje ter prilagodljivost željam in zahtevam pa sta dimenziji, s katerima so
+porabniki zadovoljni. Prijaznost, korektnost, ustrežljivost, upoštevanje želja in predlogi
+rešitev svetovalcev so razlogi za njihovo zadovoljstvo. Na podlagi teh ugotovitev so
+podane tudi raziskovalne domneve o pomembnosti dimenzij kakovosti storitev za
+porabnike storitev centra za podporo.
+
+Podjetje bi moralo večjo pozornost nameniti znanju svetovalcev in držanju dogovorjenih
+rokov. Več svetovalcev bi moralo podrobneje poznati specifične dodelave programa za
+stranke, potrebno pa bi bilo tudi izboljšanje organizacije razvojnega tima. Ti dve dimenziji
+sta porabnikom pomembni. Tako lahko izboljšanje kakovostni teh dimenzij močno vpliva
+na zadovoljstvo strank in na dobre dolgoročne odnose z njimi. Center za podporo nudi
+svoje storitve od aprila 2004, vendar bo potrebno za visoko kakovost njegovih storitev
+vložiti še kar nekaj truda. Dober odnos in vedenje svetovalcev ter prilagodljivost
+porabnikom pa sta dimenziji, ki že sedaj kažeta na dobro izvajanje storitev centra za
+podporo.
+
+21
+ 
+
+
+
+ 
+LITERATURA IN VIRI
+ 
+
+1. Adacta Dynamics Support Center. Najdeno 20. junija 2009 na spletnem naslovu
+http://www.adacta.si/index.asp?content=Resitve&amp;submenu=NavisionSupportCenter&amp;l
+ang=SI
+
+2. Armistead, C. G., &amp; Clark, G. (1992). Customer service and support: Implementing
+effective strategies. London: Pitman.
+
+3. Bregar, L., Ograjenšek, I., &amp; Bavdaž, M. (2005). Metode raziskovalnega dela za
+ekonomiste: Izbrane teme. Ljubljana: Ekonomska fakulteta.
+
+4. Cavalieri, S., Gaiardelli, P., &amp; Ierace, S. (2007). Aligning strategic profiles with
+operational metrics in after-sales service. International Journal of Productivity &amp;
+Performance Management, 56(5/6), 436-455.
+
+5. Forooz, F., &amp; Rostamidehbaneh, S. (2006). After-sales service necessity and
+effectiveness. [master thesis]. Lulea: Lulea University of technology.
+
+6. Gallagher, T., Mitchke, M. D., &amp; Rogers, M. C. (2005). Profiting from spare parts. The
+McKinsey Quarterly, 2.
+
+7. Goffin, K. (1999). Customer support: A cross-industry study of distribution channels
+and strategies. International Journal of Physical Distribution &amp; Logistics Management,
+29(6),  374-397.
+
+8. Goffin, K., &amp; New, C. (2001). Customer support and new product development: An
+exploratory study. International Journal of Operations &amp; Production Management,
+21(3), 275-301.
+
+9. Grönroos, C. (2000). Service management and marketing: A Customer Relationship
+Management Approach (2nd ed.). New York: John Wiley &amp; Sons.
+
+10. Kotler, P. (2004). Management trženja (11. izdaja). Ljublajna: GV Založba.
+11. Kvalitativne raziskave. Najdeno 29. junija 2009 na spletnem naslovu
+
+http://www.gfk.si/3_1_kvalit_raz.php
+12. Levitt, T. (1983). After the sale is over… Harvard Business Review, 61(5), 87-93.
+13. Loomba, A. P. S. (1996). Linkages between product distribution and service support
+
+functions. International Journal of Physical Distribution &amp; Logistics Management,
+26(4), 4-22.
+
+14. Lovelock, C., &amp; Wirtz, J. (2007). Services Marketing. People, Technology, Strategy
+(6th ed.). London: Prentice Hall.
+
+15. Malhotra, N. K., &amp; Birks, D. F. (2007). Marketing Research: An Applied Approach (3th
+ed.). Harlow: Prentice Hall.
+
+16. Odekerken-SchroÈder, G., van Birgelen, M., Lemmink, J., de Ruyter, K., &amp; Wetzels,
+M. (2000). Moments of sorrow and joy: An empirical assessment of the
+complementary value of critical incidents in understanding customer service
+evaluations. European Journal of Marketing, 34(1/2), 107-125.
+
+17. Oliver, R. (1999). Whence Consumer Loyalty? Journal of Marketing, 63, 33-44.
+
+22
+ 
+
+
+
+ 
+18. Rigopoulou, I. D., Chaniotakis, I. E., Lymperopoulos, C., &amp; Siomkos, G. I. (2008).
+After-sales service qualityas an antecedent of customer satisfactio: The case of
+electronic appliances. Managing Service Quality, 18(5), 512-527.
+
+19. Saccani, N., Songini, L., &amp; Gaiardelli, P. (2006). The role and performance
+measurement of after-sales in the durable consumer goods industries: An empirical
+study. International Journal of Productivity and Performance Management, 55(3/4),
+259-283.
+
+20. Schneider, B., &amp; White, S. S. (2003). Service quality: research perspectives. Thousand
+Oaks: Sage.
+
+21. Viardot, E. (2005). Exploiting the Full Potential of After-Sales Market. The Pragmatic
+Marketer, 3(3), 22-26.
+
+22. Webb, J. R. (1992). Understanding and Designing Marketing Research. London:
+Dryden Press.
+
+23. Zeithaml, V. A., &amp; Bitner, M. J. (1996). Services marketing. Singapore: McGraw-Hill.
+
+
+
+
+
+
+
+23
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+PRILOGE
+
+
+
+
+
+KAZALO PRILOG  
+
+Priloga 1: Prošnja za sodelovanje v raziskavi (elektronsko sporočilo) ......................................1
+
+Priloga 2: Dopis ..........................................................................................................................2
+
+Priloga 3: Opomnik za vodenje globinskega intervjuja .............................................................3
+
+Priloga 4: Globinski intervjuji ....................................................................................................4
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+Priloga 1: Prošnja za sodelovanje v raziskavi (elektronsko sporočilo)
+
+Pozdravljeni,
+
+Na vas se obračamo s prošnjo za pomoč naši zaposleni Jani Kolenc pri raziskovalnem delu
+diplomske naloge, ker smo prepričani, da bi nam, glede na vsebino naloge, vaša pomoč
+lahko obojestransko koristila.
+
+Jana, ki je kot študentka na Adacti zaposlena od februarja 2008 (svetovalka za Navision na
+področju plač in kadrovske evidence), mora za potrebe diplomske naloge izvesti pogovor s
+strankami Adactinega support centra. V raziskovalnem delu diplomske naloge preučuje
+pomen storitev po prodaji za porabnike storitev Adactinega support centra.
+
+Podrobnejše informacije glede opravljenega pogovora si lahko preberete v njenem dopisu,
+ki vam ga pošiljamo v priponki. Sodelavka bi vas, ob vaši pripravljenosti za pomoč,
+kontaktirala glede dodatnih informacij in uskladitve termina pogovora.
+
+Hvala za pomoč in lep pozdrav,
+
+Elektronski podpis vodje centra za podporo
+
+1
+ 
+
+
+
+ 
+Priloga 2: Dopis
+
+Jana Kolenc
+jana.kolenc@adacta.si      Ljubljana, 6.7.2009
+
+»Podjetje«
+»Ime in priimek stranke«
+»e-mail«
+
+Spoštovani!
+
+Sem študentka Ekonomske fakultete v Ljubljani in pripravljam diplomsko delo, v katerem
+preučujem pomen storitev po prodaji za porabnike storitev informacijske tehnologije. V
+raziskovalnem delu diplomske naloge želim preučiti, katere dimenzije kakovosti storitev so
+porabnikom storitev Adacta support centra pomembne. Pri tem vas vljudno prosim za
+pomoč.
+
+S pomočjo pogovora s strankami, ki najpogosteje uporabljate storitve Adactinega support
+centra, želim pridobiti vaše mnenje glede izvajanja dimenzij kakovosti njegovih storitev.
+Teme pogovora so vam bile poslane v priponki. Ker v Adacti tovrstne raziskave še niso
+izvedli, bo vaše sodelovanje prispevalo k razvoju storitev Adactinega support centra.
+
+Raziskava je anonimna, zato obljubljam, da vaše ime in podjetje ne bosta nikjer
+imenovana. Pogovor bo predvidoma trajal od 0,5 do 1 ure.
+
+Za vaš čas in sodelovanje se vam vnaprej najlepše zahvaljujem.
+
+Lep pozdrav
+
+Jana Kolenc 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+ 
+
+
+
+
+ 
+Priloga 3: Opomnik za vodenje globinskega intervjuja
+
+• Uvod
+
+- začetek uporabe storitev
+- primeri uporabe storitev
+
+
+• Strokovnost in izkušenost
+
+- tehnično/vsebinsko znanje svetovalcev
+- izkušnje svetovalcev
+
+
+• Odnos in vedenje
+- način komuniciranja svetovalcev
+
+
+• Dostopnost in prilagodljivost
+- delovni čas, telefonske povezave, lokacija
+- razpoložljivost svetovalcev
+- prilagajanje željam/zahtevam
+
+
+• Zanesljivost in vzbujanje zaupanja
+- dogovorjeni roki
+
+
+• Ravnanje v primeru, ko se kaj zaplete
+
+- ukrepanje v nepredvidljivih situacija
+
+
+• Storitvena pokrajina
+- urejenost prostorov, svetloba ipd.
+
+
+• Ugled in verodostojnost
+- poštenost poslovanja
+
+
+
+
+
+
+
+3
+ 
+
+
+
+ 
+Priloga 4: Globinski intervjuji
+ 
+
+Globinski intervju 1
+
+Podjetje: veleprodaja naftnih derivatov
+Kontaktna oseba: vodja računovodstva
+Datum in ura intervjuja: 9.7.2009, 7:45 – 8:15
+
+V: Koliko časa že uporabljate storitve Adacta support centra?
+O: Navision uporabljamo od leta 1999. Na začetku smo imeli drugo podporo, s katero pa
+nismo bili zadovoljni. Leta 2002 smo prešli na storitve Adacte. Na začetku je bilo tako, da
+si imel svetovalca, na katerega si se obrnil. Support center, tako da se lahko kogarkoli
+pokliče, pa uporabljamo že nekaj let, v bistvu od kar je na voljo.
+
+V: Omenili ste, da s prvo podporo za Navision niste bili zadovoljni. Zakaj?
+O: To je bilo manjše podjetje, čisto drugačen, neprofesionalen pristop. Imeli smo enega
+svetovalca, ki je bil zadolžen za nas. Težko je, če samo en v podjetju pozna tvoje potrebe.
+
+V: V kakšnih primerih se obračate na  Adacta support center?
+O: V zadnjem času se na support center obračamo predvsem zaradi kakšnih dodatnih
+zadev, ki smo jih naročal. V bistvu če pri teh dodelavah kaj ne dela. Za standardne
+funkcionalnosti, če gre, pa večino rešimo kar sami.
+
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?
+O: Čisto različno. Mi v glavnem delamo z enim svetovalcem, ker najbolje pozna, kaj vse je
+bilo pri nas dodelano. V zadnjih dveh letih imamo kar precej dodelav. Tako da on zna
+svetovati tako tehnično kot vsebinsko, če pa dobiš koga drugega na telefon, je pa že malo
+večji problem, ker ti dajo standarden odgovor. Standarden odgovor pa meni ni dovolj
+dober oziroma za nas ne velja. Tako da to je problem.
+
+V: Kako vam v primeru, da svetovalca, ki pozna vaše dodelave ni, pomagajo na
+support centru?
+O: Kadar njega ni, se zadeva kar malo ustavi. Problem je, da ne poznajo naših dodelav.
+Sedaj imamo še programerja, ki nam svetuje, vendar on pa ne pozna zadev vsebinsko.
+Najraje dobim tistega, ki res ve kaj imamo dodelano in kakšne zahteve imamo.
+
+V: Kaj menite o izkušenosti svetovalcev?
+O: Mislim, da imajo svetovalci dovolj izkušenj z Navisionom na splošno, vendar nam to
+nič ne pomaga, ker pri nas veliko zadev zaradi dodelav deluje drugače. Izkušenj z
+delovanjem programa pri nas sigurno premalo, glede na to, da zadeve pozna le eden.
+
+
+
+4
+ 
+
+
+
+ 
+V: Kaj menite o odnosu in vedenju svetovalcev?
+O: Na to nisem imela nikoli pripomb. So vsi zelo prijazni, samo kvaliteta odgovorov malo
+niha.
+
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave,
+lokacijo?
+O: Delovni čas bi meni bolj ustrezal, če bi začeli bolj zgodaj. V službo pridem pred osmo
+in če imam nek problem, dobim svetovalca šele od 8:30 in preden je težava rešena, je ura
+že 9:30. Vsaj ob 8. ure bi moral biti nekdo dosegljiv in da bi se oglašali do 16. ure. Ker od
+8:30 do 15:30 je relativno kratek delovni čas. Je potrebno upoštevati, da so ljudje vmes
+tudi na kosilu. Tako da tistega, ki ga potrebuješ, tisto uro potem ne dobiš. Čas dosegljivosti
+je zelo kratek. Delovni čas se mi zdi prekratek.
+
+V: Kaj pa glede telefonskih povezav?
+O: Sliši se, kot da bi bili v Kazahstanu. Od takrat ko imate novega ponudnika, se sliši zelo
+slabo.
+
+V: Na Adacti ste že bili? Kaj menite o lokaciji?
+O: Ja dvakrat sem bila. Je precej od rok. Moraš imeti avto. Jaz ga pa nimam, se vozim z
+avtobusom. Tako da meni je odveč iti tja.
+
+V: Kaj menite o razpoložljivosti svetovalcev?
+O: Načelom se mi zdi v redu. Če zahtevam določenega svetovalca, ga dobim, če je le ta v
+službi.
+
+V: Kaj menite o prilagajanju vašim zahtevam, željam?
+O: Zdi se mi, da se potrudijo. Eni manj eni bolj. S temi katerimi sedaj delam, sem zelo
+zadovoljna. So nam pa vmes za dodelave dodelili koga drugega. Programerja na primer, ki
+se mu pa ni dalo priti k nam na sestanek, da bi lažje vsebinsko razumel zadevo.
+Komunikacija je potekala po mailu in potem, ko je bila rešitev nameščena na testno bazo,
+sem ugotovila, da me ni razumel. Ker sem jaz ekonomist, on pa računalničar in vmes je
+nastala luknja. Potrebno je bilo kar nekaj popravkov in se je zadeva kar zavlekla. Tako da
+odvisno s kom delaš. Če dobim tistega, ki ga želim, sem zelo zadovoljna.
+
+V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem?
+O: Enako kot pri znanju, zanesem se na enega svetovalca, ki pozna naše dodelave, ostali
+mi ne znajo pomagati.
+
+V: Kaj pa glede dogovorjenih rokov?
+O: Pošteno povedano je dosti prestavljanja. Še nobena stvar ni bila narejena do roka. Na
+primer lansko leto smo imeli eno veliko zadevo, ki smo jo zaradi Adacte, ker ni bila
+pripravljena, prestavili za en mesec. Sedaj imamo spet eno dodelavo, ki smo jo sicer
+
+5
+ 
+
+
+
+ 
+prestavili zaradi nas, ampak v tistem trenutku, ko bi moralo biti narejeno, Adacta ni bila
+pripravljena in še do danes ni narejeno. Če ne bi mi prestavili, bi bili sedaj en mesec brez
+podatkov oziroma bi imeli probleme.
+
+V: Kako svetovalci reagirajo v nepredvidenih situacijah?
+O: Mislim, da svetovalec se potrudi kolikor se more in se opravičujejo, če ni dodeljenega
+programerja. Mogoče je to stvar organizacije samega help deska. Tisti konkretno s katerim
+jaz delam, ne more biti za vse kriv, če mu ne dodelijo programerja.
+
+V: Omenili ste, da ste že bili na Adacti. Kaj menite o fizičnem okolju - urejenosti,
+opremljenosti prostorov, svetlobi in podobnem?
+O: Tisto kar sem videla je bilo lepo, dosti lepše kot pri nas.
+
+V: Kaj menite o poslovanju s support centrom in o poštenosti?
+O: Generalno sem zadovoljna. So korektni in v redu ljudje. Tudi zaračunavanje storitev se
+mi zdi pošteno, saj dobim v pregled porabljene storitve in po tem se v bistvu pogovarjamo,
+kaj je zaračunljivo in kaj ne. S tem načeloma nimamo težav, niso pa poceni. Motijo me pa
+te stvari, ki sem jih omenila.
+
+V: Če povzameva vas moti znanje svetovalcev glede vaših posebnosti, delovni čas,
+kakovost telefonskih povezav in držanje rokov. Z odnosom svetovalcev pa ste
+zadovoljni.
+Drži. Vendar še vedno se mi zdi največji problem, da če se oglasi svetovalec, ki ne pozna
+naših dodelav, dobim splošen odgovor in ne ve, da je pri nas posebnost. Glede na to, da je
+svetovalec, ki ve kaj je pri nas narejeno in kako zadeve delujejo, eden, mogoče dva skupaj
+s programerjem, lahko zelo hitro pride do težav. To bi se vsekakor moralo spremeniti. Na
+primer v nekaterih klicnih centrih imajo to urejeno, da se ob klicu izpiše zgodovina kupca.
+To bi lahko uredili tudi na support centru, da se pri klicu stranke izpišejo njene dodelave in
+posebnosti. Ja ljudje so res zelo prijazni in ti pomagajo, če le znajo.
+
+Globinski intervju 2
+
+Podjetje: prodaja, proizvodnja in inženiring nerjavečih materialov
+Kontaktna oseba: informatik
+Datum in ura intervjuja: 9.7.2009, 10:15 – 10:45
+
+V: Koliko časa že uporabljate storitve Adacta support centra?
+Navision imamo že peto leto, od 1.1.2005 in takrat smo tudi začeli uporabljati storitve
+support centra.
+
+
+
+
+6
+ 
+
+
+
+ 
+V: V kakšnih primerih se obračate na  Adacta support center?
+O: Največkrat glede vsebinskega znanja v Navisionu, samo računovodstvo na primer ter
+glede naročanja dodelav.
+
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?
+O: S tem imam več slabih kot dobrih izkušenj. Gre namreč za to, da svetovalci, ki delajo na
+tem področju, ne poznajo podjetij in njihovih specifičnosti glede Navisiona. Konkretno za
+naše podjetje velja, da stvari radi priredimo in večino standardnih funkcionalnosti
+predelamo po svoje. S svetovalcem, ki ne pozna tvojih procesov in poslovanja, si
+konkretno nimaš kaj pomagati.
+
+V: Na koga se potem obrnete v primeru težav?
+O: Sam konkretno se slabi dve leti trudim delati z vami tako, da komuniciram z eno, največ
+dvema osebama, ki pa ne delata v support centru. Čim pride tukaj tretja, četrta oseba, se
+stvari podirajo. Torej delam z dvema osebama, za katere vem, da poznajo moje potrebe in
+tudi takoj vedo, o čem govorim. Kar pa ne morem reči za support center. Če ne vem, kje se
+poišče kakšen podatek, mi znajo pomagati, imajo naštudiran program. Če pa rabim kaj
+vsebinsko ali tehnično glede naših specifičnosti pa mi ne znajo pomagati. Tega pa je zelo
+veliko, zato se na njih obračam le za splošne težave, ki za nas niso specifične.
+
+V: Kaj pa izkušenost svetovalcev?
+Izkušnje imam, da v support centu delajo ljudje z malo izkušnjami oziroma se le ti oglašajo
+na klice. Imajo dovolj izkušenj z Navisionom, vendar z vsebinskimi in specifičnimi
+zadevami bistveno premalo.
+
+V: Kaj menite o odnosu in vedenju svetovalcev?
+O: S tem nisem imel nikoli slabih izkušenj. Odnos je na nivoju, ljudje so prijazni in se
+trudijo. Bolj me moti vsebinsko nepoznavanje našega poslovanja v Navisionu.
+
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave,
+lokacijo?
+O: Glede delovnega časa in telefonskih povezav nimam pripomb. Tudi lokacija Adacte mi
+odgovarja in zaradi urejenega parkirišča, nimam nikoli težav s parkiranjem.
+
+V: Kaj menite o razpoložljivosti svetovalcev?
+O: Nimam slabih izkušenj s tem, da nekoga ne bi mogel dobiti. Razpoložljivost je v redu.
+
+V: Kaj menite o prilagajanju vašim zahtevam, željam?
+O: To se mi zdi v redu. Nikoli me ni nihče skušal prepričati, da se nekaj, kar smo si
+zamislili, v Navisionu ne da narediti. Se potrudijo.
+
+
+
+7
+ 
+
+
+
+ 
+V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem?
+Na svetovalce v support centru se ne morem zanesti. Ne poznajo naših dodelav.
+
+V: Kaj pa glede dogovorjenih rokov?
+O: Veliko je prestavljanja. V tem času sem se že navadil, da če ne poskrbim za roke sam,
+ne bo nihče poskrbel zame. Mogoče sem kdaj komu tečen, vendar se je izkazalo, da se
+edino ta tečnoba obrestuje, da lahko jaz opravičujem roke svojim šefom. Če jih nekdo ne
+opominja, dajo stvar kar malo na stran.
+
+V: Kako svetovalci reagirajo v nepredvidljivih situacijah?
+O: V kritičnih situacijah se ne obračam na support center. V tem času sem že dovolj
+spoznal Adacto in vem kako stvari potekajo. Vem za večino ljudi, kaj kdo pokriva. Ne
+izgubljam več energije skozi support center, ampak poskušam priti direktno do ljudi, ki
+zadeve bolje poznajo. Nesmisel mi je klicati nekega svetovalca na support center, ker bo le
+ta moral slej ko prej vprašati nekoga drugega.
+
+V: Kaj menite o fizičnem okolju - urejenosti, opremljenosti prostorov, svetlobi in
+podobnem?
+O: To je na visokem nivoju in nimam pripomb.
+
+V: Kaj menite o poslovanju s support centrom in o poštenosti?
+O: Naučil sem se, da se na support center obrnem le v primeru splošnejših težav. Dogajalo
+se je namreč, da mi je nekdo zaračunal storitve, za neko stvar, ko je moral nekoga nekaj
+vprašati. To da nekdo dvigne telefon in reče, da bo moral nekoga vprašati, se mi zdi
+nepravično zaračunavati, saj nisem dobil nobenega odgovora. To me zelo moti pri support
+centru, glede na to da so cene storitev zelo visoke. Jaz sem se moral znajti sam in najti
+ključne ljudi v podjetju, ki mi lahko pomagajo.
+
+V: Če povzameva vas moti pomanjkljivo znanje svetovalcev glede vaših posebnosti in
+držanje rokov. Zadovoljni pa ste z odnosom svetovalcev in prilagajanju vašim
+zahtevam.
+Problem je znanje svetovalcev v support centru. Zelo nerad se obračam na support center.
+Če si odvisen samo od številke support centra, je težko delati. Veliko raje bi se obračal na
+support center, če bi vedel, da svetujejo ljudje, ki dobro poznajo moje probleme in
+dodelave, pa je lahko to samo eden. Sam sem dobil občutek, da pri support centru ne gre za
+svetovanje in reševanje težav, ker ljudje ne poznajo dodelav, ampak po navadi le sporočiš
+problem, ki ga imaš in te pokličejo nazaj. Zato raje delam z nekaj ljudmi, za katere vem, da
+točno vedo, kako mi delujemo, čeprav imajo še ogromno drugih projektov. Tako da če
+imate v support centru 15, 20 ljudi, mislim da so zmožni, da si razdelijo projekte in živijo
+in rastejo s temi strankami. Je pa to dolg proces, leto, dve, vendar mislim, da bi se to lahko
+spremenilo.
+
+
+8
+ 
+
+
+
+ 
+Globinski intervju 3
+
+Podjetje: izdaja revij
+Kontaktna oseba: računovodja
+Datum in ura intervjuja: 14.7.2009, 8:00 – 8:30
+
+V: Koliko časa že uporabljate storitve Adacta support centra?
+O: V bistvu od začetka odkar imamo Navision smo se obračali direktno na vodjo projekta,
+ker še ni bilo support centra. Navision imamo od leta 2001. Od 2004 pa se obračamo tudi
+na support center.
+
+V: V kakšnih primerih se obračate na  Adacta support center?
+O: Kadar naletimo na take probleme, ko se ni potrebno obračati direktno na projektnega
+vodjo. Večinoma kje se v Navisionu kaj nahaja, pa tudi vsebinsko. Vsebinsko predvsem,
+ko gre kaj narobe, na primer pri obrestih, če ne grejo skozi, kako se to lahko reši v
+Navisionu.
+
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?
+O: Znanje svetovalcev se mi v redu. Če ne vem kje v Navisionu se kaj nahaja, mi znajo
+takoj svetovati. Dobro poznajo program. Glede vsebinskih vprašanj pa se po navadi
+posvetujejo in skupaj najdejo rešitev. Vedno dobim odgovore na težave.
+
+V: Kaj menite o znanju svetovalcev glede vaših dodelave, posebnosti?
+O: Ja kar veliko stvari je narejenih nam na zahtevo, vendar svetovalci poznajo dodelave,
+vedno si lahko z nekom pomagam.
+
+V: Kaj pa izkušenost svetovalcev?
+O: Do sedaj so mi še vedno znali pomagati, tako da mislim, da imajo dovolj izkušenj.
+
+V: Kaj menite o odnosu in vedenju svetovalcev?
+O: So zelo prijazni. Tudi vedno ko mi svetujejo pri nekem problemu, vprašajo če sem
+uspela urediti. Res so zelo prijazni in ustrežljivi.
+
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave,
+lokacijo?
+O: To me pa malo moti. Ker začnejo šele ob 8:30. Mi začnemo ob 7. uri in če je kakšna
+težava, moramo čakati do takrat. Pa potem samo do 15:30, to je malo zgodaj. Vsaj en bi
+moral biti dežuren od 8. pa do 16. ure. Večina podjetij dela tak delovnik in če naletijo na
+težave, si ne morejo pomagati.
+
+
+
+
+9
+ 
+
+
+
+ 
+V: Kaj pa glede telefonskih povezav in lokacije?
+O: Včasih se slabo sliši. Potem pokličem še enkrat in je po navadi v redu. Na Adacti nisem
+bila nikoli, tako da glede lokacije težko odgovorim.
+
+V: Kaj menite o razpoložljivosti svetovalcev?
+O: Vedno dobim tistega, ki ga želim, med njihovim delovnim časom. To se mi zdi v redu.
+Nikoli nisem imela težav s tem.
+
+V: Kaj menite o prilagajanju vašim zahtevam, željam?
+O: Vedno upoštevajo naše želje in jih rešijo na tak način, kot mi želimo. Se zelo potrudijo
+in vedno najdejo rešitev.
+
+V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem?
+O: Vedno držijo obljube. Me tudi pokličejo nazaj, ko zadevo uredijo oziroma mi pošljejo
+po mailu. Tako da se res lahko zanesem na njih.
+
+V: Kaj pa glede rokov izvedbe?
+O: Vedno je v nekem razumnem roku, tudi če malo zamudijo. Nismo imeli težav zaradi
+tega. Če nekaj ne morejo rešiti do roka, vedno pokličejo in sporočijo.
+
+V: Kako svetovalci v support centru reagirajo v nepredvidljivih situacijah?
+O: V takih primerih se obrnem kar direktno na projektnega vodjo.
+
+V: Zakaj pa?
+O: V takih situacijah gre tudi svetovalec s support centra do projektnega vodje, ker on
+bolje pozna težavo vsebinsko in tehnično in hitreje reši, če je res nekaj nujno.
+
+V: Kaj menite o poslovanju s support centrom in o poštenosti?
+O: So prijazni in ažurni. Tudi zaračunavanje storitev je pošteno in utemeljeno, vendar so
+cene zelo visoke, to me moti. Če bi bile cene storitev nižje, bi se večkrat obrnila na support
+center tudi za težave, ki jih lahko rešim sama, vendar mi vzamejo veliko časa. Tako da kar
+se le da, poskušam ugotoviti sama, tudi, če za to porabim več. Vzporedno imamo še en
+program in lastniki zahtevajo, da gremo na enoten informacijski sistem. Pred kakšnih
+tednom smo prejeli vašo ponudbo in cena je res visoka. Ne vem kako se bodo odločili.
+
+V: Če ne gledava cene, za katerega ponudnika bi se vi odločili?
+O: Za Adacto, ker so zaposleni zelo korektni. Imamo tudi veliko zahtev za dodelave in so
+vedno narejene hitro. Tudi program je zelo v redu, ga hitro osvojiš.
+
+V: Če povzameva vas najbolj moti delovni čas z ostalim pa ste zadovoljni.
+O: Zaposleni se res zelo potrudijo. Če bi začeli vsaj ob 8. uri bi bilo veliko bolje. Problem
+je, če zjutraj naletiš na težavo in čakaš do 8:30, vse delo potem čaka.
+
+10
+ 
+
+
+
+ 
+Globinski intervju 4
+
+Podjetje: distribucija rezervnih delov za področje industrijskega vzdrževanja
+Kontaktna oseba: vodja računovodstva
+Datum in ura intervjuja: 14.7.2009, 15:30 – 16:15
+
+V: Koliko časa že uporabljate storitve Adacta support centra?
+O: Navision uporabljamo deveto leto. Sama storitve support centra uporabljam dve leti.
+Pred tem je program večino uporabljala druga zaposlena, ki se je na support center
+obračala od kar je na voljo.
+
+V: V kakšnih primerih se obračate na  Adacta support center?
+O: Večinoma za tehnične težave s programom, saj nimamo zaposlenega informatika ter za
+naročanja dodelav in njihovo delovanje oziroma težav pri uporabi. Zahtev za dodelave ne
+pošiljam več prek zahtevkov, saj mi eno leto ni delalo geslo, na kar sem opozorila, vendar
+se ni nič premaknilo. Tako da sem z zahtevki obupala in raje pošljem po mailu oziroma
+pokličem.
+
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?
+O: Moti me, da je potrebnih več svetovalcev, da se težava reši, ker ne poznajo našega
+poslovanja v Navisionu. Težavo rešujejo na primer trije svetovalci, ker je dva ne znata
+rešiti do konca. Mislim, da so svetovalci v support centru premalo usposobljeni in imajo
+premalo izkušenj. Tako dobimo isto storitev zaračunano od več svetovalcev. Neznanja ne
+bomo plačevali. Naj zadeve rešuje tisti, ki zna, ne da se na naših težavah še dva učita in
+nam vse zaračunate.
+
+V: Kaj menite o odnosu in vedenju svetovalcev?
+O: Več ali manj komuniciramo po mailu, kar me ne moti. Odnos je zelo v redu.
+
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave,
+lokacijo?
+O: Sama delam tudi do 22:00, vendar pošljem težavo po mailu in dobim odgovor naslednji
+dan zjutraj. Če je kaj nujnega pokličem med 8:30 in 15:30, drugače pa več ali manj
+rešujemo po mailu.
+
+V: Kaj pa glede telefonskih povezav?
+O: V zadnjem času se je že dvakrat zgodilo, da telefoni in maili na enkrat niso delovali. To
+se ne bi smelo tako pogosto dogajati. Problem je, ker ne moreš nobenega dobiti, ker potem
+tudi  maili ne delajo.
+
+
+
+
+11
+ 
+
+
+
+ 
+V: Na Adacti ste že bili? Kaj menite o lokaciji?
+O: Nisem še bila, vendar se mi zdi lokacija v redu, ker je malo odmaknjena od mestnega
+vrveža.
+
+V: Kaj menite o razpoložljivosti svetovalcev?
+O: Razpoložljivost je v redu. Glede tega, da nekoga ne bi mogla dobiti, nisem imela težav.
+
+V: Kaj menite o prilagajanju vašim zahtevam, željam?
+O: To se mi zdi zelo v redu. Vedno se potrudijo. Tudi če nekaj, kar sem si zamislila ni
+izvedljivo, predlagajo drugačen način, kako bi se dalo to rešiti. Vedno najdemo skupno
+rešitev.
+
+V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem?
+O: Za enkrat nimam slabih izkušenj glede zanesljivosti. Nikoli ni nihče izkoristil mojega
+zaupanja, tako da jim zaupam. Tudi, če svetovalec, ki ga rabim ni na voljo, vedno pokliče
+nazaj.
+
+V: Kaj pa glede rokov izvedbe?
+O: Glede rokov se sploh v zadnjem času vedno dogaja, da jih je potrebno opominjati. Roki
+so postavljeni z razlogom in bi se jih morali držati.
+
+V: Kako svetovalci reagirajo v nepredvidljivih situacijah?
+O: Ne obračam se na support center, ampak direktno na vodjo projekta, ker mu ni potrebno
+podrobno razlagati vse od začetka in on točno ve za kaj se gre. Se pa trudijo takoj rešiti.
+Moti me to, da je na enem človeku preveč znanja in če njega ni je problem, ker zavede
+stojijo.
+
+V: Kaj menite o poslovanju s support centrom in o poštenosti?
+O: Sem zadovoljna. Ljudje so res v redu. Precej ljudem sem priporočala Adacto, saj ti
+pomagajo, da lahko Navision čisto prilagodiš svojim potrebam. Vendar, ko so videli ceno,
+so si vsi premislili.
+
+V: Kaj pa menite glede poštenosti in zaračunavanja storitev?
+O: V redu je to, da dobim v začetku meseca pregled opravljenih storitev in zaračunljivost.
+Tako, da se takoj dogovorimo, kaj je zaračunljivo in kaj ne. Je pa res, da so cene visoke.
+
+V: Če povzameva vas moti znanje svetovalcev, kakovost telefonskih povezav in
+držanje rokov. Zadovoljni pa ste s prilagajanjem vašim zahtevam in zanesljivostjo
+svetovalcev.
+Glede telefonskih povezav ni tak problem, saj večinoma komuniciramo prek maila. Tudi
+glede rokov, jih moram opominjati, vendar potem pospešijo zadeve. Znanje se mi zdi
+največji problem, da ne zna en svetovalec rešiti zadeve od začetka do konca. Zelo mi je
+
+12
+ 
+
+
+
+ 
+všeč, da upoštevajo naše želje in program priredijo kot želimo. Se potrudijo in vedno
+najdejo rešitev glede naših zahtev.
+
+
+13
+ 
+
+
+	UVOD
+	1 STORITVE PO PRODAJI
+	2 KAKOVOST STORITEV
+	3 ZADOVOLJSTVO PORABNIKOV S STORITVAMI
+	3.1 Povezava med kakovostjo storitev in zadovoljstvom porabnikov
+	3.2 Povezava med zadovoljstvom in zvestobo porabnikov
+	4 POMEN DIMENZIJ KAKOVOSTI STORITEV PO PRODAJI ZA PORABNIKE STORITEV ADACTA DYNAMICS SUPPORT CENTRA
+	4.1 Predstavitev Adacta Dynamics Support Centra
+	4.2 Metodologija in cilji raziskave
+	4.3 Analiza in ugotovitve raziskave
+
+	SKLEP
+	 LITERATURA IN VIRI
+	PRILOGE</PlainText>
+  <XmlText>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;meta name="dcterms:modified" content="2010-03-10T14:06:16Z"/&gt;
+&lt;meta name="meta:creation-date" content="2010-03-10T14:05:35Z"/&gt;
+&lt;meta name="meta:save-date" content="2010-03-10T14:06:16Z"/&gt;
+&lt;meta name="dc:creator" content="Jana Kolenc"/&gt;
+&lt;meta name="Last-Modified" content="2010-03-10T14:06:16Z"/&gt;
+&lt;meta name="Author" content="Jana Kolenc"/&gt;
+&lt;meta name="dcterms:created" content="2010-03-10T14:05:35Z"/&gt;
+&lt;meta name="SourceModified" content="D:20090906190233"/&gt;
+&lt;meta name="date" content="2010-03-10T14:06:16Z"/&gt;
+&lt;meta name="modified" content="2010-03-10T14:06:16Z"/&gt;
+&lt;meta name="creator" content="Jana Kolenc"/&gt;
+&lt;meta name="xmpTPg:NPages" content="43"/&gt;
+&lt;meta name="Creation-Date" content="2010-03-10T14:05:35Z"/&gt;
+&lt;meta name="meta:author" content="Jana Kolenc"/&gt;
+&lt;meta name="created" content="Wed Mar 10 15:05:35 CET 2010"/&gt;
+&lt;meta name="producer" content="Acrobat Distiller 7.0 (Windows)"/&gt;
+&lt;meta name="Company" content="-"/&gt;
+&lt;meta name="Content-Type" content="application/pdf"/&gt;
+&lt;meta name="xmp:CreatorTool" content="Acrobat PDFMaker 7.0 for Word"/&gt;
+&lt;meta name="Last-Save-Date" content="2010-03-10T14:06:16Z"/&gt;
+&lt;meta name="dc:title" content="Microsoft Word - KOLENC304.doc"/&gt;
+&lt;title&gt;Microsoft Word - KOLENC304.doc&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; 
+ 
+&lt;/p&gt;
+&lt;p&gt;  UNIVERZA V LJUBLJANI 
+EKONOMSKA FAKULTETA 
+&lt;/p&gt;
+&lt;p&gt; 
+ 
+&lt;/p&gt;
+&lt;p&gt; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt; 
+DIPLOMSKO DELO 
+&lt;/p&gt;
+&lt;p&gt; 
+POMEN STORITEV PO PRODAJI ZA PORABNIKE STORITEV 
+&lt;/p&gt;
+&lt;p&gt;INFORMACIJSKE TEHNOLOGIJE 
+ 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Ljubljana, september 2009       JANA KOLENC&lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; 
+ 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;IZJAVA 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Študentka Jana Kolenc izjavljam, da sem avtorica tega diplomskega dela, ki sem ga 
+&lt;/p&gt;
+&lt;p&gt;napisala pod mentorstvom prof. dr. Iče Rojšek, in da dovolim njegovo objavo na 
+&lt;/p&gt;
+&lt;p&gt;fakultetnih spletnih straneh. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V Ljubljani, dne 7. 9. 2009             Podpis:  
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;i 
+&lt;/p&gt;
+&lt;p&gt;KAZALO  
+ 
+UVOD ........................................................................................................................................1 
+&lt;/p&gt;
+&lt;p&gt;1  STORITVE PO PRODAJI...............................................................................................2 
+&lt;/p&gt;
+&lt;p&gt;2  KAKOVOST STORITEV ................................................................................................4 
+&lt;/p&gt;
+&lt;p&gt;3  ZADOVOLJSTVO PORABNIKOV S STORITVAMI.................................................7 
+&lt;/p&gt;
+&lt;p&gt;3.1  Povezava med kakovostjo storitev in zadovoljstvom porabnikov...............................7 
+&lt;/p&gt;
+&lt;p&gt;3.2  Povezava med zadovoljstvom in zvestobo porabnikov ...............................................8 
+&lt;/p&gt;
+&lt;p&gt;4  POMEN DIMENZIJ KAKOVOSTI STORITEV PO PRODAJI ZA PORABNIKE 
+STORITEV ADACTA DYNAMICS SUPPORT CENTRA ...........................................10 
+&lt;/p&gt;
+&lt;p&gt;4.1  Predstavitev Adacta Dynamics Support Centra.........................................................11 
+&lt;/p&gt;
+&lt;p&gt;4.2  Metodologija in cilji raziskave...................................................................................12 
+&lt;/p&gt;
+&lt;p&gt;4.3  Analiza in ugotovitve raziskave.................................................................................14 
+&lt;/p&gt;
+&lt;p&gt;SKLEP .....................................................................................................................................20 
+&lt;/p&gt;
+&lt;p&gt;LITERATURA IN VIRI ........................................................................................................22 
+&lt;/p&gt;
+&lt;p&gt;PRILOGE 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;KAZALO SLIK 
+ 
+Slika 1: Zaznavanje kakovosti storitev in zadovoljstvo strank...................................................8 
+&lt;/p&gt;
+&lt;p&gt;Slika 2: Razmerje med zadovoljstvom in zvestobo porabnikov.................................................9 
+&lt;/p&gt;
+&lt;p&gt;Slika 3: Najpomembnejši dejavnik storitev po prodaji ............................................................11 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;KAZALO PRILOG 
+ 
+Priloga 1: Prošnja za sodelovanje v raziskavi (elektronsko sporočilo) ......................................1 
+&lt;/p&gt;
+&lt;p&gt;Priloga 2: Dopis ..........................................................................................................................2 
+&lt;/p&gt;
+&lt;p&gt;Priloga 3: Opomnik za vodenje globinskega intervjuja .............................................................3 
+&lt;/p&gt;
+&lt;p&gt;Priloga 4: Globinski intervjuji ....................................................................................................4 &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;UVOD 
+ 
+Razvoj tehnologije je prinesel bolj zanesljive, vendar tudi bolj kompleksne izdelke. Za 
+veliko podjetij prodaja še ne pomeni konec sodelovanja s kupci. Prav tako kakovosten 
+izdelek ali storitev sama po sebi ne zagotavljata uspeh podjetja. Zato posebno v 
+visokotehnološkem sektorju storitve po prodaji izdelek dopolnjujejo, ga razlikujejo od 
+substitutov in pomenijo dodatno vrednost za kupca. 
+ 
+V zgodnjih 80-ih letih prejšnjega stoletja, ko so bili mnogi izdelki deležni velikih 
+neuspehov, je bil glavni namen storitev po prodaji hitro in zanesljivo popravilo. Z novimi 
+tehnologijami pa se je obseg storitev po prodaji razširil in postal širše prepoznan. Podjetja 
+sedaj uporabljajo bolj profesionalen pristop, kot so ga v preteklosti, in oddelki za storitve 
+po prodaji se hitro razvijajo v neodvisne poslovne enote (Goffin, 1999, str. 378). 
+ 
+Dandanes samo nakup izdelka ali storitve ne izpolnjuje več zahtev kupca. Storitve po 
+prodaji so postale dejavnik, ki močno vpliva na zadovoljstvo kupcev. Tako igrajo ključno 
+vlogo v gradnji dolgoročnega odnosa s strankami, saj predstavljajo eno izmed stalnih 
+povezav, ki jih imajo kupci s podjetjem. Visoka kakovost storitev po prodaji vpliva tudi na 
+boljšo podobo blagovne znamke (Gallagher, Mitchke &amp;amp; Rogers, 2005, str. 3). 
+ 
+V podjetju Adacta, ki se ukvarja z razvojem poslovnih informacijskih rešitev, se zavedajo, 
+da ni pomembno le pridobivanje novih strank, ampak tudi ohranjanje obstoječih. Ena od 
+poslovnih rešitev, ki jih ponujajo, je Microsoft Dynamics Navision. Le-ta tudi po 
+zaključeni namestitvi potrebuje ustrezne vzdrževalne aktivnosti, da deluje v svoji polni 
+funkcionalnosti. Zato Adacta v okviru svoje enote Adacta Dynamics Support Center nudi 
+storitve, katerih bistvo je tehnična in vsebinska podpora strankam. Zaradi vpliva kakovosti 
+storitev po prodaji na zadovoljstvo strank je namen mojega diplomskega dela podati 
+praktična spoznanja, ki bodo prispevala k razvoju storitev Adacta Dynamics 
+Support Centra in s tem k večjemu zadovoljstvu porabnikov. Cilj diplomskega dela je 
+ugotoviti pomen dimenzij kakovosti storitev Adacta Dynamics Support Centra za izbrane 
+porabnike. 
+ 
+Razumevanje značilnosti storitev po prodaji je osnova za ponazoritev njihovega pomena za 
+porabnike. V prvem poglavju diplomskega dela zato obravnavam njihovo opredelitev, 
+ključne elemente in njihov pomen za podjetje. Drugo poglavje obsega kakovost storitev, 
+kjer največji poudarek namenjam dimenzijam kakovosti storitev, saj so le-te predmet 
+proučevanja raziskovalnega dela diplomske naloge. Tretje poglavje se nanaša na 
+zadovoljstvo porabnikov s storitvami. V njem prikazujem povezavo med kakovostjo 
+storitev, zadovoljstvom porabnikov in njihovo zvestobo. S tem želim prikazati pomen 
+kakovosti storitev in njen vpliv na zadovoljstvo porabnikov ter posledično na njihovo 
+zvestobo. Poglavje zaključujem z ugotovitvami raziskav o vplivu zadovoljstva porabnikov 
+na dobičkonosnost podjetja. V četrtem poglavju predstavljam raziskovalni del diplomskega 
+&lt;/p&gt;
+&lt;p&gt;1 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;dela. S pomočjo globinskih intervjujev sem želela ugotoviti, katere dimenzije kakovosti 
+storitev so porabnikom storitev Adacta Dynamics Support Centra pomembne in kako so 
+izbrani porabniki zadovoljni z njihovim izvajanjem. Rezultati kvalitativne raziskave 
+omogočajo oblikovanje domnev o pomembnosti nekaterih dimenzij kakovosti storitev 
+Adacta Dynamics Support Centra za njegove porabnike. Diplomsko delo zaključujem s 
+sklepnimi ugotovitvami. 
+ 
+1 STORITVE PO PRODAJI 
+ 
+Rigopoulou, Chaniotakis, Lymperopoulos in Siomkos (2008, str. 514) podrobneje 
+predstavljajo opredelitve vodilnih avtorjev na področju storitev po prodaji. Izraz storitve po 
+prodaji se najpogosteje uporablja za opis storitev, ki so zagotovljene kupcem po dostavi 
+izdelka. V literaturi so poleg tega omenjeni tudi izrazi podpora po prodaji, tehnična pomoč 
+ali celo le storitev.   
+ 
+Loomba (1996, str. 4) pravi, da storitve po prodaji vključujejo vse dejavnosti, ki 
+zagotavljajo, da je izdelek brez težav z uporabo na voljo potrošnikom tudi po izteku 
+njegove življenjske dobe. Grönroos (2000, str. 113) pa jih opredeljuje kot odziv na 
+problem kupca, npr. neuspešno popravilo izdelka, definiranje problema, strokovna pomoč 
+pri reševanju problema, težave z uporabo izdelka in podobno. Funkcija teh storitev je torej 
+povrniti zadovoljstvo porabnikov na raven, na kateri je bilo pred pojavom težave z 
+izdelkom.  
+ 
+Storitve po prodaji so pridobile strateško vlogo kot pomembni vir diferenciacije ponudbe 
+in ustvarjanja dobička. Njihove dejavnosti pridobivajo na pomenu v vseh glavnih procesih, 
+ki so vključeni v načrtovanje in upravljanje življenjskega cikla izdelka. Dobički ustvarjeni 
+s storitvami po prodaji so pogosto višji od dobičkov pridobljenih s prodajo. Storitve po 
+prodaji lahko ustvarijo najmanj trikratno vrednost prvotnega nakupa v življenjskem ciklu 
+nekega izdelka (Cavalieri, Gaiardelli &amp;amp; Ierace, 2007, str. 437). 
+ 
+Kupci različnih vrst izdelkov, od visokotehnoloških računalniških sistemov do 
+gospodinjskih aparatov, zahtevajo podporo v smislu pomoči za dosego najvišje zaznane 
+vrednosti za kupca ob njihovem nakupu. Zato morajo proizvajalci zagotoviti, da je kupcem 
+njihovih izdelkov po nakupu na voljo ustrezna podpora. Goffin (1999, str. 375-378) navaja 
+sedem glavnih elementov storitev po prodaji v življenjski dobi izdelkov: 
+&lt;/p&gt;
+&lt;p&gt;• Namestitev je za mnoge izdelke prvi element po prodaji. Za zapletene izdelke (npr. 
+računalniški sistemi), ali ko gre za problem varnosti (npr. medicinski pripomočki), 
+namestitev običajno izvaja osebje iz proizvodnega podjetja ali njihovi predstavniki.  
+&lt;/p&gt;
+&lt;p&gt;• Usposabljanje uporabnikov je pomembno zaradi kompleksnosti nekaterih vrst 
+izdelkov. Veliko računalniških izdelkov vključuje funkcije, ki se jih morajo 
+uporabniki najprej naučiti, da jim le-te omogočajo učinkovitejšo uporabo izdelka. 
+Stroški usposabljanja pa so za uporabnike lahko zelo visoki. 
+&lt;/p&gt;
+&lt;p&gt;2 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;• Dokumentacijo vsebuje večina izdelkov. Značilna vsebina dokumentacije je 
+delovanje opreme, namestitev, vzdrževanje in popravilo. Dobra dokumentacija 
+lahko vodi do nižjih stroškov vzdrževanja in povečane produktivnosti.  
+&lt;/p&gt;
+&lt;p&gt;• Vzdrževanje in popravilo, ki sta zgodovinsko gledano pomembna elementa za 
+podporo izdelkom, zahtevata od podjetij precejšnje vlaganje sredstev. Na trgih, kjer 
+imajo pomanjkljivosti izdelka velike posledice, na primer računalniški sistemi, 
+morajo podjetja zagotoviti izdelke, ki morajo biti zelo zanesljivi oziroma se celo ne 
+smejo nikoli pokvariti, in hitro odzivanje na težave. V računalniškem sektorju je 
+predvsem tehnologija oddaljene podpore tista, ki omogoča, da so računalniški 
+sistemi ažurirani in popravljeni prek telefonskih linij s pomočjo podpornih centrov. 
+&lt;/p&gt;
+&lt;p&gt;• On-line pomoč omogoča strankam učinkoviteje uporabljati izdelek, ugotoviti 
+napake ali odpraviti težave. Telefonsko svetovanje strokovnjakov je pomemben 
+element podpore za kupce v številnih sektorjih. Stroški problemov, rešenih prek 
+telefona, so veliko nižji od obiska strokovnjaka pri stranki. On-line pomoč se še 
+posebej pogosto uporabljala za izdelke programske opreme.  
+&lt;/p&gt;
+&lt;p&gt;• Proizvajalci večine izdelkov ponujajo garancijo. Na nekaterih trgih, kot je na 
+primer avtomobilski, poskušajo proizvajalci s ponudbo daljše garancijske dobe 
+pridobiti konkurenčno prednost. Garancija zmanjša finančno tveganje za lastnike 
+izdelkov in je zato pomemben element podpore strankam po prodaji. Skozi celotno 
+življenjsko dobo izdelka so lahko stroški podpore večji od njegove nabavne cene. V 
+računalniškem sektorju se ti stroški nanašajo na delovanje računalniške opreme in 
+so precej podobni ledeni gori – večina od njih je skritih.  
+&lt;/p&gt;
+&lt;p&gt;• Nadgradnja ponuja možnost izboljšave delovanja obstoječih izdelkov in je lahko 
+pomemben element podpore. Na primer, računalniški proizvajalci ponujajo 
+nadgradnje, s čimer podaljšujejo delovno dobo izdelkov in so pomemben vir 
+prihodkov. 
+&lt;/p&gt;
+&lt;p&gt; 
+Goffin (1999, str. 374) pravi, da so storitve po prodaji za proizvajalce pomembne, saj: 
+&lt;/p&gt;
+&lt;p&gt;• so lahko pomemben vir prihodkov, čeprav jim management pogosto namenja 
+premalo pozornosti, 
+&lt;/p&gt;
+&lt;p&gt;• so bistvenega pomena za doseganje zadovoljstva strank in dobre dolgoročne odnose 
+z njimi, 
+&lt;/p&gt;
+&lt;p&gt;• lahko zagotovijo konkurenčno prednost (to velja za večino visokotehnoloških 
+sektorjev, kot tudi za nekatere nizkotehnološke sektorje), 
+&lt;/p&gt;
+&lt;p&gt;• imajo pomembno vlogo pri povečanju stopnje uspešnosti novih izdelkov. 
+Sccani, Songini in Gaiardelli (2006, str. 263) navajajo tri različne vloge storitev po prodaji. 
+Prva je usmeritev v razvoj izdelka in medfunkcijskega procesa. Storitve po prodaji 
+omogočajo povratne informacije za ostale funkcije (načrtovanje, kakovost proizvodnje, 
+prodajo in trženje), kar je še posebej uporabno za razvoj izdelkov in medfunkcijskih 
+procesov. Druga vloga je usmeritev v prodajo in dobičkonosnost. Storitve po prodaji lahko 
+podjetju omogočajo znatne prihodke in dobiček v kratkem času. Tretja vloga je trženjska 
+&lt;/p&gt;
+&lt;p&gt;3 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;usmeritev. Storitve po prodaji lahko igrajo strateško vlogo pri dolgoročnem vplivu na 
+zadovoljstvo kupcev in njihovo zvestobo ter pri zagotavljanju prihodnje prodaje novih 
+izdelkov. 
+ 
+2 KAKOVOST STORITEV 
+ 
+Znano je, da boljša kakovost storitev krepi odnos med porabnikom in ponudnikom ter za 
+oba prinaša koristi, kot sta zadovoljstvo in uspešnost (Rigopoulou et al., 2008, str. 512). 
+Poleg tega je kakovost storitev upravičeno obravnavati kot eno najzanesljivejših sredstev 
+za pridobivanje trajnostne konkurenčne prednosti, kar pomeni, da ima za podjetja bistveno 
+strateško vlogo. To pa ne velja samo za čisti storitveni sektor, ampak tudi za ostale, v 
+katerih storitve predstavljajo precejšen del razširjenega izdelka. Storitve po prodaji, kot so 
+klicni centri za pomoč uporabnikom ter mnoge druge dobro znane in splošno sprejete 
+oblike storitev po prodaji, bistveno prispevajo h gradnji razširjenega izdelka (Rigopoulou 
+et al., 2008, str. 513). 
+ 
+Zeithaml in Bitner (1996, str. 117) opredeljujeta kakovost storitev kot zagotovitev odlične 
+ali vrhunske storitve glede na pričakovanja porabnikov. V literaturi obstaja več pogledov 
+na kakovost storitev. Čeprav ni dokončnega dogovora med akademiki, vsi priznavajo, da je 
+kakovost storitev večdimenzionalni pojem. Grönroos (2000, str. 63) deli kakovost storitev 
+na tehnično, ki se nanaša na to, kakšno storitev porabnik dejansko prejme, in funkcionalno 
+kakovost, ki pomeni proces dostave storitve. Zaznavanje kakovosti pa Grönroos (2000, str. 
+67) opredeljuje kot rezultat primerjave pričakovanj, ki jih ima porabnik pred opravljeno 
+storitvijo, s tistim, kar meni, da resnično dobi. Dobra zaznana kakovost je tako dosežena, 
+ko izkustvena kakovost doseže pričakovanja kupca (pričakovano kakovost).  
+ 
+Ko gre za kakovost storitev po prodaji, avtorji menijo, da storitve po prodaji prispevajo k 
+tehnični kakovosti celotne storitve, in sicer bistveno vplivajo na to, kaj stranka prejme. 
+Vzporedno vplivajo tudi na način, kako je osnovna storitev dostavljena. Torej igrajo 
+pomembno vlogo tudi pri funkcionalnem vidiku kakovosti storitev. Tako so storitve po 
+prodaji tesno povezane z obema razsežnostima kakovosti, tako s storitvijo samo kot tudi z 
+njeno dostavo (Rigopoulou et al., 2008, str. 516).  
+ 
+Armistead in Clark (1992, str. 158) navajata, da je za storitve po prodaji posebej primerna 
+definicija kakovosti kot skupka lastnosti in značilnosti storitve, katerih sposobnost je, da 
+izpolnjujejo pomembne potrebe kupca. Kakovost storitev po prodaji je bistvenega pomena 
+za izboljšanje podobe kakovosti izdelka in za razlikovanje podjetja od konkurence. Odličen 
+izdelek lahko hitro razočara s slabimi storitvami in podporo po prodaji. 
+ 
+Kot že omenjeno, Grönroos (2000, str. 63) predlaga dve temeljni dimenziji kakovosti 
+storitev, tehnično in funkcionalno. Rust in Oliver dodajata kot tretjo dimenzijo kakovosti 
+še fizično okolje (Grönroos 2000, str. 65). Torej ni pomembno le, kaj in kako prejme kupec 
+&lt;/p&gt;
+&lt;p&gt;4 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;storitve, ampak tudi, kje (s čimer je mišljen prostor, v katerem poteka storitveni proces in 
+ki je viden kupcu). Fizično okolje je ključna sestavina storitvenega procesa, kadar se 
+porabnik prvič sooči s storitvijo in kadar se mora za opravljeno storitev dalj časa zadrževati 
+v prostorih storitvene organizacije. Storitveno okolje oblikuje porabnikovo vedenje in 
+doživljanje storitve.      
+                                                                                                                   
+Berry, Parasuraman in Zeithaml so znani avtorji, ki so opredelili deset dimenzij kakovosti 
+storitev (Armistead &amp;amp; Clark, 1992, str. 162-163): 
+&lt;/p&gt;
+&lt;p&gt;• Zanesljivost pomeni sposobnost držati se dogovorjenih datumov in vključuje 
+obljubo, da se na primer telefonski klici vrnejo. Pomeni tudi potrjevanje dogovorov 
+vnaprej, kadar je to mogoče, in njihovo prestavljanje v zelo redkih primerih, kadar 
+je to nujno potrebno. 
+&lt;/p&gt;
+&lt;p&gt;• Odzivnost pomeni hitre storitve in prepričanje celotne organizacije, da je odziv na 
+potrebe kupcev boljši kot pa iskanje načinov, kako se jim izogniti. Če je potrebno, 
+zaposleni delajo nadure, ali pridejo v službo izjemoma, z namenom, da stranki 
+zagotovijo prejem dobrih storitev. Dobri ponudniki storitev so tisti, ki vnaprej 
+predvidijo večino strankinih zahtev in ne iščejo razlogov, zaradi katerih teh zahtev 
+ni mogoče izpolniti. 
+&lt;/p&gt;
+&lt;p&gt;• Strokovnost pomeni znanje zaposlenih o storitvi in njihove potrebne spretnosti za 
+opravljanje storitev in nalog podpore. Zaupanje uporabnikov se lahko poveča z 
+zagotavljanjem osebja z izkušnjami in z dokazi o njihovem končanju ustreznih 
+programov usposabljanja. 
+&lt;/p&gt;
+&lt;p&gt;• Dostopnost pomeni enostaven telefonski dostop prek telefonske številke za 
+sprejemanje in reševanje problemov kupcev, ki si jo le-ti na lahek način zapomnijo. 
+Pomeni tudi delovni čas in lokacijo podpornega osebja, ki ustrezata potrebam 
+kupcev. 
+&lt;/p&gt;
+&lt;p&gt;• Ustrežljivost pomeni vljudnost osebja in skrb za strankino lastnino.  
+• Komunikacija pomeni obveščanje strank o storitvi z uporabo izrazov, ki jih 
+&lt;/p&gt;
+&lt;p&gt;razumejo, in v času, ki je za njih ugoden. Bolje je obvestiti porabnike, ko se pojavi 
+težava, kot upati, da zanjo ne bodo izvedeli. Komunikacija pomeni tudi jasno in 
+natančno oceno stroškov in strankino seznanitev z njimi, preden se le-ta zaveže. 
+&lt;/p&gt;
+&lt;p&gt;• Verodostojnost pomeni iskrenost in poštenost izvajalca ter, da je le-ta vreden 
+zaupanja. K temu prispevajo tudi osebne značilnosti kontaktnega osebja. 
+&lt;/p&gt;
+&lt;p&gt;• Varnost pomeni fizično varnost, nobene škode na premoženju, zaupanje in 
+vrednost v očeh kupca. 
+&lt;/p&gt;
+&lt;p&gt;• Razumevanje pomeni individualno pozornost do strank in razlikovanje njihovih 
+pravih zahtev od tistih, ki so jih navedle. 
+&lt;/p&gt;
+&lt;p&gt;• Otipljivost pomeni kakovost in videz objektov in opreme ter kakovost računov, 
+ponudb in dopisov. 
+&lt;/p&gt;
+&lt;p&gt; 
+ 
+&lt;/p&gt;
+&lt;p&gt;5 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Isti avtorji so kot rezultat kasnejših raziskav 10 dimenzij kakovosti storitev zožili na 
+naslednjih pet (v vrstnem redu po njihovi pomembnosti) (Kotler, 2004, str. 455): 
+&lt;/p&gt;
+&lt;p&gt;• zanesljivost, 
+• odzivnost, 
+• vzbujanje zaupanja, 
+• zmožnost vživeti se v položaj drugega, 
+• opredmetene sestavine. 
+&lt;/p&gt;
+&lt;p&gt; 
+Grönroos (2000, str. 81) je dosedanje raziskave in koncepte glede dimenzij ali faktorjev 
+kakovosti storitev povezal v sedem kriterijev dobro zaznane kakovost storitev: 
+&lt;/p&gt;
+&lt;p&gt;• Strokovnost in izkušenost – Kupci se zavedajo, da imajo ponudnik storitev, 
+njegovi zaposleni, operativni sistemi in fizični viri potrebno zanje in izkušnje za 
+reševanje težav na strokoven način (tehnična dimenzija kakovosti). 
+&lt;/p&gt;
+&lt;p&gt;• Odnos in vedenje – Kupci imajo občutek, da je kontaktno osebje osredotočeno 
+nanje in na reševanje problemov na prijazen in sproščen način (funkcionalna 
+dimenzija kakovosti). 
+&lt;/p&gt;
+&lt;p&gt;• Dostopnost in prilagodljivost – Kupci imajo občutek, da so ponudnik storitve, 
+njegova lokacija, delovni čas, zaposleni in operativni sistemi oblikovani tako, da je 
+dostop do storitev lahek. Imajo tudi občutek, da so zaposleni pripravljeni ugoditi 
+njihovim zahtevam in željam na prilagodljiv način (tehnična dimenzija kakovosti). 
+&lt;/p&gt;
+&lt;p&gt;• Zanesljivost in vzbujanje zaupanja – Stranke vedo, da se lahko v zvezi z 
+dogovorjenim zanesejo na ponudnika storitve, njegove zaposlene in sisteme, da le-
+ti držijo obljube in storitev opravijo v najboljšo korist stranke (funkcionalna 
+dimenzija kakovosti). 
+&lt;/p&gt;
+&lt;p&gt;• Ravnanje v primeru, ko se kaj zaplete – Stranke vedo, da bo ponudnik storitve, 
+če gre kaj narobe, ali se zgodi kaj nepredvidenega, nemudoma in aktivno ukrepal, z 
+namenom, da bo vse pod kontrolo, in našel novo, sprejemljivo rešitev 
+(funkcionalna dimenzija kakovosti). 
+&lt;/p&gt;
+&lt;p&gt;• Storitvena pokrajina – Stranke imajo občutek, da fizično okolje in videz okolja, s 
+katerim se srečajo, pripomore k pozitivni izkušnji s storitvenim procesom 
+(funkcionalna dimenzija kakovosti). 
+&lt;/p&gt;
+&lt;p&gt;• Ugled in verodostojnost – Stranke verjamejo, da je poslovanje s ponudnikom 
+storitev vredno zaupanja in da ima primerno vrednost v njihovih očeh (dimenzija 
+podobe podjetja). 
+&lt;/p&gt;
+&lt;p&gt; 
+Omenjeni kriteriji dobro zaznane kakovosti storitev so lahko smernice pri razvoju storitev, 
+saj temeljijo tako na empiričnih in konceptualnih raziskavah kot tudi dobri praksi. Iz istega 
+razloga so lahko uporabljeni kot načela poslovodenja. Seveda seznam ni popoln, saj so v 
+različnih panogah in za različne porabnike določene dimenzije pomembnejše od drugih. 
+Prav tako so lahko v različnih situacijah uporabljeni drugi kriteriji dobre kakovosti storitev, 
+ki niso zajeti z naštetimi dimenzijami (Grönroos, 2000, str. 80). 
+&lt;/p&gt;
+&lt;p&gt;6 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;3 ZADOVOLJSTVO PORABNIKOV S STORITVAMI 
+ 
+Zadovoljstvo je pomembno merilo, ki ga je potrebno izpolniti za izgradnjo zaupanja med 
+partnerji in za nadaljevanje odnosa med njimi. Oliver (1999, str. 33) opredeljuje 
+zadovoljstvo kot čustven odziv po uporabi, ki se lahko pojavi kot rezultat primerjave 
+pričakovane in dejanske ravni storitve ali rezultat, ki se pojavi brez primerjave pričakovanj. 
+Prav tako Oliver (1999, str. 34) govori o zadovoljstvu porabnikov kot o prijetni izpolnitvi. 
+To pomeni, da porabnik čuti, da potrošnja izpolnjuje nekatere potrebe, želje, cilje ter da je 
+ta izpolnitev prijetna.  
+ 
+Povečana konkurenca v številnih panogah vodi k povečani pozornosti na storitve po 
+prodaji. Različne študije kažejo, da ima lahko nezadovoljna stranka velik vpliv na prodajo 
+podjetja, zato vsa podjetja posvečajo pozornosti temu, da je njihova stranka zadovoljna ter 
+da izpolnijo njene potrebe in želje. Eno od močnih orodij, ki podjetjem pomaga pri 
+doseganju zadovoljstva kupcev, je zagotavljanje najboljših storitev po prodaji (Forooz &amp;amp; 
+Rostamidehbaneh, 2006, str. 11). 
+ 
+3.1 Povezava med kakovostjo storitev in zadovoljstvom porabnikov 
+ 
+Zaithaml in Bitner (1996, str. 123) ugotavljata, da zgodnje razprave o razlikah med 
+zadovoljstvom porabnikov in kakovostjo storitev opredeljujejo zadovoljstvo kot 
+vrednotenje, ki se izvede na ravni posamezne transakcije, in ne na ravni celotne ocene. 
+Sedanja razmišljanja pa kažejo na to, da lahko tako na kakovost storitev kot tudi na 
+zadovoljstvo strank gledamo na ravni posamezne storitve ali na skupni ravni. Namesto 
+razlikovanja kakovosti in zadovoljstva, ko gre za raven analize, narašča soglasje, da so v 
+obeh konceptih bistvene razlike v osnovnih vzrokih in izidih. Medtem ko imata 
+zadovoljstvo in kakovost nekatere stvari skupne, je zadovoljstvo na splošno širši koncept 
+od kakovosti storitev, ki je osredotočena zlasti na dimenzije storitve. S tega vidika je 
+zaznana kakovost storitev sestavina zadovoljstva.  
+ 
+Na zadovoljstvo strank vplivajo tako zaznavanje kakovosti storitev, kakovosti izdelka in 
+cene kot tudi situacijski in osebni dejavniki (Slika 1). Kakovost storitev, kakovost izdelka 
+in cena so med seboj povezani dejavniki, povezava pa je odvisna predvsem od narave 
+storitev. Če je cena visoka, porabnik pričakuje visoko kakovost storitve, kar vpliva tudi na 
+njegovo zaznavanje. Pri nizki ceni pa lahko porabnik podvomi v kakovost storitve. 
+Situacijski dejavniki predstavljajo okoliščine, za katere se porabniki zavedajo, da jih 
+ponudnik storitev ne more kontrolirati (slabo vreme, nesreče, slučajno povečanje 
+povpraševanja ipd.). Osebni dejavniki pa predstavljajo razpoloženje porabnika (npr. 
+njegovo čustveno stanje) (Zaithaml &amp;amp; Bitner, 1996, str. 124). 
+ 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;7 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Slika 1: Zaznavanje kakovosti storitev in zadovoljstvo strank 
+ 
+&lt;/p&gt;
+&lt;p&gt;           Zanesljivost 
+&lt;/p&gt;
+&lt;p&gt;                 Odzivnost                 
+&lt;/p&gt;
+&lt;p&gt;     Vzbujanje zaupanja                                    
+&lt;/p&gt;
+&lt;p&gt;  Zmožnost vživeti se                                                          
+&lt;/p&gt;
+&lt;p&gt;8 
+&lt;/p&gt;
+&lt;p&gt;     v položaj drugega 
+                                                                                                                                                                                                                  
+             Opredmetene  
+                   sestavine                                                     
+                                                                                                                                          
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;                                       
+&lt;/p&gt;
+&lt;p&gt; 
+Kakovost    
+storitev 
+&lt;/p&gt;
+&lt;p&gt; 
+Kakovost 
+izdelka 
+&lt;/p&gt;
+&lt;p&gt; 
+Cena 
+&lt;/p&gt;
+&lt;p&gt; 
+ 
+&lt;/p&gt;
+&lt;p&gt;Zadovoljstvo 
+strank 
+&lt;/p&gt;
+&lt;p&gt; 
+Situacijski 
+dejavniki 
+&lt;/p&gt;
+&lt;p&gt; 
+Osebni 
+&lt;/p&gt;
+&lt;p&gt;dejavniki 
+&lt;/p&gt;
+&lt;p&gt;    
+&lt;/p&gt;
+&lt;p&gt;     
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Vir: V. A. Zeithaml &amp;amp; M. J. Bitner, Services marketing, 2000, str. 123. 
+ 
+Kot drugo splošno razliko med kakovostjo in zadovoljstvom Zaithaml in Bitner (1996, str. 
+124) navajata, da se lahko zaznavanje kakovosti pojavi v odsotnosti dejanskih izkušenj z 
+organizacijo, medtem ko je zadovoljstvo mogoče oceniti šele po dejanskih izkušnjah z 
+organizacijo. Prav tako je kakovost storitev strankina ocena same storitve, medtem ko je 
+zadovoljstvo ocena o tem, kako storitev čustveno vpliva na kupca (Schneider &amp;amp; White, 
+2008, str. 51). 
+ 
+3.2 Povezava med zadovoljstvom in zvestobo porabnikov 
+ 
+&lt;/p&gt;
+&lt;p&gt;Oliver (1999, str. 33) pravi, da sta zvestoba in zadovoljstvo  porabnikov neločljivo 
+povezana. Prav tako gre razumeti, da je to razmerje asimetrično, saj povečanje 
+zadovoljstva ne poveča zvestobe v enaki meri. Čeprav so zvesti porabniki najpogosteje 
+zadovoljni, se zadovoljstvo univerzalno ne pretvori v zvestobo. 
+ 
+Oliver (1999, str. 34) opredeljuje zvestobo kot »globoko predanost ponovnemu nakupu 
+želenega izdelka ali storitve iste blagovne znamke v prihodnosti, kljub situacijskim 
+vplivom in trženjskim naporom konkurentov, ki lahko spremenijo obnašanje«. 
+ 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Oliverjeve (1999, str. 33) raziskave ugotavljajo, da je zadovoljstvo nujen korak pri 
+oblikovanju zvestobe, vendar postane manj pomembno, ko se začne zvestoba oblikovati 
+prek drugih dejavnikov. Ti dejavniki, izpuščeni iz obravnave v dosedanjih modelih, 
+vključujejo vlogo osebne zavezanosti (vrednote, stališča, potrebe ipd.) in socialnega 
+povezovanja na institucionalni in osebni ravni (družbene norme, medosebne in strukturne 
+ovire ipd.). Zvestoba  je tako kombinacija zaznane odličnosti izdelka, osebne zavezanosti 
+in socialnega povezovanja ter njihovih sinergijskih učinkov.  
+ 
+Lovelock in Wirtz (2007, str. 371) pravita, da se temelj za resnično zvestobo skriva v 
+zadovoljstvu kupcev,  za katerega je ključni pogoj kakovost storitev. Za zelo zadovoljne ali 
+celo navdušene stranke je bolj verjetno, da bodo postale zvesti apostoli podjetja in da bodo 
+širile pozitivno besedo. Prav tako so nedavne raziskave pokazale, da povečanje 
+zadovoljstva strank vodi k povečanju cene delnic podjetja  (Lovelock &amp;amp; Wirtz, 2007, str. 
+371). 
+ 
+&lt;/p&gt;
+&lt;p&gt;Na Sliki 2 je prikazano razmerje med zadovoljstvom in zvestobo, ki ga je mogoče razdeliti 
+na tri glavna območja: odhajanje, ravnodušnost in predanost. Pri tem območje zadovoljstva 
+1 pomeni zelo nezadovoljen, 2 nezadovoljen, 3 niti zadovoljen niti nezadovoljen, 4 
+zadovoljen in 5 zelo zadovoljen. Območje odhajanja se pojavi pri nizki ravni zadovoljstva. 
+Kupci se bodo v primeru, da stroški prehoda k drugemu ponudniku niso visoki, ali da je 
+alternativa izvedljiva, preusmerili na drugega ponudnika. Zelo nezadovoljne stranke lahko 
+postanejo teroristi, ki širijo slab glas o ponudniku storitev. Na območju ravnodušnosti gre 
+za vmesno raven zadovoljstva. Tukaj so kupci pripravljeni oditi k drugemu ponudniku, če 
+pri njem najdejo boljšo alternativo. Območje predanosti se nahaja na zelo visoki ravni 
+zadovoljstva, kjer imajo lahko stranke tako visoko stopnjo zvestobe, da ne iščejo 
+alternativnih ponudnikov storitev. Te stranke so opisane kot apostoli in v javnosti širijo 
+dober glas ter priporočila o podjetju (Lovelock &amp;amp; Wirtz, 2007, str. 371). 
+ 
+&lt;/p&gt;
+&lt;p&gt;Slika 2: Razmerje med zadovoljstvom in zvestobo porabnikov 
+ 
+&lt;/p&gt;
+&lt;p&gt;Zvestoba   100%                     Območje predanosti                   Apostoli                                               
+(ohranjanje                                                                                                                                
+porabnikov) 80       Območje ravnodušnosti                                                   
+&lt;/p&gt;
+&lt;p&gt;                        60                                                                                                 
+&lt;/p&gt;
+&lt;p&gt;                        40       Območje odhajanja                                                          
+&lt;/p&gt;
+&lt;p&gt;                        20 
+&lt;/p&gt;
+&lt;p&gt;          Teroristi         1          2          3          4          5                                                                                                        
+&lt;/p&gt;
+&lt;p&gt;                                             Zadovoljstvo 
+&lt;/p&gt;
+&lt;p&gt;Vir: C. Lovelock &amp;amp; J. Wirtz, Services Marketing. People, Technology, Strategy, 2007, str. 373. 
+&lt;/p&gt;
+&lt;p&gt;9 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Rezultati študij ameriških svetovalcev podjetja Bain and Company kažejo na odnos med 
+storitvami, zadovoljstvom porabnikov in dobičkonosnostjo. Učinek visokega zadržanja 
+kupcev je povečana donosnost. V svojem delu navajajo naslednje razloge, zakaj je temu 
+tako (Armistead &amp;amp; Clark, 1992, str. 246): 
+• stroški pridobivanja novih kupcev so visoki, ohranitev kupcev pa razporedi te stroške 
+&lt;/p&gt;
+&lt;p&gt;na daljše časovno obdobje. Torej dlje kot kupec ostane pri ponudniku, višji so 
+dobički, saj ni stroškov povezanih s pridobivanjem nove stranke. 
+&lt;/p&gt;
+&lt;p&gt;• stranke, ki ostanejo, so pripravljene porabiti več. Kupile bodo dodatne storitve in 
+bodo zanje pripravljene plačati višjo ceno. 
+&lt;/p&gt;
+&lt;p&gt;• stroški poslovanja z rednimi strankami so nižji.  
+ 
+Rezultat 5-odstotnega povečanja zvestobe porabnikov je povečana donosnost v razponu od 
+25 do 125 odstotkov, odvisno od vrste storitve. To povečanje je posledica zmanjšanja 
+operativnih stroškov, dobička dodatnih nakupov in dobička od novih strank, ki jim storitve 
+podjetja priporočijo že obstoječe stranke (Armistead &amp;amp; Clark, 1992, str. 246). 
+ 
+4 POMEN DIMENZIJ KAKOVOSTI STORITEV PO PRODAJI ZA 
+&lt;/p&gt;
+&lt;p&gt;PORABNIKE STORITEV ADACTA DYNAMICS SUPPORT 
+CENTRA 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Veliko podjetij v visokotehnološkem sektorju ne izkorišča celotnega potenciala storitev po 
+prodaji.  Za oblikovanje prave ponudbe je na začetku pomembna segmentacija trga storitev 
+po prodaji v skladu s potrebami strank. Viardot (2005, str. 25) v svojem članku o 
+izkoriščanju celotnega potenciala storitev po prodaji v visokotehnološkem sektorju med 
+drugim povzema tudi raziskave različnih podjetij o potrebah in pričakovanjih strank glede 
+teh storitev. Podjetja, kot so Dell, Lexmark, Raytheon in Agilent, so opravila raziskave o 
+potrebah in pričakovanjih svojih strank glede storitev po prodaji. Da podjetje ostane korak 
+pred konkurenco, je pomembna dosledna uporaba povratnih informacij strank za povišanje 
+ravni storitev po prodaji. Vse raziskave kažejo, da so kljub temu, da je cena za kupce 
+pomembna, ključni dejavniki storitev po prodaji hitrost dostave in zanesljivost ter 
+razpoložljivost storitev vzdrževanja (Slika 3). Pomembnost teh pričakovanj je običajno 
+odvisna tako od odnosa strank do tveganja kot tudi njihove sposobnosti in pripravljenosti, 
+da naredijo nekaj dela brez pomoči dobavitelja.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;10 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Slika 3: Najpomembnejši dejavnik storitev po prodaji 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Vir: E. Viardot, Exploiting the Full Potential of After-Sales Market, 2005, str. 23. 
+ 
+V raziskovalnem delu diplomskega dela želim preučiti pomen posameznih dimenzij 
+kakovosti storitev za porabnike storitev Adacta Dynamics Support Centra. Le-ta 
+predstavlja prvo frontno linijo, saj skrbi za odnos, ki ga podjetje vzpostavi s kupci. Zato je 
+kakovost njegovih storitev še toliko bolj pomembna in vpliva na zadovoljstvo ter 
+ohranjanje strank. Pomen posamezne dimenzije kakovosti storitev Adacta Dynamics 
+Support Centra za njegove porabnike me zanima zato, ker lahko izboljšanje kakovosti 
+pomembne dimenzije močno vpliva na zadovoljstvo strank. Tovrstne raziskave v podjetju 
+še niso izvedli.  
+ 
+4.1 Predstavitev Adacta Dynamics Support Centra 
+ 
+&lt;/p&gt;
+&lt;p&gt;Podjetje Adacta d.o.o. za program Microsoft Dynamics Navision (v nadaljevanju 
+Navision) po vzoru velikih tujih Microsoftovih partnerjev ali centrov za rešitve Navision 
+od 15. aprila 2004 ponuja Adacta Dynamics Support Center (v nadaljevanju center za 
+podporo). Nastal je kot odgovor na zahteve po pomoči z namenom, da bi s končnimi 
+uporabniki hitro ugotovili in rešili probleme. Njegova glavna naloga je hitro in učinkovito 
+reševanje težav in odpravljanje njihovih vzrokov. Storitve centra za podporo so strankam 
+na voljo vsak delovni dan med 8:30 in 15:30 (v petek do 15:00) prek telefonske številke in 
+elektronskega naslova. Center za podporo strankam zagotavlja takojšnjo pomoč ob manjših 
+operativnih težavah, evidentiranje zahtevkov in spremljanje njihovega reševanja ter 
+povratno obveščanje. Za zagotovitev čimprejšnje pomoči zaposleni v centru za podporo 
+uporabljajo dostop do strankinih baz in sicer prek elektronskih medijev oziroma kopij 
+podatkovnih baz. Storitve vsebinske in tehnične pomoči centra za podporo se obračunavajo 
+v skladu z vzdrževalnimi pogodbami oziroma s splošnim cenikom (Adacta – Adacta 
+Dynamics Support Center, 2009). 
+ 
+V centru za podporo je zaposlenih devet oseb, od tega dva študenta. Vsi zaposleni imajo 
+končano oziroma končujejo izobrazbo ekonomske smeri. Osebje je poleg poznavanja 
+&lt;/p&gt;
+&lt;p&gt;11 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;programa seznanjeno tudi z aktualno problematiko, npr. spremembe DDV, Intrastat, 
+zaključevanje poslovnega leta in podobno (Adacta – Adacta Dynamics Support Center, 
+2009). Zaposleni se stalno izobražujejo v okviru internih izobraževanj in z opravljanjem 
+Microsoftovih certifikatov. 
+ 
+Adacta je kot najuspešnejši svetovalec in implementator poslovnih rešitev Microsoft 
+Navision v Sloveniji tudi članica mednarodne organizaciji Help Desk Institution. 
+ 
+4.2 Metodologija in cilji raziskave 
+ 
+&lt;/p&gt;
+&lt;p&gt;Za primere, ki naj bi povečali razumevanje, širjenje znanja, ustvarjanje hipotez, opredelili 
+vrsto vedenj, pojasnili kupčevo motivacijo, odnos in vedenje ter zagotovili prispevek k 
+prihodnji fazi raziskave, je optimalno uporabiti kvalitativne metode raziskovanja (Webb, 
+1992, str. 113). Kvalitativne metode omogočajo bolj poglobljeno raziskovanje in 
+vključujejo manjše število udeležencev (GfK – Kvalitativne raziskave, 2009). 
+ 
+Globinski intervju je tehnika kvalitativnih raziskav, ki je namenjena razumevanju, 
+temeljitemu iskanju in raziskovanju problemov (Webb, 1992, str. 122). Ta je posebej 
+primerna, kadar je cilj razumeti razloge za vedenje udeležencev in njihova stališča. 
+Poglobljene intervjuje je posebej koristno uporabiti v naslednjih okoliščinah (Webb, 1992, 
+str. 122): 
+&lt;/p&gt;
+&lt;p&gt;• kadar gre za občutljive, stresne teme ali so le te zaupne narave, 
+• kadar je potrebno izvesti podrobno analizo zapletenih situacij, kot so odnosi, 
+&lt;/p&gt;
+&lt;p&gt;prepričanja in čustva, 
+• kadar lahko pritisk povzroči, da se nekateri izpraševanci strinjajo z družbenimi 
+&lt;/p&gt;
+&lt;p&gt;normami, ki pa so v nasprotju z njihovim resničnim vedenjem, 
+• kadar mora raziskovalec pridobiti postopno predstavo o procesu odločanja, kot je 
+&lt;/p&gt;
+&lt;p&gt;na primer nakupno vedenje, 
+• kadar gre za novo, zapleteno situacijo, kjer je glavni namen raziskati in ne meriti. 
+&lt;/p&gt;
+&lt;p&gt; 
+Glavne značilnosti poglobljenega individualnega intervjuja so (GfK – Kvalitativne 
+raziskave,  2009): 
+&lt;/p&gt;
+&lt;p&gt;• ni skupinske dinamike, 
+• ni tekmovalnega ozračja,  
+• več časa je za detajle, 
+• je bolj primerna tehnika za občutljive teme,  
+• veliko število pridobljenih informacij v kratkem času,  
+• možno je uporabiti več stimulativnega materiala. 
+&lt;/p&gt;
+&lt;p&gt; 
+Bregar, Ograjenšek in Bavdaž (2005, str. 85) pravijo, da mora raziskovalec med 
+intervjujem vprašanja postavljati razločno in nevtralno, izpraševanca pa pozorno poslušati 
+&lt;/p&gt;
+&lt;p&gt;12 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;in ne prekinjati. Po potrebi mora postaviti dodatna vprašanja, ki drugače predstavijo temo 
+ali osvetljujejo kak nov vidik. Za ključne koncepte mora raziskovalec preveriti, ali je 
+pravilno razumel izpraševanca, tako da na kratko povzame njegove misli. Pri izvedbi 
+raziskave sem poskušala upoštevati navedene značilnosti dobrega vodenja globinskih in 
+delno strukturiranih intervjujev.  
+ 
+Cilj moje raziskave je ugotoviti pomen posameznih dimenzij kakovosti storitev centra za 
+podporo za njegove porabnike. Dimenzije dobro zaznane kakovosti storitev, katerih pomen 
+za porabnike me zanima, sem določila po Grönroosu (2000, str. 81). Te so strokovnost in 
+izkušenost, odnos in vedenje, dostopnost in prilagodljivost, zanesljivost in vzbujanje 
+zaupanja, ukrepanje ob težavah, storitvena pokrajina ter ugled in verodostojnost. Na 
+podlagi razumevanja zadovoljstva izbranih porabnikov z izvajanjem dimenzij kakovosti 
+storitev centra za podporo bom oblikovala raziskovalne domneve o pomembnosti teh 
+dimenzij za porabnike.  
+ 
+Izbor strank, s katerimi sem izvedla globinske intervjuje, temelji na namernem vzorčenju 
+kot obliki neverjetnostnega vzorčenja. Z izbiro čim bolj različnih enot želim dobiti pregled 
+nad problematiko celotne populacije. V raziskavo so tako vključena podjetja iz različnih 
+dejavnosti, ki najpogosteje uporabljajo storitve centra za podporo, in zaposleni na različnih 
+delovnih mestih.  
+ 
+Na osnovi presoje vodje centra za podporo glede omenjenih kriterijev sem izbrala pet 
+zaposlenih iz različnih podjetjih, ki uporabljajo storitve centra za podporo. 8. julija 2009 je 
+bila po elektronski pošti izbranim porabnikom poslana prošnja za sodelovanje v raziskavi 
+(glej Prilogo 1). Prošnjo je poslal vodja centra za podporo, saj so osebe bolj pripravljene 
+sodelovati v raziskavi, če dobijo prošnjo od vplivnejšega zaposlenega, s katerim imajo stik. 
+Elektronsko sporočilo je vsebovalo moj dopis s pojasnilom o pomenu raziskave in izbiri 
+naslovnika (glej Prilogo 2) ter opomnik za vodenje globinskega intervjuja (glej Prilogo 3). 
+Še isti dan sem dobila odgovor o pripravljenosti za sodelovanje od treh naslovnikov. Z 
+dvema sem se na njuno željo dogovorila za izvedbo pogovora naslednji dan. Tretja oseba 
+pa je predlagala izvedbo intervjuja v tednu, ki je sledil. Predlagan termin sem potrdila. 
+Naslednji dan sem dobila odgovor še od enega naslovnika in se po telefonu dogovorila za 
+pogovor v začetku sledečega tedna. Ena oseba na prošnjo ni odgovorila.  
+ 
+Tako so bila v vzorec vključena štiri podjetja, ki se ukvarjajo z različnimi dejavnostmi, in 
+sicer z veleprodajo naftnih derivatov, s prodajo, proizvodnjo in inženiringom nerjavečih 
+materialov, z izdajanjem revij ter z distribucijo rezervnih delov za področje industrijskega 
+vzdrževanja. Delovna mesta izbranih oseb so vodja računovodstva, informatik in 
+računovodja. Zaradi zagotovljene anonimnosti imen podjetij in oseb ne navajam. 
+ 
+Pred izvedbo globinskih intervjujev sem sestavila opomnik za vodenje globinskega 
+intervjuja (glej Prilogo 3) z glavnimi iztočnicami za pogovor. Opomnik je delno 
+&lt;/p&gt;
+&lt;p&gt;13 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;strukturiran, sestavljen iz osmih glavnih tem in ter dodatnih podtem. Teme v opomniku 
+pokrivajo sedem dimenzij kakovosti storitev, ki so opredeljene v cilju raziskave. Seznam 
+tem pokriva naslednja glavna problemska področja:  
+&lt;/p&gt;
+&lt;p&gt;• seznanitev s pristopom podjetja k uporabi storitev centra za podporo (začetek 
+uporabe storitev, primeri uporabe storitve), 
+&lt;/p&gt;
+&lt;p&gt;• pridobitev mnenja glede strokovnosti in izkušenosti svetovalcev (vsebinsko in 
+tehnično znanje svetovalcev),  
+&lt;/p&gt;
+&lt;p&gt;• pridobitev mnenja glede odnosa in vedenja svetovalcev, 
+• pridobitev mnenja glede dostopnosti in prilagodljivosti (kakovost telefonskih 
+&lt;/p&gt;
+&lt;p&gt;povezav, ustreznost delovnega časa in lokacije, razpoložljivost svetovalcev, 
+prilagajanje željam in zahtevam), 
+&lt;/p&gt;
+&lt;p&gt;• pridobitev mnenja glede zanesljivosti in vzbujanja zaupanja ter rokov izvedbe 
+storitev, 
+&lt;/p&gt;
+&lt;p&gt;• pridobitev mnenja glede ukrepanja svetovalcev v nepredvidenih situacijah, 
+• pridobitev mnenja glede storitvene pokrajine (urejenost in opremljenost prostorov, 
+&lt;/p&gt;
+&lt;p&gt;svetloba in podobno), 
+• pridobitev mnenja glede ugleda in verodostojnosti.  
+&lt;/p&gt;
+&lt;p&gt; 
+Opomnik je služil kot iztočnica za pogovor, da na ključne vsebine nisem pozabila. Vsebino 
+vprašanj sem prilagajala sproti, glede na predhodni odgovor intervjuvanca. Največji 
+poudarek je bil na pridobitvi mnenja o izvajanju posameznih dimenzij kakovosti storitev 
+centra za podporo. Naslovnikom je bil v elektronski prošnji za sodelovanje posredovan 
+tudi opomnik intervjuja kot možnost, da se na intervju pripravijo. Vnaprej posredovan 
+seznam tem pozitivno vpliva na samozavest intervjuvanca in sproščenost med intervjujem 
+(Bregar, Ograjenšek &amp;amp; Bavdaž, 2005, str. 84). 
+ 
+4.3 Analiza in ugotovitve raziskave 
+ 
+&lt;/p&gt;
+&lt;p&gt;Splošen proces analize kvalitativnih podatkov obsega zbiranje podatkov iz različnih virov, 
+urejanje in strukturiranje podatkov, prikaz podatkov ter preverjanje podatkov s pomočjo 
+drugih virov (Malhotra &amp;amp; Birks, 2007, str. 236-247). Bregar, Ograjenšek in Bavdaž (2005, 
+str. 158-159) povzemajo značilnosti analize kvalitativnih podatkov takole: 
+&lt;/p&gt;
+&lt;p&gt;• poudarjen pomen konteksta za razumevanje ekonomskih in poslovnih pojavov, 
+• poudarjen pomen študij primera, 
+• neposredni značaj analize kvalitativnih podatkov, 
+• induktiven značaj analize kvalitativnih podatkov, 
+• procesnost analize kvalitativnih podatkov, 
+• interpretacija z vidika zaznav opazovanih ljudi, 
+• visoka veljavnost in nizka zanesljivost (ponovljivost) analize kvalitativnih 
+&lt;/p&gt;
+&lt;p&gt;podatkov, 
+• specifična vloga raziskovalca v okviru raziskovalne situacije. 
+&lt;/p&gt;
+&lt;p&gt;14 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;9. in 14. julija 2009 sem izvedla štiri globinske intervjuje z porabniki storitev centra za 
+podporo. Izbrala sem osebe z različnimi funkcijami v podjetju in sicer vodji 
+računovodstva, informatika in računovodjo. Pogovore sem opravila vsakokrat z eno osebo. 
+Da bi pripravila natančne zapise intervjujev in da bi se med pogovorom lažje osredotočila 
+na poslušanje odgovorov ter postavljanje vprašanj, sem pred pogovorom izpraševance 
+prosila za dovoljenje za snemanje. Trije udeleženci so snemanje pogovora dovolili, eden pa 
+zaradi slabih izkušenj na snemanje ni pristal. Trije intervjuji so trajali pol ure, eden pa 
+zaradi zapisovanja odgovorov 45 minut. Pripravila sem tri prepise intervjujev na osnovi 
+zvočnih zapisov in en zapis intervjuja (glej Prilogo 4), na podlagi katerih sem naredila 
+analizo.  
+ 
+V nadaljevanju prikazujem rezultate raziskave po temah predstavljenih v opisu opomnika 
+za vodenje globinskega intervjuja. V raziskavo sem vključila štiri porabnike storitev centra 
+za podporo, kar pomeni, da zaradi majhnega števila vzorčnih enot rezultatov o kakovosti 
+storitev centra za podporo ne smemo posploševati na vse porabnike. Z raziskavo 
+ugotavljam le, katere od dimenzij kakovosti storitev so strankam pomembne. 
+ 
+Kot izhodišče za pogovor sem poskušala ugotoviti, koliko časa podjetja uporabljajo 
+storitve centra za podporo in v kakšnih primerih se obračajo nanj. Tri podjetja storitve 
+centra za podporo uporabljajo od njegovega začetka leta 2004. Eno podjetje pa od začetka 
+uporabe programa Navision v letu 2005. V enem do podjetij so imeli na začetku uporabe 
+programa Navision drugo podporo. Zaradi neprofesionalnega pristopa in le enega 
+svetovalca so leta 2002 prešli na storitve podjetja Adacta. Primeri, v katerih udeleženci 
+uporabljajo storitve centra za podporo, se razlikujejo glede na njihovo delovno mesto. 
+Informatik se na center za podporo obrne v primeru vsebinskih vprašanj in naročanja 
+dodelav programa. Vodji računovodstva uporabljata storitve centra za podporo za 
+naročanje dodelav programa in svetovanje glede delovanja teh dodelav. Eden od njiju se na 
+center za podporo obrne tudi v primeru tehničnih težav s programom, saj v podjetju nimajo 
+zaposlenega informatika. Računovodja se na center za podporo obrne tako v primeru 
+tehničnih kot tudi vsebinskih težav. 
+ 
+Strokovnost in izkušenost  
+Eden od udeležencev meni, da je znanje svetovalcev dobro, saj vedno dobi odgovore na 
+težave. Njegove izkušnje so, da znajo svetovalci glede tehničnih težav odgovoriti takoj, 
+glede vsebinskih pa se posvetujejo med sabo. Trije udeleženci z znanjem svetovalcev niso 
+zadovoljni. Vsi so poudarili problem neznanja svetovalcev glede specifičnega delovanja 
+programa za njihovo podjetje. Standardni odgovori na določene težave za njih ne veljajo in 
+si z njimi ne morejo pomagati. Eden od teh udeležencev pravi, da če svetovalec, ki pozna 
+dodelave programa za njihovo podjetje, ni na voljo (to je le eden), ne dobi odgovora na 
+težave. Drugi pravi, da se v takih primerih ne obrača na center za podporo, ampak direktno 
+na svetovalce, za katere ve, da poznajo njihove specifične dodelave programa (niso 
+zaposleni v centru na podporo). Na center za podporo se obrne le v primeru splošnih težav, 
+&lt;/p&gt;
+&lt;p&gt;15 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;ko ne gre za prilagoditve programa njihovim potrebam. Enega od udeležencev moti, da isto 
+težavo rešuje več svetovalcev. Meni, da zato, ker jo nekateri svetovalci ne znajo rešiti do 
+konca. »Neznanja ne bomo plačevali«, je bil njegov komentar.  
+ 
+Mnenje o izkušenosti svetovalcev je podobno kot pri odgovorih o njihovem znanju. 
+Udeleženec, ki je z znanjem svetovalcev zadovoljen, prav tako meni, da so svetovalci 
+izkušeni. Dva intervjuvanca menita, da imajo svetovalci dovolj izkušenj s programom na 
+splošno, vendar premalo izkušenj s specifičnimi dodelavami v programu. Eden od 
+udeležencev pa zaradi reševanja iste zadeve s strani več svetovalcev meni, da imajo le-ti 
+premalo izkušenj.  
+ 
+Glede na to, da so trije udeleženci pomanjkljivo znanje svetovalcev omenili tudi pri 
+nekaterih drugih temah in ga posebno poudarili na koncu intervjuja, sklepam, da je 
+strankam ta dimenzija kakovosti zelo pomembna. 
+ 
+Odnos in vedenje  
+Z odnosom in vedenjem svetovalcev so vsi udeleženci zadovoljni. Svetovalce so označili z 
+izrazi prijazni, korektni, se trudijo, ustrežljivi. Dva od udeležencev sta pri tej temi ponovno 
+omenila pomanjkljivo znanje svetovalcev. Verjetno zato, ker si temi sledita ena za drugo, 
+saj ta dimenzija ni povezana z znanjem. Pri zadnji temi o ugledu in verodostojnosti so trije 
+udeleženci izrazili zadovoljstvo s storitvami na splošno in pri tem močno poudarili dober 
+odnos zaposlenih. Na podlagi tega sklepam, da je ta dimenzija kakovosti strankam zelo 
+pomembna.  Prav tako menim, da sta prav dober odnos in vedenje zaposlenih tisto, zaradi 
+česar so porabniki s storitvami centra za podporo na splošno zadovoljni.  
+ 
+Dostopnost in prilagodljivost 
+Mnenje glede ustreznosti delovnega časa centra za podporo je različno. Dva udeleženca 
+nad delovnim časom nimata pripomb. Eden od njiju dela tudi do poznih večernih ur, 
+vendar takrat problem posreduje po elektronski pošti. Mislim, da predvsem zaradi narave 
+njunega dela delovni čas tema udeležencema ni pomemben. Druga dva udeleženca z 
+delovnim časom nista zadovoljna. Njuno mnenje je, da bi moral biti center za podporo na 
+voljo vsaj od 8. ure, saj z delom pričenjata bolj zgodaj in morata v primeru težav čakati do 
+8:30. Eden od njiju se je izrazil, »preden je težava rešena, je ura že 9:30«. Drugi predlaga, 
+da bi bil lahko eden od svetovalcev dežuren od 8. do 16. ure, saj je to delovni čas večine 
+podjetij. Pomembnost te dimenzije kakovosti je po mojem mnenju odvisna predvsem od 
+narave dela strank. Uporabnikom, ki pri svojem delu vedno potrebujejo program Navision 
+in je njihovo delo odvisno od njegovega delovanja, je delovni čas zelo pomemben. 
+ 
+Z razpoložljivostjo svetovalcev so vsi štirje udeleženci zadovoljni, saj vedno dobijo tistega, 
+ki ga želijo. Pri tem sta delovni čas ponovno poudarila dva od udeležencev, ki z njim nista 
+zadovoljna. Ker delovni čas vpliva tudi na razpoložljivost svetovalcev, se tudi tu kaže 
+njegov pomen določenim porabnikom. 
+&lt;/p&gt;
+&lt;p&gt;16 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Trije udeleženci imajo s telefonskimi povezavami težave. »Sliši se, kot da bi bili v 
+Kazahstanu«, pravi eden. Drugi pravi, da se včasih sliši slabo, vendar ko pokliče ponovno, 
+je v redu. Enemu od udeležencev pa se zdi problem v tem, da ob prekinitvi telefonskih 
+povezav tudi elektronska pošta ne deluje. En udeleženec je s telefonskimi povezavami 
+zadovoljen. Iz pogovorov nisem razbrala, da bi udeleženci kakovosti povezav pripisovali 
+velik pomen. Vendar mislim, da je zaradi tega, ker je poleg elektronske pošte telefonska 
+povezava ključni vir komunikacije strank s centrom za podporo, kakovost telefonskih 
+povezav pomembna. 
+  
+Mnenja sogovornikov glede ustreznosti lokacije Adacte so različna. Eden od udeležencev 
+pogovora z lokacijo ni zadovoljen. Ker je njihovo podjetje v centru mesta in sam ne vozi 
+avta, mu je odveč iti na sedež Adacte. Dva udeleženca še nista bila na sedežu. Eden od 
+njiju se glede lokacije ni opredelil, drugi pa meni, da je lokacija v redu, ker je na obrobju 
+Ljubljane in tako odmaknjena od gneče. Eden od udeležencev je z lokacijo zadovoljen. 
+»Zaradi urejenega parkirišča nimam nikoli težav s parkiranjem«, poudarja pri tem. Kot sem 
+že omenila komunikacija med porabniki storitev in centrom za podporo večinoma poteka 
+prek telefona in elektronske pošte. Tudi to, da kljub večletni uporabi storitev centra za 
+podporo večina sogovornikov še ni bila oziroma je bila malokrat na sedežu Adacte, kaže 
+na to, da ustreznost lokacije porabnikom centra za podporo ni pomembna. 
+ 
+Najbolj enotni so odgovori udeležencev glede prilagajanja željam in zahtevam. Vsi so s to 
+dimenzijo kakovosti storitev zadovoljni: »Se potrudijo.«, »Nikoli me ni nihče skušal 
+prepričati, da se nekaj, kar smo si zamislili, v Navisionu ne da narediti.«, »Vedno 
+upoštevajo naše želje in jih rešijo na tak način, kot mi želimo.«, »Tudi če nekaj, kar sem si 
+zamislila ni izvedljivo, predlagajo drugačen način, kako bi se to dalo rešiti.« Eden od 
+udeležencev je zaradi slabih izkušenj poudaril, da je s prilagodljivostjo njihovim željam 
+zadovoljen, če sodeluje s tistimi zaposlenimi, katere želi. Vsi sogovorniki so med 
+pogovorom omenili, da imajo veliko specifičnih dodelav programa in da radi obstoječe 
+funkcionalnosti priredijo v skladu s svojimi potrebami. Prav tako razvoj podjetij zahteva 
+spremembo obstoječih in dodajanje novih funkcionalnosti, zato sem mnenja, da je ta 
+dimenzija kakovosti strankam zelo pomembna. Zaradi zadovoljstva s prilagodljivostjo 
+specifičnim željam in zahtevam eden od udeležencev veliko ljudem priporoča Adacto. 
+ 
+Zanesljivost in vzbujanje zaupanja 
+Pri dveh odgovorih glede zanesljivosti in vzbujanja zaupanja pride ponovno do izraza 
+pomembnost znanja. Dva od udeležencev, ki nista zadovoljna z znanjem svetovalcev, sta 
+to izpostavila kot razlog, zaradi katerega se na svetovalce v centu za podporo ne zaneseta. 
+Eden od njiju se zanese le na enega svetovalca, ki pozna njihove specifične dodelave 
+programa. Dva udeleženca se na svetovalce zaneseta in jim zaupata: »Vedno držijo 
+obljube.« in »Nikoli ni nihče izkoristil mojega zaupanja.« Oba kot razlog zanesljivosti 
+navajata tudi vrnjene klice v primeru, da svetovalec ob njihovem klicu ni na voljo oziroma 
+klic svetovalca, s katerim stranko obvesti o rešitvi težave.  
+&lt;/p&gt;
+&lt;p&gt;17 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Pomemben element zanesljivosti in vzbujanja zaupanja je tudi dogovorjen čas izvedbe 
+storitev. Trije udeleženci glede dogovorjenih rokov niso zadovoljni, saj pravijo, da se jih 
+svetovalci ne držijo: »Če jih nekdo ne opominja, dajo stvar kar malo na stran.« Eden od 
+udeležencev pa je z dogovorjenimi roki zadovoljen. Pravi, da so problemi urejeni »v 
+nekem razumnem roku«. Držanje obljubljenih rokov je po mojem mnenju strankam zelo 
+pomembno, saj so roki »postavljeni z razlogom«. Prav tako morajo porabniki 
+»opravičevati roke svojim šefom« in prestavljanje le-teh lahko povzroči velike težave: »en 
+mesec brez podatkov«. 
+ 
+Ukrepanje ob težavah 
+Pri tej dimenziji kakovosti storitev me je zanimalo, kako svetovalci v centru za podporo 
+ukrepajo v nepredvidljivih situacijah. Eden od udeležencev meni, da se svetovalci 
+potrudijo in da je problem pri sami organizaciji in zagotovitvi programerjev. Trije 
+udeleženci pa se v takih primerih ne obračajo na center za podporo. Raje se obrnejo na 
+projektnega vodjo oziroma svetovalca, ki dobro pozna njihovo poslovanje. »Ne obračam se 
+na support center, ampak direktno na vodjo projekta, ker mu ni potrebno podrobno 
+razlagati vse od začetka in on točno ve, za kaj se gre.« Ta udeleženec meni, da je problem 
+v tem, da znanje ni enakomerno razporejeno. Ker gre za primere v katerih je potrebno 
+nemudoma ukrepati, uporabniki pri tem »ne izgubljajo energije« skozi center za podporo. 
+Naloga centra za podporo je takojšnja pomoč ob manjših operativnih težavah, v primeru 
+zahtevnejših težav pa zagotoviti, da bodo nalogo prevzeli ustrezni svetovalci. Tudi 
+porabniki se zavedajo, da v nepredvidljivih situacijah že zaradi same pomembnosti in 
+odgovornosti problema svetovalci ne morejo ukrepati sami in se zato tudi sami v takih 
+primerih raje obrnejo na osebe, ki so na odgovornejšem položaju. 
+ 
+Storitvena pokrajina  
+Dveh udeležencev o storitveni pokrajini nisem spraševala, saj še nista bila v prostorih 
+Adacte. Ostala dva sta s fizičnim okoljem zadovoljna. Pravita, da je »lepo, dosti lepše kot 
+pri nas« in »na visokem nivoju«. Svetovalci v centru za podporo so strankam na voljo 
+predvsem prek telefonske povezave in elektronske pošte. Stranke zelo redko pridejo na 
+sedež Adacte glede storitev centra za podporo. Tudi kratka odgovora dveh udeležencev na 
+to vprašanje kažeta, da je ta dimenzija kakovosti storitev porabnikom najmanj pomembna. 
+ 
+Ugled in verodostojnost  
+Poslovanje porabnikov s centrom za podporo in poštenost pri tem sta me zanimala pri 
+zadnji temi pogovora. Trije udeleženci so na splošno s poslovanjem s centrom za podporo 
+in z zaračunavanjem storitev zadovoljni. Dvema od njiju se zdi v redu, da dobita v začetku 
+meseca seznam opravljenih storitev in njihovo zaračunljivost za prejšnji mesec, tako da 
+lahko vsa nesoglasja rešijo že pred izstavljenim računom. Eden od sogovornikov je omenil, 
+da veliko ljudem priporoča Adacto zaradi njihove prilagodljivosti specifičnim zahtevam 
+strank (tu se zopet kaže pomembnost dimenzije prilagodljivosti). Eden od udeležencev pa s 
+poslovanjem s centrom za podporo ni zadovoljen. Meni, da ni pošteno zaračunavati 
+&lt;/p&gt;
+&lt;p&gt;18 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;storitve, pri katerih ne dobiš odgovora na težavo. »Moral sem se znajti sam in najti ključne 
+ljudi v podjetju, ki mi lahko pomagajo.« Tako se na center za podporo obrne le v primeru 
+splošnih težav. Vsi udeleženci so omenili tudi visoke cene storitev. »Če bi bile cene 
+storitev nižje, bi se večkrat obrnila na support center tudi glede težav, ki jih lahko rešim 
+sama, vendar mi vzamejo veliko časa.« Mislim, da je poštenost poslovanja porabnikom 
+pomembna, saj jih lahko dvom v le-to odvrne od uporabe centra za podporo. 
+  
+Na koncu vsakega intervjuja sem povzela glavne misli udeleženca, ki so bile omenjene 
+med pogovorom. Vsi trije intervjuvanci, ki niso zadovoljni z znanjem svetovalcev, so to na 
+koncu intervjuja poudarili kot največji problem. Eden od udeležencev bi se veliko raje 
+obračal na center za podporo, če bi vedel, da svetovalci poznajo njihove dodelave v 
+programu Navision. Prav tako meni, da bi si lahko svetovalci v centru za podporo razdelili 
+projekte in »živeli in rastli s temi strankami«. Eden od udeležencev je celo predlagal 
+rešitev, da bi se ob prejemu klica stranke svetovalcem izpisale njene specifične dodelave v 
+programu in posebnosti, kot imajo to urejeno v nekaterih klicnih centrih. Eden od 
+udeležencev je zadovoljen z vsemi dimenzijami, razen z delovnim časom, kar je poudaril 
+tudi na koncu pogovora. Tudi zadovoljstvo s prilagajanjem svetovalcev željam in zahtevam 
+strank je bilo na koncu pogovora omenjeno s strani enega od udeležencev. 
+ 
+Podjetju predlagam, da posveti večjo pozornost znanju svetovalcev glede specifičnih 
+dodelav programa Navision za stranke in spoštovanju dogovorjenih rokov. Ker je strank in 
+s tem tudi specifičnosti poslovanja veliko, ni mogoče, da bi vsi svetovalci poznali posebne 
+dodelave programa za vse stranke. Vsekakor pa bi moral več kot le en svetovalec poznati 
+njihove specifičnosti. Svetovalci si lahko razdelijo projekte tako, da vsaj dva ali trije 
+podrobno preučijo specifičnosti določene stranke in jih spremljajo sproti. Tako bodo 
+stranke tudi v primeru odsotnosti enega od svetovalcev dobile odgovore na svoje težave. 
+Če svetovalci poznajo dodelave programa in specifične želje določenih strank, lahko tudi 
+ostalim porabnikom v primeru podobnih želja predlagajo že odkrite rešitve. Glede 
+izpolnjevanja dogovorjenih rokov pa so svetovalci odvisni predvsem od programerjev. 
+Šele ko ti naredijo dodelavo programa na bazi, lahko svetovalci testirajo pravilnost 
+delovanja in napišejo navodila za uporabo. Mislim, da bi bilo glede tega potrebno 
+predvsem izboljšanje organizacije razvojnega tima. 
+ 
+Na osnovi analize podatkov pridobljenih z globinskimi intervjuji s štirimi porabniki 
+storitev centra za podporo sem oblikovala naslednje domneve o pomembnosti dimenzij 
+kakovosti storitev za porabnike centra za podporo: 
+ 
+&lt;/p&gt;
+&lt;p&gt;• Domneva 1: Strokovnost svetovalcev glede specifičnega delovanja programa za 
+stranko je porabnikom centra za podporo zelo pomembna, večina porabnikov pa z 
+njo ni zadovoljna. 
+&lt;/p&gt;
+&lt;p&gt;19 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Stranke centra za podporo imajo veliko specifičnih dodelav programa, zato jim standardni 
+odgovori na težave ne zadostujejo. Slabo poznavanje dodelav programa s strani 
+svetovalcev vpliva tudi na zaupanje porabnikov le-tem.  
+ 
+&lt;/p&gt;
+&lt;p&gt;• Domneva 2: Prilagodljivost željam in zahtevam je porabnikom storitev centra za 
+podporo zelo pomembna, večina pa jih je z njo zadovoljna. 
+&lt;/p&gt;
+&lt;p&gt;Različnost poslovanja in razvoj podjetij zahtevata spremembo obstoječih in dodajanje 
+novih funkcionalnosti v programu. Zavzetost svetovalcev in predlogi rešitev pa sta glavna 
+razloga za zadovoljstvo porabnikov s to dimenzijo kakovosti storitev.  
+&lt;/p&gt;
+&lt;p&gt; 
+• Domneva 3: Odnos in vedenje svetovalcev je dimenzija, ki močno vpliva na celotno 
+&lt;/p&gt;
+&lt;p&gt;zadovoljstvo s storitvami centra za podporo.  
+Na splošno so porabniki s storitvami centra za podporo zadovoljni. Glavna razloga za to pa 
+sta prijaznost in ustrežljivost zaposlenih. 
+ 
+&lt;/p&gt;
+&lt;p&gt;• Domneva 4: Izpolnjevanje dogovorjenih rokov je porabnikom storitev centra za 
+podporo pomembno, večina porabnikov pa s to dimenzijo ni zadovoljna. 
+&lt;/p&gt;
+&lt;p&gt;Zamujanje rokov ima lahko za porabnike pomembne posledice (ostanejo brez pomembnih 
+podatkov, ne oddajo podatkov pravočasno ipd.). Porabniki storitev centra za podporo z 
+izpolnjevanjem dogovorjenih rokov niso zadovoljni, saj se jih svetovalci v centru za 
+podporo pogosto ne držijo. 
+ 
+&lt;/p&gt;
+&lt;p&gt;SKLEP  
+ 
+&lt;/p&gt;
+&lt;p&gt;Pregled literature kaže, da je kakovost storitev eden od dejavnikov, ki vpliva na 
+zadovoljstvo porabnikov. Le-ta pa je osnova za njihovo zvestobo. Storitve po prodaji so 
+postale bistvenega pomena za doseganje zadovoljstva strank, zato je kakovostno izvajanje 
+le-teh še toliko bolj pomembno.  
+ 
+V raziskovalnem delu diplomske naloge sem se osredotočila na ugotavljanje pomena 
+dimenzij kakovosti storitev za porabnike storitev centra za podporo. Kakovost pomembnih 
+dimenzij ima namreč večji vpliv na zadovoljstvo porabnikov in posledično na njihovo 
+zvestobo. Opravila sem kvalitativno raziskavo na vzorcu štirih porabnikov storitev centra 
+za podporo. Upam, da bodo ugotovitve podjetju koristile in prispevale k razvoju storitev 
+centra za podporo.  
+ 
+Iz pogovorov sem izvedela mnenja udeležencev o izvajanju dimenzij kakovosti storitev 
+centra za podporo in njihov pomen za porabnike. Strokovnost oziroma znanje glede 
+specifičnih dodelav programa je bilo omenjeno pri več temah in poudarjeno v povzetkih 
+pogovorov. Zadovoljstvo s storitvami centra za podporo na splošno je bilo utemeljeno z 
+dobrim odnosom in vedenjem svetovalcev. Pomembnost prilagodljivosti svetovalcev se 
+kaže v velikem številu specifičnih zahtev in dodelav programa za stranke. Dogovorjeni 
+&lt;/p&gt;
+&lt;p&gt;20 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;roki pa so postavljeni z razlogom in prestavljanje le-teh lahko porabnikom povzroči težave. 
+Tako rezultati raziskave kažejo, da so izbranim porabnikom najpomembnejše dimenzije 
+kakovosti storitev strokovnost, odnos in vedenje, prilagodljivost zahtevam in željam ter 
+dogovorjeni roki. Mnenja udeležencev glede izvajanja pomembnih dimenzij kakovosti 
+storitev so precej usklajena. S strokovnostjo svetovalcev in držanjem dogovorjenih rokov 
+porabniki storitev centra za podporo niso zadovoljni. Večina jih pravi, da svetovalci ne 
+poznajo njihovih specifičnih dodelav programa in ne izpolnjujejo dogovorjenih rokov. 
+Odnos in vedenje ter prilagodljivost željam in zahtevam pa sta dimenziji, s katerima so 
+porabniki zadovoljni. Prijaznost, korektnost, ustrežljivost, upoštevanje želja in predlogi 
+rešitev svetovalcev so razlogi za njihovo zadovoljstvo. Na podlagi teh ugotovitev so 
+podane tudi raziskovalne domneve o pomembnosti dimenzij kakovosti storitev za 
+porabnike storitev centra za podporo.  
+ 
+Podjetje bi moralo večjo pozornost nameniti znanju svetovalcev in držanju dogovorjenih 
+rokov. Več svetovalcev bi moralo podrobneje poznati specifične dodelave programa za 
+stranke, potrebno pa bi bilo tudi izboljšanje organizacije razvojnega tima. Ti dve dimenziji 
+sta porabnikom pomembni. Tako lahko izboljšanje kakovostni teh dimenzij močno vpliva 
+na zadovoljstvo strank in na dobre dolgoročne odnose z njimi. Center za podporo nudi 
+svoje storitve od aprila 2004, vendar bo potrebno za visoko kakovost njegovih storitev 
+vložiti še kar nekaj truda. Dober odnos in vedenje svetovalcev ter prilagodljivost 
+porabnikom pa sta dimenziji, ki že sedaj kažeta na dobro izvajanje storitev centra za 
+podporo.  
+&lt;/p&gt;
+&lt;p&gt;21 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;LITERATURA IN VIRI 
+ 
+&lt;/p&gt;
+&lt;p&gt;1. Adacta Dynamics Support Center. Najdeno 20. junija 2009 na spletnem naslovu 
+http://www.adacta.si/index.asp?content=Resitve&amp;amp;submenu=NavisionSupportCenter&amp;amp;l
+ang=SI 
+&lt;/p&gt;
+&lt;p&gt;2. Armistead, C. G., &amp;amp; Clark, G. (1992). Customer service and support: Implementing 
+effective strategies. London: Pitman. 
+&lt;/p&gt;
+&lt;p&gt;3. Bregar, L., Ograjenšek, I., &amp;amp; Bavdaž, M. (2005). Metode raziskovalnega dela za 
+ekonomiste: Izbrane teme. Ljubljana: Ekonomska fakulteta. 
+&lt;/p&gt;
+&lt;p&gt;4. Cavalieri, S., Gaiardelli, P., &amp;amp; Ierace, S. (2007). Aligning strategic profiles with 
+operational metrics in after-sales service. International Journal of Productivity &amp;amp; 
+Performance Management, 56(5/6), 436-455. 
+&lt;/p&gt;
+&lt;p&gt;5. Forooz, F., &amp;amp; Rostamidehbaneh, S. (2006). After-sales service necessity and 
+effectiveness. [master thesis]. Lulea: Lulea University of technology. 
+&lt;/p&gt;
+&lt;p&gt;6. Gallagher, T., Mitchke, M. D., &amp;amp; Rogers, M. C. (2005). Profiting from spare parts. The 
+McKinsey Quarterly, 2. 
+&lt;/p&gt;
+&lt;p&gt;7. Goffin, K. (1999). Customer support: A cross-industry study of distribution channels 
+and strategies. International Journal of Physical Distribution &amp;amp; Logistics Management, 
+29(6),  374-397. 
+&lt;/p&gt;
+&lt;p&gt;8. Goffin, K., &amp;amp; New, C. (2001). Customer support and new product development: An 
+exploratory study. International Journal of Operations &amp;amp; Production Management, 
+21(3), 275-301. 
+&lt;/p&gt;
+&lt;p&gt;9. Grönroos, C. (2000). Service management and marketing: A Customer Relationship 
+Management Approach (2nd ed.). New York: John Wiley &amp;amp; Sons. 
+&lt;/p&gt;
+&lt;p&gt;10. Kotler, P. (2004). Management trženja (11. izdaja). Ljublajna: GV Založba. 
+11. Kvalitativne raziskave. Najdeno 29. junija 2009 na spletnem naslovu 
+&lt;/p&gt;
+&lt;p&gt;http://www.gfk.si/3_1_kvalit_raz.php 
+12. Levitt, T. (1983). After the sale is over… Harvard Business Review, 61(5), 87-93. 
+13. Loomba, A. P. S. (1996). Linkages between product distribution and service support 
+&lt;/p&gt;
+&lt;p&gt;functions. International Journal of Physical Distribution &amp;amp; Logistics Management, 
+26(4), 4-22. 
+&lt;/p&gt;
+&lt;p&gt;14. Lovelock, C., &amp;amp; Wirtz, J. (2007). Services Marketing. People, Technology, Strategy 
+(6th ed.). London: Prentice Hall. 
+&lt;/p&gt;
+&lt;p&gt;15. Malhotra, N. K., &amp;amp; Birks, D. F. (2007). Marketing Research: An Applied Approach (3th 
+ed.). Harlow: Prentice Hall. 
+&lt;/p&gt;
+&lt;p&gt;16. Odekerken-SchroÈder, G., van Birgelen, M., Lemmink, J., de Ruyter, K., &amp;amp; Wetzels, 
+M. (2000). Moments of sorrow and joy: An empirical assessment of the 
+complementary value of critical incidents in understanding customer service 
+evaluations. European Journal of Marketing, 34(1/2), 107-125. 
+&lt;/p&gt;
+&lt;p&gt;17. Oliver, R. (1999). Whence Consumer Loyalty? Journal of Marketing, 63, 33-44.  
+&lt;/p&gt;
+&lt;p&gt;22 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;18. Rigopoulou, I. D., Chaniotakis, I. E., Lymperopoulos, C., &amp;amp; Siomkos, G. I. (2008). 
+After-sales service qualityas an antecedent of customer satisfactio: The case of 
+electronic appliances. Managing Service Quality, 18(5), 512-527. 
+&lt;/p&gt;
+&lt;p&gt;19. Saccani, N., Songini, L., &amp;amp; Gaiardelli, P. (2006). The role and performance 
+measurement of after-sales in the durable consumer goods industries: An empirical 
+study. International Journal of Productivity and Performance Management, 55(3/4), 
+259-283. 
+&lt;/p&gt;
+&lt;p&gt;20. Schneider, B., &amp;amp; White, S. S. (2003). Service quality: research perspectives. Thousand 
+Oaks: Sage. 
+&lt;/p&gt;
+&lt;p&gt;21. Viardot, E. (2005). Exploiting the Full Potential of After-Sales Market. The Pragmatic 
+Marketer, 3(3), 22-26. 
+&lt;/p&gt;
+&lt;p&gt;22. Webb, J. R. (1992). Understanding and Designing Marketing Research. London: 
+Dryden Press. 
+&lt;/p&gt;
+&lt;p&gt;23. Zeithaml, V. A., &amp;amp; Bitner, M. J. (1996). Services marketing. Singapore: McGraw-Hill. 
+ 
+ 
+ 
+ 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;23 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;PRILOGE 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;KAZALO PRILOG  
+&lt;/p&gt;
+&lt;p&gt;Priloga 1: Prošnja za sodelovanje v raziskavi (elektronsko sporočilo) ......................................1 
+&lt;/p&gt;
+&lt;p&gt;Priloga 2: Dopis ..........................................................................................................................2 
+&lt;/p&gt;
+&lt;p&gt;Priloga 3: Opomnik za vodenje globinskega intervjuja .............................................................3 
+&lt;/p&gt;
+&lt;p&gt;Priloga 4: Globinski intervjuji ....................................................................................................4 
+&lt;/p&gt;
+&lt;p&gt; 
+  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Priloga 1: Prošnja za sodelovanje v raziskavi (elektronsko sporočilo) 
+ 
+Pozdravljeni, 
+ 
+Na vas se obračamo s prošnjo za pomoč naši zaposleni Jani Kolenc pri raziskovalnem delu 
+diplomske naloge, ker smo prepričani, da bi nam, glede na vsebino naloge, vaša pomoč 
+lahko obojestransko koristila.  
+ 
+Jana, ki je kot študentka na Adacti zaposlena od februarja 2008 (svetovalka za Navision na 
+področju plač in kadrovske evidence), mora za potrebe diplomske naloge izvesti pogovor s 
+strankami Adactinega support centra. V raziskovalnem delu diplomske naloge preučuje 
+pomen storitev po prodaji za porabnike storitev Adactinega support centra. 
+ 
+Podrobnejše informacije glede opravljenega pogovora si lahko preberete v njenem dopisu, 
+ki vam ga pošiljamo v priponki. Sodelavka bi vas, ob vaši pripravljenosti za pomoč, 
+kontaktirala glede dodatnih informacij in uskladitve termina pogovora. 
+  
+Hvala za pomoč in lep pozdrav, 
+ 
+Elektronski podpis vodje centra za podporo 
+&lt;/p&gt;
+&lt;p&gt;1 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Priloga 2: Dopis 
+ 
+Jana Kolenc                                                                                                                          
+jana.kolenc@adacta.si      Ljubljana, 6.7.2009 
+ 
+»Podjetje«                                                                                                                                     
+»Ime in priimek stranke«                                                                                                                 
+»e-mail« 
+ 
+Spoštovani! 
+ 
+Sem študentka Ekonomske fakultete v Ljubljani in pripravljam diplomsko delo, v katerem 
+preučujem pomen storitev po prodaji za porabnike storitev informacijske tehnologije. V 
+raziskovalnem delu diplomske naloge želim preučiti, katere dimenzije kakovosti storitev so 
+porabnikom storitev Adacta support centra pomembne. Pri tem vas vljudno prosim za 
+pomoč.  
+ 
+S pomočjo pogovora s strankami, ki najpogosteje uporabljate storitve Adactinega support 
+centra, želim pridobiti vaše mnenje glede izvajanja dimenzij kakovosti njegovih storitev. 
+Teme pogovora so vam bile poslane v priponki. Ker v Adacti tovrstne raziskave še niso 
+izvedli, bo vaše sodelovanje prispevalo k razvoju storitev Adactinega support centra. 
+ 
+Raziskava je anonimna, zato obljubljam, da vaše ime in podjetje ne bosta nikjer 
+imenovana. Pogovor bo predvidoma trajal od 0,5 do 1 ure.  
+ 
+Za vaš čas in sodelovanje se vam vnaprej najlepše zahvaljujem. 
+ 
+Lep pozdrav 
+ 
+Jana Kolenc 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;2 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="mailto:jana.kolenc@adacta.si"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Priloga 3: Opomnik za vodenje globinskega intervjuja 
+ 
+• Uvod 
+&lt;/p&gt;
+&lt;p&gt;- začetek uporabe storitev 
+- primeri uporabe storitev 
+&lt;/p&gt;
+&lt;p&gt; 
+• Strokovnost in izkušenost 
+&lt;/p&gt;
+&lt;p&gt;- tehnično/vsebinsko znanje svetovalcev 
+- izkušnje svetovalcev 
+ 
+&lt;/p&gt;
+&lt;p&gt;• Odnos in vedenje 
+- način komuniciranja svetovalcev 
+ 
+&lt;/p&gt;
+&lt;p&gt;• Dostopnost in prilagodljivost  
+- delovni čas, telefonske povezave, lokacija 
+- razpoložljivost svetovalcev 
+- prilagajanje željam/zahtevam 
+ 
+&lt;/p&gt;
+&lt;p&gt;• Zanesljivost in vzbujanje zaupanja 
+- dogovorjeni roki 
+&lt;/p&gt;
+&lt;p&gt; 
+• Ravnanje v primeru, ko se kaj zaplete 
+&lt;/p&gt;
+&lt;p&gt;- ukrepanje v nepredvidljivih situacija 
+ 
+&lt;/p&gt;
+&lt;p&gt;• Storitvena pokrajina 
+- urejenost prostorov, svetloba ipd. 
+  
+&lt;/p&gt;
+&lt;p&gt;• Ugled in verodostojnost 
+- poštenost poslovanja 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;3 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Priloga 4: Globinski intervjuji 
+ 
+&lt;/p&gt;
+&lt;p&gt;Globinski intervju 1 
+ 
+Podjetje: veleprodaja naftnih derivatov                                                                                                                 
+Kontaktna oseba: vodja računovodstva                                                                                                               
+Datum in ura intervjuja: 9.7.2009, 7:45 – 8:15    
+                                                                                                                                                                              
+V: Koliko časa že uporabljate storitve Adacta support centra?  
+O: Navision uporabljamo od leta 1999. Na začetku smo imeli drugo podporo, s katero pa 
+nismo bili zadovoljni. Leta 2002 smo prešli na storitve Adacte. Na začetku je bilo tako, da 
+si imel svetovalca, na katerega si se obrnil. Support center, tako da se lahko kogarkoli 
+pokliče, pa uporabljamo že nekaj let, v bistvu od kar je na voljo. 
+ 
+V: Omenili ste, da s prvo podporo za Navision niste bili zadovoljni. Zakaj? 
+O: To je bilo manjše podjetje, čisto drugačen, neprofesionalen pristop. Imeli smo enega 
+svetovalca, ki je bil zadolžen za nas. Težko je, če samo en v podjetju pozna tvoje potrebe. 
+ 
+V: V kakšnih primerih se obračate na  Adacta support center?                                                                   
+O: V zadnjem času se na support center obračamo predvsem zaradi kakšnih dodatnih 
+zadev, ki smo jih naročal. V bistvu če pri teh dodelavah kaj ne dela. Za standardne 
+funkcionalnosti, če gre, pa večino rešimo kar sami. 
+ 
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?  
+O: Čisto različno. Mi v glavnem delamo z enim svetovalcem, ker najbolje pozna, kaj vse je 
+bilo pri nas dodelano. V zadnjih dveh letih imamo kar precej dodelav. Tako da on zna 
+svetovati tako tehnično kot vsebinsko, če pa dobiš koga drugega na telefon, je pa že malo 
+večji problem, ker ti dajo standarden odgovor. Standarden odgovor pa meni ni dovolj 
+dober oziroma za nas ne velja. Tako da to je problem.  
+ 
+V: Kako vam v primeru, da svetovalca, ki pozna vaše dodelave ni, pomagajo na 
+support centru?                                                         
+O: Kadar njega ni, se zadeva kar malo ustavi. Problem je, da ne poznajo naših dodelav. 
+Sedaj imamo še programerja, ki nam svetuje, vendar on pa ne pozna zadev vsebinsko. 
+Najraje dobim tistega, ki res ve kaj imamo dodelano in kakšne zahteve imamo.  
+ 
+V: Kaj menite o izkušenosti svetovalcev? 
+O: Mislim, da imajo svetovalci dovolj izkušenj z Navisionom na splošno, vendar nam to 
+nič ne pomaga, ker pri nas veliko zadev zaradi dodelav deluje drugače. Izkušenj z 
+delovanjem programa pri nas sigurno premalo, glede na to, da zadeve pozna le eden.  
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;4 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;V: Kaj menite o odnosu in vedenju svetovalcev?                                                                      
+O: Na to nisem imela nikoli pripomb. So vsi zelo prijazni, samo kvaliteta odgovorov malo 
+niha.  
+ 
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave, 
+lokacijo?                                                                                                                                                    
+O: Delovni čas bi meni bolj ustrezal, če bi začeli bolj zgodaj. V službo pridem pred osmo 
+in če imam nek problem, dobim svetovalca šele od 8:30 in preden je težava rešena, je ura 
+že 9:30. Vsaj ob 8. ure bi moral biti nekdo dosegljiv in da bi se oglašali do 16. ure. Ker od 
+8:30 do 15:30 je relativno kratek delovni čas. Je potrebno upoštevati, da so ljudje vmes 
+tudi na kosilu. Tako da tistega, ki ga potrebuješ, tisto uro potem ne dobiš. Čas dosegljivosti 
+je zelo kratek. Delovni čas se mi zdi prekratek. 
+ 
+V: Kaj pa glede telefonskih povezav?                                                                                              
+O: Sliši se, kot da bi bili v Kazahstanu. Od takrat ko imate novega ponudnika, se sliši zelo 
+slabo. 
+ 
+V: Na Adacti ste že bili? Kaj menite o lokaciji?                                                                           
+O: Ja dvakrat sem bila. Je precej od rok. Moraš imeti avto. Jaz ga pa nimam, se vozim z 
+avtobusom. Tako da meni je odveč iti tja. 
+ 
+V: Kaj menite o razpoložljivosti svetovalcev?                                                                         
+O: Načelom se mi zdi v redu. Če zahtevam določenega svetovalca, ga dobim, če je le ta v 
+službi. 
+ 
+V: Kaj menite o prilagajanju vašim zahtevam, željam? 
+O: Zdi se mi, da se potrudijo. Eni manj eni bolj. S temi katerimi sedaj delam, sem zelo 
+zadovoljna. So nam pa vmes za dodelave dodelili koga drugega. Programerja na primer, ki 
+se mu pa ni dalo priti k nam na sestanek, da bi lažje vsebinsko razumel zadevo. 
+Komunikacija je potekala po mailu in potem, ko je bila rešitev nameščena na testno bazo, 
+sem ugotovila, da me ni razumel. Ker sem jaz ekonomist, on pa računalničar in vmes je 
+nastala luknja. Potrebno je bilo kar nekaj popravkov in se je zadeva kar zavlekla. Tako da 
+odvisno s kom delaš. Če dobim tistega, ki ga želim, sem zelo zadovoljna. 
+ 
+V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem? 
+O: Enako kot pri znanju, zanesem se na enega svetovalca, ki pozna naše dodelave, ostali 
+mi ne znajo pomagati.  
+ 
+V: Kaj pa glede dogovorjenih rokov? 
+O: Pošteno povedano je dosti prestavljanja. Še nobena stvar ni bila narejena do roka. Na 
+primer lansko leto smo imeli eno veliko zadevo, ki smo jo zaradi Adacte, ker ni bila 
+pripravljena, prestavili za en mesec. Sedaj imamo spet eno dodelavo, ki smo jo sicer 
+&lt;/p&gt;
+&lt;p&gt;5 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;prestavili zaradi nas, ampak v tistem trenutku, ko bi moralo biti narejeno, Adacta ni bila 
+pripravljena in še do danes ni narejeno. Če ne bi mi prestavili, bi bili sedaj en mesec brez 
+podatkov oziroma bi imeli probleme.  
+ 
+V: Kako svetovalci reagirajo v nepredvidenih situacijah? 
+O: Mislim, da svetovalec se potrudi kolikor se more in se opravičujejo, če ni dodeljenega 
+programerja. Mogoče je to stvar organizacije samega help deska. Tisti konkretno s katerim 
+jaz delam, ne more biti za vse kriv, če mu ne dodelijo programerja. 
+ 
+V: Omenili ste, da ste že bili na Adacti. Kaj menite o fizičnem okolju - urejenosti, 
+opremljenosti prostorov, svetlobi in podobnem? 
+O: Tisto kar sem videla je bilo lepo, dosti lepše kot pri nas.  
+ 
+V: Kaj menite o poslovanju s support centrom in o poštenosti? 
+O: Generalno sem zadovoljna. So korektni in v redu ljudje. Tudi zaračunavanje storitev se 
+mi zdi pošteno, saj dobim v pregled porabljene storitve in po tem se v bistvu pogovarjamo, 
+kaj je zaračunljivo in kaj ne. S tem načeloma nimamo težav, niso pa poceni. Motijo me pa 
+te stvari, ki sem jih omenila.   
+ 
+V: Če povzameva vas moti znanje svetovalcev glede vaših posebnosti, delovni čas, 
+kakovost telefonskih povezav in držanje rokov. Z odnosom svetovalcev pa ste 
+zadovoljni. 
+Drži. Vendar še vedno se mi zdi največji problem, da če se oglasi svetovalec, ki ne pozna 
+naših dodelav, dobim splošen odgovor in ne ve, da je pri nas posebnost. Glede na to, da je 
+svetovalec, ki ve kaj je pri nas narejeno in kako zadeve delujejo, eden, mogoče dva skupaj 
+s programerjem, lahko zelo hitro pride do težav. To bi se vsekakor moralo spremeniti. Na 
+primer v nekaterih klicnih centrih imajo to urejeno, da se ob klicu izpiše zgodovina kupca. 
+To bi lahko uredili tudi na support centru, da se pri klicu stranke izpišejo njene dodelave in 
+posebnosti. Ja ljudje so res zelo prijazni in ti pomagajo, če le znajo.  
+ 
+Globinski intervju 2 
+  
+Podjetje: prodaja, proizvodnja in inženiring nerjavečih materialov                                                                      
+Kontaktna oseba: informatik                                                                                                               
+Datum in ura intervjuja: 9.7.2009, 10:15 – 10:45                                                                                                
+ 
+V: Koliko časa že uporabljate storitve Adacta support centra?  
+Navision imamo že peto leto, od 1.1.2005 in takrat smo tudi začeli uporabljati storitve 
+support centra. 
+ 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;6 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;V: V kakšnih primerih se obračate na  Adacta support center?                                                                
+O: Največkrat glede vsebinskega znanja v Navisionu, samo računovodstvo na primer ter 
+glede naročanja dodelav. 
+ 
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?  
+O: S tem imam več slabih kot dobrih izkušenj. Gre namreč za to, da svetovalci, ki delajo na 
+tem področju, ne poznajo podjetij in njihovih specifičnosti glede Navisiona. Konkretno za 
+naše podjetje velja, da stvari radi priredimo in večino standardnih funkcionalnosti 
+predelamo po svoje. S svetovalcem, ki ne pozna tvojih procesov in poslovanja, si 
+konkretno nimaš kaj pomagati.  
+ 
+V: Na koga se potem obrnete v primeru težav? 
+O: Sam konkretno se slabi dve leti trudim delati z vami tako, da komuniciram z eno, največ 
+dvema osebama, ki pa ne delata v support centru. Čim pride tukaj tretja, četrta oseba, se 
+stvari podirajo. Torej delam z dvema osebama, za katere vem, da poznajo moje potrebe in 
+tudi takoj vedo, o čem govorim. Kar pa ne morem reči za support center. Če ne vem, kje se 
+poišče kakšen podatek, mi znajo pomagati, imajo naštudiran program. Če pa rabim kaj 
+vsebinsko ali tehnično glede naših specifičnosti pa mi ne znajo pomagati. Tega pa je zelo 
+veliko, zato se na njih obračam le za splošne težave, ki za nas niso specifične. 
+ 
+V: Kaj pa izkušenost svetovalcev?  
+Izkušnje imam, da v support centu delajo ljudje z malo izkušnjami oziroma se le ti oglašajo 
+na klice. Imajo dovolj izkušenj z Navisionom, vendar z vsebinskimi in specifičnimi 
+zadevami bistveno premalo. 
+ 
+V: Kaj menite o odnosu in vedenju svetovalcev?                                                                      
+O: S tem nisem imel nikoli slabih izkušenj. Odnos je na nivoju, ljudje so prijazni in se 
+trudijo. Bolj me moti vsebinsko nepoznavanje našega poslovanja v Navisionu. 
+ 
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave, 
+lokacijo?                                                                                                                                                    
+O: Glede delovnega časa in telefonskih povezav nimam pripomb. Tudi lokacija Adacte mi 
+odgovarja in zaradi urejenega parkirišča, nimam nikoli težav s parkiranjem. 
+ 
+V: Kaj menite o razpoložljivosti svetovalcev?                                                                         
+O: Nimam slabih izkušenj s tem, da nekoga ne bi mogel dobiti. Razpoložljivost je v redu.  
+ 
+V: Kaj menite o prilagajanju vašim zahtevam, željam? 
+O: To se mi zdi v redu. Nikoli me ni nihče skušal prepričati, da se nekaj, kar smo si 
+zamislili, v Navisionu ne da narediti. Se potrudijo. 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;7 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem? 
+Na svetovalce v support centru se ne morem zanesti. Ne poznajo naših dodelav. 
+ 
+V: Kaj pa glede dogovorjenih rokov? 
+O: Veliko je prestavljanja. V tem času sem se že navadil, da če ne poskrbim za roke sam, 
+ne bo nihče poskrbel zame. Mogoče sem kdaj komu tečen, vendar se je izkazalo, da se 
+edino ta tečnoba obrestuje, da lahko jaz opravičujem roke svojim šefom. Če jih nekdo ne 
+opominja, dajo stvar kar malo na stran.  
+ 
+V: Kako svetovalci reagirajo v nepredvidljivih situacijah? 
+O: V kritičnih situacijah se ne obračam na support center. V tem času sem že dovolj 
+spoznal Adacto in vem kako stvari potekajo. Vem za večino ljudi, kaj kdo pokriva. Ne 
+izgubljam več energije skozi support center, ampak poskušam priti direktno do ljudi, ki 
+zadeve bolje poznajo. Nesmisel mi je klicati nekega svetovalca na support center, ker bo le 
+ta moral slej ko prej vprašati nekoga drugega.  
+ 
+V: Kaj menite o fizičnem okolju - urejenosti, opremljenosti prostorov, svetlobi in 
+podobnem? 
+O: To je na visokem nivoju in nimam pripomb. 
+ 
+V: Kaj menite o poslovanju s support centrom in o poštenosti? 
+O: Naučil sem se, da se na support center obrnem le v primeru splošnejših težav. Dogajalo 
+se je namreč, da mi je nekdo zaračunal storitve, za neko stvar, ko je moral nekoga nekaj 
+vprašati. To da nekdo dvigne telefon in reče, da bo moral nekoga vprašati, se mi zdi 
+nepravično zaračunavati, saj nisem dobil nobenega odgovora. To me zelo moti pri support 
+centru, glede na to da so cene storitev zelo visoke. Jaz sem se moral znajti sam in najti 
+ključne ljudi v podjetju, ki mi lahko pomagajo. 
+ 
+V: Če povzameva vas moti pomanjkljivo znanje svetovalcev glede vaših posebnosti in 
+držanje rokov. Zadovoljni pa ste z odnosom svetovalcev in prilagajanju vašim 
+zahtevam. 
+Problem je znanje svetovalcev v support centru. Zelo nerad se obračam na support center. 
+Če si odvisen samo od številke support centra, je težko delati. Veliko raje bi se obračal na 
+support center, če bi vedel, da svetujejo ljudje, ki dobro poznajo moje probleme in 
+dodelave, pa je lahko to samo eden. Sam sem dobil občutek, da pri support centru ne gre za 
+svetovanje in reševanje težav, ker ljudje ne poznajo dodelav, ampak po navadi le sporočiš 
+problem, ki ga imaš in te pokličejo nazaj. Zato raje delam z nekaj ljudmi, za katere vem, da 
+točno vedo, kako mi delujemo, čeprav imajo še ogromno drugih projektov. Tako da če 
+imate v support centru 15, 20 ljudi, mislim da so zmožni, da si razdelijo projekte in živijo 
+in rastejo s temi strankami. Je pa to dolg proces, leto, dve, vendar mislim, da bi se to lahko 
+spremenilo.  
+ 
+&lt;/p&gt;
+&lt;p&gt;8 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Globinski intervju 3 
+ 
+Podjetje: izdaja revij                                                                                                                       
+Kontaktna oseba: računovodja                                                                                                                          
+Datum in ura intervjuja: 14.7.2009, 8:00 – 8:30      
+                                                                                                                                                                          
+V: Koliko časa že uporabljate storitve Adacta support centra?  
+O: V bistvu od začetka odkar imamo Navision smo se obračali direktno na vodjo projekta, 
+ker še ni bilo support centra. Navision imamo od leta 2001. Od 2004 pa se obračamo tudi 
+na support center. 
+ 
+V: V kakšnih primerih se obračate na  Adacta support center?                                                                
+O: Kadar naletimo na take probleme, ko se ni potrebno obračati direktno na projektnega 
+vodjo. Večinoma kje se v Navisionu kaj nahaja, pa tudi vsebinsko. Vsebinsko predvsem, 
+ko gre kaj narobe, na primer pri obrestih, če ne grejo skozi, kako se to lahko reši v 
+Navisionu.   
+ 
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?  
+O: Znanje svetovalcev se mi v redu. Če ne vem kje v Navisionu se kaj nahaja, mi znajo 
+takoj svetovati. Dobro poznajo program. Glede vsebinskih vprašanj pa se po navadi 
+posvetujejo in skupaj najdejo rešitev. Vedno dobim odgovore na težave. 
+ 
+V: Kaj menite o znanju svetovalcev glede vaših dodelave, posebnosti?                                                    
+O: Ja kar veliko stvari je narejenih nam na zahtevo, vendar svetovalci poznajo dodelave, 
+vedno si lahko z nekom pomagam.  
+ 
+V: Kaj pa izkušenost svetovalcev?  
+O: Do sedaj so mi še vedno znali pomagati, tako da mislim, da imajo dovolj izkušenj. 
+ 
+V: Kaj menite o odnosu in vedenju svetovalcev?                                                                      
+O: So zelo prijazni. Tudi vedno ko mi svetujejo pri nekem problemu, vprašajo če sem 
+uspela urediti. Res so zelo prijazni in ustrežljivi. 
+ 
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave, 
+lokacijo?                                                                                                                                                    
+O: To me pa malo moti. Ker začnejo šele ob 8:30. Mi začnemo ob 7. uri in če je kakšna 
+težava, moramo čakati do takrat. Pa potem samo do 15:30, to je malo zgodaj. Vsaj en bi 
+moral biti dežuren od 8. pa do 16. ure. Večina podjetij dela tak delovnik in če naletijo na 
+težave, si ne morejo pomagati. 
+ 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;9 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;V: Kaj pa glede telefonskih povezav in lokacije?                                                                                            
+O: Včasih se slabo sliši. Potem pokličem še enkrat in je po navadi v redu. Na Adacti nisem 
+bila nikoli, tako da glede lokacije težko odgovorim.  
+ 
+V: Kaj menite o razpoložljivosti svetovalcev?                                                                         
+O: Vedno dobim tistega, ki ga želim, med njihovim delovnim časom. To se mi zdi v redu. 
+Nikoli nisem imela težav s tem.  
+ 
+V: Kaj menite o prilagajanju vašim zahtevam, željam? 
+O: Vedno upoštevajo naše želje in jih rešijo na tak način, kot mi želimo. Se zelo potrudijo 
+in vedno najdejo rešitev.  
+ 
+V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem? 
+O: Vedno držijo obljube. Me tudi pokličejo nazaj, ko zadevo uredijo oziroma mi pošljejo 
+po mailu. Tako da se res lahko zanesem na njih. 
+ 
+V: Kaj pa glede rokov izvedbe? 
+O: Vedno je v nekem razumnem roku, tudi če malo zamudijo. Nismo imeli težav zaradi 
+tega. Če nekaj ne morejo rešiti do roka, vedno pokličejo in sporočijo.  
+ 
+V: Kako svetovalci v support centru reagirajo v nepredvidljivih situacijah? 
+O: V takih primerih se obrnem kar direktno na projektnega vodjo.  
+ 
+V: Zakaj pa?  
+O: V takih situacijah gre tudi svetovalec s support centra do projektnega vodje, ker on 
+bolje pozna težavo vsebinsko in tehnično in hitreje reši, če je res nekaj nujno. 
+ 
+V: Kaj menite o poslovanju s support centrom in o poštenosti? 
+O: So prijazni in ažurni. Tudi zaračunavanje storitev je pošteno in utemeljeno, vendar so 
+cene zelo visoke, to me moti. Če bi bile cene storitev nižje, bi se večkrat obrnila na support 
+center tudi za težave, ki jih lahko rešim sama, vendar mi vzamejo veliko časa. Tako da kar 
+se le da, poskušam ugotoviti sama, tudi, če za to porabim več. Vzporedno imamo še en 
+program in lastniki zahtevajo, da gremo na enoten informacijski sistem. Pred kakšnih 
+tednom smo prejeli vašo ponudbo in cena je res visoka. Ne vem kako se bodo odločili.  
+ 
+V: Če ne gledava cene, za katerega ponudnika bi se vi odločili?  
+O: Za Adacto, ker so zaposleni zelo korektni. Imamo tudi veliko zahtev za dodelave in so 
+vedno narejene hitro. Tudi program je zelo v redu, ga hitro osvojiš.  
+ 
+V: Če povzameva vas najbolj moti delovni čas z ostalim pa ste zadovoljni. 
+O: Zaposleni se res zelo potrudijo. Če bi začeli vsaj ob 8. uri bi bilo veliko bolje. Problem 
+je, če zjutraj naletiš na težavo in čakaš do 8:30, vse delo potem čaka. 
+&lt;/p&gt;
+&lt;p&gt;10 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Globinski intervju 4 
+ 
+Podjetje: distribucija rezervnih delov za področje industrijskega vzdrževanja                                                
+Kontaktna oseba: vodja računovodstva                                                                                                            
+Datum in ura intervjuja: 14.7.2009, 15:30 – 16:15    
+                                                                                                                                                                          
+V: Koliko časa že uporabljate storitve Adacta support centra?  
+O: Navision uporabljamo deveto leto. Sama storitve support centra uporabljam dve leti. 
+Pred tem je program večino uporabljala druga zaposlena, ki se je na support center 
+obračala od kar je na voljo. 
+ 
+V: V kakšnih primerih se obračate na  Adacta support center?                                                               
+O: Večinoma za tehnične težave s programom, saj nimamo zaposlenega informatika ter za 
+naročanja dodelav in njihovo delovanje oziroma težav pri uporabi. Zahtev za dodelave ne 
+pošiljam več prek zahtevkov, saj mi eno leto ni delalo geslo, na kar sem opozorila, vendar 
+se ni nič premaknilo. Tako da sem z zahtevki obupala in raje pošljem po mailu oziroma 
+pokličem.  
+ 
+V: Kaj menite o tehničnem in vsebinskem znanju svetovalcev?  
+O: Moti me, da je potrebnih več svetovalcev, da se težava reši, ker ne poznajo našega 
+poslovanja v Navisionu. Težavo rešujejo na primer trije svetovalci, ker je dva ne znata 
+rešiti do konca. Mislim, da so svetovalci v support centru premalo usposobljeni in imajo 
+premalo izkušenj. Tako dobimo isto storitev zaračunano od več svetovalcev. Neznanja ne 
+bomo plačevali. Naj zadeve rešuje tisti, ki zna, ne da se na naših težavah še dva učita in 
+nam vse zaračunate. 
+ 
+V: Kaj menite o odnosu in vedenju svetovalcev?                                                                      
+O: Več ali manj komuniciramo po mailu, kar me ne moti. Odnos je zelo v redu. 
+ 
+V: Kaj menite glede dostopnosti. Tukaj mislim delovni čas, telefonske povezave, 
+lokacijo?                                                                                                                                                    
+O: Sama delam tudi do 22:00, vendar pošljem težavo po mailu in dobim odgovor naslednji 
+dan zjutraj. Če je kaj nujnega pokličem med 8:30 in 15:30, drugače pa več ali manj 
+rešujemo po mailu. 
+ 
+V: Kaj pa glede telefonskih povezav?                                                                                              
+O: V zadnjem času se je že dvakrat zgodilo, da telefoni in maili na enkrat niso delovali. To 
+se ne bi smelo tako pogosto dogajati. Problem je, ker ne moreš nobenega dobiti, ker potem 
+tudi  maili ne delajo.  
+ 
+ 
+ 
+&lt;/p&gt;
+&lt;p&gt;11 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;V: Na Adacti ste že bili? Kaj menite o lokaciji?                                                                           
+O: Nisem še bila, vendar se mi zdi lokacija v redu, ker je malo odmaknjena od mestnega 
+vrveža. 
+ 
+V: Kaj menite o razpoložljivosti svetovalcev?                                                                         
+O: Razpoložljivost je v redu. Glede tega, da nekoga ne bi mogla dobiti, nisem imela težav. 
+ 
+V: Kaj menite o prilagajanju vašim zahtevam, željam? 
+O: To se mi zdi zelo v redu. Vedno se potrudijo. Tudi če nekaj, kar sem si zamislila ni 
+izvedljivo, predlagajo drugačen način, kako bi se dalo to rešiti. Vedno najdemo skupno 
+rešitev. 
+ 
+V: Kaj menite glede zanesljivosti svetovalcev in zaupanju le tem? 
+O: Za enkrat nimam slabih izkušenj glede zanesljivosti. Nikoli ni nihče izkoristil mojega 
+zaupanja, tako da jim zaupam. Tudi, če svetovalec, ki ga rabim ni na voljo, vedno pokliče 
+nazaj.  
+ 
+V: Kaj pa glede rokov izvedbe? 
+O: Glede rokov se sploh v zadnjem času vedno dogaja, da jih je potrebno opominjati. Roki 
+so postavljeni z razlogom in bi se jih morali držati.  
+ 
+V: Kako svetovalci reagirajo v nepredvidljivih situacijah? 
+O: Ne obračam se na support center, ampak direktno na vodjo projekta, ker mu ni potrebno 
+podrobno razlagati vse od začetka in on točno ve za kaj se gre. Se pa trudijo takoj rešiti. 
+Moti me to, da je na enem človeku preveč znanja in če njega ni je problem, ker zavede 
+stojijo.  
+ 
+V: Kaj menite o poslovanju s support centrom in o poštenosti? 
+O: Sem zadovoljna. Ljudje so res v redu. Precej ljudem sem priporočala Adacto, saj ti 
+pomagajo, da lahko Navision čisto prilagodiš svojim potrebam. Vendar, ko so videli ceno, 
+so si vsi premislili.  
+ 
+V: Kaj pa menite glede poštenosti in zaračunavanja storitev? 
+O: V redu je to, da dobim v začetku meseca pregled opravljenih storitev in zaračunljivost. 
+Tako, da se takoj dogovorimo, kaj je zaračunljivo in kaj ne. Je pa res, da so cene visoke.  
+ 
+V: Če povzameva vas moti znanje svetovalcev, kakovost telefonskih povezav in 
+držanje rokov. Zadovoljni pa ste s prilagajanjem vašim zahtevam in zanesljivostjo 
+svetovalcev. 
+Glede telefonskih povezav ni tak problem, saj večinoma komuniciramo prek maila. Tudi 
+glede rokov, jih moram opominjati, vendar potem pospešijo zadeve. Znanje se mi zdi 
+največji problem, da ne zna en svetovalec rešiti zadeve od začetka do konca. Zelo mi je 
+&lt;/p&gt;
+&lt;p&gt;12 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;všeč, da upoštevajo naše želje in program priredijo kot želimo. Se potrudijo in vedno 
+najdejo rešitev glede naših zahtev.   
+ 
+&lt;/p&gt;
+&lt;p&gt;13 
+ &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;ul&gt;	&lt;li&gt;UVOD &lt;/li&gt;
+	&lt;li&gt;1 STORITVE PO PRODAJI &lt;/li&gt;
+	&lt;li&gt;2 KAKOVOST STORITEV &lt;/li&gt;
+	&lt;li&gt;3 ZADOVOLJSTVO PORABNIKOV S STORITVAMI &lt;/li&gt;
+&lt;ul&gt;	&lt;li&gt;3.1 Povezava med kakovostjo storitev in zadovoljstvom porabnikov &lt;/li&gt;
+	&lt;li&gt;3.2 Povezava med zadovoljstvom in zvestobo porabnikov &lt;/li&gt;
+	&lt;li&gt;4 POMEN DIMENZIJ KAKOVOSTI STORITEV PO PRODAJI ZA PORABNIKE STORITEV ADACTA DYNAMICS SUPPORT CENTRA &lt;/li&gt;
+&lt;ul&gt;	&lt;li&gt;4.1 Predstavitev Adacta Dynamics Support Centra &lt;/li&gt;
+	&lt;li&gt;4.2 Metodologija in cilji raziskave &lt;/li&gt;
+	&lt;li&gt;4.3 Analiza in ugotovitve raziskave &lt;/li&gt;
+&lt;/ul&gt;
+	&lt;li&gt;SKLEP  &lt;/li&gt;
+	&lt;li&gt; LITERATURA IN VIRI &lt;/li&gt;
+	&lt;li&gt;PRILOGE &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;/body&gt;&lt;/html&gt;</XmlText>
+</dokument>

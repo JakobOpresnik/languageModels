@@ -1,0 +1,1127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-1112000" doc_id="1112000" text_id="1436245" cobiss_id="5511443" title="Model ravnanja s hlapnimi organskimi spojinami" author="Pirnat, Roman" supervisor="Vuk, Drago" year="2007" publisher_abbr="UM FOV" publisher="Fakulteta za organizacijske vede" place="Kranj" url="http://diplome.fov.uni-mb.si/spec/12743Pirnat.pdf" type="Specialistično delo" udc="502/504" udc_desc="Varstvo okolja. Ogrožanje okolja" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V MARIBORU</p>
+    <p xml:id="pb1.p2" xml:lang="sl">FAKULTETA ZA ORGANIZACIJSKE VEDE</p>
+    <p xml:id="pb1.p3" xml:lang="sl">Specialistično delo</p>
+    <p xml:id="pb1.p4" xml:lang="sl">Organizacija in management delovnih sistemov Model ravnanja s hlapnimi organskimi spojinami</p>
+    <p xml:id="pb1.p5" xml:lang="sl">Mentor: red. prof. dr. Drago Vuk Kandidat: Roman Pirnat Kranj, junij 2007</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">ZAHVALA</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Zahvaljujem se mentorju profesorju dr. Dragu Vuku za strokovno pomoč pri izdelavi tega specialističnega dela.</p>
+    <p xml:id="pb2.p3" xml:lang="sl">Zahvaljujem se tudi lektorju Alešu Pavšku, univ.dipl.ekon., ki je lektoriral mojo specialistično nalogo.</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">KAZALO</p>
+    <p xml:id="pb3.p2" xml:lang="sl">1. UVOD................................................................................................................................... - 8 1.1. NAMEN ............................................................................................................................- 9 1.2. CILJI POVEZANI Z VOC DIREKTIVO ..................................................................................- 9 1.3. VOC-DEFINICIJE ............................................................................................................- 10 1.4. HLAPNE ORGANSKE SPOJINE V PREMAZNI INDUSTRIJI ....................................................- 11 1.5. UČINKI VOC..................................................................................................................- 14 1.6. OZON .............................................................................................................................- 15 1.6.1. Ozon v stratosferi.................................................................................................. - 15 1.6.2. Prizemni ozon ....................................................................................................... - 16 2. PRIKAZ SEDANJEGA STANJA.................................................................................... - 19 2.1. DIREKTIVA O EMISIJI ORGANSKIH TOPIL.........................................................................- 19 2.1.1. Evropski predpisi s področja industrijskega onesnaževanja v povezavi z domačo zakonodaja .......................................................................................................... - 21 2.1.2. Direktiva IPPC in industrijsko onesnaževanje ..................................................... - 23 2.1.3. Pregled evropskih predpisov s področja industrijskega onesnaževanja............... - 25 2.1.3.1. Horizontalne direktive..................................................................................................- 25 2.1.3.2. Vertikalne direktive ......................................................................................................- 26 2.1.4. Direktiva NEC ...................................................................................................... - 26 2.2. SPLOŠNO O OKOLJEVARSTVENEM DOVOLJENJU..............................................................- 27 2.2.1. Zavezanci za pridobitev okoljevarstvenega dovoljenja ....................................... - 27 2.2.2. Bilanca topil - zahteve in definicije ..................................................................... - 27 2.3. DIREKTIVA VOC IN PREMAZNA INDUSTRIJA ..................................................................- 28 2.3.1. Dekorativni premazi ............................................................................................. - 29 2.3.2. Avtoreparature...................................................................................................... - 30 2.3.3. Industrijski premazi .............................................................................................. - 32 2.3.4. Premazi za les....................................................................................................... - 32 2.3.5. Premazi za kovine................................................................................................. - 33 2.3.5.1. Antikorozivni zaščitni premazi (Protective coatings) ...................................................- 33 2.3.5.2. Premazi za industrijo strojev in konstrukcij – ACE (Agricultural, Construction, and Earthmoving Equipment)............................................................................................- 33 2.3.5.3. Splošna kovinska industrija (General industrial).........................................................- 33 2.4. PREDSTAVITEV PODJETJA...............................................................................................- 34 2.5. ORGANIZACIJA PODJETJA ...............................................................................................- 37 2.6. OSNOVNI PODATKI O IPPC NAPRAVI..............................................................................- 39 2.6.1. Količinski okoljski parametri za HELIOS TBLUS Količevo d.o.o....................... - 40 2.6.2. Helios in okoljska politika ................................................................................... - 41 2.6.3. Predstavitev obstoječega stanja VOC emisij ........................................................ - 41 2.6.4. Monitoring VOC emisij......................................................................................... - 43 2.7. ONESNAŽENJE ZRAKA V OKOLICI DOMŽAL ...................................................................- 45 2.8. PODATKI O EMISIJAH SNOVI V ZRAK IZ PROIZVODNIH OBJEKTOV HELIOSA – LOKACIJA</p>
+    <p xml:id="pb3.p3" xml:lang="sl">KOLIČEVO ....................................................................................................................- 47 2.9. OBSTOJEČE STANJE PRETOKOV VENTILACIJE V PROIZVODNIH OBRATIH .........................- 50 3. HIPOTEZA........................................................................................................................ - 53 4. MODEL REŠITVE ........................................................................................................... - 54 4.1. SANACIJSKI PROGRAM ZA VOC EMISIJE ZA OBRAT PP...................................................- 54 4.2. POPIS FAZ DELA IN PODROČIJ KJER NASTAJAJO EMISIJE ................................................- 54 4.3. PREDLOGI ZA ZMANJŠANJE EMISIJ VOC NA IZVORU ZA OBRAT PP................................- 60 4.3.1. Lokalna ventilacija na manlohih izdelovalnih rezervoarjev................................. - 60 4.3.2. Točenje topil in veziv ............................................................................................ - 61 4.3.3. Točenje topil, veziv in polizdelkov v izdelovalnici ................................................ - 61 4.3.4. Predvidena obremenjenost zajetih emisij ............................................................. - 63 4.4. NAČRTOVANJE NAPRAVE ZA ZMANJŠEVANJE VOC........................................................- 65 4.5. MOŽNE NAPRAVE ZA ZMANJŠEVANJE VOC ...................................................................- 66 4.5.1. Analiza posameznih tehnologij ............................................................................. - 66 4.6. PREDSTAVITEV NAPRAVE ZA REGENERATIVNO TERMIČNO OKSIDACIJO .........................- 68 4.6.1. Čistilne naprave, ki so uporabljene v različnih podjetjih ..................................... - 69 4.6.2. Obratovalni podatki za napravo RTO s kapaciteto 27000m³ ............................... - 70 4.7. ORGANIZACIJSKI UKREPI, KADRI IN FINANCE .................................................................- 71 4.8. PROJEKT POSTAVITVE RTO ...........................................................................................- 72 4.9. PROJEKCIJA EMISIJ ZA HELIOS TBLUS KOLIČEVO D.O.O. ZA LETO 2008 .......................- 72 5. ZAKLJUČKI IN PREDLOGI..................................................................................... - 74 6. LITERATURA IN VIRI ................................................................................................... - 75 7. KRATEK SLOVAR STROKOVNIH IZRAZOV .......................................................... - 77 8. PRILOGE .......................................................................................................................... - 80 8.1. URADNI LIST REPUBLIKE SLOVENIJE ŠT 46; PRILOGA 5; BILANCA TOPIL .......................- 80 8.2. IZDELAVA BILANCE TOPIL (VIR, PRIROČNIK ZA POMOČ PRI IZVAJANJU DIREKTIVE HOS,</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">STR. 30)........................................................................................................................- 83 8.3. LASTNOSTI TOPIL, KI SE UPORABLJAJO V HELIOSU.........................................................- 84 KAZALO TABEL ................................................................................................................. - 85 KAZALO SLIK..................................................................................................................... - 86 KAZALO GRAFOV ............................................................................................................. - 86 POVZETEK</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">Evropska direktiva o hlapnih organskih spojinah je postavila meje dovoljenih izpustov v ozračje in postavila časovni okvir, v katerem morajo podjetja, ki se jih direktiva tiče, prilagoditi proizvodne procese in zmanjšati emisijo teh snovi v zrak.</p>
+    <p xml:id="pb5.p2" xml:lang="sl">Datum polne uveljavitve zahtev direktive je 30.10. 2007. Hlapni organski ogljikovodiki so eden od prekuzorjev za nastanek prizemnega ozona, ki ima veliko škodljivih posledic na zdravje ljudi in na biosfero.</p>
+    <p xml:id="pb5.p3" xml:lang="sl">Z analizo obstoječega stanja se je v Heliosu TBLUS Količevo d.o.o. začel proces prilagajanja proizvodnje zahtevam evropske direktive. Rezultati analize obstoječega stanja so pokazali, da je za sanacijo stanja potrebna investicija v napravo za odstranjevanje hlapnih ogljikovodikov iz obstoječih izpustov zraka v ozračje. Izmed vseh možnih načinov odstranjevanja hlapnih ogljikovodikov iz zraka se je podjetje odločilo za napravo RTO -regenerativno termično oksidacijo.</p>
+    <p xml:id="pb5.p4" xml:lang="sl">KLJUČNE BESEDE</p>
+    <p xml:id="pb5.p5" xml:lang="sl">- evropska direktiva VOC 99/13/ES</p>
+    <p xml:id="pb5.p6" xml:lang="sl">- hlapni ogljikovodiki (VOC)</p>
+    <p xml:id="pb5.p7" xml:lang="sl">- ozon</p>
+    <p xml:id="pb5.p8" xml:lang="sl">- okoljevarstveno dovoljenje</p>
+    <p xml:id="pb5.p9" xml:lang="sl">- najboljše razpoložljive tehnike (NRT)</p>
+    <p xml:id="pb5.p10" xml:lang="sl">- premazna industrija</p>
+    <p xml:id="pb5.p11" xml:lang="sl">- regenerativna termična oksidacija (RTO)</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">ABSTRACT</p>
+    <p xml:id="pb6.p2" xml:lang="en">The European guideline on volatile organic compounds (VOC), limits emissions to the athmosphere. This limit needs to be achieved before 30.october 2007. This is the key deadline for the full implementation of the Directive. All the companies that are concerned in complying to this guideline need to adapt their processes in production. VOC are one of the precursors of the creation of ozone in the troposphere, which is detrimental to public health and the biosphere causing harmful consenquences.</p>
+    <p xml:id="pb6.p3" xml:lang="en">Helios has began the process of adapting the production to demands of the European guideline by analysis of the existing conditions. According to the results of analysis of the extant condition there is an investment in a device for reducing of VOC from the existent emissions of air into the atmosphere needed. Among all possible ways of reducing of VOC from the air the company decided on the RTO filter - regenerative thermic oxidation.</p>
+    <p xml:id="pb6.p4" xml:lang="en">KEYWORDS</p>
+    <p xml:id="pb6.p5" xml:lang="en">- European directive VOC 99/13/ES</p>
+    <p xml:id="pb6.p6" xml:lang="en">- volatile hydrocarbons (VOC)</p>
+    <p xml:id="pb6.p7" xml:lang="en">- Ozone</p>
+    <p xml:id="pb6.p8" xml:lang="en">- Environmental permission</p>
+    <p xml:id="pb6.p9" xml:lang="en">- Best Available Technologies ( BAT)</p>
+    <p xml:id="pb6.p10" xml:lang="en">- coating industry</p>
+    <p xml:id="pb6.p11" xml:lang="en">- Regenerativ Thermic Oxidation (RTO)</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">ZUSAMMENFASSUNG</p>
+    <p xml:id="pb7.p2" xml:lang="sl">Die europäische Weisung über flüchtige organischen Verbindungen hat die zulässigen Entgasungen in die Atmosphäre eingegrenzt und eine Befristung gesetzt, in der alle Unternehmen, die diese Weisung betrifft, die Produktionsprozeße an dieser Weisung anpassen müssen und die Emission solcher Stoffen in die Luft reduzieren müssen. Das Datum des Inkrafttretens ist der 30.10.2007. Flüchtige organischen Kohlenwasserstoffe sind einer der Prekursoren für die Entstehung des bodennahen Ozons, das viele gesundheits- und biosphäreschädigende Folgen hat.</p>
+    <p xml:id="pb7.p3" xml:lang="sl">Mit der Analyse des vorhandenen Zustands hat in der Firma Helios TBLUS Količevo d.o.o. der Anpassungsprozeß der Produktion zu den Forderungen der europäischen Weisung begonnen. Die Ergebnisse der Analyse des vorhandenen Zustands haben gezeigt, dass eine Investition in die Apparatur für die Reduzierung der flüchtigen Kohlenwasserstoffe aus vorhandenen Emissionen der Luft in die Atmosphäre nötig ist. Von allen möglichen Weisen der Reduzierung der flüchtigen Kohlenwasserstoffe aus der Luft hat sich die Firma für die Apparatur RTO – regenerative thermische Oxidation entschieden.</p>
+    <p xml:id="pb7.p4" xml:lang="sl">SCHLÜSSELWÖRTER</p>
+    <p xml:id="pb7.p5" xml:lang="sl">- die europäische Weisung VOC 99/13/ES</p>
+    <p xml:id="pb7.p6" xml:lang="sl">- die flüchtigen Kohlenwasserstoffe (VOC)</p>
+    <p xml:id="pb7.p7" xml:lang="sl">- das Ozon</p>
+    <p xml:id="pb7.p8" xml:lang="sl">- die Umweltschutzerlaubnis</p>
+    <p xml:id="pb7.p9" xml:lang="sl">- die besten verfügbaren Techniken (BVT)</p>
+    <p xml:id="pb7.p10" xml:lang="sl">- die Anstrichsindustrie</p>
+    <p xml:id="pb7.p11" xml:lang="sl">- die regenerative thermische Oxidation (RTO)</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">1. UVOD</p>
+    <p xml:id="pb8.p2" xml:lang="sl">Hlapne organske spojine (VOC) so pomembna skupina onesnaževalcev v zraku.</p>
+    <p xml:id="pb8.p3" xml:lang="sl">Zaskrbljujoči so predvsem toksični vplivi hlapnih ogljikovodikov na človekovo zdravje, njihov destruktivni vpliv na rastline ter naraščanje koncentracije ozona v troposferi, pri čemer hlapni ogljikovodiki sodelujejo kot prekuzorji. Da bi izboljšali kvaliteto zraka je EU sprejela vrsto ukrepov, ki omejujejo uporabo in emisije hlapnih ogljikovodikov v ozračje.</p>
+    <p xml:id="pb8.p4" xml:lang="sl">V specialistični nalogi so predstavljene aktivnosti v podjetju HELIOS TBLUS Količevo d.o.o., vezane na Evropsko direktivo VOC 99/13/ES o hlapnih organskih spojinah.</p>
+    <p xml:id="pb8.p5" xml:lang="sl">Organska topila so pomemben del premaznih sredstev. Z njimi se kontrolirajo aplikacijske lastnosti premazov in obnašanje med sušenjem. Ker izhlapevanje topil v ozračje predstavlja obremenjevanje življenjskega okolja, imajo topila velik vpliv na zdravje ljudi ter na mikro in makro klimatsko ravnotežje.</p>
+    <p xml:id="pb8.p6" xml:lang="sl">Zmanjševanje emisij hlapnih organskih spojin, ki jih ureja Evropska VOC direktiva 97/C99/02, je zajelo vrsto industrijskih procesov, in sicer tako uporabnike kot proizvajalce premaznih sredstev. Posledica direktive je razvoj novih tehnologij premazov, ki vsebujejo manjše količine hlapnih organskih spojin ali pa so brez njih.</p>
+    <p xml:id="pb8.p7" xml:lang="sl">Govorimo o high solid premazih, premazih na osnovi vodnih veziv, UV utrjujočih premazih in prašnih premazih.</p>
+    <p xml:id="pb8.p8" xml:lang="sl">Jedro specialistične naloge je predstavitev sedanjega stanja na področju VOC emisij in predstavitev aktivnosti, ki bodo dolgoročno rešile to problematiko v podjetju Helios TBLUS Količevo d.o.o.</p>
+    <p xml:id="pb8.p9" xml:lang="sl">V zaključku naloge so predstavljene nekatere tehnološke rešitve in organizacijski pristopi, ki so v teku ali pa bodo v podjetju Helios izvedeni v letu 2007. Te rešitve bodo zagotavljale, da se bodo emisije zmanjšale v meje, ki jih predpisujejo evropske direktive in slovenska zakonodaja.</p>
+    <p xml:id="pb8.p10" xml:lang="sl">Na koncu naloge je v prilogi nekaj tabel in dokumentov, ki se nanašajo na obravnavano tematiko.</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">1.1. Namen</p>
+    <p xml:id="pb9.p2" xml:lang="sl">Podjetje HELIOS TBLUS Količevo d.o.o. se je z vso resnostjo lotilo problematike emisij hlapnih ogljikovodikov v ozračje. Namen reševanja te problematike je uskladitev celotnega poslovanja z zahtevami Evropske direktive in slovenske zakonodaje, ki je usklajena z EU zakonodajo. V sklopu tega se v podjetju vršijo aktivnosti na različnih področjih:</p>
+    <p xml:id="pb9.p3" xml:lang="sl">• omejitve VOC emisij v proizvodnji premazov na samem izvoru;</p>
+    <p xml:id="pb9.p4" xml:lang="sl">• razvoj novih materialov, high solid premazi, premazi na vodni osnovi, UV utrjujoči premazi;</p>
+    <p xml:id="pb9.p5" xml:lang="sl">• iskanje celostne rešitve za zbiranje koncentriranih emisij VOC in njihovo kontrolirano zmanjševanje;</p>
+    <p xml:id="pb9.p6" xml:lang="sl">• sodelovanje s kupci naših premazov in iskanje najboljših rešitev za zmanjšanje emisij pri kupcu.</p>
+    <p xml:id="pb9.p7" xml:lang="sl">1.2. Cilji povezani z VOC direktivo</p>
+    <p xml:id="pb9.p8" xml:lang="sl">Glavni cilj, ki je pred vsemi zaposlenimi v podjetju TBLUS Količevo d.o.o., je pridobitev okoljevarstvenega dovoljenja. Za pridobitev okoljevarstvenega dovoljenja pa mora podjetje izpolnjevati vse zahteve evropskih direktiv, ki opredeljujejo maksimalne dovoljene emisije hlapnih organskih snovi v okolje.</p>
+    <p xml:id="pb9.p9" xml:lang="sl">Po evropski direktivi 99/13/EC sta postavljeni dve zahtevi, ki zavezujeta Helios: 1. Maksimalna dovoljena količina VOC je 3% glede na razmerje vnos VOC v proces in izhod VOC iz procesa. Enostavno povedano to pomeni, da če v proizvodnjo premazov ali umetnih smol vnesemo 100 enot hlapnih organskih spojin, ki spadajo po kriteriju v skupino VOC, mora iz procesa izdelave priti toliko izdelkov in ostalih artiklov, da vsebujejo minimalno 97 enot vnesenega VOC.</p>
+    <p xml:id="pb9.p10" xml:lang="sl">Poleg končnega izdelka je izhod lahko tudi tekoči odpadek. Celokupne emisije v zrak ne smejo preseči 3% VOC.</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">Max.</p>
+    <p xml:id="pb10.p2" xml:lang="sl">Dovoljene emisije VOC</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Slika 1: Shematični prikaz maksimalne dovoljene emisije VOC v zrak 2. Celokupni organski ogljik v zajetih emisijah ne sme preseči 150 mg C/m³.</p>
+    <p xml:id="pb10.p4" xml:lang="sl">Meritev je bila ocenjena po uredbi o emisiji snovi v zrak iz nepremičnih virov onesnaževanja (Uradni list RS, št.73/94, 68/96 in 109/01) in Pravilnika o prvih meritvah in obratovalnem monitoringu emisije snovi v zrak iz nepremičnih virov onesnaževanja ter o pogojih za njegovo izvajanje (Uradni list RS št. 70/96, 79/00, 99/01 in 17/03) in po Uredbi o emisiji hlapnih organskih spojin iz naprav, ki uporabljajo organska topila (Uradni list RS št.</p>
+    <p xml:id="pb10.p5" xml:lang="sl">46/02). Za proizvodne obrate, ki proizvajajo premazna sredstva, sredstva za zaščito lesa in zgradb, lepil ali tiskarskih barv in porabijo več kot 100 ton topil letno velja, da je mejna koncentracija hlapnih organskih spojin v zajetih emisijah maksimalno 150 mg C/m³ (Uradni list RS št. 46/02) 2. Celokupni organski ogljik v zajetih emisijah ne sme preseči 150 mg C/m³.</p>
+    <p xml:id="pb10.p6" xml:lang="sl">Meritev je bila ocenjena po uredbi o emisiji snovi v zrak iz nepremičnih virov onesnaževanja (Uradni list RS, št.73/94, 68/96 in 109/01) in Pravilnika o prvih meritvah in obratovalnem monitoringu emisije snovi v zrak iz nepremičnih virov onesnaževanja ter o pogojih za njegovo izvajanje (Uradni list RS št. 70/96, 79/00, 99/01 in 17/03) in po Uredbi o emisiji hlapnih organskih spojin iz naprav, ki uporabljajo organska topila (Uradni list RS št.</p>
+    <p xml:id="pb10.p7" xml:lang="sl">46/02). Za proizvodne obrate, ki proizvajajo premazna sredstva, sredstva za zaščito lesa in zgradb, lepil ali tiskarskih barv in porabijo več kot 100 ton topil letno velja, da je mejna koncentracija hlapnih organskih spojin v zajetih emisijah maksimalno 150 mg C/m³ (Uradni list RS št. 46/02) 3. V uredbi, ki je še v postopku usklajevanja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD in 66/06 – odl. US) na Vladi Republike Slovenije, pa je meja 150 mg C/ m³ že znižana. 24. člen uredbe se glasi: »Mejni masni pretok celotnih organskih snovi razen organskih delcev, izražen kot celotni ogljik, je 500g/h in mejna koncentracija celotnih organskih snovi, izražena kot celotni ogljik, 50 mg/m³«</p>
+    <p xml:id="pb10.p8" xml:lang="sl">3. V uredbi, ki je še v postopku usklajevanja (Uradni list RS, št. 39/06 – uradno prečiščeno besedilo, 49/06 – ZMetD in 66/06 – odl. US) na Vladi Republike Slovenije, pa je meja 150 mg C/ m³ že znižana. 24. člen uredbe se glasi: »Mejni masni pretok celotnih organskih snovi razen organskih delcev, izražen kot celotni ogljik, je 500g/h in mejna koncentracija celotnih organskih snovi, izražena kot celotni ogljik, 50 mg/m³« 1.3. VOC-definicije 1.3. VOC-definicije</p>
+    <p xml:id="pb10.p9" xml:lang="sl">Po definiciji pomenijo hlapne organske spojine (Volatile Organic Compounds, krajše VOC), vse hlapne organske spojine (razen metana in ogljikovega monoksida), ki so sposobne tvoriti fotokemične oksidante z reakcijo med dušikovimi oksidi in sončno svetlobo. Po evropski direktivi 97/C99/02 so hlapne organske spojine snovi, Po definiciji pomenijo hlapne organske spojine (Volatile Organic Compounds, krajše VOC), vse hlapne organske spojine (razen metana in ogljikovega monoksida), ki so sposobne tvoriti fotokemične oksidante z reakcijo med dušikovimi oksidi in sončno svetlobo. Po evropski direktivi 97/C99/02 so hlapne organske spojine snovi, Slika 1: Shematični prikaz maksimalne dovoljene emisije VOC v zrak 3 enote</p>
+    <p xml:id="pb10.p10" xml:lang="sl">Proces proizvodnje, izdelava premazov in umetnih smol Izhod iz procesaizdelki, ki vsebujejo minimalno 97 enot</p>
+    <p xml:id="pb10.p11" xml:lang="sl">VOC</p>
+    <p xml:id="pb10.p12" xml:lang="sl">Vnos 100 enot VOC v surovinah ki imajo pri 293,15 st K parni tlak 0,01 kPa ali več, ali spojina z enako hlapnostjo pri določenih pogojih uporabe.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="en">-----------------------------------------------------------------------------------------------------VOC are all organic compounds which have a vapour pressure equal to or greater then 0,01 kPa at 19,85℃C. If the conditions under which organic compounds are used include high temperatures and if at these high temperatures the vapour pressure is also equal to or higher then 0,01 kPa they are also regarded as VOC.</p>
+    <p xml:id="pb11.p2" xml:lang="sl">(Hackmack, 2002: str.5) Primeri parnih tlakov pri 20℃C: Alifatski ogljikovodiki: 0,04 kPa Izopropanol: 1,0 kPa</p>
+    <p xml:id="pb11.p3" xml:lang="sl">Bencin, aromatska topila: 4,0 kPa</p>
+    <p xml:id="pb11.p4" xml:lang="sl">Organske spojine glede na strukturo delimo na (Vuk, 1999, str 164): 1. alifatske spojine, katerih molekule imajo obliko ravne ali pa razvejane verige ter</p>
+    <p xml:id="pb11.p5" xml:lang="sl">2. ciklične spojine, ki imajo obročasto strukturo in jih delimo na</p>
+    <p xml:id="pb11.p6" xml:lang="sl">• aliciklične in</p>
+    <p xml:id="pb11.p7" xml:lang="sl">• aromatske</p>
+    <p xml:id="pb11.p8" xml:lang="sl">1.4. Hlapne organske spojine v premazni industriji</p>
+    <p xml:id="pb11.p9" xml:lang="sl">V premazni industriji se hlapne organske spojine uporabljajo večinoma kot topila. Definicija topila je: Po standardu SIST EN 971-1: Barve in laki – izrazi in definicije za premazne materiale – 1.del: Splošni izrazi (enakovreden EN 9711:1996): Topilo (angl. Solvent, nem. Lösemittel,): Tekočina iz ene ali več sestavin, ki je hlapna pri danih pogojih sušenja in v kateri je vezivo popolnoma topno.</p>
+    <p xml:id="pb11.p10" xml:lang="sl">Druga definicija topil je: Topila so hlapne tekočine, ki imajo lastnost raztapljanja plinov, tekočin ali trdnih snovi, pri čemer pa kemična sestava topljenca in topila ostaneta nespremenjeni.</p>
+    <p xml:id="pb11.p11" xml:lang="sl">Glede na sestavo topila delimo na:</p>
+    <p xml:id="pb11.p12" xml:lang="sl">• oglikovodikova topila - alifatska (beli špiriti, specialni bencini, ostala alifatska topila), aromatska (toluen, ksilen), izoparafini;</p>
+    <p xml:id="pb11.p13" xml:lang="en">• oksigenirana topila - alkoholi (etanol, metanol, izopropilni alkohol, …), ketoni (aceton, metil etil keton, …), acetati (etil acetat, butil acetat, …);</p>
+    <p xml:id="pb11.p14" xml:lang="sl">• glikole (etilenglikol, dietilenglikol, propilenglikol);</p>
+    <p xml:id="pb11.p15" xml:lang="sl">• klorirana topila (trikloretiln, perkloretilen, metilenklorid).</p>
+    <p xml:id="pb11.p16" xml:lang="sl">Pri topilih razlikujemo zlasti naslednje lastnosti:</p>
+    <p xml:id="pb11.p17" xml:lang="sl">• topilna moč,</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">• hlapnost in vrelišče,</p>
+    <p xml:id="pb12.p2" xml:lang="sl">• vnetišče in temperatura samovžiga,</p>
+    <p xml:id="pb12.p3" xml:lang="sl">• viskoznost,</p>
+    <p xml:id="pb12.p4" xml:lang="sl">• toksičnost,</p>
+    <p xml:id="pb12.p5" xml:lang="sl">• specifične kemične lastnosti,</p>
+    <p xml:id="pb12.p6" xml:lang="sl">• specifične organoleptične lastnosti (vonj).</p>
+    <p xml:id="pb12.p7" xml:lang="sl">Najpomembnejše lastnosti topil:</p>
+    <p xml:id="pb12.p8" xml:lang="sl">Topilna moč (angl.: solvency): v splošnem pove, ali se neko vezivo v topilu raztaplja ali ne. Iz sestave veziva (polimera) je zelo težko napovedati, v katerem topilu se bo raztapljalo. Splošno pravilo je, da »se podobno topi v podobnem«, npr. polarne snovi v polarnih topilih, nepolarna veziva pa v nepolarnih. Vendar pa to »pravilo« mnogokrat daje napačno napoved, še posebej težko pa je napovedati topnost polimerov v zmeseh topil. V pomoč nam je lahko delitev topil glede na kapaciteto za tvorbo vodikovih vezi:</p>
+    <p xml:id="pb12.p9" xml:lang="sl">- topila s šibkimi vodikovimi vezmi (ogljikovodiki, kloro- in nitro- alkani ),</p>
+    <p xml:id="pb12.p10" xml:lang="sl">- topila, ki tvorijo srednje močne vodikove vezi (ketoni, estri, etri),</p>
+    <p xml:id="pb12.p11" xml:lang="sl">- topila z močnimi vodikovimi vezmi (alkoholi in voda).</p>
+    <p xml:id="pb12.p12" xml:lang="sl">Pokazatelj topilne moči nekega topila je tudi viskoznost: kolikor nižjo viskoznost raztopine istega veziva iste koncentracije dosežemo, toliko boljše je topilo.</p>
+    <p xml:id="pb12.p13" xml:lang="sl">Viskoznost: viskoznost topila oz. zmesi topil pomembno vpliva na viskoznost premaza</p>
+    <p xml:id="pb12.p14" xml:lang="sl">Hlapnost in vrelišče: po nanosu tekočega premaza morajo topila in razredčila oz. tekoča faza premaznega sredstva odhlapeti. Hitrost hlapenja hlapnih komponent je zelo pomembna ne samo za proces utrjevanja, temveč tudi za končne lastnosti utrjenega filma. Npr. pri nanosu na vertikalne površine s postopkom brizganja mora tekoča faza hitro odhlapeti, da ne pride do tako imenovanega zatekanja premaza. Po drugi strani prevelika hlapnost lahko vodi do napak, kot je npr. motna površina zaradi kondenza vodne pare. Podatke o hlapnosti topil lahko najdemo v tabelah, kjer velja dogovor, da je hlapnost butil acetata 100. Tako je hlapnost izopropanola z vrednostjo 200 2x večja. Vendar pa je ocenjevanje hlapnosti zmesi topil zelo težavno. Hlapnost topil v zmeseh je drugačna od hlapnosti čistih topil, poleg tega pa na hlapnost močno vpliva tudi vrsta raztopljenega veziva. Zato so za izbiro pravilne sestave zmesi topil še vedno zelo pomembni poskusi.</p>
+    <p xml:id="pb12.p15" xml:lang="sl">Dobro oceno za hlapnost pa predstavljajo tudi vrelišča čistih topil (boiling point, BP) ali območja vrenja (boiling range, BR) zmesi topil. Bolj hlapna topila imajo nižja vrelišča, res pa je, da temperatura vrelišča pove le, pri kateri temperaturi tekočina vre, ne pa kako hitro odhlapi pri neki nižji temperaturi.</p>
+    <p xml:id="pb12.p16" xml:lang="sl">Glede na vrelišče ločimo:</p>
+    <p xml:id="pb12.p17" xml:lang="sl">- topila z nizkim vreliščem, pod 100 C°: običajno so v premazih, ki jih nanašamo z brizganjem;</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">- topila s srednje visokim vreliščem, med 100 °C in 150 °C: v vseh vrstah premazov, za dobro razlivanje po prvem nanosu in relativno hitro sušenje po drugem nanosu;</p>
+    <p xml:id="pb13.p2" xml:lang="sl">- topila z visokim vreliščem, nad 150 °C: pri premazih, ki morajo dlje časa ostati v tekočem stanju, npr. pri reakcijskem utrjevanju z drugim nanosom.</p>
+    <p xml:id="pb13.p3" xml:lang="sl">Pregled najpomembnejših topil in njihovih lastnosti: Voda</p>
+    <p xml:id="pb13.p4" xml:lang="sl">Voda je najcenejše in okolju najprijaznejše topilo. Voda kot topilo ima dobre in slabe lastnosti: Prednosti vode kot topila so:</p>
+    <p xml:id="pb13.p5" xml:lang="sl">• nizka cena</p>
+    <p xml:id="pb13.p6" xml:lang="sl">• ni vonja</p>
+    <p xml:id="pb13.p7" xml:lang="sl">• okoljska sprejemljivost Pomanjkljivosti:</p>
+    <p xml:id="pb13.p8" xml:lang="sl">• nizka viskoznost in težko uravnavanje reoloških lastnosti vodnih premazov</p>
+    <p xml:id="pb13.p9" xml:lang="sl">• visoka površinska napetost</p>
+    <p xml:id="pb13.p10" xml:lang="sl">• počasno sušenje in velika poraba energije za sušenje vodnih premazov</p>
+    <p xml:id="pb13.p11" xml:lang="sl">• dvig lesnih vlaken</p>
+    <p xml:id="pb13.p12" xml:lang="sl">Alifatski ogljikovodiki (beli špiriti, specialni bencini, ostala alifatska topila ) Kemijsko zelo obstojna topila. Izkazujejo dobro topilno moč za nepolarna filmotvorna veziva kot so olja, voski in parafin. Raztapljajo tudi polarna veziva kot so poliakrilati.</p>
+    <p xml:id="pb13.p13" xml:lang="sl">Aromatski ogljikovodiki</p>
+    <p xml:id="pb13.p14" xml:lang="sl">So dražji od alifatskih ogljikovodikov. Raztapljajo alkide, nasičene poliestrske smole in poliakrilate. Najpomembnejša predstavnika sta toluen in ksilen.</p>
+    <p xml:id="pb13.p15" xml:lang="sl">Terpentini</p>
+    <p xml:id="pb13.p16" xml:lang="sl">Pridobivajo jih z destilacijo iglavcev. Imajo visoko topilno moč in se uporabljajo kot topila z visokim vreliščem za oljne in alkidne premaze.</p>
+    <p xml:id="pb13.p17" xml:lang="sl">Alkoholi (etanol, metanol, izopropilni alkohol..)</p>
+    <p xml:id="pb13.p18" xml:lang="sl">Nižji alkoholi – npr. metanol in etanol – so primerni za močno polarna veziva, npr. fenolne smole ali derivate celuloze. Višje alkohole uporabljamo kot dodatek acetatom, npr. za vrhnje premazne sloje.</p>
+    <p xml:id="pb13.p19" xml:lang="sl">Estri (etil acetat, butil acetat, …)</p>
+    <p xml:id="pb13.p20" xml:lang="sl">Od estrov se v premazni industriji večinoma uporabljajo acetati. Nekateri nižji estri so topni v vodi. Po lastnostih so precej podobni ketonom, le da imajo prijetnejši vonj. Etil acetat je primeren za hitro sušeče se premaze, kot so npr. nitrocelulozni laki, uporablja se tudi v poliuretanskih premazih. Najpomembnejši ester v premazni industriji pa je butil acetat. Ima ravno pravšnjo hlapnost za hitro sušenje, pri čemer pa je možnost nastanka napak (npr. kraterjev) v utrjenem filmu zelo majhna. Zaradi te lastnosti je butil acetat zelo pogosto topilo v avtomobilskih premazih.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Ketoni (aceton, metil etil keton, …),</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Imajo značilen vonj. Nižji ketoni (aceton, metil etil keton – MEK) topijo polarne sisteme. MEK je topilo z nizkim vreliščem in lahko nadomešča etil acetat. Pri višjih ketonih je bolj izražena nepolarnost, zato so primernejši za nepolarna veziva.</p>
+    <p xml:id="pb14.p3" xml:lang="sl">Glikoli (etilenglikol, dietilenglikol, propilenglikol) So pomembna surovina pri sintezi smol. Se mešajo z vodo in so v naravi biološko razgradljivi.</p>
+    <p xml:id="pb14.p4" xml:lang="sl">1.5. Učinki VOC</p>
+    <p xml:id="pb14.p5" xml:lang="sl">Hlapne organske spojine igrajo pomembno vlogo pri obremenjevanju zraka s škodljivimi spojinami. V kombinaciji z dušikovimi oksidi tvorijo fotokemijske oksidante, ki zvišujejo koncentracijo ozona tik ob površju zemlje in v troposferi (210km nad zemljo). Fotokemijski oksidanti so sekundarna onesnažila (polutanti), ki nastanejo v onesnaženem ozračju pod vplivom sončne svetlobe.</p>
+    <p xml:id="pb14.p6" xml:lang="sl">Hlapne organske spojine, ki so v ozračju prisotne kot posledica človekove aktivnosti, imenujemo antropogeni hlapni ogljikovodiki. Izvori antropogenih hlapnih ogljikovodikov so: izpušni plini motorjev z notranjim izgorevanjem, izhlapevanje goriv iz motornih vozil, shranjevanje in pretakanje goriv in topil, izgorevanje, uporaba topil, različni industrijski procesi, rafinerije nafte, odlaganje odpadkov, predelovanje hrane in pijače ter kmetijstvo.</p>
+    <p xml:id="pb14.p7" xml:lang="sl">Evropska lestvica iz leta 1996 kaže naslednji vrstni red virov VOC emisij: 34 % transport</p>
+    <p xml:id="pb14.p8" xml:lang="sl">23 % izvira iz narave</p>
+    <p xml:id="pb14.p9" xml:lang="sl">19 % prihaja od organskih topil 16 % iz rafinerij in kemijske industrije 6 % iz sežiganja fosilnih goriv</p>
+    <p xml:id="pb14.p10" xml:lang="sl">Slovenska lestvica iz leta 2002 je zelo podobna evropski. Največji delež prispeva promet (30,8%) na drugem mestu pa je uporaba topil (23%). Velik delež prispevajo tudi mala kurišča, saj je njihov delež ena petina vseh emisij.</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">Grafikon 1: Delež po izvorih VOC v Sloveniji leta 2002 (vir: Kazalci okolja 2003) 3,6% 11,1% 2,7% 9,3%</p>
+    <p xml:id="pb15.p2" xml:lang="sl">19,3%23,0% 30,8% 0,1% energetika ubežne emisije industrijske kotlovnice tehnološki procesi mala kurišča uporaba topil cestni promet ostali promet</p>
+    <p xml:id="pb15.p3" xml:lang="sl">Pomemben del koncentracije hlapnih ogljikovodikov v atmosferi predstavljajo tudi naravni biogeni procesi v naravi kot so: emisije iz rastlin, dreves, živali, emisije pri naravnih požarih v naravi in anaerobni procesi v naravi predvsem v močvirjih.</p>
+    <p xml:id="pb15.p4" xml:lang="sl">Hlapne ogljikovodike iz naravnih izvorov imenujemo biogeni ogljikovodiki.</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Najpomembnejši biogeni ogljikovodiki so: izopren (C5H8) in monoterpeni (C10H16), različne kisline, estri in ketoni.</p>
+    <p xml:id="pb15.p6" xml:lang="sl">1.6. Ozon</p>
+    <p xml:id="pb15.p7" xml:lang="sl">Ozon je posebna oblika elementa kisika. V zraku je kisik plin, v katerem dva kisikova atoma tvorita molekulo kisika O2. V molekuli ozona so med seboj povezani trije kisikovi atomi (O3) in zaradi tega je ozon močeno reaktiven plin - oksidant.</p>
+    <p xml:id="pb15.p8" xml:lang="sl">Ozon je leta 1840 odkril SchÖnbein. Ugotovil je, da nastaja ob nevihtah in ima značilen oster vonj, kar pomeni tudi njegovo ime v grščini (gr. ozein – vonjati, dišati).</p>
+    <p xml:id="pb15.p9" xml:lang="sl">1.6.1. Ozon v stratosferi</p>
+    <p xml:id="pb15.p10" xml:lang="sl">V stratosferi se ozon tvori zaradi fotolize molekul kisika. Za to reakcijo je potrebna svetloba valovne dolžine 242nm v UV področju svetlobnega spektra.</p>
+    <p xml:id="pb15.p11" xml:lang="sl">Svetloba te valovne dolžine se večinoma absorbira v stratosferski ozonski plasti in le v manjši meri dospe do zemeljskega površja. Najpomembnejša plast stratosferskega ozona se nahaja na višini od 20 do 30km. V tej plasti se nahaja 90% vsega ozona na Zemlji. Tej plasti rečemo ozonski plašč oziroma ozonski ščit. Zmanjševanje količine ozona v stratosferi vodi do povečanega UV-B in UV-C sevanja na zemeljsko površino. To sevanje lahko povzroča okvare dedne zasnove pri živih organizmih.</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">Povečano sevanje UV-B žarkov vpliva tudi na zmanjšano intenzivnost fotosinteze pri rastlinah, kar povzroča manjši prirastek. Pri ljudeh nastopajo predvsem poškodbe oči in kože, veča pa se tudi tveganje za nastanek kožnega raka.</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Razpadanje ozona v stratosferi je povezano s količino elementov (klor, brom in fluor), ki povzročajo razpad molekul ozona v stratosferi. Najbolj nevarni so halogenirani derivati ogljikovodikov (CFC). Čeprav je izmenjava snovi med troposfero in stratosfero zelo majhna, uspe določeni količini dolgoživih CFC-ejev priti v višje zračne plasti. Tam jih kratkovalovno sončno sevanje razgradi v njihove osnovne elemente. Razgradni mehanizem klorovih atomov je izredno učinkovit, ker se na koncu reakcijske verige ponovno tvori prost atom klora, ki nadaljuje z reakcijami. Vsak atom klora lahko tako uniči do 100.000 molekul ozona.</p>
+    <p xml:id="pb16.p3" xml:lang="sl">Preprosto lahko reakcije razpada ozona zapišemo tako: Cl · + O3 = ClO· + O2 ClO· +O· = Cl· + O2</p>
+    <p xml:id="pb16.p4" xml:lang="sl">O· + O3 = O2 + O2</p>
+    <p xml:id="pb16.p5" xml:lang="sl">Ker so snovi, ki povzročajo razpadanje ozona že v atmosferi, in zaradi njihovih dolgih zadrževalnih časov, je zelo optimistična napoved, da naj bi se koncentracija ozona dvignila na vrednost iz leta 1980 šele sredi 21. stoletja.</p>
+    <p xml:id="pb16.p6" xml:lang="sl">Tabela 1: Zmanjšanje povprečne količine ozona v stratosferi od leta 1969 do leta 1989 zmanjšanje koncentracije ozona v stratosferi ( % ) Zemljepisna širina ( ℃ ) Severna polobla Južna polobla 0 -19 -1,6 - 2,1 19 - 30 - 3,1 -2,6 30 - 40 - 1,7 -2,7 40 - 53 - 3,0 -4,9 53 - 64 - 2,3 -10,6 1.6.2. Prizemni ozon</p>
+    <p xml:id="pb16.p7" xml:lang="sl">Ozon pri tleh (prizemni ozon) nastaja v vročih poletnih mesecih v urbanih predelih, kjer sta razširjena industrija in gost promet. Ozon vpliva na snovi, s katerimi pride v stik. Po podatkih organizacije WHO prizemni ozon v koncentracijah, ki v 8 urah presegajo 120µg/m³, škoduje zdravju ljudi in negativno vpliva na biosfero. Zaradi svoje reaktivnosti reagira s fosfolipidi in proteini celičnih membran. Pri tem nastajajo organizmom škodljivi nestabilni in močno reaktivni produkti, kot so organski radikali in peroksidi. Te snovi so škodljive za celice.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Pri dihanju vpliva na dihalne poti. V vodi je slabo topen in se ne absorbira v sluzi zgornjih dihalnih poti, zato prodre globoko v najobčutljivejše predele pljuč.</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Povečana koncentracija ozona ima številne negativne posledice na pljuča. Te posledice so:</p>
+    <p xml:id="pb17.p3" xml:lang="sl">• vnetni procesi v pljučih,</p>
+    <p xml:id="pb17.p4" xml:lang="sl">• zmanjšanje telesne zmogljivosti,</p>
+    <p xml:id="pb17.p5" xml:lang="sl">• spremembe v pljučnem tkivu,</p>
+    <p xml:id="pb17.p6" xml:lang="sl">• kašljanje, občutek tesnobe v prsih,</p>
+    <p xml:id="pb17.p7" xml:lang="sl">• alergijske reakcije.</p>
+    <p xml:id="pb17.p8" xml:lang="sl">Troposferski ozon je tudi povzročitelj večine poškodb na rastlinah. Ozon sam ali v součinkovanju z drugimi viri onesnaževanja spreminja vrstno sestavo naravnih rastlinskih združb, zmanjšuje pridelek in kvari videz gojenih rastlin.</p>
+    <p xml:id="pb17.p9" xml:lang="sl">Slika 2: Shematični prikaz tvorjenja ozona v troposferi (vir: Časopis Barve, št.</p>
+    <p xml:id="pb17.p10" xml:lang="sl">Kot je razvidno iz zgornje sheme, so dušikovi oksidi, ogljikovodiki in ogljikov oksid predhodniki fotooksidatov, iz katerih se v fotokemičnih reakcijah tvori ozon.</p>
+    <p xml:id="pb17.p11" xml:lang="sl">Večji del teh škodljivih snovi se sprošča v zrak pri izgorevanju v Ottovih, dizelskih in letalskih motorjih. Ottovi motorji pri izgorevanju sproščajo v zrak kratke in srednje dolge verige ogljikovodikov in aromate, kot so benzen, toluen in ksilen (BTX). Dizelski motorji sproščajo v zrak dolgoverižne alkane. Poleg teh izhajata še etan in propan. Letalski motorji pa spuščajo predvsem alkane.</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">Osnovne kemijske reakcije, ki potekajo v troposferi in pripeljejo do tvorbe ozona so:</p>
+    <p xml:id="pb18.p2" xml:lang="sl">• reakcije z nemetanskimi ogljikovodiki in z dušikovim oksidom,</p>
+    <p xml:id="pb18.p3" xml:lang="sl">• reakcije z metanom,</p>
+    <p xml:id="pb18.p4" xml:lang="sl">• reakcije s klorom in</p>
+    <p xml:id="pb18.p5" xml:lang="sl">• reakcije s kloriranimi ogljikovodiki.</p>
+    <p xml:id="pb18.p6" xml:lang="sl">Tabela 2: Izvor fotooksidantov v Sloveniji – ocena emisij antropogenih virov predhodnikov fotooksidantov in ozonski potencial.</p>
+    <p xml:id="pb18.p7" xml:lang="sl">Predhodnik Emisija ( t/leto)</p>
+    <p xml:id="pb18.p8" xml:lang="sl">Ozonski potencial* (t/leto)</p>
+    <p xml:id="pb18.p9" xml:lang="sl">Nemetanski ogljikovodiki 46.300 324.000 Metan 124.000 1.240.000 Ogljikov oksid 93.000 150.000 Vsota 265.000 1.714.000</p>
+    <p xml:id="pb18.p10" xml:lang="sl">*Ozonski potencial je količina ozona, ki lahko nastane iz predhodnikov v zraku Kemizem tvorjenja ozona iz različnih organskih spojin je še slabo raziskan.</p>
+    <p xml:id="pb18.p11" xml:lang="sl">Najmanjši potencial imajo alkoholi, alkeni so že bolj aktivni, aromatske spojine pa tvorijo bistveno več radikalov. Kemizmi razgradnje ogljikovodikov in drugih organskih snovi so zelo kompleksni in jih je težko zajeti v izračune. Tudi zaradi tega je težko napovedati tvorbo fotooksidantov v realni atmosferi.</p>
+    <p xml:id="pb18.p12" xml:lang="sl">Podatek v tabeli št. 2 za Nemetanske ogljikovodike je povzet po http://www.rcp.ijs.si/ceu/sl/node/103 »Emisije VOC so bile leta 2004 46.300 ton. V obdobju 2000–2004 so se zmanjšale za 8 odstotkov. Mejne emisije za leto 2010 znašajo 40.000 ton. Izvajanje ukrepov, ki izhajajo iz obstoječe zakonodaje, bo do leta 2010 emisije VOC znižalo pod mejne emisije. Največ se bodo emisije zmanjšale zaradi uvajanja novih standardov EURO za vozila ob obnavljanju voznega parka, sledi zmanjšanje emisij iz rabe topil v industriji s sežigom dimnih plinov, zmanjšanjem vsebnosti topil v pripravkih, spremembo tehnologije, kondenzacijo plinov in adsorpcijo ter zmanjšanje emisij zaradi evaporacije bencina iz vozil. Poleg teh ukrepov k zmanjšanju emisij prispevajo še: znižanje vsebnosti topil v barvah in izdelkih za široko rabo, tehnična uskladitev skladišč bencina, naprav za polnjenje in praznjenje ter bencinskih servisov, zamenjava naprav, vzpostavitev zbiranja in regeneracije destilacijskega ostanka ter povečanje tehnološke discipline v kemičnih čistilnicah in spodbujanje nakupa sodobnih kotlov na lesno biomaso. Stroški izvajanja ukrepov leta 2010 so bili ocenjeni na 23,5 mio EUR letno.«</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">2. PRIKAZ SEDANJEGA STANJA</p>
+    <p xml:id="pb19.p2" xml:lang="sl">2.1. Direktiva o emisiji organskih topil</p>
+    <p xml:id="pb19.p3" xml:lang="sl">Direktiva o emisiji topil (Solvent Emissions Directive, krajše SED) je bila sprejeta leta 1999. Postavila je zelo stroge zakonske zahteve za evropsko industrijo, ki uporablja organska topila. Cilj je zmanjšanje emisij VOC v letu 2007 za 67% glede na leto 1990. Ocenjeno je, da bo direktiva zajela 400.000 podjetij, ki zaposlujejo 10 milijonov ljudi. Zahteve direktive SED:</p>
+    <p xml:id="pb19.p4" xml:lang="sl">• vsi porabniki morajo narediti načrt zmanjševanja emisij hlapnih organskih spojin;</p>
+    <p xml:id="pb19.p5" xml:lang="sl">• potreben je strog nadzor nad emisijo in še posebej nad strupenimi snovmi</p>
+    <p xml:id="pb19.p6" xml:lang="sl">• emisije, ki se spuščajo v okolje, morajo biti tehnično in ekonomsko obvladljive;</p>
+    <p xml:id="pb19.p7" xml:lang="sl">• stalno je potrebno nadomeščati spojine, ki so nevarne za okolje in zdravje, z manj škodljivimi;</p>
+    <p xml:id="pb19.p8" xml:lang="sl">• ta direktiva, ki se osredotoča na emisije v zrak, ne daje rezultatov na drugih področjih onesnaževanja, kot so na primer vode in zemlja</p>
+    <p xml:id="pb19.p9" xml:lang="sl">• rezultati meritev morajo biti javni.</p>
+    <p xml:id="pb19.p10" xml:lang="sl">Tabela 3: Zahteve SED za posamezna področja (Publikacija VOC - Helios 2002) Mejna koncentracija nezajetih emisij</p>
+    <p xml:id="pb19.p11" xml:lang="sl">% na vnos organskih topil Področje</p>
+    <p xml:id="pb19.p12" xml:lang="sl">(naziv naprave) Najmanjša letna poraba topil (v tonah) Mejna konc.</p>
+    <p xml:id="pb19.p13" xml:lang="sl">Zajetih in očiščenih odpadnih plinov (mgC/m³) Obstoječe naprave nove naprave Naprave za premazovanje lesa 15-25 Nad 25 100</p>
+    <p xml:id="pb19.p14" xml:lang="sl">Naprave za impregniranje lesa Nad 25 100 45 / Naprave za premazovanje kovin in plastike 5-15</p>
+    <p xml:id="pb19.p15" xml:lang="sl">Nad 15 100</p>
+    <p xml:id="pb19.p16" xml:lang="sl">Naprave za serijsko lakiranje vozil in ličarske delavnice nad 15 t/letno 0,5 50 25 25</p>
+    <p xml:id="pb19.p17" xml:lang="sl">* prva številka se nanaša na sušenje premaza Druga številka se nanaša na aplikacijo premaza</p>
+    <p xml:id="pb19.p18" xml:lang="sl">Podatki za Slovenijo: V letu 2004 je bilo emitiranih 46300 ton hlapnih organskih snovi. Znotraj sektorja raba topil in drugih izdelkov k emisijam največ prispevata uporaba barv v industriji in široka raba izdelkov, ki vsebujejo topila. Visoke emisije zaradi zgorevanja goriv v široki rabi so posledica visokih emisij iz zgorevanja lesa v starejših kotlih, kjer les nepopolno zgoreva.</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">Skupne emisije VOC se glede na leto 2003 praktično niso spremenile. Spremenili pa so se deleži posameznih sektorjev. Zmanjšal se je delež emisij iz prometa, povečal pa se je delež emisij iz industrijskih procesov .</p>
+    <p xml:id="pb20.p2" xml:lang="sl">Grafikon 2: Emisije VOC v letih 1990, 1995 in 2000 do 2004 (vir: ARSO) 0,000 10,000 20,000 30,000 40,000 50,000 60,000</p>
+    <p xml:id="pb20.p3" xml:lang="sl">1990 1995 2000 2001 2002 2003 2004 leto Em is ij e</p>
+    <p xml:id="pb20.p4" xml:lang="sl">VO C</p>
+    <p xml:id="pb20.p5" xml:lang="sl">[k t]</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Oskrba z energijo Predelovalne dej. in gradb.</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Promet Druga področja</p>
+    <p xml:id="pb20.p8" xml:lang="sl">Ubežne emisije INDUSTRIJSKI PROCESI</p>
+    <p xml:id="pb20.p9" xml:lang="sl">RABA TOPIL IN DRUGIH IZDELKOV</p>
+    <p xml:id="pb20.p10" xml:lang="sl">Po projekcijah se emisije VOC po letu 2005 postopno zmanjšujejo. Projekcija emisije VOC za leto 2010 so ocenjene na 37000 ton, leta 2020 pa na 33600 ton.</p>
+    <p xml:id="pb20.p11" xml:lang="sl">Mejne emisije po uredbi NEC znašajo 40000 ton. Kljub veliki negotovosti projekcije emisij na podlagi rezultatov se pričakuje, da bo Slovenija dosegla emisije nižje od mejnih emisij.</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">Tabela 4: Evidence emisij za izbrana leta ter projekcija emisij VOC do leta 2020 v (vir: ARSO, IJS, Kemijski inštitut Slovenije)</p>
+    <p xml:id="pb21.p2" xml:lang="sl">NFR sektorji Evidence emisij v( 1000 t) Projekcije emisij v( 1000t) Koda Ime 1990 1995 2000 2004 2005 2010 2015 2020</p>
+    <p xml:id="pb21.p3" xml:lang="sl">1. ENERGETIKA 36,89 41,52 34,93 29,22 29,83 25,33 22,72 21,42</p>
+    <p xml:id="pb21.p4" xml:lang="sl">1.A Zgorevanje goriv 32,84 36,42 29,67 23,45 27,47 23,61 21,51 20,55 1.A.1 Oskrba z energijo 1,61 1,54 1,52 1,67 1,79 1,84 1,52 1,53 1.A.2 Predelovalne dej. in gradb. 1,60 1,26 0,73 1,31 2,09 2,21 2,26 2,33 1.A.3 Promet 19,02 23,61 17,60 12,11 9,12 5,18 3,60 2,88 1.A.4 Druga področja 10,61 10,02 9,82 8,37 14,47 14,38 14,12 13,80 1.B Ubežne emisije 4,06 5,10 5,26 5,77 2,36 1,71 1,21 0,87</p>
+    <p xml:id="pb21.p5" xml:lang="sl">2. INDUSTRIJSKI PROCESI 4,50 3,89 4,15 5,80 2,37 2,49 2,48 2,60</p>
+    <p xml:id="pb21.p6" xml:lang="sl">RABA TOPIL IN DRUGIH IZDELKOV</p>
+    <p xml:id="pb21.p7" xml:lang="sl">SKUPAJ 54,03 54,95 50,32 46,27 41,76 37,00 34,60 33,55</p>
+    <p xml:id="pb21.p8" xml:lang="sl">NEC emisije 40,00 40,00 40,00</p>
+    <p xml:id="pb21.p9" xml:lang="sl">2.1.1. Evropski predpisi s področja industrijskega onesnaževanja v povezavi z domačo zakonodaja</p>
+    <p xml:id="pb21.p10" xml:lang="sl">IPPC: Direktiva o celovitem preprečevanju industrijskega onesnaževanja (96/61/EC,</p>
+    <p xml:id="pb21.p11" xml:lang="sl">99/391/EC, 00/479/EC)</p>
+    <p xml:id="pb21.p12" xml:lang="sl">Obstoječa slovenska zakonodaja:</p>
+    <p xml:id="pb21.p13" xml:lang="sl">- ne obstaja (emisije urejajo predpisi o emisijah v zrak, vode, o odpadkih, hrupu, sevanjih in predpisi o posameznih industrijskih dejavnostih).</p>
+    <p xml:id="pb21.p14" xml:lang="sl">VOC: Direktiva o zmanjševanju emisij hlapnih organskih snovi pri uporabi topil</p>
+    <p xml:id="pb21.p15" xml:lang="sl">(99/13/EC)</p>
+    <p xml:id="pb21.p16" xml:lang="sl">Obstoječa slovenska zakonodaja:</p>
+    <p xml:id="pb21.p17" xml:lang="sl">V Sloveniji je bila izdana kot Uredba o mejnih vrednostih emisije hlapnih organskih spojin v zrak iz naprav, v katerih se uporabljajo organska topila (Ur.l. RS, št. 112/2005). V uredbi so objavljene mejne vrednosti emisij za podjetja oziroma tiste obrate, ki imajo registrirano dejavnost. Vsaka dejavnost (na primer zaščita kovinskih in lesenih površin, lakiranje avtobusov, tirnih veziv…) ima glede na velikost naprave predpisane mejne vrednosti za emisije hlapnih snovi (topil).</p>
+    <p xml:id="pb21.p18" xml:lang="sl">Podjetja (lakirnice), ki so zavezanci direktive, morajo za pridobitev dovoljenja za obratovanje imeti nadzor nad emisijami VOC.</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">DECO direktiva: ( 2004/42 EC) Obstoječa slovenska zakonodaja:</p>
+    <p xml:id="pb22.p2" xml:lang="sl">V Sloveniji je bila izdana kot Uredba o mejnih vrednostih emisije hlapnih organskih spojin v zrak zaradi uporabe organskih topil v barvah in lakih ter proizvodih za ličenje vozil (Ur.l. 12/2006). Ta uredba velja predvsem za izdelke, ki jih ne zajema »industrijska« direktiva. Namen direktive (nastala je na pobudo združenja CE-PE) je bil: določiti mejne vrednosti za vsebnosti VOC-jev v premaznih sredstvih, ki se uporabljajo na stavbah (zgradbah). Pri izdelkih, ki se uvrščajo v področje direktive DECO, morajo biti na embalaži navedeni naslednji podatki:</p>
+    <p xml:id="pb22.p3" xml:lang="sl">- razred, v katerega se izdelek uvršča,</p>
+    <p xml:id="pb22.p4" xml:lang="sl">- mejna dovoljena vrednost VOC-jev za ta razred,</p>
+    <p xml:id="pb22.p5" xml:lang="sl">- vsebnost VOC tega izdelka.</p>
+    <p xml:id="pb22.p6" xml:lang="sl">Takšne zahteve veljajo za izdelke, ki so proizvedeni od 1.1.2007 naprej. Izdelke, ki ne vsebujejo takšnih oznak, je dovoljeno v letu 2007 prodajati le, če s bili proizvedeni v letu 2006. Jedro direktive prikazujeta dve tabeli, v katerih so navedeni razredi za posamezne izdelke in mejne vrednosti VOC v g/L, ki jih posamezen razred dovoljuje. Za vsak razred sta v tabeli dve vrednosti, in sicer mejna vrednost za čas od 1.1.2007 naprej in druga od 1.1.2010 naprej.</p>
+    <p xml:id="pb22.p7" xml:lang="sl">Tabela A: Mejne vrednosti za VOC v barvah in lakih Tabela B: Mejne vrednosti za vsebnost VOC v izdelkih za ličenje vozil SEVESO: Direktiva o nadzoru nad nevarnostmi velikih nesreč z nevarnimi snovmi</p>
+    <p xml:id="pb22.p8" xml:lang="sl">(96/82/EC)</p>
+    <p xml:id="pb22.p9" xml:lang="sl">Obstoječa slovenska zakonodaja:</p>
+    <p xml:id="pb22.p10" xml:lang="sl">- Navodilo za obveščanje o naravnih in drugih nesrečah (Ur. l. RS, št. 42/2000);</p>
+    <p xml:id="pb22.p11" xml:lang="sl">- Uredba o organizaciji in delovanju sistema opazovanja, obveščanja in alarmiranja (Ur. l. RS, št. 45/1997, 5/2000);</p>
+    <p xml:id="pb22.p12" xml:lang="sl">- Uredba o izdelavi načrtov zaščite in reševanja (Ur. l. RS, št. 48/1993);</p>
+    <p xml:id="pb22.p13" xml:lang="sl">- Zakon o urejanju prostora (Ur. l. SRS, št. 18/1984, 15/1989, RS, št. 71/1993);</p>
+    <p xml:id="pb22.p14" xml:lang="sl">- Zakon o urejanju naselij in drugih posegov v prostor (Ur. l. SRS, št. 18/84 s spremembami);</p>
+    <p xml:id="pb22.p15" xml:lang="sl">- Zakon o varstvu pred naravnimi in drugimi nesrečami (Ur. l. RS, št. 64/1994).</p>
+    <p xml:id="pb22.p16" xml:lang="sl">NEC direktiva: Direktiva 2001/81/ES o nacionalnih zgornjih mejah emisij v zrak za določene snovi.</p>
+    <p xml:id="pb22.p17" xml:lang="sl">Obstoječa slovenska zakonodaja:</p>
+    <p xml:id="pb22.p18" xml:lang="sl">- Uredba o nacionalnih zgornjih mejah emisij onesnaževal zunanjega zraka (Ur. l RS, št 24/05);</p>
+    <p xml:id="pb22.p19" xml:lang="sl">- Operativni program doseganja nacionalnih zgornjih mej emisij onesnaževal zunanjega zraka, 15.9.2005.</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">2.1.2. Direktiva IPPC in industrijsko onesnaževanje</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Direktiva IPPC kot osnovna direktiva EU na področju preprečevanja industrijskega onesnaževanja določa le načela, ki jih je treba upoštevati pri enotnem dovoljevanju obratovanja velikih industrijskih obratov. Podrobnejše standarde in zahteve določa več kot 60 drugih direktiv, ki jih je treba pri izvajanju direktive IPPC upoštevati.</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Zato direktiva IPPC še zdaleč ni edina na področju industrijskega onesnaževanja, kot se včasih napačno misli v javnosti. Po drugi strani ureja vprašanja preprečevanja onesnaževanja le pri največjih obratih, za katere uvaja načelo BAT. Večina industrijskih podjetij pa mora upoštevati, tako kot tudi veliki obrati, druge direktive, ki omejujejo emisije snovi in energije v okolje. Pri integralnem okoljskem dovoljevanju zato ne smemo pozabiti na vse druge obrate, ki jih ne pokriva direktiva IPPC in za katera bo prav tako treba predvideti integralna okoljska dovoljenja za obratovanje v obsegu, ustreznem njihovi dejavnosti.</p>
+    <p xml:id="pb23.p4" xml:lang="sl">Direktiva IPPC zahteva, da ima javnost dostop do vseh informacij, ki se nanašajo na vloge, na dovoljenja sama in njihovo dopolnjevanje ter do rezultatov monitoringa.</p>
+    <p xml:id="pb23.p5" xml:lang="sl">Zainteresirana javnost bo vključena v postopek pridobivanja okoljskega dovoljenja.</p>
+    <p xml:id="pb23.p6" xml:lang="sl">Pogoji izdanega dovoljenja bodo javni, prav tako pa tudi učinkovitost ukrepov oziroma skladnost ravnanja podjetja s pogoji dovoljenja. Če obstaja možnost čezmejnih učinkov, je v proces izdajanja dovoljenj vključena tudi javnost tiste države članice, ki bo najverjetneje prizadeta. Države članice so dolžne poročati o glavnih emisijah in njihovih virih, kar bo osnova za izdelavo evidence emisij in njihovih virov na ravni EU. Hkrati pa so države dolžne poročati o uresničevanju direktive in njeni učinkovitosti. Vsebina poročila določa odločba komisije EU.(Vuk, 2000, str.</p>
+    <p xml:id="pb23.p7" xml:lang="sl">EU je za preprečevanje industrijskega onesnaževanja predvidela administrativne in ekonomske ukrepe. Pri administrativnih je uvedla predvsem koncept obratovalnih dovoljenj, pri ekonomskih pa označevanje izdelkov, takse na onesnaževanje in registracijo v sistemu upravljanja okolja. V splošnem lahko delimo okoljsko politiko v industrijskem sektorju na t. i. proizvodni del (dovoljevanje opravljanja dejavnosti pri čim manjših emisijah) in področje izdelkov (podpora do okolja prijaznim izdelkom v celotni življenjski dobi). Glede na dejstvo, da postaja okoljska slika podjetja v javnosti vedno bolj ekonomska kategorija, sodi med ekonomske ukrepe tudi registracija podjetij v evropski sistem upravljanja okolja, nadgrajenem standardu</p>
+    <p xml:id="pb23.p8" xml:lang="sl">ISO 14 000.</p>
+    <p xml:id="pb23.p9" xml:lang="sl">Načelo uporabe za okolje najprimernejših tehnologij v proizvodnji pozna že naš Zakon o okolju iz leta 1993. V 8. členu so podana načela čiste proizvodnje oziroma tako imenovani koncept BAT. Težiti je treba k uporabi najboljših, v praksi uspešno preizkušenih in na trgu dostopnih tehnologij in naprav, ki povzročajo čim manjše spremembe okolja, čim manjše tveganje, porabo prostora, naravnih virov in energije, tudi ob razumno višjih stroških. Tudi načelo "onesnaževalec plača", odgovornost za okoljsko škodo in označevanje do okolja prijaznih izdelkov, poznamo iz navedenega zakona.</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">Ekvivalentni predpisi v evropski zakonodaji so IPPC in SEVESO ter direktive VOC, ki predvidevajo posebna dovoljenja za večje industrijske obrate, brez katerih obratovanje ne bo dovoljeno; pridobila jih bodo lahko le podjetja, ki bodo upoštevala standarde, ki jih omogočajo tehnike BAT. To so uradno registrirane tehnologije, s katerimi je možno dosegati predpisane emisijske standarde, vendar niso obvezne podjetje lahko uporabi druge, če z njimi dosega enake ali boljše rezultate. Vrste in kapacitete obratov so eksplicitno navedene v prilogah k direktivam - v Sloveniji je trenutno evidentiranih okrog 120 zavezancev po direktivi IPPC, 640 zavezancev po direktivi VOC (od tega 560 obrtnih delavnic) in 50 zavezancev po direktivi SEVESO. Z vstopom v EU bi se ti obrati morali uskladiti s standardi in normativi BAT do leta 2008.</p>
+    <p xml:id="pb24.p2" xml:lang="sl">Direktiva IPPC opredeljuje tudi najboljše razpoložljive tehnike ( Best Available Technique-BAT) in razvoj le teh. Najboljša razpoložljiva tehnika pomeni najbolj učinkovito in napredno stopnjo v razvoju dejavnosti in njihovih metod obratovanja, zagotavlja doseganje visoke stopnje varovanja okolja kot celote in je na trgu dosegljiva pod ekonomsko in tehnično izvedljivimi pogoji. BAT obsega sklop postopkov, tehnik, tehnologij in drugih aktivnosti, kot so načrtovanje in gradnja obrata, vzdrževanje, obratovalni standardi, raba energije in podobno. Zajema vse vidike varstva okolja. K obremenjevanju pa poleg tradicionalnih snovi prišteva tudi toploto, hrup, vibracije in druga težje opredeljiva področja vplivov na okolje (Vuk, 2000, str. 199).</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Slovenska zakonodaja je glede emisij večinoma že sedaj precej usklajena z evropskimi normativi; problemi v industriji niso toliko posledica strožjih prihodnjih zahtev, temveč so v nezadostni implementaciji obstoječih predpisov (izvajanje sanacijskih programov, izdajanje odločb, pomanjkanje inšpektorjev). V marsikaterem podjetju se je izkazalo pomanjkljivo poznavanje obstoječih predpisov.</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Po drugi strani pa imamo v Sloveniji podjetja, ki že delujejo v skladu z standardi EU in tudi pri prihodnjem usklajevanju ne pričakujejo težav. To so predvsem večja podjetja, ki so usmerjena pretežno na tuja tržišča kot npr. farmacevtska podjetja, Gorenje, Revoz, Sava, nekateri pa izvajajo obsežne sanacijske programe (VIPAP).</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">2.1.3. Pregled evropskih predpisov s področja industrijskega onesnaževanja 2.1.3.1. Horizontalne direktive</p>
+    <p xml:id="pb25.p2" xml:lang="sl">Horizontalne direktive lahko imenujemo tiste, ki veljajo za več industrijskih dejavnosti. V osnovi jih delimo na tiste, ki urejajo vprašanja proizvodnje oziroma emisij iz tehnoloških postopkov, in tiste, ki urejajo vprašanja kakovosti izdelkov.</p>
+    <p xml:id="pb25.p3" xml:lang="sl">V prvo skupino sodijo vse direktive, ki imajo v svojih dodatkih spisek industrijskih dejavnosti, za katere veljajo in za katere je treba za obratovanje pridobiti dovoljenje pristojnega telesa, v drugo pa tiste, ki omogočajo, da se izdelki sploh prodajajo (ti predpisi večinoma sodijo v prosti pretok blaga in jih tu ne podajamo), ali pa dajejo pravico do opremljanja izdelkov s posebno oznako, ki jih ločuje od drugih izdelkov na podlagi lastnosti, ki jih izkazujejo v okoljskem smislu pri njihovi izdelavi, uporabi in odstranjevanju.</p>
+    <p xml:id="pb25.p4" xml:lang="sl">V prvo skupino sodijo:</p>
+    <p xml:id="pb25.p5" xml:lang="sl">- direktiva o presoji vplivov na okolje (EIA),</p>
+    <p xml:id="pb25.p6" xml:lang="sl">- direktiva o celovitem preprečevanju industrijskega onesnaževanja in nadzoru nad njim (IPPC),</p>
+    <p xml:id="pb25.p7" xml:lang="sl">- direktiva o zmanjševanju emisije lahko hlapnih organskih snovi pri uporabi topil</p>
+    <p xml:id="pb25.p8" xml:lang="sl">(VOC),</p>
+    <p xml:id="pb25.p9" xml:lang="sl">- direktiva o nadzoru nad nevarnostmi velikih nesreč (SEVESO),</p>
+    <p xml:id="pb25.p10" xml:lang="sl">- uredba o prostovoljni udeležbi podjetij v sistemu okoljskega upravljanja (EMAS).</p>
+    <p xml:id="pb25.p11" xml:lang="sl">Vse naštete direktive, razen zadnje, imajo v svojih dodatkih spisek industrijskih dejavnosti, za katere je treba pridobiti obratovalno dovoljenje. Običajno, ne pa nujno, so te dejavnosti določene s pragom proizvodnje (kapacitete), nad katero postanejo podjetja zavezanci. Direktiva o presoji vplivov na okolje spada med preventivne predpise in zahteva dovoljenje (okoljevarstveno soglasje) v postopku gradbenega dovoljenja, upošteva pa praktično enake zahteve kot druge, zato je smiselno, da se obravnava skupaj z njimi, še posebej zato, ker je dokazilo o upoštevanju pogojev okoljevarstvenega soglasja skupaj s prvimi meritvami vplivov na okolje lahko zadosten pogoj za izdajo obratovalnih dovoljenj po drugih direktivah. Spiski industrijskih dejavnosti se večinoma pokrivajo, tako da je smiselno razmišljati o enotnem obratovalnem dovoljenju, ki bo zajemalo zahteve vseh relevantnih direktiv.</p>
+    <p xml:id="pb25.p12" xml:lang="sl">Zadnji predpis ni direktiva, ampak uredba, ki velja neposredno in za podjetja ni obvezna.</p>
+    <p xml:id="pb25.p13" xml:lang="sl">V drugo skupino sodijo direktive s področja kemikalij in uredba o okoljskem znaku, ki je prav tako neobvezen instrument. Horizontalna zakonodaja večinoma ureja administrativna vprašanja izdajanja dovoljenj in pooblastil, komunikacijo z Evropsko komisijo in načelne zahteve. Podrobnejše emisijske standarde pa predpisujejo direktive po posameznih sklopih varstva okolja (vode, zrak, odpadki) ali splošne direktive za posamezne industrijske dejavnosti, ki so obdelane v poglavju 2.2.</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">Običajno jih v svojih dodatkih navajajo tudi horizontalni predpisi. Vsi horizontalni predpisi so med seboj tesno povezani in jih je treba obravnavati celovito. Tako je treba pri izdaji okoljevarstvenega soglasja upoštevati zahteve vseh drugih direktiv, če se spiski dejavnosti pokrivajo s spiskom po direktivi EIA, pri izdaji IPPC-dovoljenj SEVESO in pri VOC direktivo IPPC, če gre za večje kapacitete.</p>
+    <p xml:id="pb26.p2" xml:lang="sl">2.1.3.2. Vertikalne direktive</p>
+    <p xml:id="pb26.p3" xml:lang="sl">Nekatere industrijske dejavnosti so urejene posebej bodisi tako, da predpisi urejajo emisije v vse medije, ali pa le v posamezne. Industrijske dejavnosti, ki so obdelane v vseh pogledih njihovih emisij v okolje, so proizvodnja titanovega dioksida in azbesta ter sežiganje odpadkov. Kot predpise za posamezne industrijske dejavnosti lahko obravnavamo tudi BAT-referenčne dokumente (BREF), čeprav to niso predpisi, ampak le pripomočki pri izdajanju dovoljenj IPPC. Vendar se bodo pri izdaji dovoljenj morali upoštevati emisijski standardi, ki jih navajajo BREF, pomembni pa so tudi z vidika dopustne porabe naravnih virov in energije, ki jih drugod ni najti, zahteva pa jih direktiva IPPC. Tudi med dokumenti BREF je nekaj "horizontalnih", torej takih, ki obravnavajo več industrijskih dejavnosti:</p>
+    <p xml:id="pb26.p4" xml:lang="sl">- sistemi emisijskega monitoringa</p>
+    <p xml:id="pb26.p5" xml:lang="sl">- ekonomska vprašanja in problemi prenosa onesnaževanja med mediji</p>
+    <p xml:id="pb26.p6" xml:lang="sl">- hladilni sistemi 2.1.4. Direktiva NEC</p>
+    <p xml:id="pb26.p7" xml:lang="sl">Cilj direktive NEC je zmanjšanje zakisljevanja, evtrofikacije in onesnaženja s prizemnim ozonom. Direktiva predstavlja nadgradnjo göteburškega protokola h Konvenciji onesnaževanju zraka na velike razdalje prek meja z dne 1.12. 1999.</p>
+    <p xml:id="pb26.p8" xml:lang="sl">Glavne točke direktive so:</p>
+    <p xml:id="pb26.p9" xml:lang="sl">- Države članice morajo najpozneje do leta 2010 omejiti svoje letne emisije žveplovega dioksida (SO2), dušikovih oksidov (NOx), hlapnih organskih snovi (VOC) in amoniaka (NH3). Mejne emisije za Slovenijo v direktivi so enake kot v göteburškem protokolu in znašajo 27000 ton SO2, 45000 ton NOx, 40000 ton VOC in 20000 ton NH3.</p>
+    <p xml:id="pb26.p10" xml:lang="sl">- Države članice morajo izdelati programe za postopno zmanjšanje nacionalnih emisij, da bi najkasneje do leta 2010 dosegle skladnost vsaj z nacionalnimi zgornjimi mejami emisij</p>
+    <p xml:id="pb26.p11" xml:lang="sl">- Države članice morajo pripraviti in letno dopolniti nacionalne evidence emisij in projekcije emisij za leto 2010 2.2. Splošno o okoljevarstvenem dovoljenju 2.2.1. Zavezanci za pridobitev okoljevarstvenega dovoljenja Zavezanci za pridobitev okoljevarstvenega dovoljenja so:</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">- vsak upravljavec, ki ima napravo, katera sodi v eno izmed 19 dejavnosti, navedenih v Prilogi 1 uredbe MV HOS</p>
+    <p xml:id="pb27.p2" xml:lang="sl">- če je uporaba hlapnih organskih spojin večja od najmanjše letne porabe organskih topil, določene v I. delu priloge 2a uredbe MV HOS</p>
+    <p xml:id="pb27.p3" xml:lang="sl">- dovoljenje potrebujejo tudi tisti, ki so zavezanci uredbe MV HOS, torej tisti, ki za ekstrahiranje ali površinsko čiščenje uporabljajo halogenirana hlapna organska topila ali pa imajo dejavnost kemičnega čiščenja.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Če zmogljivost naprav, ki jih ima posamezen upravljavec v posesti, presega porabo hlapnih organskih spojin 150kg na uro ali 200 ton na leto, mora upravljavec za obratovanje naprave namesto okoljevarstvenega dovoljenja OVD HOS pridobiti okoljevarstveno dovoljenje v skladu s predpisom, ki ureja vrste dejavnosti in naprav, ki lahko povzročajo onesnaževanje okolja večjega obsega, tako imenovano »IPPC dovoljenje«.</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Skladno s 1. točko 3. člena uredbe MV HOS se za eno napravo šteje tudi več istovrstnih naprav na istem kraju v posesti istega upravljavca, za katero se izda eno dovoljenje, lahko pa se v istem dovoljenju odloči tudi o napravi iz druge dejavnosti, če jo ima upravljavec na istem kraju. Če pa ima upravljavec naprave na različnih lokacijah, torej naprave niso na istem kraju, pa se izda dovoljenje za vsak kraj posebej. V tem primeru je potrebnih več vlog in za vsako vlogo posebej je potrebno priložiti upravno takso.</p>
+    <p xml:id="pb27.p6" xml:lang="sl">Obstoječa naprava mora pridobiti OVD HOS najkasneje do 31.10.2007.</p>
+    <p xml:id="pb27.p7" xml:lang="sl">Če obratovanje naprave ali večja sprememba v njenem obratovanju zahteva gradnjo, mora upravljavec pridobiti OVD HOS skladno s (3) odstavkom 82. člena ZVO-1 pred začetkom gradnje, v drugih primerih pa pred začetkom njenega obratovanja.</p>
+    <p xml:id="pb27.p8" xml:lang="sl">2.2.2. Bilanca topil - zahteve in definicije</p>
+    <p xml:id="pb27.p9" xml:lang="sl">V 21. členu uredbe MV HOS (Ur.l. RS št. 112/05) so podane zahteve za izdelavo bilance topil. Najpomembnejše zahteve so:</p>
+    <p xml:id="pb27.p10" xml:lang="sl">- bilanco topil je potrebno oddati do 31.3. za preteklo koledarsko leto</p>
+    <p xml:id="pb27.p11" xml:lang="sl">- bilanco topil je potrebno oddati v pisni in elektronski obliki na obrazcu, objavljenem na spletni strani ARSO.</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">Načelo bilance topil je, da je vnos enak iznosu.</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Slika 3: Bilanca topil (vir: Romana Stare,Power Point, Bilanca topil, 2006) 2.3. Direktiva VOC in premazna industrija</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Svetovna premazna industrija že daljši čas išče premaze, ki so ekološko bolj sprejemljivi kot klasični topilni premazi. V iskanju rešitev se odpirajo štiri področja, ki dejansko zmanjšujejo količino hlapnih organskih snovi, tako v proizvodnji kot pri končnem porabniku.</p>
+    <p xml:id="pb28.p4" xml:lang="sl">To so (po vrstnem redu, kot v spodnji sliki)</p>
+    <p xml:id="pb28.p5" xml:lang="sl">- elektroforeza in kataforeza</p>
+    <p xml:id="pb28.p6" xml:lang="sl">- prah</p>
+    <p xml:id="pb28.p7" xml:lang="sl">- premazi na vodni osnovi</p>
+    <p xml:id="pb28.p8" xml:lang="sl">- premazi z visoko vsebnostjo suhe snovi (high solids) Grafikon 3: Proizvodnja ekološko sprejemljivejših izdelkov v Nemčiji (vir: www.lackindustre.de</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Grafikon 3: Proizvodnja ekološko sprejemljivejših izdelkov v Nemčiji (vir: www.lackindustre.de) 2.3.1. Dekorativni premazi</p>
+    <p xml:id="pb29.p2" xml:lang="sl">Dekorativni premazi predstavljajo 54% po količini in 41% po vrednosti vseh uporabljenih premaznih sredstev v Evropi. Med dekorativnimi premazi je 72% vodnih disperzij, količina se manjša od Skandinavije proti jugu Evrope.</p>
+    <p xml:id="pb29.p3" xml:lang="sl">Pristop k emisiji VOC v dekorativnih barvah je drugačen kot pri industrijskih premazih, ker se uporabljajo pretežno na prostem. Merjenje emisij je nemogoče, zato je zmanjševanje VOC potrebno spremljati na izvoru, torej pri vsakem izdelku posebej.</p>
+    <p xml:id="pb29.p4" xml:lang="sl">V primerjavi z industrijskim sektorjem je emisija topil iz dekorativnih barv majhna, saj dosega cca 20% prodane količine in ni lokacijsko koncentrirana.</p>
+    <p xml:id="pb29.p5" xml:lang="sl">VOC v dekorativnih barvah v nekaterih evropskih državah, kot je n.pr.</p>
+    <p xml:id="pb29.p6" xml:lang="sl">Nizozemska, povezujejo z nevrotoksičnostjo topil. Tu imajo predpis, da morajo biti stene v notranjih prostorih pobarvane z izdelkom, ki ima oznako »avtorizirano za uporabo v zaprtih prostorih«, kar pomeni, da sme vsebovati maksimalno 70g/L hlapnih organskih spojin.</p>
+    <p xml:id="pb29.p7" xml:lang="sl">Premazi, ki vsebujejo organsko topilo lak bencin, smejo vsebovati le minimalne količine aromatskih topil in sicer za razred I do 0,2% in za razred II do 0,5%.</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">Tabela 5: Mejne vrednosti VOC-jev za posamezne razrede za leto 2007 in 2010 (povzeto iz tabele A direktive DECO) Oznaka razreda</p>
+    <p xml:id="pb30.p2" xml:lang="sl">Podkategorija proizvoda Tip I. stopnja zmanjševanja emisij od 1.1.2007 naprej (VOC v g/L) II. stopnja zmanjševanja emisij od 1.1. 2010 naprej (VOC v g/L)</p>
+    <p xml:id="pb30.p3" xml:lang="sl">VP*</p>
+    <p xml:id="pb30.p4" xml:lang="sl">75 30 a Notranje matirane stene in stropi (sijaj &lt;=25 pri kotu 60℃) PT** 400 30</p>
+    <p xml:id="pb30.p5" xml:lang="sl">VP 150 100 b Notranje matirane stene in stropi (sijaj &gt;25 pri kotu 60℃) PT 400 100</p>
+    <p xml:id="pb30.p6" xml:lang="sl">VP 75 40 c Zunanje stene mineralne podlage</p>
+    <p xml:id="pb30.p7" xml:lang="sl">PT 450 430</p>
+    <p xml:id="pb30.p8" xml:lang="sl">VP 150 130 d Notranje/zunanje barve za lesene ali kovinske okrase in obloge PT 400 300 VP 150 130 e Notranji/zunanji laki in lužila za les, vključno z matiranimi lužili za les PT 500 400 VP* proizvodi na osnovi vode PT** proizvodi na osnovi topil</p>
+    <p xml:id="pb30.p9" xml:lang="sl">Vrednosti v tabeli veljajo za izračunan VOC skupaj s topili, ki jih dodamo kot redčilo pred aplikacijo. VOC-ji so navedeni za premaze ki so pripravljeni za uporabo (»ready to use«). Za razredčila razredi ne veljajo in niso predmet direktive, upoštevana so namreč že v osnovnem izdelku.</p>
+    <p xml:id="pb30.p10" xml:lang="sl">2.3.2. Avtoreparature</p>
+    <p xml:id="pb30.p11" xml:lang="sl">Avtoreparaturni premazi se uporabljajo za popravila osebnih avtomobilov, komercialnih vozil, avtobusov in kamionov. Glavni proizvodi v tipični avtoreparaturi so: kit, temelj, predlak, in zaključni premazi (KH, 2K, baza in brezbarvni lak).</p>
+    <p xml:id="pb30.p12" xml:lang="sl">Čeprav so proizvajalci avtoreparaturnih premazov odgovorili na okoljske pritiske z vrsto novih proizvodov z nizko vsebnostjo VOC, je njihova uporaba v praksi razmeroma skromna. Vzrok je visoka cena premazov, visoki investicijski stroški v nove naprave in ne nazadnje prikladnost tehnoloških postopkov nanašanja konvencionalnih premazov.</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Tabela 6: Zahteve direktive SED za avtoreparaturno lakiranje Zmanjšanje direktive SED za avtoreparaturno lakiranje za 40% za 60%</p>
+    <p xml:id="pb31.p2" xml:lang="sl">Datum za nove naprave Do 31.10.2001 Do 31.10.2004 Datum za obstoječe naprave Do 31.10.2005 Do 31.10.2007 Količina uporabljenih org. topil na leto</p>
+    <p xml:id="pb31.p3" xml:lang="sl">500kg 500kg</p>
+    <p xml:id="pb31.p4" xml:lang="sl">Max. povprečje vsebnosti topila v premaznem sredstvu 64,3% 54,5%</p>
+    <p xml:id="pb31.p5" xml:lang="sl">Tabela 7: Priporočilo CEPE (združenje proizvajalcev barv, lakov, tiskarskih in umetniških barv Evrope) za zniževanje VOC v avtoreparaturnih premazih Vrsta proizvoda VOC g/L proizvoda Sredstva za pranje brizgalnih pištol 850 Čistilo 200 Kit 250</p>
+    <p xml:id="pb31.p6" xml:lang="en">Wash primer 780 Predlak 540</p>
+    <p xml:id="pb31.p7" xml:lang="sl">1K pokrivni premaz 420 Baza 420</p>
+    <p xml:id="pb31.p8" xml:lang="sl">Brezbarvni lak 420 Specialni premazi 840</p>
+    <p xml:id="pb31.p9" xml:lang="sl">Povprečna količina topil v proizvodu 50% ( zdaj 75%) 2.3.3. Industrijski premazi</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">V zadnjih letih je industrija pod močnim pritiskom okoljevarstvenih zahtev, kamor sodi tudi zmanjševanje količin hlapnih organskih spojin.</p>
+    <p xml:id="pb32.p2" xml:lang="sl">V odvisnosti od količine porabljenih topil morajo industrijski obrati poskrbeti za najboljši način odstranjevanja odpadnih topil (uporaba BAT tehnik- best Available Technique).</p>
+    <p xml:id="pb32.p3" xml:lang="sl">Prva možnost je, da postavijo sežigalnice ali instalirajo reciklažne naprave z ultrafiltracijo odpadnih organskih topil. Druga možnost, ki se ponuja, je uporaba premazov z nizko vsebnostjo VOC, ki pa ima velikokrat za posledico drugačen tehnološki postopek aplikacije in s tem zvezano investicijo v novo linijo.</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Ker je kontrola emisij VOC bolj učinkovita preko uporabljenih premaznih materialov kot pa s kontrolo cele vrste različnih tehnoloških linij za aplikacijo, postavlja VOC direktiva (in s tem tudi SED) industriji premaznih sredstev velik izziv za razvoj novih tehnologij, ki imajo za končni cilj premaze brez topil z dolgo življenjsko dobo.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">2.3.4. Premazi za les</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Premazi za les vključujejo: Impregnacije, temeljne prozorne in pigmentirane lake, zaključne prozorne in pigmentirane lake oziroma emajle. Namenjeni so zaščiti pohištva, stavbnega pohištva, parketov in ploskovnih elementov.</p>
+    <p xml:id="pb32.p7" xml:lang="sl">Materiali, ki se še vedno uporabljajo v velikih količinah za lakiranje, imajo nizke suhe snovi in posledično visoko vsebnost VOC, povprečno 70%. Evropska zakonodaja postavlja v prvi fazi mejo 60% in v končnem stanju 42% VOC, kar pomeni približno 400g/L premaza.</p>
+    <p xml:id="pb32.p8" xml:lang="sl">Porabniki premazov za les v industrijskih obratih morajo spoštovati določila SED, zato nadomeščajo konvencionalne lake s premaznimi sredstvi, ki vsebujejo manjšo količino hlapnih organskih spojin. Tako strateško vplivajo na zmanjševanje emisij hlapnih organskih spojin.</p>
+    <p xml:id="pb32.p9" xml:lang="sl">Po tehnologiji delimo premaze za les v naslednje skupine:</p>
+    <p xml:id="pb32.p10" xml:lang="sl">- high solid na osnovi organskih topil,</p>
+    <p xml:id="pb32.p11" xml:lang="sl">- UV utrjujoče,</p>
+    <p xml:id="pb32.p12" xml:lang="sl">- vodne,</p>
+    <p xml:id="pb32.p13" xml:lang="sl">- prašne.</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">2.3.5. Premazi za kovine</p>
+    <p xml:id="pb33.p2" xml:lang="sl">2.3.5.1. Antikorozivni zaščitni premazi (Protective coatings) Ti premazi so namenjeni predvsem barvanju velikih objektov, ki stojijo v naravi: (rezervoarji, daljnovodi, cestna, železniška in luška infrastruktura), pa tudi velikim strojem za rudnike, žerjavom, itd. Ker pri aplikaciji premaznih sredstev na prostem ni mogoče meriti emisije hlapnih organskih spojin, je potrebna kontrola na izvoru, to je pri izbiri premaznega sistema. Rezultat razvoja izdelkov z nizkim VOC, ki so namenjeni protikorozijski zaščiti na terenu, so:</p>
+    <p xml:id="pb33.p3" xml:lang="sl">• vodni premazi</p>
+    <p xml:id="pb33.p4" xml:lang="en">• high solid premazi</p>
+    <p xml:id="pb33.p5" xml:lang="sl">• premazi brez topil</p>
+    <p xml:id="pb33.p6" xml:lang="sl">2.3.5.2. Premazi za industrijo strojev in konstrukcij – ACE (Agricultural, Construction, and Earthmoving Equipment)</p>
+    <p xml:id="pb33.p7" xml:lang="sl">V teh industrijskih obratih se proizvajajo kmetijski stroji, cestna mehanizacija, viličarji, različne vrste kontejnerjev in montažne konstrukcije. V industrijskih obratih morajo spoštovati določila SED, zato je v večini primerov ta industrija prešla na premaze z nizko vsebnostjo VOC. Primer teh premazov:</p>
+    <p xml:id="pb33.p8" xml:lang="sl">• voda: kataforeza ali 2K epoksi osnovni premaz, 2K PU zaključni premazi</p>
+    <p xml:id="pb33.p9" xml:lang="sl">• medium ali high solid. 2K PU zaključni premazi</p>
+    <p xml:id="pb33.p10" xml:lang="sl">• prah</p>
+    <p xml:id="pb33.p11" xml:lang="sl">2.3.5.3. Splošna kovinska industrija (General industrial) Ta del industrije obsega proizvodnjo kovinskega pohištva, radiatorjev, različnih kovinskih predmetov, ohišij in delov za gospodinjske stroje in delov za motorna vozila. Uporabljajo se pečno utrjujoči materiali:</p>
+    <p xml:id="pb33.p12" xml:lang="sl">• voda: anaforeza ali kataforeza, vodotopni alkidno-melaminski temelji za umakanje in disperzijske temeljne barve, vodotopni alkidno- melaminski ali poliestrski premazi za zaključene premaze</p>
+    <p xml:id="pb33.p13" xml:lang="sl">• prah</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">2.4. Predstavitev podjetja</p>
+    <p xml:id="pb34.p2" xml:lang="sl">Začetki kemijske dejavnosti na Količevem segajo v leto 1924, ko je bila ustanovljena delniška družba TOVARNA LAKOV LJUDEVIT MARX. Ustanovni občni zbor je bil 5. novembra 1924. Ustanovni delničarji so bili: Ljudevit Marx, industrijalec iz Gaadena pri Dunaju, Ivo Benkovič, odvetnik iz Ljubljane, Josip Senica, trgovec iz Domžal in družba z.o.z. Standard Oljarne Medvode. Delniška glavnica je znašala 4 milijone din, razdeljena pa je bila na 80.000 delnic po 50 tedanjih dinarjev. V tej tovarni so izdelovali bele in pisane emajle za barvanje lesa, železa in kamenja.</p>
+    <p xml:id="pb34.p3" xml:lang="sl">Izdelovanje barv je temeljilo na podlagi izkušenj, ki jih je delniška družba imela; 1834. leta Mainz – Nemčija, 1857. leta Petrograd – Rusija, 1873. leta Gaaden – Avstrija, 1922. leta Budimpešta – Madžarska in 1923. leta Milkendorf – Čehoslovaška. Z redno proizvodnjo je tovarna na Količevem začela 1. januarja 1925.</p>
+    <p xml:id="pb34.p4" xml:lang="sl">V prvem letu so proizvedli 150 ton lakov in oljnatih barv. Stalno so imeli zaposlene 3 delavce, enajst sezonskih in štiri uslužbence. Tovarna je bila za takratne razmere sodobno opremljena. Imela je svoj generator, ki je izkoriščal vodno silo potoka Mlinščica. Stroji in mešala so bili gnani prenosno vse do leta 1954. Za kuhanje oljnih lakov, alkidnih smol ( sušečih in ne-sušečih) ter drugih veziv so uporabljali 17 Sommer kotličkov z volumnom 200 litrov. Uporabljali so tudi 16 mlevskih strojev in 3 mešala. Surovine, ki so jih uporabljali, so bile pretežno domače (cinkovo belilo, litopon, kolofonija, laneno olje, lak bencin ter nekatera druga topila), večji del zahtevnejših surovin pa so uvažali iz Nemčije, Francije, Holandije, Švice, ZDA in Kitajske. Med tovarnami tvrdke Ljudevit Marx je potekala stalna izmenjava izkušenj, patentov in licenčnih izdelkov. Številni močno uveljavljeni izdelki na trgu so bili patentirani na Količevem. Že dve leti po začetku redne proizvodnje v MARXOVI tovarni na Količevem, je bilo ustanovljeno sorodno podjetje v Domžalah – sedanja Kemična tovarna, s tem pa je bil postavljen temeljni kamen, na katerem se je začel razvoj kemične industrije. Tovarna lakov je pod prvotnim imenom delovala do leta 1946, ko je bila z odločbo nove oblasti preimenovana v »Tovarno lakov Domžale«.</p>
+    <p xml:id="pb34.p5" xml:lang="sl">Podjetje je delovalo samostojno do leta 1949, ko je bilo z odločbo priključeno kot samostojni obrat podjetju Color iz Medvod. V tem obdobju v tovarni ni bilo večjega napredka. Leta 1952 se je podjetje zopet osamosvojilo. Takratna proizvodnja je znašala 280 ton letno. Nato pa se je iz leta v leto povečevala in bila leta 1957 že 3000 ton. Leta 1958 se je »Helios« tovarna lakov Domžale združila s takratnim samostojnim podjetjem Kemično tovarno Domžale. Skupna proizvodnja je tega leta znašala 8400 ton. Leta 1974 se je Heliosu pridružila Tovarna kemičnih izdelkov in krede Srpenica, leta 1978 pa še tovarna jedilnih olj in tehničnih olj Oljarna Domžale.</p>
+    <p xml:id="pb34.p6" xml:lang="sl">Leta 1989 se je Helios v skladu z Zakonom o podjetjih preoblikoval. V letu 1990 se je podjetje notranje reorganiziralo. Zaradi velikega števila raznovrstnih proizvodnih programov je prišlo do oblikovanja profitnih centrov, ki skrbijo za razvoj in prodajo posameznih proizvodnih programov. Posamezni profitni centri podjetja obsegajo naslednje skupine proizvodov: široka potrošnja, umetne smole, avtomobilski premazi</p>
+    <p xml:id="pb34.p7" xml:lang="sl">– prvogradnja, kovinski premazi, lesni premazi, avtomobilski premazi – reparature, lepila, škrobi, premazi za gradbeništvo in ceste. Profitni centri podjetja so organizacijske enote s sorazmerno samostojnostjo v smislu poslovno izidnega centra, z lastnim poslovodstvom, s samostojnim naročanjem proizvodnji, z raziskavami in prodajnimi aktivnostmi. Proizvodna funkcija ni organizirana neposredno v okviru profitnega centra. Delniška družba Helios je bila ustanovljena 1996. Že leta 1994 se je sprejel in potrdil plan lastninskega preoblikovanja – lastninjenje na ravni krovnega podjetja Helios Sestavljeno podjetje za kapitalske naložbe in razvoj, d.d.. Istega leta je pridobil certifikat o ustreznosti poslovnega sistema z zahtevami standarda ISO 9001.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">Helios je skozi različna obdobja, gospodarsko in politično rasel in se razvijal. Včasih hitreje, včasih počasneje. Razvoj v zadnjem desetletju pa je bil izreden, saj družba Helios spada med štirideset največjih proizvajalcev premazov na svetu in med dvajset največjih v Evropi. Kronološki pregled zadnjega desetletja:</p>
+    <p xml:id="pb35.p2" xml:lang="sl">• z ameriško multinacionalko PPG podpiše pogodbo o skupnem vlaganju, ustanovi se skupno podjetje PPG-Helios.</p>
+    <p xml:id="pb35.p3" xml:lang="sl">• na tržišču se pojavita novi blagovni znamki SPEKTRA in mešalni sistem</p>
+    <p xml:id="pb35.p4" xml:lang="sl">MOBIHEL.</p>
+    <p xml:id="pb35.p5" xml:lang="sl">• v letu 1998 skupaj z Ministrstvom za okolje in prostor Helios ustanovi Heliosov sklad za ohranjanje čistih slovenskih voda. Ta zabeleži dober odmev in uspešno delo, saj očistijo 17 kraških jam in obnovijo čez 30 vodnjakov.</p>
+    <p xml:id="pb35.p6" xml:lang="sl">• do leta 2004 Helios v svojo skupino priključi zagrebški Chromos, domačo Mavrico, češko trgovsko podjetje Chedo, srbsko Zvezdo in Color iz Medvod.</p>
+    <p xml:id="pb35.p7" xml:lang="sl">• Leta 2006 Helios kupi večinski delež podjetja Odilak, ki je proizvodno podjetje in proizvaja dekorativne premaze.</p>
+    <p xml:id="pb35.p8" xml:lang="sl">Izkušnje in znanje, ki se kaže v visoki tehnologiji in upoštevanju ekoloških zahtev, so podjetju prinesla sloves vodilnega proizvajalca v jugovzhodni Evropi. Odlikuje ga visoka kvaliteta in konkurenčnost na domačem in tujem tržišču, saj pomeni izvoz preko 60% letnega prihodka. Takšni poslovni uspehi so brez dvoma posledica vlaganj v naložbe, razvoj in kadre.</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">Vizija in poslanstvo podjetja Helios: Vizija</p>
+    <p xml:id="pb36.p2" xml:lang="sl">Uvrstitev med prvih deset vodilnih proizvajalcev barv in lakov v Evropi Poslanstvo</p>
+    <p xml:id="pb36.p3" xml:lang="sl">Razvijati in ponuditi inteligentne, kupcem prilagojene rešitve in kakovostne izdelke ki polepšajo videz in podaljšajo uporabnost. ,</p>
+    <p xml:id="pb36.p4" xml:lang="sl">Biti poslovno odlični in uspešni ter uravnotežiti ekonomsko rast z zadovoljevanjem pričakovanj vseh deležnikov: lastnikov, zaposlenih, poslovnih partnerjev in okolja (poslovnega, političnega in socialnega).</p>
+    <p xml:id="pb36.p5" xml:lang="sl">Odgovorno uporabljati vire, ki so nam na voljo, tako da varujemo okolje in skrbimo da bo naše delovanje v prid današnjim in jutrišnjim generacijam.</p>
+    <p xml:id="pb36.p6" xml:lang="sl">Biti ugledno podjetje, ki bo v ponos tako zaposlenim kot našemu ožjemu in širšemu okolju.</p>
+    <p xml:id="pb36.p7" xml:lang="sl">Prednostna naloga poslovnega sistema HELIOS je tudi ravnanje z okoljem. V zadnjih treh letih je bilo vloženo veliko sredstev za odstranitev posebnih odpadkov, ki so bili skoraj v celoti odpeljani in izvoženi v tujino. Posebna skrb je posvečena tudi razvoju okolju prijaznih izdelkov, zmanjševanju nastajanja novih odpadkov in predelavi obstoječih.</p>
+    <p xml:id="pb36.p8" xml:lang="sl">Helios je skupaj z Ministrstvom za okolje in prostor Republike Slovenije ustanovil sklad za ohranjanje slovenskih voda, v katerem se bodo naslednjih pet let zbirala namenska sredstva od prodaje okolju prijaznih Heliosovih barv.</p>
+    <p xml:id="pb36.p9" xml:lang="sl">V letu 1998 je Helios pristopil k projektu ISO 14000 – sistem odgovornega ravnanja, ki ga preko Kemijskega združenja vpeljuje tudi Gospodarska zbornica Slovenije.</p>
+    <p xml:id="pb36.p10" xml:lang="sl">V poslovnem sistemu Helios je največje podjetje Tovarna barv, lakov in umetnih smol (okrajšano TBLUS) Količevo d.o.o. Od skupno zaposlenih 752 delavcev, ki jih zaposluje poslovni sistem Helios jih je kar 418 v tem podjetju.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">2.5. Organizacija podjetja</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Slika 4: Organiziranost poslovnega sistema Helios (vir: poslovno poročilo Helios 2005)</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">HELIOS</p>
+    <p xml:id="pb38.p2" xml:lang="sl">Tovarna barv, lakov in umetnih smol Količevo, d.o.o.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">Finančni sektor Investicijski sektor Kontroling Nabava</p>
+    <p xml:id="pb38.p4" xml:lang="sl">Pravna služba</p>
+    <p xml:id="pb38.p5" xml:lang="sl">Računovodski sektor Sektor za informatiko Služba HSE</p>
+    <p xml:id="pb38.p6" xml:lang="sl">Služba za tržne komunikacije</p>
+    <p xml:id="pb38.p7" xml:lang="sl">Splošno kadrovski sektor ZT-regije</p>
+    <p xml:id="pb38.p8" xml:lang="sl">Tehnološka priprava proizvodnje Priprava dela Kontrola kakovosti Logistika</p>
+    <p xml:id="pb38.p9" xml:lang="sl">Vzdrževanje in energetika Profitni centri Proizvodni obrati Služba TQM, Ekologija Umetne smole - OUS Pigmentirani premazi - PP Nitro</p>
+    <p xml:id="pb38.p10" xml:lang="sl">Gradbeni premazi - GP PC-0,7 Dekorativa PC-1 Umetne smole</p>
+    <p xml:id="pb38.p11" xml:lang="sl">PC-2 Avtomobilski premazi PC-3 Kovinski premazi PC-4 Lesni premazi PC-5 Avtoreparature PC-8 Cestni premazi Prodaja Razvoj</p>
+    <p xml:id="pb38.p12" xml:lang="sl">Razvojni oddelek - nove tehnologije</p>
+    <p xml:id="pb38.p13" xml:lang="sl">Razvojni oddelek za mešalne sisteme</p>
+    <p xml:id="pb38.p14" xml:lang="sl">Strateški projekti</p>
+    <p xml:id="pb38.p15" xml:lang="sl">Fizikalno analitski laboratorij</p>
+    <p xml:id="pb38.p16" xml:lang="sl">INDOK</p>
+    <p xml:id="pb38.p17" xml:lang="sl">Kemijsko analitski laboratorij Razvojni oddelki (RO)</p>
+    <p xml:id="pb38.p18" xml:lang="sl">RO PC-0 RO PC-1 RO PC-2 RO PC-3 RO PC-4 RO PC-5 RO PC-7 RO PC-8</p>
+    <p xml:id="pb38.p19" xml:lang="sl">Informacijsko distribucijski center - IDC (PC-3,4) Center požarne varnosti - CPV Inženiring za varnost in zdravje pri delu - VZD</p>
+    <p xml:id="pb38.p20" xml:lang="sl">Industrijska prodajalna Helko</p>
+    <p xml:id="pb38.p21" xml:lang="sl">HELIOS Domžale, d.d.</p>
+    <p xml:id="pb38.p22" xml:lang="sl">Distribucija</p>
+    <p xml:id="pb38.p23" xml:lang="sl">PPG Helios, d.o.o.</p>
+    <p xml:id="pb38.p24" xml:lang="sl">Menza</p>
+    <p xml:id="pb38.p25" xml:lang="sl">Slika 5: Organiziranost podjetja Helios TBLUS Količevo d.o.o Slika 5: Organiziranost podjetja Helios TBLUS Količevo d.o.o 2.6. Osnovni podatki o IPPC napravi</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">V Heliosu TBLUS je IPPC naprava A1»Proizvodnja umetnih smol«.</p>
+    <p xml:id="pb39.p2" xml:lang="sl">Ostale naprave so B1:</p>
+    <p xml:id="pb39.p3" xml:lang="sl">• Destilacija topil</p>
+    <p xml:id="pb39.p4" xml:lang="sl">• Proizvodnja pigmentiranih premazov</p>
+    <p xml:id="pb39.p5" xml:lang="sl">• Proizvodnja nitroemajlov</p>
+    <p xml:id="pb39.p6" xml:lang="sl">• Proizvodnja nitrolakov</p>
+    <p xml:id="pb39.p7" xml:lang="sl">• Proizvodnja gradbenih premazov</p>
+    <p xml:id="pb39.p8" xml:lang="sl">Ključni mejniki IPPC naprave – Proizvodnja umetnih smol so:</p>
+    <p xml:id="pb39.p9" xml:lang="sl">• Leta 1969 zagon prvega reaktorja (R3)</p>
+    <p xml:id="pb39.p10" xml:lang="sl">• Leta 1976 zagon novih dveh reaktorjev (R1 in R2) in gradbena širitev obrata</p>
+    <p xml:id="pb39.p11" xml:lang="sl">US</p>
+    <p xml:id="pb39.p12" xml:lang="sl">• Leta 1984 zagon novih dodatnih reaktorjev (R4 in R5 )</p>
+    <p xml:id="pb39.p13" xml:lang="sl">• Leta 1993 zamenjava reaktorjev R1 in R2 z novima reaktorjema z računalniško vodeno sintezo</p>
+    <p xml:id="pb39.p14" xml:lang="sl">• Leta 1999 zagon novega računalniško vodenega reaktorja R6 in gradbena širitev</p>
+    <p xml:id="pb39.p15" xml:lang="sl">• Leta 2002 zagon novega reaktorja R7 z računalniškem vodenjem</p>
+    <p xml:id="pb39.p16" xml:lang="sl">• Leta 2004 linije reaktorjev 3, 4, in 5 so bile opremljene s pnevmatsko vodenimi ventili in z potrebnimi senzorji za računalniški nadzor dela na teh reaktorjih</p>
+    <p xml:id="pb39.p17" xml:lang="sl">Grafikon 4: Gibanje količine proizvedenih smol v obratu US 0</p>
+    <p xml:id="pb39.p18" xml:lang="en">5000 10000 15000 20000 25000 30000 19 73 19 75 19 77 19 79 19 81 19 83 19 85 19 87 19 89 19 91 19 93 19 95 19 97 19 99 20 01 20 03 20 05 to n</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">2.6.1. Količinski okoljski parametri za HELIOS TBLUS Količevo d.o.o.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">Podjetje za svojo proizvodnjo porablja surovine, energente in vodo. Cilj vsakega podjetja je čim boljši izkoristek vseh vhodov. S tem ciljem podjetje stalno izboljšuje tehnološke postopke in z vsemi možnimi ukrepi zmanjšuje količino odpadkov, ki izhajajo iz proizvodnega procesa.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">Tabela 8: Okoljski parametri za HELIOS TBLUS Količevo d.o.o. za leto 2004 (vir: glasilo TEDNIK, št. 3, 2005)</p>
+    <p xml:id="pb40.p4" xml:lang="sl">Opis vhodov količina Opis izhodov količina Surovine 65.050 ton Izdelanih izdelkov 69.124 ton Voda 230.649 m³ Odpadne barve, reakcijske vode, smole 2.427 ton</p>
+    <p xml:id="pb40.p5" xml:lang="sl">Električna energija 8.152 MWh Ostali odpadki 1.179 ton Zemeljski plin 2.097.165 Sm³ Odpadna voda + meteorna voda 216.646 m³</p>
+    <p xml:id="pb40.p6" xml:lang="sl">Emisije CH v zrak 79 ton ( leto 2005: 388ton) ( leto 2006: 260 ton)</p>
+    <p xml:id="pb40.p7" xml:lang="sl">Emisije CO2 v zrak 4.833 ton</p>
+    <p xml:id="pb40.p8" xml:lang="sl">Emisije NOx v zrak 2 toni</p>
+    <p xml:id="pb40.p9" xml:lang="sl">Tabela 9: Monitoring zraka (vir: gradivo Helios za ekološko konferenco, 2005) 2.6.2. Helios in okoljska politika</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">Helios je pridobil standard ISO 14001, ki podjetje zavezuje, da izvaja okoljsko politiko po zahtevah standarda. V standardu je zahteva, da je okoljska politika dokumentirana, se izvaja ter jo poznajo vsi zaposleni. Politika kakovosti pravi sledeče:</p>
+    <p xml:id="pb41.p2" xml:lang="sl">• zavedamo se, da podjetje HELIOS TBLUS Količevo d.o.o. s svojimi aktivnostmi ne more ostati neopaženo in nepomembno za širšo in ožjo okolico, v kateri deluje.</p>
+    <p xml:id="pb41.p3" xml:lang="sl">• vodstvo podjetja se obvezuje, da bo vodilo tako okoljsko politiko, ki bo ugodno vplivala na okoljske vidike, ki so rezultat delovanja podjetja.</p>
+    <p xml:id="pb41.p4" xml:lang="sl">• prizadevali se bomo za preprečevanje nastajanja onesnaževanja in drugih negativnih vplivov na okolje, kjer je to možno in praktično izvedljivo.</p>
+    <p xml:id="pb41.p5" xml:lang="sl">Glede na naravo naših dejavnosti si bomo še zlasti prizadevali zmanjševati vplive na okolje na naših ključnih okoljskih področjih delovanja, kot so nastajanje odpadnih voda ter ravnanje z nevarnimi kemikalijami in nevarnimi odpadki.</p>
+    <p xml:id="pb41.p6" xml:lang="sl">Temelje okoljske politike pa predstavljajo naslednje smernice oziroma izhodišča:</p>
+    <p xml:id="pb41.p7" xml:lang="sl">• okoljski cilji in programi za izvedbo so redni sestavni del letnega poslovnega načrta podjetja,</p>
+    <p xml:id="pb41.p8" xml:lang="sl">• stalno spremljanje in izvajanje okoljske zakonodaje in drugih zahtev,</p>
+    <p xml:id="pb41.p9" xml:lang="sl">• vključevanje okoljskih dejavnikov pri ocenjevanju in izboru dobaviteljev,</p>
+    <p xml:id="pb41.p10" xml:lang="sl">• nenehno izboljševanje izdelkov in proizvodnih procesov v smislu ekološke sprejemljivosti,</p>
+    <p xml:id="pb41.p11" xml:lang="sl">• z okolico in poslovnimi partnerji moramo delati odkrito, spoštovati obveznosti in dogovore ter tako vzpostaviti odnos, ki bo temeljil na vsestranskem zaupanju,</p>
+    <p xml:id="pb41.p12" xml:lang="sl">• s sistematičnim izobraževanjem in usposabljanjem zaposlenih zagotoviti, da se vsi zavedajo svoje vloge in odgovornosti v sistemu ravnanja z okoljem.</p>
+    <p xml:id="pb41.p13" xml:lang="sl">2.6.3. Predstavitev obstoječega stanja VOC emisij</p>
+    <p xml:id="pb41.p14" xml:lang="sl">V podjetju Helios TBLUS Količevo d.o.o. imamo štiri proizvodne obrate, v katerih se vrši proizvodnja premaznih sredstev in proizvodnja umetnih smol.</p>
+    <p xml:id="pb41.p15" xml:lang="sl">Predstavil bom samo največji obrat, ki proizvaja premaze na topilni osnovi in je najbolj kompleksen za reševanje prekomernih emisij VOC v zrak in to tako zaradi svoje količinske proizvodnje in zaradi velike tlorisne površine proizvodnje.</p>
+    <p xml:id="pb41.p16" xml:lang="sl">Osnovni podatki za obrat PP:</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">• letna proizvodnja 25.000 ton premazov,</p>
+    <p xml:id="pb42.p2" xml:lang="sl">• 5978 ton porabljenih organskih topil (leto 2005 – direktno porabljena čista topila),</p>
+    <p xml:id="pb42.p3" xml:lang="sl">• 11.500 izdelavnih delovnih nalogov na leto,</p>
+    <p xml:id="pb42.p4" xml:lang="sl">• 13.000 polnilnih delovnih nalogov na leto.</p>
+    <p xml:id="pb42.p5" xml:lang="sl">Tabela 10: Organska topila, ki so bila porabljena v letu 2005 pri proizvodnji premazov v obratu PP – nalogi serije 200000 (podatek iz BaaNa): Artikel Opis artikla SKUPINA EN.ZAL.</p>
+    <p xml:id="pb42.p6" xml:lang="sl">KOLIČINA V KG RAZV.</p>
+    <p xml:id="pb42.p7" xml:lang="en">20116 Butilacetat 98-100% N06CIS |kg | 2.271.565 5JM 246 Ksilen N06CIS |kg | 1.004.851 1PM 20257 Bencin D-60 N06CIS |kg | 606.707 1PM 584 n-Butanol N06CIS |kg | 474.008 1PM 482 Solvesso 100 N06CIS |kg | 341.507 RAB 664 Bencin D-40 N06CIS |kg | 330.996 PC1 522 Toluen N06CIS |kg | 236.056 1PM 641 SPEC. BENCIN 130-170 N06CIS |kg | 222.754 5IT 305 Etilacetat N06CIS |kg | 166.993 4NF 48 ACETON N06CIS |kg | 77.847 4NF 655 Etilenglikol N06CIS |kg | 61.558 1MT 642 Lak bencin 140-200 N06CIS |kg | 60.634 1PM 583 Spirit rafinada N06CIS |kg | 37.314 4NF 658 Stiren N06CIS |kg | 33.575 1MT 212 Izopropanol N06CIS |kg | 18.451 5JM 20308 SOLVENT 150 N06CIS |kg | 17.411 2DB 829 2-etil heksil akrilat N06CIS |kg | 8.921 1PM 656 Propilenglikol N06CIS |kg | 6.794 1MT 51074 Acrilem ST 190 N06CIS |kg | 342 7CC 657 Dietilenglikol N06CIS |kg | 20 1MT</p>
+    <p xml:id="pb42.p8" xml:lang="sl">Skupaj 5978 ton</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">Za nemoten proizvodni proces je v celotnem obratu izvedena ventilacija, in sicer:</p>
+    <p xml:id="pb43.p2" xml:lang="sl">• lokalna ventilacija, ki zajema emisije na mikrolokacijah, kjer nastajajo (točilna mesta, manlohi rezervoarjev, mešala, polnilna mesta…) in</p>
+    <p xml:id="pb43.p3" xml:lang="sl">• prostorska ventilacija, ki zagotavlja večkratno izmenjavo zraka v prostoru in zagotavlja primerno okolje za delo v obratu 2.6.4. Monitoring VOC emisij</p>
+    <p xml:id="pb43.p4" xml:lang="sl">Meritev emisij za leto 2005 je izvedel Zavod za zdravstveno varstvo Novo mesto</p>
+    <p xml:id="pb43.p5" xml:lang="sl">– oddelek za ekologijo. Meritve so bile izvedene na ventilatorjih, ki smo jih skupaj s strokovnjaki Zavoda izbrali kot nosilce emisij VOC. Meritve pretoka, relativne vlažnosti in temperature na izpustu ventilatorjev so se izvedle z aparatom TESTO 400. Na osnovi izračunane površine ventilacijskega kanala in hitrosti zraka v njem se je izračunal volumski pretok zraka, ki se je preračunal na normne pogoje.</p>
+    <p xml:id="pb43.p6" xml:lang="sl">Natančnost metode je:</p>
+    <p xml:id="pb43.p7" xml:lang="sl">• volumski pretok………………±5%</p>
+    <p xml:id="pb43.p8" xml:lang="sl">• temperatura …………………..± 0,5℃C ( -20 – 180℃C)</p>
+    <p xml:id="pb43.p9" xml:lang="sl">• relativna vlaga………………..± 2% RH (2 – 98%)</p>
+    <p xml:id="pb43.p10" xml:lang="sl">Določitev koncentracije organskih spojin je bila izvedena tako, da se je določil celokupni organski ogljik – TOC z analizatorjem Ratfisch RS 53 T. Meritev se je opravila v skladu s smernicami SIST EN 13526. Iz izmerjene koncentracije glede na umeritveni plin propan se je izračunala masna koncentracija ogljika v organskih snoveh v mg/m³ (TOC). Iz dobljenih vrednosti TOC je bila izračunana emisija organskih snovi . Napaka meritve TOC je ± 15%.</p>
+    <p xml:id="pb43.p11" xml:lang="sl">Tabela 11: Primer izračuna za enega od izmerjenih ventilatorjev Parameter Obstoječe stanje Premer odvodne cevi (m) 0,4x0,4 Temperatura plinov(℃C) 14 Relativna vlažnost (%) 30 Hitrost plinov (m/s) 6,5 Pretok plinov (m³/h) 3744 Pretok plinov (m³n/h 3561 Izmerjen celokupni organski ogljik (mg/m³n) 136</p>
+    <p xml:id="pb43.p12" xml:lang="sl">Emitirana količina celokupnega organskega ogljika (kg/h) 0,785</p>
+    <p xml:id="pb43.p13" xml:lang="sl">TOC (kg/leto) 3850</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">Tabela 12: Zajete emisije VOC podatki meritev za leto 2005 za obrat PP</p>
+    <p xml:id="pb44.p2" xml:lang="sl">OBRAT VENT. OPIS conc.</p>
+    <p xml:id="pb44.p3" xml:lang="sl">TOC KG/URO KG/LETO ŠT. OBR.</p>
+    <p xml:id="pb44.p4" xml:lang="sl">UR</p>
+    <p xml:id="pb44.p5" xml:lang="sl">PREMER</p>
+    <p xml:id="pb44.p6" xml:lang="sl">CEVI(m) PRESEGA?</p>
+    <p xml:id="pb44.p7" xml:lang="sl">PP OV-27 PRALNICA</p>
+    <p xml:id="pb44.p8" xml:lang="sl">FILTROV 4617 0,47 1955 4160 0,2 DA PP OV-43 POLNILNA</p>
+    <p xml:id="pb44.p9" xml:lang="sl">LINIJA - VAGA 123 0,63 3800 6000 0,4 DA PP OV-48 POKROVI</p>
+    <p xml:id="pb44.p10" xml:lang="sl">REZERVOARJEV 313 1,14 2970 2600 0,4 DA PP OV-51 RIO BEER MEŠALNE</p>
+    <p xml:id="pb44.p11" xml:lang="sl">POSODE 252 0,57 1310 2300 0,4 DA PP OV-54 POKROVI</p>
+    <p xml:id="pb44.p12" xml:lang="sl">REZERVOARJEV 460 0,82 1880 2300 0,4 DA PP OV-57 MEŠALNI</p>
+    <p xml:id="pb44.p13" xml:lang="sl">REZERVOARJI 224 0,22 580 2600 0,4 DA PP OV-64 POLNILNE</p>
+    <p xml:id="pb44.p14" xml:lang="sl">LINIJE-TEHTNICE 75 0,14 820 6000 0,32 NE PP OV-72 PRALNICA</p>
+    <p xml:id="pb44.p15" xml:lang="sl">POSOD 1050 3,86 16980 4400 0,4 DA PP OV-73 IZPUST IZ</p>
+    <p xml:id="pb44.p16" xml:lang="sl">DISOLVERJEV 1008 5,22 26090 5000 0,45 DA</p>
+    <p xml:id="pb44.p17" xml:lang="sl">Za izračun dejanskih emisij se je uporabila posredna metoda.</p>
+    <p xml:id="pb44.p18" xml:lang="sl">O/9 druge nezajete emisije Čiščenje odpadnega plina</p>
+    <p xml:id="pb44.p19" xml:lang="sl">O/1.1 VOC v zajetem prečiščenem odpadnem plinu</p>
+    <p xml:id="pb44.p20" xml:lang="sl">O/5 VOC, uničene pri čiščenju O/4 nezajete emisije v zrak Izdelek</p>
+    <p xml:id="pb44.p21" xml:lang="sl">I/1 kupljene VOC</p>
+    <p xml:id="pb44.p22" xml:lang="sl">O/3 VOC kot nečistoča ali ostanek v izdelku</p>
+    <p xml:id="pb44.p23" xml:lang="sl">O/8 regeneriranje in skladiščenje za ponovno uporabo Dejavnost 1</p>
+    <p xml:id="pb44.p24" xml:lang="sl">O/7 VOC, vsebovane v izdelkih, namenjenih prodaji</p>
+    <p xml:id="pb44.p25" xml:lang="sl">O/6 VOC, vsebovane v odpadkih</p>
+    <p xml:id="pb44.p26" xml:lang="sl">Regeneracija</p>
+    <p xml:id="pb44.p27" xml:lang="sl">VOC</p>
+    <p xml:id="pb44.p28" xml:lang="sl">I/2 VOC, regenerirane in isto leto ponovno uporabljene O/2 VOC v odpadni vodi</p>
+    <p xml:id="pb44.p29" xml:lang="sl">Vse frakcije vnosa vse frakcije iznosa</p>
+    <p xml:id="pb44.p30" xml:lang="sl">O/1.2 VOC v neprečiščenem zajetem odpadnem plinu</p>
+    <p xml:id="pb44.p31" xml:lang="sl">Slika 6: Prikaz bilance topil (vir: Power Point prezentacija Tebert C, Ljubljana 2005)</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">2.7. Onesnaženje zraka v okolici Domžal</p>
+    <p xml:id="pb45.p2" xml:lang="sl">Lokacija Heliosovih proizvodnih obratov na Količevem leži cca 2km SV od merilne postaje Hidrometeorološkega zavoda, ki je na Savski cesti 5 v Domžalah.</p>
+    <p xml:id="pb45.p3" xml:lang="sl">Onesnaženje zraka v Domžalah se spremlja z merjenjem koncentracij žveplovega dioksida (SO2) in dima. Razen žveplovega dioksida in dima se na tej postaji ostali parametri onesnaženosti ne merijo. V letu 1997 je bil zabeležen velik padec koncentracij žveplovega dioksida, tako povprečnih kot maksimalnih vrednosti.</p>
+    <p xml:id="pb45.p4" xml:lang="sl">Vzrok takega zmanjšanja je prehod na energente z manjšo emisijo škodljivih snovi.</p>
+    <p xml:id="pb45.p5" xml:lang="sl">To so zemeljski plin in lahko kurilno olje. Na območju Domžal ni rednih meritev drugih snovi v zraku. V zadnjem času se večja pozornost namenja meritvam izpušnih plinov, saj promet na tem območju postaja eden glavnih onesnaževalcev zraka.</p>
+    <p xml:id="pb45.p6" xml:lang="sl">Slika 7: Merilna mesta za onesnaženost zraka v Sloveniji (vir: MOP ARSO) Tabela 13: Mejne in opozorilne koncentracije za različne snovi parameter enota MV (mejna vrednost)</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">OIK</p>
+    <p xml:id="pb46.p2" xml:lang="sl">(Opozorilna koncentracija) Alarmna vrednost</p>
+    <p xml:id="pb46.p3" xml:lang="sl">Žveplov dioksid ( 24-urna koncentracija) µg/m³ 125 - Žveplov dioksid ( 1-urna koncentracija) µg/m³ 350 - 500</p>
+    <p xml:id="pb46.p4" xml:lang="sl">Dušikov dioksid ( 1-urna koncentracija) µg/m³ 200 - 400</p>
+    <p xml:id="pb46.p5" xml:lang="sl">Delci PM10 ( 24-urna koncentracija) µg/m³ 50 - Svinec ( letna koncentracija ) µg/m³ 5 - Ogljikov monoksid ( 8 urna največja srednja vrednost) µg/m³ 10 - Benzen ( letna mejna vrednost) µg/m³ 0,5 - Ozon ( 24-urna koncentracija ) µg/m³ 120 180 240 Fluridi kot HF ( 24-urna koncentracija) µg/m³ 5 - Kloridi kot HCl ( 24-urna koncentracija) µg/m³ 100 - Dim in inhalabilni delci (24 – urna koncentracija) µg/m³ 125 - Toluen ( polurna koncentracija) mg/m³ 0,1 - Stiren ( polurna koncentracija) mg/m³ 0,07 - Kritične koncentracije za parametre, ki so navedene v tabeli št 14, so enake dvakratni vrednosti mejne vrednosti, ki velja za posamezno snov, razen za žveplov dioksid, dušikov dioksid, ogljikov monoksid, benzen, svinec ozon in delce PM10.</p>
+    <p xml:id="pb46.p6" xml:lang="sl">Domžale z okolico so razvrščene v poselitveno območje SI 3. Zrak v tem območju je bil razvrščen v II. stopnjo onesnaženosti.</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Tabela 14: Raven koncentracij različnih onesnaževal za območje Domžal Parameter - onesnaževalo Ocena (od 1 do 5)</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Opis stopnje</p>
+    <p xml:id="pb47.p3" xml:lang="sl">Žveplov dioksid (SO2) (24 – urna koncentracija) 5 Koncentracija pod spodnjim pragom ocenjevanja</p>
+    <p xml:id="pb47.p4" xml:lang="sl">Dušikov dioksid (NO2) (1 – urna koncentracija)</p>
+    <p xml:id="pb47.p5" xml:lang="sl">2 Koncentracija med mejno vrednostjo in dopustnim odstopanjem</p>
+    <p xml:id="pb47.p6" xml:lang="sl">Delci PM10 (24- urna koncentracija) 2 Koncentracija med mejno vrednostjo in dopustnim odstopanjem</p>
+    <p xml:id="pb47.p7" xml:lang="sl">Svinec (letna koncentracija) 5 Koncentracija pod spodnjim pragom ocenjevanja</p>
+    <p xml:id="pb47.p8" xml:lang="sl">Ogljikov monoksid (8-urna največja srednja vrednost) 5 Koncentracija pod spodnjim pragom ocenjevanja</p>
+    <p xml:id="pb47.p9" xml:lang="sl">Benzen (letna mejna vrednost) 5 Koncentracija pod spodnjim pragom ocenjevanja</p>
+    <p xml:id="pb47.p10" xml:lang="sl">Ozon (24 – urna koncentracija) 1 Presežena mejna vrednost ali vsota mejne vrednosti in dopustnega odstopanja oziroma ciljna vrednost</p>
+    <p xml:id="pb47.p11" xml:lang="sl">2.8. Podatki o emisijah snovi v zrak iz proizvodnih objektov Heliosa – lokacija Količevo</p>
+    <p xml:id="pb47.p12" xml:lang="sl">Obstoječa proizvodnja na lokaciji Količevo (vsi proizvodni obrati) obremenjuje zrak z naslednjimi emisijami:</p>
+    <p xml:id="pb47.p13" xml:lang="sl">- VOC (hlapne organske snovi),</p>
+    <p xml:id="pb47.p14" xml:lang="sl">- prah,</p>
+    <p xml:id="pb47.p15" xml:lang="sl">- vonjave.</p>
+    <p xml:id="pb47.p16" xml:lang="sl">Količine emisij po obratih so različne in odvisne predvsem od tehnologije delovnih procesov. Najbolj kompleksen obrat je obrat PP. Obrat je največji po površini proizvodnje, istočasno pa je tehnologija izdelave pigmentiranih premazov povezana z največ operacijami.</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">Tabela 15: Izpusti snovi v zrak iz proizvodnih objektov Heliosa na Količevem – meritve opravljene leta 2005</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Naziv objekta Opis izpusta Št. izpusta</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Izmerjeni parametri Vir emisije snovi v zrak ustreza veljavni Slovenski zakonodaji</p>
+    <p xml:id="pb48.p4" xml:lang="sl">Lokalna ventilacija iz polnilne linije OV-11 TOC Ne ustreza Lokalni izpust iz reaktorjev</p>
+    <p xml:id="pb48.p5" xml:lang="sl">OV-7 Skupni prah, hlapne organske snovi (toluen, ksilen), TOC Ustreza</p>
+    <p xml:id="pb48.p6" xml:lang="sl">Odvodnik odpadnih hlapov</p>
+    <p xml:id="pb48.p7" xml:lang="en">OV-10 Hlapne organske snovi (butilacetat, etilbenzen, aceton, etilacetat, toluen, ksilen, stiren, metilmetakrilat, butilakrilat, benzen),</p>
+    <p xml:id="pb48.p8" xml:lang="sl">TOC</p>
+    <p xml:id="pb48.p9" xml:lang="sl">Ne ustreza</p>
+    <p xml:id="pb48.p10" xml:lang="sl">TOC</p>
+    <p xml:id="pb48.p11" xml:lang="sl">Obrat US</p>
+    <p xml:id="pb48.p12" xml:lang="sl">(umetne smole)</p>
+    <p xml:id="pb48.p13" xml:lang="sl">Lokalni izpust, aktiven pri šaržiranju prašnih snovi v reaktor</p>
+    <p xml:id="pb48.p14" xml:lang="sl">OV-9 Skupni prah Ustreza Lokalni izpust iz laboratorija KlimatN1</p>
+    <p xml:id="pb48.p15" xml:lang="sl">Hlapne organske snovi Ustreza Lokalni izpust – polnilnica KlimatN3</p>
+    <p xml:id="pb48.p16" xml:lang="sl">TOC Ustreza</p>
+    <p xml:id="pb48.p17" xml:lang="sl">Lokalni izpust-pralnica filtrov</p>
+    <p xml:id="pb48.p18" xml:lang="sl">OV-27 TOC Ne ustreza Lokalni izpust-tehtnice v polnilnici</p>
+    <p xml:id="pb48.p19" xml:lang="sl">OV-43 TOC Ne ustreza Lokalni izpustizdelovalnica, pokrovi rezervoarjev</p>
+    <p xml:id="pb48.p20" xml:lang="sl">OV-48 TOC Ne ustreza Lokalni izpust-posode pri</p>
+    <p xml:id="pb48.p21" xml:lang="sl">RM</p>
+    <p xml:id="pb48.p22" xml:lang="sl">OV-51 TOC Ne ustreza Lokalni izpust – izdelovalnica</p>
+    <p xml:id="pb48.p23" xml:lang="sl">OV-54 TOC Ne ustreza Lokalni izpustizdelovalnica</p>
+    <p xml:id="pb48.p24" xml:lang="sl">OV-57 TOC Ne ustreza Lokalni izpust – polnilne linije</p>
+    <p xml:id="pb48.p25" xml:lang="sl">OV-64 TOC Ustreza</p>
+    <p xml:id="pb48.p26" xml:lang="sl">Lokalni izpust – pralnica posod</p>
+    <p xml:id="pb48.p27" xml:lang="sl">OV-72 TOC Ne ustreza Obrat PP</p>
+    <p xml:id="pb48.p28" xml:lang="sl">(pigmentirani premazi)</p>
+    <p xml:id="pb48.p29" xml:lang="sl">Lokalni izpust - disolverji OV-73 TOC Ne ustreza Obrat NITRO emajli</p>
+    <p xml:id="pb48.p30" xml:lang="sl">Prostorska in lokalna ventilacija</p>
+    <p xml:id="pb48.p31" xml:lang="sl">OV-1 TOC Ustreza Objekt NITRO laki</p>
+    <p xml:id="pb48.p32" xml:lang="sl">Prostorska in lokalna ventilacija</p>
+    <p xml:id="pb48.p33" xml:lang="sl">OV-2 OV-3 OV-4</p>
+    <p xml:id="pb48.p34" xml:lang="sl">TOC Ustreza Obrat GP (gradbeni premazi)</p>
+    <p xml:id="pb48.p35" xml:lang="sl">Prašni filter Mlinostroj OV-GP Skupni prah, amoniak Ustreza Objekt</p>
+    <p xml:id="pb48.p36" xml:lang="sl">DESTILACIJE</p>
+    <p xml:id="pb48.p37" xml:lang="sl">Prostorska in lokalna ventilacija</p>
+    <p xml:id="pb48.p38" xml:lang="sl">OV-Des Hlapne organske snovi</p>
+    <p xml:id="pb48.p39" xml:lang="sl">TOC ustreza</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">Bilanca topil</p>
+    <p xml:id="pb49.p2" xml:lang="sl">Proizvodni obrati v Heliosu so razvrščeni med naprave 16.1 oziroma naprave za proizvodnjo premaznih sredstev (barv in lakov), sredstev za zaščito lesa in zgradb, lepil in tiskarskih barv.</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Tabela 16: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu Pigmentirani premazi vnos topil O1=O.1.1+O.1.2* O4 Nezajete emisije v zrak</p>
+    <p xml:id="pb49.p4" xml:lang="sl">O6</p>
+    <p xml:id="pb49.p5" xml:lang="sl">Zbrano v odpadkih</p>
+    <p xml:id="pb49.p6" xml:lang="sl">O7</p>
+    <p xml:id="pb49.p7" xml:lang="sl">Zbrano v izdelkih Delež nezajetih emisij** Delež celotnih emisij***</p>
+    <p xml:id="pb49.p8" xml:lang="sl">10.763,257 56,385 194,463 61,597 10.450,812 62,2% 2,3% Opomba:</p>
+    <p xml:id="pb49.p9" xml:lang="sl">* O1 predstavlja O1.2.: emisije v zajetih neočiščenih plinih</p>
+    <p xml:id="pb49.p10" xml:lang="sl">** nezajete emisije so emisije O4: 194,463 t</p>
+    <p xml:id="pb49.p11" xml:lang="sl">*** celotne emisije so emisije O1+O4: 250,848 t</p>
+    <p xml:id="pb49.p12" xml:lang="sl">Tabela 17: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu Umetne smole vnos topil O1=O.1.1</p>
+    <p xml:id="pb49.p13" xml:lang="sl">+O.1.2* O4</p>
+    <p xml:id="pb49.p14" xml:lang="sl">Nezajete emisije v zrak</p>
+    <p xml:id="pb49.p15" xml:lang="sl">O5¹ O6</p>
+    <p xml:id="pb49.p16" xml:lang="sl">Zbrano v odpadkih</p>
+    <p xml:id="pb49.p17" xml:lang="sl">O7</p>
+    <p xml:id="pb49.p18" xml:lang="sl">Zbrano v izdelkih Delež nezajetih emisij** Delež celotnih emisij***</p>
+    <p xml:id="pb49.p19" xml:lang="sl">8.581,366 1,3% 0,7% Opomba:</p>
+    <p xml:id="pb49.p20" xml:lang="sl">O5 – količina organskih topil, ki se izgubijo zaradi kemičnih in fizikalnih reakcij.</p>
+    <p xml:id="pb49.p21" xml:lang="sl">* O1 predstavlja O1.2.: emisije v zajetih neočiščenih plinih</p>
+    <p xml:id="pb49.p22" xml:lang="sl">** nezajete emisije so emisije O4: 89,803 t</p>
+    <p xml:id="pb49.p23" xml:lang="sl">*** celotne emisije so emisije O1+O4: 110,606 t</p>
+    <p xml:id="pb49.p24" xml:lang="sl">Tabela 18: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu NITRO premazi vnos topil O1=O.1.1+O.1.2* O4 Nezajete emisije v zrak</p>
+    <p xml:id="pb49.p25" xml:lang="sl">O6</p>
+    <p xml:id="pb49.p26" xml:lang="sl">Zbrano v odpadkih</p>
+    <p xml:id="pb49.p27" xml:lang="sl">O7</p>
+    <p xml:id="pb49.p28" xml:lang="sl">Zbrano v izdelkih Delež nezajetih emisij** Delež celotnih emisij***</p>
+    <p xml:id="pb49.p29" xml:lang="sl">4.755,475 2,710 11,097 4,668 4.737,000 60,1% 0,3% Opomba:</p>
+    <p xml:id="pb49.p30" xml:lang="sl">* O1 predstavlja O1.2.: emisije v zajetih neočiščenih plinih</p>
+    <p xml:id="pb49.p31" xml:lang="sl">** nezajete emisije so emisije O4: 11,097 t</p>
+    <p xml:id="pb49.p32" xml:lang="sl">*** celotne emisije so emisije O1+O4: 13,807 t</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">Tabela 19: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu Destilacija vnos topil O1=O.1.1+O.1.2* O4 Nezajete emisije v zrak</p>
+    <p xml:id="pb50.p2" xml:lang="sl">O6</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Zbrano v odpadkih</p>
+    <p xml:id="pb50.p4" xml:lang="sl">O7</p>
+    <p xml:id="pb50.p5" xml:lang="sl">Zbrano v izdelkih Delež nezajetih emisij** Delež celotnih emisij*** 616,014 0,343 13,162 0</p>
+    <p xml:id="pb50.p6" xml:lang="sl">Opomba:</p>
+    <p xml:id="pb50.p7" xml:lang="sl">* O1 predstavlja O1.2.: emisije v zajetih neočiščenih plinih</p>
+    <p xml:id="pb50.p8" xml:lang="sl">** nezajete emisije so emisije O4: 13,162 t</p>
+    <p xml:id="pb50.p9" xml:lang="sl">*** celotne emisije so emisije O1+O4: 13,505 t</p>
+    <p xml:id="pb50.p10" xml:lang="sl">Tabela 20: Bilanca topil za leto 2005 v tonah za vse naprave 16.1 na lokaciji Helios TBLUS Količevo d.o.o. vnos topil O1=O.1.1</p>
+    <p xml:id="pb50.p11" xml:lang="sl">+O.1.2* O4</p>
+    <p xml:id="pb50.p12" xml:lang="sl">Nezajete emisije v zrak</p>
+    <p xml:id="pb50.p13" xml:lang="sl">O5¹ O6</p>
+    <p xml:id="pb50.p14" xml:lang="sl">Zbrano v odpadkih</p>
+    <p xml:id="pb50.p15" xml:lang="sl">O7</p>
+    <p xml:id="pb50.p16" xml:lang="sl">Zbrano v izdelkih Delež nezajetih emisij** Delež celotnih emisij***</p>
+    <p xml:id="pb50.p17" xml:lang="sl">24.371,687 4,5% 1,2% Opomba:</p>
+    <p xml:id="pb50.p18" xml:lang="sl">O5 – količina organskih topil, ki se izgubijo zaradi kemičnih in fizikalnih reakcij.</p>
+    <p xml:id="pb50.p19" xml:lang="sl">* O1 predstavlja O1.2.: emisije v zajetih neočiščenih plinih</p>
+    <p xml:id="pb50.p20" xml:lang="sl">** nezajete emisije so emisije O4: 308,525 t</p>
+    <p xml:id="pb50.p21" xml:lang="sl">*** celotne emisije so emisije O1+O4: 388,766 t 2.9. Obstoječe stanje pretokov ventilacije v proizvodnih obratih Kot zadnji del analize podatkov je bilo potrebno analizirati še obstoječe pretoke na ventilacijskih ceveh v vseh proizvodnih obratih. Že iz bilance topil po proizvodnih obratih je razvidno, da je najbolj problematičen obrat PP, ki ima kar 250 ton emisij VOC v enem letu. To znese skoraj 65% vseh emisij celotnega podjetja. Temu primerno bo potrebno tudi načrtovati dovode onesnaženega zraka na planirano čistilno napravo. Poleg tega pa bo potrebno izvesti tudi korenite spremembe na vseh področjih uporabe topil, saj je delež ne-zajetih emisij VOC skoraj 80%.</p>
+    <p xml:id="pb50.p22" xml:lang="sl">Obstoječi pretoki zraka na lokalni in prostorski ventilaciji so osnova za izvedbo sprememb.</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">Tabela 21: Izmerjeni pretoki ventilacije obrat PP in ostali tehnološki podatki – obstoječe stanje: Št ventilatorja</p>
+    <p xml:id="pb51.p2" xml:lang="sl">N az iv na</p>
+    <p xml:id="pb51.p3" xml:lang="sl">k ap ac ite ta</p>
+    <p xml:id="pb51.p4" xml:lang="sl">/ iz m er je na</p>
+    <p xml:id="pb51.p5" xml:lang="sl">le ta</p>
+    <p xml:id="pb51.p6" xml:lang="sl">* Število obratovalnih ur letno</p>
+    <p xml:id="pb51.p7" xml:lang="sl">M es to od se so va nj a</p>
+    <p xml:id="pb51.p8" xml:lang="sl">Naziv in mesto odsesavanja</p>
+    <p xml:id="pb51.p9" xml:lang="sl">Mikrolokacija Faze dela, ki jih pokriva ventilator Monitoring marec-april 2005</p>
+    <p xml:id="pb51.p10" xml:lang="sl">Prejšnji monitoring 0d 2.2 do 10.3.2004/ meritev 2005</p>
+    <p xml:id="pb51.p11" xml:lang="sl">OV-43</p>
+    <p xml:id="pb51.p12" xml:lang="sl">D-2000 P-2000 N-2000</p>
+    <p xml:id="pb51.p13" xml:lang="sl">Skupno letno 6000 123</p>
+    <p xml:id="pb51.p14" xml:lang="sl">Lokalni izpust polnilna linijavage</p>
+    <p xml:id="pb51.p15" xml:lang="sl">Prostorski polnilnica metalize pri RM Zajemanje emisij iz prostora kjer se nahajajo posode na mletju. Povprečna količina posod na mletju je 10, od tega se 5 posod meša.</p>
+    <p xml:id="pb51.p16" xml:lang="sl">Enakomerna obremenitev v vseh treh izmenah</p>
+    <p xml:id="pb51.p17" xml:lang="sl">Izmerjeno 105/161</p>
+    <p xml:id="pb51.p18" xml:lang="sl">OV-48</p>
+    <p xml:id="pb51.p19" xml:lang="sl">D-2000 P-400 N-200</p>
+    <p xml:id="pb51.p20" xml:lang="sl">Skupno letno 2600 23</p>
+    <p xml:id="pb51.p21" xml:lang="sl">Lokalni izpust meš. rezervoar Izdelovalnica metalize, na pokrovih rezervoarjev, R97do R99, R91 do R95, R90 do R83 + roka pri točenju topil pri</p>
+    <p xml:id="pb51.p22" xml:lang="sl">R95</p>
+    <p xml:id="pb51.p23" xml:lang="sl">Povprečna obremenitev je: Dopoldne: 10 ur odprti manloh rezervoarja in 8X točenje topil ali voska v prevozno posodo</p>
+    <p xml:id="pb51.p24" xml:lang="sl">=160 minut Popoldne: 20% dopoldanske obremenitve Ponoči: 10 % dopoldanske obremenitve Izdelava 1x vosek na R95, 1x točenje voska na prosti pad pri R95, 1x točenje topila pri R95.</p>
+    <p xml:id="pb51.p25" xml:lang="sl">Lokalno 30 minut + odprti manlohi rezervoarjev 30 minut Izmerjeno 164/313</p>
+    <p xml:id="pb51.p26" xml:lang="sl">OV-51</p>
+    <p xml:id="pb51.p27" xml:lang="sl">D-2000 P-200 N-100</p>
+    <p xml:id="pb51.p28" xml:lang="sl">Skupno letno 2300 123</p>
+    <p xml:id="pb51.p29" xml:lang="sl">Lokalni izpust RIO-BEER</p>
+    <p xml:id="pb51.p30" xml:lang="sl">Izdelovalnica novi del, tračna mešala + mešalo za izdelavo AL Dopoldne: mešanje posode pod tračnim mešalom 16 ur, izdelava petih posod AL – 3 ure Popoldne: 10% dopoldanske obremenitve Ponoči: do 5 % dopoldanske obremenitve Izdelava 1x R-Al</p>
+    <p xml:id="pb51.p31" xml:lang="sl">(odprta ventilacija 90 minut – ob 12.30 sem zaprl ventilacijo 1 posoda na niansiranju 180 minut Izmerjeno 116/252</p>
+    <p xml:id="pb51.p32" xml:lang="sl">OV-54</p>
+    <p xml:id="pb51.p33" xml:lang="sl">D-2000 P-400 N-200</p>
+    <p xml:id="pb51.p34" xml:lang="sl">Skupno letno 2600 123</p>
+    <p xml:id="pb51.p35" xml:lang="sl">Lokalni izpust meš.rezervoar Izdelovalnica novi del na pokrovih rezervoarjev od R51 do R58 in roke na točenju veziv</p>
+    <p xml:id="pb51.p36" xml:lang="sl">Dopoldne: 8 ur manloh, 2 uri na točenju posod Popoldne: 20% dopoldanske obremenitve Ponoči: do 10 % dopoldanske obremenitve</p>
+    <p xml:id="pb51.p37" xml:lang="sl">Izmerjeno 642/460</p>
+    <p xml:id="pb51.p38" xml:lang="sl">OV-57</p>
+    <p xml:id="pb51.p39" xml:lang="sl">D-2000 P-400 N-200</p>
+    <p xml:id="pb51.p40" xml:lang="sl">Skupno letno 2600 123</p>
+    <p xml:id="pb51.p41" xml:lang="sl">Lokalni izpust meš. rezervoar Izdelovalnica novi del na pokrovih rezervoarjev R69 do R74, R103 do R108, R68 do</p>
+    <p xml:id="pb51.p42" xml:lang="sl">R102</p>
+    <p xml:id="pb51.p43" xml:lang="sl">Dopoldne: 16 ur odprt manloh</p>
+    <p xml:id="pb51.p44" xml:lang="sl">Popoldne: 20% dopoldanske obremenitve Ponoči: do 10 % dopoldanske obremenitve</p>
+    <p xml:id="pb51.p45" xml:lang="sl">Izmerjeno 319/224</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">OV-64</p>
+    <p xml:id="pb52.p2" xml:lang="sl">D-2000 P-2000 N-2000</p>
+    <p xml:id="pb52.p3" xml:lang="sl">Skupno letno 6000 1</p>
+    <p xml:id="pb52.p4" xml:lang="sl">Lokalni izpust polnilna linijatehtnice Polnilnica metalize lokalno na Coball in RM</p>
+    <p xml:id="pb52.p5" xml:lang="sl">3 ventilacijske roke 8 ur na posodah, ki so na mletju- mešanje med mletjem Enakomerna obremenitev v vseh treh izmenah</p>
+    <p xml:id="pb52.p6" xml:lang="sl">Ni bil merjen 2004</p>
+    <p xml:id="pb52.p7" xml:lang="en">OV-72</p>
+    <p xml:id="pb52.p8" xml:lang="sl">D-2000 P-1600 N-800</p>
+    <p xml:id="pb52.p9" xml:lang="sl">Skupno letno 4400 123</p>
+    <p xml:id="pb52.p10" xml:lang="sl">Lokalni izpust Pralnica posod lokalno in prostorsko , roka v prostoru in odvod iz pokrova pralne naprave Dopoldne: pranje posod 20x 15 minut 20x7 minut Popoldne: 80% dopoldanske obremenitve Ponoči: 40% dopoldanske obremenitve Oprano 9 posod po 15 minut na pranju skupno 135 minut Izmerjeno 136/1050</p>
+    <p xml:id="pb52.p11" xml:lang="sl">OV-73</p>
+    <p xml:id="pb52.p12" xml:lang="sl">D-2000 P-1600 N-1400</p>
+    <p xml:id="pb52.p13" xml:lang="sl">Skupno letno 5000 123</p>
+    <p xml:id="pb52.p14" xml:lang="sl">Lokalni izpust (prašni delci) – disolverji Mešalnica lokalno iz disolverjev</p>
+    <p xml:id="pb52.p15" xml:lang="sl">Dopoldne: mešanje in disolviranje 20 posod po 1uro, sočasno pod disolverji 3 posode Popoldne: 80% dopoldanske obremenitve Ponoči: 70% dopoldanske obremenitve Zatehtano 6 posod povprečen čas ene posode pod disolverjem je 40 minut, sočasno delo Izmerjeno</p>
+    <p xml:id="pb52.p16" xml:lang="sl">120 C</p>
+    <p xml:id="pb52.p17" xml:lang="sl">Izmerjeno 3,5 prah</p>
+    <p xml:id="pb52.p18" xml:lang="en">N3</p>
+    <p xml:id="pb52.p19" xml:lang="sl">D-2000 P-1200 N-1000</p>
+    <p xml:id="pb52.p20" xml:lang="sl">Skupno letno 4200 123</p>
+    <p xml:id="pb52.p21" xml:lang="sl">KLIMAT– prostorski izpust Polnilca prizidek in izdelovalnica prizidek</p>
+    <p xml:id="pb52.p22" xml:lang="sl">Prostorski izpust Dopoldne: 100% (absolutna vrednost) Popoldne: 60% dopoldanske vrednosti Ponoči: 50 % dopoldanske vrednosti</p>
+    <p xml:id="pb52.p23" xml:lang="sl">Izmerjeno 4500kg topil letno USTREZA</p>
+    <p xml:id="pb52.p24" xml:lang="sl">Skupna kapaciteta najbolj ključnih lokalnih ventilatorjev v obratu PP je 24470m³/h. Za racionalno obdelavo te količine zraka bo potrebno znižati pretoke na določenih ventilatorjih, poleg tega pa bo potrebno združevanje posameznih vej ventilacije, ki so sedaj samostojne.</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">3. HIPOTEZA</p>
+    <p xml:id="pb53.p2" xml:lang="sl">Globalne klimatske spremembe, so že pred desetletji opozarjale človeka o potrebnih ukrepih za zmanjševanje vpliva človeške dejavnosti na naravo. Evropa je preko več različnih direktiv, vezanih na onesnaževanje, močno posegla v industrijske procese. V Heliosu TBLUS Količevo d.o.o. so se procesi prilagajanja zahtevam direktiv z razvojem ekološko prijaznejših premazov pričeli že pred leti.</p>
+    <p xml:id="pb53.p3" xml:lang="sl">Trenutno pa tečejo aktivnost še na področju emisij VOC iz proizvodnih obratov.</p>
+    <p xml:id="pb53.p4" xml:lang="sl">Ustrezna rešitev teh emisij bo imela sinergijski učinek. Po eni strani bo obremenjevanje okolja s hlapnimi ogljikovodiki manjše, po drugi pa bo vsak ukrep zmanjšanja emisij na izvoru doprinesel k boljšim delovnim pogojem na delovnih mestih in na koncu tudi prispeval k zmanjšanju kala v proizvodnji.</p>
+    <p xml:id="pb53.p5" xml:lang="sl">Vsak kilogram topila, ki sedaj izhlapi v ozračje je za podjetje izgubljen. Osnovni cilj bo dosežen, ko se bodo izvedle naslednje tri aktivnosti:</p>
+    <p xml:id="pb53.p6" xml:lang="sl">• zmanjšanje emisij VOC na izvorih</p>
+    <p xml:id="pb53.p7" xml:lang="sl">• v čim večji meri zajeti vse emisije (imeti malo nezajetih emisij)</p>
+    <p xml:id="pb53.p8" xml:lang="sl">• emisije ustrezno obdelati v čistilni napravi</p>
+    <p xml:id="pb53.p9" xml:lang="sl">Predvidene tehnološke izboljšave v delovnih procesih in obdelava emisij v čistilni napravi naj bi zmanjšale emisijo VOC v zrak za več kot 80%, kar pomeni, da naj bi se emisija zmanjšala s sedanjih 388,7 ton letno na največ cca 75 ton.</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">4. MODEL REŠITVE</p>
+    <p xml:id="pb54.p2" xml:lang="sl">4.1. Sanacijski program za VOC emisije za obrat PP</p>
+    <p xml:id="pb54.p3" xml:lang="sl">Pregled rezultatov meritev in njihova primerjava z rezultati predhodnih meritev v letih 2003 in 2004 je v več primerih pokazala večje razlike pri emisijah VOC in pri pretokih zraka na posameznih izpustih. Analiza rezultatov merjenja je ob upoštevanju trenutnega proizvodnega programa, delovnih postopkov in tehnološke opreme pokazala, da prilagajanje na zahtevane meje VOC zahteva naslednje posege, ki so potrebni za zadostitev zakonskih zahtev:</p>
+    <p xml:id="pb54.p4" xml:lang="sl">• dodatne meritve količin in koncentracij v izpustih ob spremljanju poteka delovnih operacij in posledično prilagoditev izvajanja operacij</p>
+    <p xml:id="pb54.p5" xml:lang="sl">• povečanje tehnološke discipline pri izvajanju operacij z materiali, ki vsebujejo VOC</p>
+    <p xml:id="pb54.p6" xml:lang="sl">• povečanje hermetizacije pri pretakanjih, odmerah in splošnih logističnih delih z materiali, ki vsebujejo VOC</p>
+    <p xml:id="pb54.p7" xml:lang="sl">• redno čiščenje ventilacijskih kanalov nekaterih specifičnih izpustov</p>
+    <p xml:id="pb54.p8" xml:lang="sl">• dodatno hermetizacijo posameznih naprav</p>
+    <p xml:id="pb54.p9" xml:lang="sl">• predelavo posameznih lokalnih izpustov iz mešalnega sistema (prostorsko- lokalno) na druge lokalne izpuste</p>
+    <p xml:id="pb54.p10" xml:lang="sl">• opredelitev kaj spada pod lokalni izpust že v fazo projektiranja – izgradnje novih ali predelavo starih izpustov</p>
+    <p xml:id="pb54.p11" xml:lang="sl">• izgradnjo čistilne naprave za čiščenje močneje obremenjenih izpustov 4.2. Popis faz dela in področij kjer nastajajo emisije</p>
+    <p xml:id="pb54.p12" xml:lang="sl">Pri iskanju možnih rešitev za VOC emisije so bili izvedeni popisi vseh virov VOC.</p>
+    <p xml:id="pb54.p13" xml:lang="sl">Vsi viri so prikazani v spodnji tabeli: Tabela 22: Lokacije virov emisij VOC v obratu PP Zap.št oddelek opravilo opombe 1 Mešalnica Točenje topil 1 dozirno mesto 2 Mešalnica Točenje veziv 2 dozirni mesti 3 Mešalnica Točenje dodatkov 3 dozirna mesta</p>
+    <p xml:id="pb54.p14" xml:lang="sl">4 Mešalnica Doziranje past in ostalih polizdelkov 1 dozirno mesto 5 Mešalnica Dodajanje sipkih surovin v pasto pod disolverjem 7 lokacij</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">6 Mešalnica Disolviranje 7 lokacij 7 Mešalnica Transport surovin in polizdelkov po oddelku</p>
+    <p xml:id="pb55.p2" xml:lang="sl">Celoten tloris oddelka Mešalnica</p>
+    <p xml:id="pb55.p3" xml:lang="sl">8 Mletje Mešanje past med mletjem na peščenem mlinu – cirkulacijsko mletje 6 lokacij</p>
+    <p xml:id="pb55.p4" xml:lang="sl">9 Mletje Mletje past – pasažni način 15 lokacij 10 Mletje Vzorčevanje paste za medfazno kontrolo finoče 21 lokacij</p>
+    <p xml:id="pb55.p5" xml:lang="sl">11 Izdelovanje Iztekanje paste iz posode v rezervoar 150 manlohov, Vsi manlohi izdelovalnih rezervoarjev</p>
+    <p xml:id="pb55.p6" xml:lang="sl">12 Izdelovanje Dodajanje surovin v rezervoar ( sodi posode, kontejnerji, hoboki..) 150 lokacij</p>
+    <p xml:id="pb55.p7" xml:lang="sl">13 Izdelovanje Dokončevanje izdelkov v prevoznih posodah 5 lokacij</p>
+    <p xml:id="pb55.p8" xml:lang="sl">14 Izdelovanje Točenje topil na rampi za topila v prevozno posodo 3 lokacije</p>
+    <p xml:id="pb55.p9" xml:lang="sl">15 Izdelovanje Točenje veziv in polizdelkov v prevozno posodo 7 lokacij</p>
+    <p xml:id="pb55.p10" xml:lang="sl">16 Izdelovanje Niansiranje v posodi – tračna mešala 10 lokacij 17 Izdelovanje Točenje past na DROMONTU 1 lokacija 18 Izdelovanje Izdelava polizdelkov »Aluminij paste« 1 lokacija 19 Izdelovanje Doziranje na dispenzerju FLUID 1 lokacija 20 Cestni Izdelava cestnih premazov 2 lokaciji 21 Cestni Filtracija in točenje cestnih premazov v hoboke, sode in kontejnerje 2 lokaciji</p>
+    <p xml:id="pb55.p11" xml:lang="sl">22 Polnilnica Polnjenje na polnilnih avtomatih 8 lokacij 23 Polnilnica Filtracija in točenje hobokov in sodov, pranje kible Celoten tloris polnilnice 24 Pralnica drobnega inventarja</p>
+    <p xml:id="pb55.p12" xml:lang="sl">Pranje filtrov, črpalk in ostale opreme 1 lokacija 25 Pralnica posod</p>
+    <p xml:id="pb55.p13" xml:lang="sl">Pranje prevoznih posod 2 lokaciji</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="sl">Najbolj ključne faze dela, kjer so emisije VOC največje so predstavljene na slikah: Najbolj ključne faze dela, kjer so emisije VOC največje so predstavljene na slikah: Slika 8: Točenje topil v odprto embalažo ali prevozno posodo Slika 8: Točenje topil v odprto embalažo ali prevozno posodo Slika 9: Točenje veziv v prevozno posodo Slika 10: Disolviranje paste pod disolverjem Slika 11: Mletje past – pasažni način Slika 12: Dodajanje surovin v izdelovalni rezervoar Slika 13: Dokončevanje pod mešalom v prevoznih posodah Slika 14: Točenje hobokov 20L embalaža Slika 15: Pranje prevoznih posod</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=57"/>
+  <page xml:id="pb58" n="58" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=58"/>
+  <page xml:id="pb59" n="59" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=59"/>
+  <page xml:id="pb60" n="60" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=60">
+    <p xml:id="pb60.p1" xml:lang="sl">4.3. Predlogi za zmanjšanje emisij VOC na izvoru za obrat PP 4.3.1. Lokalna ventilacija na manlohih izdelovalnih rezervoarjev V dneh od 4.1. 2006 do 23.1. 2006 je bilo izvedeno popisovanje stanja manlohov na rezervoarjih PP. Popisi so se izvajali ob različnih urah: Tabela 23: Popis stanja odprtosti pokrovov rezervoarjev v obratu PP Datum in ura popisa Število odprtih manloh ov</p>
+    <p xml:id="pb60.p2" xml:lang="sl">Število rezervoarje v na katerih je potekalo delo</p>
+    <p xml:id="pb60.p3" xml:lang="sl">Zajemalka pod manlohom Zajemalka pod manlohom Pri odprti ventilaciji Število odprtih ventilacij na rezervoarji h, kjer je potekalo delo</p>
+    <p xml:id="pb60.p4" xml:lang="sl">Število zaprtih ventilacij na rezervoarj ih kjer je potekalo delo</p>
+    <p xml:id="pb60.p5" xml:lang="sl">4.1. , 11.10 9 6 16 4 2 4 6.1., 9.15 8 8 20 11 5 3 9.1., 10.10 9 3 20 11 2 1 10.1. 11.00 8 3 26 19 3 0 11.1. 9.40 8 2 30 22 1 1 12.1. 13.00 4 1 22 16 1 0 13.1. 12.00 5 3 21 11 2 1 16.1. 10.20 7 2 23 17 2 0 17.1. 12.10 2 1 23 14 1 0 18.1. 10.10 5 2 20 13 2 0 20.1. 9.15 15 12 26 17 10 2 23.1. 10.00 4 1 28 20 1 0 Predlagana rešitev:</p>
+    <p xml:id="pb60.p6" xml:lang="sl">Montaža mehanske lopute na ventilacijsko cev manlohov rezervoarjev. Loputa je odprta samo v primeru odprtega manloha. Teža manloha odpre loputo. Druga možnost je montaža avtomatske lopute-Ex izvedba. Vzorec lopute je na testiranju.</p>
+    <p xml:id="pb60.p7" xml:lang="sl">Prednost mehanske lopute je v nizkih stroških začetne investicije.</p>
+    <p xml:id="pb60.p8" xml:lang="sl">Če predpostavimo, da je zadosten vlek na manlohih rezervoarjev 300m3/h je potrebna kapaciteta ob sočasnem delu na 10 rezervoarjih 3000m3/h ventilacije za vse rezervoarje PP.</p>
+  </page>
+  <page xml:id="pb61" n="61" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=61">
+    <p xml:id="pb61.p1" xml:lang="sl">4.3.2. Točenje topil in veziv Oddelek Mešalnica Skupno 6 točilnih mest</p>
+    <p xml:id="pb61.p2" xml:lang="sl">5 mest za točenje dodatkov in veziv:</p>
+    <p xml:id="pb61.p3" xml:lang="sl">Zaradi narave dela je predlagano, da se na ventilaciji vgradijo krmiljene lopute, ki so povezane s programom točenja (ob točenju je loputa odprta, drugače zaprta).</p>
+    <p xml:id="pb61.p4" xml:lang="sl">Istočasno so predlagane naslednje variante za lokaliziranje emisij:</p>
+    <p xml:id="pb61.p5" xml:lang="sl">• vsako točilno mesto ograditi ali</p>
+    <p xml:id="pb61.p6" xml:lang="sl">• izvesti pomično ventilacijsko cev, ki se ob doziranju spusti pod nivo posode</p>
+    <p xml:id="pb61.p7" xml:lang="sl">• izvesti zaščito cca premera 800, ki bi se spustila do višine posode ob točenju in bi se po točenju dvignila nad nivo dozirnih ventilov.</p>
+    <p xml:id="pb61.p8" xml:lang="sl">1 mesto za točenje topil:</p>
+    <p xml:id="pb61.p9" xml:lang="sl">Topila se točijo v različnih fazah tehnološkega postopka (v prazno ali polno posodo), zato so predlagani naslednji ukrepi:</p>
+    <p xml:id="pb61.p10" xml:lang="sl">• izdelava pokrova (gibljiv gor-dol), na katerem je dovedena ventilacija s krmiljeno loputo, ki je odprta samo v času točenja topil, ali</p>
+    <p xml:id="pb61.p11" xml:lang="sl">• princip točenja ostane enak kot sedaj, pri točenju se posode pokrivajo, izpodrinjeni zrak se zajame z gibljivo roko, ki ima krmiljeno loputo.</p>
+    <p xml:id="pb61.p12" xml:lang="sl">Pri sočasnem točenju na dveh točilnih mestih in pri potrebni ventilaciji cca 500m3/h bi za pokrivanje teh emisij zadostoval ventilator s kapaciteto 1000m3/h 4.3.3. Točenje topil, veziv in polizdelkov v izdelovalnici Oddelek Metalize 4 točilna mesta</p>
+    <p xml:id="pb61.p13" xml:lang="sl">• izdelava pokrova (gibljiv gor-dol), na katerem je dovedena ventilacija s krmiljeno loputo, ki je odprta samo v času točenja, ali</p>
+    <p xml:id="pb61.p14" xml:lang="sl">• princip točenja ostane enak kot sedaj, pri točenju se posode pokrivajo, izpodrinjeni zrak se zajame z gibljivo roko, ki ima krmiljeno loputo.</p>
+    <p xml:id="pb61.p15" xml:lang="sl">Večinoma eno točilno mesto v fazi točenja – kapaciteta 500m3/h Oddelek Izdelovalnica novi del</p>
+    <p xml:id="pb61.p16" xml:lang="sl">6 točilnih mest (2 x polizdelki, 3x veziva in 1x topilo v bližini vezivne rampe)</p>
+    <p xml:id="pb61.p17" xml:lang="sl">• princip točenja ostane enak kot sedaj, pri točenju se posode pokrivajo, izpodrinjeni zrak se zajame z gibljivo roko, ki ima krmiljeno loputo!</p>
+    <p xml:id="pb61.p18" xml:lang="sl">Sočasno točenje na dveh mestih, potrebna kapaciteta 1000m3/h Izdelovalnica stari del</p>
+  </page>
+  <page xml:id="pb62" n="62" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=62">
+    <p xml:id="pb62.p1" xml:lang="sl">3 točilna mesta (2x vezivo, 1x topilo) Točenje topil:</p>
+    <p xml:id="pb62.p2" xml:lang="sl">• izdelava pokrova (gibljiv gor-dol), na katerem je dovedena ventilacija s krmiljeno loputo, ki je odprta samo v času točenja topil, ali</p>
+    <p xml:id="pb62.p3" xml:lang="sl">• princip točenja ostane enak kot sedaj, pri točenju se posode pokrivajo, izpodrinjeni zrak se zajame z gibljivo roko, ki ima krmiljeno loputo, ali</p>
+    <p xml:id="pb62.p4" xml:lang="sl">• izdelava namenskih zaprtih posod, ki imajo pripravljen oduh, ki se ob točenju topil v posodo poveže z ventilacijo, ki ima krmiljeno loputo, ali</p>
+    <p xml:id="pb62.p5" xml:lang="sl">• izdelava posode s plavajočim pokrovom. Točenje podnivojsko pod pokrov. Emisije v tem primeru bi bile minimalne.</p>
+    <p xml:id="pb62.p6" xml:lang="sl">• Podnivojsko točenje z avtomatsko polnilno napravo (FEIGE). Polnilna naprava ima predvideno ventilacijsko cev za izpodrinjen zrak. Polnilna naprava je primerna za točenje v sode ali v prevozne posode oziroma kontejnerje. Primer na sliki št.16.</p>
+    <p xml:id="pb62.p7" xml:lang="sl">Slika 16: Avtomatska polnilna naprava FEIGE Točenje veziv:</p>
+  </page>
+  <page xml:id="pb63" n="63" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=63">
+    <p xml:id="pb63.p1" xml:lang="sl">• princip točenja ostane enak kot sedaj, pri točenju se posode pokrivajo, izpodrinjeni zrak se zajame z gibljivo roko, ki ima krmiljeno loputo.</p>
+    <p xml:id="pb63.p2" xml:lang="sl">Izdelovalnica stari del, sočasnost točenja na dveh mestih – potrebna kapaciteta 1000m3/h.</p>
+    <p xml:id="pb63.p3" xml:lang="sl">Tabela 24: Predlagane kapacitete ventilatorjev za obrat PP Področje Predlagana kapaciteta m3/h</p>
+    <p xml:id="pb63.p4" xml:lang="sl">Mešalnica, dodatki, veziva in topila 1000 Izdelovalnica – manlohi rezervoarjev 2500 Izdelovalnica Metalize – lokalno na točilnih mestih 500 Izdelovalnica novi del – lokalno na točilnih mestih 1000 Izdelovalnica stari del- lokalno na točilnih mestih 1000 Mešalnica Disolverji 4000 Pralnica posod 3500</p>
+    <p xml:id="pb63.p5" xml:lang="sl">Mlini - lokalno pri posodah 3000 Izdelovalnica – Tračna mešala in mešala 2500 Skupaj (zajem ventilacije iz obrata PP) 19.000</p>
+    <p xml:id="pb63.p6" xml:lang="sl">*Vse ostale manjše vire emisij VOC bo potrebno vezati na prostorsko ventilacijo!</p>
+    <p xml:id="pb63.p7" xml:lang="sl">4.3.4. Predvidena obremenjenost zajetih emisij</p>
+    <p xml:id="pb63.p8" xml:lang="sl">Na osnovi preteklih monitoringov zraka na izpustih v zrak in glede na sestavo topil, ki se uporabljajo v proizvodnem procesu se predvideva okvirna sestava zajetih emisij, ki bodo zajete in obdelane v čistilni napravi. Povprečen VOC se ocenjuje na 350 do 500 mgC/m³. Povprečna sestava topil v zajetih emisijah je predstavljena v spodnjem grafikonu.</p>
+  </page>
+  <page xml:id="pb64" n="64" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=64">
+    <p xml:id="pb64.p1" xml:lang="sl">Grafikon 5: Pričakovana povprečna sestava VOC emisij v zajetih emisijah 35% 30% 5% 5% 3% 3% 3% 3% 3% 3% 7%</p>
+    <p xml:id="pb64.p2" xml:lang="sl">Butilacetat 98-100% Ksilen</p>
+    <p xml:id="pb64.p3" xml:lang="sl">Bencin D-60 n-Butanol Solvesso 100 Bencin D-40 Toluen</p>
+    <p xml:id="pb64.p4" xml:lang="sl">SPEC. BENCIN 130-170</p>
+    <p xml:id="pb64.p5" xml:lang="sl">Etilacetat</p>
+    <p xml:id="pb64.p6" xml:lang="sl">ACETON</p>
+    <p xml:id="pb64.p7" xml:lang="sl">Ostala topila</p>
+    <p xml:id="pb64.p8" xml:lang="sl">Izračun povprečne vrednosti ogljika v zajetih emisijah. Za izračun povprečja so upoštevane vsebnosti ogljika, iz tabele št 27.</p>
+    <p xml:id="pb64.p9" xml:lang="sl">X = 0,35x0,85 + 0,30x0,90 + 0,05x0,85 + 0,05x0,65 + 0,03x0,88 + 0,03x0,85</p>
+    <p xml:id="pb64.p10" xml:lang="en">+0,03x0,91 + 0,03x0,85 + 0,03x0,55 + 0,03x0,62 + 0,07x0,60 = 0,2975 + 0,27 + 0,0425 + 0,0325 + 0,0264 + 0,0255 + 0,0273 + 0,0255 + 0,0165 + 0,0186 + 0,042 = 0,82</p>
+    <p xml:id="pb64.p11" xml:lang="sl">Povprečna vsebnost ogljika v mešanici topil je 82%.</p>
+  </page>
+  <page xml:id="pb65" n="65" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=65">
+    <p xml:id="pb65.p1" xml:lang="sl">Tabela 25: Delež ogljika v topilih</p>
+    <p xml:id="pb65.p2" xml:lang="sl">IME KEMIJSKA MOL.</p>
+    <p xml:id="pb65.p3" xml:lang="sl">SNOVI FORMULA MASA</p>
+    <p xml:id="pb65.p4" xml:lang="sl">Pretežno Kalkul.</p>
+    <p xml:id="pb65.p5" xml:lang="sl">CnH2n+2 n=7-8 99 Pretežno Kalkul.</p>
+    <p xml:id="pb65.p6" xml:lang="sl">CnH2n+2 n=8-9 140 Nad 80%</p>
+    <p xml:id="pb65.p7" xml:lang="sl">C6H3(CH3)3 št.</p>
+    <p xml:id="pb65.p8" xml:lang="sl">48 65 108 77 delež ogljika (%)</p>
+    <p xml:id="pb65.p9" xml:lang="sl">17. SOLVESSO S-100 123 masa ogljika na 1 mol 72 96 36 96 72</p>
+    <p xml:id="pb65.p10" xml:lang="sl">4816. Metoksipropanol CH3OCH2CHCH3 90,1 15. Metoksipropilacetat C6H12O3 132,2 14. Etanol C2H5OH 46,1 13. Izopropanol C3H7OH 60,1</p>
+    <p xml:id="pb65.p11" xml:lang="en">12. Butildiglikol C4H9OC2H4OC2H4OH 162,2 11. Butilglikol C4H9OC2H4OH 118,2 10. Etilacetat CH3COOC2H5 88,1 9. Aceton C3H6O 58,1</p>
+    <p xml:id="pb65.p12" xml:lang="en">8. Metilizobutil keton (CH3)2CHCH2COCH3 100,2</p>
+    <p xml:id="pb65.p13" xml:lang="sl">C6H4(CH3)2 106,2</p>
+    <p xml:id="pb65.p14" xml:lang="sl">7. Metiletil keton CH3COC2H5 72,1 5. Lak benzin 6. Ksilol</p>
+    <p xml:id="pb65.p15" xml:lang="sl">4. Butanol C4H9OH 74,1</p>
+    <p xml:id="pb65.p16" xml:lang="sl">C6H5CH3 92,1</p>
+    <p xml:id="pb65.p17" xml:lang="sl">3. Butilacetat CH3COOC4H9 116,2 1. Specialni bencin 2. Toluen</p>
+    <p xml:id="pb65.p18" xml:lang="sl">Ocenjuje se, da bo (glede na pričakovano sestavo VOC v zraku in glede na vsebnost ogljika v topilih) povprečna vsebnost ogljika cca 82% od količine topil.</p>
+    <p xml:id="pb65.p19" xml:lang="sl">4.4. Načrtovanje naprave za zmanjševanje VOC</p>
+    <p xml:id="pb65.p20" xml:lang="sl">Načrtovanje čiščenja odpadnih plinov zahteva optimizacijo pretokov odpadnega zraka v sistemu zbiranja zraka in načrtovanje dejanske čistilne naprave. Vsaka vrsta čistilne naprave za optimalno učinkovitost potrebuje odpadne pline z različnimi karakteristikami. Sežigalnice potrebujejo npr. visoke koncentracije VOC in nizke količine zraka za obratovanje na avtotermalni način (ni potrebnega zunanjega plina za proces sežiganja). Pri biološkem čiščenju odpadni zrak ne sme vsebovati nobenih toksičnih komponent, obremenitev VOC pa mora biti stalno v razponu nizke koncentracije.</p>
+  </page>
+  <page xml:id="pb66" n="66" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=66">
+    <p xml:id="pb66.p1" xml:lang="sl">Za čiščenje odpadnih plinov obstaja mnogo različnih vrst naprav in vse imajo prednosti in slabosti, prav tako pa se razlikujejo po večji ali manjši učinkovitosti glede na različne pogoje.</p>
+    <p xml:id="pb66.p2" xml:lang="sl">4.5. Možne naprave za zmanjševanje VOC 1. Biofiltri/Bio čistilniki Čiščenje v suhem ali mokrem sredstvu 2. Regenerativna termična oksidacija (RTO) Čiščenje z razdelilnikom v 2-3 oksidacijske komore 3. Rekuperativna termična oksidacija trajna tehnologija z integrirano regeneracijo toplote 4. Katalitična oksidacija sistemi s katalizatorji za nizko temperaturno oksidacijo 5. Adsorpcija (molekularna sita, aktivni ogljik) sistemi za čiščenje odpadnih plinov in regeneracijo topil 6. Rotacijski koncentratorji za kombinacijo z regeneracijo ali toplotno obdelavo 4.5.1. Analiza posameznih tehnologij</p>
+    <p xml:id="pb66.p3" xml:lang="sl">Vsaka od naprav ima svoje dobre in slabe lastnosti. Tudi uporabnost posamezne naprave je odvisna od več vhodnih parametrov. Najpomembnejši podatki za izbor pravilnega postopka obdelave in tudi najbolj ustrezne tehnologije obdelave emisij VOC je predvsem odvisen od treh tehnoloških dejavnikov:</p>
+    <p xml:id="pb66.p4" xml:lang="sl">- količina onesnaženega zraka, ki ga je potrebno obdelati</p>
+    <p xml:id="pb66.p5" xml:lang="sl">- koncentracija VOC v zraku za obdelavo</p>
+    <p xml:id="pb66.p6" xml:lang="sl">- konstantnost oziroma nihanje koncentracije VOC v onesnaženem zraku Primerjava med posameznimi napravami se je izvedla s pomočjo SWOT analize, rezultati so podani v tabeli št 26:</p>
+  </page>
+  <page xml:id="pb67" n="67" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=67">
+    <p xml:id="pb67.p1" xml:lang="sl">Tabela 26: Primerjava različnih tehnologij za zmanjševanje VOC-ja v onesnaženem zraku.</p>
+    <p xml:id="pb67.p2" xml:lang="sl">Tehnologija, ki jo naprava uporablja Priporočena področja uporabe Prednosti Slabosti</p>
+    <p xml:id="pb67.p3" xml:lang="sl">BIO FILTRI</p>
+    <p xml:id="pb67.p4" xml:lang="sl">(biološko čiščenje) Primerno za onesnažen zrak , ki nima visokih koncentracij VOC.</p>
+    <p xml:id="pb67.p5" xml:lang="sl">Primerno za zrak, ki je obremenjen s stalno sestavo – čim manj nihanja v sestavi VOCjev – iste komponenta.</p>
+    <p xml:id="pb67.p6" xml:lang="sl">Ob idealnih pogojih obratovanja so obratovalni stroški nizki.</p>
+    <p xml:id="pb67.p7" xml:lang="sl">Sistem je občutljiv na onesnaženje- snovi, ki porušijo biologijo mikroorganizmov.</p>
+    <p xml:id="pb67.p8" xml:lang="sl">Sistem je občutljiv tudi na temperaturo in vlago. Naprava je zelo velika. V primeru porušenja ravnotežja v napravi je potreben dolg čas za ponovno optimalno obratovanje naprave</p>
+    <p xml:id="pb67.p9" xml:lang="sl">Regenerativna termična oksidacija</p>
+    <p xml:id="pb67.p10" xml:lang="sl">(RTO)</p>
+    <p xml:id="pb67.p11" xml:lang="sl">Za procesno tehnologijo, kjer je sestava VOC zelo heterogena; npr. premazna industrija, sinteza različnih veziv, velike lakirnice, pri uporabi fenolov… Kratki zagonski časi, nizka občutljivost na prah in sestavo VOC.</p>
+    <p xml:id="pb67.p12" xml:lang="sl">Če se na keramičnih polnilih tvorijo obloge, jih je možno regenerirat z izžiganjem.. Naprava je enostavna in ne zahteva zahtevnega vzdrževanja. Dobra energetska učinkovitost. Relativno nizka poraba energije na enoto obdelanega onesnaženega zraka Velikost naprave, naprava deluje optimalno ob neprekinjenem delovanju – brez zaustavitev. Ni primerna za industrijske procese, ki potekajo enoizmensko ali dvoizmensko.</p>
+    <p xml:id="pb67.p13" xml:lang="sl">Faktor med minimalnim in maksimalnim pretokom je približno pet.</p>
+    <p xml:id="pb67.p14" xml:lang="sl">Katalitična oksidacija Običajno manjše naprave za manjše količine zraka primerno za farmacevtsko industrijo za znano sestavo VOC</p>
+    <p xml:id="pb67.p15" xml:lang="sl">Katalitična oksidacija poteka pri cca 550℃C.</p>
+    <p xml:id="pb67.p16" xml:lang="sl">Zaradi tega naprava obratuje z manjšo porabo energenta kot pri napravi RTO.</p>
+    <p xml:id="pb67.p17" xml:lang="sl">Naprava je občutljiva na halogene, žveplo, težke kovine …, ker uničujejo katalizator.</p>
+    <p xml:id="pb67.p18" xml:lang="sl">Naprava je občutljiva na aerosole. Naprava je draga, drago je tudi menjavanje katalizatorja. Faktor med minimalnim in maksimalnim pretokom je približno osem.</p>
+    <p xml:id="pb67.p19" xml:lang="sl">Adsorbcija na zeolite Običajno se uporablja kot koncentrator hlapov pred eno od naprav za termično oksidacijo</p>
+    <p xml:id="pb67.p20" xml:lang="sl">Enostavna naprava.</p>
+    <p xml:id="pb67.p21" xml:lang="sl">Regeneracija je možna s segrevanjem na približno temperaturo vrelišča topil, ki so v onesnaženem zraku.</p>
+    <p xml:id="pb67.p22" xml:lang="sl">Za obratovanje ni potreben zagonski čas.</p>
+    <p xml:id="pb67.p23" xml:lang="sl">Strošek menjave zeolitnega satovja je visok. Obratovanje motijo aerosoli in prah.</p>
+    <p xml:id="pb67.p24" xml:lang="sl">Če so v zraku prisotni tudi monomeri,je možna polimerizacija na površini satovja.</p>
+  </page>
+  <page xml:id="pb68" n="68" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=68">
+    <p xml:id="pb68.p1" xml:lang="sl">Absorbcija na aktivno oglje</p>
+    <p xml:id="pb68.p2" xml:lang="sl">Naprava je primerna za majhne količine onesnaženega zraka z nizko koncentracijo VOC in z znano sestavo VOC.</p>
+    <p xml:id="pb68.p3" xml:lang="sl">Primerno za manjše prostore npr. laboratorije.</p>
+    <p xml:id="pb68.p4" xml:lang="sl">Naprava je zelo enostavna. Ni zagonskega časa.</p>
+    <p xml:id="pb68.p5" xml:lang="sl">Pretoki na napravi so lahko zelo nizki.</p>
+    <p xml:id="pb68.p6" xml:lang="sl">Vzdrževanje naprave je enostavno</p>
+    <p xml:id="pb68.p7" xml:lang="sl">Regeneracija oglja je draga. Možnosti samovžiga absorbcijskega oglja ob prisotnosti ketonov in ustavitvi pretoka zraka skozi napravo.</p>
+    <p xml:id="pb68.p8" xml:lang="sl">Sosežig v kotlu Primerna naprava za velike sisteme, velike kotlovnice, ki proizvajajo veliko toplote.</p>
+    <p xml:id="pb68.p9" xml:lang="sl">Enostaven sistem, ni občutljiv na prah in aerosole. Ni zagonskega časa.</p>
+    <p xml:id="pb68.p10" xml:lang="sl">Ni dovoljeno preveliko nihanje na dovodu onesnaženega zraka.</p>
+    <p xml:id="pb68.p11" xml:lang="sl">Neprimerno za delovne procese, ki potekajo v eni ali dveh izmenah…</p>
+    <p xml:id="pb68.p12" xml:lang="sl">Utekočinjenje s podhladitvijo</p>
+    <p xml:id="pb68.p13" xml:lang="sl">Za onesnažen zrak, ki je onesnažen s visokimi koncentracijami VOC.</p>
+    <p xml:id="pb68.p14" xml:lang="sl">Primerno za procese, kjer kondenzirano topilo uporabijo večkrat – procesi v farmaciji.</p>
+    <p xml:id="pb68.p15" xml:lang="sl">Kondenzirano topilo se lahko ponovno uporabi. Primerno za onesnažen zrak, ki vsebuje visoke koncentracije VOC.</p>
+    <p xml:id="pb68.p16" xml:lang="sl">Naprave so enostavne.</p>
+    <p xml:id="pb68.p17" xml:lang="sl">Visoka poraba energije za obratovanje naprave. Ni primerno za procese, kjer ni možna ponovna uporaba kondenzata topil.</p>
+    <p xml:id="pb68.p18" xml:lang="sl">Po proučitvi vseh podatkov se je vodstvo Heliosa odločilo za izgradnjo ene naprave, in sicer Regenerativne termične oksidacije. Naprava bo stala na lokaciji, ki je najbližja obratu PP in bo imela kapaciteto za očiščevanje 27.000 m³/h onesnaženega zraka. V napravo bo vodilo 10 zračnih kanalov, ki bodo zajemali vse tri proizvodne obrate z emisijami, od tega bo 7 zračnih kanalov vezanih na obrat PP.</p>
+    <p xml:id="pb68.p19" xml:lang="sl">4.6. Predstavitev naprave za regenerativno termično oksidacijo Naprava deluje pri temperaturi 800 do 900℃C, kjer poteka oksidacija ogljikovodikov. Pri tem se ogljikovodiki pretvorijo v produkte gorjenja, to je ogljikov dioksid (CO2) in vodo (H2O). Ob obratovanju, naprava v ozrače ne emitira nobenih drugih škodljivih snovi. Naprava je “regenerativna”, kar pomeni, da se sistem sam vzdržuje. Samovzdrževanje sistema je možno samo pri dovolj visokih koncentracijah VOC v obdelanem zraku. Če so koncentracije prenizke, pa naprava potrebuje dodaten vir energentov, običajno je to plin. Naprava je sestavljena iz regenerativne komore s tremi toplotnimi izmenjevalci, sežigalne komore, plinskega gorilca, ventilov, ki krmilijo dotok zraka in elementov za nadzor delovanja naprave.</p>
+    <p xml:id="pb68.p20" xml:lang="sl">Onesnažen zrak se zbere na zbirni cevi, ki vodi v napravo. Pred vstopom zraka v napravo se nahaja senzor za merjenje koncentracije VOC. Ventilator vpihuje zrak v regeneratorski del naprave. Zrak potuje skozi predgreto keramično satovje in nato vstopi v sežigalno komoro. V komori poteče popolna oksidacija VOC pri 800 do 900℃C. Pri oksidaciji se sprošča toplota, ki jo naprava koristi tako, da je poraba zunajih energentov (plina) manjša. Očiščen vroč zrak (dimni plini) potuje skozi drugo komoro s toplotnim izmenjevalcem, kjer se dimni plini ohladijo, toploto pa oddajo keramičnemu satovju. Cikel potovanja dimnih plinov v napravi se menja tako, da se pot zraka skozi različne komore časovno preklaplja. Tretji toplotni izmenjevalec pa se vključi v proces takrat, ko se v preklapljanju med prvo in drugo komoro nekaj hlapov še zadržuje v cevovodu. Naprava na ta način uspe celotno količino dovedenega onesnaženega zraka voditi skozi toplotne izmenjevalce in na ta način zmanjšuje potrebo po zunanjem energentu.</p>
+  </page>
+  <page xml:id="pb69" n="69" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=69">
+    <p xml:id="pb69.p1" xml:lang="sl">Slika 17: Princip delovanja RTO naprave (vir: dokumentacija Helios) 4.6.1. Čistilne naprave, ki so uporabljene v različnih podjetjih Večja podjetja, ki so zavezanci direktive, so že v preteklosti pričeli postavljati naprave za zmanjšanje vplivov onesnaženega zraka z VOC na okolje. Navajamo nekaj primerov:</p>
+  </page>
+  <page xml:id="pb70" n="70" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=70">
+    <p xml:id="pb70.p1" xml:lang="sl">Tabela 27: Uporabljene čistilne naprave za VOC v zraku v različnih podjetjih Podjetje Naprava</p>
+    <p xml:id="pb70.p2" xml:lang="sl">SIGMA Coatings, Bochum, premazna industrija</p>
+    <p xml:id="pb70.p3" xml:lang="sl">RTO – proizvajalec LTG</p>
+    <p xml:id="pb70.p4" xml:lang="sl">CHINOIN Sanofi-Aventis, Budimpešta, farmacija Dve napravi</p>
+    <p xml:id="pb70.p5" xml:lang="sl">Za večje emisije RTO</p>
+    <p xml:id="pb70.p6" xml:lang="sl">Za določene procese utekočinjenje s kondenzacijo – naprava LINDE</p>
+    <p xml:id="pb70.p7" xml:lang="sl">KRKA Novo mesto, farmacija RTO – italijanski proizvajalec REVOZ Novo mesto, avtoindustrija RTO – proizvajalec DUR SWATY - Maribor RTO - proizvajlec LTG TALUM – Kidričevo, proizvodnja aluminija</p>
+    <p xml:id="pb70.p8" xml:lang="sl">RTO – proizvajlec LTB</p>
+    <p xml:id="pb70.p9" xml:lang="sl">Večina sorodnih podjetij (sorodnih po emisijah, ali po proizvodnem programu), se je odločala za napravo RTO, kar kaže na to, da je princip regenerativne termične oksidacije primeren tudi za podjetje HELIOS. Na trgu je več ponudnikov čistilnih naprav tipa RTO. Najbolj znani sta firmi LTG in LTB.</p>
+    <p xml:id="pb70.p10" xml:lang="sl">4.6.2. Obratovalni podatki za napravo RTO s kapaciteto 27000m³ RTO naprave so dimenzionirane za različne kapacitete. Za podjetje Helios TBLUS Količevo d.o.o. se ocenjuje, da je optimalna naprava, ki ima nazivno kapaciteto 27000m³/h. Nekaj osnovnih podatkov za takšno napravo je podanih v spodnji tabeli. Podatki so zelo primerljivi, ne glede na proizvajalca naprave.</p>
+    <p xml:id="pb70.p11" xml:lang="sl">Tabela 28: Obratovalni podatki za RTO napravo kapacitete 27000Nm³/h parameter količina</p>
+    <p xml:id="pb70.p12" xml:lang="sl">VSTOPNI PODATKI ZA NAPRAVO</p>
+    <p xml:id="pb70.p13" xml:lang="sl">Normirana količina vstopnega zraka 27000 Nm³/h Minimalna količna zraka Cca 6000 Nm³/h Predvidena vstopna temperatura zraka 20℃C Predvidena koncentracija ogljika v zraku pri normalnem obratovanju 0,5 g/m³</p>
+    <p xml:id="pb70.p14" xml:lang="sl">Maksimalna dovoljena koncentracija ogljika v zraku &lt; 5 g/ m³ Maksimalna koncentracija ogljika v zraku 20-25 % LEL (gornje ekplozijske meje ) Prašni delci &lt; 2 g/m³</p>
+  </page>
+  <page xml:id="pb71" n="71" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=71">
+    <p xml:id="pb71.p1" xml:lang="sl">PODATKI ZA IZSTOPNI ZRAK - OČIŠČEN</p>
+    <p xml:id="pb71.p2" xml:lang="sl">Maksimalna količina oglika &lt;20 mg/m³</p>
+    <p xml:id="pb71.p3" xml:lang="sl">Maksimalna koncentracija oglikovega monoksida &lt;100mg/m³ Maksomalna koncentracija dušikovih oksidov &lt;100mg/m³</p>
+    <p xml:id="pb71.p4" xml:lang="sl">PODATKI O NAPRAVI RTO</p>
+    <p xml:id="pb71.p5" xml:lang="sl">Število komor 3</p>
+    <p xml:id="pb71.p6" xml:lang="sl">Učinkovitost rekuperacijske toplote Cca 95% Delovna temperatura komore 800 do 900℃C Maksimalna temperatura keramike 1200 ℃C Maksimalna temperatura komore 950 ℃C Izhodna temperatura plinov 62 ℃C</p>
+    <p xml:id="pb71.p7" xml:lang="sl">PORABA ENERGENTOV PRI OBRATOVANJU NAPRAVE</p>
+    <p xml:id="pb71.p8" xml:lang="sl">Priključna moč plina 65m³/h</p>
+    <p xml:id="pb71.p9" xml:lang="sl">Poraba plina ob ogljik = 0,0 g/m³ Cca 50 m³/h Poraba plina ob ogljik = 0,5 g/m³ Cca 35 m³/h Samozadostnost za obratovanje pri koncentraciji ogljika 2 g/m³</p>
+    <p xml:id="pb71.p10" xml:lang="sl">Potrebna priključna moč 45-70 KW (odvisno od proizvajalca )</p>
+    <p xml:id="pb71.p11" xml:lang="sl">4.7. Organizacijski ukrepi, kadri in finance</p>
+    <p xml:id="pb71.p12" xml:lang="sl">Za uspešno prilagajanje zahtevam zakonodaje o dovoljenih emisijah VOC bo potrebno izvesti tudi organizacijske spremembe. Nova čistilna naprava bo morala obratovati 24 ur na dan, vse dni v letu. Zaustavitve in zagoni termičnih čistilnih naprav so problematični, zato te naprave normalno obratujejo brez vmesnih zaustavitev. Za zagotavljanje ekonomičnosti obratovanja same naprave bo potrebno določene faze dela izvajati tudi preko sobote in nedelje in s tem doseči bolj enakomerno onesnažen zrak tekom celega dne, tedna in leta.</p>
+    <p xml:id="pb71.p13" xml:lang="sl">Sama naprava ne bo potrebovala operaterja, torej ne bo dodatnih zaposlitev za obratovanje. Naprava bo potrebovala usposobljeno osebje za morebitne vzdrževalne posege na krmilnem delu naprave ali na mehanskem področju. Vse to lahko z obstoječimi kadri pokrije služba vzdrževanja.</p>
+    <p xml:id="pb71.p14" xml:lang="sl">Predvideni stroški postavitve čistilne naprave so cca. 700.000 EUR, ob tem pa je potrebno računati še na cca. 100.000 EUR letnih stroškov obratovanja. Stroški obratovanja pa so zelo odvisni od dejanske obremenjenosti dovedenega zraka na sežig.</p>
+  </page>
+  <page xml:id="pb72" n="72" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=72">
+    <p xml:id="pb72.p1" xml:lang="sl">S finančnega vidika je postavitev naprave in strošek njenega obratovanja strošek, ki ga ne moremo dobiti nazaj v obliki novega kapitala, dejansko pa se nam bo investicija vrnila v obliki čistejšega okolja.</p>
+    <p xml:id="pb72.p2" xml:lang="sl">4.8. Projekt postavitve RTO</p>
+    <p xml:id="pb72.p3" xml:lang="sl">Za postavitev RTO naprave je bila izbrana lokacija ob objektu št. 18 – južni del stavbe vzdrževanja. Lokacija je najbolj primerna, ker se nahaja najbližje objektu obrata PP, istočasno pa je postavljena v sredino med ostale proizvodne obrate. Na ta način bodo dovodni zračni kanali najkrajši in investicija v periferijo RTO najnižja.</p>
+    <p xml:id="pb72.p4" xml:lang="sl">Tlorisno bo RTO obsegal površino 17 x 6 metrov. Ob sami napravi se bo postavil tudi prostor za nadzor sistema v velikosti 3 x 2 metra. V fazi izdelave PZI projekta je potrebno temeljito obdelati še naslednje prostorske in tehnološke vidike:</p>
+    <p xml:id="pb72.p5" xml:lang="sl">• dovod močnostnega vodnika; potrebna moč 90KW,</p>
+    <p xml:id="pb72.p6" xml:lang="sl">• napajanje RTO v primeru izpada električnega toka (diesel agregat),</p>
+    <p xml:id="pb72.p7" xml:lang="sl">• dovod komprimiranega zraka,</p>
+    <p xml:id="pb72.p8" xml:lang="sl">• dovod internega ethernet omrežja,</p>
+    <p xml:id="pb72.p9" xml:lang="sl">• trasa glavnega dovodnega zračnega kanala dimenzije 1000mm,</p>
+    <p xml:id="pb72.p10" xml:lang="sl">• potrebna navezava senzorike iz RTO naprave na obstoječi informacijski sistem,</p>
+    <p xml:id="pb72.p11" xml:lang="sl">• možno koriščenje odpadne toplote RTO naprave za potrebe ogrevanja.</p>
+    <p xml:id="pb72.p12" xml:lang="sl">Gantogram projekta postavitve RTO naprave je izdelan in kot ciljni datum za zagon naprave je oktober 2007.</p>
+    <p xml:id="pb72.p13" xml:lang="sl">4.9. Projekcija emisij za Helios TBLUS Količevo d.o.o. za leto 2008</p>
+    <p xml:id="pb72.p14" xml:lang="sl">V projekciji emisij za leto 2008 se je za izračun upoštevalo:</p>
+    <p xml:id="pb72.p15" xml:lang="sl">• RTO naprava obratuje</p>
+    <p xml:id="pb72.p16" xml:lang="sl">• RTO obratuje 24 ur na dan 365 dni na leto</p>
+    <p xml:id="pb72.p17" xml:lang="sl">• letno število ur ( 24 x 365 ): 8760 ur</p>
+    <p xml:id="pb72.p18" xml:lang="sl">• Delež zraka na RTO bo: PP – 19.000m³, NITRO -1000m³, US – 7.000m³</p>
+    <p xml:id="pb72.p19" xml:lang="sl">Količina zraka, ki bo obdelan v RTO napravi bo: Režim 1: ponedeljek – petek: prva in druga izmena PP + NITRO +US 4160 ur po 27.000m³/h = 112.320.000m³</p>
+  </page>
+  <page xml:id="pb73" n="73" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=73">
+    <p xml:id="pb73.p1" xml:lang="sl">Režim 2: ponedeljek – petek, tretja izmena : PP – 8.000m³ , Nitro – 0m³, US – 7.000m³</p>
+    <p xml:id="pb73.p2" xml:lang="sl">2100 ur po 15.000 m³/h = 31.500.000m³</p>
+    <p xml:id="pb73.p3" xml:lang="sl">Režim 3: sobota – nedelja: PP - 5000m³, NITRO - 0m³, US -7000m³ 2500 ur po 12000m³ = 30.000.000m³ Skupaj letno cca 175.000.000m³ obdelanega zraka Količina zraka obdelanega v RTO napravi bo cca 175.000.000m³ / leto Povprečna obremenjenost zraka z VOC bo cca 0,91g mešanice topil /m³ Povprečna obremenjenost zraka z ogljikom bo 820 mg C/m³ Ciljno razmerje med zajetimi emisijami in nezajetimi emisijami je 80:20 Z ukrepi pri zmanjšanju emisij na izvoru se pričakuje zmanjšanje emisij iz 388 ton topil na leto (emisije 2005) oziroma iz 260 ton v letu 2006 na cca. 200 ton emisij v letu 2008.</p>
+    <p xml:id="pb73.p4" xml:lang="sl">Pri razmerju zajetih in nezajetih emisij v zrak (80:20) bo podjetje obdelalo cca 160 ton emisij v čistilni napravi, razlika 40 ton pa bo še vedno emitirala v ozračje.</p>
+    <p xml:id="pb73.p5" xml:lang="sl">160 ton topil v 175 mio m³ obdelanega zraka pa tudi pomeni, da bo RTO naprava potrebovala plin za obratovanje. Po podatkih, da naprava potrebuje cca 35m³ zemeljskega plina pri vsebnosti 500 mgC/m³ lahko predvidevamo porabo cca 25m³ plina na uro obratovanja RTO naprave (povprečna vsebnost ogljika 820mgC/m³).</p>
+    <p xml:id="pb73.p6" xml:lang="sl">Letno se bo porabilo cca 220.000m³ plina.</p>
+  </page>
+  <page xml:id="pb74" n="74" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=74">
+    <p xml:id="pb74.p1" xml:lang="sl">5. ZAKLJUČKI IN PREDLOGI</p>
+    <p xml:id="pb74.p2" xml:lang="sl">Okoljska politika in izpolnjevanje zahtev Evropske zakonodaje postavlja podjetja v položaj, ko morajo z vso resnostjo pristopiti k reševanju škodljivih emisij v okolje. Zaradi velike sinergije med proizvajalci in kupci premaznih sredstev se z VOC direktivo srečujemo na vseh področjih proizvodnje in uporabe premaznih sredstev.</p>
+    <p xml:id="pb74.p3" xml:lang="sl">Podjetje HELIOS TBLUS Količevo d.o.o., je resno pristopilo k reševanju problematike emisij VOC v ozračje. Projekti se odvijajo v več nivojih, eden najvažnejših pa je zmanjšanje VOC emisij na samem izvoru in ustrezna obdelava zajetih emisij v čistili napravi. Zajete emisije bodo obdelane v čistilni napravi tipa RTO, projekt postavitve čistilne naprave pa že poteka. Projekt je zahteven in vključuje veliko različnih služb, po drugi strani pa je ostalo še malo časa za uskladitev obratovanja s zahtevami zakonodaje. Skupni interes vseh zaposlenih je, da se predlagani ukrepi in investicije realizirajo, s čimer bodo dani pogoji za pridobitev IPPC obratovalnega dovoljenja.</p>
+    <p xml:id="pb74.p4" xml:lang="sl">V samem specialističnem delu so predlagane nekatere rešitve, ki jih bo potrebno realizirati s ciljem zmanjševanja emisije VOC na izvoru. Določena področja emisij imajo več variant reševanja, odločitev o izbiri variante pa bo odvisna tako od finančnega vidika kot celovitosti reševanja problematike na mikro nivojih.</p>
+    <p xml:id="pb74.p5" xml:lang="sl">Pri izdelavi bilance topil se je pokazala tudi »nedorečenost« posredne metode izračuna emisij. Zaradi tega je v podjetju že stekla akcija za nakup lastnega inštrumenta za merjenje emisij VOC, ki bo pripomogel k jasni sliki o dejanskih emisijah po posameznih področjih</p>
+    <p xml:id="pb74.p6" xml:lang="sl">Izračuni kažejo, da se bo z zagonom čistilne naprave in z ukrepi v proizvodnih obratih, ki bodo zmanjšali emisije na izvorih, emisija zmanjšala na 200 ton letno. Z zajetjem 80 % emisij in z njihovo obdelavo v RTO napravi bo v letu 2008 Helios ozračje obremenil s samo 40 tonami VOC. To je kar 90 % manj kot v letu 2005.</p>
+    <p xml:id="pb74.p7" xml:lang="sl">Zrak, ki ga dihamo, nima cene izražene v denarju, ima pa kljub temu neprecenljivo vrednost za nas in za naše potomce. Če bodo vsi onesnaževalci pristopili k reševanju problematike onesnaževanja s tako resnostjo kot je to primer podjetja Helios, potem smo lahko prepričani, da bo naš prelepi planet primeren za življenje tudi za vse naslednje generacije.</p>
+  </page>
+  <page xml:id="pb75" n="75" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=75">
+    <p xml:id="pb75.p1" xml:lang="sl">6. LITERATURA IN VIRI</p>
+    <p xml:id="pb75.p2" xml:lang="sl">1 Batič Franc, Celar Franc, Ciglar Rozalija, Milevoj Lea, Vičar Minka: Bioindikacija prizemnega ozona, Zavod Republike Slovenije za šolstvo, 1999 2 Baša Helena: Postopki za določevanje hlapnih ogljikovodikov v zraku, Magistrsko delo, Ljubljana 1999</p>
+    <p xml:id="pb75.p3" xml:lang="sl">3 Barve – časopis podjetja HELIOS, št 20, 2006</p>
+    <p xml:id="pb75.p4" xml:lang="sl">4 Celovito poročilo o vplivih na okolje za objekt vodnih premazov Helios TBLUS Količevo d.o.o., MARBO Bled, Lesce, september 2006 5 Chemical Engineering, revija, November 2006</p>
+    <p xml:id="pb75.p5" xml:lang="en">6 Guidance manual: The European VOC solvent emission directive, Hamburg, August 2002</p>
+    <p xml:id="pb75.p6" xml:lang="sl">7 Helios, Gradivo za okoljsko konferenco 2005</p>
+    <p xml:id="pb75.p7" xml:lang="sl">8 Helios, dokumenti projekta »čistilna naprava za VOC emisije«, avtorji: Modrijan Janez, Kralj Janez, Brvar Zoran, Podobnik Matija, Cvetkovič Zoran 9 Internet: www.gov.si/mop/dokumenti/uredba-laki1901.doc - 298 KB 19.01.2006</p>
+    <p xml:id="pb75.p8" xml:lang="sl">10 Internet: www.arso.gov.si/podro~cja/zrak/obrazci/Nact-zmanjsevanjaNAVODILA.doc 22.01.2006</p>
+    <p xml:id="pb75.p9" xml:lang="en">11 Internet: http://www.rcp.ijs.si/ceu/sl/node/103 12 Internet: http://eionet-si.arso.gov.si/kazalci/index_html 13 Internet:http://okolje.arso.gov.si/ippc/vlib/175_20060608_090143_Predstavit ev-seminar16.02.2006-objava.ppt</p>
+    <p xml:id="pb75.p10" xml:lang="sl">14 Interni časopis podjetja HELIOS: Barve govorijo, več številk, Domžale 2004, 2005, 2006</p>
+    <p xml:id="pb75.p11" xml:lang="sl">15 Kakovost zraka v Sloveniji v letu 2004, Agencija RS za okolje, Ljubljana, december 2005</p>
+    <p xml:id="pb75.p12" xml:lang="sl">16 Publikacija VOC - Helios 2002</p>
+    <p xml:id="pb75.p13" xml:lang="sl">17 Poročilo – Kazalci okolja 2003, MOPE – Agencija RS za okolje, Ljubljana 2004</p>
+    <p xml:id="pb75.p14" xml:lang="sl">18 Poročila o meritvah emisij v zrak, ZZV Novo mesto, september 2005 19 Power Point prezentacija, Tebert C, Ljubljana 2005 20 Priročnik za pomoč pri izvajanju direktive HOS, Okopol GmbH, Hamburg 2004</p>
+    <p xml:id="pb75.p15" xml:lang="en">21 Proces Guidance Note 6/44(04), Secretary of State's Guidance for the Manufacture of Coating Materials, Defra Environment Agency, March 2004 22 Reference Document on Best Avaliable Techniques on Emission from Storage, January 2005, http:/pippcb.jrc/pages/Bactivities.htm 23 Standard SIST EN 971-1 24 Summary of Directive</p>
+    <p xml:id="pb75.p16" xml:lang="sl">96/61/EC,http://ec.europa.eu/environment/ippc/general_guidance.htm 25 Slovar slovenskega knjižnega jezika, DZS, november 1996 26 Uredba o vrsti dejavnosti in naprav, ki lahko povzročijo onesnaženje okolja večjega obsega (Ur.l. RS, št. 97/04)</p>
+  </page>
+  <page xml:id="pb76" n="76" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=76">
+    <p xml:id="pb76.p1" xml:lang="sl">27 Uredba o emisiji snovi v zrak iz nepremičnih virov onesnaženja ( Ur.l. RS, št.</p>
+    <p xml:id="pb76.p2" xml:lang="sl">28 Uredba o emisiji snovi v zrak iz nepremičnih virov onesnaženja ( Ur.l. RS, št.</p>
+    <p xml:id="pb76.p3" xml:lang="sl">39/06 uradno prečiščeno besedilo, 49/06 – ZMetD in 66/06 – odl. US ) 29 Uredba o mejnih vrednosti emisij hlapnih organskih spojin iz naprav, ki uporabljajo organska topila (Ur.l. RS, št. 112/05) 30 Vuk Drago: Uvod v ekološki management, Moderna organizacija, Kranj, oktober 2000</p>
+    <p xml:id="pb76.p4" xml:lang="sl">31 Vuk Drago: Sodobna produkcija in okolje, Kranj, 1999 32 Zakon o varstvu okolja ( Ur.l. RS, št. 39/06)</p>
+    <p xml:id="pb76.p5" xml:lang="sl">33 Žerjav Janko: Informativna podlaga za izvajanje direktive IPPC in razvojno institucionalne rešitve, ministrstvo za okolje in prostor, Ljubljana 2005</p>
+  </page>
+  <page xml:id="pb77" n="77" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=77">
+    <p xml:id="pb77.p1" xml:lang="sl">7. KRATEK SLOVAR STROKOVNIH IZRAZOV aldehidi (RCHO) kisikove organske spojine s funkcionalno skupino –CHO, prvi oksidacijski produkti primarnih alkoholov absorbcija, vpijanje, vsrkavanje plinov adsorbcija, zgoščevanje plinastih snovi na površini trdnih snovi antropogeni ogljikovodiki ogljikovodiki, ki pridejo v okolje zaradi človekovega delovanja aromati aromatske spojine, benzen in njegovi derivati, kot tudi vse heterociklične spojine benzen osnovni aromatski ogljikovodik, strupen, kancerogen, uporablja se kot dodatek pogonskemu gorivu, kot topilo, je surovina za proizvodnjo stirena, anilina, barvil, zdravil...</p>
+    <p xml:id="pb77.p2" xml:lang="sl">BTX ali BETX Benzen, Toluen, Xilen, ali pri BETX še Etilbenzen CFC halogenirani derivati metana in etana (ogljikovodikov), ki imajo vse vodikove atome nadomeščene z atomi klora in fluora emisija sproščanje škodljivih snovi v okolje fotokemični smog smog (onesnažen zrak), ki nastane iz primarnih onesnažil v zraku pod vplivom svetlobe fotoliza kemijska reakcija, ki poteka pod vplivom svetlobe, katero snov absorbira ; pri tem lahko molekule snovi zaradi svetlobne energije razpadejo na radikale, ione ali proste atome fotooksidanti vrsta spojin (prostih radikalov, ozona...) ki nastanejo iz primarnih onesnažil pod vplivom svetlobe; so izredno reaktivni, agresivni in nevarni za zdravje freoni alifatski klor in fluor vsebujoči ogljikovodiki, ki se uporabljajo v hladilni tehniki in kot potisni plini v sprejih; freon F11 – tri-klorofluorometan (CCl3F), freon F12 – diklordifluorometan (CCl2F2) haloni halogenirani derivati ogljikovodikov, ki imajo v molekuli enega ali več bromovih atomov; so dobra sredstva za gašenje požarov; njihova uporaba je prepovedana zaradi izredno agresivne razgradnje ozona v ozonskem ščitu stratosfere HOS hlapne organske spojine (ang. VOC)</p>
+  </page>
+  <page xml:id="pb78" n="78" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=78">
+    <p xml:id="pb78.p1" xml:lang="sl">IPPC direktiva (angl. Integrated Pollution Prevention and Control) direktiva o celovitem preprečevanju in nadzorovanju industrijskega onesnaževanja ksilen dimetilbenzen (C6H4(CH3)2), aromatski ogljikovodik, prisoten tudi v gorivih oziroma v pogonskih sredstvih avtomobilov, izhaja z izpušnimi plini iz avtomobilskih motorjev, uhaja tudi pri polnjenju goriva v avtomobile nemetanski ogljikovodiki (angl. Non Methane Volatile Organic Compounds) NMVOC, lahko hlapne organske spojine brez metana oksidirajoče sestavine kisik, atomarni kisik, ozon, vodikov peroksid, prosti radikali ozonska luknja v zaščitni plasti stratosfere močno zmanjšana koncentracija ozona zaradi onesnažil, ki razgrajujejo ozon ppb pars per bilion by volume, delec na tisoč delcev na volumen predhodniki ozona prekurzorji – primarna onesnažila, snovi iz katerih nastaja ozon pod vplivom sončnega sevanja prekurzor predhodnik, katerakoli snov, iz katere nastane ali je soudeležena pri nastanku določene snovi; npr. prekurzorji ozona so dušikovi oksidi, žveplov dioksid, hlapni ogljikovodiki, ogljikov monoksid in drugi. primarni polutanti so tiste snovi – onesnažila, ki npr. onesnažujejo zrak radikal (prosti radikali) atomi, atomske skupine ali molekule s prostimi elektroni; nespremenjeni lahko prehajajo skozi niz kemijskih reakcij regenerativen sežig; sežig pri katerem vroči dimni plini ogrevajo vstopni zrak ki gre na sežig</p>
+    <p xml:id="pb78.p2" xml:lang="sl">RTO;(angl. Regenerative Thermal Oxidiser), regenerativna termična oksidacija sekundarni polutanti onesnažila, ki v zraku nastanejo pod vplivom sončnega sevanja in primarnih onesnažil</p>
+  </page>
+  <page xml:id="pb79" n="79" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=79">
+    <p xml:id="pb79.p1" xml:lang="sl">SEVESO direktiva, direktiva o nadzoru nad nevarnostmi velikih nesreč z nevarnimi snovmi stratosfera del atmosfere na višini od 10 do 50 kilometrov nad zemljo; v višini 20 do 30 kilometrov se v njej nahaja zaščitna ozonska plast, ki absorbira kratkovalovno ultravijolčno sevanje terpeni skupina nennasičenih acikličnih ogljikovodikov; naravne lahko hlapne spojine, ki se sproščajo iz eteričnih olj nekaterih rastlin, predvsem iglavcev in grmičevja toluen metilbenzen (C6H5CH3), aromatski ogljikovodik, prisoten tudi v pogonskih gorivih za avtomobile troposfera prizemna plast atmosfere, v kateri potekajo vremenski pojavi, v višino sega do 10 kilometrov</p>
+    <p xml:id="pb79.p2" xml:lang="sl">VOC; (angl.Volatile Organic Compounds) lahko hlapne organske spojine , slovenska kratica: HOS združenje CE-PE združenje evropskih proizvajalcev premaznih sredstev</p>
+  </page>
+  <page xml:id="pb80" n="80" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=80">
+    <p xml:id="pb80.p1" xml:lang="sl">8. PRILOGE</p>
+    <p xml:id="pb80.p2" xml:lang="sl">8.1. Uradni list Republike Slovenije št 46; priloga 5; Bilanca topil</p>
+  </page>
+  <page xml:id="pb81" n="81" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=81">
+    <p xml:id="pb81.p1" xml:lang="sl">---------------------------------------------------------------------------------------------------------------------Roman Pirnat Model ravnanja s hlapnimi organskimi spojinami</p>
+    <p xml:id="pb81.p2" xml:lang="sl">- 81 ---------------------------------------------------------------------------------------------------------------------Roman Pirnat Model ravnanja s hlapnimi organskimi spojinami</p>
+  </page>
+  <page xml:id="pb82" n="82" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=82">
+    <p xml:id="pb82.p1" xml:lang="sl">- 82 8.2. Izdelava bilance topil (vir, priročnik za pomoč pri izvajanju direktive HOS, str. 30)</p>
+  </page>
+  <page xml:id="pb83" n="83" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=83"/>
+  <page xml:id="pb84" n="84" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=84">
+    <p xml:id="pb84.p1" xml:lang="sl">---------------------------------------------------------------------------------------------------------------------8.3. Lastnosti topil, ki se uporabljajo v Heliosu</p>
+  </page>
+  <page xml:id="pb85" n="85" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=85">
+    <p xml:id="pb85.p1" xml:lang="sl">---------------------------------------------------------------------------------------------------------------------Roman Pirnat Model ravnanja s hlapnimi organskimi spojinami</p>
+    <p xml:id="pb85.p2" xml:lang="sl">KAZALO TABEL</p>
+    <p xml:id="pb85.p3" xml:lang="sl">Tabela 1: Zmanjšanje povprečne količine ozona v stratosferi od leta 1969 do leta 1989 ....... - 16 Tabela 2: Izvor fotooksidantov v Sloveniji – ocena emisij antropogenih virov predhodnikov fotooksidantov in ozonski potencial. ...................................................................... - 18 Tabela 3: Zahteve SED za posamezna področja ( Publikacija VOC - Helios 2002 ) ............. - 19 Tabela 4: Evidence emisij za izbrana leta ter projekcija emisij VOC do leta 2020 v (vir: ARSO, IJS, Kemijski inštitut Slovenije) ............................................................................. - 21 Tabela 5: Mejne vrednosti VOC-jev za posamezne razrede za leto 2007 in 2010 (povzeto iz tabele A direktive DECO)....................................................................................... - 30 Tabela 6: Zahteve direktive SED za avtoreparaturno lakiranje............................................... - 31 Tabela 7: Priporočilo CEPE ( združenje proizvajalcev barv, lakov, tiskarskih in umetniških barv Evrope) za zniževanje VOC v avtoreparaturnih premazih: .................................... - 31 Tabela 8: Okoljski parametri za HELIOS TBLUS Količevo d.o.o. za leto 2004 (vir,glasilo TEDNIK, št.3, 2005)............................................................................................... - 40 Tabela 9: Monitoring zraka ( vir: gradivo Helios za ekološko konferenco, 2005).................. - 40 Tabela 10: Organska topila, ki so bila porabljena v letu 2005 pri proizvodnji premazov v obratu PP – nalogi serije 200000 ( podatek iz BaaNa): ..................................................... - 42 Tabela 11: Primer izračuna za enega od izmerjenih ventilatorjev........................................... - 43 Tabela 12: Zajete emisije VOC podatki meritev za leto 2005 za obrat PP.............................. - 44 Tabela 13: Mejne in opozorilne koncentracije za različne snovi............................................. - 46 Tabela 14: Raven koncentracij različnih onesnaževal za območje Domžal ........................... - 47 Tabela 15: Izpusti snovi v zrak iz proizvodnih objektov Heliosa na Količevem – meritve opravljene leta 2005................................................................................................ - 48 Tabela 16: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu Pigmentirani premazi</p>
+    <p xml:id="pb85.p4" xml:lang="sl">............................................................................................................................. - 49 Tabela 17: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu Umetne smole ....... - 49 Tabela 18: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu NITRO premazi .... - 49 Tabela 19: Bilanca topil za leto 2005 v tonah za naprave 16.1 v objektu Destilacija ............. - 50 Tabela 20: Bilanca topil za leto 2005 v tonah za vse naprave 16.1 na lokaciji Helios TBLUS Količevo d.o.o. .................................................................................................... - 50 Tabela 21: Izmerjeni pretoki ventilacije obrat PP in ostali tehnološki podatki – obstoječe stanje:</p>
+    <p xml:id="pb85.p5" xml:lang="sl">............................................................................................................................. - 51 Tabela 22: Lokacije virov emisij VOC v obratu PP................................................................ - 54 Tabela 23: Popis stanja odprtosti pokrovov rezervoarjev v obratu PP .................................... - 60 Tabela 24: Predlagane kapacitete ventilatorjev za obrat PP.................................................... - 63 Tabela 25: Delež ogljika v topilih ........................................................................................... - 65 Tabela 26: Primerjava različnih tehnologij za zmanjševanje VOC-ja v onesnaženem zraku.. - 67 Tabela 27: Uporabljene čistilne naprave za VOC v zraku v različnih podjetjih ..................... - 70 ---------------------------------------------------------------------------------------------------------------------Roman Pirnat Model ravnanja s hlapnimi organskimi spojinami</p>
+  </page>
+  <page xml:id="pb86" n="86" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1112000.pdf#page=86">
+    <p xml:id="pb86.p1" xml:lang="sl">Tabela 28: Obratovalni podatki za RTO napravo kapacitete 27000Nm³/h ............................. - 70 KAZALO SLIK</p>
+    <p xml:id="pb86.p2" xml:lang="sl">Slika 1: Shematičen prikaz maksimalne dovoljene emisije VOC v zrak………………………………..- 10 Slika 2: Shematičen prikaz tvorjenja ozona v troposferi (vir: Časopis Barve, št. 20/2006)......................- 17 Slika 3: Bilanca topil ( vir: Romana Stare,Power Point, Bilanca topil, 2006............................................- 28 Slika 4: Organiziranost poslovnega sistema Helios ( vir: poslovno poročilo Helios 2005) ......................- 37 Slika 5: Organiziranost podjetja Helios TBLUS Količevo d.o.o .............................................................- 38 Slika 6: Prikaz bilance topil ( vir: Power Point prezentacija Tebert C, Ljubljana 2005) ..........................- 44 Slika 7: Merilna mesta za onesnaženost zraka v Sloveniji ( vir: MOP ARSO..........................................- 45 Slika 8: Točenje topil v odprto embalažo ali prevozno posodo ................................................................- 56 Slika 9: Točenje veziv v prevozno posodo ..............................................................................................- 56 Slika 10: Disolviranje paste pod disolverjem ...........................................................................................- 57 Slika 11: Mletje past – pasažni način .......................................................................................................- 57 Slika 12: Dodajanje surovin v izdelovalni rezervoar ................................................................................- 58 Slika 13: Dokončevanje pod mešalom v prevoznih posodah....................................................................- 58 Slika 14: Točenje hobokov 20L embalaža...............................................................................................- 59 Slika 15: Pranje prevoznih posod .............................................................................................................- 59 Slika 16: Avtomatska polnilna naprava FEIGE........................................................................................- 62 Slika 17: Princip delovanja RTO naprave ( vir: dokumentacija Helios)...................................................- 69 KAZALO GRAFOV</p>
+    <p xml:id="pb86.p3" xml:lang="sl">Grafikon 1: Grafikon 1: Delež po izvorih VOC v Sloveniji leta 2002 (vir: Kazalci okolja 2003)……....- 15Grafikon 2: Emisije VOC v letih 1990, 1995 in 2000 do 2004 ( vir: ARSO)...........................................- 20 Grafikon 3: Proizvodnja ekološko sprejemljivejših izdelkov v Nemčiji (vir: www.lackindustre.de).......- 29 Grafikon 4: Gibanje količine proizvedenih smol v obratu US..................................................................- 39 Grafikon 5: Pričakovana povprečna sestava VOC emisij v zajetih emisijah ...........................................- 64 -</p>
+  </page>
+</document>

@@ -1,0 +1,7 @@
+/korpus
+.build/
+build/
+bins
+gens
+libs
+objs

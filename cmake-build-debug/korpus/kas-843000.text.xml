@@ -1,0 +1,890 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-843000" doc_id="843000" text_id="998125" cobiss_id="512480061" title="Problematika mestnega prometa in zakaj se trgovski centri selijo na obrobja mest - primer mesto Ptuj" author="Ivančić, Ines" supervisor="Rosi, Bojan" year="2012" publisher_abbr="UM FL" publisher="Fakulteta za logistiko" place="Celje" url="http://dkum.uni-mb.si/Dokument.php?id=52340" type="Diplomsko delo" udc="656.1:625.712.63(043.2)" udc_desc="Cestni transport. Cestni promet. Avtoceste na splošno. Ceste. Cestišča. Ulice. Podeželski in mestni cestni sistem" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V MARIBORU FAKULTETA ZA LOGISTIKO</p>
+    <p xml:id="pb1.p2" xml:lang="sl">Ines Ivančić</p>
+    <p xml:id="pb1.p3" xml:lang="sl">PROBLEMATIKA MESTNEGA PROMETA IN ZAKAJ SE TRGOVSKI CENTRI SELIJO NA OBROBJA MEST</p>
+    <p xml:id="pb1.p4" xml:lang="sl">– PRIMER MESTO PTUJ diplomsko delo visokošolskega strokovnega študijskega programa Celje, september 2012</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">UNIVERZA V MARIBORU FAKULTETA ZA LOGISTIKO</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Ines Ivančić</p>
+    <p xml:id="pb2.p3" xml:lang="sl">PROBLEMATIKA MESTNEGA PROMETA IN ZAKAJ SE TRGOVSKI CENTRI SELIJO NA OBROBJA MEST</p>
+    <p xml:id="pb2.p4" xml:lang="sl">– PRIMER MESTO PTUJ diplomsko delo visokošolskega strokovnega študijskega programa Mentor:</p>
+    <p xml:id="pb2.p5" xml:lang="en">Izr. prof. dr. Bojan Rosi Somentor:</p>
+    <p xml:id="pb2.p6" xml:lang="sl">Mag. Marjan Sternad Celje, september 2012</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">IZJAVA O AVTORSTVU diplomskega dela</p>
+    <p xml:id="pb3.p2" xml:lang="sl">Spodaj podpisana/a Ines Ivančić, študent/ka visokošolskega strokovnega programa Gospodarska in tehniška logistika, z vpisno številko 20007054, sem avtor/ica diplomskega dela z naslovom: Problematika mestnega prometa in zakaj se trgovski centri selijo na obrobja mest – primer mesto Ptuj.</p>
+    <p xml:id="pb3.p3" xml:lang="sl">S svojim podpisom zagotavljam, da:</p>
+    <p xml:id="pb3.p4" xml:lang="sl">• je predloženo delo rezultat izključno mojega lastnega raziskovalnega dela;</p>
+    <p xml:id="pb3.p5" xml:lang="sl">• sem poskrbel/a, da so dela in mnenja drugih avtorjev oz. avtoric, ki jih uporabljam v diplomskem delu, navedena oz. citirana v skladu s navodili Fakultete za logistiko Univerze v Mariboru;</p>
+    <p xml:id="pb3.p6" xml:lang="sl">• sem poskrbel/a, da so vsa dela in mnenja drugih avtorjev oz. avtoric navedena v seznamu virov, ki je sestavni del diplomskega dela in je zapisan v skladu s navodili Fakultete za logistiko Univerze v Mariboru;</p>
+    <p xml:id="pb3.p7" xml:lang="sl">• sem pridobil/a vsa dovoljenja za uporabo avtorskih del, ki so v celoti prenesena v diplomsko delo in sem to tudi jasno zapisal/a v diplomskem delu;</p>
+    <p xml:id="pb3.p8" xml:lang="sl">• se zavedam, da je plagiatorstvo – predstavljanje tujih del, bodisi v obliki citata bodisi v obliki skoraj dobesednega parafraziranja bodisi v grafični obliki, s katerim so tuje misli oz. ideje predstavljene kot moje lastne – kaznivo po zakonu (Zakon o avtorskih in sorodnih pravicah, Uradni list RS št. 21/95), prekršek pa podleže tudi ukrepom Fakultete za logistiko Univerze v Mariboru v skladu z njenimi pravili;</p>
+    <p xml:id="pb3.p9" xml:lang="sl">• se zavedam posledic, ki jih dokazano plagiatorstvo lahko predstavlja za predloženo delo in za moj status na Fakulteti za logistiko Univerze v Mariboru;</p>
+    <p xml:id="pb3.p10" xml:lang="sl">• je diplomsko delo jezikovno korektno in da je delo lektoriral/a Skupina Apis d.o.o..</p>
+    <p xml:id="pb3.p11" xml:lang="sl">V Celju, dne 19.10.2012 Podpis avtorja/-ice: Ines Ivančić</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">ZAHVALA</p>
+    <p xml:id="pb4.p2" xml:lang="sl">Iskreno se zahvaljujem za mentorstvo ter pomoč pri izdelavi diplomske naloge mentorju, izr. prof. dr. Bojanu Rosiju, ter somentorju, mag. Marjanu Sternadu.</p>
+    <p xml:id="pb4.p3" xml:lang="sl">Zahvala gre tudi mojim najbližjim za pomoč ter podporo pri študiju.</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">Problematika mestnega prometa in zakaj se trgovski centri selijo na obrobja mest</p>
+    <p xml:id="pb5.p2" xml:lang="sl">– primer mesto Ptuj</p>
+    <p xml:id="pb5.p3" xml:lang="sl">Prometni sistem je podsistem logistike, ki je v veliki meri odgovoren za dobro logistiko v mestih, državi ter na mednarodnih poteh. Zato je treba znati dovolj celostno urejati promet že v mestnih okoljih, saj predvsem tam nastajajo največje gneče in zastoji, ki dosežejo svoj vrhunec ob konicah delovnih dni.</p>
+    <p xml:id="pb5.p4" xml:lang="sl">V diplomski nalogi je predstavljen primer mesta Ptuj, ki se kot velika večina slovenskih mest srečuje s slabo ureditvijo mestnega prometa. Največji problem predstavlja nasičenost mestnega jedra s številnimi avtomobili ter drugimi motoriziranimi vozili.</p>
+    <p xml:id="pb5.p5" xml:lang="sl">V zadnjih nekaj letih je postal tudi trend rasti velikih trgovskih centrov s pripadajočimi brezplačnimi parkirišči, ki deloma rešujejo gnečo in problematiko parkiranja v mestnih jedrih. Vendar to ni dovolj trajna rešitev za mestna jedra, ki zaradi spremenjenih navad občanov počasi, a zagotovo, umirajo.</p>
+    <p xml:id="pb5.p6" xml:lang="sl">Da bi mestni utrip v središču še vedno živel, vendar hkrati ne bi bil ogrožen zaradi velika števila vozil, so potrebne korenite, tj. dovolj celostne spremembe prometnega režima.</p>
+    <p xml:id="pb5.p7" xml:lang="en">Ključne besede: promet, parkiranje, mestna problematika, trgovski centri Urban traffic problems and why shopping centers are moving to the periphery – example of the town Ptuj</p>
+    <p xml:id="pb5.p8" xml:lang="en">Traffic system is subsystem of logistics which is mostly responsible for good logistics in towns, countries and international journeys. Thus it is necessary to know how to govern traffic in urban environment as there are most traffic jams and crowd which reach their rush hour at the end of working days.</p>
+    <p xml:id="pb5.p9" xml:lang="en">The final paper represents the case of town Ptuj where, as in most of bigger Slovenian towns, arrangement of town traffic is not well regulated. Satiety of town centre with numerous cars and other motorized vehicles represent the biggest problem.</p>
+    <p xml:id="pb5.p10" xml:lang="en">In the last few years trend of building trading centres with free parking places partly solves crowd and problem of parking in town centers. However this is not enough permanent solution for town centers which, because of changed citizens’ habits, slowly but persistently die.</p>
+    <p xml:id="pb5.p11" xml:lang="en">Essential changes are necessary for town center to stay lively, however it should not be threatened because of numerous vehicles, i.e. overall changes of traffic regime.</p>
+    <p xml:id="pb5.p12" xml:lang="en">Key words: traffic, parking, town problem, department stores</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">Ines Ivančić: Problematika mestnega prometa in zakaj se trgovski centri selijo na obrobja mest –</p>
+    <p xml:id="pb6.p2" xml:lang="sl">KAZALO</p>
+    <p xml:id="pb6.p3" xml:lang="sl">UVOD ............................................................................................................................... 1 PREDSTAVITEV PROBLEMA ............................................................................................. 2 CILJI IN TEZE DIPLOMSKEGA DELA .................................................................................. 4 PREDPOSTAVKE IN OMEJITVE .......................................................................................... 4 METODE DELA ................................................................................................................ 5 1 TEORETIČNA IZHODIŠČA ..................................................................................... 6 1.1 PROMETNA POLITIKA ................................................................................................ 6</p>
+    <p xml:id="pb6.p4" xml:lang="sl">1.1.1 Prometna politika Republike Slovenije ............................................................. 7 1.1.2 Mobilizacija..................................................................................................... 13 1.1.3 Trajnostni razvoj Slovenije ............................................................................. 14 1.1.4 Razvoj okoljske in prometne infrastrukture .................................................... 15</p>
+    <p xml:id="pb6.p5" xml:lang="sl">1.2 MESTNI PROMET ..................................................................................................... 17</p>
+    <p xml:id="pb6.p6" xml:lang="sl">1.2.1 Problematika mestnega prometa..................................................................... 17 1.2.2 Rešitve ............................................................................................................. 22</p>
+    <p xml:id="pb6.p7" xml:lang="sl">2 ANALIZA STANJA MESTNEGA PROMETA NA PTUJU ................................ 32</p>
+    <p xml:id="pb6.p8" xml:lang="sl">2.1 PROMETNI SISTEM MESTA PTUJ ............................................................................... 32 2.2 CESTNO OMREŽJE ................................................................................................... 33 2.3 OBREMENJENOST .................................................................................................... 37 2.4 PROBLEMATIKA ...................................................................................................... 40 2.5 PROMETNA VARNOST .............................................................................................. 41 2.6 RAZVOJ MESTA PTUJ ............................................................................................... 43 3 PREDLOG REŠITVE ............................................................................................... 47 3.1 REŠITVE ZA MIRUJOČI PROMET V SREDIŠČU MESTA ................................................. 47</p>
+    <p xml:id="pb6.p9" xml:lang="sl">3.1.1 Parkirni sistemi za avtomobile ........................................................................ 48 3.1.2 Vrste parkirnih sistemov ................................................................................. 49 3.1.3 Parkirni sistemi za kolesa ............................................................................... 57 3.1.4 Vrste parkirnih sistemov za kolesa .................................................................. 57</p>
+    <p xml:id="pb6.p10" xml:lang="sl">3.2 REŠITVE ZA TEKOČI PROMET ................................................................................... 59 3.3 REŠITVE ZA PONOVNO OŽIVITEV MESTA ................................................................. 66</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">Ines Ivančić: Problematika mestnega prometa in zakaj se trgovski centri selijo na obrobja mest –</p>
+    <p xml:id="pb7.p2" xml:lang="sl">ZAKLJUČEK ................................................................................................................ 68 OCENA UČINKOV .......................................................................................................... 68 POGOJI ZA UVEDBO ....................................................................................................... 69 MOŽNOSTI NADALJNJEGA RAZVOJA .............................................................................. 71 LITERATURA IN VIRI .............................................................................................. 73</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">Ines Ivančić: Problematika mestnega prometa in zakaj se trgovski centri selijo na obrobja mest –</p>
+    <p xml:id="pb8.p2" xml:lang="sl">KAZALO SLIK</p>
+    <p xml:id="pb8.p3" xml:lang="sl">SLIKA 1: SODOBNO MESTNO KOLO ................................................................................... 26 SLIKA 2: TWIZY Z.E. (RENAULT) – 100-ODSTOTNO ELEKTRIČNO IN KOMUNIKATIVNO</p>
+    <p xml:id="pb8.p4" xml:lang="sl">VOZILO ZA SODOBNE MEŠČANE ................................................................................. 28 SLIKA 3: TOVORNO VOZILO MERCEDES ECONIC .............................................................. 28 SLIKA 4: AVTOBUS MERCEDES CITARO G ........................................................................ 29 SLIKA 5: TRAMVAJ ........................................................................................................... 30 SLIKA 6: POTNIŠKI VLAK .................................................................................................. 31 SLIKA 7: KARTA PROMETNIH OBREMENITEV 2008 ........................................................... 34 SLIKA 8: SKICA AVTOCESTNEGA ODSEKA SLIVNICA - DRAŽENCI ..................................... 35 SLIKA 9: INDUSTRIJSKA CONA NA PTUJU .......................................................................... 45 SLIKA 10: ENOSTAVNA PARKIRNA PLOŠČAD .................................................................... 49 SLIKA 11: PUZZLE PARKIRNI SISTEM ................................................................................ 51 SLIKA 12: MINI PARKIRNI SISTEM .................................................................................... 52 SLIKA 13: PARKIRNI STOLP .............................................................................................. 53 SLIKA 14: PARKIRNA KROŽNA PLOŠČAD .......................................................................... 54 SLIKA 15: VEČNIVOJSKI PARKIRNI SISTEM ....................................................................... 55 SLIKA 16: AVTO DVIGALO ............................................................................................... 56 SLIKA 17: DVIŽNA PLOŠČAD ............................................................................................ 56 SLIKA 18: ENOJNO STOJALO ZA KOLO .............................................................................. 57 SLIKA 19: VRSTNO STOJALO ZA KOLESA .......................................................................... 58 SLIKA 20: STOJALO ZA KOLESA ZA STENSKO ALI STROPNO PRITRDITEV ........................... 58 SLIKA 21: NASLON ZA KOLO ............................................................................................ 58 KAZALO TABEL</p>
+    <p xml:id="pb8.p5" xml:lang="sl">TABELA 1: SREDSTVA ZA OPERATIVNI PROGRAM RAZVOJA OKOLJSKE IN PROMETNE</p>
+    <p xml:id="pb8.p6" xml:lang="sl">INFRASTRUKTURE ...................................................................................................... 17 TABELA 2: ŠTEVILO CESTNIH VOZIL NA PTUJU ZA LETO 2010 ......................................... 18 TABELA 3: ŠTEVILO PROMETNIH NESREČ IN POSLEDICE V LETU 2010 .............................. 43</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">Ines Ivančić: Problematika mestnega prometa in zakaj se trgovski centri selijo na obrobja mest –</p>
+    <p xml:id="pb9.p2" xml:lang="sl">KRATICE IN AKRONIMI</p>
+    <p xml:id="pb9.p3" xml:lang="sl">BDP – bruto domači proizvod</p>
+    <p xml:id="pb9.p4" xml:lang="sl">EEA – Evropska agencija za okolje (European Environment Agency) EK – Evropska komisija</p>
+    <p xml:id="pb9.p5" xml:lang="sl">EPP – enostavne parkirne ploščadi EU – Evropska unija MO – Mestna občina</p>
+    <p xml:id="pb9.p6" xml:lang="sl">JPP – javni potniški promet</p>
+    <p xml:id="pb9.p7" xml:lang="sl">OP ROPI – operativni program razvoja okoljske in prometne infrastrukture TEN – Trans European Networks – transevropske mreže TGV – train a grande velocite – hitri vlaki</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">UVOD</p>
+    <p xml:id="pb10.p2" xml:lang="sl">V zadnjih desetletjih se je izraz logistika pojavil tudi v gospodarskem sistemu, in to kot specifičen pristop logističnih podjetij do spremljanja toka in stroškov poslovanja proizvodnih, trgovinskih in drugih organizacij, saj so logistični kriteriji dodatno zelo primerni za uporabo v analitičnih metodah za oceno gospodarskih investicij in s tem nacionalne gospodarske učinkovitosti. Sem sodijo naloge s področja urejanja racionalizacije blagovnih tokov, prometa, posodabljanja metod proizvodnje in trgovanja ter špediterske naloge kot podlaga za fizično distribucijo […] (Lipsey, Steiner &amp; Purvis, 1999 v Jakomin et al., 2002, str. 54).</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Jakomin et al. (2002, str. 57) menijo, da je logistika skupek med seboj povezanih aktivnosti, ki služijo za premikanje surovin, polproizvodov, drugega materiala in gotovih proizvodov od dobaviteljev do podjetja, za premikanje znotraj podjetja in od podjetja do odjemalcev oziroma kupcev ter vse z njimi povezane aktivnosti.</p>
+    <p xml:id="pb10.p4" xml:lang="sl">Promet, velik in raznolik sistem gibanja ljudi in blaga se odvija po potrebah in volji ljudi in gospodarstva. Razumljivo je, da ga upravljamo po določenih načelih in pravilih, ker brez teh vodil ne bi bilo niti sistema niti funkcionalnega sklopa dejavnosti (Cigale, 2002, str. 20).</p>
+    <p xml:id="pb10.p5" xml:lang="sl">Cigale pravi tako: »Promet zadeva v sam vrh okoljskih in razvojnih problemov. Ker bo še naprej bistveno vplival na življenje ter na pestrost narave in kakovost našega okolja, je Slovenija kot država dolžna izostriti prostorske in razvojne strategije kot podlago za prometno politiko. […] Dejstvo je, da promet še vedno narašča ne glede na mednarodne obveznosti, ki smo jih sprejeli (Kjotski protokol, Agenda Habitat), in tudi ne oziraje se na pozive slovenskih in evropskih nevladnih okoljskih društev, znanosti in strokovne javnosti.«</p>
+    <p xml:id="pb10.p6" xml:lang="sl">Dovolj celovito poznavanje fenomena transporta (prevoza, prometa, logistike ipd.) je postalo vir (in hkrati posledica, izid) vednosti in znanja, s katerima moramo razpolagati danes, ko smo postali udeleženci (= vplivni dejavniki) tako evropskega kot tudi globalnega trga.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">Transport je velik, zapleten in izredno dinamičen sistem, v katerem najdemo veliko tako sestavin/elementov (npr. transportnih podsistemov, udeležencev in raznih drugih resursov) kot tudi relacij/odnosov med njimi. Zaradi tega je izredno pomembno, da znamo razločevati posamezne sestavine tega velikega transportnega sistema in relacije, ki nastopajo v njem.</p>
+    <p xml:id="pb11.p2" xml:lang="sl">Ugotavljamo, da v razvitem svetu ni človeka, ki ne bi bil kakor koli povezan oz. udeležen v transportni dejavnosti. To je lahko npr. načrtovalec, izvajalec, vzdrževalec, uporabnik, nadzorovalec, financer ipd. (Sternad &amp; Rosi, 2010).</p>
+    <p xml:id="pb11.p3" xml:lang="sl">Predstavitev problema</p>
+    <p xml:id="pb11.p4" xml:lang="sl">Slovenija je podobno kot večina razvitih držav pred pomembno razvojno dilemo. Po eni strani želimo zagotoviti visoko raven dostopnosti in mobilnosti, po drugi strani pa se izogniti njunim negativnim učinkom. Dostop do zanesljivega prometnega sistema je v današnjem življenjskem slogu prebivalcev ključnega pomena, saj je mobilnost za večino temeljni pogoj za kakovostno življenje. Kljub temu pa se ljudje hkrati zavedamo negativnih vplivov prometnega sistema na kakovost bivanja in smo zaradi tega zaskrbljeni. Promet nam je torej po eni strani v pomoč, po drugi pa škoduje. Reševanje dileme ravnotežja med pozitivnimi in negativnimi učinki prometa nedvomno zahteva mnogo več kot zgolj spoznanje, da ta obstaja (Plevnik, 2008, str. 6).</p>
+    <p xml:id="pb11.p5" xml:lang="sl">Kot pravi Plevnik (2008, str. 6), je EEA v poročilu TERM 2002 opozarjala na velik prometno – okoljski izziv, s katerim so se spoprijemale tedanje pridružene članice EU in kandidatke. Njihov izhodiščni položaj je bil sicer v primerjavi z EU boljši, njihove prednosti so bile predvsem nadpovprečna uporaba železnic, manjša poraba energije v prometu in s tem manjše prometne obremenitve okolja. Glavni izziv za novinke je bil ohranjanje omenjenih okoljskih prednosti v primerjavi z EU ob hkratni izpolnitvi družbene zahteve po izboljšanju kakovosti bivanja in s tem po zagotavljanju mobilnosti.</p>
+    <p xml:id="pb11.p6" xml:lang="sl">Žal se je do danes marsikatera primerjalna prednost novink že izničila, saj gre v drugih novih članicah EU in v Sloveniji razvoj prometa v nasprotno smer od želene.</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">Promet na urbanih območjih je osrednji in ključni del prometnega sistema, saj so mesta osrednja vozlišča in največji spodbujevalci prometa. Številne in med vsemi prostorskimi ravnmi najočitnejše težave v mestnem prometu so zato koncentriran kazalnik delovanja celotnega prometnega sistema.</p>
+    <p xml:id="pb12.p2" xml:lang="sl">Skupni problemi prometa na urbanih območjih so (Plevnik, 2008, str. 28):</p>
+    <p xml:id="pb12.p3" xml:lang="sl">• naraščanje osebnega motornega prometa na račun drugih prometnih načinov;</p>
+    <p xml:id="pb12.p4" xml:lang="sl">• zmanjšanje vloge JPP ter nizka raven njegove ponudbe in konkurenčnosti;</p>
+    <p xml:id="pb12.p5" xml:lang="sl">• presežene zmogljivosti cestnega omrežja in parkirnih površin ter s tem zastoji;</p>
+    <p xml:id="pb12.p6" xml:lang="sl">• neustrezna skrb za nemotorizirane prometne načine (hoja, kolesarjenje) in zanemarjanje njihove zmogljivosti;</p>
+    <p xml:id="pb12.p7" xml:lang="sl">• naraščanje obremenitev bivalnega okolja in razvrednotenje mestnega prostora.</p>
+    <p xml:id="pb12.p8" xml:lang="sl">Naše diplomsko delo temelji na splošni problematiki mestnega prometa v središčih slovenskih mest. Vključevalo bo mirujoči in tekoči promet; probleme s parkirnimi prostori, ozkimi cestami in ulicami, kolesarskimi stezami, ki jih primanjkuje; kar predstavlja ovirano mobilnost, predvsem v starih delih mestnih središč, kjer je slaba dostopnost.</p>
+    <p xml:id="pb12.p9" xml:lang="sl">Poleg naštetih problemov, ki so večinoma povezani z lastnim prevozom – avtomobilom in drugimi prevoznimi sredstvi, je velik problem tudi slabo razvit javni prevoz, kar je posledica neinvestiranja v le-to. Mesto Ptuj je sicer majhno mesto, kjer se javni prevoz zelo težko razvija.</p>
+    <p xml:id="pb12.p10" xml:lang="sl">Ker so zlasti stara mestna središča že skoraj v celoti pozidana, se je v večini mest pričela masovna gradnja ter naseljevanje večjih podjetij in trgovskih centrov na obrobja mest. Zaradi tega so začela središča mest izumirati. Poleg tega pa je treba vanje tudi veliko investirati, če želimo ohranjati npr. primerno stanje zgradb in druge logistične infrastrukture. Zelo dober primer je mesto Ptuj, kjer vsakič znova vidiš, da se nekaj zapira ali je že zaprto, da so neurejene peš poti in kolesarske steze.</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">Cilji in teze diplomskega dela Cilji diplomskega dela:</p>
+    <p xml:id="pb13.p2" xml:lang="sl">• analizirati splošno mestno problematiko;</p>
+    <p xml:id="pb13.p3" xml:lang="sl">• analizirati mestni promet v mestu Ptuj;</p>
+    <p xml:id="pb13.p4" xml:lang="sl">• predstaviti razvoj mesta na njegovem obrobju;</p>
+    <p xml:id="pb13.p5" xml:lang="sl">• predstaviti možne rešitve za mirujoči promet;</p>
+    <p xml:id="pb13.p6" xml:lang="sl">• predstaviti možne rešitve za tekoči promet;</p>
+    <p xml:id="pb13.p7" xml:lang="sl">• predstaviti razloge, ki so hkrati rešitve, katerih posledica je močan razvoj na obrobju mesta, za slabo mobilnost v središču.</p>
+    <p xml:id="pb13.p8" xml:lang="sl">Teze:</p>
+    <p xml:id="pb13.p9" xml:lang="sl">Rešitev za mirujoči ter tekoči promet v strogem središču mesta Ptuj je uvedba mestne cestnine, močno omejevanje rabe motornih vozil in uvedba okolju prijaznih rešitev, kot so npr. kolesa.</p>
+    <p xml:id="pb13.p10" xml:lang="sl">Predpostavke in omejitve Predpostavke:</p>
+    <p xml:id="pb13.p11" xml:lang="sl">• obstoječe stanje mestnega prometa ne zadovoljuje občanov ter ostalih, ki prihajajo v mesto;</p>
+    <p xml:id="pb13.p12" xml:lang="sl">• pretočnost prometa je zelo slaba;</p>
+    <p xml:id="pb13.p13" xml:lang="sl">• obstoječe stanje mirujočega prometa je zelo slabo zaradi pomanjkanja prostora;</p>
+    <p xml:id="pb13.p14" xml:lang="sl">• obstoječe stanje javnega prevoza je slabo, hkrati pa ne toliko moteče zaradi manjše velikosti mesta;</p>
+    <p xml:id="pb13.p15" xml:lang="sl">• obstoječe stanje za nova investiranja v središču mesta je slabo, ker prostora skorajda ni več;</p>
+    <p xml:id="pb13.p16" xml:lang="sl">• obstoječe stanje na obrobju mesta je dobro, saj je prostora veliko, vendar je oddaljeno.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Omejitve diplomske naloge:</p>
+    <p xml:id="pb14.p2" xml:lang="sl">• omejen dostop do podatkov;</p>
+    <p xml:id="pb14.p3" xml:lang="sl">• pomanjkanje literature;</p>
+    <p xml:id="pb14.p4" xml:lang="sl">• zakonske omejitve;</p>
+    <p xml:id="pb14.p5" xml:lang="sl">• prostorske omejitve.</p>
+    <p xml:id="pb14.p6" xml:lang="sl">Metode dela</p>
+    <p xml:id="pb14.p7" xml:lang="sl">Diplomsko delo je sestavljeno iz teoretičnega in praktičnega dela. V teoretičnem delu je uporabljen analitični pristop raziskovanja, ki zajema metodo analize in sinteze. Zbiranje podatkov je obsegalo študij in analizo literature z omenjenega področja, iskanje gradiva prek spleta. Dejstva, odnosi, procesi so opisani z deskriptivno metodo. Praktični del se navezuje na zakone ter odloke MO Ptuj. V celotnem diplomskem delu smo upoštevali sistemski pristop, saj smo problematiko prikazovali najprej po delih in jih nato strnili v smiselno celoto.</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">1 TEORETIČNA IZHODIŠČA</p>
+    <p xml:id="pb15.p2" xml:lang="sl">1.1 Prometna politika</p>
+    <p xml:id="pb15.p3" xml:lang="sl">Prometna politika na ravni EU se je začela intenzivno razvijati konec 80. let prejšnjega stoletja, ko je bil oblikovan enotni trg: prost pretok oseb, blaga in storitev je mogoč le, če potniki in pošiljke blaga po kopnem, vodi in zraku tekoče potujejo. Pogodba o ustanovitvi Evropske skupnosti (1992) je zato vpeljala prometno politiko in skupen prometni trg. Poleg boljšega delovanja enotnega trga ima koristi od skupnega prometnega trga v prvi vrsti sam prometni sektor. Ta ustvarja že 10 % premoženja EU z vidika bruto domačega proizvoda (BDP) in zagotavlja več kot deset milijonov delovnih mest.</p>
+    <p xml:id="pb15.p4" xml:lang="sl">Za promet velja, da pripelje koristi evropske integracije neposredno k državljanom.</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Zahvaljujoč avtomobilom, ugodnim potovanjem z vlakom in letalom, ter z ukinitvijo mejnega nadzora lahko ljudje in blago brez omejitev potujejo med državami članicami EU. A meje niso padle in nacionalni trgi se niso odprli sami od sebe. Oboje je dosežek EU. Prav zaradi teh dosežkov pa je postal promet žrtev lastnega uspeha.</p>
+    <p xml:id="pb15.p6" xml:lang="sl">Zaradi stalne rasti so sistemi prevoza vedno bolj obremenjeni. Posledica so prometni zastoji, zlasti v cestnem in zračnem prometu, ki zmanjšujejo gospodarsko učinkovitost ter povečujejo porabo goriva in onesnaževanje. Cilj evropske prometne politike je zato oblikovati trajnostne vzorce in stopnje rasti prometa.</p>
+    <p xml:id="pb15.p7" xml:lang="sl">Cilji evropske prometne politike</p>
+    <p xml:id="pb15.p8" xml:lang="sl">Liberalizacija in harmonizacija prometa nista dovolj za oblikovanje celovitega in trajnostnega sistema na področju prometa. Vse od Bele knjige o prometu iz leta 1992 je osrednja pozornost namenjena trajnostni mobilnosti, ki je v osrčju prometne politike EU. Pomen trajnostnega pristopa do prometa je bil znova poudarjen v Beli knjigi o prometu leta 2001 in v vmesnem pregledu leta 2006. Cilj je ločiti mobilnost od njenih negativnih stranskih učinkov, kar je tudi ključnega pomena za doseganje okoljskih in energetskih ciljev EU do leta 2020.</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">Za dosego tega cilja EU vzpodbuja razvoj okolju prijaznejšega prometnega sektorja ter razvoj učinkovitih sistemov za upravljanje prometa. V ospredju so še prizadevanja za doseganje lizbonskih ciljev, med katere sodi tudi močan, konkurenčen, trajnosten in inovativen prometni sistem EU, ki ustvarja učinkovite prometne tokove in povezave.</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Dobro delovanje prometne logistike, inovativni sistemi in stroškovno učinkoviti procesi na tem področju lahko prispevajo k zmanjšanju emisij ogljikovega dioksida in hkrati h krepitvi svetovne konkurenčnosti evropskih prometnih industrij. Ključna prednostna naloga na področju prometa je tudi zagotavljanje uspešnega izvajanja sistema Galileo in priprava njegovih prihodnjih aplikacij.</p>
+    <p xml:id="pb16.p3" xml:lang="sl">Konkretni cilji evropske prometne politike so (»Življenje v EU« [Vladni portal z informacijami o življenju v Evropski uniji], b. d.):</p>
+    <p xml:id="pb16.p4" xml:lang="sl">• uravnotežena uporaba različnih oblik prometa;</p>
+    <p xml:id="pb16.p5" xml:lang="sl">• ohraniti konkurenčnost gospodarstva;</p>
+    <p xml:id="pb16.p6" xml:lang="sl">• oblikovati evropsko dimenzijo prometa;</p>
+    <p xml:id="pb16.p7" xml:lang="sl">• upoštevati stroške;</p>
+    <p xml:id="pb16.p8" xml:lang="sl">• zagotoviti trajnostni razvoj;</p>
+    <p xml:id="pb16.p9" xml:lang="sl">• oblikovati uporabnikom prijazen prometni trg.</p>
+    <p xml:id="pb16.p10" xml:lang="sl">1.1.1 Prometna politika Republike Slovenije</p>
+    <p xml:id="pb16.p11" xml:lang="sl">Za izvajanje svojega poslanstva mora Ministrstvo za promet zagotavljati usklajeno delovanje celotnega prometnega sistema. Časi delitve prometnega sistema na ceste, železnice, letalstvo in pomorstvo so preseženi, kajti uporabniki prometnega sistema in naročniki prevozniških storitev iščejo optimalne prevozne poti in celovite logistične rešitve. Tem spremembam se prilagaja tudi Ministrstvo za promet s temeljnim strateškim dokumentom Resolucija o prometni politiki Republike Slovenije.</p>
+    <p xml:id="pb16.p12" xml:lang="sl">Slovenska prometna politika odgovarja na zahteve časa, povečani potrebi po mobilnosti prebivalcev in blaga. Tako kot drugod po Evropi se tudi v Sloveniji srečujemo s težavami, kot so: zastoji v prometu, nizko kakovostne storitve, onesnaževanje okolja, varnost in varovanje ter razlike v regionalnem razvoju.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Resolucija o prometni politiki na sodoben, kratek in enostaven način v izhodiščih, viziji, ciljih in ukrepih določa temeljne usmeritve prometne politike za prihodnost.</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Glavni kazalniki zapisane prometne politike izhajajo iz mobilnosti, dostopnosti, okolja in varnosti, gospodarskega razvoja, optimalne izkoriščenosti virov, intermodalnosti/ interoperabilnosti ter uravnoteženosti med transportnimi sistemi.</p>
+    <p xml:id="pb17.p3" xml:lang="sl">Ker mora tudi oskrba gospodarstva temeljiti na trajnostnem razvoju, v ukrepih prometne politike predvidevamo postavitev sistema zaračunavanja uporabnin infrastrukture, ki bo slonel na tržni osnovi. V interesu države sta razvoj in konkurenčnost prevozniških podjetij, ki bodo svoje storitve izvajala kakovostno in uspešno, povečevala dodano vrednost in inovativnost, saj hud konkurenčni boj na evropskem transportnem trgu podjetja sili k racionalizaciji poslovanja in borbi za preživetje. Z gospodarskega vidika predvidevamo vključevanje zasebnega kapitala v razvoj prometne infrastrukture, ki ga je treba vključiti povsod tam, kjer je z zasebno pobudo mogoče doseči želene rezultate in tako razbremeniti javne finance. S predpisi in drugimi akti je treba urediti predvsem pogoje za razvoj kakovostne tržne strukture na področju transporta.</p>
+    <p xml:id="pb17.p4" xml:lang="sl">Z izgradnjo primerne infrastrukture želi Slovenija omogočiti tekoč in varen promet v državo in skozi državo tako slovenskim kot tujim prevoznikom.</p>
+    <p xml:id="pb17.p5" xml:lang="sl">Svobodno tržno gospodarstvo in administrativno urejanje in ne oviranje prometa spodbuja razvoj panoge in konkurenčnost slovenskih prevoznikov (»Promet« [Predstavitev Vlade Republike Slovenije – Ministrstvo za promet], b. d.).</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Resolucija o prometni politiki Republike Slovenije za 2010</p>
+    <p xml:id="pb17.p7" xml:lang="sl">Cukjati o resoluciji prometne politike: »V Republiki Sloveniji se zavedamo, da živimo v času globalizacije, ko so razdalje med nami vse manjše in se mobilnost ljudi, blaga in kapitala povečuje; meje izginjajo in integracija je v razmahu. Bela knjiga Evropske unije o prometu odgovarja na zahteve časa z evropsko politiko modernizacije, liberalizacije in integracije obstoječih transportnih sistemov ter njihovih procesov v medsebojno povezano enotno delujočo celoto.</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">Nacionalna prometna politika se zaveda makroekonomskega pomena prometa in nadaljuje z modernizacijo, deregulacijo ter internacionalizacijo prometa, če vsi ti dejavniki dvigujejo kakovost storitev v potniškem ali tovornem prometu.</p>
+    <p xml:id="pb18.p2" xml:lang="sl">Za dosego makroekonomskega pomena prometa si Slovenija zastavlja izziv, da bo postala logistično in distribucijsko središče za srednjo Evropo.« Odločitve, ki jih sprejmemo danes, bodo določale pogoje poslovanja gospodarstva in življenja ljudi vsaj za nekaj desetletij. Pričakovani razvoj prometnih tokov je izziv, odgovornost in hkrati izjemna priložnost naše države. Zato je naša vizija: s prometno politiko odgovarjati na te izzive in omogočiti sinergijsko delovanje različnih prometnih sistemov. Z vstopom Slovenije v Evropsko unijo so dokončno dozorele razmere, ko je treba zagotoviti enotno delovanje vseh prometnih sistemov, kajti le tako bo na trgu potniškega in tovornega prometa mogoče ponuditi storitve, ki bodo za Slovenijo dolgoročno sprejemljive in vzdržne.</p>
+    <p xml:id="pb18.p3" xml:lang="sl">Ta dokument opredeljuje izhodišča, cilje, ukrepe za doseganje ciljev in ključne nosilce prometne politike. Za izvedbo tega dokumenta bo vlada pripravila izvedbene dokumente, v katerih bo določila merljive in konkretne cilje ter aktivnosti za njihovo doseganje, pristojnosti in odgovornosti, izvajalce aktivnosti in finančno časovno perspektivo (Cukjati, 2006, str. 1).</p>
+    <p xml:id="pb18.p4" xml:lang="sl">Vloga prometne politike</p>
+    <p xml:id="pb18.p5" xml:lang="sl">Promet je osnova za gospodarski razvoj države, zato je ena od temeljnih medresorskih komunikacij. Oblikovanje in razvoj prometne politike pomembno določata položaj in vlogo prometa v celotnem gospodarstvu. Izgradnja in vzdrževanje prometne infrastrukture zaposluje več kot 60 % zaposlenih v gradbeništvu. Prometni sektor ustvari 7,5 % prihodkov v bruto domači proizvod in zaposluje desetino zaposlenih v državi. Zato mora biti prometna politika vsebinsko usklajena s širšo makroekonomsko politiko države.</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">Na uspešnost uresničevanja prometne politike vpliva tudi širše družbeno okolje, zato je pri načrtovanju te politike treba upoštevati gospodarsko, socialno in kulturno okolje države ter poznati politiko drugih področij, ki mejijo ali se pokrivajo s prometnim:</p>
+    <p xml:id="pb19.p2" xml:lang="en">• okolje in prostor;</p>
+    <p xml:id="pb19.p3" xml:lang="sl">• gospodarstvo in kmetijstvo;</p>
+    <p xml:id="pb19.p4" xml:lang="sl">• zaposlovanje in družina;</p>
+    <p xml:id="pb19.p5" xml:lang="sl">• pravosodje, policija in notranje zadeve;</p>
+    <p xml:id="pb19.p6" xml:lang="sl">• varnost in varovanje;</p>
+    <p xml:id="pb19.p7" xml:lang="sl">• obramba in sistem varstva pred naravnimi ter drugimi nesrečami;</p>
+    <p xml:id="pb19.p8" xml:lang="en">• in druga.</p>
+    <p xml:id="pb19.p9" xml:lang="sl">Osnovne determinante za oblikovanje prometne politike v Evropski uniji in Sloveniji so (Cukjati, 2006, str. 1):</p>
+    <p xml:id="pb19.p10" xml:lang="sl">• zakonodaja Republike Slovenije, mednarodni sporazumi, ki zavezujejo Republiko Slovenijo, ter direktive in uredbe Evropske unije;</p>
+    <p xml:id="pb19.p11" xml:lang="sl">• razvoj transportnih sistemov;</p>
+    <p xml:id="pb19.p12" xml:lang="sl">• tehnično-tehnološki in organizacijski razvoj in norme, zmožnost integriranja;</p>
+    <p xml:id="pb19.p13" xml:lang="sl">• stanje na trgu, povpraševanje in ponudba transportnih storitev;</p>
+    <p xml:id="pb19.p14" xml:lang="sl">• stanje in razvoj prometne infrastrukture;</p>
+    <p xml:id="pb19.p15" xml:lang="sl">• geografsko prometni potencial (položaj območja);</p>
+    <p xml:id="pb19.p16" xml:lang="sl">• kulturno, socialno in ekonomsko okolje;</p>
+    <p xml:id="pb19.p17" xml:lang="sl">• inšpekcijski in upravno strokovni nadzor prometa.</p>
+    <p xml:id="pb19.p18" xml:lang="sl">Geografsko prometni položaj v okolju povezane Evrope in globalnih gospodarskih trendov je ena od prednosti Slovenije. Slovenija lahko z razvojem celovitih logističnih storitev pokrije delež povpraševanja po teh storitvah v osrednji, južni in jugovzhodni Evropi. S selitvijo proizvodnje na Daljni vzhod na prometnem področju znova pridobiva pomen Sredozemsko morje, skupaj s Sueškim prekopom. Jadransko morje, ki se zajeda v osrčje Srednje Evrope, je tudi primerjalna prednost, ki omogoča razvoj pristaniških prevoznih storitev (Cukjati, 2006, str. 2).</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">Cilji prometne politike</p>
+    <p xml:id="pb20.p2" xml:lang="sl">Splošni cilji (Cukjati, 2006, str. 6):</p>
+    <p xml:id="pb20.p3" xml:lang="sl">• Lizbonska strategija je kot osrednji cilj razvoja Evropske unije do leta 2010 postavila povečanje konkurenčnosti gospodarstva ter razvoj znanosti in tehnologije, kar povzemajo tudi strateški dokumenti gospodarskega razvoja, ki cilje ovrednotijo tudi z vidika blaginje prebivalstva Slovenije;</p>
+    <p xml:id="pb20.p4" xml:lang="sl">• splošni cilji prometne politike na nacionalni ravni so prioritetno razvrščeni takole:</p>
+    <p xml:id="pb20.p5" xml:lang="sl">° internalizacija zunanjih stroškov, ki jih povzroča promet;</p>
+    <p xml:id="pb20.p6" xml:lang="sl">° doseganje družbenega optimuma v delu, ki se nanaša na prometni sektor;</p>
+    <p xml:id="pb20.p7" xml:lang="sl">° povečanje prometne varnosti in varovanja;</p>
+    <p xml:id="pb20.p8" xml:lang="sl">° učinkovita porabe energije in čisto okolje;</p>
+    <p xml:id="pb20.p9" xml:lang="sl">° povečanje obsega in kakovosti javnega potniškega cestnega in železniškega prometa;</p>
+    <p xml:id="pb20.p10" xml:lang="sl">° prenos blaga v tranzitu na železnico;</p>
+    <p xml:id="pb20.p11" xml:lang="sl">° usklajeno delovanje celotnega transportnega sistema;</p>
+    <p xml:id="pb20.p12" xml:lang="sl">° vzpostavljanje arhitekture inteligentnih transportnih sistemov z uveljavljanjem regionalnih, nacionalnih in evropskih specifičnosti, usmeritev ter interesov;</p>
+    <p xml:id="pb20.p13" xml:lang="sl">° ozaveščanje in informiranje prebivalstva o trajnostni mobilnosti;</p>
+    <p xml:id="pb20.p14" xml:lang="sl">° zagotovitev potrebne prometne infrastrukture tako za kopenski kot tudi pomorski in zračni transport, ki bo sledil načelom trajnostnega in skladnega regionalnega razvoja;</p>
+    <p xml:id="pb20.p15" xml:lang="sl">° zagotovitev zanesljivega, varnega, cenovno konkurenčnega in okolju prijaznega transporta v tovornem in potniškem prometu;</p>
+    <p xml:id="pb20.p16" xml:lang="sl">° optimalno izkoriščanje razpoložljivih virov;</p>
+    <p xml:id="pb20.p17" xml:lang="sl">° vzpostavitev delovanja učinkov tržnega gospodarstva;</p>
+    <p xml:id="pb20.p18" xml:lang="sl">° deregulacija posameznih podsistemov prometu in prodaja državnih lastniških deležev, skladno z obstoječo zakonodajo, kjer ni ogrožen javni interes, zasebni ponudniki pa z načelom tržnega gospodarstva lahko zagotovijo konkurenčnejšo in kakovostnejšo storitev, pri čemer se stopnja varnosti ne sme znižati;</p>
+    <p xml:id="pb20.p19" xml:lang="sl">° natančno usmerjanje fiskalnih ukrepov za zagotavljanje tistih storitev, ki jih z načeli tržnega gospodarjenja ni mogoče zagotoviti samih po sebi.</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">Ukrepi prometne politike</p>
+    <p xml:id="pb21.p2" xml:lang="sl">• Splošni ukrepi (Cukjati, 2006, str. 7):</p>
+    <p xml:id="pb21.p3" xml:lang="sl">° ključni ukrep prometne politike bo uvedba sistema plačevanja uporabe prometne infrastrukture po načelu mejnih družbenih stroškov (to je stroškov, ki jih uporabnik infrastrukture povzroči sebi, drugim uporabnikom infrastrukture in družbi kot celoti). S tem bomo na področju uporabe infrastrukture dosegli enega temeljnih ciljev prometne politike, to je združeni optimum v delu, ki se nanaša na prometni sektor (Paretov optimum). Paretov optimum pravi, da so resursi v družbi optimalno porazdeljeni in zagotavljajo najvišjo možno skupno blaginjo.</p>
+    <p xml:id="pb21.p4" xml:lang="sl">Zvišanje blaginje prebivalcev Slovenije in Evropske unije pa je naš skupni cilj.</p>
+    <p xml:id="pb21.p5" xml:lang="sl">• Splošni ukrepi prometne politike so (Cukjati, 2006, str. 7):</p>
+    <p xml:id="pb21.p6" xml:lang="sl">° izdelava celovitega prometnega modela z ustreznim izračunom virov in intermodalnosti povezav in virov;</p>
+    <p xml:id="pb21.p7" xml:lang="sl">° izdelava državnega razvojnega načrta o optimalni usklajenosti prometnega sistema ob spoštovanju mednarodnih obveznosti Slovenije;</p>
+    <p xml:id="pb21.p8" xml:lang="sl">° razvoj prometne infrastrukture, ki je pogoj za enotno in sinhrono delovanje sistema;</p>
+    <p xml:id="pb21.p9" xml:lang="sl">° vključevanje zasebnega kapitala v razvoj prometne infrastrukture in prevoznih storitev povsod tam, kjer je z zasebno pobudo mogoče doseči želene rezultate in tako razbremeniti javne finance;</p>
+    <p xml:id="pb21.p10" xml:lang="sl">° razvoj novih transportnih tehnik in tehnologij, ki bodo za okolje manj obremenjujoče;</p>
+    <p xml:id="pb21.p11" xml:lang="sl">° vzgoja in izobraževanje, obveščanje in trženje, s čimer bi pri ljudeh vzbudili zavest o pomenu transportnega sistema, njegovem delovanju in optimalni uporabi transportne infrastrukture;</p>
+    <p xml:id="pb21.p12" xml:lang="sl">° fiskalni ukrepi, s katerimi bo država spodbujala nastajanje celovitih logističnih rešitev in enotnega sistema javnega potniškega prometa;</p>
+    <p xml:id="pb21.p13" xml:lang="sl">° predpisi in drugi akti, s katerimi je treba urediti predvsem pogoje za razvoj kakovostne tržne strukture ter podpreti celovite logistične storitve in enotno delovanje javnega potniškega prometa;</p>
+    <p xml:id="pb21.p14" xml:lang="sl">° spodbujanje uporabe varčnejših in ekološko sprejemljivejših vozil.</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">1.1.2 Mobilizacija</p>
+    <p xml:id="pb22.p2" xml:lang="sl">Plevnik (2008, str. 8) meni: »Rast cestnega motornega prometa je posledica povečanja avtomobilskega in tovornega prometa, ki povzročata največ okoljskih problemov.</p>
+    <p xml:id="pb22.p3" xml:lang="sl">Sočasno zaradi nekonkurenčnosti upada delež železniškega in javnega potniškega prometa, zapostavljeni pa so tudi nemotorizirani prevozni načini. Slovenija in večina njenih mest dajejo za zdaj prednost razvoju cestnega motornega prometa kljub številnim okoljskim, gospodarskim in socialnim problemom, ki jih povzroča. Naklonjenost se kaže v pospešenih vlaganjih v cestno infrastrukturo, zapostavljanju javnega potniškega prometa (JPP) ter razvoja drugih trajnostnih prevoznih načinov, vključno z nemotoriziranimi.«</p>
+    <p xml:id="pb22.p4" xml:lang="sl">Na prostem trgu prometnih storitev, ki ne vključuje vseh stroškov, ki jih posamezni prevozni način povzroča, sta avtomobilski in cestni tovorni prevoz konkurenčnejša od drugih, saj sta praviloma hitrejša, cenejša ter zanesljivejša in prilagodljivejša od drugih načinov […].</p>
+    <p xml:id="pb22.p5" xml:lang="sl">Neuravnotežen razvoj prometnega sistema krepijo tudi spremembe v prostorski zgradbi Slovenije, ki vse bolj temelji na dostopnosti z osebnimi avtomobili in tovornjaki.</p>
+    <p xml:id="pb22.p6" xml:lang="sl">Večina prebivalcev zato svoje potrebe po mobilnosti zadovoljuje z osebnimi avtomobili, večina tovora pa se prevaža po cestah […]. Pomemben vzrok rasti obsega cestnega prometa je hitra rast lastništva (in s tem uporabe) osebnih avtomobilov oziroma stopnja motorizacije, ki se je v Sloveniji v zadnjih 20. letih podvojila […].</p>
+    <p xml:id="pb22.p7" xml:lang="sl">K rasti cestnega prometa prispeva tudi cestni tovorni promet, ki prevzema vse večji delež tovora, še posebej po vstopu Slovenije v Evropsko unijo, ko je skokovito narasel (Plevnik, 2008, str. 8).</p>
+    <p xml:id="pb22.p8" xml:lang="sl">Povečanje deleža trajnostnih prevoznih načinov (železnic, JPP in ladij) na račun cestnega motornega prometa je eden temeljnih ciljev prometne politike EU, ki je predvideval vzpostavitev bolj trajnostnega prometnega sistema do leta 2010.</p>
+    <p xml:id="pb22.p9" xml:lang="sl">Ta cilj naj bi uresničila z doseganjem razmerja med deleži uporabe prevoznih načinov iz leta 1998 in povečanjem rabe trajnostnih prevoznih načinov po letu 2010.</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">Dodatni cilj EU je počasnejša rast potniškega in tovornega prometa od rasti bruto družbenega proizvoda, saj je bila njuna rast v zadnjem desetletju izenačena. Glede rasti motorizacije so cilji prometne politike EU bolj kot s samo velikostjo voznega parka povezani z njegovo zgradbo – na porabo goriv in emisijske standarde vozil.</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Čeprav se podatki o obsegu prometa z osebnimi avtomobili v Sloveniji še ne zbirajo sistematično, lahko na podlagi posrednih kazalcev in trendov v državah z razpoložljivimi podatki sklepamo, da se potniški promet v Sloveniji povečuje, in sicer na račun avtomobilskega prometa. Delež avtobusnih prevozov se je v zadnjem desetletju zelo zmanjšal, obseg železniškega potniškega prometa počasi narašča, po letu 2002 pa hitro narašča število letalskih potnikov.</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Podatki o obsegu in zgradbi tovornega prometa v Sloveniji so nezadostni in otežujejo spremljanje tega okoljsko pomembnega kazalca. Kljub temu je očitno, da cestni tovorni promet narašča najhitreje in prevzema vse večji delež tovora v Sloveniji, še posebno po njenem vstopu v EU. Po podatkih Statističnega urada Republike Slovenije naj bi bil delež cestnega tovornega prometa v Sloveniji leta 1999 70-odstoten, leta 2003 68- odstoten in leta 2004 72-odstoten (Plevnik, 2008, str. 9).</p>
+    <p xml:id="pb23.p4" xml:lang="sl">1.1.3 Trajnostni razvoj Slovenije</p>
+    <p xml:id="pb23.p5" xml:lang="sl">Trajnostni razvoj je takšen način razvoja, ki zadošča današnjim potrebam, ne da bi pri tem ogrožal možnosti prihodnjih generacij, da zadostijo svojim lastnim potrebam« Opredelitev trajnostnega razvoja Slovenije</p>
+    <p xml:id="pb23.p6" xml:lang="sl">V dokumentu Agenda 21 za Slovenijo, ki ga je leta 1995 pripravila skupina nevladnih organizacij pod vodstvom Umanotere, Slovenske fundacije za trajnostni razvoj, so načela trajnostne družbe povzeta takole (»Plan B za Slovenijo« [Predstavitev Plan B za Slovenijo – Pobuda za trajnostni razvoj], b. d.):</p>
+    <p xml:id="pb23.p7" xml:lang="sl">• spoštovanje občestva življenja in odgovornost zanj;</p>
+    <p xml:id="pb23.p8" xml:lang="sl">• izboljšanje kakovosti človekovega življenja;</p>
+    <p xml:id="pb23.p9" xml:lang="sl">• ohranjanje vitalnosti in pestrosti Zemlje;</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">• čim korenitejše zmanjševanje izčrpavanja neobnovljivih virov;</p>
+    <p xml:id="pb24.p2" xml:lang="sl">• upoštevanje nosilne sposobnosti Zemlje;</p>
+    <p xml:id="pb24.p3" xml:lang="sl">• spreminjanje osebnega odnosa in ravnanja;</p>
+    <p xml:id="pb24.p4" xml:lang="sl">• usposabljanje skupnosti za samostojno in odgovorno ravnanje z okoljem;</p>
+    <p xml:id="pb24.p5" xml:lang="sl">• oblikovanje državnega okvira za povezovanje razvoja in ohranitve;</p>
+    <p xml:id="pb24.p6" xml:lang="sl">• ustvarjanje svetovnega zavezništva.</p>
+    <p xml:id="pb24.p7" xml:lang="sl">1.1.4 Razvoj okoljske in prometne infrastrukture</p>
+    <p xml:id="pb24.p8" xml:lang="sl">Operativni program razvoja okoljske in prometne infrastrukture za obdobje 2007–2013 Operativni program razvoja okoljske in prometne infrastrukture (OP ROPI) je podlaga za črpanje sredstev zlasti iz Kohezijskega sklada, v manjši meri pa tudi iz Evropskega sklada za regionalni razvoj. V okviru omenjenega programa se v Sloveniji sofinancirajo projekti s področja okolja, prometa ter trajnostne rabe energije, ki bodo uresničeni najkasneje do leta 2015.</p>
+    <p xml:id="pb24.p9" xml:lang="sl">Vsebina operativnega programa zagotavlja pogoje za rast z zagotavljanjem trajnostne mobilnosti, trajnostnega ravnanja z energijo ter izboljšanja kakovosti okolja in ustrezne infrastrukture, kar obenem predstavlja tudi splošni cilj operativnega programa.</p>
+    <p xml:id="pb24.p10" xml:lang="sl">Cilj operativnega programa je zagotoviti infrastrukturo na področju okolja in prometa, kar je povezano tako s spodbujanjem trajnostnega razvoja in zagotavljanjem visoke kvalitete življenja za prebivalce Slovenije. Upoštevajoč navedeno, program vsebuje tudi dejavnosti na področju trajnostne rabe energije.</p>
+    <p xml:id="pb24.p11" xml:lang="sl">Razvojne prioritete okoljske in prometne infrastrukture:</p>
+    <p xml:id="pb24.p12" xml:lang="sl">• železniška infrastruktura;</p>
+    <p xml:id="pb24.p13" xml:lang="en">• cestna in pomorska infrastruktura – KS;</p>
+    <p xml:id="pb24.p14" xml:lang="sl">• prometna infrastruktura;</p>
+    <p xml:id="pb24.p15" xml:lang="sl">• ravnanje s komunalnimi odpadki;</p>
+    <p xml:id="pb24.p16" xml:lang="sl">• varstvo okolja – področje vode;</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">• trajnostna raba energije;</p>
+    <p xml:id="pb25.p2" xml:lang="sl">• tehnična pomoč.</p>
+    <p xml:id="pb25.p3" xml:lang="sl">Namen</p>
+    <p xml:id="pb25.p4" xml:lang="sl">Kot je že iz naziva operativnega programa razvidno, je njegov osnovni namen izboljšanje infrastrukture v Sloveniji, čemur je namenjenih slabih 40 odstotkov vseh izpogajanih sredstev Slovenije za obdobje 2007–2013. Z omenjenimi sredstvi bodo financirani okoljski projekti, projekti prometne infrastrukture ter projekti s področja trajnostne rabe energije.</p>
+    <p xml:id="pb25.p5" xml:lang="sl">Sredstva</p>
+    <p xml:id="pb25.p6" xml:lang="sl">V okviru OP ROPI, ki je podlaga za črpanje zlasti iz Kohezijskega sklada, si je Slovenija izpogajala 1,6 milijarde evrov za posodobitev ali novogradnjo infrastrukture s področja okolja ali prometa. Za razliko od predhodnega programskega obdobja, ko je Evropska komisija (EK) potrjevala vse kohezijske projekte, pa v programskem obdobju 2007–2013 EK potrjuje le tako imenovane velike projekte.</p>
+    <p xml:id="pb25.p7" xml:lang="sl">To so projekti, ki so sofinancirani iz Kohezijskega sklada ali Evropskega sklada za regionalni razvoj, katerih skupna vrednost presega 25 milijonov EUR na področju okolja ter 50 milijonov EUR na področju prometa. Projekte pod omenjenima vrednostma pa potrjujejo države članice oziroma njihovi organi upravljanja.</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">Tabela 1: Sredstva za operativni program razvoja okoljske in prometne infrastrukture Operativni program razvoja okoljske in prometne infrastrukture</p>
+    <p xml:id="pb26.p2" xml:lang="sl">Sredstva EU (v €) Sredstva EU (v %) Železniška infrastruktura 449.567,581 27,5 Cestna in pomorska infrastruktura 241.370,738 14,8</p>
+    <p xml:id="pb26.p3" xml:lang="sl">Prometna infrastruktura 224.029,886 13,7 Ravnanje s komunalnimi odpadki</p>
+    <p xml:id="pb26.p4" xml:lang="sl">Varstvo okolja – področje voda</p>
+    <p xml:id="pb26.p5" xml:lang="sl">Trajnostna raba energije 159.886,553 9,8 Tehnična pomoč 29.693,221 1,8 Skupaj 1.635.599,744 100</p>
+    <p xml:id="pb26.p6" xml:lang="sl">Vir: »Razvoj okoljske in prometne infrastrukture« [Vlada Republike Slovenije], b.d.</p>
+    <p xml:id="pb26.p7" xml:lang="sl">1.2 Mestni promet</p>
+    <p xml:id="pb26.p8" xml:lang="sl">1.2.1 Problematika mestnega prometa</p>
+    <p xml:id="pb26.p9" xml:lang="sl">Sterlekar (2002, str. 24) meni: »Promet zadeva v sam vrh okoljskih in razvojnih problemov. Ker bo še naprej bistveno vplival na življenje prebivalcev ter na pestrost narave in kakovost našega okolja, je Slovenija kot država dolžna izostriti prostorske in razvojne strategije kot podlago za prometno politiko. […] Urejen promet nedvomno pomeni veliko za razvoj vsake pokrajine in vseh skupaj.</p>
+    <p xml:id="pb26.p10" xml:lang="sl">Večsrediščna usmeritev (policentrična) pa pomeni še mnogo več. Pomeni okrepitev odročnih središč, česar sicer ni mogoče urediti takoj, je pa treba vsak korak in vsak poseg v prostor snovati daljnovidneje. Želimo doseči tudi, da bi bilo manj prometa, manj izgub in manj škodljivih emisij. Ker pa so te velike prav tam, kjer se mesta širijo v primestja in okolico, ker gre za oskrbovanje in vsakodnevne migracije, je treba tem problemom najprej posvetiti pozornost. Ustvariti je treba razpršeno širjenje stanovanjske gradnje, ker zelo širi vso infrastrukturo in povečuje njene stroške.« Problematika motornih vozil</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">Kuščer (2002, str. 50) ugotavlja: »Življenje človeštva z osebnim avtomobilom in s sodobnim dvokolesom traja že več kot stoletje. Avtomobil, v začetku predvsem simbol standarda ter pozneje množična opora mobilnosti in aktivnostim ljudi, se vse pogosteje duši v prometnih kolonah zaradi neskladja med javnim in osebnim prometom ter med prometno tehniko in stanjem omrežja. V mestih je prometna gneča med najbolj stresnimi in osovraženimi pojavi vsakdanjika, avtomobilska gneča pločevine maliči prostor v središčih mest, izpušnimi plini in nevarnimi delci kvarijo ozračje in povzročajo številna obolenja, nenehni avtomobilski hrup resno obremenjuje naš živčni sistem, prometne nezgode in nesreče pa so pojem razvojnih nesreč. Po ocenah nekaterih prometnih strokovnjakov nas to vodi v prometni kolaps, če se kmalu razmere ne bodo bistveno spremenile. Osnovni problem ni prostorske in omrežne narave, temveč nesonaravno razraščen osebni promet. Zato draga gradnja cest, garažnih hiš in vse zmogljivejših vozil ne rešuje te sodobne civilizacijske in tehnološke krize.« Tabela 2: Število cestnih vozil na Ptuju za leto 2010 Vrsta vozila Število Kolesa z motorjem 654 Motorna kolesa 505</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Osebni avtomobili in specialni osebni avtomobili 12111</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Avtobusi 7</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Tovorna motorna vozila 1115</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Vir: »Transport« [Statistični urad Republike Slovenije], 31. december 2010 Problematika kolesarjev in kolesarskih stez</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">Kuščer (2002, str. 51) še meni: »Kolesarska infrastruktura je v Sloveniji na izrazito nizki ravni tako z vidika naših potreb kakor v primerjavi z državami razvite Evrope.</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Pomanjkanje ustrezne kolesarske infrastrukture je nesporno eden glavnih razlogov za nizko stopnjo kolesarjenja; dokazano je namreč, da že majhne izboljšave v kolesarski infrastrukturi zelo ugodno vplivajo na povečanje števila kolesarjev. Posebno neprimerna je kolesarska infrastruktura v mestih in sploh mnogih naseljih. Večina kolesarjenja poteka na razdaljah nekaj kilometrov, premalo je kolesarskih stez, ali se te po kratki razdalji nenadoma končajo, kolesarji pa so tako potisnjeni v vrvež celotnega prometa.</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Ovire, ki povečujejo ogroženost kolesarjev, so nepreglednost in slaba označenost poti, slabo vzdrževanje in urejanje površin za pešce in kolesarje, predvsem pa hitrost motornega prometa. Vse to je mogoče izboljšati s primerno infrastrukturo in seveda medsebojnim spoštovanjem vseh udeležencev v prometu. Razvoj kolesarstva ovira tudi neurejenost parkiranja in slaba varnost za parkirana kolesa.« Problematika prometa na zdravje ljudi</p>
+    <p xml:id="pb28.p4" xml:lang="sl">Otorepec (2002, str. 53) ugotavlja: »Ko pomislimo na škodo, ki jo zdravju ljudi povzroča promet, so v ospredju izpušni plini in nezgode. Ne smemo pozabiti tudi na to, da zaradi voženj manj hodimo in kolesarimo, da zaradi nakupa avtomobila marsikatera družina stiska pri drugih za življenje koristnih zadevah.</p>
+    <p xml:id="pb28.p5" xml:lang="sl">Promet vpliva tudi na navade ljudi in nevarno je, ker nekatere zmanjšujejo reflekse in sposobnost pravočasnega ukrepanja v kočljivih situacijah (alkoholizem, kajenje in telefoniranje med vožnjo, hrupna glasba).«</p>
+    <p xml:id="pb28.p6" xml:lang="sl">Vpliv onesnaženega zraka na zdravje ljudi je velik in kompleksen, posebej še v mestnem okolju, kjer je promet zgoščen. Škodljivi plini in trdni delci v zraku učinkujejo postopno in dolgotrajno. Ogrožajo mnogo ljudi; študije o obolevnosti in umrljivosti kažejo, da škodljivi učinki plinov in snovi v zraku najprej prizadenejo bolnike s kroničnimi obstruktivnimi pljučnimi boleznimi, z astmo, obolenjem srca in obtočil, enako pa tudi otroke in ostarele. V Evropi je do 90 % mestnega življenja (v Sloveniji živi polovica ljudi v mestih) izpostavljena prevelikim učinkom prašnih delcev (saje, delci kovin, kemikalij, prahu, insektov), dušikovega dioksida, ozona in nekaterih škodljivih organskih spojin.</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Zdravstvene posledice so akutne zaradi kratkotrajnih povišanih koncentracij škodljivih snovi v zraku ter kronične zaradi dolgotrajnih učinkov nižjih koncentracij (Otorepec, 2002, str. 53).</p>
+    <p xml:id="pb29.p2" xml:lang="sl">Problematika onesnaževanja okolja</p>
+    <p xml:id="pb29.p3" xml:lang="sl">Promet je transport snovi in ljudi v organiziranem okolju. Uporaba različnih prometnih sredstev (vozil) povzroča okolju veliko škodo. Kaj lahko storimo, da bi negativne vplive transporta na zdravje ljudi, naravno in grajeno okolje zmanjšali na možno mero (Novak, 2002, str. 82)?</p>
+    <p xml:id="pb29.p4" xml:lang="sl">Novak pravi: »Moramo se zavedati, da pri sedanjem načinu uporabe osebnih avtomobilov porabimo največ goriva s premikanjem vozila samega, s tem pa povzročimo okolju največ škode. Vozilo tehta v povprečju 900 do 1500 kg, voznik pa 70 do 90 kg. Razmerje med vozilom in tovorom je 10 do 15-kratno, pri kolesu in kolesu s pomožnim motorjem (moped, vespa) pa je to razmerje 0,2 do 1,0.« Plevnik (2002, str. 28) pravi: »V Sloveniji se srečujemo s podobnimi problemi v mestnem prometu kot druge razvite države, vendar nimamo vzpostavljene prakse strateškega načrtovanja mestnega prometa.</p>
+    <p xml:id="pb29.p5" xml:lang="sl">Reševanje problemov mestnega prometa je v Sloveniji prepuščeno lokalni ravni, ki pa ima pri tem vrsto težav. Dosedanje nezanimanje države za urejanje prometa na urbanih območjih Slovenije je zato nujno treba preseči. Prepuščanje urejanja prometa zgolj mestni ravni je primerljivo s hipotetičnim prenosom vseh pristojnosti urejanja prostora na to raven.«</p>
+    <p xml:id="pb29.p6" xml:lang="sl">V Sloveniji se mestne prometne strategije zamenjujejo s prometnimi vsebinami v prostorskih strategijah. Te ne zadoščajo za opredelitev vizije in za dolgoročno upravljanje prometnega sistema, saj je njihova obravnava v primerjavi s sodobnimi koncepti načrtovanja mestnega prometa veliko preozka. Prostorske strategije obravnavajo zgolj infrastrukturo prometnih podsistemov, ne pa prometnega sistema kot celote. S tem izostane celovita vizija prometnega sistema, pa tudi obravnava tako pomembnih sestavin mestnega prometnega sistema, kot so parkirna politika, integralna zasnova ponudbe JPP ali upravljanje mobilnosti (Plevnik, 2002, str. 28).</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">Prebivalci Mestne občine Ljubljana so leta 2003 okoli 58 odstotkov vseh potovanj opravili z avtom, z JPP pa samo še 13 odstotkov. S kolesom so opravili okoli 10 odstotkov potovanj, 19 odstotkov pa peš. Primerjava med letoma 1994 in 2003 kaže, da se je v tem času uporaba osebnega avtomobila povečala kar za 52 odstotkov, uporaba kolesa pa za 20 odstotkov, ljudje za 7 odstotkov manj pešačijo in kar za okoli 30 odstotkov manj uporabljajo JPP. Uporaba osebnega avtomobila se torej hitro povečuje, uporaba JPP pa zmanjšuje (Plevnik, 2008, str. 29).</p>
+    <p xml:id="pb30.p2" xml:lang="sl">Ozaveščenost o okoljskih posledicah prometa se povečuje, vendar se ne kaže v spremembah vedenja prebivalcev</p>
+    <p xml:id="pb30.p3" xml:lang="sl">Prebivalci Slovenije se zavedajo problema naraščajočega prometa in njegovih posledic za okolje. Večina vidi rešitev okoljskih problemov prometa v boljšem javnem prevozu ter povečanju površin za pešce in kolesarje, najmanj pa se jih zavzema za zvišanje cen goriva. Čeprav se ozaveščenost javnosti povečuje, pa se vedno ne kaže v spremembah vedenja prebivalcev.</p>
+    <p xml:id="pb30.p4" xml:lang="sl">Izsledki raziskave iz leta 2005 kažejo, da je med vprašanimi zaskrbljenost zaradi okoljskih problemov dokaj visoko izražena in se je na splošno na vseh področjih v primerjavi z letom 2003 povečala. Prebivalci so med okoljske probleme, zaradi katerih so najbolj zaskrbljeni, uvrstili onesnaževanje zraka, veliko pa ne zaostaja niti povečevanje prometa.</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Resolucija o prometni politiki Republike Slovenije se v ciljih na področju potniškega prometa zavzema za spremembo potovalnih navad, vendar pri tem poudarja zgolj mesta.</p>
+    <p xml:id="pb30.p6" xml:lang="sl">Lokalne oblasti naj bi izvajale ukrepe spodbujanja pešačenja, uporabe koles in javnega potniškega prometa ter dvigovanje okoljske ozaveščenosti prebivalcev. Ozaveščanje javnosti je vključeno tudi v splošne ukrepe prometne politike, ki predvidevajo vzgojo in izobraževanje, obveščanje in trženje, s čimer bi pri ljudeh vzbudili zavest o pomenu prometnega sistema, njegovem delovanju in optimalni uporabi prometne infrastrukture 1.2.2 Rešitve</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Sterlekar (2002, str. 24) vidi rešitve: »Za zmanjšanje prometa so možnosti urejanja regionalne in lokalne oskrbe s hrano in drugim blagom. Tako bi bilo manj daljinskega prometa. Tudi manj ranljivi bi bili, če bi nas prizadele katastrofe. Daljinski transport spada na železnice. Sodobna informatika in organizacija storitvenih dejavnosti z delom na domu lahko prispevata k zmanjšanju pritiska avtomobilov na ceste.</p>
+    <p xml:id="pb31.p2" xml:lang="sl">Večnamenska središča v bližini stanovanj niso le nakupovalna, ker naj imajo poleg trgovin tudi storitvene dejavnosti, varstvene ustanove in številna delovna mesta, da bo voženj čim manj.«</p>
+    <p xml:id="pb31.p3" xml:lang="sl">Okoljsko ozaveščeni projektanti skušajo to urejati v središčih naselij in mestnih četrti, vendar imajo premalo opore v predpisih, pri investitorjih in upravnih službah, pa tudi premalo možnosti za izbiro primernih lokacij.</p>
+    <p xml:id="pb31.p4" xml:lang="sl">Dokazano je (P. Newman idr.), da potrebujejo strnjena mesta manj prometa kot razpršeno grajena mesta s primestji. Zato bi morali z zakoni in izčiščeno politiko, s prostorskim urejanjem in urbanistično-arhitekturnim oblikovanjem ustaviti širjenje razpršenih naselij, jih prenavljati in graditi v dotrajanih, manj vrednih predelih (Sterlekar, 2002, str. 24).</p>
+    <p xml:id="pb31.p5" xml:lang="sl">Okoljsko sprejemljivejši promet je mogoče zagotoviti s spreminjanjem sestave prometa, z uvajanjem več vrst okolju primernih prometnih sredstev in infrastrukture. Država mora ohraniti nadzor železniškega prometa in razviti ekonomsko sprejemljiv oprtni promet, ki bo olajšal gnečo na cestah in zmanjšal onesnaževanje okolja. S podporo države je treba zagotoviti, da bodo imele mestne in primestne železnice nižje prevoznine kot cestna vozila in ustrezne vozne rede. V praktično in privlačno urejenih vozliščih naj bi voznikom osebnih vozil olajšali prehode na javni promet (Sterlekar, 2002, str. 25).</p>
+    <p xml:id="pb31.p6" xml:lang="sl">Rešitve za mesta, polna avtomobilov</p>
+    <p xml:id="pb31.p7" xml:lang="sl">Sterlekar (2002, str. 25) meni, da so rešitve za mesta, polna avtomobilov, takšne: »Današnja z avtomobili prenapolnjena mesta potrebujejo postopno uvajanje širokih osrednjih zelenih avenij in nanje drugih »zelenih« cest in ulic. Na teh zelenih cestah naj bi imeli pešci in vsa čistejša vozila prednost pred motornimi vozili. Teh ureditev pa ne smemo zamenjati z zaporo mestnih središč, ki vabijo le pešce in kolesarje brez prtljage in v ugodnem vremenu. Slabe strani zapore so namreč dvojne: središča postanejo slabo dostopna za oddaljene prebivalce, starše z otroki, invalide, ljudi s prtljago, za dovoz in nakupe na tržnicah, dostave iz trgovin, za restavracije in za kolesarje v slabem vremenu.</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">Zato se mestna jedra ob zaporah še bolj praznijo, prejšnji mestni vrvež usahne, kot se je izkazalo v Slovenskih Konjicah, na Ptuju in v drugih mestih, kjer so uvedli zapore.</p>
+    <p xml:id="pb32.p2" xml:lang="sl">Na zeleni aveniji naj bo osrednji del vozišča namenjen čistemu in javnemu prometu, cestni železnici in podobnim vozilom z električnim pogonom. Široki zunanji pasovi z zelo ozelenjeno podobo naj pripadajo pešcem, kotalkarjem in kolesarjem.</p>
+    <p xml:id="pb32.p3" xml:lang="sl">Urediti pa je treba tudi steze in parkirišča za nove oblike trokoles za starejše osebe in odrasle z otroki in tovorom. V mestnih ožinah so primerne arkade, ki omogočajo gibanje pešcev in neoviran promet. […].</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Z bolj zdravju primernim okoljem, svobodno izbiro gibanja za vsakogar, s pestrim programom in visoko kakovostnimi urbanističnimi ter parkovnimi ureditvami bi zelene avenije in okoljsko primernejša vozila daleč presegla kakovost današnjih avtomobilskih in zaprtih mestnih središč. Za avtomobilske dovoze in odvoze so primerne pozne večerne in zgodnje jutranje ure.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">Zelene ceste bi povsod prispevale k rekreaciji prebivalcev. Povezane z vodnim prometom, vzpenjačami, obrobji z zelenimi parkirnimi prostori in javnim prometom, ki odpira mesta navzven, bi lahko uveljavile nove vrednote za življenje v mestih in ob njih. Novih garaž v mestih ne bi potrebovali, nujni pa sta razvejani omrežji čistejšega javnega in kolesarskega prometa.«</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Kuščer (2002, str. 50) ugotavlja: »Draga gradnja cest, garažnih hiš in vse zmogljivejših vozil ne rešuje te sodobne civilizacijske in tehnološke krize: spremeniti moramo mobilnost tako, da bo znosnejša – sonaravnim javnim prometom, smiselnim razporejanjem zbiralnih središč in bivalnih območij, s kolesarjenjem in gibanjem pešcev. V razviti Zahodni Evropi pri ureditvi prometa in varovanju okolja že zelo resno gledajo na kolesarstvo kot na obliko okolju primernega, zdravega in prijaznega načina vsakdanjega gibanja, s katerim je mogoče pokriti velik del vsakodnevnih poti, za dolge razdalje pa je odlična oblika sodobnega turizma.«</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Zahodna Evropa je seveda prej doživela prometni kaos, ki sedaj ovira nas, in je že začela razvoj obračati v drugo smer. Ekološko in ekonomsko breme avtomobilizma, ki se od gradnje in vzdrževanja cest do zdravljenja vseh posledic prometa prenaša na večletno družbo, na vse ljudi, je treba omejiti. To je naloga države in gospodarstva.</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Oskrba prebivalstva in določena mobilnost sta potrebni in se obračunavata s cenami blaga in storitev, toda zakaj bi prometno zmedo in vse posledice plačevali tudi tisti, ki tega ne povzročajo? Na najvišji ravni je treba doseči spoznanje, da je ukrepanje nujno in da bo kakršnokoli odlašanje le otežilo reševanje ter povzročilo dodatne izgube.</p>
+    <p xml:id="pb33.p3" xml:lang="sl">Čas je za ukrepe od racionaliziranja prometnih tokov do učinkovitega varovanja narave in ljudi, potem bo lahko tudi naložbena politika drugačna, bolj usmerjena v gospodarski, socialni, zdravstveni in kulturni razvoj (Kuščer, 2002, str. 50).</p>
+    <p xml:id="pb33.p4" xml:lang="sl">Rešitve s kolesom</p>
+    <p xml:id="pb33.p5" xml:lang="sl">Kako naj to dosežemo? Slovenija mora na državni ravni sprejeti kolesarjenje kot pomemben del prometne strategije – tako s stališča varovanja okolja in zdravja ljudi kot neoviranega prometa. Jasno je treba razmejiti sonaravno trajnostne oblike prometa od manj primernih, toda ne samo metodološko, temveč razvojno.</p>
+    <p xml:id="pb33.p6" xml:lang="sl">Ker so ekonomski motivi in navade ljudi zavetje sedanje osebne motorne mobilnosti, so za razvoj kolesarjenja nujne primerne spodbude, vključno z urejanjem kolesarskih poti in razumno davčno politiko. Evropska komisija priporoča, da uvedemo koordinatorje za spodbujanje kolesarstva z dovolj vplivno vlogo.</p>
+    <p xml:id="pb33.p7" xml:lang="sl">Namestiti je treba stojala za kolesa in urediti varovane kolesarnice. Zlasti kritično je pri šolah, trgovinah, gostiščih, kinematografih in poslopjih upravnih organov. Ta pričakovanja niso breme, če pomislimo, kako so si zaposleni marsikje zagotovili varstvo in parkiranje avtomobilov, pozabili pa so na stranke (Kuščer, 2002, str. 51).</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">• Kolesarjenje na srednje razdalje (do 20 km) postaja znova pomembno. Številni posamezniki, ki vsak dan potujejo iz širše okolice v zaposlitvena, šolska in oskrbovalna središča, bi z veseljem uporabili kolo – ali samostojno ali v kombinaciji z vlakom – če ne bi bilo to nevarno ali kako oteženo, na primer z neprimernimi voznimi redi, pretiranimi cenami za prevoz koles z vlakom itd.</p>
+    <p xml:id="pb34.p2" xml:lang="sl">• Kolesarjenje na dolge razdalje je zanimivo predvsem kot turistična oblika. V državah, ki usklajujejo turizem in promet, so v zadnjih letih potegnili ali označili na stotine kilometrov novih kolesarskih poti. Na marsikaterem tujem avtomobilu v smeri proti turističnim krajem vidimo, da vozijo s seboj kolesa. Tako se kolesarjenje razvija vzporedno s sodobnim turizmom. Slovenija je tako rekoč idealna za kolesarski turizem, vendar nima niti ene dolge označene kolesarske poti na obstoječih cestah, kaj šele, da bi imela samostojne poti, ločene od cest. Da bi to uredili, bodo morale sodelovati občine, pokrajine in država. Poleg avtomobilskega in železniškega križpotja potrebujemo v Sloveniji tudi križ mednarodnih kolesarskih poti.</p>
+    <p xml:id="pb34.p3" xml:lang="sl">Potem si lahko obetamo, da bo nekako do leta 2025 imela Slovenija urejeno pravo mrežo kolesarskih povezav, to pomeni mrežo povsem samostojnih kolesarskih poti in primerne označbe na cestnih povezavah.</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Vsega seveda ne pričakujemo takoj, saj je treba ukrepati previdno in natančno. Toda marsikaj se da storiti, predvsem pa se moramo zavedati, da vsako odlašanje pomeni dodatno poslabšanje prometnega stanja in dodatno odvračanje kolesarjev. Čim prej se bomo lotili sprememb, tem laže in tem ceneje jih bomo lahko izpeljali (Kuščer, 2002, str. 52).</p>
+    <p xml:id="pb34.p5" xml:lang="sl">Tehnološke možnosti</p>
+    <p xml:id="pb34.p6" xml:lang="sl">Tehnološke možnosti za čim manjši vpliv transportnih sredstev (vozil, ladij in letal) na okolje so zelo odvisne od vrste vozil in tudi od tega, kdaj so bila proizvedena. Sedaj znana prometna sredstva, to so kolo, voz, osebni avto, tovornjak, osebni in tovorni vlak, tramvaj, trolejbus, ladja in letalo, bodo tudi v prihodnosti osnova za transport ljudi in tovora. Zaradi vrste tehnoloških izboljšav, uporabe novih materialov in informacijske tehnologije pa lahko pričakujemo velike spremembe v konstrukciji in uporabi teh vozil.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">• Kolo (dvokolo) je okolju najbolj prikladno vozilo. Njegova konstrukcija se kljub številnim poskusom ni spremenila že vrsto let. Razen izboljšav na prestavah in uvedbe lahkih kovin bobnastih zavor in drobne opreme (luči, smerni kazalci), je dobilo tudi majhen elektromotor. Problem uporabe kolesa v vremensko neugodnih pogojih bo reševalo hibridno vozilo, tj. dvokolo s kabino in pomožnim motorjem, nekakšen pokriti moped. Za starejše ali manj vešče voznike bo na razpolago motorni tricikel, pokrito trikolo s pomožnim motorjem, Skupaj z vozili tipa moped ali vespa bodo osnova okolju ustreznega transporta posameznikov v naseljih. Njihova prikladnost za vožnje po okolju je velika. Hrup, ki ga povzročajo današnji motorji, ni sprejemljiv in ga je tehnično mogoče znižati na raven šumnosti osebnih vozil.</p>
+    <p xml:id="pb35.p2" xml:lang="sl">Potrebni so le še ustrezni predpisi o dopustni ravni in načinu meritev hrupa. Brez ustreznega certifikata o hrupu v mejah dopustnosti vozila ne bodo smela na cesto.</p>
+    <p xml:id="pb35.p3" xml:lang="sl">Ta vrsta vozil je primerna predvsem zato, ker za prevoz ene osebe potrebujejo 10-krat manj energije kot osebni avtomobil, saj je vozilo več kot desetkrat lažje in lahko opravi podobno nalogo.</p>
+    <p xml:id="pb35.p4" xml:lang="sl">Slika 1: Sodobno mestno kolo</p>
+    <p xml:id="pb35.p5" xml:lang="sl">Vir: »Kolesa - mestna« [Spletna trgovina Prodaja koles], b. d.</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">• Osebni avto seveda s tem ne bo izgubil na pomenu, saj je potrebno prevažati tudi več oseb hkrati in njihovo osebno prtljago. Doživel pa bo veliko sprememb. Teža osebnih vozil se bo zmanjšala z uporabo aluminija ter plastičnih in bioloških materialov (plošč iz konoplje, koruznega ličkanja, bambusovih listov ipd.) tudi za največja osebna vozila na vsega 350 do 900 kg ali za faktor 2,5, pri tem ne bo trpelo ugodje potnikov in varnost, saj bo hitrost, omejena na največje vrednosti, okoli 150 km/h.</p>
+    <p xml:id="pb36.p2" xml:lang="sl">Motorji v novih vozilih bodo lahko zaradi majhne teže vozila bistveno šibkejše moči in zaradi tega bodo vozila sploh manjša in lažja. Pri uporabi stisnjenega zemeljskega plina, etanola (iz rastlin), metanola ali bio-dizla bodo osebni avtomobili za okolje bolj sprejemljivi.</p>
+    <p xml:id="pb36.p3" xml:lang="sl">Osebna vozila bodo razporejena v tri velike skupine:</p>
+    <p xml:id="pb36.p4" xml:lang="sl">° vozila za mesto, namenjena predvsem za dve osebi in s prostorom za nujne nakupe z dolžino do okoli 1,7;</p>
+    <p xml:id="pb36.p5" xml:lang="sl">° vozila za večje razdalje za štiri do šest oseb, s sedaj znanimi merami in lastnostmi;</p>
+    <p xml:id="pb36.p6" xml:lang="sl">° vozila za posebne namene (servis, terenska vozila itd.).</p>
+    <p xml:id="pb36.p7" xml:lang="sl">Mestna vozila bodo kmalu postala hibridna; z elektromotorjem za pogon koles in z motorjem z notranjim zgorevanjem za proizvodnjo elektrike in polnjenje akumulatorja. Hiter razvoj gorivnih celic pa lahko pospeši prehod od hibridnih na čista električna vozila za mestne potrebe.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">Slika 2: Twizy Z.E. (Renault) – 100-odstotno električno in komunikativno vozilo za sodobne meščane</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Vir: »Avtomobili« [Renault], b. d.</p>
+    <p xml:id="pb37.p3" xml:lang="sl">• Tovorna vozila so že doslej dosegla zavidljiv tehnološki razvoj. Nova tovorna vozila bodo imela poleg katalizatorjev tudi filtre za delce, ki so največji problem izpušnih plinov predvsem starejših vozil. Bistveno novih rešitev, razen v opremi z informacijsko tehnologijo, podobno tisti za osebna vozila, ni pričakovati. Teža vlečnih vozil je v razmerju s tovorom praktično optimalna. Sodobni računalniki v vozilu vozniku že omogočajo prilagajanje hitrosti vožnje – in s tem porabe goriva – glede na tovor, stanje ceste, relacijo vožnje in čas dostave.</p>
+    <p xml:id="pb37.p4" xml:lang="sl">Slika 3: tovorno vozilo Mercedes Econic Vir: »Tovorna vozila« [Mercedes – Benz], b. d.</p>
+    <p xml:id="pb37.p5" xml:lang="sl">• Avtobusi za mestni, primestni in daljinski prevoz bodo imeli razen manjše teže, ki je omejena z varnostnimi predpisi in obratovalnimi pogoji, tudi sodobne motorje na stisnjen zemeljski plin ali biodizelsko gorivo. Relativno kratke relacije v Sloveniji omogočajo že danes uporabo teh okolju prijaznih goriv. Tehnologija je v svetu preizkušena in tudi uveljavljena. Vsa vozila bodo bolje zaščitena proti soncu in klimatizirana. Ugodje pri potovanju ne bo manjše kot pri osebnih vozilih. V mestnem in primestnem prometu bodo uporabljali vozila z nizkim podom ter z napravami za vstop invalidov in mater z otroki na vozičkih. Vsa vozila bodo opremljena z avtomatskim menjalnikom, ki omogoča prijetno vožnjo in bistveno manj utruja voznika.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">Slika 4: avtobus Mercedes - Benz travego Vir: »Novosti« [Avto. Info], 2008</p>
+    <p xml:id="pb38.p2" xml:lang="sl">• Tramvaj, eno najstarejših prevoznih sredstev v večjih in manjših mestih, postaja ponovno zanimivo sredstvo. V kombinaciji s primestno in podzemno železnico z enako širino tirov, kot jo ima standardna železnica, bo lahko zadostil zahtevam okolju ustreznega javnega prometa v manjših in srednje velikih mestih. Novi tramvaji so grajeni iz lahkih materialov. Imajo zelo nizek pod (100 – 200 mm nad tlemi), zato je vstopanje in izstopanje potnikov lahko. Zaradi uporabe novih tipov koles z vstavljenim elastičnim obročem in tihih elektromotorjev povzroča le malo hrupa. Sodobna elektronika omogoča vračanje energije zaviranja nazaj v omrežje, zato je poraba elektrike relativno majhna.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">Največja težava, ki omejuje širšo uporabo sodobnih tramvajev, je z gradnjo spodnjega ustroja-tirov. Moteči so tudi blodeči tokovi v okolici tirov, ki se pojavljajo zaradi ozemljitve vozila. Nedvomno pa bodo vsaj srednje velika mesta morala zgraditi tramvajske linije v smereh največjega prometa, ker je le v mestih z več kot milijon prebivalcev sprejemljiva kot edina rešitev izgradnja podzemne železnice. Potovalna hitrost avtobusov je zaradi drugega cestnega prometa bistveno omejena, zato ima tramvaj dvakrat višjo potovalno hitrost od mestnega avtobusa.</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">Slika 5: Tramvaj</p>
+    <p xml:id="pb39.p2" xml:lang="sl">Vir: »Ponovna oživitev načrtov za ljubljanski tramvaj« [Finance], 25. marec 2008</p>
+    <p xml:id="pb39.p3" xml:lang="sl">• Potniški vlak bo v prihodnje osnova udobnega, hitrega in varnejšega prevoza potnikov na srednje in večje razdalje v smereh glavnih prometnih poti. Potniški vlak je doživel preporod z uporabo nagibne tehnike za hitro vožnjo tudi na starih progah, kjer omogoča skoraj dvakrat višje povprečne hitrosti od klasičnih vlakov. Takšne vlake so že nabavile tudi Slovenske železnice. Poseben napredek pa v svetu dosegajo hitri vlaki (TGV – train a grande velocite) na Japonskem in v številnih deželah Evrope (v Franciji, Nemčiji in na Nizozemskem), seveda na novih, posebej zadnje grajenih progah. Hitrosti do 300 km/h niso več redke. Novi vlaki so na kratkih progah (300–500 km) že hitrejši od letal, saj pripeljejo potnika naravnost v središče mesta v istem času, kot se to doseže pri potovanjih z letali.</p>
+    <p xml:id="pb39.p4" xml:lang="sl">Odpadejo posebni prevozi do letališč ali od letališč, zamudno prijavljanje na let, oddaja in sprejem prtljage, zamude zaradi vremena in posebnih varnostnih ukrepov.</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">Kljub veliko manjši povprečni hitrosti (250 namesto 700 km/h) je čas potovanja z vlakom enak ali krajši, cena prevoza je nižja, ugodje potovanja pa bistveno večje.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">Sodobni hitri vlaki so vsi na električni pogon in uporabljajo klasični tirni sistem.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">Njihova velika slabost je le občutljivost za kakovost proge in velik hrup. Zato morajo biti proge vkopane, v predorih oziroma protihrupno ograjene za zaščito okolja (Novak, 2002, str. 82–86).</p>
+    <p xml:id="pb40.p4" xml:lang="sl">Slika 6: potniški vlak</p>
+    <p xml:id="pb40.p5" xml:lang="sl">Vir: »Galerija« [Vlaki info], 13. april 2007</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">2 ANALIZA STANJA MESTNEGA PROMETA NA PTUJU</p>
+    <p xml:id="pb41.p2" xml:lang="sl">2.1 Prometni sistem mesta Ptuj</p>
+    <p xml:id="pb41.p3" xml:lang="sl">Ptuj je mesto in središče Mestne občine Ptuj in je najstarejše mesto na Slovenskem.</p>
+    <p xml:id="pb41.p4" xml:lang="sl">Površina mesta znaša 66,7 km2, leži pa na nadmorski višini 232 m. Leži v SV delu Slovenije. Obdajajo ga Slovenske gorice in Haloze ter Dravsko in Ptujsko polje. Mimo Ptuja poteka tudi zgodovinsko pomemben prehod čez Dravo. Skozi mesto vodi železnica s Pragerskega v Ormož in naprej v Mursko Soboto oziroma na Hrvaško in Madžarsko. Leta 1992 so Ptuju priključili bližnja naselja Breg, Brstje, Budina, Krčevina pri Ptuju, Nova vas pri Ptuju, Orešje, Rabelčja vas, Rogoznica, Turnišče, Vičava in Žabjak.</p>
+    <p xml:id="pb41.p5" xml:lang="sl">Novejši del mesta s stanovanjskimi bloki in s posameznimi hišami se širi na severozahod proti dolini Grajene, na sever do vznožja Ptujskih goric in na severovzhod proti dolini Rogoznice (»Ptuj« [Wikipedija], b. d.).</p>
+    <p xml:id="pb41.p6" xml:lang="sl">Stanje in trend širitve poselitve mesta Ptuj sta danes usmerjena izrazito severno od središča mesta, kar prestavlja težišče prostorskega razvoja občine globoko na levi breg Drave. Intenzivnost gradnje individualnih hiš pretežno na območjih severno od središča (Orešje, Krčevina, Štuki, Kicar) je problematična z vidika zagotavljanja infrastrukture, dostopnosti do izobraževalnih in drugih javnih ustanov ter dostopa na desni breg Drave, od koder bo prihajala večina razvojnih impulzov. Do neuravnoteženosti med razvojem mesta na levem in desnem bregu Drave prihaja tudi zaradi omejenih možnosti gradnje in razvoja na desnem bregu, ki je posledica strogih varstvenih ukrepov zaradi varovanja arheoloških najdišč.</p>
+    <p xml:id="pb41.p7" xml:lang="sl">Načrtovana prometna infrastruktura državnega in mednarodnega pomena prinaša v okolje nove izzive. Trasa hitre ceste H2 (Gradec – Maribor – Ptuj – Zagreb) se približa Ptuju na zahodni strani in ustvarja vozlišče z načrtovano hitro cesto Slovenska Bistrica</p>
+    <p xml:id="pb41.p8" xml:lang="sl">– Ptuj – Ormož v neposredni bližini Ptuja na desnem bregu (Z) Drave. Novo dimenzijo v prostor prinaša tudi nov južni cestni most čez Dravo. Obenem prihaja skozi Ptuj tudi drugi tir železnice v okviru 5. koridorja Barcelona – Kijev.</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">Poleg tega predstavlja vstop Slovenije v EU za Ptuj možnost zagotavljanja dobrih pogojev za tuje investicije, saj bomo ob dobrih infrastrukturnih pogojih sposobni ponuditi tudi kakovostno delovno silo v obliki dnevnih migracij iz Hrvaške, kar je z vidika investitorja najbolj ugodno. Tudi turizem na Ptuju je pred novim investicijskim ciklom (gradnja novih bazenskih površin in nastanitvenih zmogljivosti), ki gravitira predvsem na desni breg Drave (območje term in golfskega igrišča) (»Prometna infrastruktura« [Predstavitev Mestne občine Ptuj], b. d.).</p>
+    <p xml:id="pb42.p2" xml:lang="sl">2.2 Cestno omrežje</p>
+    <p xml:id="pb42.p3" xml:lang="sl">Mesto Ptuj je središče podravske regije, kjer je zelo gosto cestnoprometno omrežje. V okolici poteka glavna cesta Maribor – Zgornja Hajdina – Zagreb s povezavo proti Ormožu in s križiščem v Spuhlji za Borl – Varaždin. S Ptuja peljejo regionalne ceste proti Slovenski Bistrici, skozi Majšperk in Poljčane, naprej proti Slovenskim Konjicam; čez Vurberk proti Mariboru; skozi Janežovce proti Senarski; skozi Juršince proti Radencem. Zapostavljena je cesta od Ptuja preko Slovenskih goric proti Pomurju.</p>
+    <p xml:id="pb42.p4" xml:lang="sl">Ker se je v zadnjih letih zelo močno razvil osebni in tovorni promet skozi Ormož – Maribor, je postal Ptuj ozko grlo oziroma prehod.</p>
+    <p xml:id="pb42.p5" xml:lang="sl">Pred gradnjo novega avtocestnega križa Slovenska Bistrica – Hajdina – Ptuj – Ormož ter avtoceste Slivnica – Gruškovje je potekal po glavni cesti Maribor – Gruškovje močan notranji, meddržavni in tranzitni promet med Severno in Južno Evropo, kar je povzročalo močne obremenitve in zastoje tako za ceste kot okolje.</p>
+    <p xml:id="pb42.p6" xml:lang="sl">Z izgradnjo Puhovega mostu leta 2007 se je razbremenilo samo mestno jedro Ptuja, saj je tranzitni tovorni promet skozi Ptuj iz Ljubljane in Maribora v celoti preusmerjen preko krožnega križišča v Dražencih na Puhov most in naprej proti Ormožu, izgradnja je obsegala tudi del obvozne ceste mimo mestnega središča, s katero so se bistveno zmanjšale obremenitve mestnega okolja z izpušnimi plini in hrupom. Most je namenjen tako tranzitnemu kot lokalnemu prometu in je bistveno skrajšal potovalni čas med Ormožem in Slovensko Bistrico ter Ormožem in Mariborom.</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">Slika 7: Karta prometnih obremenitev 2008</p>
+    <p xml:id="pb43.p2" xml:lang="sl">Vir: »Promet«[Direkcija Republike Slovenije za ceste], b. d.</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">V nadaljevanju bomo predstavili cestno omrežje Mestne občine Ptuj.</p>
+    <p xml:id="pb44.p2" xml:lang="sl">Glavne cestne povezave, ki potekajo skozi Mestno občino Ptuj</p>
+    <p xml:id="pb44.p3" xml:lang="sl">• Avtoceste</p>
+    <p xml:id="pb44.p4" xml:lang="sl">A4: Slivnica - Draženci</p>
+    <p xml:id="pb44.p5" xml:lang="sl">Do zdaj najpomembnejši avtocestni krak za Ptuj je bil zgrajen julija 2009.</p>
+    <p xml:id="pb44.p6" xml:lang="sl">Avtocesta je načrtovana kot štiripasovnica z odstavnimi pasovi in vmesnim ločilnim pasom s prečnim profilom 26,2 m. Gradbeni odsek se sestoji iz dveh prometnih odsekov, in sicer Slivnica – Hajdina in Hajdina – Draženci.</p>
+    <p xml:id="pb44.p7" xml:lang="sl">Na celotni trasi A4 je bilo zgrajeno: 4 mostovi, 16 nadvozov v skupni dolžini 1282 m, 8 podvozov v skupni dolžini 359 m, 1 viadukt dolžine 286 m in 2 čez železnico v Hajdini, dolžine 336 m desni in 334 m levi.</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Slika 8: skica avtocestnega odseka Slivnica - Draženci Vir: »O avtocestah« [Direkcija Republike Slovenije za ceste], b. d.</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Za ptujsko območje sta bila pred zgraditvijo avtocestnega odseka A4 zelo pomembna še dva avtocestna odseka: A1 in A5.</p>
+    <p xml:id="pb45.p2" xml:lang="sl">A1: Šentilj – Srmin:</p>
+    <p xml:id="pb45.p3" xml:lang="sl">Štajerski avtocestni krak je sestavni del avtoceste A1 in je dolg 135,8 km ter teče skozi Šentilj – Pesnica – Maribor – Slivnica – Fram, Hoče – Arja vas – Vransko – Blagovica</p>
+    <p xml:id="pb45.p4" xml:lang="sl">– Ljubljana – Zadobrova.</p>
+    <p xml:id="pb45.p5" xml:lang="sl">Iz Ptuja pridemo do avtoceste A1 čez Hajdino – Kidričevo – Pragersko – Slovenska Bistrica, ter se priključimo na avtocesto pri uvozu za Ljubljano.</p>
+    <p xml:id="pb45.p6" xml:lang="sl">A5: Maribor – Pince:</p>
+    <p xml:id="pb45.p7" xml:lang="sl">Štiripasovna avtocesta A5 povezuje Maribor (Dragučova) in Pince na slovensko – madžarski meji, in teče skozi Maribor – Lenart – Spodnja Senarska – Cogetinci – Vučja vas – Beltinci – Lendava – Pince.</p>
+    <p xml:id="pb45.p8" xml:lang="sl">Na avtocesto A5 se priključimo, če se iz Ptuja peljemo po glavni cesti v smeri Lenarta (»Nacionalni program izgradnje avtocest« [DARS – Povezujemo Slovenijo], b. d.).</p>
+    <p xml:id="pb45.p9" xml:lang="sl">• Glavne ceste</p>
+    <p xml:id="pb45.p10" xml:lang="sl">Za prometno dostopnost občine Ptuj so najbolj pomembne ceste: glavna cesta I. reda ter regionalne ceste I. in III. reda.</p>
+    <p xml:id="pb45.p11" xml:lang="sl">V smeri sever – jug potekata glavni cesti:</p>
+    <p xml:id="pb45.p12" xml:lang="sl">1 – Vič – Dravograd – Maribor (Koroški most) – Tezno – Hajdina (Ptuj); 9 – Hajdina (Ptuj) – Gruškovje.</p>
+    <p xml:id="pb45.p13" xml:lang="sl">V smeri zahod – vzhod pa poteka glavna cesta:</p>
+    <p xml:id="pb45.p14" xml:lang="sl">2 – Slovenska Bistrica – Hajdina – Ptuj – Ormož – Središče ob Dravi.</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">• Regionalne ceste Regionalne ceste I. reda:</p>
+    <p xml:id="pb46.p2" xml:lang="sl">229 – Ptuj – Rogoznica – Senarska – Lenart; 228 – Spuhlja – Zavrč.</p>
+    <p xml:id="pb46.p3" xml:lang="sl">Od glavne ceste Slovenska Bistrica – Hajdina – Ptuj proti jugu se odcepi regionalna cesta II. reda:</p>
+    <p xml:id="pb46.p4" xml:lang="sl">432 – Hajdina (Ptuj) – Majšperk – Rogatec.</p>
+    <p xml:id="pb46.p5" xml:lang="sl">Regionalne ceste III. reda (Drnovšek, 1998, str. 2–8): 710 – Maribor – Vurberg – Ptuj; 711 – Fram – Rače – Hajdina; 712 – Žihlava – Rogoznica (Ptuj); 713 – Ljutomer – Savci – Ptuj.</p>
+    <p xml:id="pb46.p6" xml:lang="sl">2.3 Obremenjenost</p>
+    <p xml:id="pb46.p7" xml:lang="sl">Mesto Ptuj in njegova bližnja okolica sta obremenjena na različnih področjih: prometna obremenjenost in obremenjenost okolja (»Gospodarstvo in okolje« [Predstavitev Mestne občine Ptuj], december 2007).</p>
+    <p xml:id="pb46.p8" xml:lang="sl">Prometna obremenjenost</p>
+    <p xml:id="pb46.p9" xml:lang="sl">Mesto ločuje tok reke Drave na levi in desni breg ter glavne tranzitne ceste, ki povezujejo območje spodnjega Podravja z osrednjim delom države. Tranzitne ceste so predvsem iz smeri Ljubljane in Maribora proti mednarodnemu mejnemu prehodu Zavrč ter Ormožu na jugu ter cestne povezave proti Gornji Radgoni in Murski Soboti.</p>
+    <p xml:id="pb46.p10" xml:lang="sl">Neposredno ob mestu poteka avtocestni odsek Maribor – Podlehnik. Mesto Ptuj meji na severu na gričevje Slovenskih goric in Haloz na jugu, je v sredini Dravskega in Ptujskega polja, ki se proti zahodu ozirata v pohorske obronke.</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Poleg prometne problematike na glavnih prometnicah se le-te uporabljajo tudi za pretok kriminala, kjer izstopa predvsem povezava proti Mariboru, pogosto pa tudi proti Lenartu in Ormožu (»Občinski program varnosti Mestne občine Ptuj« [Lex Localis], september 2008).</p>
+    <p xml:id="pb47.p2" xml:lang="sl">Ogroženost cestnega prometa v naseljih</p>
+    <p xml:id="pb47.p3" xml:lang="sl">Po statističnih podatkih policije se največ prometnih nesreč pripeti na cestah v naselju z uličnim sistemom. V samem mestu Ptuj posebej izstopajo Maistrova ulica, Trstenjakova ulica in Osojnikova ulica.</p>
+    <p xml:id="pb47.p4" xml:lang="sl">Do manjših prometnih nesreč (večina I. kategorije) prihaja na Volkmerjevi cesti pri vhodu na parkirišče. Najpogostejši vzrok je neupoštevanje prepovedi zavijanja v levo.</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Kljub pogosti prisotnosti policistov in občasno občinskih redarjev so kršitve na tem delu pogoste.</p>
+    <p xml:id="pb47.p6" xml:lang="sl">Najbolj ogrožena kategorija udeležencev v naselju so pešci in vozniki koles z motorjem.</p>
+    <p xml:id="pb47.p7" xml:lang="sl">Slednji predstavljajo tudi veliko nevarnost v območjih umirjenega prometa, kjer poleg tega, da ne upoštevajo signalizacije, ne uporabljajo čelad, nimajo vozniških dovoljenj in registriranih vozil, zaradi česar je ukrepanje zoper njih oteženo, večina poizkusov ukrepanja pa pogosto povzroči beg pred uradnimi osebami, kar povzroča še dodatno nevarnost za druge udeležence in kršitelje same.</p>
+    <p xml:id="pb47.p8" xml:lang="sl">Ogroženost cestnega prometa izven naselij</p>
+    <p xml:id="pb47.p9" xml:lang="sl">Zaradi povezav z mejnimi prehodi sta prometno močno obremenjeni cesti Ptuj – Zavrč in Ptuj – Ormož. Omenjena cestna povezava se je v zadnjem času nekoliko sprostila.</p>
+    <p xml:id="pb47.p10" xml:lang="sl">Promet namesto skozi center mesta in po Ormoški cesti sedaj poteka po ptujski obvoznici preko novega Puhovega mostu, kjer je priključek na Ormoško cesto v krožišču s Puhovo ulico.</p>
+    <p xml:id="pb47.p11" xml:lang="sl">Zaradi vožnje na delo in z dela preko tedna so prometno obremenjene predvsem v jutranjem in popoldanskem času vse mestne vpadnice, dodatno pa še ob vikendih ter v času poletne turistične sezone.</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">Za vse ceste izven naselja lahko kot prevladujoči vzrok in največji dejavnik tveganja opredelimo preveliko hitrost ter nepravilno smer in stran vožnje. Vse našteto je mogoče zmanjšati izključno z rednim oziroma pogostejšim nadzorom.</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Ogroženost občinskih javnih poti in rekreacijskih površin</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Prevladujoč dejavnik tveganja na teh površinah je neupoštevanje signalizacije oziroma vožnje z motornimi vozili na poteh, ki so namenjene pešcem. Gre predvsem za kolesa z motorjem, motorna kolesa ter tri- in štirikolesnike. Neupoštevanje teh predpisov negativno vpliva na občutek varnosti državljanov.</p>
+    <p xml:id="pb48.p4" xml:lang="sl">Ogroženost okolja</p>
+    <p xml:id="pb48.p5" xml:lang="sl">V Skupni občinski upravi občin v Spodnjem Podravju deluje komunalna inšpekcija, ki izvaja nadzor nad odlaganjem in ravnanjem s komunalnimi odpadki v Mestni občini Ptuj. Gre za nadzor nad vključevanjem fizičnih in pravnih oseb v redni odvoz komunalnih odpadkov ter pravilno ločevanje odpadkov. Glede na veliko pokritost rednega odvoza odpadkov je primerov, ko gospodinjstva nimajo urejenega odvoza, majhno. Največji problem predstavljajo manjša divja odlagališča na manj obljudenih lokacijah ter odlaganje odpadkov v zbiralnice ločenih frakcij, ki so namenjene za točno določene vrste surovin in ne za kosovne ali za posebno nevarne odpadke. Z rednimi nadzori in obhodi po kritičnih lokacijah se zmanjša možnost nedovoljenega oziroma nepravilnega odlaganja odpadkov.</p>
+    <p xml:id="pb48.p6" xml:lang="sl">Na območju Mestne občine Ptuj so pogoste tudi kršitve prepovedi vožnje z vozili v naravnem okolju. Kot kraj kršitev se pojavljajo predvsem površine na območju mestnega parka ob reki Dravi in parka Ljudski vrt, kjer je vožnja z vozili prepovedana.</p>
+    <p xml:id="pb48.p7" xml:lang="sl">Med kršitelji so predvsem vozniki različnih motornih vozil. Ta območja najpogosteje uporabljajo vozniki motornih koles v kros ali enduro izvedbi. Vozniki takšnih vozil prekomerno obremenjujejo in uničujejo okolje, saj vozijo po površinah, ki niso namenjene cestnemu prometu (gozdne, planinske in transverzalne pešpoti in druge poti).</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">2.4 Problematika Mirujoči promet</p>
+    <p xml:id="pb49.p2" xml:lang="sl">V letu 2006 so v MO Ptuj sprejeli nov Odlok o ureditvi cestnega prometa na območju MO Ptuj (Uradni vestnik MO Ptuj, št. 4/06, 12/06). Iz poročil dela Skupne občinske uprave za leto 2005 in 2006 je razvidno, da je problematika na področju parkiranja vezana predvsem na večje število parkiranih vozil na določenih območjih (npr. okoli blokovskih naselij, v industrijski coni itd.). V programu dela Skupne občinske uprave za leto 2007 so že podani konkretni predlogi za izboljšanje stanja po področju mirujočega prometa .</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Na območju MO Ptuj se nahajajo naslednja parkirišča (»Stanje okolja« [Občinski program varstva okolja za Mestno občino Ptuj], december 2007):</p>
+    <p xml:id="pb49.p4" xml:lang="sl">• Plačljiva parkirišča, ki so namenjena dolgotrajnemu parkiranju:</p>
+    <p xml:id="pb49.p5" xml:lang="sl">° parkirišče Potrčeva cesta (za avtobusno postajo) – 210 parkirnih mest;</p>
+    <p xml:id="pb49.p6" xml:lang="sl">° parkirišče Lackova ulica – 110 parkirnih mest;</p>
+    <p xml:id="pb49.p7" xml:lang="sl">° garažna hiša Lackova ulica – 105 parkirnih mest.</p>
+    <p xml:id="pb49.p8" xml:lang="sl">• Plačljiva parkirišča, ki omogočajo kratkotrajno parkiranje (od 60 do 120 minut oziroma 240 minut) – modra cona, kjer je možno parkirnino plačati na trinajstih parkirnih avtomatih:</p>
+    <p xml:id="pb49.p9" xml:lang="sl">° parkirišče Stadion – 100 parkirnih mest;</p>
+    <p xml:id="pb49.p10" xml:lang="sl">° parkirišče Rimska ploščad – 102 parkirni mesti;</p>
+    <p xml:id="pb49.p11" xml:lang="sl">° več parkirišč v ožjem centru mesta – 286 parkirnih mest.</p>
+    <p xml:id="pb49.p12" xml:lang="sl">• Brezplačna parkirišča, ki omogočajo dolgotrajno parkiranje:</p>
+    <p xml:id="pb49.p13" xml:lang="sl">° parkirišče pod gradom – 53 parkirnih mest;</p>
+    <p xml:id="pb49.p14" xml:lang="sl">° parkirišče na lokaciji bivših vojaških skladišč – približno 300 parkirnih mest;</p>
+    <p xml:id="pb49.p15" xml:lang="sl">° parkirišče na Združenem trgu – približno 300 parkirnih mest;</p>
+    <p xml:id="pb49.p16" xml:lang="sl">° parkirišče pri železniški postaji – približno 50 parkirnih mest;</p>
+    <p xml:id="pb49.p17" xml:lang="sl">° parkirišče ob Potrčevi cesti pri bolnišnici – 25 parkirnih mest.</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">Omenjena parkirišča so urejena ali delno urejena. Zraven teh parkirišč obstajajo v mestu še parkirišča, ki so v lasti in upravljanju privatnih podjetij in so večinoma plačljiva (parkirišče pri blagovnici Mercator, parkirišče z garažno hišo pri trgovini Spar, parkirišče Iblo) ali neplačljiva (parkirišče pri nakupovalnem središču Qlandia, parkirišče pri nakupovalnem središču Obi).</p>
+    <p xml:id="pb50.p2" xml:lang="sl">Za upravljanje s parkirišči in odvoz nepravilno parkiranih vozil skrbi Komunalno podjetje Ptuj, d. d.</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Tekoči promet</p>
+    <p xml:id="pb50.p4" xml:lang="sl">Glavni problemi, ki se pojavljajo (»Občinski program varstva okolja« [Predstavitev Mestne občine Ptuj], december 2007) :</p>
+    <p xml:id="pb50.p5" xml:lang="sl">• zastoji v jutranjih urah in popoldanskih konicah v zelo dolge zajezitvene dolžine v vse smeri (predvsem pa iz smeri Ormož);</p>
+    <p xml:id="pb50.p6" xml:lang="sl">• velike hitrosti vozil – vsaj 5 % voznikov zelo prekoračuje hitrost na odsekih, kjer se nahaja veliko pešcev;</p>
+    <p xml:id="pb50.p7" xml:lang="sl">• trgovski centri, ki narekujejo pozicijo novih križišč;</p>
+    <p xml:id="pb50.p8" xml:lang="sl">• nekategorizirane kolesarske poti v MO Ptuj;</p>
+    <p xml:id="pb50.p9" xml:lang="sl">• hrup;</p>
+    <p xml:id="pb50.p10" xml:lang="sl">• staro mestno jedro zaradi tega, ker predstavlja alternativo za hitrejše vključevanje oziroma bližnjico, na kateri se razvijajo velike hitrosti;</p>
+    <p xml:id="pb50.p11" xml:lang="sl">• avtobusna postaja, za katero je predvidena prestavitev. Trenutna lokacija avtobusne postaje je s stališča dostopa do glavnih atrakcij in strukture potnikov nekoliko boljša.</p>
+    <p xml:id="pb50.p12" xml:lang="sl">2.5 Prometna varnost</p>
+    <p xml:id="pb50.p13" xml:lang="sl">Varnost cestnega prometa je ena temeljnih kakovosti prometnega sistema. Vsak udeleženec v cestnem prometu ali uporabnik prometne storitve želi imeti varen prometni sistem, ki zadovoljuje njegove potrebe in pričakovanja. V tem pomenu je varen cestni promet tudi odgovornost države in lokalnih skupnosti. Od stopnje varnosti cestnega prometa je odvisna kakovost življenja uporabnikov javnih prometnih površin.</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">Zagotavljanje večje varnosti v cestnem prometu je možno s spodbujanjem udeležencev v prometu k odgovornejšemu vedenju, spoštovanju predpisov in oblikovanju zavesti o pomenu prometne varnosti, z zagotavljanjem varnejših vozil in sodobne cestne infrastrukture, kar morajo zagotavljati načrtovalci, proizvajalci, vzdrževalci ter cestne nadzorne službe. V sistemu je varnost prometa odvisna od odgovornega ravnanja posameznika, vzgojno izobraževalnih institucij, preventivnih organizacij, medijev, represivnih in pravosodnih organov, civilne družbe, gospodarskih družb, vodstva samoupravnih lokalnih skupnosti in državnih organov. Vsak ima svoj del odgovornosti za večjo varnost in lahko prispeva k njeni uresničitvi.</p>
+    <p xml:id="pb51.p2" xml:lang="sl">Smotri in cilji programa varnosti cestnega prometa Smotri programa varnosti cestnega prometa:</p>
+    <p xml:id="pb51.p3" xml:lang="sl">• dvig prometno varnostne kulture na primerljiv nivo – povprečje Evropske unije;</p>
+    <p xml:id="pb51.p4" xml:lang="sl">• dobro medsebojno povezovanje in sodelovanje z organi in organizacijami na državnem, regionalnem – medobčinskem nivoju ter civilno družbo;</p>
+    <p xml:id="pb51.p5" xml:lang="sl">• izboljšati uporabnost in varnost cestnega omrežja od načrtovanja, izvedbe, vzdrževanja in nadzora;</p>
+    <p xml:id="pb51.p6" xml:lang="sl">• z vzgojo, izobraževanjem ter preventivnimi in represivnimi ukrepi izboljšati slabo vedenje v prometu.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">Tabela 3: število prometnih nesreč in posledice v letu 2010</p>
+    <p xml:id="pb52.p2" xml:lang="sl">Skupno število prometnih nesreč 447 Prometne nesreče s smrtnim izidom 1 Prometne nesreče s telesno poškodbo 160 Prometne nesreče z materialno škodo 286 Huda telesna poškodba 4 Lahka telesna poškodba 217 Nepravilna stran in smer vožnje 75 Nepravilno prehitevanje 12 Neprilagojena hitrost 14 Izsiljevanje prednosti 93 Neustrezna varnostna razdalja 94 Premiki z vozilom 125 Nepravilna hoja pešcev 1</p>
+    <p xml:id="pb52.p3" xml:lang="sl">Vir: »Ocena prometno varnostnih razmer«[O mestu Ptuj], februar 2011 2.6 Razvoj mesta Ptuj Gospodarstvo</p>
+    <p xml:id="pb52.p4" xml:lang="sl">V Mestni občini Ptuj se je v zadnjih letih razvilo veliko število majhnih in srednje velikih podjetij, ki postajajo čedalje pomembnejši nosilec razvoja naše občine, ustvarjajo pa tudi nova delovna mesta in se lahko pohvalijo z nekaj uveljavljenimi blagovnimi znamkami. Še posebej razveseljivo pa je, da v njih nastajajo tudi razvojno – raziskovalne enote.</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">Tako je v Mestni občini Ptuj (podatki AJPES za leto 2005) 448 gospodarskih družb, od tega večina, kar 426 majhnih, 15 srednjih in 7 velikih družb. Po številu zaposlenih in po vrednosti aktive v letu 2005 je najpomembnejše področje v Mestni občini Ptuj predelovalna dejavnost. Družbe s tega področja zaposlujejo več kot tretjino delavcev in razpolagajo s 40 odstotki vseh sredstev v občini. Po številu družb in po doseženi vrednosti čistih prihodkov od prodaje so v ospredju družbe storitvenih dejavnosti, med njimi izstopa področje trgovine, popravil motornih vozil in izdelkov široke porabe. Na tem področju deluje 158 družb (35,3 %), ki skupaj ustvarijo polovico čistih prihodkov od prodaje, prav tako pa zaposlujejo slabo tretjino delavcev (»Gospodarstvo in okolje« [Predstavitev Mestne občine Ptuj], b. d.).</p>
+    <p xml:id="pb53.p2" xml:lang="sl">Ukrepi na področju gospodarskega razvoja</p>
+    <p xml:id="pb53.p3" xml:lang="sl">Občina je v zadnjih letih za spodbujanje gospodarskega razvoja intenzivno uporabljala najpomembnejši instrument iz svojih pristojnosti – priprava in sprejemanje prostorskih aktov. S tem so omogočili veliko število investicij, razvoj novih dejavnosti in prestrukturiranje obstoječih, kar vse je imelo vpliv na ohranjanje delovnih mest in odpiranje novih. Tudi lokalna skupnost je bila ves čas pomemben investitor.</p>
+    <p xml:id="pb53.p4" xml:lang="sl">Sprejeli so ukrep, ki omogoča za obdobje dveh let oprostitve plačila nadomestila za uporabo stavbnih zemljišč pri proizvodnih podjetjih in podjetjih, ki se ukvarjajo z dejavnostjo raziskovanja in razvoja. Pogoji za oprostitev so izvedene investicije in nove zaposlitve.</p>
+    <p xml:id="pb53.p5" xml:lang="sl">Sredstva iz proračuna namenjajo tudi za obnove poslovnih prostorov v lasti občine, ki jih ponudijo podjetnikom za izvajanje poslovnih dejavnosti.</p>
+    <p xml:id="pb53.p6" xml:lang="sl">Sprejeli so Pravilnik o dodeljevanju pomoči za razvoj podjetništva v Mestni občini Ptuj, ki omogoča dodeljevanje nepovratnih finančnih sredstev za uresničevanje ciljev občine na področju razvoja podjetništva (»Ukrepi občine na področju gospodarskega razvoja« [Predstavitev Mestne občine Ptuj], b. d.).</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">Poslovne cone</p>
+    <p xml:id="pb54.p2" xml:lang="sl">Pomemben vidik v razvoju gospodarstva predstavlja razširitev in posodobitev industrijsko-obrtne cone na jugovzhodu mesta Ptuj. Ureditev javne gospodarske infrastrukture v poslovnih conah pomeni hitrejši in enakomernejši gospodarski razvoj, zmanjšanje brezposelnosti, hitrejše odpiranje kakovostnih delovnih mest in povečanje prihodka podjetij in prebivalstva na celotnem območju regije. V sodelovanju s sosednjimi občinami načrtujejo izgradnjo poslovno logističnih con na obeh straneh ceste proti prehodu Gruškovje, ki bodo primerne za tuje investitorje, saj bodo lokacijsko še na območju EU, delovno silo pa bi lahko vzeli iz držav bivše Jugoslavije.</p>
+    <p xml:id="pb54.p3" xml:lang="sl">Vlagatelji, tako domači kot tuji, so v minulih letih kupili veliko privlačnih zemljišč, na katerih so ali bodo zgradili poslovne objekte in trgovske centre, ki veliko prispevajo k nadaljnjemu razvoju MO Ptuj in Spodnjega Podravja v celoti, predvsem pa trgovske dejavnosti. Prav tako je bilo prodanih precej površin, na katerih bodo kupci zgradili industrijske obrate, s tem pa se bo povečalo število delovnih mest na programih z višjo dodano vrednostjo.</p>
+    <p xml:id="pb54.p4" xml:lang="sl">Dobro razvito gospodarstvo v mestu bo pozitivno vplivalo tudi na investitorje, ki želijo vlagati v starem mestnem jedru (»Poslovne cone« [Predstavitev Mestne občine Ptuj], b. d.).</p>
+    <p xml:id="pb54.p5" xml:lang="sl">Slika 9: industrijska cona na Ptuju</p>
+    <p xml:id="pb54.p6" xml:lang="sl">Vir: »Poslovne cone« [Predstavitev mestne občine Ptuj], b. d.</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">Razvoj trgovskih centrov</p>
+    <p xml:id="pb55.p2" xml:lang="sl">Zakaj so nam, sodobnim potrošnikom, trgovski centri tako zanimivi?</p>
+    <p xml:id="pb55.p3" xml:lang="sl">Dejstvo je, da nakupovalna središča vse bolj prevzemajo vlogo mestnih jeder in s tem nase prevzemajo poleg oskrbne tudi socialno in simbolno funkcijo. Postajajo območja socialnih stikov med ljudmi, oskrbovanje pa prerašča v posebno obliko doživetja, zaradi česar se v nakupovalnih centrih množijo zabavne prireditve, celo priložnostne razstave, v njih deluje veliko storitvenih dejavnosti, kot so turistične agencije, servisi, poskrbljeno je tudi za najmlajše z igrali ipd. Vse to pritegne ljudi, ki tam iščejo zabavo, družbo, način preživljanja prostega časa.</p>
+    <p xml:id="pb55.p4" xml:lang="sl">Poleg tega je obiskovalcem – za razliko od mestnih jeder – na voljo dovolj brezplačnih parkirnih mest, poleg tega pa vse dobijo na enem mestu in pod isto streho. V novejšem času pa se blagovno potrošnjo združuje tudi s kulturo.</p>
+    <p xml:id="pb55.p5" xml:lang="sl">Mali trgovci v mestnem jedru seveda ne morejo konkurirati profesionalni, marketinško naravnani ponudbi velikih trgovin in nižjim cenam, kakršne dosegajo velike trgovske organizacije. Zavedati se morajo, da je njihova ponudba skromna, verjetno tudi neustrezna, lokali pa premajhni (Golob, 2010).</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="sl">3 PREDLOG REŠITVE</p>
+    <p xml:id="pb56.p2" xml:lang="sl">Reševanje obravnavanih problemov zahteva veliko pozornost od oblasti, Mestne občine Ptuj, da skupaj z zainteresiranimi in možnimi vlagatelji ter izvajalci identificirajo prometne in komunikacijske tokove na območju Mestne občine Ptuj. Pri tem je treba upoštevati vse vidike problema tako iz socialnega, ekonomskega ter ekološkega dela in najti skupno točko, ki bo prinesla dobre ter trajne rešitve.</p>
+    <p xml:id="pb56.p3" xml:lang="sl">3.1 Rešitve za mirujoči promet v središču mesta</p>
+    <p xml:id="pb56.p4" xml:lang="sl">Najti ustrezne rešitve za mirujoči promet je izrednega pomena v današnjem času, saj smo prostorsko omejeni. Zato je potrebno, da iz tega naredimo nekaj boljšega, kar bi prineslo dolgoročne rešitve. V Mestni občini Ptuj z večino parkirišč, ki so v središču mesta, upravlja kar sama občina. Zasebna podjetja, javne gospodarske službe ter poslovno – stanovanjska poslopja imajo zelo malo svojega parkirnega prostora, kar pomeni, da so brezplačna parkirišča ob jutranji konici že zasedena. Tako prihajajoči po opravkih, nakupih itd. nimajo prostora, kjer bi lahko brezplačno parkirali, kar povzroča kot posledico veliko nepravilnega parkiranja, saj je večini žal plačati parkirnino, ki pa se seveda spreminja glede na okolico, v kateri se nahaja parkirišče.</p>
+    <p xml:id="pb56.p5" xml:lang="sl">V strogem središču je parkirnina nekoliko dražja kot parkirnina za parkirišče, ki je oddaljeno od strogega središča nekaj sto metrov. Problem je tudi, da so ljudje, ki so zaposleni v središču, včasih prisiljeni parkirati tudi na plačljivem parkirišču, kar pomeni dodatni strošek, saj gre za dolgotrajnejšo parkiranje – torej vsakodnevno od 8 do 10 ur.</p>
+    <p xml:id="pb56.p6" xml:lang="sl">Možna rešitev bi bilo parkirišče oziroma garažna hiša v industrijskem delu mesta. Z navezo Avtobusne postaje Ptuj bi lahko Mestna občina Ptuj vzpostavila avtobusno linijo ob jutranji in popoldanski prometni konici vsaj enega avtobusa, ki bi pripeljal ljudi v središče mesta. Tako bi se čez samo mesto peljalo veliko manj avtomobilov.</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=57">
+    <p xml:id="pb57.p1" xml:lang="sl">3.1.1 Parkirni sistemi za avtomobile Parkirni sistemi rešujejo problem parkiranja.</p>
+    <p xml:id="pb57.p2" xml:lang="sl">Ključna rešitev je ustvariti parkirna mesta v nadstropjih, v višino ali pod zemljo. Z mehanskim parkirnim sistemom je lahko izkoriščen ves prostor nad zemljo in pod zemljo. Npr. za 50 parkirnih sistemov je potrebno samo 50 m2 zemljišča. Parkirni sistemi so nameščeni v bližini stanovanj in stanovanjskih naselij z ustreznimi parkirnimi rešitvami.</p>
+    <p xml:id="pb57.p3" xml:lang="sl">Visoka stopnja prilagodljivosti parkirnih sistemov omogoča več možnosti za ohranjanje zelene okolice in prostora za sproščanje in prosti čas. Vozila so zaščitena pred zunanjimi vremenskimi vplivi in ljudi, ki namerno povzročajo škodo.</p>
+    <p xml:id="pb57.p4" xml:lang="sl">Kako deluje puzzle parkirni sistem?</p>
+    <p xml:id="pb57.p5" xml:lang="sl">Vsako parkirno mesto ima ploščad za nalaganje avtomobila. Avto se zapelje naravnost na ploščadi v pritličju. Nakladalna ploščad se nato premakne vertikalno in horizontalno na določeno prosto parkirno mesto v konstrukciji. Ko pridemo nazaj po avto, pa se ostale parkirne ploščadi umaknejo tako, da se nam avtomobil pripelje nazaj v pritličje vertikalno. Voznik se nato usede v avtomobil in odpelje s parkirne ploščadi.</p>
+    <p xml:id="pb57.p6" xml:lang="sl">Katere so prednosti sistema parkirni stolpi?</p>
+    <p xml:id="pb57.p7" xml:lang="sl">Prednosti sistema parkirni stolpi so:</p>
+    <p xml:id="pb57.p8" xml:lang="sl">• varčnost z energijo;</p>
+    <p xml:id="pb57.p9" xml:lang="sl">• nizka stopnja hrupnosti;</p>
+    <p xml:id="pb57.p10" xml:lang="sl">• hitrost;</p>
+    <p xml:id="pb57.p11" xml:lang="sl">• enostavno upravljanje;</p>
+    <p xml:id="pb57.p12" xml:lang="sl">• nezahtevno vzdrževanje.</p>
+    <p xml:id="pb57.p13" xml:lang="sl">Skupaj s pomočjo tehnologije obračalne plošče je stolp primeren za hitro direktno parkiranje in prevzem avtomobila.</p>
+  </page>
+  <page xml:id="pb58" n="58" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=58">
+    <p xml:id="pb58.p1" xml:lang="sl">3.1.2 Vrste parkirnih sistemov Enostavne parkirne ploščadi</p>
+    <p xml:id="pb58.p2" xml:lang="sl">Enostaven parkirni sistem EPP je neodvisen parkirni sistem. Njegovo delovanje poteka vertikalno. Sistem je primeren za vse tipe vozil.</p>
+    <p xml:id="pb58.p3" xml:lang="sl">Prednosti enostavnih parkirnih ploščadi:</p>
+    <p xml:id="pb58.p4" xml:lang="sl">• vertikalni pomik;</p>
+    <p xml:id="pb58.p5" xml:lang="sl">• neodvisen sistem;</p>
+    <p xml:id="pb58.p6" xml:lang="sl">• notranja in zunanja uporaba.</p>
+    <p xml:id="pb58.p7" xml:lang="sl">Slika 10: Enostavna parkirna ploščad Vir: »Izdelki« [Steyrlift], b. d.</p>
+  </page>
+  <page xml:id="pb59" n="59" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=59">
+    <p xml:id="pb59.p1" xml:lang="sl">Puzzle parkirni sistem</p>
+    <p xml:id="pb59.p2" xml:lang="sl">Za puzzle parkirne sisteme je značilna možnost vertikalnega in horizontalnega premikanja ploščadi. Poznamo dva tipa sistemov (s štirimi stebri podprti PZL in PZL z nosilci zadaj). Sama postavitev je lahko nadzemna kot tudi deloma v zemljo.</p>
+    <p xml:id="pb59.p3" xml:lang="sl">Prednosti puzzle sistema so:</p>
+    <p xml:id="pb59.p4" xml:lang="sl">• videz kompaktnosti;</p>
+    <p xml:id="pb59.p5" xml:lang="sl">• vertikalni in horizontalni premik;</p>
+    <p xml:id="pb59.p6" xml:lang="sl">• možna dodatna zaščita konstrukcije.</p>
+    <p xml:id="pb59.p7" xml:lang="sl">Puzzle parkirni sistem z nosilci zadaj:</p>
+    <p xml:id="pb59.p8" xml:lang="sl">Puzzle z nosilci zadaj se glede na obliko prostorov delijo na tipe, popolnoma nad zemljo in polovico pod zemljo. Glede na zahteve lege se puzzle sistemi lahko delijo tudi na enovrstne in večvrstne.</p>
+    <p xml:id="pb59.p9" xml:lang="sl">Puzzle podzemni parkirni sistem:</p>
+    <p xml:id="pb59.p10" xml:lang="sl">Lastnosti in prednosti sistema: vertikalni in horizontalni premik, funkcionalnost, prilagodljivost, izkoriščenost prostora.</p>
+  </page>
+  <page xml:id="pb60" n="60" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=60">
+    <p xml:id="pb60.p1" xml:lang="sl">Slika 11: Puzzle parkirni sistem Vir: »Izdelki« [Steyrlift], b.d.</p>
+    <p xml:id="pb60.p2" xml:lang="sl">Mini parkirni sistem</p>
+    <p xml:id="pb60.p3" xml:lang="sl">To je enostaven parkirni sistem z verižnim pogonom. Enostaven parkirni sistem ima enostavno strukturo, enostavno upravljanje, lahko ga uporabljajo podjetja, institucije in zasebna stanovanja. Na isti površini se lahko za enkrat poveča prostor za parkiranje.</p>
+    <p xml:id="pb60.p4" xml:lang="sl">Prednosti mini parkirnega sistema:</p>
+    <p xml:id="pb60.p5" xml:lang="sl">• enostaven za uporabo;</p>
+    <p xml:id="pb60.p6" xml:lang="sl">• majhen in praktičen;</p>
+    <p xml:id="pb60.p7" xml:lang="sl">• možna naknadna zamenjava mesta postavitve sistema.</p>
+  </page>
+  <page xml:id="pb61" n="61" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=61">
+    <p xml:id="pb61.p1" xml:lang="sl">Slika 12: Mini parkirni sistem Vir: »Izdelki« [Steyrlift], b.d.</p>
+    <p xml:id="pb61.p2" xml:lang="sl">Parkirni stolpi</p>
+    <p xml:id="pb61.p3" xml:lang="sl">Ta tip parkirnega sistema ima visoko stopnjo koriščenja prostora. Na območju 50 m2 lahko običajno parkiramo dva avtomobila. Toda na istem območju lahko postavimo 25 nadstropij visok objekt s 50 parkirnimi prostori. Na primer objekt s 5 povezanimi enotami vertikalnega dvigovalnega sistema pokrije le 300 m2 prostora in ima kapaciteto za 250 avtomobilov.</p>
+  </page>
+  <page xml:id="pb62" n="62" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=62">
+    <p xml:id="pb62.p1" xml:lang="sl">Slika 13: Parkirni stolp Vir: »Proizvodi« [Nagra], b.d.</p>
+    <p xml:id="pb62.p2" xml:lang="sl">Parkirne krožne ploščadi</p>
+    <p xml:id="pb62.p3" xml:lang="sl">Za ozke prostore, kjer je dovoljen le en vhod/izhod, je najboljša izbira krožna ploščad.</p>
+    <p xml:id="pb62.p4" xml:lang="sl">Prednosti:</p>
+    <p xml:id="pb62.p5" xml:lang="sl">• funkcionalnost;</p>
+    <p xml:id="pb62.p6" xml:lang="sl">• varnost;</p>
+    <p xml:id="pb62.p7" xml:lang="sl">• neopaznost.</p>
+  </page>
+  <page xml:id="pb63" n="63" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=63">
+    <p xml:id="pb63.p1" xml:lang="sl">Slika 14: Parkirna krožna ploščad Vir: »Izdelki« [Steyrlift], b.d.</p>
+    <p xml:id="pb63.p2" xml:lang="sl">Večnivojski parkirni sistem</p>
+    <p xml:id="pb63.p3" xml:lang="sl">Večnivojski model je popolnoma avtomatiziran parkirni sistem, v zadnjih letih zelo pogosto uporabljen v stanovanjskih in poslovnih objektih glede na oblike avtomatiziranega parkirnega sistema. Omogoča hitro parkiranje s premikanjem avtomobilov vertikalno in horizontalno od naklada do mostu.</p>
+    <p xml:id="pb63.p4" xml:lang="sl">Prednosti tega tipa parkirnega sistema so fleksibilna oblika vhoda in izhoda, velika kapaciteta in preprosta oblika. Primeren je za območja z manj prostora, z visokimi zahtevami za zeleno okolje in za območja z malo parkirnimi mesti.</p>
+  </page>
+  <page xml:id="pb64" n="64" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=64">
+    <p xml:id="pb64.p1" xml:lang="sl">Slika 15: Večnivojski parkirni sistem Vir: »Izdelki« [Steyrlift], b.d.</p>
+    <p xml:id="pb64.p2" xml:lang="sl">Avto-dvigala</p>
+    <p xml:id="pb64.p3" xml:lang="sl">Hidravlično avto-dvigalo za osebna vozila z dvema stranskima cilindroma se uporablja za dviganje oziroma spuščanje osebnih vozil med dvema etažama brez zapustitve vozila z vso pripadajočo varnostno opremo. Maksimalna nosilnost avto-dvigala je 3000 kilogramov.</p>
+  </page>
+  <page xml:id="pb65" n="65" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=65">
+    <p xml:id="pb65.p1" xml:lang="sl">Slika 16: Avto dvigalo</p>
+    <p xml:id="pb65.p2" xml:lang="sl">Vir. »Izdelki« [Steyrlift], b.d.</p>
+    <p xml:id="pb65.p3" xml:lang="sl">Dvižne ploščadi</p>
+    <p xml:id="pb65.p4" xml:lang="sl">Glede na želje in potrebe kupca se lahko dvižne ploščadi izdelajo v različnih dimenzijah in nosilnosti.</p>
+    <p xml:id="pb65.p5" xml:lang="sl">Primerne so pri načrtovanju garažnih hiš pri stanovanjskih hišah, kjer je problematika pomanjkanja prostora (»Parkirni sistemi« [Predstavitev Steyrlift], b.d.).</p>
+    <p xml:id="pb65.p6" xml:lang="sl">Slika 17: Dvižna ploščad Vir: »Izdelki« [Steyrlift], b.d.</p>
+  </page>
+  <page xml:id="pb66" n="66" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=66">
+    <p xml:id="pb66.p1" xml:lang="sl">3.1.3 Parkirni sistemi za kolesa</p>
+    <p xml:id="pb66.p2" xml:lang="sl">V zadnjem času je kolesarjenje postalo trend za mlade in tudi starejše, kar lahko pozitivno vpliva na zmanjšanje prometa in števila avtomobilov v mestu in na okolje.</p>
+    <p xml:id="pb66.p3" xml:lang="sl">Zato je treba prenoviti parkirni sistem tudi za kolesa z ustreznimi parkirišči, ki jemljejo veliko manj prostora, če so ustrezno postavljena na različnih mestih. Tako kolesa ne bi stala nepravilno postavljena vsepovsod, kar bi pomenilo tudi večjo varnost za kolesarja, da ne ostane brez kolesa in ostale lastnine.</p>
+    <p xml:id="pb66.p4" xml:lang="sl">3.1.4 Vrste parkirnih sistemov za kolesa Enojno stojalo za kolesa Slika 18: Enojno stojalo za kolo Vir: »Spletna trgovina« [Ziegler], b.d.</p>
+  </page>
+  <page xml:id="pb67" n="67" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=67">
+    <p xml:id="pb67.p1" xml:lang="sl">Vrstno stojalo za kolesa Slika 19: Vrstno stojalo za kolesa Vir: »Spletna trgovina« [Ziegler], b.d.</p>
+    <p xml:id="pb67.p2" xml:lang="sl">Stojala za kolesa za stensko ali stropno pritrditev Slika 20: Stojalo za kolesa za stensko ali stropno pritrditev Vir: »Spletna trgovina« [Ziegler], b.d.</p>
+    <p xml:id="pb67.p3" xml:lang="sl">Enojni nasloni za kolesa Slika 21: Naslon za kolo</p>
+    <p xml:id="pb67.p4" xml:lang="sl">Vir: »Spletna trgovina« [Ziegler], b.d.</p>
+  </page>
+  <page xml:id="pb68" n="68" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=68">
+    <p xml:id="pb68.p1" xml:lang="sl">3.2 Rešitve za tekoči promet</p>
+    <p xml:id="pb68.p2" xml:lang="sl">Spremembe ter prilagajanje na nov življenjski stil in na njegovo hitrost sta ključna za korak naprej v razvoju prometa v mestih in okolici. Prenova in sodobna ureditev cest ter ulic bi prinesla v mesto veliko izboljšanje ter zmanjšanje velikih gneč ob prometnih konicah, predvsem v jutranjih in popoldanskih urah, ko je na cesti največ avtomobilov ter drugih motornih vozil. Potrebno je vzpodbujanje k zmanjšani uporabi motornih vozil v staro mestno jedro ter povečanje aktivnosti hoje oziroma alternativnih vozil, kot so kolo, skiro itd.</p>
+    <p xml:id="pb68.p3" xml:lang="sl">Nov pristop pri reševanju problemov prometa in oživljanja javnih prostorov v mestih izhaja iz naslednjih predpostavk (»Vlaganje v trajnostni promet« [Dobrodošli v Ljubljani – glavnem mestu Slovenije], 16. marec 2010) :</p>
+    <p xml:id="pb68.p4" xml:lang="sl">• da je javno življenje v mestu povezano s prostorom, ki je osvobojen tekočega in mirujočega motornega prometa;</p>
+    <p xml:id="pb68.p5" xml:lang="sl">• da je hoja edini naravni način gibanja po mestu, ki spodbuja mestni način življenja v javnih prostorih;</p>
+    <p xml:id="pb68.p6" xml:lang="sl">• da širitev cest in cestne mreže motorni promet povečuje in ga privablja v mesta;</p>
+    <p xml:id="pb68.p7" xml:lang="sl">• da se ljudje ne vozijo v mesto, če tam ne morejo parkirati;</p>
+    <p xml:id="pb68.p8" xml:lang="sl">• naj učinkovit in udoben javni prevoz ne bo dopolnilo, ampak nadomestilo za vožnjo z osebnim avtomobilom;</p>
+    <p xml:id="pb68.p9" xml:lang="sl">• da je mogoče samo z reorganizacijo pretovora in razvažanja blaga omejiti število in dolžino voženj dostavnih in tovornih vozil po mestu;</p>
+    <p xml:id="pb68.p10" xml:lang="sl">• da je minil čas, v katerem se je promet urejal na način, ki daje prednost avtomobilu na račun pešcev in kolesarjev;</p>
+    <p xml:id="pb68.p11" xml:lang="sl">• naj bo v prihodnje politika urejanja prometa v mestih naklonjena predvsem pešcem in kolesarjem v povezavi z različnimi vrstami javnega prevoza;</p>
+    <p xml:id="pb68.p12" xml:lang="sl">• da je uvedba takse za vožnjo avtomobilov po mestu najbolj primeren vir za financiranje javnega prevoza in izboljšanje pogojev za hojo in kolesarjenje.</p>
+  </page>
+  <page xml:id="pb69" n="69" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=69">
+    <p xml:id="pb69.p1" xml:lang="sl">Primeri reševanja s kontroliranim vstopom v mestna jedra ter plačevanje cestnin (»Kontrola dostopa« [Predstavitev SITSA – C – Slovenska ITS arhitektura – modul Ceste], 2007): London</p>
+    <p xml:id="pb69.p2" xml:lang="sl">Februarja leta 2003 so uvedli v mestno shemo (Congestion Charging) s sistemom kamer s prepoznavanjem registrskih tablic in zaračunavanjem vstopa v mestno središče ob delavnikih:</p>
+    <p xml:id="pb69.p3" xml:lang="sl">Zaradi uvedbe območja omejenega prometa in plačevanja so pričakovali:</p>
+    <p xml:id="pb69.p4" xml:lang="sl">• zmanjšanje prometnih zastojev predvsem zaradi zmanjšanja tranzitnega prometa;</p>
+    <p xml:id="pb69.p5" xml:lang="sl">• večja uporaba mestnega javnega potniškega prometa;</p>
+    <p xml:id="pb69.p6" xml:lang="sl">• učinkovitejše gospodarstvo zaradi hitrejšega gibanja blaga in ljudi;</p>
+    <p xml:id="pb69.p7" xml:lang="sl">• boljši pogoji za kolesarjenje in pešačenje;</p>
+    <p xml:id="pb69.p8" xml:lang="sl">• zmanjšanje onesnaževanja ozračja ter hrupa.</p>
+    <p xml:id="pb69.p9" xml:lang="sl">Pričakovano zmanjšanje prometa zajema:</p>
+    <p xml:id="pb69.p10" xml:lang="sl">• zmanjšanje prometnih volumnov znotraj varovanega območja (za 10 do 15 %);</p>
+    <p xml:id="pb69.p11" xml:lang="sl">• manjšanje časa čakanja v kolonah (za 20 do 30 %) in zvišanje hitrosti (10–15 %);</p>
+    <p xml:id="pb69.p12" xml:lang="sl">• zmanjšanje prometnih volumnov na radialnih dovoznih vezeh (za 5 do 10 %);</p>
+    <p xml:id="pb69.p13" xml:lang="sl">• zvišanje prometnih volumnov v zaledju območja omejenega prometa, torej na</p>
+    <p xml:id="pb69.p14" xml:lang="sl">obvoznih vezeh okoli obravnavane cone (do 5 %);</p>
+    <p xml:id="pb69.p15" xml:lang="sl">• skupno zmanjšanje prometnih obremenitev na mestnem območju (za 1 do 2 %).</p>
+    <p xml:id="pb69.p16" xml:lang="sl">Obratovanje novega prometnega sistema so spremljali z obširnim monitoringom prometa, družbenih in gospodarskih kazalcev. Po prvem letu (Congestion Charging) so ugotovili:</p>
+    <p xml:id="pb69.p17" xml:lang="sl">• prometni zastoji so se zmanjšali v skladu s pričakovanji;</p>
+    <p xml:id="pb69.p18" xml:lang="sl">• obratovanje mestnega potniškega prometa se je močno izboljšalo (vse več</p>
+    <p xml:id="pb69.p19" xml:lang="sl">zadovoljnih potnikov);</p>
+    <p xml:id="pb69.p20" xml:lang="sl">• dostava in servisne dejavnosti so veliko bolj zanesljive in učinkovite.</p>
+  </page>
+  <page xml:id="pb70" n="70" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=70">
+    <p xml:id="pb70.p1" xml:lang="sl">Za uvedbo novega prometnega režima so pripravili močno promocijsko kampanjo v sredstvih javnega obveščanja s posebnimi brošurami, letaki in spletnimi stranmi. Prav tako redno obveščajo javnost o trenutnih prometnih kazalcih in spremljajo javno mnenje.</p>
+    <p xml:id="pb70.p2" xml:lang="sl">Trodheim (enak način omejevanja prometa je še v Bergnu in Oslu).</p>
+    <p xml:id="pb70.p3" xml:lang="sl">Leta 1991 so uvedli območje omejenega prometa. Mestno območje je razdeljeno na sektorje. Kontrola dostopa in zaračunavanje za vstop vozila v mesto se izvaja samodejno:</p>
+    <p xml:id="pb70.p4" xml:lang="sl">• kontrola dostopa se izvaja ob delavnikih med šesto uro zjutraj in šesto uro zvečer;</p>
+    <p xml:id="pb70.p5" xml:lang="sl">• indukcijske zanke, s katerimi izvajajo kontrolo dostopa, so razporejene po vsej coni;</p>
+    <p xml:id="pb70.p6" xml:lang="sl">• cena vstopa v omejeno območje se odšteva s kartice, ki je pritrjena na vozilo, ob vsakem prevozu kontrolne točke. Dobroimetje na kartici je vezano na kartico in ne na vozilo. Prebivalcem cone omejenega prometa in tistim, ki živijo na meji cone, so omogočeni različni popusti;</p>
+    <p xml:id="pb70.p7" xml:lang="sl">• na nekaterih kontrolnih točkah so postavljeni avtomati za plačevanje cestnine za vozila brez elektronske kartice;</p>
+    <p xml:id="pb70.p8" xml:lang="sl">• višina cestnin se spreminja glede na čas v dnevu; višje so v času pričakovanih prometnih konic; cena za vstop tovornega vozila je dvojna.</p>
+    <p xml:id="pb70.p9" xml:lang="sl">Pridobitve:</p>
+    <p xml:id="pb70.p10" xml:lang="sl">• promet v konicah se je zmanjšal za 10 % takoj po uvedbi cone omejenega prometa;</p>
+    <p xml:id="pb70.p11" xml:lang="sl">• dohodki so namenjeni za vzdrževanje in izboljšanje prometne mreže,</p>
+    <p xml:id="pb70.p12" xml:lang="sl">• zaradi omejitev za osebna vozila so nadgradili javni potniški promet; površine za kolesarje in omogočili brezplačni najem koles;</p>
+    <p xml:id="pb70.p13" xml:lang="sl">• javnomnenjske raziskave so pokazale, da je 72 % prebivalcev mesta pred uveljavitvijo sprememb nasprotovalo novi prometni ureditvi, dva meseca po uveljavitvi sprememb jih je bilo proti še 48 %. Po preteku pet let je coni omejenega prometa nasprotovalo še 36 % prebivalcev.</p>
+  </page>
+  <page xml:id="pb71" n="71" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=71">
+    <p xml:id="pb71.p1" xml:lang="sl">Barcelona</p>
+    <p xml:id="pb71.p2" xml:lang="sl">V času olimpijskih iger leta 1992 so v Barceloni postavili sodoben sistem ukrepov kontrole dostopa za varovanje stanovanjskih predelov v bližini olimpijskih prizorišč:</p>
+    <p xml:id="pb71.p3" xml:lang="sl">• na vhodih v varovana območja so postavili fizične ovire (zapornice, premične stebričke). Leta 1995 so ukrepe omejevanja prometa razširili na historično mestno jedro;</p>
+    <p xml:id="pb71.p4" xml:lang="sl">• stalno dovoljenje za vstop v varovano cono imajo stanovalci, vsi ostali pa si lahko priskrbijo začasna dovoljenja, npr. gradbeni delavci v času izvajanja del. Dovoljenja nadzorujejo z avtomatskim sistemom za odpiranje prehoda. Voznik lahko na vhodu v nadzorovano območje vstopi v stik z dispečerskim centrom ob kateremkoli času preko avdia ali video naprave.</p>
+    <p xml:id="pb71.p5" xml:lang="sl">Rezultati omejevanja prometa s kontrolo dostopa v Barceloni so:</p>
+    <p xml:id="pb71.p6" xml:lang="sl">• število vozil, ki vstopajo v varovana območja, se je zmanjšalo za tretjino;</p>
+    <p xml:id="pb71.p7" xml:lang="sl">• dostopnost do parkirnih mest v teh območjih se je zvišala za 15 %.</p>
+    <p xml:id="pb71.p8" xml:lang="sl">Singapur</p>
+    <p xml:id="pb71.p9" xml:lang="sl">Cona omejenega prometa z zaračunavanjem zajema poslovna območja, kjer velja omejitev od pol osmih zjutraj do sedmih zvečer, ter na cestah izven avtocestnega obroča, kjer velja omejitev v jutranji konici:</p>
+    <p xml:id="pb71.p10" xml:lang="sl">• leta 1975 so uvedli ročni sistem kontrole dostopa in pobiranja plačil, od leta 1998 pa je uveljavljen avtomatski elektronski sistem;</p>
+    <p xml:id="pb71.p11" xml:lang="sl">• elektronske plačilne kartice so pritrjene na vetrobransko steklo vozil. Kupi ali napolni se jih lahko na vhodnih točkah v cono omejitev, na bankah, bencinskih črpalkah in avtomatih;</p>
+    <p xml:id="pb71.p12" xml:lang="sl">• ko vozilo prepelje kontrolno točko, se cena vstopa samodejno odšteje. Višina plačila je na različnih cestah različna, spreminja se glede na čas vožnje.</p>
+  </page>
+  <page xml:id="pb72" n="72" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=72">
+    <p xml:id="pb72.p1" xml:lang="sl">Pridobitve:</p>
+    <p xml:id="pb72.p2" xml:lang="sl">• takoj po uveljavitvi omejitev s plačilom se je število vozil v konici zmanjšalo za 24.700, potovalne hitrosti pa so zrasle za 22 %;</p>
+    <p xml:id="pb72.p3" xml:lang="sl">• število vozil v coni omejenega prometa v času cestninjenja je padlo z 270.000 na 235.100, kar je 13 % manj;</p>
+    <p xml:id="pb72.p4" xml:lang="sl">• občutno se je zmanjšalo število potovanj z le eno osebo v vozilu.</p>
+    <p xml:id="pb72.p5" xml:lang="sl">Evropski teden mobilnosti</p>
+    <p xml:id="pb72.p6" xml:lang="sl">Prebivalce Evrope skrbi vedno večja uporaba osebnih avtomobilov v mestnem prometu.</p>
+    <p xml:id="pb72.p7" xml:lang="sl">Zlasti v mestih veliko ljudi trpi zaradi slabše kakovosti življenja, število avtomobilov pa se še kar veča. Raziskave, izvedene med evropskim tednom mobilnosti, kažejo, da je veliko državljanov zaskrbljenih zaradi kakovosti zraka, ki ga vsakodnevno vdihavajo, in da uvrščajo onesnaženost zraka med svoje največje okoljske skrbi.</p>
+    <p xml:id="pb72.p8" xml:lang="sl">Večina prebivalcev Evropske unije je zato naklonjena vzpodbujanju oblik prevoza, ki so najbolj prijazne do okolja. Podpirajo zamisli o povečanju zelenih površin, pločnikov in kolesarskih stez, da bi tako poživili sosesko, prispevali k boljši kakovosti zraka in zmanjšali zvočno onesnaženost v mestu.</p>
+    <p xml:id="pb72.p9" xml:lang="sl">Potuj pametneje, živi bolje je bila osrednja tema evropskega projekta mobilnosti, ki je leta 2009 potekala v 31 slovenskih občinah, kar je rekordno število sodelujočih v Sloveniji. Številna mesta in kraji so zaprli del svojih ulic za avtomobile in izvedli različne ukrepe za trajnostno mobilnost z namenom spodbuditi večjo telesno dejavnost, odpravljati čezmerno telesno težo in debelost, večati kakovost življenja v mestih, zmanjševati slabo kakovost zraka.</p>
+    <p xml:id="pb72.p10" xml:lang="sl">Na podoben način kot akcija Dan brez avtomobila iz leta 2009 bi lahko v mestu Ptuj uvedli za začetek vikende brez avtomobila v središču mesta. Akcija bi potekala v poletnih mesecih dva dni v tednu od jutra do večera, ko je mesto polno avtomobilov, razen ponoči. Dovoljeno bi bilo le za stanovalce v jedru mesta, da lahko odidejo z avtomobilom iz mesta.</p>
+  </page>
+  <page xml:id="pb73" n="73" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=73">
+    <p xml:id="pb73.p1" xml:lang="sl">Na takšen način bi ljudem nevsiljivo dali možnost za preizkus, ali se lahko odrečejo za tako kratek čas avtomobilu in ponovno obudijo trend pešačenja ali kolesarjenja po mestu.</p>
+    <p xml:id="pb73.p2" xml:lang="sl">Ker je mestno jedro prostorsko majhno in polno, pomeni, da je tudi ureditev prometa zelo težko prenoviti. Zato bi bilo najučinkoviteje mesto zapreti na način, ki je opisan zgoraj, v tem času pa bi bila plačljiva parkirišča, ki so zunaj jedra mesta, za te dneve brezplačna. S tem bi zmanjšali tekoči promet v mestu ter pripomogli k temu, da vsaj za kak dan mesto očistimo izpušnih plinov ter drugih nevarnih snovi.</p>
+    <p xml:id="pb73.p3" xml:lang="sl">Sodobna ureditev javnega prevoza</p>
+    <p xml:id="pb73.p4" xml:lang="sl">Začaran krog upadanja mestnih središč (Mezghani, 2006):</p>
+    <p xml:id="pb73.p5" xml:lang="sl">Mezghani navaja rešitve za zmanjšanje števila avtomobilov, gneče ter počasni JP naslednje rešitve: »Treba je ustrezno spremeniti avtomobilski promet ter vzpostaviti nadzor nad parkiranjem. Posledica tega je manj prometa z avtomobili, manjša gneča ter možnost večjega zaslužka javnega prevoza.</p>
+    <p xml:id="pb73.p6" xml:lang="sl">- več avtomobilov</p>
+    <p xml:id="pb73.p7" xml:lang="sl">- večja gneča</p>
+    <p xml:id="pb73.p8" xml:lang="sl">-počasnejši JP</p>
+    <p xml:id="pb73.p9" xml:lang="sl">- znižana oskrba JP</p>
+    <p xml:id="pb73.p10" xml:lang="sl">- mestna središča manj zanimiva</p>
+    <p xml:id="pb73.p11" xml:lang="sl">- prenos dejavnost na obrobja mest</p>
+    <p xml:id="pb73.p12" xml:lang="sl">- nižja kakovost JP</p>
+    <p xml:id="pb73.p13" xml:lang="sl">- manj uporabnikov</p>
+    <p xml:id="pb73.p14" xml:lang="sl">JP</p>
+    <p xml:id="pb73.p15" xml:lang="sl">- nižji dohodki JP</p>
+    <p xml:id="pb73.p16" xml:lang="sl">- širjenje mest</p>
+    <p xml:id="pb73.p17" xml:lang="sl">- več ljudi odvisnih od avtomobila</p>
+    <p xml:id="pb73.p18" xml:lang="sl">- več cest</p>
+  </page>
+  <page xml:id="pb74" n="74" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=74">
+    <p xml:id="pb74.p1" xml:lang="sl">Iz tega sledi dvoje:</p>
+    <p xml:id="pb74.p2" xml:lang="sl">• dvig dejanske hitrosti vozil javnega prevoza, dvig stroškovne učinkovitosti javnega prevoza, višja kakovost javnega prevoza. To prinaša več uporabnikov javnega prevoza ter višje dohodke, nižje subvencioniranje in javni prevoz postane bolj tržno usmerjen. Tako postane javni prevoz tržno prilagodljivejši;</p>
+    <p xml:id="pb74.p3" xml:lang="sl">• učinkovitejša uporaba cestnega omrežja in dražji individualni prevoz. To prinese večji nadzor rasti mestnega življenja in mestna središča postanejo spet bolj atraktivna za ljudi. Posledica tega je dvig kvalitete življenja v mestu […].</p>
+    <p xml:id="pb74.p4" xml:lang="sl">Javni prevoz – JP je:</p>
+    <p xml:id="pb74.p5" xml:lang="sl">• manjši strošek za skupnost;</p>
+    <p xml:id="pb74.p6" xml:lang="sl">• potrebuje manj mestnega prostora;</p>
+    <p xml:id="pb74.p7" xml:lang="sl">• je manj energetsko intenziven;</p>
+    <p xml:id="pb74.p8" xml:lang="sl">• manj onesnažuje;</p>
+    <p xml:id="pb74.p9" xml:lang="sl">• je varnejši;</p>
+    <p xml:id="pb74.p10" xml:lang="sl">• izboljšuje dostopnost do delovnih mest;</p>
+    <p xml:id="pb74.p11" xml:lang="sl">• omogoča prevoz vsem.</p>
+    <p xml:id="pb74.p12" xml:lang="sl">Urbano načrtovanje, namenjeno javnemu prevozu – zgoščevanje mesta je stroškovno učinkovitejše od širjenja mest:</p>
+    <p xml:id="pb74.p13" xml:lang="sl">• zaustavitev širjenja mest (zgoščeno mesto);</p>
+    <p xml:id="pb74.p14" xml:lang="sl">• podpora zgoščevanju okoli postaj in poti JP;</p>
+    <p xml:id="pb74.p15" xml:lang="sl">• vzpodbujanje združevalne dejavnosti;</p>
+    <p xml:id="pb74.p16" xml:lang="sl">• omejevanje gradenj na praznem prostoru;</p>
+    <p xml:id="pb74.p17" xml:lang="sl">• nadzor parkirnih standardov za stanovanjske, poslovne in komercialne stavbe;</p>
+    <p xml:id="pb74.p18" xml:lang="sl">• podpora stanovanjskim območjem brez osebnih vozil;</p>
+    <p xml:id="pb74.p19" xml:lang="sl">• zagotovitev skladnosti stanovanjskih politik.«</p>
+    <p xml:id="pb74.p20" xml:lang="sl">Mezghani (2006) meni: »Treba je spremeniti potovalni čas v prednost. Večinoma ljudje dojemajo porabljen čas v javnem prevozu kot izgubljen čas v primerjavi z osebnim prevozom.</p>
+  </page>
+  <page xml:id="pb75" n="75" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=75">
+    <p xml:id="pb75.p1" xml:lang="sl">Zato:</p>
+    <p xml:id="pb75.p2" xml:lang="sl">• potnik se mora v sistemu javnega prevoza počutiti lagodno: ogrevanje, klimatizacija, mirno okolje, novice, glasba …;</p>
+    <p xml:id="pb75.p3" xml:lang="sl">• storitev prevoza mora biti prirejena glede na posebne potrebe ljudi: kakovost, vrsta prevoza – avtobus ali vlak, prilagoditev rešitev javnega prevoza posebnim potrebam;</p>
+    <p xml:id="pb75.p4" xml:lang="sl">• promoviranje prednosti javnega prevoza, ki zagotavljajo storitve, ki niso dostopne uporabnikom v osebnih vozilih […].</p>
+    <p xml:id="pb75.p5" xml:lang="sl">Običajni načini javnega prevoza ne omogočajo prevoza od vrat do vrat v vseh primerih.</p>
+    <p xml:id="pb75.p6" xml:lang="sl">• Javni prevoz naj bo dopolnjen s prožnimi rešitvami z namenom ponudbe vsestranskih prevoznih paketov;</p>
+    <p xml:id="pb75.p7" xml:lang="sl">• vključitev sheme »parkiraj in uporabi JP« (Park &amp; Ride) je spodbuda za uporabo javnega prevoza s strani voznikov osebnih vozil;</p>
+    <p xml:id="pb75.p8" xml:lang="sl">• delitev avtomobila omogoča po potrebi uporabo avtomobila za »zanesljive« uporabnike javnega prevoza;</p>
+    <p xml:id="pb75.p9" xml:lang="sl">• delitev taksija in prevoz na zahtevo sta primerna za redko naseljena območja.« 3.3 Rešitve za ponovno oživitev mesta</p>
+    <p xml:id="pb75.p10" xml:lang="sl">Golob pravi: »Glede na dejstvo, da je mnogim zahodnoevropskim mestom v zadnjem obdobju uspelo revitalizirati mestna jedra, lahko seveda pri njih poiščemo primere dobre prakse. Da bi zaustavili ekonomski, fizični in socialni propad mestnega jedra in obrnili trend razvoja mestnega središča spet v pozitivno smer, bi bilo treba sprejeti vrsto med seboj prepletenih kompleksnih rešitev. O urejanju tekočega, mirujočega prometa in peščevih površin kot tudi o obravnavi mestnega odprtega prostora ter prepoznavnosti in trženju mesta kot blagovne znamke.</p>
+    <p xml:id="pb75.p11" xml:lang="sl">Mesto mora vnovič postati privlačen prostor tako za bivanje kot tudi za druženje in nakupovanje. Mali trgovci in drugi ponudniki storitev se morajo na vsak način povezati med seboj, se dogovoriti za enoten delovni čas, podaljšati odpiralni čas kdaj tudi zvečer in ob koncih tedna.</p>
+  </page>
+  <page xml:id="pb76" n="76" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=76">
+    <p xml:id="pb76.p1" xml:lang="sl">Trgovci se morajo povezovati tudi z gostinci in kulturniki ter izvajati skupno promocijo.</p>
+    <p xml:id="pb76.p2" xml:lang="sl">Ker so v mestnem jedru manjše trgovine, bi morale biti te specializirane, ponujati boljše blagovne znamke, kar bi bilo tudi v skladu s kulturno-varstvenim pomenom prostora.</p>
+    <p xml:id="pb76.p3" xml:lang="sl">Predvsem pa se morajo prizadevati za mnogo boljšo urejenost svojih lokalov in izložb, katerih podoba je danes, s kakšno svetlo izjemo, zares žalostna.</p>
+    <p xml:id="pb76.p4" xml:lang="sl">Za razliko od brezosebnih trgovskih centrov bi morali trgovci v mestu gojiti osebnejši stik s svojimi kupci ter tako spoznavati njihove nakupovalne navade in želje.</p>
+    <p xml:id="pb76.p5" xml:lang="sl">Ob vsem naštetem pa je treba težiti tudi k rekonstrukciji socialne strukture v mestnem jedru, ki se je vsa stoletja trgovanja v mestu izkazala za uspešno, danes pa naenkrat ni več aktualna. Ta temelji na funkcionalni razdelitvi hiše na stanovanje v nadstropju ter na poslovni lokal v pritličju. Trgovec ali obrtnik je tako lastnik in je s svojim bivanjem ter z dejavnostjo, s katero morda res ne bo obogatel, mu bo pa zagotavljala solidno preživetje, vpet v mestno dogajanje, do katerega, tudi zaradi osebnih koristi, goji ustrezen odnos. Tu se lahko zgledujemo po praksi v italijanskih mestih, ki ni nikoli zamrla, spet pa se pospešeno vrača tudi v druga evropska mesta.</p>
+    <p xml:id="pb76.p6" xml:lang="sl">Kljub temu se moramo zavedati, da so nakupovalna središča na obrobju mest sposobna hitre širitve ponudbe in so v tem pogledu dosti uspešnejša v primerjavi s počasnim prilagajanjem mestnega središča sodobnim potrebam potrošnikov. Zato je pomembno, da občinska uprava pozorno spremlja, analizira in ustrezno regulira stanja na tem področju ter pri tem vodi uravnoteženo načrtovalsko politiko« (Golob, 2010).</p>
+    <p xml:id="pb76.p7" xml:lang="sl">Mezghani meni: »Zgoščevanje mesta je stroškovno učinkovitejše od širjenja mesta.« To pomeni:</p>
+    <p xml:id="pb76.p8" xml:lang="sl">• da je treba zastaviti širjenje mesta;</p>
+    <p xml:id="pb76.p9" xml:lang="sl">• dati podporo zgoščevanju okoli postaj in na poteh javnega prevoza;</p>
+    <p xml:id="pb76.p10" xml:lang="sl">• vzpodbujati združevalne dejavnosti;</p>
+    <p xml:id="pb76.p11" xml:lang="sl">• omejiti gradnjo na praznih prostorih;</p>
+    <p xml:id="pb76.p12" xml:lang="sl">• nadzorovati parkirne standarde za stanovanjske, poslovne in komercialne stavbe;</p>
+    <p xml:id="pb76.p13" xml:lang="sl">• podpreti stanovanjska območja brez osebnih vozil;</p>
+    <p xml:id="pb76.p14" xml:lang="sl">• zagotoviti skladnost stanovanjskih politik.</p>
+  </page>
+  <page xml:id="pb77" n="77" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=77">
+    <p xml:id="pb77.p1" xml:lang="sl">ZAKLJUČEK</p>
+    <p xml:id="pb77.p2" xml:lang="sl">Ocena učinkov</p>
+    <p xml:id="pb77.p3" xml:lang="sl">Kot vsako mesto ima tudi mesto Ptuj kar nekaj problemov, s katerimi se bolj ali manj (ne) uspešno sooča. Naštetih je bilo le nekaj, kot je pomanjkanje prostora za parkirišča, gneče ob prometnih konicah ter izumiranje življenja v samem mestnem jedru.</p>
+    <p xml:id="pb77.p4" xml:lang="sl">Na Ptuju obstajata dve podzemni parkirni hiši, ki imata samo kletno etažo. Ena je v sklopu novejšega bloka, ki je bil zgrajen pred nekaj leti, ter druga, ki je v bližini Pošte Ptuj pod zunanjim parkiriščem. Kljub razvoju in postavljanju velikih trgovskih objektov se še vedno poslužujejo gradnje klasičnih parkirnih prostorov, kar pa jemlje veliko prostora. Razlog za to je verjetno finančne narave, saj je postavitev parkirne hiše veliko dražja kot klasični parkirišče z narisanimi parkirnimi prostori.</p>
+    <p xml:id="pb77.p5" xml:lang="sl">Glede na obstoječe stanje mesta bi bilo smotrno izrabiti proste kapacitete znotraj mesta.</p>
+    <p xml:id="pb77.p6" xml:lang="sl">V središču mesta imamo parkirišče na območju stare vojašnice (ob glavnem križišču pri Potrčevi cesti), kjer je parkiranje zaenkrat še brezplačno. Parkirišče je veliko za približno 300 parkirnih mest.</p>
+    <p xml:id="pb77.p7" xml:lang="sl">Kot druga možnost za nova parkirišča oziroma parkirno hišo je nenaseljeno zemljišče, ki ga nihče ne uporablja in ostaja neizkoriščeno. To je oddaljeno le slaba 2 kilometra iz mesta pri blokovskem naselju Rabelčja vas.</p>
+    <p xml:id="pb77.p8" xml:lang="sl">Da bi zmanjšali gnečo na cestah v mestu, predvsem ob konicah, bi bila ena od rešitev tudi uvedba posebne takse za avtomobile ter visoke kazni za nepravilno parkirane avtomobile.</p>
+    <p xml:id="pb77.p9" xml:lang="sl">Vendar povečevanje števila parkirnih mest ni edina in najbolj optimalna rešitev za mesto, saj s to rešitvijo privlačimo preveč negativnih učinkov. Nekatere predele mesta bi bilo dobro dokončno zapreti za vsa motorna vozila, razen za vozila z dostavo. Tako bi zmanjšali število avtomobilov ter drugih motoriziranih vozil na cestah, ki obremenjujejo že tako oslabljene mestne ceste.</p>
+  </page>
+  <page xml:id="pb78" n="78" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=78">
+    <p xml:id="pb78.p1" xml:lang="sl">Hkrati pa bi začeli spodbujati rabo ostalih prevoznih sredstev, kot je kolo, skiro, e-kolo pa tudi hojo, saj je mesto relativno majhno. V zameno za to bi se uredile kolesarske ter peš poti z zelenimi pasovi, ki jih zelo primanjkuje. Tudi v javni prevoz bi bilo treba financirati, vendar bi moralo biti finančno ceneje, kot je sedaj, da bi se ljudem splačalo sesti na avtobus oziroma vlak.</p>
+    <p xml:id="pb78.p2" xml:lang="sl">Pogoji za uvedbo</p>
+    <p xml:id="pb78.p3" xml:lang="sl">Mesto Ptuj je prostorsko majhno mesto, zato je za vsakršno spreminjanje ter obnavljanje treba narediti dober načrt, da bi prihranili čim več prostora v smislu zelenic in zelenih pasov, ki jih v mestu skorajda ni več ali pa jih je zelo malo.</p>
+    <p xml:id="pb78.p4" xml:lang="sl">Ker je za mesto pomembno, da se preneha širjenje na obrobje mesta, bi bilo v prihodnosti smiselno, da se parkirišče (brezplačno ob Potrčevi cesti) preuredi, oziroma, da se prostor izkoristi za gradnjo poslovne stavbe s prostori oziroma manjšimi trgovinami. Pri tem bi lahko uredili podzemno parkirno hišo s približno istim številom parkirnih mest, kot so sedaj (300), nekaj parkirnih mest pa bi bilo tudi poleg stavbe, ki bi ostala brezplačna. V parkirni hiši bi lahko brezplačno parkirali najemniki oziroma lastniki poslovnih prostorov ter stranke. Stranke bi se dokazovale s parkirnimi karticami, ki bi jih izdajal parkirni avtomat, ki bi jih bilo treba potrditi v eni od trgovin.</p>
+    <p xml:id="pb78.p5" xml:lang="sl">Vsi ostali bi parkirnino plačali na parkirnem avtomatu.</p>
+    <p xml:id="pb78.p6" xml:lang="sl">Za vse ostale uporabnike parkirišča bi ponudili najem parkirnih prostorov podjetjem znotraj mesta po čim bolj ugodni ceni. Trenutno, ko je parkirišče še brezplačno, vlada kaos z veliko nepravilno parkiranimi avtomobili.</p>
+    <p xml:id="pb78.p7" xml:lang="sl">Za finančni vložek v takšen projekt bi poskrbela občina, ki je lastnik zemljišča. Vložek bi bil velik, vendar bi pred kakršno koli investicijo poskrbeli, da bi bili najemniki prostorov že znani. Tako bi se v veliki meri izognili tveganju, da se investicija ne bi povrnila.</p>
+  </page>
+  <page xml:id="pb79" n="79" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=79">
+    <p xml:id="pb79.p1" xml:lang="sl">Kljub močnejšemu razvoju prometa, avtomobilov, transporta bi morali ljudje težiti k čistemu prostoru, kjer se lahko prosto gibljemo in dihamo svež zrak. To bi moral biti eden izmed temeljnih pogojev za kakršnokoli poseganje v prostor.</p>
+    <p xml:id="pb79.p2" xml:lang="sl">Da se bi tekoči promet zmanjšal, bi bilo najbolj učinkovito uvesti posebno takso za motorna vozila v nekaterih delih mesta. Te takse pomenijo, da oblasti pobirajo pristojbino za vožnjo z avtomobilom po mestu. Tudi v industrijski coni, ki je sicer zelo blizu mesta, bi bila dobra naložba podzemna parkirna hiša z več etažami, kjer bi ljudje pred vstopom v mesto puščali svoje avtomobile in se tja odpravili peš oziroma organiziran bi bil javni prevoz z avtobusom ali taksijem.. Kjerkoli bi se občina odločila za izgradnjo parkirne hiše, bi to bila velika finančna obremenitev za mesto, vendar bi se dolgoročno izplačala.</p>
+    <p xml:id="pb79.p3" xml:lang="sl">Kljub temu bi morali začeti intenzivno vlagati v javni prevoz, s čimer bi sredstva lahko pridobivali iz taks za motorna vozila. S posodobitvijo in bolj ugodnimi cenami bi slej kot prej privabili več ljudi, saj danes stroški udobnega prevoza z avtomobilom strmo naraščajo.</p>
+    <p xml:id="pb79.p4" xml:lang="sl">Z ukrepom zaprtja večinskega dela mesta bi lahko začeli urejati peš poti, kolesarske steze ter zelene pasove na nekaterih predelih. Ljudje bi se raje ponovno vračali v mestno središče, kjer bi se lahko prosto gibali brez prevelikega hrupa in gneče.</p>
+    <p xml:id="pb79.p5" xml:lang="sl">Pri urejanju peš poti ter kolesarskih stez je potrebno stalno vzdrževanje talnih površin za hitro in varno pot do cilja. Predvsem je treba pomisliti na osebe na invalidskih vozičkih ter matere z vozički, ki se vsakodnevno srečujejo z neprimernimi pločniki, kjer jim je otežena pot na drugo stran ceste. Pri tem je treba pločnike tudi zaščititi, da ne pride do napačnega parkiranja, zaradi česar morajo pešci prečkati oviro po cesti, kar predstavlja nevarnost tako za voznika kot pešca.</p>
+  </page>
+  <page xml:id="pb80" n="80" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=80">
+    <p xml:id="pb80.p1" xml:lang="sl">Možnosti nadaljnjega razvoja</p>
+    <p xml:id="pb80.p2" xml:lang="sl">Promet se bo še naprej razvijal in povečeval. Zato bo zahteval vedno boljše rešitve, da bomo lahko ljudje živeli v relativno »čistem« okolju. Trenutne rešitve so dobre danes, jutri ne bodo več. Možnosti nadaljnjega razvoja se ponujajo tudi pri izboljšavah parkirnih prostorov v parkirni hiši v primeru gradnje. Posebej bi morali biti urejeni parkirni prostori za invalidne osebe, starejše osebe ter mlade matere z vozički. Parkirni prostori bi bili posebej označeni v vrstah najbliže vhodu/izhodu s sistemom, ki pomaga vozniku najhitreje najti prazen parkirni prostor s pomočjo senzorja, ki zaznava, kateri prostor je prazen in kateri je zaseden.</p>
+    <p xml:id="pb80.p3" xml:lang="sl">Pri razvoju novih podjetij, ki bi potrebovala večje proizvodne ter skladiščne površine, bi občina ukrepala s predlogom za izgradnjo podjetja na obrobju mesta, kjer bi bilo najmanj motečih dejavnikov za življenje ljudi. Takšen primeren prostor bi bil v bližini Cero Gajk, ki stojijo iz centra mesta približno 3 km.</p>
+    <p xml:id="pb80.p4" xml:lang="sl">Na Ptuju imamo dva večja trgovska centra, ki stojita v industrijski coni. Trgovski center Qlandia je pretežno dobro obiskan, medtem ko trgovski center Q-center precej slabo.</p>
+    <p xml:id="pb80.p5" xml:lang="sl">Ker je bila občina pobudnik za oba centra, bi morali sedaj več pozornosti nameniti samemu centru mesta in poskušati tam zapolniti veliko praznih prostorov, saj so trgovski centri slaba naložba za tako majhno mesto predvsem zaradi majhne kupne moči. Da bi manjše podjetnike in trgovce pripeljali v mesto, bi morali krepko znižati najemnine. Tako bi ljudje dobili večji zagon ter motivacijo in bi laže preživeli prve kritične mesece.</p>
+    <p xml:id="pb80.p6" xml:lang="sl">Pri tem bi morala občina poskrbeti, da bi se uredili tudi dostavni prostori, ki bi bili primerno označeni, saj je dostava v ozkih ulicah zelo otežena.</p>
+    <p xml:id="pb80.p7" xml:lang="sl">Industrijska cona ima še veliko lepih zemljišč, kjer bi namesto trgovin lahko zgradili manjša stanovanjskega naselja z zelenimi površinami, peš potmi, kolesarskimi stezami ter parki.</p>
+  </page>
+  <page xml:id="pb81" n="81" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=81">
+    <p xml:id="pb81.p1" xml:lang="sl">Rebernik (2010) pravi: »Poznavanje in razumevanje razvoja in preobrazbe mest in drugih naselij je pogoj za uspešno in celovito urejanje in načrtovanje prostora ter za doseganje ciljev trajnostnega prostorskega razvoja širših mestnih območij.« Pri razvoju oziroma prenovi mesta je treba upoštevati naslednje vidike: demografske, socialne, ekonomske, fizične in okoljske. S tem se izboljšajo popravki v smislu funkcionalnih, socialnih, ekonomskih in kulturnih pomanjkljivosti, kar pripomore k izboljšanju delovanja mesta.</p>
+  </page>
+  <page xml:id="pb82" n="82" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=82">
+    <p xml:id="pb82.p1" xml:lang="sl">LITERATURA IN VIRI</p>
+    <p xml:id="pb82.p2" xml:lang="sl">Avtomobili [Renault], (b. d.). Najdeno 20. maja 2010 na spletnem naslovu http://www.renault.com/en/vehicules/renault/pages/twizy.aspx Cigale, D. (2002). Geografsko okolje in promet. V Cigale, D. (2002). Jerončič, R., Kuščer, S., Lah, A., Lipar, P., Marušič, I., Novak, P., Otorepec, P., Paradiž, B., Pavčič, T., Pengal, P., Petelin, S., Sterlekar, N., Rožič, M., Sotlar, Z., Šarec, A., Zgonc, B. &amp; Žlender, B. (2002). Promet in okolje (str. 32–35). Ljubljana: Svet za varstvo okolja Republike Slovenije.</p>
+    <p xml:id="pb82.p3" xml:lang="sl">Cukjati, F. (2006, 3. maj). Resolucija o prometni politiki Republike Slovenije (RePPRS) Intermodalnost: čas za sinergijo. Najdeno 25. aprila 2010 na spletnem naslovu http://www.uradni-list.si/1/objava.jsp?urlid=200658&amp;stevilka=2426 Drnovšek, J. (1998). Uredba o kategorizaciji državnih cest. Najdeno 15. maj 2010 na spletnem naslovu http://www.uradnilist.si/1/objava.jsp?urlid=199833&amp;stevilka =1455 Galerija [Vlaki info], (2007, 13. april). Najdeno 20. maja 2010 na spletnem naslovu http://www.vlaki.info/galerija/</p>
+    <p xml:id="pb82.p4" xml:lang="sl">Golob, T. (2010). Kriza starih mestnih jeder: Kakšna je prihodnost novomeške trgovine? Park. Najdeno 30. junija 2010 na spletnem naslovu http://www.park.si/2010/06/12185/</p>
+    <p xml:id="pb82.p5" xml:lang="sl">Gospodarstvo in okolje [Predstavitev Mestne občine Ptuj], (2007, december). Najdeno 26. maja 2010 na spletnem naslovu http://www.ptuj.si/gospodarstvo Izdelki [Steyrlift], (b. d.). Najdeno 30. maja 2010 na spletnem naslovu http://www.steyrlift.si/sl/Izdelki/Parkirni+sistemi/Enostavne+parkirne+plo%C5% A1%C4%8Dadi</p>
+    <p xml:id="pb82.p6" xml:lang="sl">Jakomin, L., Zelenika, R. &amp; Medeot M. (2002). Tehnologija prometa in transportni sistemi. Portorož: Fakulteta za pomorstvo in promet.</p>
+    <p xml:id="pb82.p7" xml:lang="sl">Kolesa - mestna [Spletna trgovina Prodaja koles], (b. d.). Najdeno 20. maja 2010 na spletnem naslovu http://www.prodajakoles.com/index.php/cPath/463 Kontrola dostopa [Predstavitev SITSA – C – Slovenska ITS arhitektura – modul Ceste], (2007). Najdeno 30. junija 2010 na spletnem naslovu http://www.pti.fgg.uni- lj.si/SITSA/?a=doc&amp;id=1&amp;docid=bb5ca6a2-fc58-4caa-8e86-81ea3a887663 Kuščer, S. (2002). Slovenska kolesarska mreža. V Cigale, D. (2002). Jerončič, R., Kuščer, S., Lah, A., Lipar, P., Marušič, I., Novak, P., Otorepec, P., Paradiž, B., Pavčič, T., Pengal, P., Petelin, S., Sterlekar, N., Rožič, M., Sotlar, Z., Šarec, A., Zgonc, B. &amp; Žlender, B., Promet in okolje (str. 50–52). Ljubljana: Svet za varstvo okolja Republike Slovenije.</p>
+  </page>
+  <page xml:id="pb83" n="83" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=83">
+    <p xml:id="pb83.p1" xml:lang="sl">Mezghani, M. (2006, 18. oktober). Sodoben in učinkovit sistem javnega prevoza.</p>
+    <p xml:id="pb83.p2" xml:lang="sl">Najdeno 5. avgusta 2011 na spletnem naslovu http://www.transportlearning.net/docs/PT_Slides_SI.ppt Nacionalni program izgradnje avtocest [DARS – Povezujemo Slovenijo], (b. d.).</p>
+    <p xml:id="pb83.p3" xml:lang="sl">Najdeno 15. maj 2010 na spletnem naslovu http://www.dars.si/</p>
+    <p xml:id="pb83.p4" xml:lang="sl">Dokumenti/O_avtocestah/Nacionalni_program_izgradnje_avtocest/Zgrajene_AC_in_HC_30.aspx Novak, P. (2002). Sonaravni razvoj prometa. V Cigale, D. (2002). Jerončič, R., Kuščer, S., Lah, A., Lipar, P., Marušič, I., Novak, P., Otorepec, P., Paradiž, B., Pavčič, T., Pengal, P., Petelin, S., Sterlekar, N., Rožič, M., Sotlar, Z., Šarec, A., Zgonc, B. &amp; Žlender, B., Promet in okolje (str. 82–91). Ljubljana: Svet za varstvo okolja Republike Slovenije.</p>
+    <p xml:id="pb83.p5" xml:lang="sl">Novosti [Avto. Info], (2008, 31. julij). Najdeno 20. maja 2010 na spletnem naslovu http://www.avto.info/Novosti/Mercedes-Benz_travego- Prvi_serijski_avtobus_opremljen_s_tehnologijo_Active_Brake_Assist/ O avtocestah [Direkcija Republike Slovenije za ceste], (b. d.). Najdeno 25. maja 2010 na spletnem naslovu ttp://www.dars.si/Dokumenti/O_avtocestah/Nacionalni</p>
+    <p xml:id="pb83.p6" xml:lang="sl">_program_izgradnje_avtocest/Zgrajene_AC_in_HC/A4_Slivnica-Gruskovje_572</p>
+    <p xml:id="pb83.p7" xml:lang="sl">.aspx</p>
+    <p xml:id="pb83.p8" xml:lang="sl">Občinski program varnosti Mestne občine Ptuj [Lex Localis], (2008, september).</p>
+    <p xml:id="pb83.p9" xml:lang="sl">Najdeno 22. september 2011 na spletnem naslovu http://www.lex- localis.info/files/0ccb8984-27a2-4d85-83b1-39f846998cd3/633577125803437500</p>
+    <p xml:id="pb83.p10" xml:lang="sl">_tc.%2011.%20%20Obcinski%20program%20varnosti%20Mestne%20obcine% 20Ptuj%20-</p>
+    <p xml:id="pb83.p11" xml:lang="sl">%20priloga.doc</p>
+    <p xml:id="pb83.p12" xml:lang="sl">Občinski program varstva okolja [Predstavitev Mestne občine Ptuj], (2007, december).</p>
+    <p xml:id="pb83.p13" xml:lang="sl">Najdeno 22. september 2011 na spletnem naslovu http://www.ptuj.si/</p>
+    <p xml:id="pb83.p14" xml:lang="sl">_pdf/Nacrt_ukrepov.pdf</p>
+    <p xml:id="pb83.p15" xml:lang="sl">Ocena prometno varnostnih razmer [O mestu Ptuj], (2011, februar). Najdeno 10. februarja 2011 na spletnem naslovu https://docs.google.com/viewer?a=v&amp;q=cache:XpWgQHGNSLcJ:www.ptuj.si/A PI/download.php?fid%3D3859+%C5%A1tevilo+prometnih+nesre%C4%8D+na+ ptuju+2010&amp;hl=sl&amp;gl=si&amp;pid=bl&amp;srcid=ADGEESifYx- 3LmNkBS86sYop9X_CCburv4drQ_hXr26x6bj1S3IVGJEaxWfEQ6O_K_gbDDt SM8jga62rdZ1vjKGEC2UCSmmYn6SFn6- vC69ePUhqpMKkK92Mo5wCEEu9dhUo-</p>
+  </page>
+  <page xml:id="pb84" n="84" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=84">
+    <p xml:id="pb84.p1" xml:lang="sl">27bTQ_0&amp;sig=AHIEtbQEd2gbP0bpJWVpAbSF-3JoNQ6Bzg</p>
+    <p xml:id="pb84.p2" xml:lang="sl">Otorepec, P. (2002). Vplivi prometa na zdravje ljudi. V Cigale, D. (2002). Jerončič, R., Kuščer, S., Lah, A., Lipar, P., Marušič, I., Novak, P., Otorepec, P., Paradiž, B., Pavčič, T., Pengal, P., Petelin, S., Sterlekar, N., Rožič, M., Sotlar, Z., Šarec, A., Zgonc, B. &amp; Žlender, B., Promet in okolje (str. 53–55). Ljubljana: Svet za varstvo okolja Republike Slovenije.</p>
+    <p xml:id="pb84.p3" xml:lang="sl">Parkirni sistemi [Predstavitev Steyrlift], (b. d.). Najdeno 25. maja 2010 na spletnem naslovu http://www.steyrlift.si/sl/Izdelki/Parkirni+sistemi</p>
+    <p xml:id="pb84.p4" xml:lang="sl">Plan B za Slovenijo [Predstavitev Plan B za Slovenijo – Pobuda za trajnostni razvoj], (b. d.). Najdeno 30. aprila 2010 na spletnem naslovu http://www.planbzaslovenijo.si/trajnostni-razvoj</p>
+    <p xml:id="pb84.p5" xml:lang="sl">Plevnik, A. (2008). Okolje in promet: Korak naprej v ravnanju z okoljem. Ljubljana: Ministrstvo za okolje in promet, ARSO.</p>
+    <p xml:id="pb84.p6" xml:lang="sl">Ponovna oživitev načrtov za ljubljanski tramvaj [Finance], (2008, 25. marec). Najdeno 20. maja 2010 na spletnem naslovu http://www.financesi.com/novice-ponovna- o%C5%BEivitev-na%C4%8Drtov-za-ljubljanski-tramvaj</p>
+    <p xml:id="pb84.p7" xml:lang="sl">Poslovne cone [Predstavitev Mestne občine Ptuj], (b. d.). Najdeno 30. maj 2010 na spletnem naslovu http://www.ptuj.si/poslovne_cone Proizvodi [Nagra], (b. d.). Najdeno 25. maja 2010 na spletnem naslovu http://www.nagra.si/parkirni_stolpi.htm</p>
+    <p xml:id="pb84.p8" xml:lang="sl">Promet [Direkcija Republike Slovenije za ceste], ˙(b. d.). Najdeno 23. maja 2010 na spletnem naslovu http://www.dc.gov.si/fileadmin/dc.gov.si/pageuploads/Stetje</p>
+    <p xml:id="pb84.p9" xml:lang="sl">_prometa/Karta_prometnih_obremenitev_2008.pdf</p>
+    <p xml:id="pb84.p10" xml:lang="sl">Promet [Predstavitev Vlade Republike Slovenije – Ministrstvo za promet], (b. d.).</p>
+    <p xml:id="pb84.p11" xml:lang="sl">Najdeno 25. maj 2010 na spletnem naslovu http://www.mzip.gov.si/ si/delovna_podrocja/promet/</p>
+    <p xml:id="pb84.p12" xml:lang="sl">Prometna infrastruktura [Predstavitev Mestne občine Ptuj], (b. d.). Najdeno 5. maj 2010 na spletnem naslovu http://www.ptuj.si/prometne_povezave Ptuj [Wikipedija], (b. d.). Najdeno 5. maj 2010 na spletnem naslovu http://sl.wikipedia.org/wiki/Ptuj</p>
+  </page>
+  <page xml:id="pb85" n="85" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-843000.pdf#page=85">
+    <p xml:id="pb85.p1" xml:lang="sl">Razvoj okoljske in prometne infrastrukture [Vlada RS], (b. l.). Najdeno 1. maj 2010 na spletnem naslovu http://www.vlada.si/si/teme_in_projekti/evropska_kohezijska</p>
+    <p xml:id="pb85.p2" xml:lang="sl">_sredstva_za_razvoj_slovenije/razvoj_okoljske_in_prometne_infrastrukture/ Rebernik, D. (2010). Teorija in praksa prostorskega načrtovanja: prostorski razvoj mest in širših mestnih območij v Sloveniji. Najdeno 3. februarja 2012 na spletnem naslovu http://www.ff.unilj.si/oddelki/geo/publikacije/dela/files/dela_33/07_ rebernik.pdf Spletna trgovina [Ziegler], (b. d.). Najdeno 25. maja 2010 na spletnem naslovu http://www.ziegler-slo.si/webshop/urbana-oprema/stojala-za-kolesa-nasloni-za- kolesa/enojno-stojalo-za-kolesa</p>
+    <p xml:id="pb85.p3" xml:lang="sl">Stanje okolja [Občinski program varstva okolja za Mestno občino Ptuj], (2007, december). Najdeno 22. septembra 2011 na spletnem naslovu http://www.lex- localis.info/files/0ccb8984-27a2-4d85-83b1-39f846998cd3/633577125811718750</p>
+    <p xml:id="pb85.p4" xml:lang="sl">_tc.%2012.%20Obcinski%20program%20vartva%20okolja%20za%20MO%20%20Ptuj%202008- 2013%20Stanje%20okolja.doc</p>
+    <p xml:id="pb85.p5" xml:lang="sl">Sterlekar, N. (2002). Promet v luči politik in urbanizma. V Cigale, D., Jerončič, R., Kuščer, S., Lah, A., Lipar, P., Marušič, I., Novak, P., Otorepec, P., Paradiž, B., Pavčič, T., Pengal, P., Petelin, S., Sterlekar, N., Rožič, M., Sotlar, Z., Šarec, A., Zgonc, B. &amp; Žlender, B., Promet in okolje (str. 24–26). Ljubljana: Svet za varstvo okolja Republike Slovenije.</p>
+    <p xml:id="pb85.p6" xml:lang="sl">Sternad, M. &amp; Rosi, B. (2010). Zbirka e-gradiv za predmet Prometni sistemi. Celje: Fakulteta za logistiko Celje.</p>
+    <p xml:id="pb85.p7" xml:lang="sl">Tovorna vozila [Mercedes – Benz], (b. d.). Najdeno 25. maja 2010 na spletnem naslovu http://www.mercedes-benz.si/content/slovenia/mpc/mpc_slovenia_website/sl/ home_mpc/trucks_.flash.skipintro.html</p>
+    <p xml:id="pb85.p8" xml:lang="sl">Transport [Statistični urad Republike Slovenije], (2010, 31. december). Najdeno 20. maja 2011 na spletnem naslovu http://pxweb.stat.si/pxweb/Dialog/Saveshow.asp Ukrepi občine na področju gospodarskega razvoja [Predstavitev Mestne občine Ptuj], (b. d.). Najdeno 25. maj 2010 na spletnem naslovu http://www.ptuj.si/_pdf/ukrepi_obcine_na_podrocju_gospodarskega_razvoja.pdf Vlaganje v trajnostni promet [Dobrodošli v Ljubljani – glavnem mestu Slovenije], (2010, 16. marec). Najdeno 25. maj 2010 na spletnem naslovu http://www.ljubljana.si/si/zivljenje-v-ljubljani/v-srediscu/67003/detail.html Življenje v EU [Vladni portal z informacijami o življenju v Evropski uniji], (b. d.).</p>
+    <p xml:id="pb85.p9" xml:lang="sl">Najdeno 20. aprila 2010 na spletnem naslovu http://www.evropa.gov.si/si/promet/</p>
+  </page>
+</document>

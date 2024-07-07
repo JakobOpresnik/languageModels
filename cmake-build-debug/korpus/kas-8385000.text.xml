@@ -1,0 +1,669 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-8385000" doc_id="8385000" text_id="8729255" cobiss_id="512616253" title="Proces nabave materialov v podjetju Pivovarna Laško, d. d." author="Lah, Tadeja" supervisor="Rosi, Bojan" year="2014" publisher_abbr="UM FL" publisher="Fakulteta za logistiko" url="http://dkum.uni-mb.si/Dokument.php?id=64232" type="Diplomsko delo" udc="338" udc_desc="Menedžment gospodarstva. Gospodarsko načrtovanje. Proizvodnja. Storitve" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V MARIBORU FAKULTETA ZA LOGOSTIKO</p>
+    <p xml:id="pb1.p2" xml:lang="sl">Tadeja Lah</p>
+    <p xml:id="pb1.p3" xml:lang="sl">PROCES NABAVE MATERIALOV V PODJETJU</p>
+    <p xml:id="pb1.p4" xml:lang="sl">PIVOVARNA LAŠKO, D. D.</p>
+    <p xml:id="pb1.p5" xml:lang="sl">Diplomsko delo univerzitetnega študija Celje, junij 2014</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">UNIVERZA V MARIBORU FAKULTETA ZA LOGOSTIKO</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Tadeja Lah</p>
+    <p xml:id="pb2.p3" xml:lang="sl">PROCES NABAVE MATERIALOV V PODJETJU PIVOVARNA LAŠKO, D. D.</p>
+    <p xml:id="pb2.p4" xml:lang="sl">Diplomsko delo univerzitetnega študija Mentor:</p>
+    <p xml:id="pb2.p5" xml:lang="en">Izr. prof. dr. Bojan Rosi Somentor:</p>
+    <p xml:id="pb2.p6" xml:lang="sl">Mag. Marjan Sternad Celje, junij 2014</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">IZJAVA O AVTORSTVU diplomskega dela</p>
+    <p xml:id="pb3.p2" xml:lang="sl">Spodaj podpisan/a ____________________________________________________, študent/ka _______________________________________________________ (študija), z vpisno številko _____________________________________, sem avtor/ica diplomskega dela:</p>
+    <p xml:id="pb3.p3" xml:lang="sl">S svojim podpisom zagotavljam, da:</p>
+    <p xml:id="pb3.p4" xml:lang="sl">• je predloženo delo rezultat izključno mojega lastnega raziskovalnega dela;</p>
+    <p xml:id="pb3.p5" xml:lang="sl">• sem poskrbel/a, da so dela in mnenja drugih avtorjev oz. avtoric, ki jih uporabljam v diplomskem delu, navedena oz. citirana v skladu z navodili Fakultete za logistiko Univerze v Mariboru;</p>
+    <p xml:id="pb3.p6" xml:lang="sl">• sem poskrbel/a, da so vsa dela in mnenja drugih avtorjev oz. avtoric navedena v seznamu virov, ki je sestavni del diplomskega dela in je zapisan v skladu z navodili Fakultete za logistiko Univerze v Mariboru;</p>
+    <p xml:id="pb3.p7" xml:lang="sl">• sem pridobil/a vsa dovoljenja za uporabo avtorskih del, ki so v celoti prenesena v diplomsko delo in sem to tudi jasno zapisal/a v diplomskem delu;</p>
+    <p xml:id="pb3.p8" xml:lang="sl">• se zavedam, da je plagiatorstvo – predstavljanje tujih del, bodisi v obliki citata bodisi v obliki skoraj dobesednega parafraziranja bodisi v grafični obliki, s katerim so tuje misli oz. ideje predstavljene kot moje lastne – kaznivo po zakonu (Zakon o avtorskih in sorodnih pravicah, Uradni list RS št. 21/95), prekršek pa podleže tudi ukrepom Fakultete za logistiko Univerze v Mariboru v skladu z njenimi pravili;</p>
+    <p xml:id="pb3.p9" xml:lang="sl">• se zavedam posledic, ki jih dokazano plagiatorstvo lahko predstavlja za predloženo delo in za moj status na Fakulteti za logistiko Univerze v Mariboru;</p>
+    <p xml:id="pb3.p10" xml:lang="sl">• je diplomsko delo jezikovno korektno in da je delo lektoriral/a</p>
+    <p xml:id="pb3.p11" xml:lang="en">V Celju, dne _____________ Podpis avtorja/-ice:__________________</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">ZAHVALA</p>
+    <p xml:id="pb4.p2" xml:lang="sl">Za pomoč in vodenje pri diplomskem delu se zahvaljujem mentorju izr. prof. dr. Bojanu Rosiju in somentorju mag. Marjanu Sternadu, zaposlenim v nabavni službi Pivovarne Laško, d. d., ki so mi bili v veliko pomoč, predvsem pa svoji družini za vso potrpežljivost in podporo.</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">Proces nabave materialov v podjetju Pivovarna Laško, d. d.</p>
+    <p xml:id="pb5.p2" xml:lang="sl">Diplomsko delo je namenjeno predstavitvi problematike procesa nabave materialov v podjetju Pivovarna Laško, d. d.</p>
+    <p xml:id="pb5.p3" xml:lang="sl">V teoretičnem delu diplomskega dela smo predstavili teorijo nabavnega poslovanja in nabave različnih avtorjev. Opredelili smo kaj zajema samo nabavno poslovanje in kaj vse spada pod nabavo. Le to smo podrobneje proučevali in opisali, kaj pomeni centralizirana, decentralizirana in kombinirana nabava, katere so najpomembnejše naloge nabavne službe in s katerimi vprašanji se nabava najpogosteje srečuje.</p>
+    <p xml:id="pb5.p4" xml:lang="sl">V nadaljevanju smo opisali posnetek stanja v proučevanem podjetju. Podrobni opis smo podali za pridobivanje ponudb, pisanje nabavnih nalogov, kako se opremljajo materiali z identi, kako potekajo prevzemi v skladišču in samo skladiščenje materialov, spremljanje zalog s pomočjo programa, na kakšen način se rešujejo reklamacije in kako poteka reševanje logističnih problemov.</p>
+    <p xml:id="pb5.p5" xml:lang="sl">Pri kritični analizi smo podali vse slabosti, ki smo jih skozi raziskovanje naloge opazili in so najbolj izstopale.</p>
+    <p xml:id="pb5.p6" xml:lang="sl">V predlog izboljšav pa smo podali vse predloge za izboljšanje stvari, ki smo jih v kritični analizi izpostavili kot slabe.</p>
+    <p xml:id="pb5.p7" xml:lang="sl">Ključne besede: nabava, nabavno poslovanje, nabavna logistika, reklamacija, skladišče The process of purchasing materials in company Pivovarna Laško, d.d.</p>
+    <p xml:id="pb5.p8" xml:lang="en">Diploma’s purpose is present the process of purchasing materials in the company Pivovarna Laško, d. d.</p>
+    <p xml:id="pb5.p9" xml:lang="en">Theory of purchase operations and purchase itself are presented in theoretical part of diploma. Purchase operations and purchase itself are determined in diploma. Purchase is studied thoroughly and it is described in the three different modes: centralized, decentralized and combination of both modes, the most important tasks of purchase department and what are the most frequent items concerning activities of purchase department.</p>
+    <p xml:id="pb5.p10" xml:lang="en">Hereinafter the snapshot of existing condition in the relevant company is presented.</p>
+    <p xml:id="pb5.p11" xml:lang="en">Detailed description of the following activities is stated: collecting the offers, creating of purchase instructions, marking materials with adequate ID numbers, deliveries in the warehouse and warehousing of materials, stock reporting, mode of claim handling and the way of handling logistic problems.</p>
+    <p xml:id="pb5.p12" xml:lang="en">Most exposed disadvantages noticed during working out the diploma are described in critical analysis.</p>
+    <p xml:id="pb5.p13" xml:lang="en">Proposal of improvements related to the matters exposed as disadvantages, is presented in list of suggestions.</p>
+    <p xml:id="pb5.p14" xml:lang="sl">Key words: purchase, purchase operations, purchase logistic, claims, warehouse Tadeja Lah: Proces nabave materialov v podjetju Pivovarna Laško, d. d. v</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">KAZALO</p>
+    <p xml:id="pb6.p2" xml:lang="sl">UVOD ............................................................................................................................... 1</p>
+    <p xml:id="pb6.p3" xml:lang="sl">Opredelitev oz. opis problema, ki je predmet diplomskega dela .................................. 1 Cilji in teze diplomskega dela ....................................................................................... 1 Predpostavke in omejitve diplomskega dela ................................................................. 1</p>
+    <p xml:id="pb6.p4" xml:lang="sl">1 TEORETIČNE OSNOVE ......................................................................................... 3</p>
+    <p xml:id="pb6.p5" xml:lang="sl">1.1 Nabavno poslovanje ........................................................................................... 3 1.2 Nabava ................................................................................................................ 6</p>
+    <p xml:id="pb6.p6" xml:lang="sl">2 PROCES NABAVE MATERIALOV V PROUČEVANEM PODJETJU ............. 24</p>
+    <p xml:id="pb6.p7" xml:lang="sl">2.1 Na kratko o podjetju Pivovarna Laško, d. d. .................................................... 24 2.2 Posnetek stanja ................................................................................................. 25 2.2.1 Pridobivanje ponudb ........................................................................................... 29 2.2.2 Pisanje nabavnih nalogov .................................................................................... 31 2.2.3 Opremljanje materialov z identi .......................................................................... 32 2.2.4 Prevzem in skladiščenje materialov .................................................................... 34 2.2.5 Spremljanje zalog s pomočjo programa .............................................................. 36 2.2.6 Reševanje reklamacij .......................................................................................... 37 2.2.7 Reševanje logističnih problemov ........................................................................ 39 2.3 Kritična analiza ................................................................................................ 43</p>
+    <p xml:id="pb6.p8" xml:lang="sl">3 PREDLOG IZBOLJŠAV ........................................................................................ 46 ZAKLJUČEK ................................................................................................................. 50</p>
+    <p xml:id="pb6.p9" xml:lang="sl">Ocena učinkov ............................................................................................................ 50 Pogoji za uvedbo ......................................................................................................... 51 Možnost nadaljnjega razvoja ...................................................................................... 52</p>
+    <p xml:id="pb6.p10" xml:lang="sl">SEZNAM LITERATURE IN VIROV ........................................................................... 54 KAZALO TABEL</p>
+    <p xml:id="pb6.p11" xml:lang="sl">Tabela 1: Površine skladišč ....................................................................................................................... 41 Tabela 2: Količine hl pijač, dostavljenih končnim kupcem iz distribucijskih centrov ............................... 41</p>
+    <p xml:id="pb6.p12" xml:lang="sl">KAZALO SLIK</p>
+    <p xml:id="pb6.p13" xml:lang="sl">Slika 1: Proces nabave .............................................................................................................................. 10 Slika 2: Centralizirano organizirana nabava ............................................................................................ 16 Slika 3: Decentralizirano organiziranje nabave ........................................................................................ 17 Tadeja Lah: Proces nabave materialov v podjetju Pivovarna Laško, d. d. vi</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">Slika 4: Tradicionalna oskrbovalna veriga nekoč ..................................................................................... 21 Slika 5: Integrirana oskrbovalna veriga danes .......................................................................................... 21 Slika 6: Diagram tehnično nabavnega sektorja ......................................................................................... 28 Slika 7: Primer ponudbe ............................................................................................................................ 30 Slika 8: Kreiranje nabavnega naloga ........................................................................................................ 32 Slika 9: Prikaz materiala seja MM02 ........................................................................................................ 33 Slika 10: Centralno skladišče Pivovarne Laško, d. d. ................................................................................ 34 Slika 11: Seja MD04 zaloga materiala ...................................................................................................... 37 Slika 12: Nabava Pivovarne Laško, d. d. ................................................................................................... 44 Slika 13: Predlog prerazporeditve Nabave ................................................................................................ 47 Slika 14: Centralna nabava Skupine Laško ............................................................................................... 49</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">UVOD</p>
+    <p xml:id="pb8.p2" xml:lang="sl">Opredelitev oz. opis problema, ki je predmet diplomskega dela V diplomskem delu smo predstavili celotni proces nabave materialov v določenem podjetju. Nabava je ena izmed najpomembnejših funkcij, poleg prodaje in proizvodnje.</p>
+    <p xml:id="pb8.p3" xml:lang="sl">Nabava je tista, ki ohranja podjetje konkurenčno s tem, da nabavlja kakovostno blago in po primerni ceni. Nabava pa ne pomeni samo posredovanje nabavnih naročil, ampak tudi to, da skrbi, da ni prevelikih zalog. Se pravi, če hočemo znižati stroške, je potrebna oskrba »just in time«, kar v nekaterih primerih lahko predstavlja problem. Najnižje cene lahko po navadi dosežemo le s primerno velikimi nabavnimi količinami. Nabava mora prav tako skrbeti, da so materiali pravočasno na razpolago za proizvodnjo, da oni napolnijo in prodaja proda kupcu, na katerega je vezana z nekim rokom. Največji pritiski s strani uprave so usmerjeni ravno v nabavo.</p>
+    <p xml:id="pb8.p4" xml:lang="sl">Cilji in teze diplomskega dela</p>
+    <p xml:id="pb8.p5" xml:lang="sl">Cilj diplomske naloge je bil, da v prvem delu opredelimo definicijo in vlogo nabave, v drugem delu pa v celoti predstavimo proces nabave materialov v podjetju Pivovarna Laško, d. d. in reševanje problematike, ki se v teh procesih pojavljajo.</p>
+    <p xml:id="pb8.p6" xml:lang="sl">Postavili smo naslednjo tezo: V proučevanem podjetju se zavedajo, da je nabava ena najpomembnejših funkcij, in da njeno delovanje v celoti vpliva na končni izdelek. V podjetju se dobro zavedajo, da morajo čim prej združiti nabavne službe cele skupine, zaradi doseganja nižjih cen materialov in lažjega nadzora skladiščenja.</p>
+    <p xml:id="pb8.p7" xml:lang="sl">Predpostavke in omejitve diplomskega dela Predpostavka:</p>
+    <p xml:id="pb8.p8" xml:lang="sl">glede na to, da so nam v podjetju odobrili dostop do potrebnih podatkov, predvidevamo, da jih bomo lahko pridobili.</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">Omejitve:</p>
+    <p xml:id="pb9.p2" xml:lang="sl">glede na to, da bomo proučevali proces nabave materialov v izključno enem podjetju, bodo rezultati veljali le za to podjetje,</p>
+    <p xml:id="pb9.p3" xml:lang="sl">omejen dostop do informacij v podjetju, zaradi poslovnih skrivnosti.</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">1 TEORETIČNE OSNOVE</p>
+    <p xml:id="pb10.p2" xml:lang="sl">1.1 Nabavno poslovanje</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Kaltnekar (1993, str. 183) je mnenja, da je poslovna dejavnost podjetja tista, ki:</p>
+    <p xml:id="pb10.p4" xml:lang="sl">oskrbuje podjetje z vsemi potrebnimi materiali in informacijami;</p>
+    <p xml:id="pb10.p5" xml:lang="sl">oblikuje nabavno politiko, planira, analizira, evidentira in kontrolira potrebe in možnosti;</p>
+    <p xml:id="pb10.p6" xml:lang="sl">vzpostavlja in vzdržuje stike z dobavitelji;</p>
+    <p xml:id="pb10.p7" xml:lang="sl">mora s ciljem doseči optimalen ekonomski učinek.</p>
+    <p xml:id="pb10.p8" xml:lang="sl">Prav tako je mnenja, da je nabavna politika pomoč delavcem v nabavi pri njihovem odločanju. Uprava je tista, ki sprejema nabavno politiko in usmerja delo nabave v določeno smer. Pravilno usmerjena in oblikovana nabavna politika je eden od pogojev za dobro in uspešno poslovanje nabave. Nabavna politika postavlja okvirje za delovanje nabave.</p>
+    <p xml:id="pb10.p9" xml:lang="sl">Kaltnekar (1993, str. 183) pravi, da lahko iz same definicije razberemo dva cilja, ki obvladujeta celotno nabavo:</p>
+    <p xml:id="pb10.p10" xml:lang="sl">oskrba celega podjetja z ustreznimi količinami in kvalitetnim materialom ob pravočasni dobavi;</p>
+    <p xml:id="pb10.p11" xml:lang="sl">pri tem pa je potrebno težiti k čim večji gospodarnosti vse dejavnosti.</p>
+    <p xml:id="pb10.p12" xml:lang="sl">Smolar (2007, str. 10) nabavno poslovanje deli na:</p>
+    <p xml:id="pb10.p13" xml:lang="sl">naloge nabave;</p>
+    <p xml:id="pb10.p14" xml:lang="sl">oblike nabave;</p>
+    <p xml:id="pb10.p15" xml:lang="sl">raziskavo nabavnega trga;</p>
+    <p xml:id="pb10.p16" xml:lang="sl">planiranje nabave;</p>
+    <p xml:id="pb10.p17" xml:lang="sl">nabavo in trženje;</p>
+    <p xml:id="pb10.p18" xml:lang="sl">postopke v nabavi.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">»Veliko podjetji ima čedalje manjše možnosti za razvoj, kar pomeni, da se prodaja lahko poveča le z veliko truda in na račun konkurence. Posledica teh dveh sprememb je stopnjevanje pritiska na prodajne cene in s tem tudi na lastne cene in dobiček. To je na številnih trgih povzročilo premik moči med nabavno in prodajno stranjo. Ker se je trg dostikrat spremenil iz trga prodajalcev v trg kupcev, ima vloga kupca sedaj večji vpliv kot pred leti. Po drugi strani pa se je zaradi čedalje večjega pritiska na prodajne cene in dobiček povečal pritisk na neposredne materialne stroške. Ker v industriji nabavne cene zelo vplivajo na prodajne cene, so podjetja nenehno na preži, da bi nabavne cene zadržala na najnižji ravni« (van Weele, 1998, str. 40).</p>
+    <p xml:id="pb11.p2" xml:lang="sl">Prav tako van Weele (1998, str. 43) pravi, da naj bi nabavna funkcija zagotovila optimalni sistem nabave, ki mora biti usmerjen k planom proizvodnje in dobave materialov. Pri nabavnem poslovanju se srečujemo od pridobivanja vsega blaga, ki je potreben za nemoteno delo, vzdrževanje in vodenje podjetja; vključuje tudi storitvene pogodbe zunanjih izvajalcev. Ker gre za zelo različne nabavne potrebe, nekatera podjetja težje podrobno opredelijo nabavo v praksi. Je pa cilj nabavnega managementa sistematizirati nabavni proces in izboljšati nekatere njegove vidike, ki izhajajo iz spremenjenih nabavnih potreb.</p>
+    <p xml:id="pb11.p3" xml:lang="sl">Žmavc (2002, str. 801) pravi, da je nabavna funkcija različno opredeljena. Definicije nabave so predvsem, da nabava zajema vse dejavnosti, za katere podjetje prejme račun od določenega zunanjega dobavitelja. Vključeni so vsi posli med podjetji, kompenzacijski posli in najemanje osebja. Običajno nabavna funkcija vključuje tudi procese nakupovanja, opredelitev potreb, izbiro pravega dobavitelja, pogajanje o primerni ceni, določitev plačilnih pogojev, sklenitev pogodbe ali naročanje in spremljanje naročila do izdobave. Nabavna funkcija zagotavlja material, opremo druge potrebščine in storitve ustrezne kakovosti, v ustreznih količinah, po primerni ceni in pri pravem viru.</p>
+    <p xml:id="pb11.p4" xml:lang="sl">Ivanko in Bergant (1999, str. 22): »Pri uskladiščevanju se moramo držati osnovnih načel zlaganja blaga:</p>
+    <p xml:id="pb11.p5" xml:lang="sl">blago mora biti zloženo po skupinah ali podskupinah, znotraj skupin pa po vrstah blaga;</p>
+    <p xml:id="pb11.p6" xml:lang="sl">blago mora biti urejeno in označeno tako, da se ga hitro opazi;</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">urejen mora biti dostop do blaga;</p>
+    <p xml:id="pb12.p2" xml:lang="sl">upoštevati moramo načelo: blago, ki prvo prispe v skladišče, ga tudi najprej izdamo«.</p>
+    <p xml:id="pb12.p3" xml:lang="sl">Glavne značilnosti posameznih predmetov nabavnega poslovanja:</p>
+    <p xml:id="pb12.p4" xml:lang="sl">surovine – to so materiali, ki niso bili predelani ali le minimalno;</p>
+    <p xml:id="pb12.p5" xml:lang="sl">izdelavni material – sestavni del izdelkov in vpliva na njihovo vsebino;</p>
+    <p xml:id="pb12.p6" xml:lang="sl">polizdelki – so bili že predelani in jih kasneje še predelujemo;</p>
+    <p xml:id="pb12.p7" xml:lang="sl">pomožni material – ni sestavni del izdelkov;</p>
+    <p xml:id="pb12.p8" xml:lang="sl">sestavni deli – sestavine, ki bodo postale del izdelka;</p>
+    <p xml:id="pb12.p9" xml:lang="sl">gorivo in energija – omogočata izdelavni proces;</p>
+    <p xml:id="pb12.p10" xml:lang="sl">trgovsko blago – namenjeno nadaljnji prodaji v nespremenjeni obliki, ;</p>
+    <p xml:id="pb12.p11" xml:lang="sl">odpadni material – ostanki, pokvarjen material;</p>
+    <p xml:id="pb12.p12" xml:lang="sl">material za vzdrževanje, popravila in splošno porabo – drobni pisarniški material;</p>
+    <p xml:id="pb12.p13" xml:lang="sl">storitve;</p>
+    <p xml:id="pb12.p14" xml:lang="sl">embalaža – sestavni del izdelka.</p>
+    <p xml:id="pb12.p15" xml:lang="sl">Pod nabavno poslovanje lahko štejemo tudi nabavno logistiko. Oblak (1997, str. 42) meni: »da nabavna logistika skrbi kot podsistem mikrologistike poslovnega sistema za njegovo oskrbo s prostorsko-časovno določenimi dejavnostmi prevzema in dostave potrebnega blaga v dani količini in kakovosti. Z blagom mislimo pri tem na vse potrebne surovine, materiale, polizdelke in izdelke, ki jih poslovni sistem rabi za izvedbo svojega proizvodnega programa. Funkcija nabavne logistike je torej podpirajoča in prežemajoča sestavina za delovanje funkcije nabave, ki je lahko marketinško zasnovana in kot takšna sestavina marketinške politike določenega ne logističnega poslovnega sistema«.</p>
+    <p xml:id="pb12.p16" xml:lang="sl">»Nabavna funkcija je sinteza z nabavo predmetov dela povezanih in medsebojno odvisnih del in nalog, ki jih opravljajo za to usposobljeni nosilci v funkcionalnem nabavnem procesu kot delnem procesu poslovnega procesa proizvodne organizacije« (Ivanko, 2004, str. 81).</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">Med nabavno poslovanje pa spada tudi pogajanje, ki je ključno, da pridemo do čim boljših rezultatov.</p>
+    <p xml:id="pb13.p2" xml:lang="sl">Kavčič (1992, str. 45) pogajalski proces deli na štiri dele:</p>
+    <p xml:id="pb13.p3" xml:lang="sl">priprave na pogajanja;</p>
+    <p xml:id="pb13.p4" xml:lang="sl">predstavitev teme pogajanja in otvoritev pogajanj;</p>
+    <p xml:id="pb13.p5" xml:lang="sl">proces iskanja rešitev;</p>
+    <p xml:id="pb13.p6" xml:lang="sl">doseganje sporazuma in zaključek pogajanj.</p>
+    <p xml:id="pb13.p7" xml:lang="sl">Potočnik (2002, str. 42) navaja, da na položaj in strukturo nabave vplivajo številni notranji in zunanji dejavniki.</p>
+    <p xml:id="pb13.p8" xml:lang="sl">Notranji dejavniki so:</p>
+    <p xml:id="pb13.p9" xml:lang="sl">velikost;</p>
+    <p xml:id="pb13.p10" xml:lang="sl">značilnosti materiala;</p>
+    <p xml:id="pb13.p11" xml:lang="sl">asortiment materiala;</p>
+    <p xml:id="pb13.p12" xml:lang="sl">tehnološki proces;</p>
+    <p xml:id="pb13.p13" xml:lang="sl">strokovnost nabavnih referentov;</p>
+    <p xml:id="pb13.p14" xml:lang="sl">finančna moč organizacije.</p>
+    <p xml:id="pb13.p15" xml:lang="sl">Zunanji dejavniki so:</p>
+    <p xml:id="pb13.p16" xml:lang="sl">nabavni viri;</p>
+    <p xml:id="pb13.p17" xml:lang="sl">nabavne poti;</p>
+    <p xml:id="pb13.p18" xml:lang="sl">lokacija podjetja;</p>
+    <p xml:id="pb13.p19" xml:lang="sl">predpisi;</p>
+    <p xml:id="pb13.p20" xml:lang="sl">trgovski običaji.</p>
+    <p xml:id="pb13.p21" xml:lang="sl">1.2 Nabava</p>
+    <p xml:id="pb13.p22" xml:lang="sl">Kovačič (1984, str. 84) pravi: »Nabava predstavlja začetek poslovnega procesa v podjetju in z njo nastajajo materialni predpogoji za končni cilj in uspeh. Operativno izvajanje nabave obsega številne postopke v zvezi z iskanjem ponudb, analizo ponudb, izdelavo nabavnih kalkulacij, izbiro dobaviteljev, pogajanj z dobavitelji, sklepanjem pogodb, naročanjem, dostavo in prevzemom blaga. Nabava je odgovorna za zagotavljanje optimalnih zalog, skrbi za kalkulacije in vnose cen ter obvešča o novih cenah, skrbi za posredovanje informacij o novih artiklih prodaji, za priprave akcij in za posredovanje drugih podatkov povezanih s prodajnimi izdelki«.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Jovanovič in Murmayer (november 2008): »Nabava v slovenskih podjetjih še vedno ni primerno cenjena, saj jo vidijo kot relativno nepomembno funkcijo - postavljena je namreč na drugo ali tretjo hierarhično raven upravljanja. Takšen položaj pa ni skladen z velikostjo stroškov, s katerimi nabava upravlja. Prav zaradi tega neskladja vedno več direktorjev podjetij ugotavlja, da njihove nabavne funkcije niso kos modernim zahtevam trga. Zato podjetja premikajo nabavo višje v svoji organizaciji, a le najbolj drzna direktorje nabave imenujejo v svoje uprave (kot CPO = Chief Purchasing Officer). S tem se poveča pomen te funkcije, ki postane bolj vpeta v procese podjetja, povečan obseg sodelovanja pa lahko prinese vidne prihranke. Zato je pomembno, da je za upravljanje posameznih nabavnih kategorij zadolžena le ena oseba. če ima podjetje več podružnic, je združevanje nabave še toliko bolj pomembno, saj na tak način nastanejo pomembni prihranki. Vodenje nabave za celotno skupino naj prevzame ena oseba, ki oblikuje strategijo ter vodi pogajanja z dobavitelji, izvedbo nabave za posamezne nabavne skupine pa se lahko prepusti posameznim podružnicam, ki nabavljajo za celotno skupino«.</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Nabavo pojmujemo ožje in širše. V ožjem pomenu pomeni, da je nakup materiala po neki dogovorjeni ceni, na nekem dogovorjenem trgu. V širšem pomenu pa poleg nakupa obsega še raziskovanje nabavnega trga, načrtovanje nabave, oblikovanje nabavne politike, prevzem materiala, skladiščenje, analiziranje, evidentiranje nabavnih poslov.</p>
+    <p xml:id="pb14.p3" xml:lang="sl">Žibret (2008, str. 11, 12) pravi, da nastane funkcija nabave s širjenjem organizacij.</p>
+    <p xml:id="pb14.p4" xml:lang="sl">Njena pomembnost je vedno drugače razumljena. Danes zavedanje o pomembnosti nabave raste. Nabava je samostojna funkcija in ne more biti funkcija drugega ranga.</p>
+    <p xml:id="pb14.p5" xml:lang="sl">Direktor nabave je v današnjih časih v sodobnih podjetjih eden ključnih vodstvenih funkcij.</p>
+    <p xml:id="pb14.p6" xml:lang="sl">Van Weele (1998, str. 11) pravi takole: »V zadnjih letih se nabava v podjetjih spreminja, kar se kaže v čedalje večjem zanimanju managerjev in nabavnega osebja v proizvodnih podjetjih za to dejavnost. Če upoštevamo finančna sredstva, ki so po navadi povezana s pripravo in uresničenjem nabavnih odločitev, ni to nič nenavadnega.</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">Gospodarna in učinkovita nabavna funkcija lahko veliko pripomore k uspešnosti podjetja. Vendar to še ni vse. Zaradi izvajanja programov izboljšav v managementu razvoja izdelkov, proizvodnje in logistike se je v številnih podjetjih pokazala potreba po izboljšanju odnosov z dobavitelji, tako da bi za razvoj izdelkov potrebovali manj časa, prešli na dobavo ravno ob pravem času in brez napak pri novih in sedanjih vhodnih sestavnih delih. Nabavni oddelek je posrednik, ki prevzema tovrstne dogovore z dobavitelji in nadzoruje njihovo izpopolnjevanje«.</p>
+    <p xml:id="pb15.p2" xml:lang="sl">Ferišak in Stihović (1989, str. 1) pravita, da se nabava v najožjem smislu lahko enači z prodajo pri sklepanju pogodb. Je stvar dvostranskega posla – kupovanja in prodaje, s strani kupca predstavlja nakup nekega materiala za proizvodnjo in storitve po določeni ceni. Nabava pa v najožjem smislu objema zaključevanje kupoprodajne pogodbe ali naročanje in izvršitev kupoprodajne pogodbe z dostavo materiala za proizvodnjo in izpolnitev storitve ter plačilu prodajalca. Nabava v širšem smislu zajema celokupno dejavnost povezano z nakupom sredstev za proizvodnjo in storitev. Nabava se v širšem smislu imenuje oskrba ali oskrbovanje s sredstvi za proizvodnjo in storitev.</p>
+    <p xml:id="pb15.p3" xml:lang="sl">Potočnik (2002, str. 20) meni, da nabava ni le poslovna funkcija proizvodnih podjetji, ampak je ena najpomembnejših dejavnosti trgovskih, javnih in storitvenih organizacij.</p>
+    <p xml:id="pb15.p4" xml:lang="sl">Nabavo lahko razčlenimo na štiri glavne skupine: nabavo proizvodnih oziroma predelovalnih organizacij, nabavo preprodajalcev, nabavo organizacij javnega sektorja, nabavo samostojnih institucij, ki se financirajo iz javnih sredstev, delno pa iz sredstev prodanih storitev.</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Najpomembnejše naloge nabavne službe so (Potočnik, 2002, str. 9):</p>
+    <p xml:id="pb15.p6" xml:lang="sl">določitev potreb po materialu za proizvodnjo oziroma potreb po trgovskem blagu za prodajo;</p>
+    <p xml:id="pb15.p7" xml:lang="sl">izbira dobaviteljev na podlagi ugotovitev raziskave nabavnega trga;</p>
+    <p xml:id="pb15.p8" xml:lang="sl">načrtovanje nabave;</p>
+    <p xml:id="pb15.p9" xml:lang="sl">pripravljalna dela: iskanje ponudb, analiza ponudb, nabavne kalkulacije ipd. ;</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">pogajanje in sklenitev pogodbe za nabavo materiala;</p>
+    <p xml:id="pb16.p2" xml:lang="sl">naročanje;</p>
+    <p xml:id="pb16.p3" xml:lang="sl">prevzem materiala;</p>
+    <p xml:id="pb16.p4" xml:lang="sl">kontrola in reklamacije;</p>
+    <p xml:id="pb16.p5" xml:lang="sl">izdaja naloga za plačilo;</p>
+    <p xml:id="pb16.p6" xml:lang="sl">evidenca nabave.</p>
+    <p xml:id="pb16.p7" xml:lang="sl">Funkcija nabave je povezana tudi z drugimi funkcijami:</p>
+    <p xml:id="pb16.p8" xml:lang="sl">Razvojna funkcija: tu nabava sodeluje pri razvoju novih izdelkov, iskanju novih materialov, opreme in tehnologije za proizvodnjo. Nabava ne sme in ne more sama odločati o dobavi novih materialov brez da se prej ne poveže z razvojnim oddelkom.</p>
+    <p xml:id="pb16.p9" xml:lang="sl">Proizvodna funkcija: tu nabava sodeluje predvsem pri planih proizvodnje in nabave, izmenjavi informacij o planih proizvodnje, dobavnih rokih dobaviteljev, dobavi kakovostnih materialov, če pride do reklamacij, kar je najbolj pomembno pri natančnem planiranju potrebnih količin materialov (da ne prihaja do prevelikih zalog, ki povzročajo stroške, oziroma premalo nabavljenih količin, ki povzročajo izpad v proizvodnji).</p>
+    <p xml:id="pb16.p10" xml:lang="sl">Nabava in proizvodnja sta vedno v napetih odnosih, ker je nabava vedno tisti krivec, če kaj zmanjka, čeprav je proizvodnja zadnji hip spremenila plan. Ta nasprotja velikokrat otežujejo delo obema.</p>
+    <p xml:id="pb16.p11" xml:lang="sl">Prodajna funkcija: med seboj sta povezani predvsem kadar gre za akcije in se mudi ali pa gredo preko plana in jih zanima ali so materiali na razpolago. Kakor hitro prodaja dobi povečan plan, javi to tako nabavi kot tudi proizvodnji. Povezanost je potrebna tudi zaradi cen materialov, katere prodaja potrebuje zaradi ocenitve končnega proizvoda.</p>
+    <p xml:id="pb16.p12" xml:lang="sl">Finančna funkcija: za določanje finančnega plana morajo v finance prejeti plan prodaje in plan nabave, ki sta ključnega pomena. Velikokrat se zgodi, da med planoma prihaja do konfliktnih situacij oziroma razhajanj. Če nabava naroči večje količine, dobi nižjo ceno že na račun rabatov. Če pa naroči večje količine, se zvišajo zaloge in s tem se povečujejo stroški zalog, prav tako pa tudi poraba dodatnih finančnih sredstev. Zelo pomembno je, da oba presodita ekonomsko upravičenost oziroma oportunitetne stroške.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Kontrola kakovosti: ta služba nabavo obvesti o neustreznosti materialov. Pošlje reklamacijski zapisnik, katerega nabavni referent pošlje direktno dobavitelju. Služba lahko nabavi priporoča, da ne nabavlja več pri spornem dobavitelju, dokler se ne odpravijo neskladnosti.</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Skladišče: sodelovanje med skladiščem in nabavo poteka predvsem zaradi spremljanja dobav, vodenja in optimiranja zalog.</p>
+    <p xml:id="pb17.p3" xml:lang="sl">Pravna služba: skupaj z nabavo pripravlja pogodbe, obvešča nabavo o zakonih in predpisih.</p>
+    <p xml:id="pb17.p4" xml:lang="sl">Kadrovska služba: skrbi za izobraževanje zaposlenih in izpopolnjevanje nabavnega osebja in sodeluje pri izbiri novega kadra.</p>
+    <p xml:id="pb17.p5" xml:lang="sl">Slika 1: Proces nabave Vir: Završnik, 1996, str. 57</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Potočnik (2002, str. 30) zgoraj omenjene naloge nabavne službe razvršča v štiri skupine:</p>
+    <p xml:id="pb17.p7" xml:lang="sl">pripravljanja dela (raziskava trga, načrtovanje nabave, oblikovanje nabavne politike);</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">opravila povezana z izvrševanjem nabave (iskanje in analiza ponudb, izbira dobaviteljev, pogajanje, sklepanje nabavnih pogodb, naročanje, prevzemanje) ;</p>
+    <p xml:id="pb18.p2" xml:lang="sl">kontrola in plačilo (kontrola materiala, kontrola računov dobaviteljev, reklamacije, plačilo računov) ;</p>
+    <p xml:id="pb18.p3" xml:lang="sl">nabavna evidenca in analiza (evidenca naročil, evidenca dobaviteljev, evidenca nabavnih cen, evidenca materiala, evidenca reklamacij, analiza nabavnega poslovanja).</p>
+    <p xml:id="pb18.p4" xml:lang="sl">Prav tako Potočnik (2002, str. 182) pravi: »Računalniški sistem v nabavnem oddelku prinaša številne koristi:</p>
+    <p xml:id="pb18.p5" xml:lang="sl">Zmanjšanje rutinskih administrativnih del z avtomatsko pripravo dokumentacije (naročilnice, potrditve naročila, prevzemnice, reklamacijski zapisnik ipd);</p>
+    <p xml:id="pb18.p6" xml:lang="sl">Poenostavitev nabavnih postopkov, ki so bili do sedaj dolgotrajni in zapleteni;</p>
+    <p xml:id="pb18.p7" xml:lang="sl">Zagotovitev natančnih in najnovejših podatkov, ki so koristni za nabavne odločitve;</p>
+    <p xml:id="pb18.p8" xml:lang="sl">Zmanjšanje števila administrativnega osebja v nabavi;</p>
+    <p xml:id="pb18.p9" xml:lang="sl">Takojšen izračun ekonomične količine naročila in morebitnih variant zaradi spremembe cene ali roka dobave;</p>
+    <p xml:id="pb18.p10" xml:lang="sl">Prihranek zaradi boljšega pregleda nad zalogo materiala in zaradi minimiziranja potrebne zaloge;</p>
+    <p xml:id="pb18.p11" xml:lang="sl">Sprotno (dnevno) ali intervalno (tedensko, mesečno) pridobivanje poročil, zlasti o vrednosti vseh naročil v obdobju, vrednosti naročil pri posameznem dobavitelju, razporeditvi dobaviteljev po velikosti, zamudah pri dobavi, vrednosti zaloge po vrstah materiala, povprečni vrednosti in koeficientu obračanja zalog, dospelih računih dobaviteljev ipd«.</p>
+    <p xml:id="pb18.p12" xml:lang="sl">Vučkovič (2008, str. 9) meni: » V današnjem poslovnem okolju sta nabava in dobava zelo pomembni funkciji podjetij. Izbira dobavitelja je pogojena z iskanjem podatkov o pravem dobavitelju, ki je danes pogojeno s stalno razvijajočim se informacijskim okoljem in hitro se spreminjajočimi razmerami v poslovnem okolju. Zastavlja se vprašanje metod ocenjevanja dobaviteljev za izbiro dobavitelja in tudi dilema, kdaj zamenjati dobavitelja. Izbira dobaviteljev je za managerja težka naloga, saj vpliva tako na uspešnost oziroma konkurenčnost podjetja, kot tudi na odnose znotraj podjetja, vse skupaj pa na povezovanje in sodelovanje z drugimi podjetji. Na delovanje trgov so močno vplivale politične spremembe, ki so spremenile trgovinske bloke in vzpostavile nove nabavne trge. Pomembni so predvsem predpisi Evropske unije ter Severno ameriški sporazum o svobodni trgovini, katerih namen je spodbujanje svobodne trgovine. Prav tako vse ostrejša zakonodaja o varovanju okolja vpliva na sodelovanje kupcev in dobaviteljev, ki morajo v medsebojnem sodelovanju reševati problematike ostankov materialov in vplivov okolja le teh na okolje«.</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">Smolar (2007, str. 11) pravi: »Nabavna služba podjetja se praviloma sooča z naslednjimi vprašanji:</p>
+    <p xml:id="pb19.p2" xml:lang="sl">kaj kupiti;</p>
+    <p xml:id="pb19.p3" xml:lang="sl">koliko kupiti;</p>
+    <p xml:id="pb19.p4" xml:lang="sl">kdaj kupiti;</p>
+    <p xml:id="pb19.p5" xml:lang="sl">kje kupiti;</p>
+    <p xml:id="pb19.p6" xml:lang="sl">po kakšnih pogojih kupiti;</p>
+    <p xml:id="pb19.p7" xml:lang="sl">koliko plačati«.</p>
+    <p xml:id="pb19.p8" xml:lang="sl">»Odgovori na ta vprašanja natančneje opredeljujejo pojem nabave, in sicer: nabava je tista poslovna funkcija, ki pravočasno, po primerni ceni, s potrebno količino in ustrezno kakovostjo oskrbuje: a) proizvodna podjetja s surovinami, materiali in energijo zaradi kontinuirane proizvodnje ter b) trgovska podjetja z blagom zaradi nadaljnje prodaje (predelovalcem, velikim uporabnikom, končnim porabnikom)« (Smolar, 2007, str. 11).</p>
+    <p xml:id="pb19.p9" xml:lang="sl">Kavčič (2011, str. 16) je menja, da si je nabava kot funkcija pridobila strateški pomen v organizaciji. K uspešnosti organizacije lahko bistveno pripomore. V angleškem jeziku lahko najdemo veliko pojmov:</p>
+    <p xml:id="pb19.p10" xml:lang="sl">»purchasing« (nakupovanje);</p>
+    <p xml:id="pb19.p11" xml:lang="sl">»procurement« (preskrbovanje);</p>
+    <p xml:id="pb19.p12" xml:lang="sl">»supply« (oskrba);</p>
+    <p xml:id="pb19.p13" xml:lang="sl">»material management« (materialno poslovanje).</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">Vorina (2005, str. 22) meni, da je s pojmom nabava mišljena preskrba podjetja z materialom, ki je potreben za proizvodnjo. Blago predstavlja vse potrebne surovine, materiale, polizdelke in izdelke, ki jih podjetje potrebuje za uresničitev svojega proizvodnega ali prodajnega programa. Služba nabave mora zagotoviti ves potreben material, ki ga proizvodnja potrebuje za nemoteno delo. Blago mora priti pravočasno, predvsem mora biti kvalitetno, količinsko ustrezno in po ugodni ceni.</p>
+    <p xml:id="pb20.p2" xml:lang="sl">Završnik (2000, str. 49-59) pravi, da mora vsak nabavni oddelek voditi evidenco naročil. Evidenca vsebuje šifro in ime dobavitelja, številko naročila, opis materiala in vrednost naročila. Za hitrejši dostop je najboljše, da so evidence po imenih dobaviteljev.</p>
+    <p xml:id="pb20.p3" xml:lang="sl">Pri dobaviteljih so naročila razvrščena po številkah. Njihova evidenca vsebuje povpraševanje, ponudbo, nabavni nalog, potrditev naročila. V arhivu morajo biti najmanj 3 leta, vsa edinstvena in naročila velikih vrednosti pa se morajo hraniti dlje časa.</p>
+    <p xml:id="pb20.p4" xml:lang="sl">Čižman (2002, str. 53-54) meni, da so zaloge pomembno področje gospodarjenja v vsaki organizaciji, le-te zagotavljajo nemoteno oskrbo ob pravem času in s tem omogočajo poslovanje več funkcij, predvsem nabave, proizvodnje in prodaje. Zaloge podjetju povzročajo velike stroške, saj je v njih investiran pomemben del sredstev.</p>
+    <p xml:id="pb20.p5" xml:lang="sl">Zaloge torej omogočajo nemoteno delo v proizvodnji, ob enem pa nase vežejo velika finančna sredstva.</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Rozman (2007, str. 32) pravi, da je uspešnost nabave v veliki meri odvisna od osebja, ki dela v nabavi. Zaradi hitrih sprememb tehnologije in uporabe novih trendov postaja nabavno poslovanje čedalje bolj zapleteno.</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Završnik (2000, str. 116) pravi, da je nabava pomembna funkcija vsakega podjetja, ki pa mora biti za učinkovito delovanje ustrezno organizirana. Ne moremo govoriti o splošni organiziranosti, potrebno jo je razvijati, prilagajati specifičnim potrebam in zahtevam podjetja.</p>
+    <p xml:id="pb20.p8" xml:lang="sl">Predvsem notranji dejavniki neposredno vplivajo na organizacijsko obliko nabave. Ta oblika ima glede na svojo velikost, gospodarsko panogo, prostorsko lokacijo in možnosti različne dejavnike za organiziranje nabave, ki je lahko:</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">centralizirana;</p>
+    <p xml:id="pb21.p2" xml:lang="sl">decentralizirana;</p>
+    <p xml:id="pb21.p3" xml:lang="sl">kombinirana.</p>
+    <p xml:id="pb21.p4" xml:lang="sl">Dejavniki, ki vplivajo na centralizirano ali decentralizirano obliko nabave Van Weele (1998, str. 266−267) navaja: »Podjetja upoštevajo različne dejavnike, ko se odločajo za centralizirano ali decentralizirano obliko nabave:</p>
+    <p xml:id="pb21.p5" xml:lang="sl">povezanost nabavnih potreb – večja povezanost nabavnih materialov narekuje centralizirani pristop, ki s tem prinaša večje koristi;</p>
+    <p xml:id="pb21.p6" xml:lang="sl">geografska lokacija – zaradi oddaljenosti podjetij, večjih transportnih stroškov, kulturnih razlik, usklajevanj je primernejša decentralizirana oblika nabave;</p>
+    <p xml:id="pb21.p7" xml:lang="sl">struktura nabavnega trga – v primeru enega ali nekaj dobaviteljev je primernejša centralizirana nabava s strani kupca zaradi pogajalske moči;</p>
+    <p xml:id="pb21.p8" xml:lang="sl">možnost prihrankov – nakup večjih količin nekaterih materialov, predvsem standardnih, omogoča ugodnejše cene in s tem prihranek na stroških, zato je primernejša centralizirana oblika nabave;</p>
+    <p xml:id="pb21.p9" xml:lang="sl">potrebno strokovno znanje – potrebno je predvsem pri nabavi visoko tehnoloških materialov in proizvodov ter opremi, zato je primernejša centralizirana oblika nabave, kjer so vključeni strokovnjaki;</p>
+    <p xml:id="pb21.p10" xml:lang="sl">nihanje cen – za proizvode, ki so občutljivi na politične ali gospodarske razmere, je ustreznejša centralizirana nabava;</p>
+    <p xml:id="pb21.p11" xml:lang="sl">zahteve kupcev – v nekaterih primerih določa kupec dobavitelju, da mora določen material vgraditi v končni proizvod;</p>
+    <p xml:id="pb21.p12" xml:lang="sl">poslovna miselnost – opredeljuje politiko podjetja do samostojnih ali povezanih enot in ustvarjanje dobička v njih;</p>
+    <p xml:id="pb21.p13" xml:lang="sl">politika izdelkov – nanaša se na politiko podjetja do razvoja novih proizvodov, standardizacijo, kakovost.« Centralizirana nabava</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">Kadar gre za centralizirano obliko, pomeni, da nabavna služba oskrbuje vse iz enega mesta s surovinami, materialom, energijo …Vsa spremna dokumentacija in naročila se prav tako arhivirajo v nabavni službi.</p>
+    <p xml:id="pb22.p2" xml:lang="sl">Prednosti centraliziranega nabavnega sistema (Potočnik 2002, str. 43-44):</p>
+    <p xml:id="pb22.p3" xml:lang="sl">nabava bolj učinkovito izvaja nabavno politiko podjetja;</p>
+    <p xml:id="pb22.p4" xml:lang="sl">enotni nastop do dobaviteljev;</p>
+    <p xml:id="pb22.p5" xml:lang="sl">zaradi večjih količin se dosegajo boljši nabavni pogoji (količinski rabat, daljši plačilni rok);</p>
+    <p xml:id="pb22.p6" xml:lang="sl">gospodarnejše ravnanje z zalogami v skladiščih;</p>
+    <p xml:id="pb22.p7" xml:lang="sl">racionalnejša uporaba finančnih sredstev;</p>
+    <p xml:id="pb22.p8" xml:lang="sl">večja informiranost stanja na nabavnem trgu;</p>
+    <p xml:id="pb22.p9" xml:lang="sl">zmanjšanje števila naročil, kar omogoča bolj pregledno kontrolo materiala in dokumentacije;</p>
+    <p xml:id="pb22.p10" xml:lang="sl">prednost za dobavitelje, saj poslujejo z manjšim številom kupcem.</p>
+    <p xml:id="pb22.p11" xml:lang="sl">Van Weele (1998, str. 262) pravi, da se na korporacijski ravni ustanovi centralni nabavni oddelek, v katerem sodelujejo strokovnjaki za sklepanje pogodb. Nabavna politika se vodi centralno, od odločitev o specifikaciji materialov, do izbire dobaviteljev, centralnih pogajanj in priprave pogodb.</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">Slika 2: Centralizirano organizirana nabava Vir: van Weele (1998, str. 262) Decentralizirana nabava</p>
+    <p xml:id="pb23.p2" xml:lang="sl">O decentralizaciji govorimo, kadar ima nabava še poslovne enote in so te popolnoma samostojne ter se same oskrbujejo z vsemi materiali.</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Prednosti decentralizirane nabave (Završnik, 2000, str. 118):</p>
+    <p xml:id="pb23.p4" xml:lang="sl">vsaka poslovna enota najbolje pozna svoje potrebe po naročanju;</p>
+    <p xml:id="pb23.p5" xml:lang="sl">oskrbovanje na lokalnem trgu: boljša osveščenost, hitra dostava in cenejši prevoz;</p>
+    <p xml:id="pb23.p6" xml:lang="sl">vsaka poslovna enota lahko uporablja nekatere specifične materiale, ki jih sama najbolje pozna;</p>
+    <p xml:id="pb23.p7" xml:lang="sl">nabava materialov, ki imajo manjšo vrednost obremenjuje centralizirano obliko nabave.</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">Slika 3: Decentralizirano organiziranje nabave Vir: van Weele (1998, str. 261) Kombinirana nabava</p>
+    <p xml:id="pb24.p2" xml:lang="sl">Kombinirana nabava je kombinirano poslovanje med proizvodnimi enotami. Vsaka enota v podjetju se lahko sama odloči ali se bo vključila v letno pogodbo z dobavitelji ali bo naročala samostojno. Te vrste nabave se poslužujejo predvsem podjetja, v katerih proizvodni programi uporabljajo iste materiale. Največja enota je proizvodnja, kjer gre za največje količine različnih materialov.</p>
+    <p xml:id="pb24.p3" xml:lang="sl">Področja raziskave nabavnega trga</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Van Weele (1998, str. 153−154) pravi, da lahko po obsegu raziskavo nabavnega trga razdelimo na tri alineje:</p>
+    <p xml:id="pb24.p5" xml:lang="sl">makroekonomsko raziskavo: ta je usmerjena na širše gospodarsko področje in je namenjena proučevanju gospodarskih razmer, katere lahko vplivajo na ponudbo in povpraševanje (inflacija, zadolženost, rast dohodkov, cene, politične razmere itd.), ;</p>
+    <p xml:id="pb24.p6" xml:lang="sl">mezoekonomsko raziskavo: ki je usmerjena v določeno panogo, z njo se analizira stanje konkurence v panogi (ponudba in povpraševanje, zaloge, struktura trga);</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">mikroekonomsko raziskavo: usmerjena je na prav določene dobavitelje. Z njo se želi spoznati ekonomski položaj dobavitelja z različnih vidikov (finančno stanje, cene, izpolnjevanje rokov dobave, kakovost materialov).</p>
+    <p xml:id="pb25.p2" xml:lang="sl">Weele (1998, str. 153) prav tako meni, da glede na predmet raziskave je lahko raziskava usmerjena na:</p>
+    <p xml:id="pb25.p3" xml:lang="sl">material, blago in storitve: s tem se raziščejo možnosti za alternativne dobrine, ki bi bile cenejše, nabavljene pod ugodnejšimi pogoji, boljše kakovosti itd.;</p>
+    <p xml:id="pb25.p4" xml:lang="sl">dobavitelje: z raziskavo dobaviteljev so na razpolago možnosti za dolgoročno poslovno tehnično in razvojno sodelovanje z dobavitelji;</p>
+    <p xml:id="pb25.p5" xml:lang="sl">sisteme in postopke: sodobni sistemi in postopki omogočajo hitrejše dostope do virov s področja nabavnega trženja. Nove in sveže informacije pa pomenijo temelj za uspešne raziskave in hitro ukrepanje. Ustrezni sistemi in postopki, ki so podprti z ustrezno informacijsko tehnologijo, pa lahko bistveno poenostavijo določene naloge.</p>
+    <p xml:id="pb25.p6" xml:lang="sl">Informacijsko telekomunikacijska tehnologija omogoča hitro in uspešno raziskavo nabavnega trga.</p>
+    <p xml:id="pb25.p7" xml:lang="sl">Vrste nakupnih odločitev v medorganizacijskem trženju</p>
+    <p xml:id="pb25.p8" xml:lang="sl">Van Welle (1998, str. 48) pravi, da so odločitve o nakupih v podjetjih in organizacijah odvisne od nakupnih oblik oziroma nakupnega položaja. Med najbolj uspešne nakupne odločitve na medorganizacijskem trgu uvršča prvi nakup, prilagojen ponovni nakup, takojšen ponovni nakup.</p>
+    <p xml:id="pb25.p9" xml:lang="sl">Prvi nakup: se smatra, če podjetje kupuje nov material, novo osnovno sredstvo itd. Pri prvem nakupu je veliko vprašanj in veliko tveganje glede pravilne odločitve o nakupu.</p>
+    <p xml:id="pb25.p10" xml:lang="sl">Večje kot so vrednosti in tveganja, več mora biti udeleženih za odločitev in več je potrebnih tržnih informacij. (Primer takšnega nakupa je nabava vsake nove opreme ali tehnologije).</p>
+    <p xml:id="pb25.p11" xml:lang="sl">Prilagojen ponovni nakup: to pomeni nabavo materiala, katerega podjetje že kupuje pri drugem dobavitelju ali pa nabavo novega materiala vrši pri že znanem dobavitelju.</p>
+    <p xml:id="pb25.p12" xml:lang="sl">Kupec lahko zahteva tudi spremembo cene, dobavnih pogojev itd. (v kolikor ima drugi dobavitelj za enako blago boljše cene in pogoje).</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">Takojšen ponovni nakup: nakup materiala se izvrši pri že znanem dobavitelju. Gre za ponovno naročanje materiala po neki rutini. Tveganje je tu najmanjše, ker sta znana tako dobavitelj kot material.</p>
+    <p xml:id="pb26.p2" xml:lang="sl">Od vseh nakupnih oblik je najboljša in najlažja oblika takojšen ponovni nakup, saj so tu tveganja pri odločitvah minimalna. Največjo odločitev zahteva prvi nakup. Tu so odločitve povezane predvsem z dobavitelji, značilnostmi materiala, cenami, pogoji dobave, plačilnimi pogoji in količinami naročil.</p>
+    <p xml:id="pb26.p3" xml:lang="en">Just in time nabava</p>
+    <p xml:id="pb26.p4" xml:lang="sl">Največja značilnost »just in time« nabave (JIT) je ta, da se mora material nabaviti točno takrat, ko nastane potreba in se ne nabavlja na zaloge. Just in time nabava pa ne pomeni, da se posluje brez zalog ali da ima zaloge dobavitelj. Just in time dobava je proces, v katerem se nenehno približujemo stanju brez zalog, ki pa ga seveda ne dosegamo. Zato je potrebno izdelke dobavljati dnevno, nekatere celo večkrat dnevno, odvisno od povpraševanja.</p>
+    <p xml:id="pb26.p5" xml:lang="sl">Znižanje zalog ima pomembne ekonomske učinke; manjše stroške zaradi manjših izgub materiala, manj skladiščnega prostora, manj dela itd. Če želimo z JIT dobavo zagotoviti nepretrganost poslovnega procesa, moramo preprečiti predčasne in prepozne dobave, za kar pa je potrebna velika usklajenost in medsebojno zaupanje med dobaviteljem in kupcem. Prav tako mora biti komunikacija (količina, cena, čas nabave) med kupcem in dobaviteljem vsakodnevna in pravočasna, kar pa nam današnja digitalna tehnologija seveda omogoča.</p>
+    <p xml:id="pb26.p6" xml:lang="sl">O'Neal and Bertrand (1995, str. 12) pravita, da z vidika nabavnega oddelka uvajanje JIT strategije zahteva izpolnjevanje nekaterih pogojev:</p>
+    <p xml:id="pb26.p7" xml:lang="sl">količinsko majhne dobave;</p>
+    <p xml:id="pb26.p8" xml:lang="sl">točen čas dobave;</p>
+    <p xml:id="pb26.p9" xml:lang="sl">popolno kakovost;</p>
+    <p xml:id="pb26.p10" xml:lang="sl">pogoste dobave;</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">minimalen čas prevoza.</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Bistvo JIT strategije je v tem, da dobavitelj dobavi blago direktno do trgovine, ne le enkrat, ampak večkrat v manjših količinah. S količinsko majhnimi dobavami je torej pogojena njihova pogostost. Ko se v marketu opazi, da količina nekega blaga upada oz. še preden se je to blago prodalo, je naloga nabavne funkcije, da obvesti dobavitelja o naročilu blaga.</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Zaradi minimalnih zalog je zelo pomemben dejavnik JIT strategije tudi točen čas dobave. V marketu si ne morejo privoščiti, da kupca ne bi zadovoljili v celoti oz. bi ostali brez blaga, ki ga stranka želi. Prav zaradi tega je točen čas dobave eden izmed najpomembnejših dejavnikov. Čas dobave je v veliki meri odvisen od samega dobavitelja, njegove obdelave naročil in skladiščne organiziranosti, torej od njegove zanesljivosti. Na čas dobave odločilno vpliva tudi oddaljenost dobavitelja do prodajnih prostorov kupca, v našem primeru razdalja med dobaviteljem in marketom, kar pomeni, da bi nam najbolj ustrezali dobavitelji s sedežem v bližini naših poslovalnic.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Zato bi bilo pri takem sistemu nabave potrebno oceniti vse potencialne dobavitelje, saj bi lahko sodelovali le z dobavitelji, na katere bi se lahko v celoti zanesli.</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Oskrbna veriga</p>
+    <p xml:id="pb27.p6" xml:lang="sl">Ogorelc (2004, str. 289) pravi, da: »Z oskrbno verigo razumemo vse aktivnosti, ki omogočajo oskrbo proizvodnje z materialnimi viri in pretok izdelkov do končnega porabnika ter s tem povezan tok informacij. Materialni tok in tok informacij tečeta v obe smeri oskrbne verige, po verigi navzdol in navzgor. Oskrbna veriga obsega upravljanje informacijskih sistemov, nabavo materialov, menedžment proizvodnje, upravljanje z zalogami, skladiščenje, embaliranje izdelkov in druge aktivnosti. Udeleženci v verigi so dobavitelji surovin in vhodnih materialov, industrijska podjetja (proizvajalci), trgovci, transportna in druga logistična podjetja ter pomembnejši kupci. Možne so tudi posebne logistične povezave s »ključnimi dobavitelji« oziroma »ključnimi kupci«. Mrežo dobaviteljev tvorijo vsa podjetja, ki oskrbujejo (neposredno in posredno) proizvajalca končnih izdelkov«.</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">Slika 4: Tradicionalna oskrbovalna veriga nekoč Vir: Ulaga, 2005, str. 9</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Slika 5: Integrirana oskrbovalna veriga danes Vir: Ulaga, 2005, str. 9 Izbira dobavitelja</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Završnik (2004, str. 53) pravi, da se proces izbire dobavitelja razlikuje glede na to ali gre za rutinsko nabavljanje ali za nabavo novega materiala. Rutinsko nabavljanje pomeni, da naročimo material pri dobavitelju, ki je na seznamu odobrenih dobaviteljev, ker naj bi že izkazal zaupnost in poštenost. Naročilo se izvede brez raziskave in brez procesa izbire primernega dobavitelja. V kolikor nabava kupuje material prvič, je seveda tveganje večje, zato pridobi več informacij o potencialnih dobaviteljih in uporabi merila, katera si je zastavila za izbiro dobaviteljev.</p>
+    <p xml:id="pb28.p4" xml:lang="sl">Završnik (2004, str. 56-68) meni, da je pravilna izbira dobavitelja odvisna od pravilnega postopka izbire dobavitelja:</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Direktor nabave mora najprej upoštevati vse razpoložljive vire in informacije o dobaviteljih, ki jih dobi. Ti viri so:</p>
+    <p xml:id="pb29.p2" xml:lang="sl">adresarji in industrijski registri;</p>
+    <p xml:id="pb29.p3" xml:lang="sl">razstave in sejmi, na katerih lahko proizvode vidi in jih otipa, ter vzpostavi osebni stik;</p>
+    <p xml:id="pb29.p4" xml:lang="sl">katalogi in prospekti;</p>
+    <p xml:id="pb29.p5" xml:lang="sl">internet, poslovne baze podatkov;</p>
+    <p xml:id="pb29.p6" xml:lang="sl">borzna in tržna poročila;</p>
+    <p xml:id="pb29.p7" xml:lang="sl">vse vrste poslovnih, strokovnih in dnevnih časopisov;</p>
+    <p xml:id="pb29.p8" xml:lang="sl">rumene strani telefonskih imenikov;</p>
+    <p xml:id="pb29.p9" xml:lang="sl">statistične publikacije;</p>
+    <p xml:id="pb29.p10" xml:lang="sl">trenutni viri v podjetju;</p>
+    <p xml:id="pb29.p11" xml:lang="sl">informacije od posrednikov;</p>
+    <p xml:id="pb29.p12" xml:lang="sl">izmenjava izkušenj iz drugih podjetji;</p>
+    <p xml:id="pb29.p13" xml:lang="sl">sporočila od bank in vladnih ustanov;</p>
+    <p xml:id="pb29.p14" xml:lang="sl">tržne raziskave.</p>
+    <p xml:id="pb29.p15" xml:lang="sl">Direktor nabave v sodelovanju z drugimi oddelki, po proučitvi vseh virov informacij, oblikuje merila za izbiro dobavitelja. Najpomembnejša so:</p>
+    <p xml:id="pb29.p16" xml:lang="sl">kakovost materiala;</p>
+    <p xml:id="pb29.p17" xml:lang="sl">ugodna nabavna cena, popusti, rabati…;</p>
+    <p xml:id="pb29.p18" xml:lang="sl">pravočasne dobave naročenih količin;</p>
+    <p xml:id="pb29.p19" xml:lang="sl">plačilni pogoji;</p>
+    <p xml:id="pb29.p20" xml:lang="sl">proizvodne zmogljivosti;</p>
+    <p xml:id="pb29.p21" xml:lang="sl">fleksibilnost glede sprememb naročil;</p>
+    <p xml:id="pb29.p22" xml:lang="sl">zaloge dobaviteljev;</p>
+    <p xml:id="pb29.p23" xml:lang="sl">ugodno reševanje reklamacij;</p>
+    <p xml:id="pb29.p24" xml:lang="sl">reference dobavitelja;</p>
+    <p xml:id="pb29.p25" xml:lang="sl">sedež/lokacija dobavitelja;</p>
+    <p xml:id="pb29.p26" xml:lang="sl">finančna moč dobavitelja;</p>
+    <p xml:id="pb29.p27" xml:lang="sl">trajna poslovna vez.</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">Nato sledi zbiranje informacij na neformalen način, da se lahko že na začetku izločijo neprimerni kandidati, ki ne izpolnjujejo postavljenih meril.</p>
+    <p xml:id="pb30.p2" xml:lang="sl">Vse kandidate, ki so prišli v ožji izbor, je potrebno še enkrat dobro proučiti na podlagi posebej pripravljenih vprašalnikov.</p>
+    <p xml:id="pb30.p3" xml:lang="sl">Odgovore pregleda direktor nabave s svojo izbrano skupino.</p>
+    <p xml:id="pb30.p4" xml:lang="sl">Tiste dobavitelje, ki so bili najbolje ocenjeni na osnovi informacij, ki jih je direktor nabave pridobil, skupina tudi obišče.</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Po obiskih se izbere najprimernejšega dobavitelja.</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">2 PROCES NABAVE MATERIALOV V PROUČEVANEM PODJETJU</p>
+    <p xml:id="pb31.p2" xml:lang="sl">2.1 Na kratko o podjetju Pivovarna Laško, d. d.</p>
+    <p xml:id="pb31.p3" xml:lang="sl">Danes Pivovarna Laško, d. d. stopa po poti intenzivnega poslovnega razvoja s temeljno poslovno usmeritvijo: ponuditi uporabnikom najkakovostnejše pivo ob odlični oskrbi tržišča. S sodobno pivovarsko tehnologijo, računalniškim procesnim krmiljenjem in poslovno informatiko razvija ustrezne proizvodne in tržne programe, ki zagotavljajo vrhunsko kakovost piva in ostalih izdelkov ter tako utrjuje njegovo priljubljenost med domačimi in tujimi ljubitelji piva.</p>
+    <p xml:id="pb31.p4" xml:lang="sl">Skupino Pivovarne Laško, d. d. sestavljajo naslednje družbe:</p>
+    <p xml:id="pb31.p5" xml:lang="sl">Pivovarna Laško, d. d.;</p>
+    <p xml:id="pb31.p6" xml:lang="sl">Pivovarna Union, d. d.;</p>
+    <p xml:id="pb31.p7" xml:lang="sl">Radenska, d. d.;</p>
+    <p xml:id="pb31.p8" xml:lang="sl">Vital d. o. o.;</p>
+    <p xml:id="pb31.p9" xml:lang="sl">Jadranska Pivovarn, d. d..</p>
+    <p xml:id="pb31.p10" xml:lang="sl">Povezovanje prinaša zniževanje stroškov, saj večji kot si, večje ugodnosti lahko dobiš, zaradi večjih količin. Dobavitelji so pripravljeni cene zelo spustiti, saj gre resnično za velike količine materialov.</p>
+    <p xml:id="pb31.p11" xml:lang="sl">Krovno blagovno znamko Laško predstavljajo naslednji izdelki: »zastavonoša« Laško Zlatorog, specialna piva Laško Club, Laško Dark, in Laško Light = svetlo pivo, Export Pils, ter sladka pijača Laško Malt z okusom jabolke in breskve. Ob navedenih znamkah proizvaja tudi linijo izdelkov Bandidos, pivo z dodatkom arom, v trenutno dveh različnih okusih: Bandidos Tequila in Bandidos Ice. Blagovna znamka Bandidos je spomladi 2010 celostno spremenila svojo podobo, da je še bližje svoji ciljni publiki.</p>
+    <p xml:id="pb31.p12" xml:lang="sl">Navkljub zaostrenim tržnim razmeram je Pivovarna Laško, d. d., na področju piva ohranila vodilni položaj v Sloveniji. Skupina Pivovarna Laško danes združuje proizvajalce piva, mineralnih, izvirskih in naravnih vod, brezalkoholnih pijač, žganih in drugih alkoholnih pijač ter sirupov za proizvodnjo pijač, časopisno in založniško dejavnost. (»Zgodovina« [Predstavitev podjetja Pivovarna Laško, d. d.], b. d.).</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">Ena izmed najpomembnejših funkcij v podjetji je nabava. Nabava je tista, ki lahko podjetju prihrani ogromno denarja.</p>
+    <p xml:id="pb32.p2" xml:lang="sl">2.2 Posnetek stanja</p>
+    <p xml:id="pb32.p3" xml:lang="sl">Pivovarna Laško, d. d. je srednje veliko evropsko podjetje z dolgoletno tradicijo.</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Podjetje ima cca 200 različnih končnih izdelkov. Odjemalce imajo tako na slovenskem kot tudi na tujem trgu. Ker gre za veliko materialov in je skladiščenje le-teh močnega pomena, se je podjetje leta 2009 odločilo za uvedbo informacijskega sistema SAP (System Analysis and Program Development) na ravni cele skupine.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">Pivovarna Laško, d. d. ima poleg direktorja nabave zaposlene še tri referente za polni delovni čas, se pravi osem ur, ena referentka pa je zaposlena za štiri ure in študentka za osem ur. V največji meri so referenti tisti, ki pridobivajo ponudbe na osnovi povpraševanja, ki ga prejmejo od prodaje in marketinga. Referenti imajo med seboj enakovredno razdeljeno delo. Dva referenta pokrivata celotno proizvodnjo in marketing, drugi dve referentki pa pokrivata osnovna sredstva, investicije, storitve, čistila, zaščitna sredstva, nadomestne dele, vodovod in drobni inventar. Direktor nabave koordinira celotno delovanje nabave.</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Nabava v Pivovarni Laško je obravnavana kot administrativno opravilo in ji ne dajejo velikega pomena. To je predvsem zaradi tega, ker je trg poln različnega blaga in sploh ni težko nabavljati, naročilo pa tudi naj ne bi bilo težko narediti. Tudi v literaturi se govori o nabavi kot o administrativnem delu, prepisovanju od leve na desno. Žal pa temu ni tako. Nabavni referenti imajo drugačno mnenje o nabavi oziroma pomenu nabave. Dobro se zavedajo, da je nabavna funkcija enako pomembna kot vsaka druga poslovna funkcija v podjetju oziroma ena najpomembnejših funkcij v podjetju. Nabavna funkcija je začela pridobivati na pomenu šele v zadnjem času, ko je vse več zaostrenih razmer na trgu in vse večja konkurenca. Nabava je edina, ki lahko v takšnih razmerah veliko pripomore k večji konkurenčnosti in uspešnosti podjetij.</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Vsakodnevno mora sodelovati z drugimi službami, skrbi za dobre odnose z dobavitelji in oblikuje nabavno politiko. Vsi štirje referenti skrbijo, da so naročila pravočasno oddana, da lahko proizvodnja nemoteno deluje. Sodelujejo z drugimi službami, dobavitelji, vodijo evidence, nabavljajo blago, spremljajo cene in nabavne pogoje, delajo primerjave med realizacijo in planom čez leto in spremljajo nabavni proces od začetka do konca. Referenti so v večini samostojni. Za reklamni material in drobni material se nabavni referenti z dobavitelji pogajajo sami, prav tako sami opravijo celoten proces nabave. Referenti so vsak dan na razpolago vsem službam v podjetju, dobaviteljem, poleg pa morajo urejati še dokumentacijo, katere ni malo. Včasih nabavni referent ni bil cenjen, danes pa temu ni več tako. Ker nabavni referent spelje celoten proces nabave popolnoma samostojno, je zato potrebno veliko znanja in iznajdljivosti.</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Če nabava ugodno in kakovostno nabavi materiali, lahko tudi prodaja da nižje cene gotovega izdelka. Se pravi, vse je odvisno od nabave.</p>
+    <p xml:id="pb33.p3" xml:lang="sl">Odgovornosti nabavnega referenta so naslednje:</p>
+    <p xml:id="pb33.p4" xml:lang="sl">vodi evidenco dobaviteljev;</p>
+    <p xml:id="pb33.p5" xml:lang="sl">vodi evidenco računov;</p>
+    <p xml:id="pb33.p6" xml:lang="sl">vodi evidenco naročenih materialov;</p>
+    <p xml:id="pb33.p7" xml:lang="sl">je neposredna vez med dobaviteljem;</p>
+    <p xml:id="pb33.p8" xml:lang="sl">kompletiranje prevzemov z računi;</p>
+    <p xml:id="pb33.p9" xml:lang="sl">arhiviranje vseh dokumentov;</p>
+    <p xml:id="pb33.p10" xml:lang="sl">pridobivanje ponudb;</p>
+    <p xml:id="pb33.p11" xml:lang="sl">pisanje nabavnih nalogov;</p>
+    <p xml:id="pb33.p12" xml:lang="sl">izdelovanje finančnih in količinskih analiz;</p>
+    <p xml:id="pb33.p13" xml:lang="sl">skrbi za nadzor in izvedbo naročila;</p>
+    <p xml:id="pb33.p14" xml:lang="sl">vedno je na razpolago razvojni službi, finančni službi, marketingu in proizvodnji ter prodaji;</p>
+    <p xml:id="pb33.p15" xml:lang="sl">spremljanje zalog itd.</p>
+    <p xml:id="pb33.p16" xml:lang="sl">Potrebna znanja nabavnega osebja:</p>
+    <p xml:id="pb33.p17" xml:lang="sl">ekonomsko, pravno in tehnično znanje;</p>
+    <p xml:id="pb33.p18" xml:lang="sl">poznavanje postopkov nabavnega poslovanja;</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">poznavanje metod raziskave trga;</p>
+    <p xml:id="pb34.p2" xml:lang="sl">poznavanje osnov gospodarskega prava;</p>
+    <p xml:id="pb34.p3" xml:lang="sl">poznavanje tehnoloških značilnosti materiala;</p>
+    <p xml:id="pb34.p4" xml:lang="sl">usposobljenost za računalniško komuniciranje z dobavitelji;</p>
+    <p xml:id="pb34.p5" xml:lang="sl">poznavanje tujih jezikov, nemščine in angleščine;</p>
+    <p xml:id="pb34.p6" xml:lang="sl">iznajdljivost, prijaznost in komunikativnost.</p>
+    <p xml:id="pb34.p7" xml:lang="sl">Nabava v Pivovarni Laško, d. d. je centralizirana oblika nabave. To pomeni, da nabava oskrbuje druge sektorje z vsemi potrebnimi materiali, surovinami, energijo in podobno.</p>
+    <p xml:id="pb34.p8" xml:lang="sl">Čeprav nabavni referenti včasih dovolijo, da se marketing sam pogovarja z dobavitelji, to še ne pomeni, da lahko tudi naročajo sami. Dovolijo jim, da se pogovorijo vse glede dizajna, glede ponudbe in naročila pa skrbi nabavni referent.</p>
+    <p xml:id="pb34.p9" xml:lang="sl">Cilji nabave so kot povsod v nabavi: zmanjševati nabavne cene in s tem povečevati dobiček, zmanjševanje zalog materiala, stalnost nabavnih virov ipd.</p>
+    <p xml:id="pb34.p10" xml:lang="sl">Proces nabave v Pivovarni Laško, d. d. je podoben kot vsakem drugem podjetju. Da lahko nabavna služba naroči material, mora opraviti določene postopke, ki so potrebni.</p>
+    <p xml:id="pb34.p11" xml:lang="sl">Najprej morajo vedeti, kakšen material se potrebuje, kdaj in koliko. Prav zato mora nabava sodelovati z vsemi oddelki, najbolj povezani morajo biti s proizvodnjo in marketingom. Ko so potrebe poznane, morajo nabavni referenti pridobiti ponudbo, na podlagi katere morajo tisti, kjer je potreba nastala, napisati zahtevek za nabavo.</p>
+    <p xml:id="pb34.p12" xml:lang="sl">Naročilo je lahko kar iz programa SAP, kadar gre za proizvodne materiale. Za te ponudb ni potrebno pridobivati, ker so za te materiale na začetku leta sklenjene pogodbe. Ko je ta proces končan, nabavni referent napiše nabavni nalog, katerega pošlje dobavitelju.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">Slika 6: Diagram tehnično nabavnega sektorja Vir: Pivovarna Laško, d. d., b. d.</p>
+    <p xml:id="pb35.p2" xml:lang="sl">Dobavitelji v Pivovarni Laško, d. d.</p>
+    <p xml:id="pb35.p3" xml:lang="sl">Podjetje ima skozi vsa leta stalne dobavitelje repromaterialov, surovin, embalaže, tudi nekaj reklame, ima jih okrog tisoč. Prav zaradi stalnosti so priskočili podjetju na pomoč, zdaj ko je v stiski. Pristali so na dolge roke plačil, kar je za podjetje zelo ugodno. Za drobni inventar, reklamo, čistila pa se dobavitelj izbere na osnovi ponudb, ki jih referent pridobi. V kolikor je v začetku leta sklenjena pogodba, ponudb ni potrebno pridobivati.</p>
+    <p xml:id="pb35.p4" xml:lang="sl">Izbranega dobavitelja se mora obvezno tudi preveriti s poskusno nabavo testnih materialov, in to je dodatna informacija o pravilni odločitvi. Seveda pa ni garancija, da bo izbrani dobavitelj tudi v bodoče izpolnjeval zastavljene kriterije in reklamacij ne bo.</p>
+    <p xml:id="pb35.p5" xml:lang="sl">Ko so informacije pridobljene, skupina strokovnjakov opravi test in presodi, kateri izmed dobaviteljev je najbolj ustrezen. Nabava tega dobavitelja potrdi, mu pošlje podatke, katere mora pridobiti za otvoritev dobavitelja (kopija iz davčnega registra in obrazec, ki vsebuje vse podatke o dobavitelju). Ko je dobavitelj odprt, ima svojo šifro je obvezna pri naročanju.</p>
+    <p xml:id="pb35.p6" xml:lang="sl">V praksi se navadno naredi izbira dobavitelja na osnovi danega povpraševanja ali zahtevka za ponudbo. Povpraševanje se pošlje na nekaj podjetij, ki med seboj niso povezana in so locirana na različnih koncih države. Dobavitelj pošlje ponudbo na osnovi povpraševanja. Povpraševanje za ponudbo vsebuje samo podatke iz nabavne specifikacije.</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">Za izbor novega dobavitelja se v podjetju odločijo, kadar imajo s stalnim/obstoječim veliko reklamacij oziroma za enako blago dobijo cenejšo ponudbo od drugega ponudnika. Za vse materiale, ki so potrebni za proizvodnjo, imajo najmanj dva dobavitelja. Na ta način se zaščitijo predi izpadom proizvodnje. V kolikor gre za marketinške nove izdelke, se pridobivata najmanj dve ponudbi. To je obvezno zaradi organizacijskih predpisov, ki jih je podjetje uvedlo v letu 2013. Za vse materiale, ki imajo vrednost več kot pet tisoč eur, morajo biti izpolnjeni tudi obrazci (Priloga 1).</p>
+    <p xml:id="pb36.p2" xml:lang="sl">Oba dobavitelja morata imeti primerljive cene za enako blago. Več kot je dobaviteljev, večja je preglednost nad cenami. Podjetje ima poslovne partnerje/dobavitelje tako doma, kot v tujini. Prednost domačega trga je hitrejše reševanje reklamacij, slabost pa so višje cene kot v tujini. Za tujega dobavitelja se podjetje odloči, v kolikor v Sloveniji ni ponudnika za iskani material ali je ponudnik samo eden. V tujini podjetje nabavlja pločevinke, steklenice, koruzni zdrob, slad, rezervne dele, nekaj tudi reklame. Blago se uvaža iz Bosne, Hrvaške, Srbije, Avstrije, Nemčije, Italije, Francije, Poljske, Češke, Slovaške in Nizozemske.</p>
+    <p xml:id="pb36.p3" xml:lang="sl">2.2.1 Pridobivanje ponudb</p>
+    <p xml:id="pb36.p4" xml:lang="sl">Referentki, ki imata storitve, investicije, čistila ipd., delata večinoma preko zahtevkov za nabavo. Se pravi, da ponudbi ne pridobivata sami, ampak sektor, kjer je potreba nastala. Referenta, ki pokrivata proizvodnjo in marketing, pa ponudbe pridobivata v večini sama. Za proizvodnjo se nabavni nalogi kreirajo kar iz programa Sap / MRP.</p>
+    <p xml:id="pb36.p5" xml:lang="sl">Vsakodnevno ta program zavrti potrebe po materialih. Osnova za naročanje so letni plani, ki jih je v program vnesla prodaja, le-ti so izraženi v hektolitrih. Nato proizvodnja te plane spremeni v proizvodne plane, ki so v kosih. Ti se v programu zavrtijo za naročanje. Za vse te materiale obstajajo letne pogodbe, ker gre za ponavljajoče naročanje in velike količine. Se pravi sprotnih ponudb se ne pridobiva. Pri marketingu pa je situacija drugačna. Vse ponudbe pridobiva referentka, ki je za to določena.</p>
+    <p xml:id="pb36.p6" xml:lang="sl">Marketing pošlje povpraševanje za izdelek, ki je osnova za pridobitev ponudbe.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">Pridobiti je potrebno najmanj tri ponudbe, ki imajo enaka izhodišča. Na podlagi treh ponudb se nabavni referent odloči v sodelovanju z marketingom, kje bo materiale naročil. Če gre za specifične materiale, npr. kozarce, kjer je narejen kalup (podjetje kalup plača), se pridobi samo ena ponudba. Na ponudbi mora pisati artikel, rok dobave, rok plačila, ki ne sme biti manjši od 45 dni in lastnosti materiala. Ponudbo referent pošlje v sektor, kjer je potreba nastala / marketing, kateri kreira zahtevek za nabavo (ZZN). Ta nalog mora podpisati nadrejeni, da se prenese preko programa v nabavo, iz katerega se kreira nabavni nalog (NN). Ta je ključni za naročilo, ki se s pomočjo elektronskega sporočila pošlje dobavitelju. Referenti se v večini primerov pogajajo in pogovarjajo z dobavitelji sami, razen za velike količine, kot so zaporke, etikete, steklenice in pločevinke. Vse ponudbe za te materiale pridobi direktor na osnovi letnega plana, ker gre za ogromne zneske. Ponudbe se pridobivajo za količine cele skupine, zaradi večjih popustov. Kljub temu, da se pri teh materialih sklenejo pogodbe, se naročila pišejo za vsako potrebo, ki nastane.</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Slika 7: Primer ponudbe</p>
+    <p xml:id="pb37.p3" xml:lang="sl">Vir: Pivovarna Laško, d. d., b. d.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">2.2.2 Pisanje nabavnih nalogov</p>
+    <p xml:id="pb38.p2" xml:lang="sl">Na podlagi ponudb, ki jih pridobi nabavni referent, se napiše interno naročilo oziroma zahtevek za nabavo (Priloga 2). Nabavni nalogi se pišejo izključno samo v nabavnem sektorju. Nabavni referent napiše nabavni nalog na podlagi zahtevka za nabavo ali je osnova kar mail. Pri pisanju nabavnih nalogov je potrebno biti zelo pozoren. Preveriti je potrebno, ali se cena in plačilni rok ujemata s ponudbo. V nabavno naročilo je potrebno vnesti šifro dobavitelja, šifro artikla, nabavno organizacijo, obrat podjetja, nabavno skupino nabavnega referenta, datum dobave, pariteto, skladiščno lokacijo, ceno in količino. Ko so vsi pogoji izpolnjeni, se naročilo shrani in prileti nabavnemu referentu na e-mail, katerega pregleda in pošlje dobavitelju. To velja za vsa čistila, drobni inventar, reklamni material, storitve ipd. Kadar pa gre za naročilo repromaterialov (steklenice, pločevinke, etikete, zaporke, kartoni, folije ipd.), pa je potrebno iti v sejo ME57, kjer so potrebe proizvodnje po planih. Ponoči se ta seja vsak dan samodejno zažene in spreminja naročila glede na porabo zalog. V začetku leta se v program vnesejo plani, ki so osnova za naročanje čez leto. Glede na porabo zalog, se pri teh naročilih spreminjata datum dobav in količina materiala. Referent nabave na podlagi teh podatkov preveri v proizvodnji kdaj, bo naslednje točenje, koliko se mudi. Ko prejme vse informacije, določi dobavitelja in shrani. Zahtevek za nabavo se prenese v sejo 58, kjer se kreirajo naročila. V tej seji je potrebno pogledati, ali je cena po ponudbi ali letnem ceniku, ali je rok dobave usklajen z dobaviteljevimi zahtevami. Specifika so naročila za osnovna sredstva. Nabavni referent mora naročilo vedno prejeti od tistega, kjer je potreba nastala. Obrazec za zahtevo po nabavi osnovnega sredstva podpišejo trije: pristojni direktor, pravna služba in finančna direktorica. V obrazcu mora biti napisano, kdo je dobavitelj, predmet pogodbe, ponudba, čas veljavnosti ponudbe, kdo je skrbnik pogodbe oziroma ponudbe, plačilni rok in komentar skrbnika pogodbe.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">Naročilo pa je seveda nato potrebno spremljati zaradi zagotavljanja dogovorjenih dobavnih rokov. V kolikor je dobava določenega materiala nepravočasna, lahko povzroči zastoje in izpad proizvodnje. Nabavni referent zato preverja dobavitelja, ali izpolnjuje dogovorjeno naročilo. Večkrat pokliče dobavitelje, ker ga zanima, v kateri fazi proizvodnje je določen material, ki ga potrebuje, in ali njegova proizvodnja dosega načrtovane roke. Še dan pred rokom dobave, telefonsko ali preko elektronske pošte preveri dobavitelja in ga spomni na dobavo. Za spremljanje naročil oziroma dobav imajo nabavni referenti sejo me2l, kjer lahko vidijo, katere dobave so še odprte. V tej seji je tudi razvidno, ali dobave so nujne in je zato potrebno dobavitelja prositi, ali lahko dobavi material pred dogovorjenim rokom. Proizvodnja gre velikokrat čez plan, sploh v času sezone in takrat mora nabava hitro odreagirati, prav tako dobavitelj. Prav zaradi tega so stalni dobavitelji tako spoštovani, ker gredo podjetju resnično na roko z dobavami. Redko se zgodi, da se z dobavami zamuja. V tem primeru se ga opomni, da se v prihodnje to ne bi zgodilo. Dobavitelj je dolžan izpolnjevati dobavne roke, v nasprotnem primeru lahko kupec odstopi od pogodbe in ga zamenja z drugim, ki bo te roke spoštoval.</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">Slika 8: Kreiranje nabavnega naloga Vir: Pivovarna Laško, d. d., b. d.</p>
+    <p xml:id="pb39.p2" xml:lang="sl">2.2.3 Opremljanje materialov z identi</p>
+    <p xml:id="pb39.p3" xml:lang="sl">Vsak material zahteva svojo šifro in svoje podatke. Ko nastane potreba po novem materialu, se odpre šifra, katera pa zahteva podatke. Ti podatki so teža materiala, dobavni rok, osnovna enota mere, nabavna skupina nabavnega referenta, ki ta material naroča, blagovna skupina materiala, carinska tarifa materiala, ki je pomembna predvsem za izvoz / carino. Na identu so odprti tudi MRP zavihkih. Ti so pomembni zaradi proizvodnje. Program je narejen tako, da je vezan na zaloge in s tem, ko se ob točenjih zaloge zmanjšujejo, se v MRP programu po potrebi kreirajo zahtevki za nabavo.</p>
+    <p xml:id="pb39.p4" xml:lang="sl">Nabavni referenti, ki skrbijo, da je proizvodnja preskrbljena z vsemi materiali, iz tega programa naročajo vsakodnevno. Na zavihku MRP morajo biti točni podatki, le tako je naročilo realno. Vpisana mora biti potrebna naročilna količina in planiran čas dobave.</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">Tako v proizvodnji lahko točno vedo, kdaj bo material prispel in kdaj lahko razpišejo plan točenja. V kolikor dobavitelj ni v zmožnosti pravočasne dobave, mora nabavni referent javiti v proizvodnjo drug čas dobave, da lahko plan točenja še pravočasno spremenijo.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">Ko idente uporabljamo v programu SAP, nam le-ta sporoči potrebo po naročanju. Pove nam tudi, kateri material je potrebno naročiti. Nekaterim identom je treba slediti. To storimo tako, da ident vpišemo v sejo MD04. Le-ta nam sporoči zalogo/potrebo/- vpogled imamo tudi v nabavni nalog, kdaj je treba ponovno naročiti ta ident/material, ali gre za pospešitev postopka nabave ali upočasnitev, kdo je dobavitelj, ki ga bo dostavil, cena materiala, datum naročila, zgodovina naročanja (kdaj je bil ta ident nazadnje naročen in pri komu). Lahko, da je v ozadju skriva tudi ponudba, na podlagi katere smo se odločili za tega dobavitelja, in ne drugega, ki je bil mogoče cenejši.</p>
+    <p xml:id="pb40.p3" xml:lang="sl">Identi podjetju omogočajo ustvarjanje standardne ponudbe kot osnove za varnost, podporo in možnost nadgrajevanja. Če idente definiramo v aplikaciji Šifrant identov, oddelki IT lahko podpirajo poslovne standarde v zvezi s tem, katere idente lahko naročimo in katerih ne. Koristno je, da zamenljiva sredstva razvrstimo v smislu generičnih identov, ko jim sledimo v zalogah.</p>
+    <p xml:id="pb40.p4" xml:lang="sl">Slika 9: Prikaz materiala seja MM02 Vir: Pivovarna Laško, d. d., b. d.</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">2.2.4 Prevzem in skladiščenje materialov</p>
+    <p xml:id="pb41.p2" xml:lang="sl">V centralnem skladišču Pivovarne Laško, d. d. so zaposleni štirje skladiščniki in vodja skladišča. Vsak odgovarja za svoje delo, vodja pa seveda odgovarja za vse. Ko naročeni material pride v podjetje, skladiščnik naredi prevzem (Priloga 3). Prevzemnico izpiše in jo da nabavnemu referentu, katera je podlaga za račun. Le-ta se spne k računu, ki ga referent prejme. Na podlagi tega se v računovodstvu račun poknjiži in gre v plačilo.</p>
+    <p xml:id="pb41.p3" xml:lang="sl">Kadar pride materiala v podjetje več, kot je bilo naročeno (dobavitelj pri repromaterialih ne more narediti točno takšno serijo, kot je bila naročena), skladiščnik obvesti referenta v nabavi, da mu naročilo poveča, da lahko naredi prevzem. Referent ponavadi poveča naročilo kar v %, in sicer približno za 20 %. Velikokrat se zgodi, da naročilnico dobavitelj potrdi, ko pa pride račun, je na njem drugačna cena, kot na naročilu. V tem primeru se naredi storno prevzem. Naredi ga lahko samo skladiščnik, ki je prevzemal material. Nabavni referent popravi ceno, javi skladiščniku in ta naredi ponovni prevzem po pravi ceni. Vsi prevzemi morajo biti priloženi k računu, da se vidi, zakaj je bil storno prevzema.</p>
+    <p xml:id="pb41.p4" xml:lang="sl">Slika 10: Centralno skladišče Pivovarne Laško, d. d.</p>
+    <p xml:id="pb41.p5" xml:lang="sl">Vir: Pivovarna Laško, d. d., b. d.</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">Naloga skladiščnika je:</p>
+    <p xml:id="pb42.p2" xml:lang="sl">prevzem blaga;</p>
+    <p xml:id="pb42.p3" xml:lang="sl">urejenost skladišča;</p>
+    <p xml:id="pb42.p4" xml:lang="sl">izdaja blaga;</p>
+    <p xml:id="pb42.p5" xml:lang="sl">urejanje dokumentacije;</p>
+    <p xml:id="pb42.p6" xml:lang="sl">spremljanje zalog ipd.</p>
+    <p xml:id="pb42.p7" xml:lang="sl">Skladišče je razdeljeno na reklamni material, nadomestne dele in dele za vzdrževanje.</p>
+    <p xml:id="pb42.p8" xml:lang="sl">Eden od skladiščnikov dela zraven proizvodnih prostorov, ker skrbi za prevzem repromaterialov in surovin.</p>
+    <p xml:id="pb42.p9" xml:lang="sl">Skladišče in nabava sta v tesni povezavi, saj skladišče spada pod nabavo. Nabava skrbi, da so vsi materiali pravočasno v skladišču, skladiščnik pa mora poskrbeti, da takoj naredi prevzem, da se v programu naredi zaloga. Pri prevzemu mora skladiščnik primerjati dobavnico dobavitelja in dejanske količine, ki so prišle. Reklamni material se tudi pregleda. Prevzem se potrdi z izdajo prevzemnice, ki jo posreduje nabavnemu referentu, kateri dokument pripne k računu.</p>
+    <p xml:id="pb42.p10" xml:lang="sl">Izdaja blaga je podobna prevzemu blaga, le da je postopek obrnjen. Za izdajo je potreben zahtevek – izdajnica, ki mora biti opremljena z datumom, stroškovnim mestom, šifro izdaljatelja, nazivom blaga, količino in podpisom odgovornega. Pred izdajo mora skladiščnik preveriti ali je materiala dovolj na zalogi. Vsi dokumenti se izdajajo računalniško.</p>
+    <p xml:id="pb42.p11" xml:lang="sl">Material mora biti v skladiščih pravilno zložen, da se lažje najde in da je varen pred poškodbami. V Pivovarni se uporablja abecedni seznam in številčni seznam. Gotovi izdelki se skladiščijo na paletah. Palete so podstavki iz lesa, ki morajo ustrezati standardom. Zaradi paletnih podstavkov se materiali lažje prestavljajo z viličarji, transportnimi vozički ipd. Vse se zlaga regalno v višino, s tem se pridobi ogromno prostora in večja preglednost blaga. Kot povsod, se tudi v pivovarni spopadajo s pomanjkanjem prostora za skladiščenje materialov. Največji primanjkljaj je v sezoni (junij, julij in avgust), ker so večje zaloge, zaradi večje prodaje.</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">Dokumentacija, ki je v skladišču potrebna:</p>
+    <p xml:id="pb43.p2" xml:lang="sl">Dobavnica. To je dokument, ki se uporablja pri prodaji končnih proizvodov.</p>
+    <p xml:id="pb43.p3" xml:lang="sl">Dobavnica mora vsebovati ime in naslov kupca, količino materiala, naziv materiala, datum dobave, enoto mere, ceno in vrednost materiala;</p>
+    <p xml:id="pb43.p4" xml:lang="sl">Prevzemnica. Ta se naredi ob prejemu materiala. Prevzemnico izda skladiščnik na podlagi dobavnice, ki jo dobavitelj izstavi ob dobavi materiala. Na prevzemnici je številka le-te, naziv in ident materiala, količina prevzetega materiala, datum prevzema, vrednost le-tega in podpis odgovornega skladiščnika;</p>
+    <p xml:id="pb43.p5" xml:lang="sl">Medskladiščnica. Uporablja se za premike med skladišči iste proizvodne enote.</p>
+    <p xml:id="pb43.p6" xml:lang="sl">Količina materiala se s premiki ne spremeni, gre le za razbremenitev enega skladišča in obremenitev drugega;</p>
+    <p xml:id="pb43.p7" xml:lang="sl">Izdajnica. Uporablja se za izdajo vseh vrst materialov. Na izdajnici mora biti napisano: številka delovnega naloga, naziv in ident materiala, enota mere, količina in vrednost materiala;</p>
+    <p xml:id="pb43.p8" xml:lang="sl">Povratnica. Uporablja se pri vračilu materiala, bodisi preveč izdanega ali napačno izdanega materiala. Vsebuje enake podatke kot izdajnica;</p>
+    <p xml:id="pb43.p9" xml:lang="sl">Reverz. Ta dokument se uporablja za izposojo materiala. Potrebno ga je vrniti, čeprav se velikokrat zgodi, da se nato reverz odpiše.</p>
+    <p xml:id="pb43.p10" xml:lang="sl">2.2.5 Spremljanje zalog s pomočjo programa</p>
+    <p xml:id="pb43.p11" xml:lang="sl">V kolikor so zaloge manjše, se zmanjšujejo tudi finančna sredstva, ki so vezana v zalogah. Nabava lahko zmanjševanje doseže le z natančno kontrolo nad dobavami, ampak mora upoštevati tudi prevozne stroške. Nabava mora prav tako od dobavitelja zahtevati, da se drži dobavnih rokov. Če so dobavljeni materiali slabe kakovosti, le-ti povzročajo najprej težave v proizvodnji in nato tudi pri kupcih. Zaradi slabe kakovosti je lahko tudi izpad proizvodnje, kar negativno vpliva na produktivnost in na koncu na poslovni uspeh podjetja. Da do težav s kakovostjo materialov ne bi prihajalo, mora nabavni referent izbrati take dobavitelje, ki imajo v svojem proizvodnem procesu vgrajen sistem ugotavljanja in zagotavljanja kakovosti. Nabava s tem zniža stroške vhodne kontrole pri ugotavljanju kakovosti in tudi ostale stroške, ki bi lahko nastali zaradi slabe kakovosti materiala.</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">Nabavni referent mora vsak dan spremljati zaloge materialov, da česa ne zmanjka. V programu SAP je seja, katere se nabavni referent vsakodnevno poslužuje, to je seja MD04. Ta seja nam kaže zalogo vseh nabavljenih materialov in odvisni plan točenja.</p>
+    <p xml:id="pb44.p2" xml:lang="sl">Na podlagi tega referent naroči material. Prodaja vsako leto naredi plan prodaje, kateri je izražen v hektolitrih. Tega v proizvodnji spremenijo v proizvodni plan, kateri je v komadih in je osnova nabavi za naročanje. V seji MD04 se vidi plan oziroma odvisne potrebe za celo leto. Velikokrat se zgodi, da ko nabavni referent naroči material, rok dobave je v povprečju štirinajst dni, mora pospešiti dobavo, ker se je točenje bodisi prestavilo, bodisi je vmes zmanjkalo obstoječega materiala. V kolikor ni mogoče prej dobiti materiala, kot je dogovorjeno, nabavni referent javi v proizvodnjo in ta mora plan točenja spremeniti. Prav tako se zaloge spremljajo v seji MD07 Eksplozija kosovnic. Ta seja prikazuje semafor in deluje v skladu z zalogami in potrebami. Če je zelena luč, pomeni, da je materiala na zalogi dovolj, če je rumena, pomeni, da ga bo kmalu zmanjkalo, rdeča pa, da ga za naslednje točenje ni več.</p>
+    <p xml:id="pb44.p3" xml:lang="sl">Slika 11: Seja MD04 zaloga materiala Vir: Pivovarna Laško, d. d., b. d.</p>
+    <p xml:id="pb44.p4" xml:lang="sl">2.2.6 Reševanje reklamacij</p>
+    <p xml:id="pb44.p5" xml:lang="sl">Reklamacije so v vsakem podjetju zelo delikatna stvar. Glede na to, da podjetje nabavlja in prodaja, se srečuje z reklamacijo nabave in reklamacijo prodaje. Ker pišemo o nabavi, se bomo osredotočili na reklamacijo nabavnih materialov. Zelo poudarjamo, da imamo kakovostne proizvode, zato tudi želimo nabaviti najvišjo kvaliteto po zmernih cenah. Samo kakovost je tisto, kar zadovoljuje zahteve kupca. Če kakovost ni po merilih kupca oziroma tisto, kar pričakuje, se pritoži. Reklamacija je zahteva o odpravi neskladnosti. Reklamacija mora biti vedno napisana tako, da dobavitelj dobro razume kaj je narobe. Velikokrat se mešajo besede reklamacija in pritožba. To dvoje moramo vedno ločiti, obravnavati pa vedno oboje enakovredno. Reklamacija se vedno evidentira, da se vidi, kolikokrat je prihajalo do napak. V proizvodnji omenjenega podjetja prvi zaznajo, da z nekim materialom ni vse v redu. Pokličejo službo za kakovost in ta pride pogledat in testirat materiale. Vse ugotovitve napiše v obrazec za reklamacije. Reklamacijski zapisnik nato pošlje v nabavno službo. Od tam nabavni referent pošlje reklamacijo dobavitelju, kateri mora poslati pisni odgovor zakaj je do tega prišlo ali pa se najavi v podjetje in ustno pojasni.</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Reklamacija je z drugi besedami povedano pritožba oziroma ponovna zahteva. Eden izmed najpomembnejših kriterijev, po katerih nas naši kupci ocenjujejo in ki ga vse prevečkrat zanemarjamo, je nedvomno hitrost in učinkovitost reševanja reklamacij.</p>
+    <p xml:id="pb45.p2" xml:lang="sl">Podjetja pa ob reševanju reklamacij zaznajo dodatne stroške, dodatno delo, probleme in druge negativne učinke.</p>
+    <p xml:id="pb45.p3" xml:lang="sl">V podjetju se srečujemo z naslednjimi reklamacijami:</p>
+    <p xml:id="pb45.p4" xml:lang="sl">popravki dizajna na materialih (PR sprememba dizajna folije/pločevinke). Če dobavitelj ni pravočasno obveščen o popravkih ali pa zameša idente (vsak na novo uveden material dobi svoj ident);</p>
+    <p xml:id="pb45.p5" xml:lang="sl">če naročen material ne dosega standardov kakovosti s strani dobavitelja;</p>
+    <p xml:id="pb45.p6" xml:lang="sl">naročanje pšeničnega piva iz Avstrije/Nemčije - standard laboratorijske analize ni bil dosežen;</p>
+    <p xml:id="pb45.p7" xml:lang="sl">cena ne ustreza prvotnemu dogovoru;</p>
+    <p xml:id="pb45.p8" xml:lang="sl">količina materiala ni ustrezna;</p>
+    <p xml:id="pb45.p9" xml:lang="sl">če dobavitelji ne ujamejo datuma dobave;</p>
+    <p xml:id="pb45.p10" xml:lang="sl">naročilo palet, ki niso ustrezale prvotnim zahtevam;</p>
+    <p xml:id="pb45.p11" xml:lang="sl">odzivni čas dobavitelja je "zakasnjen".</p>
+    <p xml:id="pb45.p12" xml:lang="sl">Negativne posledice reklamacij so lahko:</p>
+    <p xml:id="pb45.p13" xml:lang="sl">prepiri z dobavitelji;</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">nekorekten odnos v prihodnosti;</p>
+    <p xml:id="pb46.p2" xml:lang="sl">zamenjava dobavitelja;</p>
+    <p xml:id="pb46.p3" xml:lang="sl">reklamacija predstavlja izgubo časa in vloženega truda pri reševanju le-te;</p>
+    <p xml:id="pb46.p4" xml:lang="sl">stresno delo za referente v nabavi.</p>
+    <p xml:id="pb46.p5" xml:lang="sl">Pozitivne posledice reklamacij pa so:</p>
+    <p xml:id="pb46.p6" xml:lang="sl">odpravljanje napak pri ponovni dobavi;</p>
+    <p xml:id="pb46.p7" xml:lang="sl">pomagajo poglobiti znanje;</p>
+    <p xml:id="pb46.p8" xml:lang="sl">pomagajo, da je izdelek še boljši.</p>
+    <p xml:id="pb46.p9" xml:lang="sl">V nobenem primeru se reklamacije ne smejo ignorirati. Vedno je je potrebno poskusiti rešiti s čim več pozitivnega mišljenja. Dobavitelja je vedno potrebno pozvati z lepimi besedami, da ga ne spravimo v slabo voljo že na začetku. Zmenimo se za sestanek, še prej se mu po mailu pošlje reklamacijski zapisnik, zato, da lahko dobavitelj pride na sestanek pripravljen. Na sestanku poda vse odgovore in ugotovitve, na podlagi katerih naj do reklamacij ne bi več prihajalo.</p>
+    <p xml:id="pb46.p10" xml:lang="sl">2.2.7 Reševanje logističnih problemov</p>
+    <p xml:id="pb46.p11" xml:lang="sl">V sektorju logistike so zaposleni direktor logistike, vodja logistike in referenti. Pod logistiko spada notranji transport, fizična distribucija, preskrba podjetja s surovinami in drugimi materiali. Skladišče pa v podjetju Pivovarna Laško še vedno spada pod nabavo, zato se vse v zvezi s skladiščem ukvarjajo nabavni referenti. Nabava in logistika tesno sodelujeta, logistika je del procesa nabavne verige. Če želi nabava doseči cilje, je predvsem odvisno od učinkovitosti logistične službe. Glavni cilj logistike je, da so čim manjše zaloge, racionalen tok blaga od dobavitelja do kupca. Nabava ima po večini pariteto DAP ali CPT Laško, se pravi, da je prevoz urejen do kupca. V kolikor je pariteta EXW, kar pomeni, da mora kupec prevoz organizirati sam, se obrne na logistiko. Pošlje jim podatke o dobavitelju, teži materiala, količino in datum dobave. Na osnovi teh podatkov logistika pridobi ponudbo, ki jo da nabavi v pregled in organizira prevoz. Velikokrat se zgodi, v kolikor prevoz vrši tretja oseba, da kakšen dokument na koncu manjka. Bodisi, da ga šofer pozabi dati ali ga dobavitelj pozabi dati šoferju. V tem primeru se pozove dobavitelja, da papirje pošlje po elektronski pošti ali faxu. Ko material prispe v podjetje, skladiščnik na podlagi papirjev material čim prej prevzame, da proces hitreje steče. Skladiščnik skrbi tudi zato, da je prevzem materiala na pravi lokaciji. V Pivovarni Laško sta dve veliki skladišči. Prvo je blizu proizvodnje, kjer se skladišči ves repromaterial (steklenice, pločevinke, zaporke, zamaški, sodi, etikete, kartoni, folije ipd.). Na drugi lokaciji pa se skladišči ves reklamni material, čistila in vse, kar je potrebno za sprotno popravilo strojev.</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Distribucijo v Pivovarni Laško, d. d. bi lahko ločili na osnovne tri dele:</p>
+    <p xml:id="pb47.p2" xml:lang="sl">detajlistična prodaja;</p>
+    <p xml:id="pb47.p3" xml:lang="sl">grosistična prodaja;</p>
+    <p xml:id="pb47.p4" xml:lang="sl">izvoz.</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Razdelitev distribucije na tri dele je posledica organiziranja prodaje glede na velikost in pomembnost posameznih vrst prodaje. Detajlistična prodaja predstavlja 14,32 % vse prodaje, grosistična 49,50 % in izvoz kar 36,18 % celotne prodaje. Naštete vrste prodaje imajo svoje značilnosti in svoj poseben pomen za podjetje, ker se načini prodaje, distribucija in prodajne poti med seboj bistveno razlikujejo. To je tudi dokaz izjemne pestrosti in raznolikosti prodaje, s katerimi podjetja danes v poslovanju skušajo uspeti na trgu in ohranjati svoj tržni delež (Pivovarna Laško, d. d., b. d.).</p>
+    <p xml:id="pb47.p6" xml:lang="sl">Distribucijski centri (DC) distribuirajo proizvode podjetij Pivovarne Laško d. d. (PL), Pivovarne Union d. d. (PU), Fructala d. d. (FR) in Radenske d. d. (RA). Distribucija se vrši skozi dva kanala: 20-Retail (trgovina) in 30-Horeca (Hoteli-restavracije-caffe) kanal. Prodaja se vrši še v 90-diskontu.</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">Tabela 1: Površine skladišč</p>
+    <p xml:id="pb48.p2" xml:lang="sl">DISTRIBUCIJSKI CENTER</p>
+    <p xml:id="pb48.p3" xml:lang="sl">Površina skladišča ( )</p>
+    <p xml:id="pb48.p4" xml:lang="sl">DC MARIBOR 8.800 DC CELJE 2.500 DC DUPLICA 2.500 DC LJUBLJANA 2.300 DC IZOLA 1.050 DC NOVO MESTO 750</p>
+    <p xml:id="pb48.p5" xml:lang="sl">Vir: Pivovarna Laško, d. d., b. d.</p>
+    <p xml:id="pb48.p6" xml:lang="sl">Tabela 2: Količine hl pijač, dostavljenih končnim kupcem iz distribucijskih centrov</p>
+    <p xml:id="pb48.p7" xml:lang="en">Grand Total 906.000,00 790.000,00 694.000,00 643.000,00 Vir: Pivovarna Laško, d. d., b. d.</p>
+    <p xml:id="pb48.p8" xml:lang="sl">Lokacije distribucijskih centrov:</p>
+    <p xml:id="pb48.p9" xml:lang="sl">9010 - Maribor = distribucijski center o Tržaška cesta 23 o SI-2000 Maribor;</p>
+    <p xml:id="pb48.p10" xml:lang="sl">9020 - Celje = distribucijski center o Gaji 28 o SI-3000 Celje;</p>
+    <p xml:id="pb48.p11" xml:lang="sl">9030 - Ljubljana = distribucijski center o Leskoškova 9 o SI-1000 Ljubljana;</p>
+    <p xml:id="pb48.p12" xml:lang="sl">9040 – Izola = distribucijski center o Industrijska cesta 9 o SI-6310 Izola;</p>
+  </page>
+  <page xml:id="pb49" n="49" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=49">
+    <p xml:id="pb49.p1" xml:lang="sl">9050 - Novo Mesto = distribucijski center o Ločna 10 o SI-8000 Novo Mesto;</p>
+    <p xml:id="pb49.p2" xml:lang="sl">9060 - Duplica = distribucijski center o Korenova cesta 7, o SI-1241 Duplica pri Kamniku.</p>
+    <p xml:id="pb49.p3" xml:lang="sl">Pri procesu oskrbe skladišča skladiščnik s pomočjo fizičnega pregleda zalog in izpisa o stanju zalog na skladišču pripravi nalog za nabavo. Na nabavnem nalogu so navedeni vsi podatki o blagu, ki ga bo prevzemal. Pri prevzetem blagu se najprej preveri, če količina prevzetega blaga sovpada z naročeno količino – podatek na dobavnici.</p>
+    <p xml:id="pb49.p4" xml:lang="sl">Naslednji proces je proces preskladiščenja materiala na določeno odlagalno mesto.</p>
+    <p xml:id="pb49.p5" xml:lang="sl">Blago je nato fizično prevzeto na skladiščni lokaciji kot zaloga blaga v distribucijskem centru. Glavni vložek v proces je nabavni nalog, izložek pa prevzeto blago v skladišču.</p>
+    <p xml:id="pb49.p6" xml:lang="sl">Skladiščnik v distribucijskem centru prevzame proizvode od proizvodnih obratov (Pivovarna Laško, Pivovarna Union) in dobaviteljev (Fructal, Radenska). Opravi kvantitativni in kvalitativni pregled. Prevzem proizvodov potrdi s podpisom dokumenta in z vnosom prevzema v računalniško informacijski sistem. V primeru ugotovitve razlik pri prevzemu mora skladiščnik napisati zapisnik in obvestiti neposredno nadrejenega (vodjo distribucijskega centra).</p>
+    <p xml:id="pb49.p7" xml:lang="sl">Pri vseh prevzemih proizvodov morajo skladiščniki biti pozorni na kakovost prevzetih proizvodov. V primeru, da kakovost določenih proizvodov odstopa od predpisanih standardov, morajo skladiščniki take proizvode izločiti in jih z medskladiščnim dokumentom vrniti v trošarinsko ali netrošarinsko skladišče proizvodnega obrata ali dobavitelja v nadaljnji proces, ki ga določi vodja logistike ali oseba, ki jo pooblasti v sodelovanju s službo kakovosti.</p>
+    <p xml:id="pb49.p8" xml:lang="sl">Proizvodi se skladiščijo po vrstah izdelkov in po datumu proizvodnje (najstarejši – najnovejši datum proizvodnje). Skladiščnik spremlja količinsko stanje in kakovost proizvodov. V primeru poslabšanja kakovosti večje količine proizvodov, le-te izloči iz nadaljnje prodaje. Proizvode z neprimerno kakovostjo prenese z medskladiščnim dokumentom v skladišče reklamiranih proizvodov proizvodnega obrata, kjer jih služba kakovosti pregleda in določi nadaljnji status. Skladiščnik dnevno opravlja inventure. O ugotovljenih razlikah pisno obvešča nadrejenega (vodjo distribucijskega centra), le-ta obvešča vodjo logistike.</p>
+  </page>
+  <page xml:id="pb50" n="50" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=50">
+    <p xml:id="pb50.p1" xml:lang="sl">2.3 Kritična analiza</p>
+    <p xml:id="pb50.p2" xml:lang="sl">Pri nabavi smo zaznali kar nekaj slabosti. Prva slabost je, da skladišče spada pod nabavo namesto pod logistiko. Pivovarna Union ima skladišče že pod logistiko. Kot drugo slabost pa opažamo glede dobav repromaterialov. Program SAP je bil narejen za avtomobilsko industrijo, za živilsko pa so ga predelali. Ko so bila izobraževanja in vpeljevanje v nov sistem, se ni vedelo, katere slabosti so bodo pojavile in kaj vse se s programom ne bo dalo spremljati. Še vedno je veliko ljudi, ki programa ne razume.</p>
+    <p xml:id="pb50.p3" xml:lang="sl">Nabava ima predvsem težave z naročanjem za proizvodnjo. Velikokrat se zgodi, da se plani točenja za kakšen dan zamaknejo ali prej ali kasneje. Tu pa nastane problem, ker je material vezan na nek rok, ki je bil vpisan na nabavni nalog. V kolikor se postopek ne da pospešiti pri dobavitelju, se mora prestaviti plan točenja. Nabavni referent mora zelo pozorno spremljati zaloge in plane proizvodnje, da česa ne zmanjka, čeprav se kljub temu tudi to zgodi. To povzroči veliko slabe volje in stresa. Proizvodnja plane pošilja samo za en teden v naprej, rok dobave materiala pa je v večini od 2 do 3 tedne. Slabost vidimo tudi v razporeditvi del med referenti, ki ni najbolj uporabna. Določeni referenti so obremenjeni bolj kot ostali, kar pa seveda ni prav. Zaradi tega nastajajo napake in posledično ogromni stroški. Trenutna kadrovskaslika nabave v Pivovarni Laško je: trije višji referenti za polni delovni čas, ena študentka in ena referentka, ki je zaposlena za polovični delovni čas ter direktor nabave. V Pivovarni Union pa imajo 6 višjih referentk in vodjo nabave. Spodnja slika prikazuje trenutno stanje organizacije nabave v Pivovarni Laško.</p>
+  </page>
+  <page xml:id="pb51" n="51" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=51">
+    <p xml:id="pb51.p1" xml:lang="sl">Slika 12: Nabava Pivovarne Laško, d. d.</p>
+    <p xml:id="pb51.p2" xml:lang="sl">Vir: Pivovarna Laško, d. d., b. d.</p>
+    <p xml:id="pb51.p3" xml:lang="sl">Problematika pa je tudi z vidika marketinga, ki kar pogosto spreminja dizajne in popravke na etiketah, pločevinkah, folijah in kartonih. Posledica tega so stroški, ki nastanejo bodisi zaradi novega orodja, klišeja ali premalo naročenih količin (razlika, ki je potrebna do novega dizajna). Marketinška služba posreduje nabavi premalo podatkov (specifikacija materialov, količine, koliko barvni tisk je ipd.) za pridobivanje ponudb, zaradi tega gre ogromno časa (pisanje mailov, pogovori po telefonu in veliko slabe volje).</p>
+    <p xml:id="pb51.p4" xml:lang="sl">Velik problem je tudi v tem, da glede na to, da je Laško povezano še z Unionom in Radensko, še vedno naročuje vsak zase. Če katero podjetje naroči kar za skupino, kadar je kakšna akcija in gre za storitev, potem se račun prefakturira še na ostale. Velikokrat se je zgodilo, da katero podjetje ni vedelo, kaj je drugo naročilo še za njih. Ob tem je nastala slaba volja in ogromno porabljenega časa za pisanje mailov, da se je vse uskladilo. Največji problem je nastajal, ko so se v začetku leta sklepale pogodbe z dobavitelji za surovine, repromateriale … Vsako podjetje je sklenilo pogodbo zase in seveda s tem dobilo višjo ceno kot jo dobiva zdaj, ko pridobivajo ponudbe skupaj in tudi ponudbe so narejene za celotno skupino. Je pa problem, ker se naročila pošiljajo ločeno in zaradi tega je cena višja.</p>
+  </page>
+  <page xml:id="pb52" n="52" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=52">
+    <p xml:id="pb52.p1" xml:lang="sl">Problematika se vidi tudi v skladišču v Mariboru, ki je za potrebe razvoza blaga do strank na področju MB predimenzionirano, zato je to skladišče izkoriščeno tako, da ga uporabljajo za druge namene (skladiščenje repromaterialov – pločevinke, embalaže, reklamni materiali (steklovina, senčniki, podstavki). Zaradi oddaljenosti distribucijskega centra Maribor od centralnih skladišč in ostalih distribucijskih centrov imajo dodatno delo z organizacijo prevozov, dodatno delo z dokumentacijo … Težave s tem ima nabava, ker ne dobi pravočasno dokumentov za prevzem blaga. Nekaj dokumentov pride po mailih, nekaj pa po pošti, velikokrat se zgodi, da se dokumenti podvajajo.</p>
+    <p xml:id="pb52.p2" xml:lang="sl">Problemi se pojavljajo tudi pri uvedbi novih dizajnov. Nikoli se ne držijo datumov, zato ima nabava velike probleme z naročanjem malih serij, da pri prestopu na nove dizajne ni veliko zalog. Tako morajo večkrat naročiti majhne količine in s tem se seveda cena zelo dvigne. Na koncu vseeno ostane nekaj zalog, katere pa se odpišejo in zopet nastane strošek.</p>
+    <p xml:id="pb52.p3" xml:lang="sl">Glede dostave reklamnih materialov na ostale distribucijske centre pa je težava, predvsem v nesezoni. Takrat se namreč dostava blaga iz centralnih skladišč (Union, Laško) na distribucijske centre vrši le nekajkrat tedensko. To pomeni, da vozilo ni na razpolago vsak dan (reklamne materiale iz Maribora do ostalih skladišč naloži voznik na povratni vožnji, s katero je dostavil blago v distribucijski center). V konkretnem primeru to pomeni, da lahko zagotavljajo razvoz blaga iz distribucijskega centra Maribor do Celje, Ljubljano in Duplice (Kamnik) vsaj dvakrat tedensko, medtem ko pa imajo večje težave z dostavo na distribucijski center Izola ali Novo mesto, ki sta manjša in imata redne dostave največ 1 x tedensko ali celo manj. Dodatnih vozil zaradi dostave reklamnih materialov ne najemajo, saj bi s tem imeli nepotrebne dodatne stroške. To seveda pomeni, da morajo predstavniki, ki potrebujejo steklovino in senčnike, le-te naročiti pravočasno, da jih v logistiki lahko dostavijo v rokih in brez dodatnih stroškov.</p>
+    <p xml:id="pb52.p4" xml:lang="sl">V sezoni so redni razvozi dovolj pogosti, da do teh težav ne prihaja. Mimogrede, v sezoni (maj do avgust), je promet na DC-ih do 100 %, lahko tudi do 150 % višji kot v zimskih mesecih. So pa zelo odvisni od vremena, ki pa je največji indikator uspešnosti sezone.</p>
+  </page>
+  <page xml:id="pb53" n="53" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=53">
+    <p xml:id="pb53.p1" xml:lang="sl">3 PREDLOG IZBOLJŠAV</p>
+    <p xml:id="pb53.p2" xml:lang="sl">Podjetje, ki proizvaja določene izdelke, potrebuje za to določene elemente poslovnega procesa. Ti pa so različni, odvisni so od vrste dejavnosti, katero podjetje opravlja. To so lahko različni materiali, pomožni materiali, delovna sredstva, različna znanja in veščine, in storitve itd. Podjetje pridobi materialne ali nematerialne dobrine, za katere poskrbi nabavna služba. V nabavi so zaposleni ljudje, kateri so prvi, ki poskrbijo, da poslovni proces steče in poteka nemoteno ter prispeva k zagotavljanju uspešnosti podjetja. V kolikor je nabava učinkovita in uspešna, je uspešno tudi podjetje.</p>
+    <p xml:id="pb53.p3" xml:lang="sl">V kolikor je nabava in njen proces učinkovit, lahko pripomore k izboljšanju podjetja, zato pa mora biti zelo dobro organizirana. Z dobrim kadrom, z velikim znanjem lahko nabava podjetju prihrani ogromno denarja in so procesi zelo hitro speljani. V Pivovarni Laško je nabavna služba še vedno nekje v ozadju, ni cenjena preveč, čeprav se čez njo steka ogromno denarja. V prvi meri bi morali nabavo pozicionirati kot samostojno službo, ki bi spadala direktno pod upravo podjetja in tudi referente pozicionirati na boljše položaje.</p>
+    <p xml:id="pb53.p4" xml:lang="sl">Razporeditev dela po referentih bi bilo potrebno spremeniti. Nekje logično bi bilo, da bi proizvodnjo pokrivali trije referenti, kateri bi se med sabo nadomeščali v primeru dopusta in bolniškega staleža. En referent bi imel etikete, zaporke, steklenice, drugi pločevinke, kartone, folije, tretji pa vse surovine, sode, palete, čistila in lepila. Četrti referent bi v celoti prevzel reklamni material in dogovarjanje z marketingom in storitve ter peti referent bi imel osnovna sredstva, investicije, drobni material in rezervne dele (osnovnih sredstev in investicij ni veliko, ker podjetje finančno ni dobro podprto). Tako bi bilo delo maksimalno dobro usklajeno. Prav tako bi se morali vsake toliko časa referenti med sabo zamenjati, da bi spoznali celotno delo vsakega referenta. S tem bi bilo lažje nadomeščanje in manj slabe volje, ko pride do problemov. Prevzemov je na leto za cca 25 mio poleg investicij in storitev, plače petih referentov pa letno znašajo cca 90.000 eur. Kot je razvidno, strošek enega referenta ni velik v primerjavi z denarjem, s katerim referenti operirajo. Če bi bilo referentov manj, kaj hitro lahko pride do napake, ki pa lahko stane ogromno na sami liniji, ker ena izmena zaposlenih ne more točiti, kar posledično pomeni izpad prodaje. Primer: v kolikor referent pozabi ali spregleda potrebo po naročilu, cca 1.000 hl Zlatorog 0,5 l kar znaša 200.000 kom etiket, je cca za 96.000 eur škode. Zelo dobro je razvidno, da je lahko samo ena takšna napaka, če delo ni pravilno organizirano, in je premalo referentov, primerljiva z letnim zneskom plač vseh petih nabavnih referentov.</p>
+  </page>
+  <page xml:id="pb54" n="54" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=54">
+    <p xml:id="pb54.p1" xml:lang="sl">Slika 13: Predlog prerazporeditve Nabave</p>
+    <p xml:id="pb54.p2" xml:lang="sl">Proizvodnja bi morala glede na nabavne roke materialov, pošiljati plane za tri tedne naprej, le tako bi se izognili problemom, ki nastajajo zaradi prekratkih planov. Pošilja se plan samo za en teden in nabava zelo težko odreagira, v kolikor česa zmanjka. Moramo vedeti, da se etikete, ki so iz papirja Gepalux, sušijo tudi do 4 dni, se pravi niti teoretično ni možno, da bi jih dobili v enem dnevu. Proizvodnja velikokrat nabave ne razume, zakaj ne more hitreje nabaviti. Ampak kot je proces proizvodnje piva, tako morajo tudi dobavitelji skozi določen proces izdelave repromaterialov. Vsak dobavitelj ima letni plan po katerem dela skozi leto. Pivovarna Laško sicer da velikim dobaviteljem letni plan, ki je zgolj informacijske narave. Kolikor je prodaja večja, se naročila povečajo, v kolikor manjša, se lahko gre tudi pod plan, kateri je bil poslan dobaviteljem.</p>
+    <p xml:id="pb54.p3" xml:lang="sl">Prav tako bi se morala naročevati večja količina materialov, ki posledično vpliva tudi na ceno. Večja kot je količina, nižja je cena. Se pravi, glede na to, da Union in Laško oba proizvajata pivo, bi bilo zelo dobro, da bi šla naročila iz enega mesta. Primer: če se naroči 100.000 kom Zlatorog 0,5 l etiket, je cena cca 1.000 eur, če pa se naroči 1 mio enakih etiket, pa je cena 5.650 eur. To je dokaz, da je bolje naročevati večje količine, ker obema podjetji lahko prihranita. Ponudbe se res pridobivajo za celotne količine skupaj, ampak naročila se oddajajo vsak zase in s tem je cena višja, kot bi bila pri skupnem naročilu.</p>
+  </page>
+  <page xml:id="pb55" n="55" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=55">
+    <p xml:id="pb55.p1" xml:lang="sl">Z vidika marketinga bi se morali dizajni menjavati bolj poredko, saj se z leti ugotavlja, da prepogosto menjavanje dizajnov ni dobro ne za podjetje, ker prinaša ogromne stroške, in ne za potrošnika, ki se zgubi v poplavi vseh artiklov. Znamka, ki je prepoznavna in ima tradicijo, bi morala ostati enaka, da jo potrošnik takoj prepozna in ni zmeden glede nakupa. Z vidika nabave bi se tako prihranili vsi stroški popravkov in stroški, ki nastanejo ob premalo naročenih količinah, katere se donaročijo pred spremembo dizajna. Dobavitelji po navadi ne zaračunavajo spremembe dizajnov, v kolikor oblika ostane enaka, spremenijo pa se samo dizajni barv in napisov. Ampak s tem nastanejo stroški pri oblikovalcu, ki dizajne naredi. Ti pa so po navadi zelo visoki, cca od 2.000 do 6.000 eur. V kolikor se spremeni še oblika etikete, pa zaračuna novo orodje tudi dobavitelj. Ti stroški znašajo cca od 400 do 800 eur. Vseh repromaterialov ima Pivovarna Laško cca 800 kom, končnih/gotovih proizvodov pa cca 200 kom.</p>
+    <p xml:id="pb55.p2" xml:lang="sl">Nabava bi morala biti ena za vsa tri podjetja Laško, Union in Radensko. Le tako se lahko dosežejo nižje cene zaradi velikih količin. Povečala bi se kontrola nad naročili in prevzemi, lažje spremljanje zalog, lažje reševanje reklamacij. Vsa naročila bi šla z enega mesta in to bi bilo lažje tudi za dobavitelja, ker bi delal samo z enim kupcem.</p>
+    <p xml:id="pb55.p3" xml:lang="sl">Dostave materialov bi bile v vsako podjetje posebej. V Pivovarni Union in Radenski bi bili samo operaterji, kateri bi skrbeli za reklamacije, točne prevzeme in komuniciranje s centralno nabavo v Laškem. V kolikor bi se nabave treh podjetji združile, je seveda potrebno manj kadra, kar pomeni takoj prihranek. Za nabavo materialov za celotno skupino bi torej potrebovali pet komercialistov nabave, pri katerih je zahtevana sedma stopnja izobrazbe. Najbolj pomembna naloga nabavnega komercialista je, da se pogaja z dobavitelji. Pogaja se o plačilnih in dobavnih rokih ter o rabatih. Kriterije vsega določi direktor nabave, nabavni komercialist pa mora doseči čim boljše pogoje. Ker je na trgu vse močnejša konkurenca, se mora komercialist nabave zelo potruditi, če želi zagotoviti kakovostno blago po ugodni ceni. Časi, ko se je dobavitelj obdržal brez večjih pritiskov na cene, zaradi dobrega osebnega prijateljstva z nabavnim komercialistom ali direktorjem nabave so preteklost. V kolikor je nabavni komercialist dober pogajalec, lahko omogoči ogromno prihranka podjetju. Za pisanje naročil, vodenje evidenc, potrjevanje računov bi bilo potrebno 7 višjih referentov (zahtevana šesta stopnja izobrazbe) in direktor nabave (zahtevana najmanj sedma stopnja izobrazbe). Trenutna situacija pa je: Union ima 6 višjih referentov in vodjo nabave, Radenska ima enega višjega referenta in vodjo nabave, Laško pa ima tri višje referente za polni delovni čas, eno študentko, eno referentko za polovični delovni čas in direktorja nabave, kateri pokriva celotno skupino. Se pravi, da je prihranek pri dveh vodjih nabave in dveh višjih referentih, kar letno znaša cca 132.000 eur.</p>
+  </page>
+  <page xml:id="pb56" n="56" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=56">
+    <p xml:id="pb56.p1" xml:lang="sl">Slika 14: Centralna nabava Skupine Laško</p>
+  </page>
+  <page xml:id="pb57" n="57" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=57">
+    <p xml:id="pb57.p1" xml:lang="sl">ZAKLJUČEK</p>
+    <p xml:id="pb57.p2" xml:lang="sl">V raziskovanju za potrebe diplomske nalogo smo ugotovili, da je nabava res eden najpomembnejših členov v samem podjetju. Je člen oziroma funkcija, ki mora pravi čas zagotoviti ustrezno količino materiala za pravo oziroma ugodno ceno. Prav tako mora zagotavljati kakovosten material. Predvsem je zelo pomembno, da čim več sodeluje z ostalimi službami v podjetju, saj se le tako lahko zagotovi uspešnost celotnega procesa.</p>
+    <p xml:id="pb57.p3" xml:lang="sl">Tezo, ki smo si jo postavili, smo jo tudi potrdili. V proučevanem podjetju se zavedajo, da je nabava ena najpomembnejših funkcij in da njeno delovanje v celoti vpliva na končni izdelek. V podjetju se prav tako dobro zavedajo, da morajo čim prej združiti nabavne službe v skupini, zaradi doseganja nižjih cen materialov in lažjim nadzorom skladiščenja.</p>
+    <p xml:id="pb57.p4" xml:lang="sl">Ocena učinkov</p>
+    <p xml:id="pb57.p5" xml:lang="sl">Kot smo že izpostavili, bi z izboljšavami, ki smo jih podali, veliko prihranili v nabavni službi pri skupnem naročanju repromaterialov, surovin, reklame. Točen znesek je težko določiti, primer za etikete smo podali.</p>
+    <p xml:id="pb57.p6" xml:lang="sl">Velik prihranek bi podjetje pridobilo pri združenju nabavnih služb. Trenutno ima skupina dve vodji nabave in direktorja nabave in kar nekaj referentov in višjih referentov. V kolikor bi mesti vodji nabave in dveh referentov ukinili, bi prihranili 132.000 eur letno.</p>
+    <p xml:id="pb57.p7" xml:lang="sl">Največ pa bi podjetje prihranilo, če bi repromateriale vedno porabili do minimalnih zalog in šele nato šli v prenovo. Letno je odpisov bodisi zaradi prenove, popravljanja deklaracij, ukinitve izdelkov za cca 100.000 eur. Če gledamo dolgoročno, ti stroški predstavljajo velike obremenitve za podjetje.</p>
+    <p xml:id="pb57.p8" xml:lang="sl">Cilj nabavne verige je maksimizacija dobička s povečano konkurenčnostjo, nižjimi stroški in najkrajšim možnim časom postrežbe potrošnikov. Pristop k znižanju stroškov skozi celotno skozi celotno verigo ustvarjanja dodane vrednosti zaznamuje zniževanje zalog od materialov do končnih izdelkov ter skrajšanje časa, ki je potreben za izdelavo proizvoda. Prizadevanja v tej smeri so postavila nabavo in logistiko v vlogo, da zagotavljata material ob pravem času, kar pomeni korenito znižanje zalog.</p>
+  </page>
+  <page xml:id="pb58" n="58" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=58">
+    <p xml:id="pb58.p1" xml:lang="sl">Cilj reorganizacije nabave za celotno skupino je zmanjšanje stroškov poslovanja in tako povečati dobiček podjetja. Reorganizacija naj bi se uvedla konec leta 2014. Sedež nabave naj bi zaenkrat bil v Laškem, v kolikor ne bo v prihodnje prišlo do sprememb, bodisi prodajo Skupine Laško ali razpad Skupine Laško.</p>
+    <p xml:id="pb58.p2" xml:lang="sl">Cilj podjetja je tudi zadovoljiti kupca, ker je podjetje neposredno močno odvisno od njega. S hitrejšim procesom odpreme blaga (in vseh procesov, ki so zajeti v tem), z napotitvijo kamionov direktno iz skladišča na mejni prehod (nič več čakanja na carini), omogoča hitrejšo in cenejšo dobavo naših proizvodov za kupca, kar posledično vpliva na ceno proizvodov na tržišču.</p>
+    <p xml:id="pb58.p3" xml:lang="sl">Pogoji za uvedbo</p>
+    <p xml:id="pb58.p4" xml:lang="sl">Da bi se lahko vse izpeljalo, kot je predlagano, morajo lastniki podjetja podati zeleno luč za združevanje podjetij. V kolikor bo do tega prišlo, bo za nabavo definitivno največji prihranek. Največ denarja se izteka ravno čez nabavo. Glavni pogoj je seveda dober in kvaliteten kader, kateri zmore več opravil hkrati in zato je potrebno manj kadra. Eden od pogojev je pridobivanje čim več ponudb, ker je konkurenca na trgu zelo velika in se lahko za manj denarja dobi kakovostne materiale.</p>
+    <p xml:id="pb58.p5" xml:lang="sl">Manj, ko nabava naredi nepotrebnih stroškov s preveč kadri, malimi naročilnimi količinami, več denarja lahko podjetje nameni npr. za proizvodne stroje, dobro reklamo oziroma kakšno noviteto.</p>
+    <p xml:id="pb58.p6" xml:lang="sl">Nujni pogoj za uspešno nabavno poslovanje pa je tudi dobro notranje sodelovanje nabavnega oddelka, tako s proizvodnjo in logistiko, kot z razvojnim oddelkom.</p>
+  </page>
+  <page xml:id="pb59" n="59" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=59">
+    <p xml:id="pb59.p1" xml:lang="sl">Možnost nadaljnjega razvoja</p>
+    <p xml:id="pb59.p2" xml:lang="sl">Kot smo že pisali, bo v prihodnje nabava Skupine Laško centralizirana, in to v Laškem.</p>
+    <p xml:id="pb59.p3" xml:lang="sl">Ker je nabava tesno povezana s proizvodnjo, marketingom in financami, bi bila težko organizirana na drugi lokaciji. Tudi finance se bodo morale združiti, da bo potem en račun za eno naročilo. Vsekakor pa se bo moralo v prihodnje delati čim več na elektronskem poslovanju. Zaenkrat se še vedno dela veliko fizično s papirji. Prevzemi in računi bodo morali biti v elektronski obliki, le tako bo lahko nabava nemoteno delovala.</p>
+    <p xml:id="pb59.p4" xml:lang="sl">Komercialisti nabave bodo morali biti več na terenu, če bodo hoteli dobiti dobre dobavitelje in dobre materiale po ugodnih cenah. Višji referenti bi delali naročila, na podlagi ponudb, ki bi jih komercialist pridobil. Komercialist nabave bi moral dobavitelja dobro poznati, se pravi, videti njegovo proizvodnjo in njegov način dela. Za vsak izdelek bi moral imeti najmanj dva ali tri dobavitelje, da ne bi prišlo do izpada proizvodnje, posledično tudi prodaje.</p>
+    <p xml:id="pb59.p5" xml:lang="sl">Program Sap bo potrebno nadgraditi. Kot smo že pisali, nabavnega referenta program ne opozori, da dobavitelj z dobavo zamuja. Tukaj vidimo možnost, da kot prispe naročilo v elektronsko pošto, bi po tem postopku prišlo tudi opozorilo en dan pred iztekom roka dobave. Tako bi referent dobavitelja pozval, da je naslednji dan rok za dobavo. S tem bi se izognili stroškom izpada proizvodnje.</p>
+    <p xml:id="pb59.p6" xml:lang="sl">Posebej bo potrebno narediti program, ki bo posebej za odpise materialov. Odpisov je ogromno, nikjer pa točnega podatka, koliko letno, ker se zadeve skrivajo ali izgubijo.</p>
+    <p xml:id="pb59.p7" xml:lang="sl">Vse se vodi v fizični obliki oziroma s tabelami v Excelu. Ker gre za ogromno denarja, bi morali ljudje, ki gredo v prenove, za popravljanja oziroma zmote odgovarjati, v kolikor se obstoječa zaloga ne porabi do minimuma.</p>
+    <p xml:id="pb59.p8" xml:lang="sl">Možnost nadaljnjega razvoja vidimo predvsem v preselitvi celotne proizvodnje piva v Laško. Se pravi, da bi se Union pivo in njegove blagovne znamke točile v Laškem. Vse brezalkoholne pijače pa bi se točile v Radenski, v kolikor se ne bi prodala. Zemljišče v Ljubljani je veliko vredno in bi se splačalo prodati. Vsi vemo, da dve pivovarni v Sloveniji dolgoročno ne bosta preživeli, v kolikor Skupino Laško kupi tujec. Laško bi bilo izhodišče vsega, ker ima dobro vodo za nastanek piva in tudi dolgoletno tradicijo, kot nosilec vsega. S tem bi prihranili na kadrih, kar je žalostno, ampak resnično. Veliko ljudi bi ostalo brez službe. Vendar, če bi podjetje želelo preživeti, bi to bila najboljša rešitev. Tuj lastnik ne bo gledal na zaposlene, ampak kaj bo njemu najbolje koristilo.</p>
+  </page>
+  <page xml:id="pb60" n="60" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=60">
+    <p xml:id="pb60.p1" xml:lang="sl">Najboljše bi bilo, da bi sedanji lastniki storili to že vse zdaj na mehek način (predčasne upokojitve, prerazporeditve ipd.), kajti tujec bo to storil na trdi način, kar spremljamo tudi preko televizij.</p>
+    <p xml:id="pb60.p2" xml:lang="sl">V kolikor se bo Radenska prodala, pa bi se brezalkoholne pijače točile v Unionu in pivo v Laškem. Nabava vsega bi bila centralizirana, operaterji pa v vsakem podjetju. Če bi Skupini Laško uspelo prodati Mercator, Radensko in Delo, bi se ji dolgovi zmanjšali, Unionu skoraj v celoti, Laškemu pa bi ostalo še nekje polovica današnjega dolga, ki znaša cca 350 mio evrov. S temi dolgovi pa bi Skupina Laško dolgoročno dobro poslovala, ob takšni prodaji kot jo imajo.</p>
+    <p xml:id="pb60.p3" xml:lang="sl">Skupina Laško je v letu 2013 povečala prodajne količine na trgih izven Slovenije za 10,2 odstotka, v primerjavi z letom 2012. Prodaja vseh pijač v letu 2013 je znašala 3,9 milijona hl, kar je za 2,8 odstotka več kot v letu 2012. Skupina je ustvarila 267 mio eur prihodkov iz prodaje ter znižala neto izpostavljenost do bank in naslova glavnic kreditov za 27,4 milijona eur.</p>
+  </page>
+  <page xml:id="pb61" n="61" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=61">
+    <p xml:id="pb61.p1" xml:lang="sl">SEZNAM LITERATURE IN VIROV</p>
+    <p xml:id="pb61.p2" xml:lang="sl">Čizman, A. (2002). Logistični management v podjetju. Kranj: Moderna organizacija v okviru FOV.</p>
+    <p xml:id="pb61.p3" xml:lang="sl">Ferišak, V. &amp; Stihović, L. (1989). Nabava i materijalno poslovanje. Zagreb: Informator.</p>
+    <p xml:id="pb61.p4" xml:lang="sl">Jovanovič, M. &amp; Murmayer, U. (2008). Pet prijemov za učinkovitejšo in cenejšo nabavo. Revija Manager. Najdeno 22. marca 2014 na spletnem naslovu http://www.finance.si/231313/Pet-prijemov-za-u%C4%8Dinkovitej%C5%A1o- in-cenej%C5%A1o-nabavo</p>
+    <p xml:id="pb61.p5" xml:lang="sl">Kaltnekar, Z. (1993). Logistika v proizvodnem podjetju. Kranj: Moderna organizacija.</p>
+    <p xml:id="pb61.p6" xml:lang="sl">Kavčič, B. (1992). Kako se uspešno pogajati. Ljubljana: Gospodarski vestnik.</p>
+    <p xml:id="pb61.p7" xml:lang="sl">Kavčič, K. (2011). Oskrbne verige, logistika in nabava. Ljubljana: Zavod za varnostne strategije pri Univerzi v Mariboru.</p>
+    <p xml:id="pb61.p8" xml:lang="sl">Kovačič, M. (1984). Vloga in oblikovanje marketinga v nabavni politiki trgovinskih organizacij pri povezovanju s proizvodnjo. Doktorska disertacija. Maribor: Visoka ekonomsko komercialna šola Maribor.</p>
+    <p xml:id="pb61.p9" xml:lang="sl">Oblak, H. (1997). Mednarodna poslovna logistika. Maribor: Ekonomsko-poslovna fakulteta.</p>
+    <p xml:id="pb61.p10" xml:lang="en">Ogorelc, A. (2004). Mednarodni transport in logistika. Maribor: Ekonomsko-poslovna fakulteta.</p>
+    <p xml:id="pb61.p11" xml:lang="en">O'Neal, C. &amp; Bertrand, K. (1995). Developing a Wining J.I.T., Marketing Strategy: The Industrial Marketer's Guide. New Jersey: Prentice-Hall, Inc.</p>
+    <p xml:id="pb61.p12" xml:lang="sl">Pivovarna Laško d. d. (b. d.). Interni viri. Laško: Pivovarna Laško d. d..</p>
+    <p xml:id="pb61.p13" xml:lang="sl">Potočnik, V. (2002). Nabavno poslovanje s primeri iz prakse. Ljubljana: Ekonomska fakulteta.</p>
+    <p xml:id="pb61.p14" xml:lang="sl">Rozman, S. (2007). Dejavnosti nabave in skladiščenja v podjetju Pivovarna Laško, d. d.</p>
+    <p xml:id="pb61.p15" xml:lang="sl">Diplomsko delo. Maribor: Ekonomsko-poslovna fakulteta.</p>
+    <p xml:id="pb61.p16" xml:lang="sl">Smolar, S. (2007). Prodaja, nabava in trženje. Slovenj Gradec: Šolski center.</p>
+    <p xml:id="pb61.p17" xml:lang="sl">Ivanko, Š. &amp; Bergant, B. (1999). Poslovanje podjetja. Novo Mesto: Visoka šola za upravljanje in poslovanje.</p>
+    <p xml:id="pb61.p18" xml:lang="sl">Ivanko, Š. (2004). Strukture in procesi v organizaciji. Ljubljana: Fakulteta za upravo.</p>
+    <p xml:id="pb61.p19" xml:lang="sl">Ulaga, Z. (2005). Organizacija transporta v podjetju Pivovarna Laško, d. d. Diplomsko delo. Celje: Visoka komercialna šola. van Weele, A. J. (1998). Nabavni management, analiza, planiranje in praksa.</p>
+  </page>
+  <page xml:id="pb62" n="62" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=62">
+    <p xml:id="pb62.p1" xml:lang="sl">Ljubljana: Gospodarski vestnik.</p>
+    <p xml:id="pb62.p2" xml:lang="sl">Vorina, A. (2005). Organizacija in logistika poslovanja. Celje: Poslovno-komercialna šola. Višja strokovna šola.</p>
+    <p xml:id="pb62.p3" xml:lang="sl">Vučkovič, G. (2008). Nabavno poslovanje. Celje: Visoka komercialna šola.</p>
+    <p xml:id="pb62.p4" xml:lang="sl">Završnik, B. (1996). Management nabave. Maribor: Ekonomsko-poslovna fakulteta.</p>
+    <p xml:id="pb62.p5" xml:lang="sl">Završnik, B. (2000). Nabava: zapiski predavanj. Maribor: Ekonomska poslovna fakulteta.</p>
+    <p xml:id="pb62.p6" xml:lang="sl">Završnik, B. (2004). Izbiranje in ocenjevanje dobaviteljev. Ljubljana: GV Izobraževanje.</p>
+    <p xml:id="pb62.p7" xml:lang="sl">Zgodovina [Predstavitev podjetja Pivovarna Laško, d. d.], (b. d.). Najdeno 15. februarja 2014 na spletnem naslovu: http://www.pivo-lasko.si/podjetje/zgodovina/ Žibret, B. (2008). Strateška nabava. Ljubljana: Planet GV, d. o. o.</p>
+    <p xml:id="pb62.p8" xml:lang="sl">Žmavc, M. (2002). Orodja kakovosti v procesu nabave: Management in Evropska unija</p>
+    <p xml:id="pb62.p9" xml:lang="sl">– zbornik konference z mednarodno udeležbo. Kranj: Moderna organizacija.</p>
+  </page>
+  <page xml:id="pb63" n="63" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=63">
+    <p xml:id="pb63.p1" xml:lang="sl">PRILOGE</p>
+  </page>
+  <page xml:id="pb64" n="64" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=64">
+    <p xml:id="pb64.p1" xml:lang="sl">KAZALO PRILOG</p>
+    <p xml:id="pb64.p2" xml:lang="sl">Priloga 1: Pregled pogodbe ............................................................................................. 1 Priloga 2: Interno naročilo ............................................................................................... 4 Priloga 3: Prevzem blaga ................................................................................................. 5 1</p>
+  </page>
+  <page xml:id="pb65" n="65" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=65">
+    <p xml:id="pb65.p1" xml:lang="sl">Priloga 1: Pregled pogodbe 2 3 4</p>
+  </page>
+  <page xml:id="pb66" n="66" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=66"/>
+  <page xml:id="pb67" n="67" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=67"/>
+  <page xml:id="pb68" n="68" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=68">
+    <p xml:id="pb68.p1" xml:lang="sl">Priloga 2: Interno naročilo 5</p>
+  </page>
+  <page xml:id="pb69" n="69" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-8385000.pdf#page=69">
+    <p xml:id="pb69.p1" xml:lang="sl">Priloga 3: Prevzem blaga</p>
+  </page>
+</document>

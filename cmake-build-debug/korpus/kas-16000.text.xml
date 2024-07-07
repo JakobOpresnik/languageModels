@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-16000" doc_id="16000" text_id="29661" cobiss_id="3402926" title="Statistična analiza sprememb strukture vpisne populacije visokošolskih ustanov" author="Urek, Laura" supervisor="Devjak, Srečko" year="2010" publisher_abbr="UL FU" publisher="Fakulteta za upravo" place="Ljubljana" url="http://www.fu.uni-lj.si/diplome/pdfs/diplomska/ureklaura.pdf" type="Diplomsko delo" udc="378.091.212:519.23(043.2)" udc_desc="Visoko šolstvo. Univerzitetni študij. Akademski študij. Verjetnost. Matematična statistika" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">UNIVERZA V LJUBLJANI FAKULTETA ZA UPRAVO</p>
+    <p xml:id="pb1.p2" xml:lang="sl">Diplomsko delo univerzitetnega programa</p>
+    <p xml:id="pb1.p3" xml:lang="sl">STATISTIČNA ANALIZA SPREMEMB STRUKTURE VPISNE POPULACIJE VISOKOŠOLSKIH USTANOV</p>
+    <p xml:id="pb1.p4" xml:lang="sl">Laura Urek</p>
+    <p xml:id="pb1.p5" xml:lang="sl">Ljubljana, april 2010</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">UNIVERZA V LJUBLJANI FAKULTETA ZA UPRAVO</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Diplomsko delo univerzitetnega programa</p>
+    <p xml:id="pb2.p3" xml:lang="sl">STATISTIČNA ANALIZA SPREMEMB STRUKTURE VPISNE POPULACIJE VISOKOŠOLSKIH USTANOV</p>
+    <p xml:id="pb2.p4" xml:lang="sl">Študentka: Laura Urek</p>
+    <p xml:id="pb2.p5" xml:lang="sl">Številka indeksa: 04034388</p>
+    <p xml:id="pb2.p6" xml:lang="sl">Mentor: dr. Srečko Devjak Ljubljana, april 2010</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">ii</p>
+    <p xml:id="pb3.p2" xml:lang="sl">POVZETEK</p>
+    <p xml:id="pb3.p3" xml:lang="sl">Pri svojem diplomskem delu sem se osredotočila na Fakulteto za logistiko v Krškem, ki je bila ustanovljena leta 2005. S to fakulteto sem se srečala februarja 2009, ko sem pričela opravljati študentsko delo v Valvasorjevem raziskovalnem centru v Krškem (v nadaljevanju VRC). VRC je eden od soustanoviteljev Fakultete za logistiko in prav zaradi tega mi je fakulteta postala zanimiva za raziskavo.</p>
+    <p xml:id="pb3.p4" xml:lang="sl">V svoji diplomski nalogi bom ugotavljala trend vpisa in zanimanja za omenjeno fakulteto. Na podlagi raziskave maturantov, ki sem jo naredila na Gimnaziji Brežice, pa bom ugotavljala zakaj vpis upada.</p>
+    <p xml:id="pb3.p5" xml:lang="sl">Ključne besede: študentje, VRC, vpis, trend, fakulteta za logistiko, dijaki Besedi študentje in dijaki, sta uporabljeni za oba spola.</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">iii</p>
+    <p xml:id="pb4.p2" xml:lang="sl">SUMMARY</p>
+    <p xml:id="pb4.p3" xml:lang="en">I concentrated in my thesis on the Faculty of Logistics in Krško, which was established in 2005. I first came across with this faculty in February 2009, while I was working as a student at the Valvasor's research centre (Valvasorjev raziskovalni center - VRC), which is one of the co-founders of the faculty. This is also the reason why I chose this topic for my thesis.</p>
+    <p xml:id="pb4.p4" xml:lang="en">I will also try to determine how many people enrolled at this faculty in the past and if the faculty is popular among high school students. Based on my research at the high school in Brežice (Gimnazija Brežice) I will try to find out which are the main reasons for the sinking enrollment.</p>
+    <p xml:id="pb4.p5" xml:lang="en">Key words: students, VRC, enrollment, Faculty of Logistics, high school students The words student/students are used for men and women.</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="en">iv</p>
+    <p xml:id="pb5.p2" xml:lang="en">KAZALO</p>
+    <p xml:id="pb5.p3" xml:lang="en">POVZETEK ........................................................................................................... ii SUMMARY ............................................................................................................ iii</p>
+    <p xml:id="pb5.p4" xml:lang="sl">1 UVOD ............................................................................................................... 1 1.1 IZHODIŠČE DIPLOMSKEGA DELA ................................................................. 1 1.2 NAMEN IN CILJI .......................................................................................... 2 1.3 METODE DELA ............................................................................................ 2 1.4 STRUKTURA DIPLOMSKEGA DELA ................................................................ 2 2 VISOKOŠOLSKI ŠTUDIJ IN RAZVOJ ŠTUDIJSKIH PROGRAMOV ............................ 3 2.1 BOLONJSKA PRENOVA VISOKEGA ŠOLSTVA V SLOVENIJI .............................. 3 2.2 IZOBRAŽEVANJE ......................................................................................... 4 3 FAKULTETA ZA LOGISTIKO ................................................................................ 5 3.1 OPIS RAZVOJA FAKULTETE ZA LOGISTIKO ................................................... 5 4 DELOVANJE FAKULTETE ZA LOGISTIKO ............................................................. 7 4.1 LETO VPISA 2005/2006 ............................................................................... 7 4.2 LETO VPISA 2006/2007 ............................................................................... 9 4.3 LETO VPISA 2007/2008 ............................................................................. 12 4.4 LETO VPISA 2008/2009 ............................................................................. 14 4.5 LETO VPISA 2009/2010 ............................................................................. 16 5 SPREMINJANJE VPISA IN SPOLNE STRUKTURE ŠTUDENTOV ............................. 19</p>
+    <p xml:id="pb5.p5" xml:lang="sl">6 KOMPETENCE DIPLOMANTOV FAKULTETE ZA LOGISTIKO (univerzitetni program)</p>
+    <p xml:id="pb5.p6" xml:lang="sl">6.1 UNIVERZITETNI ŠTUDIJSKI PROGRAM LOGISTIKA SISTEMOV..................... 21 7 VZROKI ZA UPAD VPISA ŠTUDNTOV V UNIVERZITETNI ŠTUDIJSKI PROGRAM</p>
+    <p xml:id="pb5.p7" xml:lang="sl">FAKULTETE ZA LOGISTIKO - raziskava ................................................................ 23</p>
+    <p xml:id="pb5.p8" xml:lang="sl">7.1 ANALIZA ANKETNE RAZISKAVE .................................................................. 23 8 UGOTOVITVE IN UKREPI ZA POVEČANJE VPISA NA FAKULTETO ZA LOGISTIKO . 29</p>
+    <p xml:id="pb5.p9" xml:lang="sl">9 ZAKLJUČEK ..................................................................................................... 31 LITERATURA ...................................................................................................... 32 VIRI .................................................................................................................. 33 SEZNAM GRAFOV ............................................................................................... 35</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">v</p>
+    <p xml:id="pb6.p2" xml:lang="sl">SEZNAM TABEL .................................................................................................. 36 UPORABLJENE KRATICE ..................................................................................... 37 PRILOGE ............................................................................................................ 38 PRILOGA A: ANKETA .......................................................................................... 38</p>
+    <p xml:id="pb6.p3" xml:lang="sl">PRILOGA B: Tabele rezultatov anket .................................................................... 40</p>
+    <p xml:id="pb6.p4" xml:lang="sl">IZJAVA O AVTORSTVU IN NAVEDBA LEKTORJA ................................................... 42 1 UVOD</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">1.1 IZHODIŠČE DIPLOMSKEGA DELA</p>
+    <p xml:id="pb7.p2" xml:lang="sl">Diplomsko delo je zame zaključek študijskega obdobja in hkrati začetek obdobja novih izzivov na poklicni poti. Idejo za temo sem dobila v Valvasorjevem raziskovalnem centru, kjer sem opravljala študentsko delo. Valvasorjev raziskovalni center Krško je zavod s pravico javnosti in je prva takšna organizacija v jugovzhodni Sloveniji. Gre za visoko profesionalno raziskovalno razvojno organizacijo, ki se ukvarja z znanstveno-raziskovalnim delom na širšem znanstvenem področju. VRC je eden od soustanoviteljev Fakultete za logistiko.</p>
+    <p xml:id="pb7.p3" xml:lang="sl">Fakulteta za logistiko je polnopravna članica Univerze v Mariboru, ki deluje v Celju in Krškem. Na obeh lokacijah se odvija pedagoški in znanstveno-raziskovalni proces.</p>
+    <p xml:id="pb7.p4" xml:lang="sl">V Sloveniji imamo tri javne univerze (v Ljubljani, Mariboru in na Primorskem), ki študentom zagotavljajo enake možnosti izobraževanja.</p>
+    <p xml:id="pb7.p5" xml:lang="sl">Za statistično analizo sprememb strukture vpisne populacije Fakultete za logistiko sem se odločila, ker je bila Fakulteta za logistiko ustanovljena v Posavju, iz katerega prihajam tudi sama. Zelo dobra prometna dostopnost, rodovitni dolini reke Save in Krke, gričevnat svet vinogradov ter obilo vodnega bogastva so del podobe druge najmanjše slovenske regije. Projekt ustanovitve Fakultete za logistiko je nastal na osnovi zelo jasnega dejstva, da je jugovzhodni del Slovenije od centra odrinjeni del Slovenije. Kvaliteta življenja je bila daleč najslabša prav v naši regiji, kar je nujno zahtevalo takojšnje, hitre, odločne in učinkovite premike v vseh sferah življenja in delovanja. Na oceno kakovosti življenja prebivalcev Slovenije v največji meri vplivajo izobrazba, starost in dohodek: ocena se z nižjo izobrazbo in posledično z nižjim dohodkom, niža. Na prvo mesto spreminjanja (samo)zavedanja o kvaliteti življenja je bilo zato nujno potrebno postaviti zahtevo po boljšem izobraževanju – predvsem na visokošolskem in univerzitetnem nivoju.</p>
+    <p xml:id="pb7.p6" xml:lang="sl">Ustanovitev Fakultete za logistiko je najprej v Posavju požela zelo velik interes, saj se je za novoustanovljeno fakulteto zanimalo ogromno dijakov. V letu ustanovitve Fakultete za logistiko, 2005, se je v Krškem odprlo tudi večje podjetje. To je podjetje Grieshaber logistika d.o.o., ki ima 100 – 150 zaposlenih. Odprlo se je tudi nekaj manjših podjetij z glavno dejavnostjo logistike. Vse to je bil razlog za še večje zanimanje za to fakulteto. Vendar v teh petih letih delovanja fakultete, vpis študentov naglo upada. Podjetja so si zapolnila svoja mesta in vse več je diplomantov, ki nimajo ustrezne službe za svoj poklic. Študentje oziroma diplomanti so zopet začeli »bežati« v večja mesta, v upanju na zaposlitev.</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">1.2 NAMEN IN CILJI</p>
+    <p xml:id="pb8.p2" xml:lang="sl">Namen je preveriti krivuljo življenjskega cikla študijskega programa in ključne dejavnike. Glavna vprašanja, na katera se bom skozi diplomo osredotočila, se nanašajo na spreminjanje obsega vpisa in na odkrivanje dejavnikov, ki vplivajo na manjši vpis na Fakulteti za logistiko.</p>
+    <p xml:id="pb8.p3" xml:lang="sl">Kako se od ustanovitve Fakultete za logistiko pa do danes spreminja vpis in spol študentov v univerzitetnem programu?</p>
+    <p xml:id="pb8.p4" xml:lang="sl">Kaj so glavni vzroki za upad ali porast študentov v univerzitetnem študijskem programu Fakultete za logistiko?</p>
+    <p xml:id="pb8.p5" xml:lang="sl">Katera so tista mesta, ki so za študij bolj privlačna in zakaj?</p>
+    <p xml:id="pb8.p6" xml:lang="sl">1.3 METODE DELA</p>
+    <p xml:id="pb8.p7" xml:lang="sl">Pri izdelavi diplomske naloge se bom najbolj osredotočila na matematične metode (analitični izračuni, metode modeliranja, statistične metode). Uporabljala pa bom tudi metodo opisovanja (opisovanje dejstev, procesov in pojavov), metodo kompilacije (povzeta bodo opazovanja, spoznanja in rezultati naših in tujih avtorjev), metodo klasifikacije (definiranje pojmov) in metodo anketiranja.</p>
+    <p xml:id="pb8.p8" xml:lang="sl">1.4 STRUKTURA DIPLOMSKEGA DELA</p>
+    <p xml:id="pb8.p9" xml:lang="sl">Kot vsako strokovno delo, ima tudi diplomsko delo predvideno določeno strukturo. Pri svojem diplomskem delu bom uporabila strukturo teoretičnega diplomskega dela in analizo ankete.</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">2 VISOKOŠOLSKI ŠTUDIJ IN RAZVOJ ŠTUDIJSKIH PROGRAMOV 2.1 BOLONJSKA PRENOVA VISOKEGA ŠOLSTVA V SLOVENIJI</p>
+    <p xml:id="pb9.p2" xml:lang="sl">Bolonjski proces je prizadevanje resorjev za izobraževanje evropskih držav, vladnih in nevladnih organizacij, raznih ustanov in študentskih organizacij za koordinirano sodelovanje. Bolonjski proces ima dolgo zgodovino, uradno pa se je začel s podpisom Bolonjske deklaracije leta 1999 (povzeto po Zgaga, 2004, str. 11).</p>
+    <p xml:id="pb9.p3" xml:lang="sl">Temeljne spremembe koncepta razvoja izobraževanja v Sloveniji so objavljene v Beli knjigi o vzgoji in izobraževanju v Republiki Sloveniji (Bela knjiga o vzgoji in izobraževanju v Republiki Sloveniji. 2005). Te spremembe so: devetletno obvezno šolstvo, uvedba gimnazij, reformirano poklicno in strokovno izobraževanje, avtonomijo univerz in reformiran visokošolski študij. Če vzamemo za primer Evropo, ki je na znanju temelječa družba, se moramo dobro zavedati svojih korakov do kakovostnega izobraževanja, ki ga je Slovenija začela nuditi. Bolonjska reforma velja za največjo visokošolsko reformo v zadnjih sto letih. V raziskavi o mnenju visokošolskih učiteljev o bolonjskem procesu, ki jo je naredila evropska komisija, ki je odgovorna za visokošolsko izobraževanje v Londonu, sta dobljena podatka spodbudna. Polovica učiteljev je bila mnenja, da bo tristopenjsko bolonjsko izobraževanje izboljšalo kakovost izobraževanja (Pišot, R., Felda, D.,v: Pšunder, 2007, str. 5,6).</p>
+    <p xml:id="pb9.p4" xml:lang="sl">Načela bolonjske reforme so s seboj prinesle resne konceptualne probleme in popolnoma drugačno zastavljene programe. Da bi bili stari programi prenovljeni v bolonjski proces, pa zahteva določene kompromise. Potrebno je ugotoviti, kateri koncepti in mehanizmi so primerni za razvoj učiteljevega izobraževanja saj največjo nevarnost predstavlja nekritično prevzemanje nedomišljenih in neprilagojenih shematičnih podpisov, ki naj bi jih zahtevala Evropa. Kompetentnost učiteljev ni vprašljiva v vsakdanjem življenju, saj nam je to že samoumevno. V okviru bolonjskega procesa projekt Tuning ponuja novo paradigmo poučevanja in učenja za učitelje (povzeto po Kotnik, 2007, str. 44, 45).</p>
+    <p xml:id="pb9.p5" xml:lang="sl">Evropska unija temelji na štirih osnovnih načelih, od katerih je eden prost pretok ljudi, ki pa ni omejen samo na delavce, temveč se pojavlja tudi pri mobilnosti študentov, praktikantov, mladih prostovoljcev in akademskega osebja. Mobilnost je lahko horizontalna ali vertikalna: Pri horizontalni govorimo o geografski mobilnosti, pri vertikalni pa za strokovno mobilnost posameznikov v smislu strokovne prilagoditve v konkurenčni evropski prostor. Le ta pa je v okviru Bolonjske deklaracije opisana kot glavni cilj (povzeto po Štros, 2007, str. 69,70).</p>
+    <p xml:id="pb9.p6" xml:lang="sl">Uresničevanje prostega gibanja odpravljajo ovire predvsem pri (Štros, 2007, str. 70):</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">- dostopu do študija, možnostih za usposabljanje ter s tem povezanimi storitvami, kadar gre za študente,</p>
+    <p xml:id="pb10.p2" xml:lang="sl">- priznavanju in vrednotenju obdobij raziskovanja, poučevanja in usposabljanja v Evropi, kadar gre za učitelje, raziskovalce in administrativno osebje, ne da bi v naprej določali njihove zakonite pravice.</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Strategija vseživljenjskega učenja je dandanes postala podprta s sodobno informacijsko-komunikacijsko tehnologijo, tako v procesih poučevanja, kot učenja. To za učitelje pomeni večjo dostopnost, učinkovitost, uspešnost, itd. Izpopolnjujejo se lahko iz več vidikov. Npr.: z vidika prostorske ekonomičnosti, z vidika regionalne razpršenosti, z vidika odprave časovnih omejitev itd. Vseživljenjsko učenje in strokovno izpopolnjevanje učiteljev je bistveno olajšano z e-izobraževanjem (povzeto po Nekrep, 2007, str. 75).</p>
+    <p xml:id="pb10.p4" xml:lang="sl">Po vsej Sloveniji poteka prenova študijskih procesov oziroma bolonjska reforma. To je velika sprememba predvsem za študente, ki niso uspešno opravili letnik, pri tem pa so prej študirali po starem študijskem programu. V tako imenovanem novem sistemu je veliko več empiričnega in praktičnega usposabljanja, vaj, seminarskih nalog in seminarjev. Bolonjski sistem bolj praktično usmerja študente, kar je dobro predvsem za kasnejše uvajanje in lažji prehod na trg dela.</p>
+    <p xml:id="pb10.p5" xml:lang="sl">2.2 IZOBRAŽEVANJE</p>
+    <p xml:id="pb10.p6" xml:lang="sl">Vsi visokošolski zavodi bodo s časom morali preiti na izobraževanje po bolonjskih študijskih programih. V bolonjskih programih so določeni cilji, kompetence in učni dosežki. Strokovni in znanstveni naslovi diplomantov so se spremenili in se sedaj podeljujejo po vseh visokošolskih zavodih, v skladu z zakonom in merili za njihovo podeljevanje, ki pa so primerljiva z evropskimi standardi. Postopki izbire učiteljev in podeljevanje akademskih nazivov so na vseh visokošolskih zavodih javni in strogo predpisani (povzeto po Debevec, 2009, str. 37, 38, 39).</p>
+    <p xml:id="pb10.p7" xml:lang="sl">Učitelji na visokošolskih ustanovah so morali spremeniti način poučevanja, kar za njih pomeni veliko truda, dela in predvsem izobraževanja po sistemu dela Bolonjske deklaracije. V poučevanje je vključeno veliko obveznega dela; vaje in obvezni seminarji, na katere se morajo učitelji posebej pripraviti. Pri izobraževanju študentov, kot učiteljev je bolonjski sistem prinesel več komunikacije v medsebojnih odnosih in tudi več izražanja oz. preizkušanja retorike s stani študentov.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">3 FAKULTETA ZA LOGISTIKO</p>
+    <p xml:id="pb11.p2" xml:lang="sl">3.1 OPIS RAZVOJA FAKULTETE ZA LOGISTIKO a) Cilji razvoja fakultete za logistiko</p>
+    <p xml:id="pb11.p3" xml:lang="sl">Ddr. Usenik v svojih elaboratih navaja veliko razvojnih ciklov, ki pa jih je razdelil v naslednje sklope (Usenik, 2005):</p>
+    <p xml:id="pb11.p4" xml:lang="sl">dvigniti izobrazbeno raven prebivalcev regije,</p>
+    <p xml:id="pb11.p5" xml:lang="sl">omogočiti visokošolsko izobraževanje doma, ker to za socialno ogrožene prebivalce pomeni nižje stroške, hkrati pa s prihodom študentov od drugod tudi razvijanje vseh spremljajočih dejavnosti,</p>
+    <p xml:id="pb11.p6" xml:lang="sl">usposobiti prebivalce regije za opravljanje tehnološko zahtevnih del in s tem povečati gospodarsko moč regije,</p>
+    <p xml:id="pb11.p7" xml:lang="sl">obdržati mlade kadre doma in jih vključiti v visoko sofisticirana opravila, v razvojno raziskovalno in inovativno delo,</p>
+    <p xml:id="pb11.p8" xml:lang="sl">z atraktivnimi programi izobraževanja pridobiti študente tudi iz drugih delov Slovenije pa tudi Evrope,</p>
+    <p xml:id="pb11.p9" xml:lang="sl">uporabiti naravne danosti regije (turizem, lokacija, logistika, trgovine, storitve), pri čemer je izjemnega pomena tudi bližina velemesta Zagreba, ki s svojo okolico predstavlja potencial cele Slovenije.</p>
+    <p xml:id="pb11.p10" xml:lang="sl">Pričakujemo, da bo s postavitvijo in delovanjem fakultete celotna regija dobila dodaten impulz, ki bo vzpodbudil tudi vse ostale dejavnosti, kar pomeni konkretne cilje. b) Ciljne skupine</p>
+    <p xml:id="pb11.p11" xml:lang="sl">Ciljne skupine so skupine oz. kadri, katerim je osnovni cilj izobraževanje in usposabljanje razvojnega in vodstvenega kadra v vseh strukturah gospodarstva, negospodarstva in državne uprave. Na svojem področju morajo obvladovati strokovna vprašanja in jih biti sposobni implementirati v delovanje svoje službe.</p>
+    <p xml:id="pb11.p12" xml:lang="sl">V ciljni skupini so zajeti mladi od 18 do 25 let, ki si bodo na osnovi kvalitetnega in visoko strokovnega študija pridobili znanja za nastop v aktivnostih regije.</p>
+    <p xml:id="pb11.p13" xml:lang="sl">Posredne ciljne skupine so vsi ostali, ki bodo sodelovali v procesu izobraževanja in bodo vezani na rezultate projekta. Vsaka nova fakulteta pomeni za kraj, v katerem deluje, pozitiven naboj in drugačen način razmišljanja.</p>
+    <p xml:id="pb11.p14" xml:lang="sl">Delovna mesta za ciljne skupine so vezana na širšo okolico in ne le na samo fakulteto (povzeto po Usenik, 2005). c) Pričakovani rezultati Fakultete za logistiko</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">Rezultati, ki se pričakujejo od Fakultete za logistiko so: bistveno izboljšanje izobrazbene ravni in s tem posledično drugačno razmišljanje prebivalcev regije, drugačno delovanje in novo, pozitivno usmerjeno obnašanje naslednje generacije.</p>
+    <p xml:id="pb12.p2" xml:lang="sl">Seveda pa se vidni rezultati pričakujejo nekje v roku dveh let (povzeto po Usenik, 2005).</p>
+    <p xml:id="pb12.p3" xml:lang="sl">Primerjava izobrazbe:</p>
+    <p xml:id="pb12.p4" xml:lang="sl">Tabela 1: Izobrazbena struktura 1991</p>
+    <p xml:id="pb12.p5" xml:lang="sl">IZOBRAZBA ŠTTEVILO PREBIVALCEV</p>
+    <p xml:id="pb12.p6" xml:lang="sl">Brežice Krško Sevnica SKUPAJ: brez šolske izobrazbe 120 128 114 362 1-3 razrede osnovne šole 257 433 318 1008 4-7 razredov osnovne šole 3556 4604 3529 11689 osnovna šola 6463 7178 4631 18272 Srednja šola 8114 8547 5501 22162 višja šola 658 743 418 1819 visoka šola 581 465 235 1281 Neznano 333 457 206 996</p>
+    <p xml:id="pb12.p7" xml:lang="sl">SKUPAJ: 20082 22555 14952 57589</p>
+    <p xml:id="pb12.p8" xml:lang="sl">Vir: Popis prebivalstva 1991 – Statistični urad RS Tabela 2: Izobrazbena struktura 2002</p>
+    <p xml:id="pb12.p9" xml:lang="sl">IZOBRAZBA ŠTTEVILO PREBIVALCEV</p>
+    <p xml:id="pb12.p10" xml:lang="sl">Brežice Krško Sevnica SKUPAJ: brez šolske izobrazbe 129 195 159 483 nepopolna osnovna izobrazba 1573 2158 1663 5394 osnovna šola 5246 6604 4544 16394 nižja in srednja poklicna šola 5946 6381 4400 16727 strokovna in splošna šola 5018 5627 3528 14173 višja šola 862 922 537 2321 dodiplomska izobrazba 954 1176 572 2702 podiplomska izobrazba 116 81 53 250</p>
+    <p xml:id="pb12.p11" xml:lang="sl">SKUPAJ: 19844 23144 15456 58444</p>
+    <p xml:id="pb12.p12" xml:lang="sl">Vir: Popis prebivalstva 2002 – Statistični urad RS</p>
+    <p xml:id="pb12.p13" xml:lang="sl">Fakulteta za logistiko v Krškem je bila sprva uspešen projekt, vendar pa v zadnjih letih ne izpolnjuje pričakovanja. Fakulteta ima kvaliteten program, dobre cilje, vendar premalo zainteresiranih študentov. Kljub manjšemu vpisu v zadnjih letih, fakulteta s svojimi izobrazbeni diplomanti dviga izobrazbeno raven v Posavju in tako uresničuje svoje prvotne cilje.</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">4 DELOVANJE FAKULTETE ZA LOGISTIKO</p>
+    <p xml:id="pb13.p2" xml:lang="sl">V analizi prijave in vpisa so predstavljeni statistični podatki o prijavno–sprejemnem postopku za vpis v prvi letnik dodiplomskega študija na UM (Fakulteta za logistiko, UNI, redno) in značilnosti kandidatov, ki so v tem postopku kandidirali (glej Visokošolska prijavno-informacijska služba, Fakulteta v Mariboru).</p>
+    <p xml:id="pb13.p3" xml:lang="sl">4.1 LETO VPISA 2005/2006 1. ROK</p>
+    <p xml:id="pb13.p4" xml:lang="sl">Tabela 3: Vpis študentov 2005/2006 Leto Razpis Prijave</p>
+    <p xml:id="pb13.p5" xml:lang="sl">V razvrščanje Sprejetih Omejitev</p>
+    <p xml:id="pb13.p6" xml:lang="sl">2005/2006 100 151 102 101 DA</p>
+    <p xml:id="pb13.p7" xml:lang="sl">Vir: Univerza v Mariboru, 24.09.2009 Graf 1: Vpis študentov 2005/2006</p>
+    <p xml:id="pb13.p8" xml:lang="sl">1. ROK</p>
+    <p xml:id="pb13.p9" xml:lang="sl">Razpis Prijave V razvrščanje Sprejetih 2005/2006</p>
+    <p xml:id="pb13.p10" xml:lang="sl">Vir: Tabela 3: Vpis študentov 2005/2006</p>
+    <p xml:id="pb13.p11" xml:lang="sl">Fakulteta za logistiko v Krškem je imela v študijskm letu 2005/06 prvi vpis v svoje študijske programe. Zanimanje za novo fakulteto je bilo veliko in s tem tudi velik vpis dijakov na univerzitetni program logistika sistemov. Graf št. 1 nam prikazuje potek od razpisa – do vpisa v 1. roku prijav dijakov. Razpisanih prostih mest je bilo 100, prijavilo pa se je kar 151 takrat še dijakov. Sprejeli so le 101 študenta.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Tabela 4: Vpis študentov po spolu 2005/2006 Sprejeti po spolu Moški Ženske 2005/2006 54,50% 45,50%</p>
+    <p xml:id="pb14.p2" xml:lang="sl">Vir: Univerza v Mariboru, 24.09.2009 Graf 2: Vpis študentov po spolu 2005/2006</p>
+    <p xml:id="pb14.p3" xml:lang="sl">SPREJETI PO SPOLU</p>
+    <p xml:id="pb14.p4" xml:lang="sl">54,50% 45,50% Moški Ženske</p>
+    <p xml:id="pb14.p5" xml:lang="sl">Vir: Tabela 4: Vpis študentov po spolu 2005/2006</p>
+    <p xml:id="pb14.p6" xml:lang="sl">Graf št. 2 nam prikazuje sprejete študente po spolu. Iz njega lahko razberemo, da je bilo razmerje moških in žensk približno enako oz. so za dobre 4 % prevladovali študentje.</p>
+    <p xml:id="pb14.p7" xml:lang="sl">Tabela 5: Vpis študentov po strukturi 2005/2006 Sprejeti po poklicu 2005/2006</p>
+    <p xml:id="pb14.p8" xml:lang="sl">(GI) GIMNAZIJA 80,2% (EK) EKONOMIJA 8,9%</p>
+    <p xml:id="pb14.p9" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO 5,0% (GO) GOSTINJSTVO IN TURIZEM 2,0% (PZ) PROMET IN ZVEZE 2,0% (AG) AGROŽIVILSTVO 1,0%</p>
+    <p xml:id="pb14.p10" xml:lang="sl">(MS) METALURGIJA IN STROJNIŠTVO 1,0%</p>
+    <p xml:id="pb14.p11" xml:lang="sl">Vir: Univerza v Mariboru, 24.09.2009 Graf 3: Vpis študentov po strukturi 2005/2006</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">SPREJETI PO POKLICU</p>
+    <p xml:id="pb15.p2" xml:lang="sl">(GI) GIMNAZIJA (EK) EKONOMIJA</p>
+    <p xml:id="pb15.p3" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO</p>
+    <p xml:id="pb15.p4" xml:lang="sl">(GO) GOSTINJSTVO IN TURIZEM (PZ) PROMET IN ZVEZE (AG) AGROŽIVILSTVO (MS) METALURGIJA IN STROJNIŠTVO</p>
+    <p xml:id="pb15.p5" xml:lang="sl">Vir: Tabela 5: Vpis študentov po strukturi 2005/2006</p>
+    <p xml:id="pb15.p6" xml:lang="sl">Graf št. 3 nam prikazuje sprejete študente po dokončani srednji šoli oz. poklicu.</p>
+    <p xml:id="pb15.p7" xml:lang="sl">Vidimo lahko, da je največ vpisanih študentov gimnazijskih maturantov, kar 80,2 %, nato pa sledijo s slabimi 9 % študentje, ki prihajajo iz ekonomske srednje šole. Delež študentov, ki prihajajo iz ostalih srednjih šol je zelo majhen.</p>
+    <p xml:id="pb15.p8" xml:lang="sl">4.2 LETO VPISA 2006/2007 1. ROK</p>
+    <p xml:id="pb15.p9" xml:lang="sl">Tabela 6: Vpis študentov 2006/2007 Leto Razpis Prijave</p>
+    <p xml:id="pb15.p10" xml:lang="sl">V razvrščanje Sprejetih Omejitev</p>
+    <p xml:id="pb15.p11" xml:lang="sl">2006/2007 150 167 122 150 NE</p>
+    <p xml:id="pb15.p12" xml:lang="sl">Vir: Univerza v Mariboru, 24.09.2009 Graf 4: Vpis študentov 2006/2007</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">1. ROK</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Razpis Prijave V razvrščanje Sprejetih 2006/2007</p>
+    <p xml:id="pb16.p3" xml:lang="sl">Vir: Tabela 6: Vpis študentov 2006/2007</p>
+    <p xml:id="pb16.p4" xml:lang="sl">Graf št. 4 nam prikazuje leto vpisa 2006/07 v univerzitetni študijski program logistika sistemov. Ker je bilo zanimanja v prvem študijskem letu vpisa ogromno, so na fakulteti za študijsko leto 2006/07 povečali kapacitete in razpisali 150 prostih mest za bodoče študente. Njihovo predvidevanje je bilo pravilno, saj je bilo zanimanje za Fakulteto za logistiko v Krškem še vedno veliko. Prijavilo se je 167 dijakov in dijakinj.</p>
+    <p xml:id="pb16.p5" xml:lang="sl">Od tega jih je bilo sprejetih 150.</p>
+    <p xml:id="pb16.p6" xml:lang="sl">Tabela 7: Vpis študentov po spolu 2006/2007 Sprejeti po spolu Moški Ženske 2006/2007 50,7% 49,3%</p>
+    <p xml:id="pb16.p7" xml:lang="sl">Vir: Univerza v Mariboru, 24.09.2009 Graf 5: Vpis študentov po spolu 2006/2007</p>
+    <p xml:id="pb16.p8" xml:lang="sl">SPREJETI PO SPOLU</p>
+    <p xml:id="pb16.p9" xml:lang="sl">50,7% 49,3% Moški Ženske</p>
+    <p xml:id="pb16.p10" xml:lang="sl">Vir: Tabela 7: Vpis študentov po spolu 2006/2007</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">Graf št. 5 nam prikazuje sprejete študente in študentke po spolu za šolsko leto 2006/07. Če je bila prejšnje leto mala razlika med moškimi in ženskami, se je v študijskem letu 2006/07 še zmanjšala. Vpisani moški so prevladali za samo 0,7 %.</p>
+    <p xml:id="pb17.p2" xml:lang="sl">Tabela 8: Vpis študentov po strukturi 2006/2007 Sprejeti po poklicu 2006/2007</p>
+    <p xml:id="pb17.p3" xml:lang="sl">(GI) GIMNAZIJA 84,0% (EK) EKONOMIJA 8,7%</p>
+    <p xml:id="pb17.p4" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO 2,7% (GO) GOSTINJSTVO IN TURIZEM 0,7% (PZ) PROMET IN ZVEZE 2,0% (GR) GRADBENIŠTVO 1,3% (DR) DRUGO 0,7%</p>
+    <p xml:id="pb17.p5" xml:lang="sl">Vir: Univerza v Mariboru, 24.09.2009 Graf 6: Vpis študentov po strukturi 2006/2007</p>
+    <p xml:id="pb17.p6" xml:lang="sl">SPREJETI PO POKLICU</p>
+    <p xml:id="pb17.p7" xml:lang="sl">(GI) GIMNAZIJA (EK) EKONOMIJA</p>
+    <p xml:id="pb17.p8" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO</p>
+    <p xml:id="pb17.p9" xml:lang="sl">(GO) GOSTINJSTVO IN TURIZEM (PZ) PROMET IN ZVEZE (GR) GRADBENIŠTVO (DR) DRUGO</p>
+    <p xml:id="pb17.p10" xml:lang="sl">Vir: Tabela 8: Vpis študentov po0 strukturi 2006/2007</p>
+    <p xml:id="pb17.p11" xml:lang="sl">Graf št. 6 nam prikazuje sprejete študente po dokončani srednji šoli oz. poklicu.</p>
+    <p xml:id="pb17.p12" xml:lang="sl">Odstotek vpisanih študentov iz gimnazije je ostal skoraj nespremenjen. V primerjavi s prejšnjim študijskim letom se je povečal za 3,8 %. V celoti prevladujejo študentje, ki so po poklicu gimnazijski maturantje.</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">4.3 LETO VPISA 2007/2008 1. ROK</p>
+    <p xml:id="pb18.p2" xml:lang="sl">Tabela 9: Vpis študentov 2007/2008 Leto Razpis Prijave</p>
+    <p xml:id="pb18.p3" xml:lang="sl">V razvrščanje Sprejetih Omejitev</p>
+    <p xml:id="pb18.p4" xml:lang="sl">2007/2008 150 151 112 140 NE</p>
+    <p xml:id="pb18.p5" xml:lang="sl">Vir: Univerza v Mariboru, 03.10.2009 Graf 7: Vpis študentov 2007/2008</p>
+    <p xml:id="pb18.p6" xml:lang="sl">1. ROK</p>
+    <p xml:id="pb18.p7" xml:lang="sl">Razpis Prijave V razvrščanje Sprejetih 2007/2008</p>
+    <p xml:id="pb18.p8" xml:lang="sl">Vir: Tabela 9: Vpis študentov 2007/2008</p>
+    <p xml:id="pb18.p9" xml:lang="sl">Pri grafu št. 7 lahko opazimo, kako se je v študijskem letu 2007/08 vpis študentov zmanjšal. Razpisanih je bilo 150 prostih mest, od tega se je najprej prijavilo 151, vpisalo pa se je 140 študentov.</p>
+    <p xml:id="pb18.p10" xml:lang="sl">Tabela 10: Vpis študentov po spolu 2007/2008 Sprejeti po spolu Moški Ženske 2007/2008 54,30% 45,70%</p>
+    <p xml:id="pb18.p11" xml:lang="sl">Vir: Univerza v Mariboru, 03.10.2009 Graf 8: Vpis študentov po spolu 2007/2008</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">SPREJETI PO SPOLU</p>
+    <p xml:id="pb19.p2" xml:lang="sl">54,30% 45,70% Moški Ženske</p>
+    <p xml:id="pb19.p3" xml:lang="sl">Vir: Tabela 10: Vpis študentov po spolu 2007/2008</p>
+    <p xml:id="pb19.p4" xml:lang="sl">Pri grafu št. 8 opazimo, da se je v študijskem letu vpisa 2007/08 število študentov moškega spola začelo povečevati. V primerjavi s prejšnjim letom se je vpis moških študentov povečal za 3,6 %.</p>
+    <p xml:id="pb19.p5" xml:lang="sl">Tabela 11: Vpis študentov po strukturi 2007/2008 Sprejeti po poklicu 2007/2008</p>
+    <p xml:id="pb19.p6" xml:lang="sl">(GI) GIMNAZIJA 91,4% (EK) EKONOMIJA 3,6%</p>
+    <p xml:id="pb19.p7" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO 0,7% (GO) GOSTINJSTVO IN TURIZEM 0,7% (PZ) PROMET IN ZVEZE 0,7% (DR) DRUGO 1,4%</p>
+    <p xml:id="pb19.p8" xml:lang="sl">(KF) KEMIJA, FARMACIJA, GUMARSTVO 1,4%</p>
+    <p xml:id="pb19.p9" xml:lang="sl">Vir: Univerza v Mariboru, 03.10.2009 Graf 9: Vpis študentov po strukturi 2007/2008</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">SPREJETI PO POKLICU</p>
+    <p xml:id="pb20.p2" xml:lang="sl">(GI) GIMNAZIJA (EK) EKONOMIJA</p>
+    <p xml:id="pb20.p3" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO</p>
+    <p xml:id="pb20.p4" xml:lang="sl">(GO) GOSTINJSTVO IN TURIZEM (PZ) PROMET IN ZVEZE (DR) DRUGO</p>
+    <p xml:id="pb20.p5" xml:lang="sl">(KF) KEMIJA, FARMACIJA, GUMARSTVO</p>
+    <p xml:id="pb20.p6" xml:lang="sl">Vir: Tabela 11: Vpis študentov po strukturi 2007/2008</p>
+    <p xml:id="pb20.p7" xml:lang="sl">Tako kot v prejšnjih študijskih letih vpisa, tudi v letu 2007/08 večina vpisanih študentov prihaja iz gimnazije. Vpisanih gimnazijskih maturantov je kar 91,4 %.</p>
+    <p xml:id="pb20.p8" xml:lang="sl">4.4 LETO VPISA 2008/2009 1. ROK</p>
+    <p xml:id="pb20.p9" xml:lang="sl">Tabela 12: Vpis študentov 2008/2009</p>
+    <p xml:id="pb20.p10" xml:lang="sl">Leto Razpis Prijave V razvrščanje Sprejetih Omejitev</p>
+    <p xml:id="pb20.p11" xml:lang="sl">2008/2009 150 138 94 106 NE</p>
+    <p xml:id="pb20.p12" xml:lang="sl">Vir: Univerza v Mariboru, 04.10.2009 Graf 10: Vpis študentov 2008/2009</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">1. ROK</p>
+    <p xml:id="pb21.p2" xml:lang="sl">Razpis Prijave V razvrščanje Sprejetih 2008/2009</p>
+    <p xml:id="pb21.p3" xml:lang="sl">Vir: Tabela 12: Vpis študentov 2008/2009</p>
+    <p xml:id="pb21.p4" xml:lang="sl">Trend prijav in vpisa dijakov na Fakulteto za logistiko iz leta v leto upada, kar se vidi tudi po številu sprejetih študentov v študijskem letu 2008/09. Teh je bilo 106, od 150 razpisanih prostih mest.</p>
+    <p xml:id="pb21.p5" xml:lang="sl">Tabela 13: Vpis študentov po spolu 2008/2009 Sprejeti po spolu Moški Ženske 2008/2009 58,50% 41,50%</p>
+    <p xml:id="pb21.p6" xml:lang="sl">Vir: Univerza v Mariboru, 04.10.2009 Graf 11: Vpis študentov po spolu 2008/2009</p>
+    <p xml:id="pb21.p7" xml:lang="sl">SPREJETI PO SPOLU</p>
+    <p xml:id="pb21.p8" xml:lang="sl">58,50% 41,50% Moški Ženske</p>
+    <p xml:id="pb21.p9" xml:lang="sl">Vir: Tabela 13: Vpis študentov po spolu 2008/2009</p>
+    <p xml:id="pb21.p10" xml:lang="sl">Tudi pri grafu št. 11 lahko vidimo kako odstotek ženske populacije iz leta v leto pada.</p>
+    <p xml:id="pb21.p11" xml:lang="sl">Vpisanih študentk v študijskem letu 2008/09 je bilo 41,5 %.</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">Tabela 14: Vpis študentov po strukturi 2008/2009 Sprejeti po poklicu 2008/2009</p>
+    <p xml:id="pb22.p2" xml:lang="sl">(GI) GIMNAZIJA 92,5% (EK) EKONOMIJA 3,7%</p>
+    <p xml:id="pb22.p3" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO 1,9% (KU) KULTURA 0,9% (AG) AGROŽIVILSTVO 0,9%</p>
+    <p xml:id="pb22.p4" xml:lang="sl">Vir: Univerza v Mariboru, 04.10.2009 Graf 12: Vpis študentov po strukturi 2008/2009</p>
+    <p xml:id="pb22.p5" xml:lang="sl">SPREJETI PO POKLICU</p>
+    <p xml:id="pb22.p6" xml:lang="sl">(GI) GIMNAZIJA (EK) EKONOMIJA</p>
+    <p xml:id="pb22.p7" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO (KU) KULTURA</p>
+    <p xml:id="pb22.p8" xml:lang="sl">(AG) AGROŽIVILSTVO</p>
+    <p xml:id="pb22.p9" xml:lang="sl">Vir: Tabela 14: Vpis študentov po strukturi 2008/2009</p>
+    <p xml:id="pb22.p10" xml:lang="sl">Tudi pri grafu št. 12 je opazno, da gimnazijski maturantje še vedno konkretno prevladujejo med študenti Fakultete za logistiko v Krškem. V študijskem letu 2008/09 jih je bilo kar 92,5 %.</p>
+    <p xml:id="pb22.p11" xml:lang="sl">4.5 LETO VPISA 2009/2010 1. ROK</p>
+    <p xml:id="pb22.p12" xml:lang="sl">Tabela 15: Vpis študentov 2009/2010</p>
+    <p xml:id="pb22.p13" xml:lang="sl">Leto Razpis Prijave V razvrščanje Sprejetih Omejitev</p>
+    <p xml:id="pb22.p14" xml:lang="sl">2009/2010 150 94 57 63 NE</p>
+    <p xml:id="pb22.p15" xml:lang="sl">Vir: Univerza v Mariboru, 15.03.2010 Graf 13: Vpis študentov 2009/2010</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">1. ROK</p>
+    <p xml:id="pb23.p2" xml:lang="sl">Razpis Prijave V razvrščanje Sprejetih 2009/2010</p>
+    <p xml:id="pb23.p3" xml:lang="sl">Vir: Tabela 15: Vpis študentov 2009/2010</p>
+    <p xml:id="pb23.p4" xml:lang="sl">Od ustanovitve Fakultete za logistiko oz. od prvega vpisa v študijsko leto pa do danes je minilo 5 let. Fakulteta se po analizi vpisa zadnjega študijskega leta ne more pohvaliti z velikim vpisom. Zanimanje za ta študij drastično upada. Fakulteta za logistiko je v študijskem letu vpisa 2009/2010 zabeležila 63 vpisanih študentov od 150-ih razpisanih prostih mest.</p>
+    <p xml:id="pb23.p5" xml:lang="sl">Tabela 16: Vpis študentov po spolu 2009/2010 Sprejeti po spolu Moški Ženske 2009/2010 61,90% 38,10%</p>
+    <p xml:id="pb23.p6" xml:lang="sl">Vir: Univerza v Mariboru, 15.03.2010 Graf 14: Vpis študentov po spolu 2009/2010</p>
+    <p xml:id="pb23.p7" xml:lang="sl">SPREJETI PO SPOLU</p>
+    <p xml:id="pb23.p8" xml:lang="sl">61,90% 38,10% Moški Ženske</p>
+    <p xml:id="pb23.p9" xml:lang="sl">Vir: Tabela 16: Vpis študentov po spolu 2009/2010</p>
+    <p xml:id="pb23.p10" xml:lang="sl">Na Fakulteti za logistiko danes prevladuje moški spol, delež katerega z leti, kljub upadu vpisa, narašča.</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="sl">Tabela 17: Vpis študentov po strukturi 2009/2010 Sprejeti po poklicu 2009/2010</p>
+    <p xml:id="pb24.p2" xml:lang="sl">(GI) GIMNAZIJA 95,2% (EK) EKONOMIJA 1,6%</p>
+    <p xml:id="pb24.p3" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO 1,6% (GO) GOSTINSTVO IN TURIZEM 1,6%</p>
+    <p xml:id="pb24.p4" xml:lang="sl">Vir: Univerza v Mariboru, 15.03.2010 Graf 15: Vpis študentov po strukturi 2009/2010</p>
+    <p xml:id="pb24.p5" xml:lang="sl">SPREJETI PO POKLICU</p>
+    <p xml:id="pb24.p6" xml:lang="sl">(GI) GIMNAZIJA (EK) EKONOMIJA</p>
+    <p xml:id="pb24.p7" xml:lang="sl">(ER) ELEKTROTEHNIKA IN RAČUNALNIŠTVO</p>
+    <p xml:id="pb24.p8" xml:lang="sl">(GO) GOSTINSTVO IN TURIZEM</p>
+    <p xml:id="pb24.p9" xml:lang="sl">Vir: Tabela 17: Vpis študentov po strukturi 2009/2010</p>
+    <p xml:id="pb24.p10" xml:lang="sl">Pri grafu št. 15, lahko opazimo, da se je vpis iz srednje ekonomske šole občutno zmanjšal glede na prejšnja leta. V vodstvu pa ostaja vpis dijakov iz gimnazij.</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">5 SPREMINJANJE VPISA IN SPOLNE STRUKTURE ŠTUDENTOV</p>
+    <p xml:id="pb25.p2" xml:lang="sl">Trend je premica, ki nakazuje smer razvoja nekega pojava v določenem času. Lahko ga določimo na več načinov; kot so naprimer: metoda drsečih sredin, prostoročna metoda, metoda najmanjših kvadrantov itd. Pri prostoročni metodi izračuna trenda najprej narišemo podatke, nato pa premico. Po metodi najmanjših kvadrantov pa računamo podobno, le podatki in vsebina so drugačni. (povzeto po Turistika Portorož, 04.09.2009)</p>
+    <p xml:id="pb25.p3" xml:lang="sl">Graf 16: Trend sprejetih študentov od 2005 do 2009 TREND sprejetih študentov od 2005 do 2009 y = -12x + 148 0</p>
+    <p xml:id="pb25.p4" xml:lang="sl">2005 2006 2007 2008 2009 Sprejeti</p>
+    <p xml:id="pb25.p5" xml:lang="sl">Linearno (Sprejeti)</p>
+    <p xml:id="pb25.p6" xml:lang="sl">Vir: Razpis za vpis v študijsko leto (od 2005 do 2009)</p>
+    <p xml:id="pb25.p7" xml:lang="sl">Graf 13 prikazuje, kakšno je bilo v preteklosti in kakšno naj bi bilo število študentov po posameznih letih, če bi se le-ti ravnali le po premici trenda. Premica trenda, izračunana po metodi najmanjših kvadratov, je y = -12x + 148. Trend vpisne populacije vpada.</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">Graf 17: Trend moške vpisne populacije od 2005 do 2009 TREND moške vpisne populacije od 2005 do 2009 y = 0,0226x + 0,492 0,0% 10,0% 20,0% 30,0% 40,0% 50,0% 60,0% 70,0%</p>
+    <p xml:id="pb26.p2" xml:lang="sl">2005 2006 2007 2008 2009 Moški</p>
+    <p xml:id="pb26.p3" xml:lang="sl">Linearno (Moški)</p>
+    <p xml:id="pb26.p4" xml:lang="sl">Vir: Razpis za vpis v študijsko leto (od 2005 do 2009)</p>
+    <p xml:id="pb26.p5" xml:lang="sl">Graf 14 prikazuje, kakšno je bilo v preteklosti in kakšno naj bi bilo število študentov po posameznih letih, če bi se le-ti ravnali le po premici trenda. Premica trenda, izračunana po metodi najmanjših kvadratov, je y = 0,0156x + 0,506. Trend moške vpisne populacije narašča.</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">6 KOMPETENCE DIPLOMANTOV FAKULTETE ZA LOGISTIKO</p>
+    <p xml:id="pb27.p2" xml:lang="sl">(univerzitetni program)</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Slovar slovenskega knjižnega jezika (SSKJ, 07.09.2009) definira kompetence kot pristojnosti.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">»Kompetentna oseba je tista, ki je dovolj usposobljena in temeljito pozna oz. obvlada določeno področje. Poleg zmogljivosti (sposobnosti, spretnosti in znanj) zajema pojem kompetenc tudi motiviranost za neko nalogo, osebni stil in relacijo do koncepta samega sebe. Kompetence lahko smatramo kot sposobnosti in zmožnosti, ki so potrebne, da nekdo uspešno in učinkovito opravi določeno delo. Pri pojmu kompetence je pomembno predvsem, da se tukaj osredotočamo na vedenje in ne na razlike v sposobnostih in osebnosti posameznika. Tako se pojem kompetence neposredno povezuje z dejavniki učinkovitosti ter uspešnosti pri delu« (SSKJ, 07.09.2009).</p>
+    <p xml:id="pb27.p5" xml:lang="sl">Kompetence diplomantov Fakultete za logistiko in vseh fakultet v Sloveniji so nekje na ravni povprečja. Vsekakor kompetence diplomantov nikoli ne bodo na tako visoki ravni, da bi lahko opravljali svoj poklic, ki ga pridobimo po končanem študiju, brez kakršnegakoli uvajanja oziroma dodatnega usposabljanja na delu.</p>
+    <p xml:id="pb27.p6" xml:lang="sl">6.1 UNIVERZITETNI ŠTUDIJSKI PROGRAM LOGISTIKA SISTEMOV</p>
+    <p xml:id="pb27.p7" xml:lang="sl">Nameni in cilji programa:</p>
+    <p xml:id="pb27.p8" xml:lang="sl">Logistika je dejavnost, ki zajema vse procese v podjetju (nabava, načrtovanje, transport, itd). Univerzitetni študijski program Logistika sistemov je namenjen študentom, ki bodo želeli opravljati prav te dejavnosti. V skladu z Bolonjsko deklaracijo je pripravljen po načelu 3+2+3, kar pomeni, da traja dodiplomski študij 3 leta, magistrski 2, in doktorski še 3 leta. Poudarek študijskega programa je predvsem na organiziranju logističnih sistemov, poznavanju poslovanja in upravljanja z logističnimi tehnologijami, ki podpirajo posamezna področja logistike. Za znanstvenoraziskovalno delo na področju logističnih funkcij je nujno usposabljanje in uvajanje v procese in sisteme (povzeto po Fakulteta za logistiko, 07.09.2009).</p>
+    <p xml:id="pb27.p9" xml:lang="sl">Fakulteta za logistiko na svoji spletni strani navaja kompetence diplomantov univerzitetnega programa logistika sistemov, ki pa so sledeče (Fakulteta za logistiko, 07.09.2009):</p>
+    <p xml:id="pb27.p10" xml:lang="sl">- sposobnost strokovne analize, sinteze in predvidevanja rešitev ter sposobnost presoje za sprejemanje optimalnih odločitev v logističnih sistemih in logističnih procesih,</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">- sposobnost samostojne uporabe pridobljenega teoretičnega znanja za reševanje problemov v praksi,</p>
+    <p xml:id="pb28.p2" xml:lang="sl">- razvoj komunikacijskih sposobnosti in spretnosti,</p>
+    <p xml:id="pb28.p3" xml:lang="sl">- etična refleksija in globoka zavezanost profesionalni etiki,</p>
+    <p xml:id="pb28.p4" xml:lang="sl">- obvladovanje dobavnih in nabavnih verig,</p>
+    <p xml:id="pb28.p5" xml:lang="sl">- sposobnost intenzivne in stalne uporabe informacijske in komunikacijske tehnologije ter informacijsko upravljalskih sistemov na svojem konkretnem delovnem strokovnem področju.</p>
+    <p xml:id="pb28.p6" xml:lang="sl">- Sposobnost za smiselno in realno reševanje konkretnih delovnih problemov na področju logističnih sistemov,</p>
+    <p xml:id="pb28.p7" xml:lang="sl">- koherentno obvladanje temeljnega znanja</p>
+    <p xml:id="pb28.p8" xml:lang="sl">- sposobnost povezovanja znanja z različnih področij in njegove vgradnje v konkretne aplikacije v logističnih organizacijah in v nelogističnih organizacijah s poudarjeno logistično funkcijo,</p>
+    <p xml:id="pb28.p9" xml:lang="sl">- razvoj veščin in spretnosti v uporabi znanja na svojem konkretnem strokovnem delovnem področju ipd,</p>
+    <p xml:id="pb28.p10" xml:lang="sl">- sposobnost intenzivne in stalne uporabe informacijske in komunikacijske tehnologije ter informacijsko upravljalskih sistemov na svojem konkretnem delovnem strokovnem področju, ipd.</p>
+    <p xml:id="pb28.p11" xml:lang="sl">Program sestavljajo razne učne enote, ki pa so obvezne in izbirne. Obvezne učne enote so skupne za vse študente, pri izbirnih pa lahko študentje izbirajo med (povzeto po Fakulteta za logistiko, 07.09.2009):</p>
+    <p xml:id="pb28.p12" xml:lang="sl">- zavarovalniško logistiko,</p>
+    <p xml:id="pb28.p13" xml:lang="sl">- vojaško logistiko,</p>
+    <p xml:id="pb28.p14" xml:lang="sl">- gospodarsko logistiko,</p>
+    <p xml:id="pb28.p15" xml:lang="sl">- tehniško logistiko,</p>
+    <p xml:id="pb28.p16" xml:lang="sl">- ekologijo v logistiki.</p>
+    <p xml:id="pb28.p17" xml:lang="sl">Kompetence diplomantov Fakultete za logistiko se med programi razlikujejo in jih je težko posploševati. Vsekakor pa so si določene kompetence med sabo podobne oz. enake. Študentje se naučijo upravljati z logistiko ne glede na kasnejše delo. (vojska, avtoprevozništvo, itd.) Logistik največkrat upravlja z informacijami, viri in materialom, s pretokom informacij od dobavitelja do kupca.</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">7 VZROKI ZA UPAD VPISA ŠTUDNTOV V UNIVERZITETNI</p>
+    <p xml:id="pb29.p2" xml:lang="sl">ŠTUDIJSKI PROGRAM FAKULTETE ZA LOGISTIKO - raziskava</p>
+    <p xml:id="pb29.p3" xml:lang="sl">7.1 ANALIZA ANKETNE RAZISKAVE</p>
+    <p xml:id="pb29.p4" xml:lang="sl">Raziskavo sem naredila na splošni gimnaziji Brežice. Ankete sem razdelila 4. letnikom oddelkov a, b, c in d. Ankete so bile razdeljene 85-im dijakom, od katerih sem nazaj prejela 3 neveljavne ankete. n=82 Graf 18: »Spol?« Spol?</p>
+    <p xml:id="pb29.p5" xml:lang="sl">10 15 20 25 30 35 40 45 50 ženska moški</p>
+    <p xml:id="pb29.p6" xml:lang="sl">Vir: Lastni, Priloga B</p>
+    <p xml:id="pb29.p7" xml:lang="sl">Na gimnaziji Brežice prevladujejo dijakinje. To je pokazala anketa 82 anketiranih dijakov, 4 oddelkov splošne gimnazije Brežice. Od tega je 46 dijakinj in 36 dijakov.</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">Graf 19: »Ali si se odločil/-a po končani gimnaziji nadaljevati študij?« Ali si se odločil/-a po končani gimnaziji nadaljevati študij?</p>
+    <p xml:id="pb30.p2" xml:lang="sl">10 20 30 40 50 60 70 80 90 da ne</p>
+    <p xml:id="pb30.p3" xml:lang="sl">Vir: Lastni, Priloga B</p>
+    <p xml:id="pb30.p4" xml:lang="sl">Glede na to, da s končano splošno gimnazijo ne pridobiš nobenega poklicnega naziva, so vsi anketirani dijaki odgovorili, da bodo po končani gimnaziji nadaljevali študij.</p>
+    <p xml:id="pb30.p5" xml:lang="sl">Graf 20: »Na kateri Univerzi boš nadaljeval/-a šolanje?« Na kateri Univerzi boš nadaljeval/-a šolanje?</p>
+    <p xml:id="pb30.p6" xml:lang="sl">Univerza v Ljubljani Univerza v Mariboru Univerza na Primorskem Drugo</p>
+    <p xml:id="pb30.p7" xml:lang="sl">Vir: Lastni, Priloga B</p>
+    <p xml:id="pb30.p8" xml:lang="sl">Večina anketiranih dijakov bo študij nadaljevala na Univerzi v Ljubljani. 16 dijakov bo študij nadaljevalo na Univerzi v Mariboru, le 3 pa na Univerzi na Primorskem. Štirje dijaki pa so obkrožili drugo, pri čemer so napisali, da bodo študij nadaljevali v tujini.</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">Graf 21: »Zakaj boš nadaljeval/-a šolanje ravno na tej Univerzi?« Zakaj boš nadaljeval/-a šolanje ravno na tej Univerzi?</p>
+    <p xml:id="pb31.p2" xml:lang="sl">10 15 20 25 30 35 ker bom na tej Univerzi prejel/-a najboljši kader profesorjev ker mi ta</p>
+    <p xml:id="pb31.p3" xml:lang="sl">Univerza nudi najboljše znanje ker ima ta Univerza zelo razširjen spekter študijskih programov zato, ker imam na tej Univerzi boljše možnosti za kasnejšo zaposlitev drugo</p>
+    <p xml:id="pb31.p4" xml:lang="sl">Vir: Lastni, Priloga B</p>
+    <p xml:id="pb31.p5" xml:lang="sl">Večina anketiranih dijakov je na vprašanje številka 4 odgovorila, da si šolanje na izbrani univerzi želi predvsem zato, ker ima le ta zelo širok spekter študijskih programov. (Več o analizi na to vprašanje v podpoglavju št. 6.2) Graf 22: »Kje boš nadaljeval/-a šolanje?« Kje boš nadaljeval/-a šolanje?</p>
+    <p xml:id="pb31.p6" xml:lang="sl">10 20 30 40 50 60 70 80 na univerzitetnem programu na visokošolskem programu na akademiji drugo Vir: Lastni, Priloga B</p>
+    <p xml:id="pb31.p7" xml:lang="sl">Po končani gimnaziji se bo večina dijakov vpisala na univerzitetni študijski program, kar jim tudi z uspešno opravljeno maturo gimnazija omogoča.</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">Graf 23: »Ali si že slišal/-a za fakulteto za logistiko v Krškem?« Ali si že slišal/-a za fakulteto za logistiko v Krškem?</p>
+    <p xml:id="pb32.p2" xml:lang="sl">10 20 30 40 50 60 70 80 da ne</p>
+    <p xml:id="pb32.p3" xml:lang="sl">Vir: Lastni, Priloga B</p>
+    <p xml:id="pb32.p4" xml:lang="sl">Ker pa je cilj moje diplomske naloge ugotoviti vpis, razloge za vpis in poznavanje Fakultete za logistiko med dijaki, so me tudi odgovori na nadaljnja vprašanja najbolj zanimala. Pri vprašanju številka 5, sem izvedela, da večina dijakov pozna Fakulteto za logistiko v Krškem. Vendar sem bila še vedno presenečena nad osmimi dijaki, ki so odgovorili, da te fakultete ne poznajo.</p>
+    <p xml:id="pb32.p5" xml:lang="sl">Graf 24: »Ali si seznanjen/-a s kompetencami, ki jih pridobiš po študiju na fakulteti za logistiko?«</p>
+    <p xml:id="pb32.p6" xml:lang="sl">Ali si seznanjen/-a s kompetencami, ki jih pridobiš po študiju na fakulteti za logistiko?</p>
+    <p xml:id="pb32.p7" xml:lang="sl">10 20 30 40 50 60 70 da ne</p>
+    <p xml:id="pb32.p8" xml:lang="sl">Vir: Lastni, Priloga B</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">Pri vprašanju številka 6, sem izvedela, da 63 dijakov sploh ne pozna kompetence, ki jih nudi fakulteta za logistiko po končanem študiju.</p>
+    <p xml:id="pb33.p2" xml:lang="sl">Graf 25: »Ali si se odločil/-a nadaljevati študij na fakulteti za logistiko v Krškem?« Ali si se odločil/-a nadaljevati študij na fakulteti za logistiko v Krškem?</p>
+    <p xml:id="pb33.p3" xml:lang="sl">10 20 30 40 50 60 70 80 90 da ne</p>
+    <p xml:id="pb33.p4" xml:lang="sl">Vir: Lastni, Priloga B</p>
+    <p xml:id="pb33.p5" xml:lang="sl">Nad odgovori pri vprašanju št. 7 sem bila zelo presenečena. Prav vsi anketirani dijaki so odgovorili, da se niso odločili nadaljevati študij na Fakulteti za logistiko v Krškem.</p>
+    <p xml:id="pb33.p6" xml:lang="sl">To me je zelo presenetilo, saj pri raziskavi vpisa študentov v univerzitetni študijski program ugotavljam, da je večina vpisanih študentov ravno iz gimnazije. Vendar pri tem poudarjam, da je raziskava bila narejena na splošni gimnaziji Brežice v 4-ih oddelkih. V Brežicah obstajata tudi dva oddelka ekonomske gimnazije in v Krškem obstaja tudi tehnična gimnazija. Raziskava vpisa študentov je izvzeta iz Fakultete za logistiko, ker nima posebej vodene smeri gimnazij.</p>
+    <p xml:id="pb33.p7" xml:lang="sl">Vprašanje 9 se je glasilo: »Zakaj si se odločil/-a ravno za fakulteto za logistiko?« Posledično iz odgovorov na vprašanje številka sedem, nisem prejela nobenega odgovora na vprašanje številka 8.</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">Graf 26: »Zakaj se nisi odločil/-a za fakulteto za logistiko?« Zakaj se nisi odločil/-a za fakulteto za logistiko?</p>
+    <p xml:id="pb34.p2" xml:lang="sl">10 20 30 40 50 60 70 zato, ker me ta študij ne veseli zato, ker si želim študirati izven domačega kraja zato, ker mi ta študij ne nudi kasnejše zaposlitve zato, ker mi ta študij ne omogoča dovolj potrebnih kompetenc za nadaljnje delo drugo</p>
+    <p xml:id="pb34.p3" xml:lang="sl">Vir: Lastni, Priloga B</p>
+    <p xml:id="pb34.p4" xml:lang="sl">Večina anketiranih dijakov, mi je pri vprašanju številka 9 odgovorilo, da jih ta študij preprosto ne veseli. Nekaj zelo iskrenih je obkrožilo odgovor, da si želijo preprosto študirati izven domačega kraja. Kar 7 pa je odgovorilo, da jim ta študij ne nudi zaposlitve in dovolj kompetenc za nadaljnje delo.</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">8 UGOTOVITVE IN UKREPI ZA POVEČANJE VPISA NA FAKULTETO ZA LOGISTIKO</p>
+    <p xml:id="pb35.p2" xml:lang="sl">Eno od vprašanj, ki sem si ga postavila na začetku diplomske naloge se je glasilo tudi: »Katera so tista mesta, ki so za študij bolj privlačna in zakaj?« Pri analizi anketnega vprašanja številka 3, v katerem sem dijake spraševala kje bodo nadaljevali svoj študij, sem ugotovila, da bo večina anketiranih dijakov nadaljevala šolanje na Univerzi v Ljubljani.</p>
+    <p xml:id="pb35.p3" xml:lang="sl">Pri analizi anketnega vprašanja številka 4, v katerem sem dijake spraševala o razlogih za svojo odločitev o kraju šolanja, se je večina dijakov opredelila, da bo svoj študij nadaljevala na univerzi, ki po njihovem mnenju nudi največji spekter raznih študijskih programov. Dijakom so s 25 odgovori tesno sledili odgovori, da jim izbrana univerza nudi najboljše znanje in z 19 odgovori, da jim izbrana univerza nudi boljše možnosti za kasnejšo zaposlitev.</p>
+    <p xml:id="pb35.p4" xml:lang="sl">Z dobljenimi odgovori je težko posplošiti ugotovitve, saj bi za podrobnejšo analizo potrebovala večjo število anketiranih. Kljub temu lahko zaključim, da večina študentov »beži« v večja mesta, zaradi občutno povečane nezaposlenosti diplomantov, zaradi počasnega razvoja Posavja; v smislu pomanjkanja velikih perspektivnih podjetij, zaradi nizkih plačilnih razredov in zaradi stagnacije pridobljenih kompetenc.</p>
+    <p xml:id="pb35.p5" xml:lang="sl">Glede na raziskavo, ki sem jo naredila med dijaki 4. letnika splošne gimnazije Brežice, je razvidno, da je večina dijakov že slišala za Fakulteto za logistiko, vendar kompetenc, ki jih le-ta nudi ne poznajo. Dijaki tudi ne vedo, kje se lahko po končani fakulteti zaposlijo in v katerih podjetjih v Posavju je logistika zelo potrebna. Vse to kaže, da je oglaševanje posavskih fakultet zelo slabo.</p>
+    <p xml:id="pb35.p6" xml:lang="sl">Janez Malačič in Jože Sambt iz ekonomske fakultete v Ljubljani v svoji raziskavi na spletni strani Ekonomske fakultete, 05.03.2010, ugotavljata brezposelnost diplomantov.</p>
+    <p xml:id="pb35.p7" xml:lang="sl">Trg dela in trg študentov ter diplomantov je med sabej tesno povezan. Prav zaradi te povezanosti je nastala ogromna problematika brezposelnosti diplomantov različnih smeri. Trg dela je preveč kontroliran in nefleksibilen, ki na splošno deluje slabo.</p>
+    <p xml:id="pb35.p8" xml:lang="sl">Mladi, ki so ambiciozni, fleksibilni in mobilni so dostikrat cenena delovna sila. Pri tem je potrebno izpostaviti, da je to posledično zaradi premalo potrebnih izkušenj. Pri tem se delodajalcu postavi ovira, saj je potrebno diplomanta uvajati in usposabljati na delovnem mestu. Za mnoge delodajalce je zato veliko bolj privlačno in ugodno imeti študenta, ki delo opravlja preko študentske napotnice. Posledično zaradi tega in zaradi omejitve zaslužka večkrat pride do zlorabe študentskih napotnic. Potrebno bi bilo prisiliti fakultete, da bi pripravile kakovostnejše in bolj privlačne programe, z veliko usposabljanja za delovno mesto (povzeto po Ekonomska fakulteta, 05.03.2010).</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">Zanimivo bi bilo vedeti, kakšen bi bil vpis študentov na Fakulteto za logistiko, če bi bila ta v Ljubljani, Mariboru ali pa na Primorskem. Posavje je v zadnjih letih tega desetletja kljub razvoju treh visokošolskih ustanov (Fakultete za logistiko, Fakultete za energetiko in Fakultete za turizem) in nekaj manjših podjetij, pristalo na mrtvi točki. Brezposelnost se v zadnjem letu celo zvišuje. Če bi se Posavje pričelo bolj intenzivno razvijati (ustanovitev večjih podjetij, boljše plače zaposlenim), predvidevam, da bi se tudi vpis v visokošolskih ustanovah v Posavju povečal, saj bi diplomanti ostajali doma.</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">9 ZAKLJUČEK</p>
+    <p xml:id="pb37.p2" xml:lang="sl">Pri svojem diplomskem delu sem se osredotočila na Fakulteto za logistiko, ki se nahaja v Posavju. Ker je Fakulteta za logistiko delujoča od leta 2005 in je še pretežno nova, mi je bila zaradi tega tudi zelo zanimiva. Osredotočila sem se na vpise študentov v prve letnike univerzitetnega študijskega programa.</p>
+    <p xml:id="pb37.p3" xml:lang="sl">V svoji diplomski nalogi sem si zastavila tri raziskovalna vprašanja. Na prvo vprašanje, sem si kar hitro odgovorila, saj sem ugotovila, da vpis brucev upada.</p>
+    <p xml:id="pb37.p4" xml:lang="sl">Trend vpisa je iz leta v leto manjši in konstantno pada.</p>
+    <p xml:id="pb37.p5" xml:lang="sl">Na drugo vprašanje sem dobila odgovor z analizo izpolnjenih anket. Ta mi je pokazala, da v splošni gimnaziji v Brežicah ni popolnoma nobenega zanimanja za študij na Fakulteti za logistiko v Krškem. Razlogi naj bi bili zelo subjektivne narave, kajti ta študij jih naj ne bi veselil.</p>
+    <p xml:id="pb37.p6" xml:lang="sl">Na tretje vprašanje, ki pa je bilo vezano na kraj njihovega študija, sem ugotovila, da je kraj študija zelo povezan z zaposlovanjem diplomantov v Posavju, ki pa je na nizki ravni, in posledično zato tudi vsa populacija dijakov večina »beži« v večja slovenska mesta, kjer imajo že med študijem možnost opravljati študentsko delo in s tem tudi večjo dostopnost na trg dela. Fakulteta za logistiko v Krškem, ki vsako leto za dober procent izgublja vpis, pa bi se morala še bolj osredotočiti na študente in jim omogočati boljše pogoje za zaposlovanje.</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">LITERATURA</p>
+    <p xml:id="pb38.p2" xml:lang="sl">- ZGAGA, Pavel. Bolonjski proces: Oblikovanje skupnega evropskega visokošolskega prostora. Pedagoška fakulteta, Ljubljana, 2004. str. 11.</p>
+    <p xml:id="pb38.p3" xml:lang="sl">- DEBEVEC, Tatjana in etc. Spremljanje, ugotavljanje in zagotavljanje kakovosti v slovenskem visokošolskem prostoru v letih 2007 in 2008. Filozofska fakulteta, Ljubljana, 2009. str. 37, 38, 39.</p>
+    <p xml:id="pb38.p4" xml:lang="sl">- KOTNIK, Rudi. Priložnosti v izobraževanju z bolonjsko reformo v Sloveniji.</p>
+    <p xml:id="pb38.p5" xml:lang="sl">Filozofska fakulteta, Maribor, 2007. str. 44, 45.</p>
+    <p xml:id="pb38.p6" xml:lang="sl">- NEKREP, Andreja. Priložnosti v izobraževanju z bolonjsko reformo v Sloveniji.</p>
+    <p xml:id="pb38.p7" xml:lang="sl">Filozofska fakulteta, Maribor, 2007. str. 75.</p>
+    <p xml:id="pb38.p8" xml:lang="sl">- PIŠOT, R., FELDA, D., v: PŠUNDER. Priložnosti v izobraževanju z bolonjsko reformo v Sloveniji. Filozofska fakulteta, Maribor, 2007. str. 5, 6.</p>
+    <p xml:id="pb38.p9" xml:lang="sl">- ŠTROS, Nina. Priložnosti v izobraževanju z bolonjsko reformo v Sloveniji.</p>
+    <p xml:id="pb38.p10" xml:lang="sl">Filozofska fakulteta, Maribor, 2007. str. 69,70.</p>
+    <p xml:id="pb38.p11" xml:lang="sl">- MOŽINA, Tanja. Kakovost v izobraževanju. Študentska organizacija Univerze v Ljubljani, Ljubljana, 2003.</p>
+    <p xml:id="pb38.p12" xml:lang="sl">- VRC. Elaborati o ustanovitvi Fakultete za logistiko, 2005.</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">VIRI</p>
+    <p xml:id="pb39.p2" xml:lang="sl">- Univerza v Mariboru. URL=»http://www.uni-mb.si«. 07.09.2009.</p>
+    <p xml:id="pb39.p3" xml:lang="sl">- Visokošolska prijavno – informacijska služba, Univerza v Mariboru.</p>
+    <p xml:id="pb39.p4" xml:lang="sl">URL=»http://www.vpis.uni-mb.si«. 07.09.2009</p>
+    <p xml:id="pb39.p5" xml:lang="sl">- Turistika Portorož.</p>
+    <p xml:id="pb39.p6" xml:lang="sl">URL=»http://www3.turistica.si/kribel/articles/pista/node20.html«.</p>
+    <p xml:id="pb39.p7" xml:lang="sl">- Pogovori z ddr. Usenik Janezom, junij 2009</p>
+    <p xml:id="pb39.p8" xml:lang="sl">- Anketa, Gimnazija Brežice. 10.02.2010</p>
+    <p xml:id="pb39.p9" xml:lang="sl">- Popis prebivalstva 2002, Statistični urad RS.</p>
+    <p xml:id="pb39.p10" xml:lang="sl">URL=»http://www.stat.si/popis2002/si/default.htm«. 24.07.2009</p>
+    <p xml:id="pb39.p11" xml:lang="sl">- Popis prebivalstva 1991, Statistični urad RS.</p>
+    <p xml:id="pb39.p12" xml:lang="sl">URL=»http://www.stat.si/novica_prikazi.aspx?id=327«. 24.07.2009</p>
+    <p xml:id="pb39.p13" xml:lang="sl">- Analiza prijave in vpisa 2005/2006. URL=»http://www.vpis.uni- mb.si/Analiza/ANALIZA%20prijave%20in%20vpisa%2005-06%20-</p>
+    <p xml:id="pb39.p14" xml:lang="sl">%20DRUGI%20DEL.pdf«. str. 63, 24.09.2009</p>
+    <p xml:id="pb39.p15" xml:lang="sl">- Analiza prijave in vpisa 2006/2007. URL=»http://www.vpis.uni- mb.si/Analiza/ANALIZA_06-07-DRUGI_DEL.pdf«. str. 81, 24.09.2009</p>
+    <p xml:id="pb39.p16" xml:lang="sl">- Analiza prijave in vpisa 2007/2008. URL=»http://www.vpis.uni- mb.si/Analiza/Analiza_drugi_del_2007-08.pdf«. str. 79, 03.10.2009</p>
+    <p xml:id="pb39.p17" xml:lang="sl">- Analiza prijave in vpisa 2008/2009. URL=»http://www.vpis.uni- mb.si/Analiza/Analiza_2008_2009_drugi_del.pdf«. str. 89, 04.10.2009</p>
+    <p xml:id="pb39.p18" xml:lang="en">- Analiza prijave in vpisa 2009/2010. URL=»http://www.vpis.uni- mb.si/Analiza/Analiza_drugi_del_2009-</p>
+    <p xml:id="pb39.p19" xml:lang="sl">10_potrjeno_Senat_UM_01_12_09.pdf«. str. 91, 15.03.2010</p>
+    <p xml:id="pb39.p20" xml:lang="sl">- Slovar Slovenskega knjižnega jezika. URL=»http://bos.zrc- sazu.si/sskj.html«. 07.09.2009</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">- Fakulteta za logistiko. URL=»http://fl.uni- mb.si/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=86«.</p>
+    <p xml:id="pb40.p2" xml:lang="sl">- Malačič, Sambt. Brezposelnost diplomantov. URL=»http://www.ef.uni- lj.si/studij/r3p2/BREZPDIPL05.doc«. 05.03.2010</p>
+    <p xml:id="pb40.p3" xml:lang="sl">- VRC. URL=»http://www.vrc.si«. 25.06.2009</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">SEZNAM GRAFOV</p>
+    <p xml:id="pb41.p2" xml:lang="sl">Graf 1: Vpis študentov 2005/2006 ......................................................................... 7 Graf 2: Vpis študentov po spolu 2005/2006 ............................................................ 8 Graf 3: Vpis študentov po strukturi 2005/2006 ....................................................... 9 Graf 4: Vpis študentov 2006/2007 ....................................................................... 10 Graf 5: Vpis študentov po spolu 2006/2007 .......................................................... 10 Graf 6: Vpis študentov po strukturi 2006/2007 ..................................................... 11 Graf 7: Vpis študentov 2007/2008 ....................................................................... 12 Graf 8: Vpis študentov po spolu 2007/2008 .......................................................... 13 Graf 9: Vpis študentov po strukturi 2007/2008 ..................................................... 14 Graf 10: Vpis študentov 2008/2009 ..................................................................... 15 Graf 11: Vpis študentov po spolu 2008/2009 ........................................................ 15 Graf 12: Vpis študentov po strukturi 2008/2009 ................................................... 16 Graf 13: Vpis študentov 2009/2010 ..................................................................... 17 Graf 14: Vpis študentov po spolu 2009/2010 ........................................................ 17 Graf 15: Vpis študentov po strukturi 2009/2010 ................................................... 18 Graf 16: Trend sprejetih študentov od 2005 do 2009 ............................................ 19 Graf 17: Trend moške vpisne populacije od 2005 do 2009 .................................... 20 Graf 18: »Spol?« ................................................................................................ 23 Graf 19: »Ali si se odločil/-a po končani gimnaziji nadaljevati študij?« .................... 24 Graf 20: »Na kateri Univerzi boš nadaljeval/-a šolanje?« ....................................... 24 Graf 21: »Zakaj boš nadaljeval/-a šolanje ravno na tej Univerzi?« ......................... 25 Graf 22: »Kje boš nadaljeval/-a šolanje?« ............................................................ 25 Graf 23: »Ali si že slišal/-a za fakulteto za logistiko v Krškem?« ............................. 26 Graf 24: »Ali si seznanjen/-a s kompetencami, ki jih pridobiš po študiju na fakulteti za logistiko?« ......................................................................................................... 26 Graf 25: »Ali si se odločil/-a nadaljevati študij na fakulteti za logistiko v Krškem?« . 27 Graf 26: »Zakaj se nisi odločil/-a za fakulteto za logistiko?« .................................. 28</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">SEZNAM TABEL</p>
+    <p xml:id="pb42.p2" xml:lang="sl">Tabela 1: Izobrazbena struktura 1991 ................................................................... 6 Tabela 2: Izobrazbena struktura 2002 ................................................................... 6 Tabela 3: Vpis študentov 2005/2006...................................................................... 7 Tabela 4: Vpis študentov po spolu 2005/2006 ........................................................ 8 Tabela 5: Vpis študentov po strukturi 2005/2006.................................................... 8 Tabela 6: Vpis študentov 2006/2007...................................................................... 9 Tabela 7: Vpis študentov po spolu 2006/2007 ...................................................... 10 Tabela 8: Vpis študentov po strukturi 2006/2007.................................................. 11 Tabela 9: Vpis študentov 2007/2008.................................................................... 12 Tabela 10: Vpis študentov po spolu 2007/2008 .................................................... 12 Tabela 11: Vpis študentov po strukturi 2007/2008 ................................................ 13 Tabela 12: Vpis študentov 2008/2009 .................................................................. 14 Tabela 13: Vpis študentov po spolu 2008/2009 .................................................... 15 Tabela 14: Vpis študentov po strukturi 2008/2009 ................................................ 16 Tabela 15: Vpis študentov 2009/2010 .................................................................. 16 Tabela 16: Vpis študentov po spolu 2009/2010 .................................................... 17 Tabela 17: Vpis študentov po strukturi 2009/2010 ................................................ 18</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">UPORABLJENE KRATICE</p>
+    <p xml:id="pb43.p2" xml:lang="sl">VRC = Valvasorjev raziskovalni center Krško</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">PRILOGE</p>
+    <p xml:id="pb44.p2" xml:lang="sl">PRILOGA A: ANKETA</p>
+    <p xml:id="pb44.p3" xml:lang="sl">Pozdravljeni!</p>
+    <p xml:id="pb44.p4" xml:lang="sl">Sem Laura Urek, absolventka Fakultete za upravo. Pišem diplomsko nalogo z naslovom Statistična analiza sprememb strukture vpisne populacije visokošolskih ustanov, anketa pa je na temo vaše odločitve o nadaljnjem študiju. Zelo vam bom hvaležna, če si boste vzeli čas in jo izpolnili. Anketa je kratka in vam ne bo vzela več kot 5 minut, meni pa bo vsak odgovor pripomogel h končni kvaliteti diplome.</p>
+    <p xml:id="pb44.p5" xml:lang="sl">Ustrezne odgovore obkroži in po potrebi (pod drugo) dopiši. Pri vsakem vprašanju je možen samo en odgovor.</p>
+    <p xml:id="pb44.p6" xml:lang="sl">1. Spol a) ženska b) moški</p>
+    <p xml:id="pb44.p7" xml:lang="sl">2. Ali si se odločil/-a po končani gimnaziji nadaljevati študij? a) da b) ne</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Če si na to vprašanje odgovoril/-a z NE, je zate anketa končana.</p>
+    <p xml:id="pb44.p9" xml:lang="sl">3. Na kateri Univerzi boš nadaljeval/a šolanje? a) Univerza v Ljubljani b) Univerza v Mariboru c) Univerza na Primorskem d) Drugo:_____________________________________________ 4. Zakaj boš nadaljeval/-a šolanje ravno na tej Univerzi? a) Zato, ker bom na tej Univerzi prejel/-a najboljši kader profesorjev b) Zato, ker mi ta Univerza nudi najboljše znanje c) Zato, ker ima ta Univerza zelo razširjen spekter študijskih programov d) Zato, ker imam na tej Univerzi boljše možnosti za kasnejšo zaposlitev e) Drugo:____________________________________ 5. Kje boš nadaljeval/-a šolanje? a) na univerzitetnem programu b) na visokošolskem programu c) na akademiji d) Drugo:______________________________________________ 6. Ali si že slišal/-a za Fakulteto za logistiko v Krškem? a) Da b) Ne</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">7. Ali si seznanjen/-a s kompetencami, ki jih pridobiš po študiju na fakulteti za logistiko? a) Da b) Ne</p>
+    <p xml:id="pb45.p2" xml:lang="sl">8. Ali si se odločil/-a nadaljevati študij na Fakulteti za logistiko v Krškem? a) Da (nadaljuj na vprašanje št. 8) b) Ne (nadaljuj na vprašanje št. 9)</p>
+    <p xml:id="pb45.p3" xml:lang="sl">9. Zakaj si se odločil/-a ravno za fakulteto za logistiko? a) zato, ker je fakulteta v Posavju in mi to predstavlja manjše študijske stroške b) zaradi kompetenc, ki jih pridobim s končanim študijem c) zato, ker me delo logistika/prometnika veseli d) zato, ker sem prepričan/-a da imam zagotovljeno zaposlitev e) drugo:____________________________________________________ 10. Zakaj se nisi odločil/-a za fakulteto za logistiko? a) zato, ker me ta študij ne veseli b) zato, ker si želim študirati izven domačega kraja c) zato, ker mi ta študij ne nudi kasnejše zaposlitve d) zato, ker mi ta študij ne omogoča dovolj potrebnih kompetenc za nadaljnje delo e) Drugo:____________________________________________ Hvala za tvoje sodelovanje in uspešno nadaljevanje šolanja.</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">PRILOGA B: Tabele rezultatov anket 1. vprašanje ženska 46 moški 36</p>
+    <p xml:id="pb46.p2" xml:lang="sl">2. vprašanje da 82 ne 0</p>
+    <p xml:id="pb46.p3" xml:lang="sl">3. vprašanje</p>
+    <p xml:id="pb46.p4" xml:lang="sl">Univerza v Ljubljani 59 Univerza v Mariboru 16 Univerza na Primorskem 3 Drugo 4</p>
+    <p xml:id="pb46.p5" xml:lang="sl">4. vprašanje ker bom na tej Univerzi prejel/-a najboljši kader profesorjev 5 ker mi ta Univerza nudi najboljše znanje 25 ker ima ta Univerza zelo razširjen spekter študijskih programov 30 zato, ker imam na tej Univerzi boljše možnosti za kasnejšo zaposlitev 19 drugo 3</p>
+    <p xml:id="pb46.p6" xml:lang="sl">5. vprašanje na univerzitetnem programu 69 na visokošolskem programu 9 na akademiji 2 drugo 2</p>
+    <p xml:id="pb46.p7" xml:lang="sl">6. vprašanje da 74 ne 8</p>
+    <p xml:id="pb46.p8" xml:lang="sl">7. vprašanje da 19 ne 63</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">8. vprašanje da 0 ne 82</p>
+    <p xml:id="pb47.p2" xml:lang="sl">10. vprašanje zato, ker me ta študij ne veseli 62 zato, ker si želim študirati izven domačega kraja 5 zato, ker mi ta študij ne nudi kasnejše zaposlitve 4 zato, ker mi ta študij ne omogoča dovolj potrebnih kompetenc za nadaljnje delo 3 drugo 8</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-16000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">IZJAVA O AVTORSTVU IN NAVEDBA LEKTORJA</p>
+    <p xml:id="pb48.p2" xml:lang="sl">Študentka Laura Urek izjavljam, da sem avtorica tega diplomskega dela, ki sem ga napisala pod mentorstvom dr. Srečkom Devjakom in dovolim objavo diplomskega dela na fakultetnih spletnih straneh.</p>
+    <p xml:id="pb48.p3" xml:lang="sl">V Ljubljani, dne___________________ Podpis:____________________ Diplomsko delo je lektorirala Petra Brili.</p>
+  </page>
+</document>

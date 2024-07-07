@@ -1,0 +1,575 @@
+UNIVERZA V MARIBORU PEDAGOŠKA FAKULTETA
+Oddelek za predšolsko vzgojo
+DIPLOMSKO DELO
+Matic Škrlovnik Maribor, 2013
+
+
+UNIVERZA V MARIBORU PEDAGOŠKA FAKULTETA
+Oddelek za predšolsko vzgojo Diplomsko delo
+ANALIZA LIKOVNE PODOBE VZGOJNO-VARSTVENEGA ZAVODA SLOVENJ GRADEC
+Mentor: doc. dr. Tomaž Zupančič Kandidat:
+Matic Škrlovnik Maribor, 2013 Lektorica:
+
+Petra Škrlovnik, predmetna učiteljica slovenščine Prevajalka:
+Alenka Kac Herkovič, profesorica angleščine in sociologije
+
+ZAHVALA
+Iskreno se zahvaljujem mentorju docentu doktorju Tomažu Zupančiču za strokovno pomoč, koristne nasvete ter potrpežljivost.
+Iskrena zahvala gre tudi ravnateljici Vzgojno-varstvenega zavoda Slovenj Gradec diplomirani vzgojiteljici Ivici Vaukan, ki mi je omogočila izvedbo raziskave v vrtcu.
+Posebej se zahvaljujem vsem bližnjim za vse spodbudne besede.
+
+UNIVERZA V MARIBORU PEDAGOŠKA FAKULTETA IZJAVA
+Podpisani Matic Škrlovnik, rojen 3. 10. 1985, študent Pedagoške fakultete v Mariboru, smer predšolska vzgoja, izjavljam, da je diplomsko delo z naslovom Analiza likovne podobe Vzgojno-varstvenega zavoda Slovenj Gradec pri mentorju docentu doktorju Tomažu Zupančiču avtorsko delo. V diplomskem delu so uporabljeni viri in literatura korektno navedeni; teksti niso prepisani brez navedbe avtorjev.
+Matic Škrlovnik
+Maribor, __________________ Povzetek
+
+V empiričnem diplomskem delu Analiza likovne podobe Vzgojno-varstvenega zavoda Slovenj Gradec smo v teoretičnem delu predstavili izhodišča otroškega likovno-ustvarjalnega razvoja, ki so pomembna za izbrano temo, pomembne segmente Kurikuluma za vrtce, pomen kakovostne likovne podobe otrokovega okolja, vlogo barve v prostoru ter Vzgojno-varstveni zavod Slovenj Gradec, ki ga analiziramo v empiričnem delu. V empiričnem delu naloge smo podali rezultate raziskave in njihovo interpretacijo, nalogo pa smo zaključili s sklepom. V nalogi smo si zadali cilj, da karseda poljudno predstavimo pomembnost likovne podobe otrokovega bivanjskega okolja, v našem primeru vrtca. Z analizo smo želeli preveriti, v kolikšni meri je likovna podoba izbranega vrtca urejena v skladu z likovno-didaktično teorijo. Analizirali smo vseh sedem enot vrtca oziroma dvaindvajset oddelkov od dvainštiridesetih. Zbrali smo fotografski material zunanjosti in predvsem notranjosti enot vrtca ter na podlagi opazovanja in preučevanja fotografskega materiala izpolnili obrazec za oceno kvalitete likovne podobe vrtca. Rezultate iz obrazca smo predstavili v empiričnem delu. Ugotovili smo, da likovna podoba Vzgojno-varstvenega zavoda Slovenj Gradec delno ustreza strokovnim smernicam likovno-didaktične teorije.
+Ključne besede:
+- predšolska vzgoja,
+- likovna podoba vrtca,
+- likovno-ustvarjalni razvoj otroka,
+- Kurikulum za vrtce,
+- vloga barve v prostoru,
+- Vzgojno-varstveni zavod Slovenj Gradec.
+
+Abstract
+In the empirical thesis entitled The analysis of the Slovenj Gradec Kindergarten’s Visual Image, the theoretical segment (of the thesis) consists of the introduction through the bases (those important for the chosen topic) of a child's artistic creativity progress, the important segments of the Kindergarten curriculum, the importance of a visual image in a child's environment and its quality, the role of colours and presentation of The Kindergarten Slovenj Gradec which is analysed in the empirical part of the thesis. The results of the research and its interpretation are presented in the empirical part of the thesis. The thesis ends with a conclusion.
+The goal was to present the importance of the visual image in a child's environment, in our case the kindergarten. The analysis was used to compare the visual image of a chosen kindergarten with the theory on art and didactics. All seven units of the chosen kindergarten were analysed, which included twenty-two classes out of forty-two. The photos of the exterior and mainly the interior of the kindergarten units were taken and gathered. By using the gathered photographic material and the method of observation, the evaluation form (on kindergarten's visual image) was filled out. The results were introduced in the empirical part of the thesis. It was concluded that the visual image of the Kindergarten Slovenj Gradec is partly consistent with the theory on art and didactics.
+Keywords:
+- Preschool education
+- Kindergarten's visual image
+- A child's progress in art creativity
+- The Kindergarten curriculum
+- The importance of colour in the environment
+- The Kindergarten Slovenj Gradec Kazalo vsebine
+
+1 Uvod ................................................................................................................. 1 2 Teoretični del .................................................................................................... 2 2.1 Likovno-ustvarjalni razvoj predšolskih otrok.................................................. 2 2.1.1 Vloga likovnega izražanja predšolskih otrok ............................................ 2 2.1.2 Načelo ustvarjalnosti in načelo kakovosti ................................................. 2 2.1.2.1 Načelo ustvarjalnosti ......................................................................... 3 2.1.2.2 Načelo kakovosti ............................................................................... 3 2.1.3 Cilji in naloge likovne vzgoje predšolskih otrok....................................... 4 2.2 Kurikulum za vrtce......................................................................................... 5 2.2.1 Prostor kot element kurikula .................................................................... 6 2.2.2 Področje umetnosti v kurikulu ................................................................. 6 2.2.2.1 Globalni in operativni cilji ................................................................. 6 2.2.2.2 Primeri dejavnosti ............................................................................. 7 2.2.2.3 Vloga odraslih ................................................................................... 8 2.3 Likovna podoba in ureditev otrokovega okolja ............................................... 9 2.4 Vloga barve v prostoru ................................................................................. 12 2.4.1 Kaj je barva?.......................................................................................... 12 2.4.2 Delitev barv ........................................................................................... 13 2.4.2.1 Osnovne barve ali barve prve stopnje .............................................. 14 2.4.2.2 Sekundarne barve ali barve druge stopnje ........................................ 14 2.4.2.3 Terciarne barve ali barve tretje stopnje ............................................ 15 2.4.3 Lastnosti barv ........................................................................................ 15 2.4.3.1 Barvni ton ....................................................................................... 16 2.4.3.2 Barvna svetlost ................................................................................ 16 2.4.3.3 Barvna moč ..................................................................................... 16 2.4.4 Barvna simbolika ................................................................................... 17 2.4.5 Funkcionalna vrednost barve v prostoru in njen vpliv na človeka ........... 17 2.5 Predstavitev Vzgojno-varstvenega zavoda Slovenj Gradec ........................... 21 3 Empirični del .................................................................................................. 24 3.1 Namen ......................................................................................................... 24 3.2 Razčlenitev, podrobna opredelitev in omejitev raziskovalnega problema ...... 24 3.2.1 Raziskovalna vprašanja .......................................................................... 24 3.2.2 Raziskovalne hipoteze ........................................................................... 25 3.3 Metodološka opredelitev .............................................................................. 26 3.3.1 Raziskovalne metode ............................................................................. 26 3.3.2 Raziskovalni vzorec ............................................................................... 26 3.3.3 Postopki zbiranja podatkov .................................................................... 27 3.3.3.1 Organizacija zbiranja podatkov ....................................................... 27 3.3.3.2 Vsebinsko metodološke značilnosti uporabljenih instrumentov........ 27 3.3.4 Postopki obdelave podatkov .................................................................. 28 3.4 Rezultati in interpretacija ............................................................................. 28 3.4.1 Zunanja podoba vrtca............................................................................. 29 3.4.2 Notranja podoba vrtca ............................................................................ 32 3.4.2.1 Barve prostorov ............................................................................... 32 3.4.2.2 Dobri otroški likovni izdelki ............................................................ 34 3.4.2.3 Neprimerni otroški likovni izdelki ................................................... 36 3.4.2.4 Originalna umetniška dela ali njihove reprodukcije ......................... 38 3.4.2.5 Kakovostne ilustracije ..................................................................... 39 3.4.2.6 Fotografije....................................................................................... 42 3.4.2.7 Likovne aplikacije odraslih oseb...................................................... 44 3.4.2.8 Ostale aplikacije .............................................................................. 47 3.5 Sklep ............................................................................................................ 51 Viri in literatura ................................................................................................. 55 Kazalo slik
+
+
+Slika 1: Lestvica sivih barv z belo in črno .......................................................... 14 Slika 2: Dvanajstdelni barvni krog ..................................................................... 14 Slika 3: Enota Mislinja (nežna barva fasade) ...................................................... 30 Slika 4: Enota Podgorje (nežna barva fasade) ..................................................... 30 Slika 5: Novi del zgradbe enote Maistrova (intenzivna barva fasade) ................. 31 Slika 6: Poslikava enote Legen ........................................................................... 31 Slika 7: Poslikava zunanjosti enote Maistrova .................................................... 31 Slika 8: Poslikava zunanjosti enote Šmartno ...................................................... 31 Slika 9: Lesena skulptura ob enoti Legen ........................................................... 31 Slika 10: Betonski kvader s tablami v enoti Pameče ........................................... 31 Slika 11: Nežna barva sten v igralnici ................................................................ 33 Slika 12: Nežna barva sten v igralnici ................................................................ 33 Slika 13: Nežna barva sten v igralnici ................................................................ 33 Slika 14: Nežna barva sten v garderobi .............................................................. 33 Slika 15: Nežna barva sten na hodniku ............................................................... 33 Slika 16: Enota Maistrova, pritličje .................................................................... 33 Slika 17: Dobri otroški izdelki, drugo starostno obdobje .................................... 36 Slika 18: Dobri otroški izdelki, prvo starostno obdobje ...................................... 36 Slika 19: Dobri otroški likovni izdelki, kombinirani oddelek .............................. 36 Slika 20: Dobri otroški likovni izdelki, kombinirani oddelek .............................. 36 Slika 21: Šablonsko upodobljene pikapolonice in žabe; kombinirani oddelek ..... 37 Slika 22: Šablonsko upodobljene čebele; prvo starostno obdobje ....................... 37 Slika 23: Šablone krtkov, ki so jih pobarvali otroci; drugo starostno obdobje ..... 38 Slika 24: Šablonsko upodobljeni polži; drugo starostno obdobje ........................ 38 Slika 25: Umetniško delo na hodniku enote Legen ............................................. 39 Slika 26: Kakovostne ilustracije k pesmi Uspavanka .......................................... 41 Slika 27: Kakovostne ilustracije na Cicidojevem plakatu z abecedo ................... 41 Slika 28: Kakovostna ilustracija na omari .......................................................... 41 Slika 29: Kakovostna ilustracija k pesmi Nina Nana .......................................... 41 Slika 30: Fotografije družin otrok iz oddelka ...................................................... 43 Slika 31: Fotografija mlade mačke iz revije Mali Moj planet .............................. 43 Slika 32: Koledar s fotografijami živali .............................................................. 43 Slika 33: Plakat s fotografijo žirafe iz revije Mali Moj planet ............................. 43 Slika 34: Fotografije različnih živali iz revije Mali Moj planet ........................... 43 Slika 35: Fotografija gore, izrezana iz neznane revije ......................................... 43 Slika 36: Poslikava na oknu; prvo starostno obdobje .......................................... 45 Slika 37: Pobarvana risba na steni igralnice; drugo starostno obdobje ................ 45 Slika 38: Čebelnjak in čebele z imeni otrok; prvo starostno obdobje .................. 46 Slika 39: Dekoracija na steni v garderobi ........................................................... 46 Slika 40: Preglednica za dnevno beleženje vremena; kombinirani oddelek ......... 46 Slika 41: Gosenica z imeni otrok; drugo starostno obdobje................................. 46 Slika 42: Merilnik višine; kombinirani oddelek .................................................. 46 Slika 43: Znaki otrok v garderobi ....................................................................... 46 Slika 44: Znaki otrok v garderobi, ki so jih izdelali strokovni delavci ................. 50 Slika 45: Znaki otrok v garderobi, ki so jih izdelali otroci .................................. 50 Slika 46: Prikaz tematskega sklopa z likovnimi aplikacijami otrok ..................... 50 Slika 47: Prikaz tematskega sklopa z likovnimi aplikacijami strokovnih delavcev
+
+.......................................................................................................................... 50 Slika 48: Cicidojev plakat slikovne abecede ....................................................... 51 Slika 49: Cicidojev plakat slikovne abecede in likovno nekakovosten plakat judo kluba .................................................................................................................. 51 Kazalo preglednic
+
+Tabela 1: Podrobnejši pregled enot VVZ Slovenj Gradec in njihovih oddelkov .. 23 Tabela 2: Razporeditev analiziranih oddelkov po enotah .................................... 26 Tabela 3: Razmerje med številom analiziranih oddelkov in starostnim obdobjem, v katerega sodijo ................................................................................................ 28 Tabela 4: Kriteriji za analizo zunanje podobe vrtca (barva ometa, poslikave zunanjih površin, druge lastnosti) ....................................................................... 29 Tabela 5: Barve prostorov – močne ali nežne ..................................................... 32 Tabela 6: Prisotnost otroških likovnih izdelkov v igralnicah oziroma oddelkih ... 34 Tabela 7: Prisotnost otroških likovnih izdelkov v skupnih prostorih ................... 35 Tabela 8: Prisotnost neprimernih otroških likovnih izdelkov v enotah vrtca ....... 37 Tabela 9: Prisotnost originalnih umetniških del ali njihovih reprodukcij v enotah vrtca................................................................................................................... 38 Tabela 10: Prisotnost kakovostnih ilustracij v oddelkih vrtca ............................. 40 Tabela 11: Prisotnost kakovostnih ilustracij v skupnih prostorih ........................ 40 Tabela 12: Prisotnost fotografij v enotah vrtca ................................................... 42 Tabela 13: Prisotnost likovnih aplikacij odraslih oseb v enotah vrtca ................. 44 Tabela 14: Prisotnost ostalih aplikacij v enotah vrtca ......................................... 47 1 Uvod
+
+Znano je, da ima okolje velik vpliv na razvoj človeka. Eden izmed delov okolja je tudi bivanjsko okolje. Otrokovo bivanjsko okolje mora biti varno, prijetno in spodbudno. Le takšno bo na otroka vplivalo dobro in mu omogočilo, da preživi lepo in zdravo otroštvo ter razvije svoje potenciale.
+Eden od pomembnih elementov bivanjskega okolja je njegova likovna podoba. Če bo otrok živel v likovno kakovostnem in spodbudnem okolju, se mu bodo razvili čut za estetiko, občutek za likovno uravnoteženost, ustvarjalnost ter kritičnost do likovne nekakovosti. Velja tudi obratno; če bo otrok živel v okolju z nekakovostno likovno podobo, ne bo imel dobrih možnosti za razvoj prej omenjenih lastnosti. Zato je bistvenega pomena, da likovno podobo otrokovega bivanjskega okolja skrbno uredimo in v okolje vnašamo le kakovostne likovne stvaritve.
+Sodobna kapitalistična družba spodbuja potrošništvo, ki je na tržišče prineslo ogromno slabih in neprimernih izdelkov, tudi v likovnem smislu. Kapitalizem teži k ustvarjanju čim večjega dobička, kar pomeni, da morajo ljudje veliko delati.
+Zaradi tega imajo starši manj časa za otroke, saj so preobremenjeni in preutrujeni.
+Otroci veliko časa preživijo v vrtcu oziroma šoli. Nasičenost otrokovega okolja z nekakovostnimi izdelki ter pomanjkanje časa staršev sta dva poglavitna razloga, zakaj moramo strokovni delavci v vzgojno-varstvenih in izobraževalnih ustanovah še posebej skrbno urejati bivanjsko okolje otrok. Mnogi otroci lahko le na tak način spoznajo razlike med kakovostno in nekakovostno likovno podobo svojega okolja.
+V empiričnem diplomskem delu Analiza likovne podobe Vzgojno-varstvenega zavoda Slovenj Gradec želimo podati smernice za urejanje likovne podobe otrokovega okolja ter preveriti, ali je likovna podoba slovenjgraškega vrtca urejena v skladu z likovno-didaktično teorijo.
+
+2 Teoretični del
+V teoretičnem delu diplomske naloge bomo predstavili izhodišča otroškega likovno-ustvarjalnega razvoja, ki so pomembna za našo temo, za nas pomembne segmente Kurikuluma za vrtce, pomen kakovostne likovne podobe otrokovega okolja ter vlogo barve v prostoru, zadnje poglavje teoretičnega dela pa je namenjeno predstavitvi Vzgojno-varstvenega zavoda Slovenj Gradec, ki ga analiziramo v empiričnem delu.
+2.1 Likovno-ustvarjalni razvoj predšolskih otrok
+V tem poglavju bomo pisali o tistih delih likovno-ustvarjalnega razvoja predšolskih otrok, ki so neposredno povezani z vsebino diplomske naloge.
+2.1.1 Vloga likovnega izražanja predšolskih otrok
+Likovno izražanje predšolskih otrok ima dvojno vlogo. Otroku omogoča, da raziskuje in spoznava svet okoli sebe ter si na podlagi tega pridobiva izkušnje, obenem pa predstavlja pot do (likovno) ustvarjalne, kritične in razmišljujoče osebnosti.
+Poznavanje obeh vlog likovnega izražanja je ključno za kvalitetno likovno- vzgojno delo s predšolskimi otroki. (Vrlič, 2001a) 2.1.2 Načelo ustvarjalnosti in načelo kakovosti
+»Načela likovne vzgoje so temeljna določila, ki narekujejo ravnanja pri likovno- vzgojnem delu. Njihovo upoštevanje predstavlja osnovo za smotrno likovno- vzgojno delo. Pri likovni vzgoji so načela prisotna v vsakem njenem segmentu.« (Vrlič, 2001a)
+
+Vrlič (2001) navaja šest načel likovne vzgoje mlajših otrok; pet jih povzema po avtorjih Berce, Hočevar in Prestor (1980), dodaja pa še načelo kakovosti. Za obravnavo naše teme sta pomembni dve načeli. To sta načelo ustvarjalnosti ter načelo kakovosti.
+2.1.2.1 Načelo ustvarjalnosti
+Načelo ustvarjalnosti je osnovno in najpomembnejše načelo likovne vzgoje, sam razvoj ustvarjalnosti pa kompleksno početje, ki je vpeto v vse vsebine likovne vzgoje mlajših otrok. Ustvarjalnost je pomemben dejavnik likovne umetnosti, poleg tega pa vpliva na kakovost človekove osebnosti in življenja ter s tem na celoten razvoj človeštva. Razvoj ustvarjalnosti spodbujamo tudi tako, da otroke opozarjamo na likovne kvalitete v okolju in jim omogočimo stik z ustvarjalnimi likovnimi deli. (Vrlič, 2001a) 2.1.2.2 Načelo kakovosti
+Za otroka so primerna in dovolj dobra le kakovostna in estetska umetniška likovna dela. V otrokovem okolju ne bi smela biti prisotna estetsko sporna likovna dela.
+Razvoj estetskega čuta je dolgotrajen proces in je možen le ob stiku s kakovostnimi likovnimi, glasbenimi in literarnimi deli. »Nekakovostna dela lahko začne otrok zavračati samo skozi primerjavo in v konfrontaciji s kakovostnimi umetniškimi deli.« (Vrlič, 2001a)
+Otroci preživijo v vrtcu veliko časa in naloga vzgojiteljev je, da v tem času skrbimo za njihov razvoj, katerega del je tudi razvoj estetskega čuta. Torej je nujno in edino pravilno, da pri urejanju likovne podobe vrtca sledimo gornjim načelom.
+
+2.1.3 Cilji in naloge likovne vzgoje predšolskih otrok Ciljev in nalog likovne vzgoje predšolskih otrok je veliko, mi se bomo osredotočili na tiste, ki so pomembni pri obravnavi naše teme.
+Vrlič (2001a) razdeli osnovne naloge likovne vzgoje mlajših (predšolskih) otrok glede na starost. V starosti do štirih let pod osnovne naloge spadajo tudi »spontani razgovori o likovnih izdelkih in predmetih v okolici brez zahtev po vrednotenju«.
+V naslednjem obdobju, med četrtim in petim letom starosti, postajajo stiki z estetskimi pojavi zavestnejši. Otroke aktivno vključimo v sodelovanje pri urejanju vrtčevskih prostorov. Pričakujemo več kritičnosti. V obdobju po petem letu starosti lahko od otrok zahtevamo vedno bolj oblikovan odnos do likovnega izraza in večjo sposobnost ocenjevanja likovnih pojavov. Pričakujemo še več kritičnosti pri stikih z umetniškimi deli, obiskujemo galerije.
+Globalne cilje likovne vzgoje predšolskih otrok Vrlič (2001a) razdeli na splošne in likovne. Med splošne globalne cilje uvrsti razvoj ustvarjalnosti v najširšem pomenu ter razvoj kritičnosti. Med likovnimi globalnimi cilji najdemo dva cilja, ki sta neposredno povezana z našo tematiko: »Razvijati osnove za vrednotenje likovnih stvaritev, razvijati občutljivost za likovne kakovosti ter skrb za izgradnjo estetskega čuta pri otrocih; z estetsko urejenim okoljem vplivati na skladen razvoj otroka«.
+Vrlič (2001a) podrobnejše, bolj operativne cilje in naloge razdeli po posameznih likovnih področjih in po starostnih obdobjih. Dve za nas pomembni likovni področji sta oblikovanje prostora ter osnove estetskega vrednotenja. Pri dejavnostih oblikovanja prostora otroci med drugim z lastnim praktičnim delom posegajo v prostor in ga preoblikujejo, razvijajo zavedanje o oblikovanosti življenjskega okolja in se navajajo na opazovanje in osnovno presojanje prostora, ki nas obdaja. Osnove estetskega vrednotenja so neposredno povezane s tematiko te diplomske naloge. Pri tem likovnem področju skrbimo za: razvoj estetskega čuta, občutka za lepo, za likovne kakovosti, razvoj likovne kritičnosti, razvoj zanimanja za likovno dogajanje, spremljanje razstav, usposabljanje za sprejemanje in razumevanje likovne umetnosti ter dojemanje in kritično presojanje vizualnih pojavov v vsakdanjem svetu, seznanjanje z likovnimi pojmi ter kakovostnimi ilustracijami, razvijanje kritičnega stališča do nekakovostnih likovnih produktov potrošniške družbe. Vrlič opozarja, da naloga likovnega vrednotenja na predšolski stopnji ni usmerjena v doseganje objektivnih estetskih sodb, temveč predstavlja začetni korak v procesu komunikacije z umetninami.
+
+Naloge in cilje osnov estetskega vrednotenja razdeli po starostnih obdobjih.
+Otroci od dveh do štirih let si naj ogledujejo kakovostne ilustracije, naravno bogate in otrokom primerne fotografije, obiskujejo naj likovne razstave vrstnikov v vrtcu. V obdobju med četrtim in petim letom starosti se z otroki pogovarjamo ob primernih reprodukcijah umetnin, igramo se različne igre, inspirirane z ogledi umetnin, ogledujemo si razstave v galerijah, skupaj skrbimo za estetsko podobo vsakdanjega okolja (krašenje, izbira barve sten …), otroke spodbujamo k ustvarjanju osnovnega kritičnega odnosa do ilustracij. Med petim in sedmim letom skrbimo za razvoj kritičnosti in samokritičnosti ob ogledu likovnih del, pogovarjamo se o likovni kakovosti igrač, ilustracij, okolja, oblačil, vsakdanjih predmetov, ogledujemo si likovne razstave, skulpture in spomenike v bližini vrtca, otroke seznanjamo z nekaterimi pomembnimi umetniki in njihovimi deli ter s pojmi slikarstvo, kiparstvo, arhitektura, risba, motiv, barva, kompozicija, ves čas gojimo stik otrok s kakovostnimi likovnimi deli.
+2.2 Kurikulum za vrtce
+»Kurikulum za vrtce je nacionalni dokument, ki ima svojo osnovo v analizah, predlogih in rešitvah, ki so uokvirile koncept in sistem predšolske vzgoje v vrtcih, kot tudi v sprejetih načelih in ciljih vsebinske prenove celotnega sistema vzgoje in izobraževanja.« (Bahovec idr., 1999)
+Kurikulum za vrtce je temeljni dokument, s pomočjo katerega strokovni delavci v vrtcih zasnujemo, načrtujemo, organiziramo in izvajamo delo oziroma dejavnosti.
+Vsebina Kurikuluma za vrtce je razdeljena na šest področij dejavnosti: gibanje, jezik, umetnost, družba, narava, matematika. Področje umetnosti vključuje dejavnosti likovne in glasbene umetnosti.
+
+»Estetsko doživljanje, ki je intenzivno čutno in intuitivno spoznanje doživetja, otrok izrazi v umetnosti in ga opredeljuje z estetskimi pojmi lepo, smešno, grdo ipd. Pri tem se odražata otrokov prirojeni čut za umetniški red in privzgojeni čut za lepo, ki ga oblikujeta socialno in kulturno okolje.« (Bahovec idr., 1999) 2.2.1 Prostor kot element kurikula
+Kurikulum izpostavlja prostor kot enega izmed pomembnih elementov otrokovega bivanja v vrtcu. Zaželeno je, da so v igralnici med drugim ves čas na voljo tudi slike (umetniške, fotografije, ilustracije) in kiparski izdelki. V igralnicah in na hodnikih naj bodo razstavljena otroška likovna dela, v katerih je prepoznavna njihova ustvarjalnost in individualnost, ter reprodukcije umetniških izdelkov.
+Občasno je mogoče organizirati galerijo v vrtcu. (Bahovec idr., 1999) 2.2.2 Področje umetnosti v kurikulu 2.2.2.1 Globalni in operativni cilji
+Vsako področje dejavnosti v Kurikulumu za vrtce vsebuje globalne in operativne cilje. Globalni cilji s področja umetnosti so naslednji:
+- »Doživljanje, spoznavanje in uživanje v umetnosti,
+- razvijanje estetskega zaznavanja in umetniške predstavljivosti,
+- spoznavanje posameznih umetnostnih zvrsti,
+- razvijanje izražanja in komuniciranja z umetnostjo,
+- razvijanje ustvarjalnosti in specifičnih umetniških sposobnosti.« (Bahovec idr., 1999)
+
+Operativnih ciljev je več, za obravnavo naše teme pa so pomembni naslednji:
+- »Spodbujanje radovednosti in veselja do umetniških dejavnosti, umetnosti in različnosti;
+- spodbujanje doživljanja, izražanja in veselja do lepote;
+- doživljanje umetnosti kot del družabnega in kulturnega življenja;
+- doživljanje in spoznavanje umetniških del;
+- negovanje in razvijanje individualnih ustvarjalnih potencialov v fazah doživljanja, zamišljanja, izražanja, komuniciranja in uveljavljanja na področju umetniških dejavnosti;
+- razvijanje prostorskih, časovnih, vizualnih, slušnih in telesnih predstav ter predstav o umetnosti, komunikaciji, sebi in drugih;
+- negovanje, spodbujanje in razvijanje čutnega doživljanja z usmerjanjem povečane pozornosti v občutenje telesa, tipanje, opazovanje in poslušanje sebe ter izbranih virov iz okolja;
+- negovanje in spodbujanje bogatega ter razgibanega odzivanja na notranji in zunanji svet;
+- razvijanje sposobnosti umetniškega izražanja čutnega, čustvenega, miselnega, estetskega in vrednostnega doživljanja;
+- doživljanje in spoznavanje komunikacije z in o likovnih /…/ delih;
+- doživljanje in spoznavanje umetniških jezikov in njihovih izraznih lastnosti;
+- spodbujanje splošne ustvarjalnosti pri pripravi, organizaciji in uporabi sredstev in prostora.« (Bahovec idr., 1999) 2.2.2.2 Primeri dejavnosti
+Kurikulum ponuja tudi primere dejavnosti za vsako področje. Pod primeri dejavnosti za vse umetniške zvrsti od 1. do 6. leta najdemo naslednje za nas pomembne dejavnosti:
+
+- »opazuje in prepoznava posebnosti pri osebah, stvareh, pojavih ter pri umetniških delih /…/,
+- primerja umetniška dela in njihove značilnosti /…/,
+- sodeluje, obišče /…/ razstavo v vrtcu in avtentičnih okoljih,
+- sreča se z umetniškimi deli v vrtcu, muzeju, galeriji, /…/.« (Bahovec idr., 1999) 2.2.2.3 Vloga odraslih
+Vsi strokovni delavci v vrtcu, ki sodelujejo pri vzgojnem delu, upoštevajo razvojne zakonitosti in značilnosti otroka na posameznih področjih umetnosti; le- te se pri posamezniku odražajo na individualen način. To strokovni delavci upoštevajo pri načrtovanju in izvedbi dela. (Bahovec idr., 1999) »Odrasli oblikujejo bogato in raznovrstno glasbeno, likovno, plesno, gledališko okolje z različnimi spodbudami, ki otroku omogočajo doživljanje sebe in drugih, okolice in umetnosti. Pestri, zabavni, zanimivi, presenetljivi viri izzivajo otrokovo željo po ustvarjanju in udejanjanju. Kakovostno estetsko in umetniško okolje sooblikuje otrokov razvoj estetskega vrednotenja in osebnega okusa.« (Bahovec idr., 1999)
+Bogato in pestro likovno, glasbeno, plesno okolje ter umetniške dejavnosti spodbujajo razvoj otrokovih umetniških predstav, polega tega pa otrok na tak način spoznava posamezne umetniške veje in umetnost kot celoto ter poglablja svoje predstave o svetu, življenju, kulturi, sebi. (Bahovec idr., 1999) Odrasli otroku omogočajo, da »spoznava izrazne značilnosti ter možnosti posameznih sredstev tako, da je v stiku s kakovostnimi umetniškimi deli /…/«.
+(Bahovec idr., 1999)
+
+2.3 Likovna podoba in ureditev otrokovega okolja
+Likovna podoba in ureditev okolja, v katerem otrok preživi velik del svojega časa, sta pomemben dejavnik njegovega razvoja, poleg tega pa dobra ureditev okolja pozitivno vpliva na delo z otroki. (Vrlič, 2001a)
+Vrlič v priročniku h Kurikulu za vrtce Otrok v vrtcu piše, da je pri vizualnem in likovnem opremljanju otrokovega okolja potrebno upoštevati načelo kakovosti, po katerem so samo najboljši možni vzori za otroka primerni in dovolj dobri. (Vrlič, 2001b)
+Vrlič (2001a) piše, da je potrebno zadostiti potrebi po vsestranski funkcionalnosti prostora:
+»Stene igralnic in učilnic naj bodo obarvane enostavno, da se jih da po potrebi na hitro ponovno prebarvati, tla naj bodo pralna in trpežna, stene naj bodo opremljene s tablami za risanje, flanelogrami za priložnostne razstave, policami za odlaganje materiala itd. Vzpodbujati moramo individualne rešitve pri preoblikovanju prostora s strani ljudi, ki v prostoru bivajo, odraslih in otrok.«
+Poleg funkcionalnosti je pomembna estetska podoba otrokovega okolja: »V prostorih, namenjenih otrokom, se naj nahaja veliko vizualnih in likovnih vzpodbud. V glavnem so to fotografije vidne stvarnosti, reprodukcije kakovostnih likovnih umetnin in umetniških ilustracij ter otroški likovni izdelki. Dekoracije in vizualne aplikacije, izdelane s strani odraslih (vzgojiteljic, pomočnic vzgojiteljic …), ki jih je vzpodbujala stroka pred tridesetimi in več leti, so neprimerne, saj so v veliki večini likovno nekakovostne in zato v neskladju s pomembnim likovno-vzgojnim načelom
+– načelom kakovosti. Likovno urejanje prostorov (ob praznikih, novem letu
+…) naj temelji na delu otrok. Njihovi izdelki so najpristnejši in edini primerni za urejanje njihovega okolja. Označevanje igralnic in skupin z upodobljenimi mucami, veveričkami, metuljčki in podobnim nudi idealno možnost za kakovostno likovno delo z otroki in je tudi mnogo bolj smiselno od označevanja z mnogokrat zelo šablonskimi risbami odraslih.« (Vrlič, 2001a)
+
+Dobro je, da ima igralnica v vrtcu poseben kotiček za likovne dejavnosti, idealno pa, da je likovna delavnica v svojem prostoru. Likovni materiali, orodja in pripomočki morajo biti na dosegu otroških rok. Delavnica naj ima dovolj miz, slikarskih stojal in nasploh dovolj prostora za dinamično likovno delo, umivalnikov, polic. Pomembna je tudi kakovostna osvetlitev. V likovno delavnico oziroma kotiček sodi tudi zbirka likovnih monografij in reprodukcij. (Vrlič, 2001a)
+Likovni izdelki vzgojiteljev in pomočnikov vzgojiteljev ter ostalih likovno nešolanih strokovnih delavcev ne spadajo v otrokovo okolje. Takšna dela so rezultat likovno nestrokovnega početja. Ob njih si otrok ne razvija občutka za likovno skladnost, red in harmonijo. »Slaba likovna dela odraslih naj zamenjajo dobra otroška dela, kakovostne reprodukcije različnih umetniških del, kakovostne ilustracije in fotografije vidne stvarnosti. Prav tako v igralnice ne sodijo šablonska, enaka, s strani odraslih usmerjana otroška likovna dela.« Vizualna podoba igralnice naj odraža starost, razvojne potenciale in sposobnosti otrok, ki v njej bivajo. To naj velja tudi za označevanje igralnic. Pogosto šablonske risbe različnih živali naj zamenjajo dobre otroške upodobitve iz otroške domišljije izvirajočih motivov. (Vrlič, 2001b)
+V vrtčevskih oddelkih prvega starostnega obdobja naj bo otrokovo okolje opremljeno z jasnimi in nazornimi, vendar kakovostnimi likovnimi deli, na katerih so likovna nasprotja očitna in velika. Otroci naj imajo na voljo večje in manjše osnovne geometrijske like v živih osnovnih barvah. Ilustracije poiščemo v kakovostnih otroških knjižnih delih in jih lahko povečano fotokopiramo ali pa s pomočjo mehanskih pripomočkov (episkop) čim bolj verodostojno prenesemo na zid. Poskrbimo za pester izbor ilustracij, pri čemer uporabimo dela različnih avtorjev. Na fotografijah, ki jih pritrdimo na stene, naj bodo otrokom poznani motivi. Fotografije naj bodo barvne in črnobele. Kakovostne reprodukcije umetniških likovnih del imajo v zgodnjem obdobju podoben vpliv kot poslušanje kakovostne glasbe, zato naj bo otrokom omogočen stik z njimi. K dobri opremi otrokovega okolja sodijo tudi razvojni stopnji primerni otroški likovni izdelki, npr. odtisi belih dlani na temnem papirju, veliki formati papirja, polni otroških čačk … (Vrlič, 2001b)
+
+V oddelkih drugega starostnega obdobja ravnamo podobno, le da v večji meri uporabimo otroške likovne izdelke ter se pri delu pogosteje poslužujemo fotografij najrazličnejših motivov in pojavov vidnega sveta. S slednjimi lahko pripravljamo tematske sklope. Npr. velike fotografije kovinskih železniških mostov so lahko dobro izhodišče za ukvarjanje s črtno risbo. (Vrlič, 2001b) Pri načrtovanju krašenja vrtčevskih prostorov vedno upoštevamo starost in sposobnosti otrok. Dekoracije igralnic različnih starostnih skupin se morajo med seboj razlikovati in odražati stopnjo različnih sposobnosti otrok. »V skupini dveletnih otrok je novoletna okrasitev z njihovimi odtisi ročic na steklu in z otroškimi rokami zmečkanimi kosi papirja, ki visijo nanizani po prostoru ali pa so nerodno prilepljeni vsepovsod, do koder otroci lahko sežejo, ne le najprimernejša, ampak tudi edina opravičljiva.« Enoten izgled dekoracije (uporaba dveh, treh barv, določenega likovnega načina dela …) naj ne bo vodilo pri krašenju vrtca.
+Preozko zastavljene zahteve ne pripomorejo k likovno kakovostnejšemu okolju in lahko vodijo v uniformiranost. (Vrlič, 2001b)
+O pozitivnem vplivu stika z umetniškimi deli piše tudi avtorica priročnika Galerija v vrtcu, v šoli in doma: »Likovna umetnost vsekakor spada v vrtce in šole. Otrok ni zunaj kulture živeče bitje. Likovna občutljivost se razvija ob srečevanju z umetniškimi deli in zato dajmo otroku možnost, da se nauči sprejemati formalno in vsebinsko sporočilnost umetniških del.« (Tavčar, 1995) Leta 1992 je bila izvedena raziskava na naključnem vzorcu ljubljanskih vrtcev. V vzorec je bilo vključenih 66 vrtcev iz vseh ljubljanskih občin. Med drugim so raziskovali tudi ureditev vrtcev ter igralnic. Ugotovili so naslednje: »Kjer so igralnice okrašene s slikami otrok, so si v polovici vrtcev (50%) otroške risbe zelo podobne, iz česar je mogoče sklepati, da verjetno ponekod še vedno rišejo po skupni predlogi in na uniformiran način. V nekem vrtcu je bil, na primer, »prostor okrašen z risbicami, ki so si precej podobne in ne izražajo preveč domišljije in ustvarjalnosti«, kot je zapisala anketarka.
+
+Igralnice so okrašene z izdelki otrok (78%) in vzgojiteljic (37%), bistveno več pa je realističnih slik (44%) kot pa fantazijskih (10%). Z umetniškimi izdelki so igralnice (in tudi hodniki) okrašene le redko (le 5-6% celotnega vzorca).« (Bahovec in Kodelja, 1996) 2.4 Vloga barve v prostoru 2.4.1 Kaj je barva?
+Odgovor na gornje vprašanje jasno in razumljivo poda Jolanda Pibernik v delu Drugačnost: priročnik za učitelje likovnega pouka v osnovni šoli.
+»Beseda barva označuje dva pojma. Prvi pojem pomeni barvo kot fizično vsebino svetlobe. Drugi pojem označuje barvo kot snov, ki ima lastnost, da obarva brezbarvno snov.
+Barva kot fizična vsebina svetlobe je čutna zaznava, ki jo povzročajo svetlobni dražljaji, ko jih naše oko sprejema. Ta občutek v očesu naredi svetloba, oddana iz nekega vira, ali pa svetloba, ki se odbija od površine neke snovi.
+Fizikalna lastnost barve se nanaša na svetlobo. Svetloba se širi v valovih. Je vrsta elektromagnetnega valovanja, ki ga naše oko sprejme in ki se v naših možganih spremeni v določen svetlobni občutek. Svetlobni žarki so elektromagnetna valovanja točno določenih valovnih dolžin. /…/ Če svetloba določene valovne dolžine pride do našega očesa, izzove točno določeni dražljaj, ki ga občutimo oziroma vidimo kot barvo: rumeno, rdeče, modro. Če pride v naše oko šop svetlobnih žarkov vseh valovnih dolžin hkrati, tedaj to občutimo kot brezbarvnost, kot belo barvo. To dejstvo praktično pomeni, da če neka snov odbija vse svetlobne žarke, to je svetlobne valovne dolžine, tedaj snov vidimo kot belo. Bela barva je torej vidna samo na snovi, katere masa ima lastnost, da odbije vse valovne dolžine barvnega spektra.
+
+Nasprotno temu pojavu določena snov vpija vse žarke svetlobnih dolžin tako, da nobena svetlobna dolžina ne doseže našega očesa. Tedaj vidimo to snov kot črno. Iz tega sledi, da je črna barva vidna samo na snovi, ki ima lastnost, da vsrka vase večino ali vse valovne dolžine barvnega spektra.
+Tema je odsotnost svetlobe.« (Pibernik, 2006)
+»Barve so notranja doživetja, povsem drugačna od dražljajev, ki jih sprožijo. So psihična stvarnost, ki obstaja le v nas. V naravi ni rdeče, zelene, rumene ali modre barve, kot jih vidimo mi. So le svetlobni valovi z različnimi valovnimi dolžinami, ki se odbijajo od površin.« (Pečjak, 2006) 2.4.2 Delitev barv
+»Barve delimo na spektralne in nevtralne. Nevtralne barve so sive z belo in črno, spektralne barve pa so barve barvnega spektra. Le-te delimo na osnovne, sekundarne in terciarne.« (Vrlič, 2001a)
+Glede na barvne lastnosti delimo barve na pestre in nepestre. Pestre, pisane so barve svetlobnega spektra, torej barvnega kroga. Kadar pestre barve ne vsebujejo bele ali črne barve, jih imenujemo čiste barve. Nepestre, nebarvite, nevtralne oziroma neprave barve niso v barvnem krogu, lahko pa jih uvrstimo v lestvico sivih barv (slika 1), kjer se za belo barvo vrstijo svetlo sive in temno sive do črne barve. (Pibernik, 2006)
+»V dvanajstdelnem barvnem krogu (slika 2) so osnovne barve, sekundarne barve in terciarne barve tako urejene, da ustrezajo praktični rabi.« (Pibernik, 2006)
+
+Slika 1: Lestvica sivih barv z belo in črno
+Slika 2: Dvanajstdelni barvni krog 2.4.2.1 Osnovne barve ali barve prve stopnje
+Osnovne, primarne barve, prabarve so izhodiščne barve za vsako barvno mešanje.
+Vse ostale barve so produkt mešanja osnovnih barv, ki so osnova za druge barve.
+Osnovne barve so nesestavljeni ali primarni barvni toni. Ne moremo jih razstaviti na druge tone niti sestaviti iz drugih tonov, ker so izvirni. Osnovne barve so rdeča, modra in rumena.
+Osnovne barve so v dvanajstdelnem barvnem krogu razvrščene sredi kroga v obliki enakostraničnega trikotnika tako, da je rumena na vrhu, rdeča na desni in modra na levi spodaj (slika 2). (Pibernik, 2006)
+»Osnovne barve so barve, na katerih gradi vidni čut svojo zaznavno organizacijo barvnih sklopov.« (Vrlič, 2001a)
+2.4.2.2 Sekundarne barve ali barve druge stopnje
+Sekundarne barve so produkt mešanja dveh osnovnih barv. Vsaka sekundarna barva vsebuje dve osnovni barvi. Z mešanjem modre in rdeče dobimo vijolično barvo, iz rumene in modre nastane zelena barva, rdeča in rumena pa dasta oranžno barvo. Sekundarne barve so torej vijolična, zelena in oranžna barva. Mešanje dveh osnovnih barv z namenom ustvariti sekundarno barvo mora biti zelo natančno, da v dobljeni barvi ne prevladuje katera izmed dveh osnovnih barv.
+
+V barvnem krogu najdemo sekundarne barve v enakokrakih trikotnikih, ki obdajajo enakostranični trikotnik, v katerem so osnovne barve (slika 2). (Pibernik, 2006)
+2.4.2.3 Terciarne barve ali barve tretje stopnje
+Terciarne barve delimo na terciarne čiste barve in terciarne nevtralne barve.
+K terciarnim čistim barvam prištevamo tiste, ki nastanejo z mešanjem ene osnovne barve in ene sekundarne barve. To so barve med rumeno in oranžno, med oranžno in rdečo, med rdečo in modro, med modro in zeleno, med zeleno in rumeno. S takšnim mešanjem dobimo nove barve: oranžnorumeno, rdečeoranžno, rdečevijolično, modrovijolično, modrozeleno in rumenozeleno. Čiste terciarne barve tvorijo skupaj z osnovnimi in sekundarnimi barvami dvanajstdelni barvni krog (slika 2).
+Terciarne nevtralne barve dobimo, če mešamo sekundarno barvo z osnovno barvo, ki ji v barvnem krogu stoji diametralno nasproti. Nasproti si stojijo komplementarne oziroma dopolnilne barve: rumena – vijolična, rumenooranžna – modrovijolična, oranžna – modra, rdečeoranžna – modrozelena, rdeča – zelena, rdečevijolična – rumenozelena. Če te barvne pare razstavimo, vedno dobimo vse tri osnovne barve – rdečo, rumeno in modro. Če komplementarni barvi med seboj mešamo, se barvno nevtralizirata, barvna čistost pojenja, jasnost se izgublja, barvi se med seboj uničujeta. S takšnim mešanjem dobimo nevtralne rjave tone, rjavozelene, rjavomodre, vijoličnorjave in v končni fazi se barvi nevtralizirata v sivo barvo. (Pibernik, 2006) 2.4.3 Lastnosti barv
+Vsako barvo opredelimo s tremi vrednostmi: tonom, svetlostjo in barvno močjo.
+
+2.4.3.1 Barvni ton
+Barvni ton je ime barve in je določen po mestu, ki ga ima v barvnem krogu. Toni so lahko sestavljeni in nesestavljeni. Nesestavljeni toni so tri osnovne barve, sestavljeni pa sekundarne, terciarne in druge mešane barve. (Pibernik, 2006) 2.4.3.2 Barvna svetlost
+Barvna svetlost se povezuje s svetlobo, s svetlim, temnim, z osvetljenostjo in neosvetljenostjo barvnega tona. Fizikalno je najsvetlejša barva bela, najtemnejša pa črna. Če barvnemu tonu dodajamo belo, pomeni, da barvo svetlimo, če dodajamo črno, jo temnimo. Barvni ton določamo po količini bele ali črne barve v barvnem tonu.
+Nepestri barvni toni so toni, ki nastanejo z mešanjem bele in črne barve. To so vsi odtenki sive barve.
+Svetle pestre barve dobimo, ko čisto barvo zmešamo z belo. Zastrte, potemnjene, utišane pestre barve dobimo, ko čisto barvo zmešamo s črno. Motne pestre barve dobimo, ko čisto barvo zmešamo s sivo barvo. Vendar barvna svetlost ni odvisna le od svetlitve z belo in temnitve s črno barvo. Pestre barve v barvnem krogu so same po sebi svetlejše ali temnejše. Najsvetlejša je rumena, najtemnejša pa modra barva. Rdeča in zelena sta si po svetlosti enaki. (Pibernik, 2006) 2.4.3.3 Barvna moč
+Barvna moč (chroma) označuje stopnjo barvne nasičenosti, sevnosti in pestrosti.
+Od vseh barv v barvnem krogu ima največjo barvno moč rdeča barva, sledijo pa ji oranžna, rumena, zelena, modra in vijolična, ki ima najšibkejšo moč. (Pibernik, 2006)
+
+2.4.4 Barvna simbolika
+Simbol je znamenje, znak, prispodoba, stvar, ki ima v širšem in ožjem kulturnem okolju neki globlji, religiozni ali kako drugače nerazložljiv pomen, ki predstavlja več kakor le sebe in kaže na višji smisel.
+Simbolika barv izhaja iz psiholoških lastnosti barv. Rumena barva nas spominja na sonce, deluje veselo, živahno, je duhovita in spodbudna. Temnorjava spominja na bolezen, nedostojnost, strahopetnost, ljubosumnost, zavist, prevaro, izdajstvo.
+Oranžna deluje živahno in dražilno. Rdeča je najbolj privlačna in priljubljena; je stvarna, polnokrvna, temperamentna barva, spominja na primitivne strasti in čustva. Povezana je z jezo, borbo, hrabrostjo in ljubeznijo. Škrlatna vzbuja predstavo dostojanstva, bogastva in oblasti. Vijolična je odmaknjena, zamolkla, slovesna, deluje otožno in melanholično. Modra je vedrilna in pomirjajoča. Modre in zelene so oddaljene, breztelesne, atmosferske, učinkujejo sveže, lahkotno, zračno. Bela je blesteča, zračna, je barva nedolžnosti, pravice in miroljubja. Črna je zamolkla, težka, slovesna in globoka; je barva tajinstvenosti, zagonetnosti, groze in zla. (Pibernik, 2006)
+2.4.5 Funkcionalna vrednost barve v prostoru in njen vpliv na človeka »Funkcionalno je tisto, kar ima poudarek na namenskosti, tisto, kar ustreza namenu in rabi.« (Pibernik, 2006)
+»Fizični, psihični in celo fiziološki vpliv barv na človeka je bolj ali manj splošno znan pojav. Posebno močno pa vplivajo barve na otroke, pri katerih je eidetičnost in odvisnost od nazornih predstav neprimerno večja kot pri odraslih.« (Trstenjak, 1996)
+»Kot vsa zaznavanja imajo tudi barve svojo emocionalno iradiacijo. Že Goethe je dejal: »Izkušnja kaže, da vsaka barva izzove posebno čustveno razpoloženje.« V tem smislu ima vsaka barva svojo posebno energijo in posebno vrednost. Tako nas na primer rdeča, rumena in oranžna delajo živahnejše, modra in zelena pa delujeta nežno in pomirjujoče. Žal se moderna psihologija še danes ni dvignila preko Goethejeve ugotovitve, ker so tudi danes eksaktne raziskave kvantitativnih emocionalnih vplivov barve še nedosegljive.« (Trstenjak, 1996)
+
+»Uspeh, ki ga hočemo s funkcionalnostjo barve v šoli doseči, je predvsem v naslednjem: 1. da dvigamo učencem prijetno počutje v šolskih prostorih, 2. da zmanjšujemo vizualno utrujenost in vizualne motnje, 3. da stopnjujemo sodelovanje učencev z učiteljem in 4. da jih spodbujamo k disciplini, smislu za red in snago.« (Trstenjak, 1996)
+Trstenjak v delu Psihologija barv v poglavju Barva in prostor v šoli obravnava le šolske prostore. Šolskim in vrtčevskim prostorom je skupno, da v njih bivajo otroci, a zaradi različnih načinov vzgojnega oz. pedagoškega dela obstajajo pomembne razlike. Določena dejstva glede barv prostorov, ki veljajo za šole, ne veljajo nujno za vrtce.
+Trstenjak piše, da je za barve sten, kamor je pogled učencev prvenstveno usmerjen, najbolje izbrati hladne tone (najbolje razredčeno zelena ali sinje modra barva), ki nam stene optično oddaljijo in tako prostor subjektivno povečajo in razširijo. To v šoli torej velja za sprednjo steno v razredu, kamor so učenci obrnjeni ves čas pouka. V vrtcu je narava dela drugačna, sprednja stena kot taka ne obstaja, a uporaba hladne barve bi lahko bila prav tako smiselna, če bi želeli optično povečati prostor. Pri tem je pomembno, da barve niso nasičene, saj sicer učinkujejo otožno in depresivno.
+Za steno, v kateri so okna, Trstenjak pravi, da mora biti v svetlih barvah, ki morajo biti barvno usklajene z barvami ozadja, da ne pride do premočnega kontrasta. Če to upoštevamo, »dobimo zaželeni barvni prostorninski učinek: nenasičena svetla barva stene se prilagaja s svetlobo oken, da z njo vred napravlja vtis skoraj nekakšne prosojnosti in se tako zliva z barvami ozadja«; dimenzije prostora se zdijo večje. To velja upoštevati tudi pri barvnem opremljanju vrtcev.
+Vhodna veža in hodniki naj bodo pobarvani s toplimi in živahnimi barvami, ki človeka navdušijo, ogrejejo, obenem pa prostore navidezno zožujejo in približujejo in otroka ob vstopu pritegujejo, sprejmejo vase. Poleg tega naj bi bili hodniki, ki so po navadi temnejši, prebarvani s svetlimi barvami, da vanje vnesejo čim več svetlobe.
+
+Za zadnjo steno v razredu Trstenjak pravi, da naj bi bila v topli barvi, ki deluje prijetno, toplo in vabljivo, učitelja pa spodbuja, da je živahnejši pri pouku. V vrtčevski igralnici praviloma nobena stena ni definirana kot zadnja, pa vendar bi primerno uporabljena topla barva lahko imela pozitiven učinek.
+Že omenjeno vizualno utrujenost je moč zmanjšati z uporabo mirnih barv, ki so istovetne s hladnimi. Tople barve utrujajo hitreje, so izzivalnejše.
+Za dobro vidljivost v prostoru poskrbimo tako, da opremimo strop s čim svetlejšo barvo, da odseva čim več svetlobe, ki se dobro razprši po prostoru. Pomembno je tudi, da se nobena površina ne blešči.
+Pariški zdravnik za šolsko in univerzitetno higieno Delamarre opozarja na pojav, da barve na velikih ploskvah napravijo precej drugačen vtis kakor na majhnih, zato bi se naj v šolskih prostorih izogibali barvam, ki na velikih ploskvah posebno močno utrujajo, izzivajo, uspavajo ali deprimirajo. Med te barve sodijo nasičena rdeča, oranžna, vijolična, bela, črna ter rjava.
+Trstenjak podaja okvirne smernice za uporabo barv v šolskih prostorih. Izogibali naj bi se beli barvi, ki je primerna le za strope; rjave, ki je pusta; črne, ker jemlje preveč svetlobe; in rdeče, ki je preveč vznemirljiva. Priporoča uporabo rumene in njenih odtenkov; vodeno zelene; sinje modre; bež; biserno sive. (Trstenjak, 1996) Barve vplivajo na naše misli in čustva. Na nekatere barve in barvne odnose se ljudje odzivamo enako, nekateri barvni vplivi pa imajo individualni značaj.
+Ljudje, ki imajo radi pestre in kontrastne barve, so vitalni, mladi in zdravi, medtem ko se starejši ljudje, ki jim življenjska moč upada, izogibajo pestrim barvam. Pestre in kontrastne barve učinkujejo navzven, nas razvedrijo in psihično razgibajo, nepestre in nevtralne barve pa nas psihično pomirijo in užalostijo.
+Znanost o funkcionalnosti barve se je začela razvijati po drugi svetovni vojni.
+Spoznanje, da ima barva v našem življenju in pri našem delu posebno funkcijo, da je pomembna tako za industrijo kot medsebojne odnose, je vodilo k vse bolj premišljeni in načrtovani uporabi barv v človekovem okolju. Raziskovalci barve v človeških dejavnostih so odkrili zanimive učinke barv: večje veselje do dela, zmanjšanje nesreč, stopnjevano občutje zdravja, manj potrtosti in splošne utrujenosti, prisebnejše zadržanje pri nesrečah zaradi signalnih barv itd.
+Kompatibilnost barve z značajem dela ter fiziološkimi in psihičnimi potrebami ljudi je postala pomembnejša od estetske vrednosti barve. (Pibernik, 2006) O psihičnem učinku barve na človeka Pibernikova (2006) piše takole: »Močnejši in upoštevanja vreden je psihični učinek barve na človeka, to je učinek, ki najde pot do duše. Vsakdo ve, da rumena, oranžna in rdeča barva vzpodbujajo ter predstavljajo ideje radosti in obilja. Topla rdeča deluje vzburljivo. Ta rdečina lahko stopnjuje občutek do mučnosti, ker spominja na kri. Svetlorumena zaradi asociacije z limono daje občutek kislosti. Rezka limonina rumena po daljšem času oko zaboli, da postane nemirno.
+
+Poglobitve in miru išče v modrini in zelenini.«
+Za uporabo funkcionalnih barv v notranjih prostorih, šolah, posebnih šolah, bolnišnicah itd. obstajajo izdelana priporočila.
+Barva vpliva tudi na čistočo in disciplino. Otroci manj čečkajo in mažejo stene, če so pobarvane rumeno. Svetle barve naredijo šolske prostore mnogo lepše in prijetnejše ter bolj vabljive za otroke. (Pibernik, 2006) O učinkih barve na človeka je pisal tudi Adlešič v delu Svet svetlobe in barv (1957).
+Rumena barva: Pozitivno vpliva na živčni sistem, negativno na dihalne organe.
+Svetlorumene stene dajejo občutek za 2 °C do 4 °C višje temperature v prostoru.
+Oranžna barva: Je izraz moškosti, samozavesti, praktične aktivnosti. Vpliva na tvorbo kosti. Nekatera duševna stanja pomiri, lahko pa tudi vznemirja.
+Rdeča: Pozitivno vpliva na tvorbo rdečih krvničk, negativno pa na število utripov srca. Poveča napetost mišic ter povzroča visok krvni pritisk ter intenzivno dihanje.
+Je barva strasti. Kljub vsemu nekateri psihologi priporočajo njeno uporabo v učilnicah.
+Škrlatna: Pomirja, lahko vodi v melanholijo. Uporabljajo jo za paradne obleke in noše. Pripisujejo ji nežen, zračen, osvežujoč učinek.
+Vijolična: Pozitivno vpliva na zgradbo okončin, negativno na živčni sistem.
+Vijolične stene učinkujejo resno, svečano in dokaj toplo. Pozitivno vpliva na organsko odpornost srca in pljuč.
+Modra: Raje jo imajo resne in mirne osebe, ob njej se dobro počutijo potrti ljudje.
+Na mehur deluje negativno. Pod vplivom modre napetost mišic pojenja. Lahko zmanjša krvni pritisk ter umiri dihanje in srčni utrip. Modra naj bi silila običajno razpoložene ljudi k premikanju, razburjene pa pomirjala in usmerjala vase. Zato opremljajo dandanes hodnike in stopnišča z modro barvo.
+
+Zelenomodra: Pozitivno vpliva na občutke, ki nam jih posreduje koža.
+Zelena: Izraža mirnost in premišljevanje, lahko tudi naivnost in praznoto. Pomaga pri živčni utrujenosti in histeriji. Dobro vpliva na potrpežljivost. Zelena svetloba razširja kapilare in znižuje krvni pritisk.
+Zelenorumena: Pozitivno deluje na dihalne organe. Svetle in čiste zelenorumene stene učinkujejo osvežujoče. Občutimo jo kot nekaj srednjega med toplimi in hladnimi barvami. (Adlešič, 1957).
+2.5 Predstavitev Vzgojno-varstvenega zavoda Slovenj Gradec
+»Vemo, da ne moremo zamenjati družine oziroma staršev. S kakovostnim sodelovanjem pa lahko veliko prispevamo k ustreznemu dopolnjevanju družinske vzgoje ter vam pomagamo v skrbi za varstvo, vzgojo in izobraževanje vašega otroka. Da bi bil v vaši odsotnosti otrok v varnem okolju in da bi v družbi vrstnikov ter ob vodenju in podpori strokovno usposobljenih odraslih pridobil raznovrstne izkušnje, se bomo trudili s tem, da bo dobil kar največ spodbud za zdrav celostni razvoj ter razvoj potencialov na vseh področjih. Omogočili mu bomo aktivno učenje preko igre, raziskovanja, ustvarjanja in doživljanja.« (Vaukan, Klemenc, Pori, Špegelj in Šumnik, 2012)
+Vzgojno-varstveni zavod Slovenj Gradec sta ustanovili Mestna občina Slovenj Gradec in Občina Mislinja. Vodi ga diplomirana vzgojiteljica Ivica Vaukan.
+Vrtec je razdeljen na sedem enot, v katerih je skupaj dvainštirideset oddelkov.
+Enote so poimenovane po naseljih, v katerih se nahajajo, razen enoti Maistrova ter Celjska, ki sta poimenovani po ulicah. Vsaka enota ima svojega vodjo.
+
+Enote vrtca so:
+- Maistrova (osemnajst oddelkov v enoti, en oddelek v naselju Sele);
+- Legen (trije oddelki);
+- Šmartno (pet oddelkov);
+- Podgorje (trije oddelki);
+- Pameče (dva oddelka);
+- Mislinja (sedem oddelkov v enoti, en oddelek v naselju Dolič);
+- Celjska (dva oddelka).
+Vrtec ima tudi bolnišnični oddelek za predšolske otroke, ki spada pod enoto Maistrova.
+Enote vrtca se med seboj »razlikujejo po legah, velikosti, stavbah, opremi, programskih poudarkih, pristopih in klimi, saj menimo, da se mora vsak vrtec razvijati glede na specifičnost okolja, v katerem se nahaja. Vse enote delujejo po enakih osnovnih izhodiščih za vzgojno delo« (Vaukan, Klemenc, Pori, Špegelj in Šumnik, 2012). Program Vzgojno-varstvenega zavoda Slovenj Gradec temelji na Kurikulumu za vrtce, nacionalnem dokumentu, ki opredeljuje vzgojno- izobraževalno delo s predšolskimi otroki in je dobra strokovna podlaga za načrtovanje in izvajanje dela. Vrtec izvaja dnevni program.
+Delo poteka v dveh starostnih obdobjih:
+- prvo starostno obdobje (otroci v starosti od enega do treh let);
+- drugo starostno obdobje (otroci v starosti od treh do šestih let oz. do vstopa v šolo).
+Oddelki vrtca so opredeljeni glede na starost otrok, ki so vključeni v oddelek.
+Otroci so lahko vključeni v:
+- homogeni oddelek (otroci enake starosti oz. starosti v razponu enega leta);
+- heterogeni oddelek (otroci različnih starosti prvega starostnega obdobja oz. od enega do treh let ali drugega starostnega obdobja oz. treh do šest let);
+- kombinirani oddelki (otroci različnih starosti od enega do šestih let).
+
+Tabela 1: Podrobnejši pregled enot VVZ Slovenj Gradec in njihovih oddelkov Enota Oddelki v enoti
+Celjska 2 homogena oddelka 1. starostnega obdobja Legen 1 kombinirani oddelek
+2 homogena oddelka 2. starostnega obdobja Maistrova 6 heterogenih oddelkov 1. starostnega obdobja 5 kombiniranih oddelkov
+7 heterogenih oddelkov 2. starostnega obdobja 1 homogeni oddelek 2. starostnega obdobja Mislinja 2 homogena oddelka 1. starostnega obdobja 3 kombinirani oddelki
+2 homogena oddelka 2. starostnega obdobja 1 heterogeni oddelek 2. starostnega obdobja Pameče 1 kombinirani oddelek
+1 heterogeni oddelek 2. starostnega obdobja Podgorje 2 kombinirana oddelka
+1 heterogeni oddelek 2. starostnega obdobja Šmartno 2 kombinirana oddelka
+1 heterogeni oddelek 2. starostnega obdobja 2 homogena oddelka 2. starostnega obdobja 3 Empirični del 3.1 Namen
+
+V empiričnem delu diplomske naloge želimo:
+- ugotoviti, v kolikšni meri likovna podoba Vzgojno-varstvenega zavoda Slovenj Gradec ustreza strokovnim zahtevam in smernicam;
+- izpostaviti, katere so pozitivne in katere negativne strani likovne podobe Vzgojno-varstvenega zavoda Slovenj Gradec;
+- predlagati, kako izboljšati likovno podobo Vzgojno-varstvenega zavoda Slovenj Gradec.
+3.2 Razčlenitev, podrobna opredelitev in omejitev raziskovalnega problema
+3.2.1 Raziskovalna vprašanja
+1. Kakšne so barve ometa zunanjih zidov vrtca? Ali so primerne?
+2. Ali ima vrtec kakršne koli poslikave na zunanjih zidovih? Ali so primerne?
+3. Ali obstajajo kakršne koli druge lastnosti zunanjosti vrtca, ki zadevajo njegovo likovno podobo?
+4. Kakšne so barve sten notranjih prostorov vrtca? Ali so primerne?
+5. Koliko otroških likovnih izdelkov je razstavljenih v posameznem oddelku vrtca in kako so razstavljeni?
+6. Ali so v prostorih, kjer bivajo otroci, prisotni neprimerni otroški likovni izdelki (izdelki z očitnim posegom odrasle osebe, šablone …)? Koliko jih je skupaj na enoto vrtca?
+7. Ali so v prostorih, kjer bivajo otroci, prisotne reprodukcije umetniških del ali originalna umetniška dela?
+
+8. Ali so v prostorih, kjer bivajo otroci, prisotne ilustracije? Koliko jih je?
+9. Ali so v prostorih, kjer bivajo otroci, prisotne fotografije? Koliko jih je na enoto vrtca?
+10. Ali so v prostorih, kjer bivajo otroci, prisotne likovno nekakovostne aplikacije in dekoracije odraslih oseb? Za kakšne aplikacije gre?
+11. Kakšne so ostale aplikacije z morebitno likovno vsebino (znaki otrok, skupin, plakati, oglasna deska, tematski sklop)?
+3.2.2 Raziskovalne hipoteze
+H1 Predvidevamo, da so barve fasad oziroma ometa zunanjih zidov enot zavoda primerne, torej nežne.
+H2 Predvidevamo, da so zunanje površine poslikane in da so poslikave primerne, torej delo otrok ali likovnih umetnikov.
+H3 Predvidevamo, da verjetno obstajajo tudi druge lastnosti zunanjosti vrtca, ki zadevajo njegovo likovno podobo.
+H4 Predvidevamo, da so barve sten notranjih prostorov primerne, torej nežne.
+H5 Predvidevamo, da so v prostorih, kjer bivajo otroci, prisotni dobri otroški likovni izdelki ter da so večinoma pritrjeni na stene oziroma postavljeni na pohištvo.
+H6 Predvidevamo, da so v prostorih, kjer bivajo otroci, prisotni neprimerni otroški likovni izdelki.
+H7 Predvidevamo, da so v prostorih, kjer bivajo otroci, prisotne reprodukcije umetniških del oziroma originalna umetniška dela.
+H8 Predvidevamo, da so v prostorih, kjer bivajo otroci, prisotne kakovostne ilustracije.
+H9 Predvidevamo, da so v prostorih, kjer bivajo otroci, prisotne fotografije.
+H10 Predvidevamo, da so v prostorih, kjer bivajo otroci, prisotne likovno nekakovostne aplikacije in dekoracije odraslih oseb.
+H11 Predvidevamo, da so poleg gornjih v vrtcu prisotne še ostale aplikacije z morebitno likovno vsebino (znaki otrok in skupin, plakati, oglasna deska, tematski sklop).
+
+3.3 Metodološka opredelitev 3.3.1 Raziskovalne metode
+Pri izdelavi diplomske naloge smo uporabili deskriptivno raziskovalno metodo.
+3.3.2 Raziskovalni vzorec
+Raziskovalni vzorec, ki smo ga uporabili, je iz konkretne populacije in je neslučajnostni. Analizirali smo vse enote Vzgojno-varstvenega zavoda Slovenj Gradec. V vsaki enoti smo glede na velikost enote izbrali primerno število oddelkov, skupne prostore, v katerih bivajo otroci, pa smo analizirali povsod in vse. V vseh sedmih enotah smo od skupno dvainštiridesetih oddelkov analizirali dvaindvajset oddelkov, med katerimi je pet oddelkov prvega starostnega obdobja, osem kombiniranih oddelkov ter devet oddelkov drugega starostnega obdobja.
+Spodnja tabela prikazuje razporeditev analiziranih oddelkov po enotah.
+Tabela 2: Razporeditev analiziranih oddelkov po enotah Enota Izbrani oddelki
+Celjska 2 homogena oddelka 1. starostnega obdobja Legen 2 homogena oddelka 2. starostnega obdobja Maistrova 2 heterogena oddelka 1. starostnega obdobja 2 kombinirana oddelka
+2 heterogena oddelka 2. starostnega obdobja Mislinja 1 homogeni oddelek 1. starostnega obdobja 1 kombinirani oddelek
+2 homogena oddelka 2. starostnega obdobja Pameče 1 kombinirani oddelek
+1 heterogeni oddelek 2. starostnega obdobja Podgorje 1 kombinirani oddelek
+1 heterogeni oddelek 2. starostnega obdobja Šmartno 2 kombinirana oddelka
+
+1 heterogeni oddelek 2. starostnega obdobja 1 homogeni oddelek 2. starostnega obdobja 3.3.3 Postopki zbiranja podatkov
+Podatke smo pridobili kvantitativno s strukturiranim opazovanjem ter z ocenjevalno lestvico (Priloga 1 – Obrazec za oceno kvalitete likovne podobe vrtca).
+3.3.3.1 Organizacija zbiranja podatkov
+Podatke smo zbirali od 19. maja do 8. junija 2012 v enotah Vzgojno-varstvenega zavoda Slovenj Gradec. Delo smo opravili s fotografiranjem, pri čemer smo posneli fotografije vseh prostorov, v katerih bivajo otroci (igralnice, hodniki, garderobe, umivalnice, toaletni prostori) ter fotografije zunanjosti vrtcev. Prostore oziroma dele vrtca smo fotografirali sistematično, po vrsti. Pri delu smo sledili že pripravljenim kriterijem za oceno kvalitete likovne podobe vrtca.
+3.3.3.2 Vsebinsko metodološke značilnosti uporabljenih instrumentov Ocenjevalni obrazec s kriteriji za oceno kvalitete likovne podobe vrtca je oblikovan v tabeli. Zajeti so vsi vidiki ocenjevanja likovne podobe, ki smo jih zastavili na podlagi preučevanja ter študija strokovne literature in za katere menimo, da bodo omogočili objektivno oceno likovne podobe.
+
+3.3.4 Postopki obdelave podatkov
+Podatke smo obdelali kvantitativno in jih izrazili v absolutnih in odstotnih frekvencah. Predstavili smo jih v tabelah ter jih interpretirali.
+3.4 Rezultati in interpretacija
+Rezultate bomo predstavili in interpretirali glede na zastavljene kriterije v enakem vrstnem redu, kot si kriteriji sledijo na obrazcu (Priloga 1 - Kriteriji za oceno kvalitete likovne podobe vrtca).
+Za lažje razumevanje rezultatov in boljšo splošno orientacijo na začetku navajamo preglednico, ki prikazuje razmerje med številom oddelkov, ki smo jih analizirali, ter starostnim obdobjem, v katerega posamezni oddelek sodi.
+Tabela 3: Razmerje med številom analiziranih oddelkov in starostnim obdobjem, v katerega sodijo
+ANALIZIRANI ODDELKI f f %
+1. starostno obdobje 5 22,7 2. starostno obdobje 10 45,5 Kombinirani oddelki 7 31,8 Skupaj 22 100
+Zgornja tabela prikazuje, da je 22,7 odstotkov analiziranih oddelkov iz prvega starostnega obdobja, 40,9 odstotkov oddelkov iz drugega starostnega obdobja, 36,4 odstotkov oddelkov pa je kombiniranih.
+
+3.4.1 Zunanja podoba vrtca
+Zunanjo podobo vrtca smo analizirali na podlagi barv ometa in poslikav zunanjih površin. V preglednico smo dodali še prostor za morebitne druge lastnosti, ki bi lahko vplivale na zunanjo podobo vrtca.
+Tabela 4: Kriteriji za analizo zunanje podobe vrtca (barva ometa, poslikave zunanjih površin, druge lastnosti) Enota Barva fasade Poslikave zunanjih površin Druge lastnosti Celjska Nežna
+Legen Nežna Da Lesena skulptura v neposredni bližini vrtca.
+Maistrova Nežna (stari del) Močna (novi del) Da /
+Mislinja Nežna / /
+Pameče Nežna / Na igrišču blizu vhoda je betonski kvader, ki je z vseh strani obdan s šolskimi tablami, na katere lahko otroci rišejo (ali pišejo).
+Podgorje Nežna / / Šmartno Nežna Da /
+Iz tabele je razvidno, da imajo vse enote fasado nežnih barv (za primer slika 3 in slika 4), izjema je le enota Maistrova, katere prizidek oziroma novi del je pobarvan v dokaj intenzivni barvi (slika 5). Kljub temu menimo, da barva ni izstopajoča oziroma moteča, saj se zlije z okolico. Arhitekti so barvo fasade povzeli po okoliških stanovanjskih blokih.
+Poslikave zunanjih površin vrtca smo opazili pri treh enotah, to so Legen (slika 6), Maistrova (slika 7) in Šmartno (slika 8). V enotah Legen in Maistrova so avtorji poslikav večinoma otroci pod mentorstvom strokovnih delavcev, opazili pa smo tudi nekaj slik odraslih oseb oziroma strokovnih delavcev; v enoti Šmartno pa so avtorji poslikav v celoti strokovni delavci. Zelo dobro je, da so v dveh enotah otroci dobili možnost za likovno opremljanje fasad vrtcev, še bolje pa bi bilo, če bi poslikave bile v celoti njihovo delo. V teoriji smo navedli, da so samo najboljša umetniška dela dovolj dobra za otroka, zato menimo, da poslikave strokovnih delavcev niso dobra izbira pri likovnem urejanju otrokovega okolja.
+
+Druge lastnosti, ki bi vplivale na zunanjo likovno podobo vrtca, smo opazili pri dveh enotah. Enota Legen ima v neposredni bližini zgradbe majhen park, v katerem je postavljena lesena skulptura (slika 9), enota v Pamečah pa ima na igrišču blizu vhoda v vrtec betonski kvader, ki je z vseh strani obdan s šolskimi tablami, na katere lahko otroci rišejo in pišejo (slika 10). Menimo, da lesena skulptura v neposredni bližini vrtca pripomore k bolj razgibani in zanimivi likovni podobi okolice vrtca, polega tega pa je lahko dobro izhodišče za likovno delo z otroki. Prav tako kvader s šolskimi tablami pozitivno vpliva na zunanjo likovno podobo vrtca, če so na tablah risbe otrok.
+Slika 3: Enota Mislinja (nežna barva fasade) Slika 4: Enota Podgorje (nežna barva fasade) Slika 5: Novi del zgradbe enote Maistrova (intenzivna barva fasade) Slika 6: Poslikava enote Legen Slika 7: Poslikava zunanjosti enote Maistrova
+
+Slika 8: Poslikava zunanjosti enote Šmartno
+Slika 9: Lesena skulptura ob enoti Legen Slika 10: Betonski kvader s tablami v enoti Pameče
+
+3.4.2 Notranja podoba vrtca 3.4.2.1 Barve prostorov
+Pri analizi barve prostorov nas je zanimalo, ali so te močne ali nežne.
+Tabela 5: Barve prostorov – močne ali nežne Enota Močne Nežne Celjska X Legen X
+Maistrova X
+(v skupnih prostorih v pritličju preveč rumenih površin) Mislinja X Pameče X Podgorje X Šmartno X
+Ugotovili smo, da so v vseh enotah prostori pobarvani z nežnimi barvami (slike od 11 do 15) To je dobro, saj lahko močne barve negativno vplivajo na človeka. V enoti Maistrova smo opazili, da je v hodnikih ter ostalih skupnih prostorih v pritličju uporabljene nekoliko preveč rumene barve (slika 16). Rumene so stene, elementi garderob, vrata v igralnice in toaletne prostore. Poleg tega so ploščice v garderobah in umivalnicah rumeno-rjave barve, lesen strop v vseh prostorih pa rjav. Vse to daje prostorom občutek zaprtosti in kljub veliko svetlim, rumenim površinam prostor deluje temno. Po eni strani je to dobro, saj mora obstajati razlika med hodniki in igralnicami; otrok mora ob vstopu iz hodnika v igralnico začutiti, da je prišel v svetel in zračen prostor. Kljub temu menimo, da bi bilo bolje, da rumena barva ne bi tako izrazito dominirala, mogoče tudi, da strop ne bi bil rjav. Rumeno barvo bi lahko uporabili v kombinaciji s katero drugo, npr. oranžno ali marelično, strop bi pobarvali s svetlejšo barvo.
+
+Slika 11: Nežna barva sten v igralnici Slika 12: Nežna barva sten v igralnici Slika 13: Nežna barva sten v igralnici Slika 14: Nežna barva sten v garderobi Slika 15: Nežna barva sten na hodniku Slika 16: Enota Maistrova, pritličje 3.4.2.2 Primerni otroški likovni izdelki
+
+Z vidika likovno-pedagoške teorije so primerni oziroma dobri otroški likovni izdelki tisti, ki so plod otroške ustvarjalnosti, ki ne vsebujejo šablon in vanje ni posegala roka odrasle osebe ter so ustvarjeni v primerni likovni tehniki.
+Pri obravnavanju primernih otroških likovnih izdelkov smo želeli dobiti okvirno količino izdelkov v igralnicah in skupnih prostorih. V ta namen smo v kriterijih za oceno likovne podobe izdelali tabelo (Priloga 1 – Obrazec za oceno kvalitete likovne podobe vrtca), v katero smo glede na okvirno število primernih likovnih izdelkov uvrstili posamezen oddelek in skupne prostore vrtca (torej vse prostore, v katerih se zadržujejo otroci). Prostore, kjer je štirinajst ali manj izdelkov, smo uvrstili v prvi stolpec, tiste, v katerih je med petnajst in štiriindvajset izdelkov, v drugi stolpec, prostore s petindvajset ali več izdelki pa v tretji stolpec. V četrti stolpec smo napisali opažanja, kje se izdelki nahajajo in kako so razstavljeni.
+Številske meje, ki smo jih zastavili, so takšne zaradi trenutnih normativov v vrtcu.
+V prvem starostnem obdobju je največje možno število otrok štirinajst, v drugem starostnem obdobju pa štiriindvajset. Strokovni delavci praviloma poskrbijo za to, da je vsaj en izdelek vsakega otroka razstavljen v igralnici oziroma v ostalih prostorih.
+Tabela 6: Prisotnost otroških likovnih izdelkov v igralnicah oziroma oddelkih Število izdelkov Od 0 do 14 Od 15 do 24 25 in več Oddelki prvega starostnega obdobja 3 2 0
+Oddelki drugega starostnega obdobja 0 2 8
+Kombinirani oddelki 2 2 3
+Skupaj 5 6 11
+Delež v odstotkih % 22,7 27,3 50
+
+Tabela 7: Prisotnost otroških likovnih izdelkov v skupnih prostorih Število izdelkov Od 0 do 14 Od 15 do 24 25 in več Skupni prostori 2 1 4
+Delež v odstotkih % 28,6 14,3 57,1
+Iz tabele 6 lahko razberemo prisotnost otroških likovnih izdelkov v oddelkih vrtca. Od 0 do 14 izdelkov je bilo prisotnih v petih oddelkih, od tega so bili trije oddelki prvega starostnega obdobja, dva pa kombinirana oddelka. Od 15 do 24 izdelkov smo opazili v šestih oddelkih, med katerimi sta bila dva oddelka prvega starostnega obdobja, dva oddelka drugega starostnega obdobja in dva kombinirana oddelka. Več kot 25 izdelkov je bilo prisotnih v enajstih oddelkih, od katerih je bilo osem oddelkov drugega starostnega obdobja ter trije kombinirani oddelki. Na podlagi tega smo izračunali, da je v 22,7 odstotkih oddelkov bilo prisotnih od 0 do 14 otroških likovnih izdelkov, v 27,3 odstotkih oddelkov je bilo od 15 do 24 izdelkov in v 50 odstotkih oddelkov 25 ali več izdelkov. Opazimo lahko, da je v oddelkih drugega starostnega obdobja več izdelkov kot v oddelkih prvega starostnega obdobja, kar je logično, saj je v oddelkih drugega starostnega obdobja več otrok, poleg tega pa je povsem verjetno tudi, da se v prvem starostnem obdobju izvaja manj likovnih dejavnosti.
+Tabela 7 prikazuje prisotnost otroških likovnih izdelkov v skupnih prostorih enot vzgojno-varstvenega zavoda. Od sedmih je bilo v dveh skupnih prostorih enot od 0 do 14 izdelkov, v enem primeru je bilo od 15 do 24 izdelkov, v štirih skupnih prostorih pa 25 ali več izdelkov.
+Izdelki so v vseh prostorih bili pritrjeni na stene ali postavljeni na pohištvo.
+Glede na zbrane podatke menimo, da je v vrtčevskih prostorih zadovoljivo število otroških likovnih izdelkov. Nekateri oddelki jih imajo več, nekateri manj, odvisno od starostnega obdobja in trenutnega dela v oddelku. Število izdelkov v prostorih se zaradi narave dela spreminja, kljub temu pa naš prikaz podatkov poda okvirno sliko stanja, ki je po našem mnenju dobro.
+
+Slika 17: Dobri otroški izdelki, drugo starostno obdobje
+Slika 18: Dobri otroški izdelki, prvo starostno obdobje
+Slika 19: Dobri otroški likovni izdelki, kombinirani oddelek
+Slika 20: Dobri otroški likovni izdelki, kombinirani oddelek
+3.4.2.3 Neprimerni otroški likovni izdelki
+Poleg dobrih in ustvarjalnih otroških likovnih izdelkov se v vrtcih pojavljajo tudi neprimerni otroški likovni izdelki. To so izdelki, v katere je zelo očitno posegla odrasla oseba, različni šablonski izdelki ter ostali izdelki, pri katerih se otroci niso mogli izraziti v vsej svoji ustvarjalnosti.
+Upoštevali smo le najočitnejše neprimerne izdelke. Dejstvo je, da se število teh likovnih izdelkov v enotah spreminja, poleg tega pa nanj vpliva velikost enote.
+Naši podatki zato služijo le kot splošen vpogled v dejansko stanje.
+
+Tabela 8: Prisotnost neprimernih otroških likovnih izdelkov v enotah vrtca Enota
+Število neprimernih otroških likovnih izdelkov Od 0 do 15 Od 16 do 30 31 in več Celjska × Legen ×
+Maistrova × Mislinja × Pameče × Podgorje × Šmartno ×
+V tabeli 8 vidimo, da je v dveh enotah bilo prisotnih med 0 in 15 neprimernih otroških izdelkov in v petih enotah 31 ali več izdelkov, v nobeni enoti pa ni bilo prisotnih med 16 in 30 izdelkov. V teoriji smo predstavili pomen likovno kakovostnega okolja za (predšolske) otroke; otrok naj bo v stiku le z najboljšimi umetniškimi deli ter dobrimi, ustvarjalnimi in izvirnimi otroškimi likovnimi deli.
+Otroški likovni izdelki, v katere se je na neprimeren in didaktično neustrezen način vmešala odrasla oseba, potemtakem niso dober vzor in ne služijo kot ustvarjalna spodbuda za otroka.
+Na podlagi zbranih podatkov menimo, da je v enotah Vzgojno-varstvenega zavoda Slovenj Gradec prisotnih veliko neprimernih otroških likovnih izdelkov.
+Ta pojav bi lahko odpravili s spremembo načinov načrtovanja in dela pri likovnih dejavnostih.
+Slika 21: Šablonsko upodobljene pikapolonice in žabe; kombinirani oddelek Slika 22: Šablonsko upodobljene čebele; prvo starostno obdobje
+
+Slika 23: Šablone krtkov, ki so jih pobarvali otroci; drugo starostno obdobje Slika 24: Šablonsko upodobljeni polži; drugo starostno obdobje
+3.4.2.4 Originalna umetniška dela ali njihove reprodukcije V teoretičnem delu smo med drugim navedli pomembnost prisotnosti umetniških del ali njihovih kakovostnih reprodukcij v prostorih, kjer bivajo otroci.
+Tabela 9: Prisotnost originalnih umetniških del ali njihovih reprodukcij v enotah vrtca Enota Prisotnost umetniških del Celjska Ne
+Legen Da (na steni hodnika na višini približno dva in pol metra) Maistrova Ne Mislinja Ne Pameče Ne Podgorje Ne Šmartno Ne
+Pri opazovanju in zbiranju podatkov smo ugotovili, da v nobeni enoti niso prisotna umetniška dela ali reprodukcije, razen v enoti Legen. Tam smo opazili eno originalno umetniško delo neznanega avtorja in naslova. Visi na steni pred eno izmed dveh igralnic drugega starostnega obdobja na višini približno dva metra in pol (slika 24). To je visoko celo za odraslega človeka, otroci pa slike na takšni višini skorajda ne morejo opaziti, kaj šele da bi si jo dobro ogledali.
+
+Slika 25: Umetniško delo na hodniku enote Legen
+Na podlagi zgornjih podatkov lahko zapišemo, da je v vrtcu slabo poskrbljeno za stik otrok z umetniškimi deli. Menimo, da bi vsak oddelek moral imeti nekaj reprodukcij umetniških del. To bi dvignilo kakovost likovne podobe, obogatilo likovne dejavnosti ter, kar je najpomembnejše, pozitivno vplivalo na razvoj otrok.
+3.4.2.5 Kakovostne ilustracije
+Kakovostne ilustracije so za otroke enako pomembne kot umetniška dela, poleg tega pa so ustvarjene posebej zanje in so jim vsebinsko ter vizualno najbližje.
+Dobre ilustracije bogatijo otrokovo okolje, njegov zunanji in notranji svet, vplivajo na njegovo ustvarjalnost in so najboljši estetski vzor.
+Tabeli 10 in 11 prikazujeta prisotnost kakovostnih ilustracij v oddelkih ter skupnih prostorih enot vrtca.
+
+Tabela 10: Prisotnost kakovostnih ilustracij v oddelkih vrtca Število ilustracij Od 0 do 10 Od 11 do 20 21 in več Oddelki prvega starostnega obdobja 1 1 3
+Oddelki drugega starostnega obdobja 2 1 7
+Kombinirani oddelki 3 1 3
+Skupaj 6 3 13
+Delež v odstotkih % 27,3 13,6 59,1
+Tabela 11: Prisotnost kakovostnih ilustracij v skupnih prostorih Število ilustracij Od 0 do 10 Od 11 do 20 21 in več Skupni prostori 5 (od tega trije skupni prostori brez ilustracij) 0 2
+Delež v odstotkih
+V tabeli 10 vidimo, da je od 0 do 10 kakovostnih ilustracij bilo v šestih oddelkih (27,3 %), od 11 do 20 ilustracij je bilo v treh oddelkih (13,6 %), 21 ali več ilustracij pa je bilo v trinajstih oddelkih (59,1 %). Največ ilustracij smo opazili v oddelkih drugega starostnega obdobja.
+Tabela 11 prikazuje prisotnost kakovostnih ilustracij v skupnih prostorih enot vrtca. Od 0 do 10 ilustracij smo opazili v petih skupnih prostorih (71,4 %), od tega v treh skupnih prostorih ni nobene ilustracije, od 11 do 20 ilustracij ni bilo v nobenem skupnem prostoru, 21 ali več ilustracij pa smo opazili v dveh skupnih prostorih (28,6 %).
+Menimo, da so kakovostne ilustracije v igralnicah oziroma oddelkih dobro zastopane. Niti en oddelek ni brez ilustracij, v večini oddelkov pa je 21 ali več ilustracij. Drugače je v skupnih prostorih; dobro bi bilo, da bi kakovostne ilustracije bile v skupnih prostorih vseh enot.
+
+Slika 26: Kakovostne ilustracije k pesmi Uspavanka
+Slika 27: Kakovostne ilustracije na Cicidojevem plakatu z abecedo Slika 28: Kakovostna ilustracija na omari Slika 29: Kakovostna ilustracija k pesmi Nina Nana
+
+3.4.2.6 Fotografije
+Tudi fotografije s primernimi motivi služijo kot vizualna in likovna spodbuda, zato so pomemben del likovne podobe prostorov.
+V spodnji tabeli vidimo prisotnost fotografij v enotah vrtca.
+Tabela 12: Prisotnost fotografij v enotah vrtca Enota
+Število fotografij
+Od 0 do 15 Od 16 do 30 31 in več Celjska × Legen ×
+Maistrova × Mislinja × Pameče × Podgorje × Šmartno ×
+Iz tabele je razvidno, da je imela ena enota od 0 do 15 fotografij, dve enoti od 16 do 30 fotografij in štiri enote 31 ali več fotografij. Zastopanost fotografij v vrtcu je torej dobra.
+Na večini fotografij so bili zelo podobni motivi: vrtčevski otroci, družine otrok, živa in neživa narava. Dobro bi bilo, da bi uporabili več nevsakdanjih (tudi umetniških) fotografij, ki bi bile zanimive za otroke. Takšne fotografije so lahko dobro izhodišče za pogovor in obravnavo določene teme, poleg tega pa imajo večjo izrazno moč in umetniško vrednost, zato pozitivno vplivajo na otrokov ustvarjalni razvoj.
+
+Slika 30: Fotografije družin otrok iz oddelka Slika 31: Fotografija mlade mačke iz revije Mali Moj planet
+Slika 32: Koledar s fotografijami živali Slika 33: Plakat s fotografijo žirafe iz revije Mali Moj planet
+Slika 34: Fotografije različnih živali iz revije Mali Moj planet
+Slika 35: Fotografija gore, izrezana iz neznane revije
+
+3.4.2.7 Likovne aplikacije odraslih oseb
+Aplikacije likovno neizobraženih odraslih oseb v otrokovem okolju niso zaželjene, saj z likovno nekakovostjo in neskladnostjo kvarno vplivajo na otrokov ustvarjalni ter s tem tudi splošni razvoj.
+Tabela 13: Prisotnost likovnih aplikacij odraslih oseb v enotah vrtca Enota Likovne aplikacije
+Celjska rože, ki krasijo vhod; metulji in pikapolonice z imeni otrok na vratih igralnic; poslikave steklenih površin v igralnicah; gosenica z imeni otrok in datumi rojstnih dnevov
+Legen znaki otrok vseh skupin v garderobi; znaki skupin pred igralnico (velike gosenice z imeni otrok); prekopirane ilustracije risanih junakov; risbe žuželk in travniških rož; velika pobarvana risba deklice z zeleno obleko; pobarvane risbe hišic Smrkcev; risbe, ki ponazarjajo pravila v vrtcu
+Maistrova dekoracija prostorov (rože, čebele, metulji, sonce …); kuhar ob jedilniku; gosenica z imeni otrok in rojstnimi datumi; palčki iz kartona in papirja; slikovni simboli v vremenski tabeli Mislinja prekopirana in pobarvana ilustracija; gosenica z imeni otrok; žirafa na plakatu, ki služi kot merilnik višine; sloni v garderobi in na vratih igralnice; dekoracija pred eno izmed igralnic; želve na steni; čebelnjak s čebelami (z imeni otrok); lutke iz valovite lepenke na palici
+Pameče dekorativni lončki z rožami v garderobi; rože na vratih igralnice; slika ptice na steklu; dve sliki na steni; lesena ura z risbo Podgorje dve aplikaciji Ostržka; maketa stolpa v Pisi iz valovite lepenke; pobarvane risbe živali na kotičku; dekoracija pod stropom (pikapolonice, metulji); slika žabe
+Šmartno dekorativne aplikacije (pikapolonica, metulj, čebela); papirne rože na oknih igralnice; tortice z imeni otrok ter rojstnimi datumi; dekoracija (rože, papirne ladjice, morje, sonce …); poslikava oken; aplikacije z imeni otrok in rojstnimi datumi; poslikava zunanjih zidov vrtca
+
+Pri opazovanju notranjosti enot slovenjgraškega vrtca smo ugotovili, da so v vseh enotah prisotne aplikacije odraslih oseb oziroma strokovnih delavcev.
+Tabela 13 prikazuje pregled najočitnejših in najbolj izpostavljenih likovnih aplikacij odraslih oseb v enotah vrtca. Vidimo lahko, da se najpogosteje pojavljajo dekorativne aplikacije in aplikacije z imeni otrok posameznega oddelka. Ostale aplikacije so različne in nimajo očitnega skupnega imenovalca. Gre za poslikave na steklenih površinah, prekopirane ilustracije, risbe, aplikacije didaktičnih sredstev, poslikave zunanjih sten vrtca itd.
+Aplikacij strokovnih delavcev je torej precej, kar kvari likovno podobo otrokovega okolja.
+Menimo, da bi nekatere zgoraj naštete aplikacije, ki so del vsake igralnice in se konstantno pojavljajo v vrtcih (dekoracije, aplikacije in znaki z imeni otrok), lahko izdelali otroci pod mentorstvom strokovnih delavcev. Takšne likovne aplikacije bi bile najprimernejše.
+Druge aplikacije (risbe, poslikave, kopije ilustracij…), ki nimajo posebnega namena in vloge, bi lahko zamenjali s pristnimi otroškimi izdelki ali pa bi jih preprosto odstranili.
+Slika 36: Poslikava na oknu; prvo starostno obdobje
+Slika 37: Likovna dekoracija na steni igralnice; drugo starostno obdobje Slika 38: Čebelnjak in čebele z imeni otrok; prvo starostno obdobje
+
+Slika 39: Dekoracija na steni v garderobi Slika 40: Preglednica za dnevno beleženje vremena; kombinirani oddelek Slika 41: Gosenica z imeni otrok; drugo starostno obdobje
+Slika 42: Merilnik višine; kombinirani oddelek
+Slika 43: Znaki otrok v garderobi 3.4.2.8 Ostale aplikacije
+
+Pri opazovanju in zbiranju podatkov smo ugotovili, da nekaterih aplikacij, ki so del likovne podobe vrtca in so večinoma povsod prisotne, ne moremo uvrstiti v nobenega od prejšnjih razdelkov. Odločili smo se, da jih umestimo v razdelek Ostale aplikacije, in sicer so to: znaki skupin in otrok, plakati, oglasna deska, prikaz tematskega sklopa. Vse te aplikacije so bolj ali manj praktične ali didaktične narave, vendar njihov vpliv na likovno podobo ni zato nič manjši.
+Tabela 14: Prisotnost ostalih aplikacij v enotah vrtca Enota Znaki otrok
+Plakati Oglasna deska Prikaz tematskega sklopa
+Celjska Disneyevi risani junaki
+Cicidojev plakat slikovne abecede Opremljena z otroškimi izdelki Likovne aplikacije so delo otrok.
+Legen delo strokovnih delavcev
+Dva Cicidojeva plakata slikovne abecede; plakat z merilnikom višine in fotografijo žirafe V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so delo otrok.
+Maistrova ilustracije; delo strokovnih delavcev; delo otrok
+Cicidojevi plakati slikovne abecede; Pasavčkov šolski koledar; Trobentičina abeceda z ilustracijami; plakat revije Zmajček; plakat Modrega medvedka z merilnikom višine V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so večinoma otroške, ponekod pa delo strokovnih delavcev.
+Mislinja fotografije otrok; ilustracije; delo
+Cicidojevi plakati slikovne abecede; Cicibanov plakat To smo mi z imeni otrok; V času fotografiranja oglasna deska ni vsebovala Likovne aplikacije so delo otrok. strokovnih delavcev; delo otrok
+
+Cicibanov plakat Lepo vedenje; Zmajčkova šola lepega vedenja; plakat Gozd in mi; dva plakata revije Mali Moj planet s fotografijo živali; plakat s travniškimi živalmi likovnih aplikacij.
+Pameče ilustracije znanih risanih junakov; ilustracije živali in drugih motivov plakat Mega malčkova zabava; Cicidojeva plakata slikovne abecede; reklamni plakat koroškega judo kluba; Lino koledar; plakat revije Mali Moj planet s fotografijo žirafe V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so delo otrok.
+Podgorje fotografije otrok in delo strokovnih delavcev obenem plakati revije Zmajček; Cicidojevi plakati slikovne abecede V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+V času fotografiranja tematskega sklopa ni bilo.
+Šmartno fotografije otrok
+Cicidojevi plakati slikovne abecede; plakat revije Zmajček V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so delo otrok, delno tudi odraslih.
+
+Znaki otrok se razlikujejo tako med enotami kot tudi med posameznimi oddelki znotraj enot. V treh enotah smo opazili, da so znake otrok nekaterih oddelkov izdelali strokovni delavci. V petih enotah so otroci nekaterih oddelkov imeli za znake ilustracije različnih motivov; v eni enoti so to bili Disneyevi risani junaki.
+V treh enotah so kot znake otrok nekateri oddelki uporabili fotografije otrok, v eni enoti v kombinaciji z aplikacijami strokovnih delavcev. V dveh enotah smo opazili, da so znaki otrok nekaterih skupin otroško delo.
+Otroški likovni izdelki ter dobre ilustracije ali fotografije so najboljša izbira za znake otrok, medtem ko so aplikacije strokovnih delavcev ter nekvalitetne ilustracije (npr. Disneyeve) neprimerne.
+Pri uporabi plakatov smo opazili, da so se v vseh enotah (tudi v skoraj vseh oddelkih) pojavili Cicidojevi plakati s slikovno abecedo, ki vsebujejo kvalitetne ilustracije. V štirih enotah so se pojavili tudi plakati revije Zmajček in v dveh enotah plakati revije Mali Moj planet. Ostali plakati, ki se niso ponavljali, so Pasavčkov plakat, plakat Modrega medvedka, Cicibanova plakata To smo mi in Lepo vedenje, Trobentičina abeceda, plakat koroškega judo kluba, Lino koledar, plakat Gozd in mi, plakat s travniškimi živalmi.
+Tudi pri izbiri plakatov moramo upoštevati načelo kakovosti. Če plakat vsebuje kvalitetne in otroku primerne ilustracije ali fotografije, bo na otroke in likovno podobo prostora vplival pozitivno. Menimo, da so plakati v enotah slovenjgraškega vrtca večinoma primerno izbrani, seveda z določenimi izjemami, kot sta Lino koledar in plakat koroškega judo kluba.
+Oglasna deska, kjer se nahajajo obvestila za starše, jedilnik in podobno, je v eni enoti vsebovala likovne aplikacije otrok, v vseh ostalih enotah pa v času opazovanja in fotografiranja nismo videli likovnih aplikacij na oglasni deski.
+Uporaba otroških likovnih aplikacij na oglasnih deskah je dobrodošla, ni pa nič narobe, če aplikacij ni. Oglasna deska je namenjena informiranju staršev in drugih obiskovalcev vrtca, tako da likovna podoba vrtca ne trpi, če so na oglasni deski samo obvestila in sporočila.
+Prikaz tematskega sklopa je namenjen seznanjanju staršev in drugih obiskovalcev vrtca s trenutnim delom v posameznem oddelku. V šestih enotah so bili prikazi tematskega sklopa opremljeni z likovnimi izdelki otrok, v dveh enotah pa smo opazili tudi aplikacije strokovnih delavcev, ki pa jih je bilo občutno manj kot otroških. V eni enoti v času opazovanja in fotografiranja nismo opazili prikazov tematskega sklopa.
+
+Menimo, da je zelo dobro, da so na prikazih tematskih sklopov uporabljeni otroški likovni izdelki, saj ti najbolje in najlepše ilustrirajo določeno temo ter pozitivno vplivajo na likovno podobo prostora. Uporaba aplikacij strokovnih delavcev ni zaželena, saj kvari kvaliteto celotne likovne podobe in slabo vpliva na otroke. V enotah slovenjgraškega vrtca aplikacij odraslih oseb na prikazih tematskih sklopov ni bilo veliko oziroma jih je bilo veliko manj kot otroških, kar je pozitivno.
+Slika 44: Znaki otrok v garderobi, ki so jih izdelali strokovni delavci Slika 45: Znaki otrok v garderobi, ki so jih izdelali otroci Slika 46: Prikaz tematskega sklopa z likovnimi aplikacijami otrok Slika 47: Prikaz tematskega sklopa z likovnimi aplikacijami strokovnih delavcev
+
+Slika 48: Cicidojev plakat slikovne abecede Slika 49: Cicidojev plakat slikovne abecede in likovno nekakovosten plakat judo kluba 3.5 Sklep
+V teoretičnem delu diplomske naloge smo predstavili izhodišča, ki so pomembna pri likovnem oblikovanju in opremljanju otrokovega bivalnega prostora. V empiričnem delu smo predstavili našo raziskavo in na podlagi teoretičnih izhodišč analizirali likovno podobo Vzgojno-varstvenega zavoda Slovenj Gradec. Naš raziskovalni vzorec je zajemal vseh sedem enot vrtca oziroma dvaindvajset oddelkov od dvainštiridesetih, pri čemer smo bili pozorni na to, da smo vključili oddelke različnih starostnih obdobij. Na podlagi analize iz empiričnega dela naloge bomo v tem poglavju ovrgli ali potrdili zastavljene hipoteze.
+Predvidevali smo, da so barve fasad oziroma ometa zunanjih zidov enot zavoda primerne, torej nežne. Ugotovili smo, da imajo vse enote zavoda fasade nežnih barv, le novi prizidek enote Maistrova je pobarvan v nekoliko močnejši barvi, kar pa zaradi manjše površine in sovpadanja z okoliškimi stavbami ni moteče in neprimerno. Hipotezo potrjujemo.
+Predvidevali smo, da so zunanje površine poslikane in da so poslikave primerne, torej delo otrok ali likovnih umetnikov. Analiza je pokazala, da imajo zunanje površine poslikane tri enote: Legen, Maistrova in Šmartno. V enotah Legen in Maistrova so avtorji poslikav večinoma otroci, delno pa tudi strokovni delavci. V enoti Šmartno so avtorji poslikav v celoti strokovni delavci. Glede na rezultate hipotezo ovržemo.
+
+Predvidevali smo, da verjetno obstajajo tudi druge lastnosti zunanjosti vrtca, ki zadevajo njegovo likovno podobo. V raziskavi smo ugotovili, da imata takšne lastnosti dve enoti, Legen in Pameče, pri ostalih petih enotah pa lastnosti, ki bi vplivale na likovno podobo vrtca, nismo zasledili. Hipotezo ovržemo.
+Predvidevali smo, da so barve sten notranjih prostorov primerne, torej nežne. V analizi smo ugotovili, da so v vseh sedmih enotah prostori pobarvani z nežnimi barvami. V pritličju enote Maistrova je sicer uporabljene preveč rumene barve, vendar to ne spremeni rezultatov raziskave. Hipotezo potrjujemo.
+Predvidevali smo, da so v prostorih, kjer bivajo otroci, prisotni dobri otroški likovni izdelki ter da so večinoma pritrjeni na stene oziroma postavljeni na pohištvo. Hipotezo potrjujemo, saj so dobri otroški likovni izdelki prisotni v vseh enotah in vseh oddelkih, razstavljeni pa so na stenah in pohištvu. Ugotovili smo tudi, da je v oddelkih drugega starostnega obdobja razstavljenih več del kot v oddelkih prvega starostnega obdobja, kar pa je posledica različnega števila otrok v oddelkih – v oddelkih drugega starostnega obdobja je otrok več.
+Predvidevali smo, da so v prostorih, kjer bivajo otroci, prisotni neprimerni otroški likovni izdelki. Mednje smo uvrstili izdelke, v katere je zelo očitno posegla odrasla oseba, šablonske izdelke in ostale izdelke, pri katerih se otroci niso mogli izraziti v vsej svoji ustvarjalnosti. Raziskava je pokazala, da so neprimerni izdelki prisotni v vseh enotah, kar potrjuje zastavljeno hipotezo.
+Predvidevali smo, da so v prostorih, kjer bivajo otroci, prisotne reprodukcije umetniških del oziroma originalna umetniška dela. Ugotovili smo, da je eno originalno umetniško delo neznanega avtorja prisotno v eni izmed enot, vse ostale enote in tudi vsi oddelki pa so brez umetniških del. Hipotezo na podlagi ugotovitev ovržemo.
+Predvidevali smo, da so v prostorih, kjer bivajo otroci, prisotne kakovostne ilustracije. V analizi smo ugotovili, da so kakovostne ilustracije prisotne v vseh oddelkih. Hipotezo potrjujemo.
+
+Predvidevali smo, da so v prostorih, kjer bivajo otroci, prisotne fotografije.
+Analiza je pokazala, da so fotografije prisotne v vseh enotah, zato hipotezo potrjujemo. Opazili smo, da se motivi na fotografijah ponavljajo; večinoma so to ljudje in živali. Dobro bi bilo, da bi v oddelkih dali otrokom na razpolago fotografije različnih in nevsakdanjih motivov, ki jih otroci izven vrtca ne vidijo pogosto. Takšne fotografije so lahko dobra spodbuda in izhodišče za likovno delo obenem pa otrokom prikazujejo malo drugačen pogled na živi in neživi svet.
+Predvidevali smo, da so v prostorih, kjer bivajo otroci, prisotne aplikacije in dekoracije likovno neizobraženih odraslih oseb. Ugotovili smo, da so le-te prisotne v vseh enotah zavoda. Hipotezo potrjujemo. Zaradi slabega vpliva na otroke bi bilo dobro, da se tovrstne aplikacije v vrtcu ne bi uporabljale. Dekoracija prostorov naj bo takšna, kakršno so otroci sposobni izdelati, torej primerna njihovemu starostnemu obdobju, prav tako aplikacije z imeni otrok in posameznih skupin ali znaki v garderobi. Strokovni delavci imajo pri tem pomembno vlogo, saj skrbno načrtujejo ter izvajajo likovne dejavnosti, pri čemer pa pazijo, da v otrokovo okolje vnašajo le kakovostne likovne aplikacije.
+Predvidevali smo, da so poleg gornjih v vrtcu prisotne še ostale aplikacije z morebitno likovno vsebino (znaki otrok in skupin, plakati, oglasna deska, tematski sklop). V analizi smo prišli do ugotovitve, da so vse omenjene aplikacije prisotne v vseh enotah oziroma oddelkih, le ena izmed enot, ki šteje dva oddelka, ni imela izdelanega prikaza tematskega sklopa. Glede na rezultat hipotezo potrjujemo. V treh enotah so znake otrok v garderobi izdelali strokovni delavci, kar ni dobro.
+Otroški izdelek, dobra ilustracija ali dobra fotografija so tudi v tem primeru najboljša in edina pravilna izbira. Plakati v oddelkih so bili v veliki večini likovno kakovostni. Dobro je, da se pri izbiri slednjih izogibamo kičastih in likovno nekakovostnih reklamnih plakatov in koledarjev. Oglasna deska v eni enoti je bila opremljena z otroškimi likovnimi aplikacijami, v ostalih enotah je bila brez kakršnihkoli aplikacij. Prikaz tematskega sklopa je bil prisoten v šestih od sedmih enot, v dveh enotah pa so v nekaj oddelkih bile na prikazu prisotne aplikacije strokovnih delavcev.
+
+V raziskavi smo ugotovili, da je likovna podoba Vzgojno-varstvenega zavoda Slovenj Gradec delno primerna. Za ocenjevanje likovne podobe smo izdelali ocenjevalni obrazec, ki je vseboval devet kriterijev. Pri treh kriterijih smo ugotovili, da prostori niso urejeni v skladu s strokovnimi likovnimi zahtevami oziroma likovno-pedagoško teorijo.
+Zunanje površine oziroma fasade enot vrtca so bile vse pobarvane z nežnimi barvami, kar je ustrezno. Prostori so prav tako bili pobarvani z nežnimi barvami, ki imajo pozitiven vpliv na otroke in delavce. V vseh enotah oziroma vseh oddelkih so bili prisotni dobri otroški likovni izdelki, ilustracije ter fotografije.
+Dobro je, da so za otroške znake v garderobah večinoma uporabljene ilustracije in fotografije. Poleg naštetih aplikacij smo v vseh enotah zasledili tudi neprimerne otroške likovne izdelke ter likovne aplikacije odraslih oseb, ki kvarijo likovno podobo prostorov. Pri opazovanju smo od sedmih enot le v eni našli eno originalno umetniško delo neznanega avtorja, nikjer pa nobene kakovostne reprodukcije. Obstaja možnost, da jih imajo strokovni delavci shranjene v omarah, ki jih nismo pregledovali.
+
+Viri in literatura
+1. Adlešič, M. (1957). Svet svetlobe in barv. Ljubljana: Mladinska knjiga.
+2. Bahovec, E. D., Bregar, K. G., Čas, M., Domicelj, M., Saje - Hribar, N., Japelj, B. (1999). Kurikulum za vrtce. Ljubljana: Ministrstvo za šolstvo in šport.
+3. Bahovec, E. D. in Kodelja, Z. (1996). Vrtci za današnji čas. Ljubljana: Center za kulturološke raziskave pri Pedagoškem inštitutu in Društvo za kulturološke raziskave.
+4. Berce, H., Hočevar, S., Prestor, A. (1980). Likovna vzgoja predšolskih otrok (Gradivo za vzgojiteljice – pripravnice). Ljubljana: Zavod SR Slovenije za šolstvo.
+5. Pečjak, V. (2006). Psihološka podlaga vizualne umetnosti. Ljubljana: Debora.
+6. Pibernik, J. (2006). Drugačnosti: priročnik za učitelje likovnega pouka v osnovni šoli. Celje: Celjska Mohorjeva družba.
+7. Tavčar, L. (1995). Galerija v vrtcu, v šoli in doma. Ljubljana: Narodna galerija.
+8. Trstenjak, A. (1996). Psihologija barv. Ljubljana: Inštitut Antona Trstenjaka.
+9. Vaukan, I., Klemenc, A., Pori, U., Špegelj, N., Šumnik, M. (2012).
+Publikacija Vzgojno-varstvenega zavoda Slovenj Gradec za šolsko leto 2012/13. Slovenj Gradec: Vzgojno-varstveni zavod Slovenj Gradec.
+10. Vrlič, T. (2001a). Likovno-ustvarjalni razvoj otrok v predšolskem obdobju.
+Ljubljana: Debora.
+11. Vrlič, T. (2001b). Likovne dejavnosti v vrtcu. V Marjanovič Umek, L.
+(Ur.), Otrok v vrtcu: priročnik h Kurikulu za vrtce (str. 137). Maribor: Obzorja.
+
+Priloga
+Obrazec za oceno kvalitete likovne podobe vrtca
+ZUNANJA PODOBA VRTCA
+Enota Barva fasade
+Poslikave zunanjih površin Druge lastnosti Celjska nežna / /
+Legen nežna da lesena skulptura v neposredni bližini vrtca Maistrova nežna (stari del) močna (novi del) da /
+Mislinja nežna / /
+Pameče nežna / Na igrišču blizu vhoda je betonski kvader, ki je z vseh strani obdan s šolskimi tablami, na katere lahko otroci rišejo (ali pišejo).
+Podgorje nežna / / Šmartno nežna da /
+
+NOTRANJA PODOBA VRTCA
+Barve prostorov Enota
+Močne Nežne Celjska X Legen X
+Maistrova X
+(v skupnih prostorih v pritličju preveč rumenih površin) Mislinja X Pameče X Podgorje X Šmartno X
+
+Otroški likovni izdelki
+Enota Od 0 do 14 Od 15 do 24 25 in več Kje se nahajajo, kako so razstavljeni?
+Celjska oddelek 1. star. obdobja oddelek 1. star. obdobja skupni prostori
+pritrjeni na omare, stene, oglasne deske, postavljeni na nižje površine Legen skupni prostori oddelek 2. star. obdobja oddelek 2. star. obdobja na stenah, omarah, flanelografih, pritrjeni z buciko ali lepilnim trakom Maistrova oddelek 1. star. obdobja kombinirani oddelek oddelek 1. star. obdobja skupni prostori – pritličje in nadstropje kombinirani oddelek oddelek 2. star. obdobja oddelek 2. star. obdobja na stenah, omarah, flanelografih, policah, pritrjeni z lepilnim trakom, bucikami, risalnimi žebljički Mislinja kombinirani oddelek oddelek 1. star. obdobja oddelek 2. star. obdobja oddelek 2. star. obdobja skupni prostori na stenah, prilepljeni ali pritrjeni z buciko
+Pameče kombinirani oddelek skupni prostori oddelek 2. star. obdobja na stenah, pohištvu, prilepljeni, pritrjeni z bucikami, obešeni na vrv s kljukami Podgorje skupni prostori kombinirani oddelek oddelek 2. star. obdobja prilepljeni na stene, pritrjeni na letve z risalnimi žebljički Šmartno skupni prostori kombinirani oddelek
+kombinirani oddelek oddelek 2. star. obdobja oddelek 2. star. obdobja na stenah, omarah, prilepljeni, pritrjeni z bucikami, pritrjeni s kljukami na vrvico
+
+Neprimerni otroški likovni izdelki (izdelki z očitnim posegom odrasle osebe, šablone ...) Enota Da/ne Število na enoto Od 0 do 15 Od 16 do 30 31 in več Celjska da X Legen da X Maistrova da X Mislinja da X Pameče da X Podgorje da X Šmartno da X
+
+Originalna umetniška dela ali njihove reprodukcije Enota Prisotnost umetniških del Celjska ne Legen da
+(na steni pred igralnico, na višini približno 2,5 m) Maistrova ne Mislinja ne Pameče ne Podgorje ne Šmartno ne
+
+Kakovostne ilustracije
+Enota Od 0 do 10 Od 11 do 20 21 in več
+Celjska oddelek 1. star. obdobja oddelek 1. star. obdobja Legen skupni prostori oddelek 2. star. obdobja
+oddelek 2. star. obdobja Maistrova oddelek 2. star. obdobja kombinirani oddelek oddelek 2. star. obdobja oddelek 1. star. obdobja oddelek 1. star. obdobja kombinirani oddelek
+Mislinja kombinirani oddelek oddelek 1. star. obdobja
+oddelek 2. star. obdobja oddelek 2. star. obdobja skupni prostori
+Pameče skupni prostori kombinirani oddelek oddelek 2. star. obdobja
+Podgorje skupni prostori kombinirani oddelek oddelek 2. star. obdobja Šmartno kombinirani oddelek kombinirani oddelek oddelek 2. star. obdobja oddelek 2. star. obdobja Fotografije
+
+Enota Da/ne Število na enoto Od 0 do 15 Od 16 do 30 31 in več Celjska da X Legen da X Maistrova da X Mislinja da X Pameče da X Podgorje da X Šmartno da X
+
+Likovne aplikacije odraslih oseb Enota Da/ne Likovne aplikacije Celjska da rože, ki krasijo vhod, metulji in pikapolonice z imeni otrok na vratih, igralnic, poslikave steklenih površin v igralnicah, gosenica z imeni otrok in datumi rojstnih dnevov
+Legen da znaki otrok vseh skupin v garderobi, znaki skupin pred igralnico (velike gosenice z imeni otrok), prekopirane ilustracije risanih junakov, risbe žuželk in travniških rož, velika pobarvana risba deklice z zeleno obleko, pobarvane risbe hišic Smrkcev, tri risbe, ki ponazarjajo pravila
+Maistrova da dekoracije prostorov (rože, čebele, metulji, sonce …), kuhar ob jedilniku, gosenica z imeni otrok in rojstnimi datumi, prikaz tedenskega sklopa, palčki iz kartona in papirja, slikovni simboli v vremenski tabeli, poslikave zunanjih površin Mislinja da prekopirana in pobarvana ilustracija, gosenica z imeni otrok, žirafa na plakatu, ki služi kot merilnik višine, sloni v garderobi in na vratih igralnice, pomladna dekoracija pred eno izmed igralnic, želve na steni, čebelnjak s čebelami (z imeni otrok), lutke na palici iz valovite lepenke
+Pameče da dekorativni lončki z rožami v garderobi, rože na vratih igralnice, slika ptice na steklu, dve sliki na steni, lesena ura z risbo Podgorje da dve aplikaciji Ostržka, stolp v Pisi iz valovite lepenke, pobarvane risbe živali na kotičku, dekoracija pod stropom (pikapolonice, metulji), slika žabe
+Šmartno da dekorativne aplikacije (pikapolonica, metulj, čebela), papirne rože na oknih igralnice, tortice z imeni otrok ter rojstnimi datumi, dekoracija (rože, papirne ladjice, morje, sonce …), poslikava oken, aplikacije z imeni otrok in rojstnimi datumi, poslikava zunanjih zidov vrtca Ostale aplikacije
+
+Enota Znaki otrok Plakati Oglasna deska Prikaz tematskega sklopa Celjska
+Disneyevi risani junaki
+Cicidojev plakat slikovne abecede opremljena z otroškimi izdelki
+Likovne aplikacije so delo otrok.
+Legen aplikacije strokovnih delavcev dva plakata slikovne abecede; plakat z merilnikom višine in fotografijo žirafe V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so delo otrok.
+Maistrova ilustracije; delo strokovnih delavcev; delo otrok
+Cicidojevi plakati slikovne abecede; Pasavčkov šolski koledar; Trobentičina abeceda z ilustracijami; plakat revije Zmajček; plakat Modrega medvedka z merilnikom višine V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so večinoma otroške, ponekod pa delo strokovnih delavcev.
+Mislinja fotografije otrok; ilustracije; delo strokovnih delavcev; delo otrok
+Cicidojevi plakati slikovne abecede; Cicibanov plakat To smo mi z imeni otrok; Cicibanov plakat Lepo vedenje; Zmajčkova šola lepega vedenja; plakat Gozd in mi; dva plakata revije Mali Moj planet s fotografijo živali; plakat s travniškimi živalmi V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so delo otrok.
+
+Pameče ilustracije znanih risanih junakov, ilustracije živali in drugih motivov plakat Mega malčkova zabava; Cicidojeva plakata slikovne abecede; reklamni plakat koroškega judo kluba; Lino koledar; plakat revije Mali Moj planet s fotografijo žirafe
+V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so delo otrok.
+Podgorje fotografije otrok in delo odraslih obenem plakati revije Zmajček; Cicidojevi plakati slikovne abecede V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+V času fotografiranja tematskega sklopa ni bilo.
+Šmartno fotografije otrok Cicidojevi plakati slikovne abecede, plakat revije Zmajček V času fotografiranja oglasna deska ni vsebovala likovnih aplikacij.
+Likovne aplikacije so delo otrok, delno tudi odraslih.
+

@@ -1,0 +1,1276 @@
+UNIVERZA V MARIBORU FILOZOFSKA FAKULTETA
+Oddelek za slovanske jezike in književnosti
+DIPLOMSKO DELO MARUŠA ŽIŽEK
+Maribor, 2013
+
+
+Oddelek za slovanske jezike in književnosti Diplomsko delo
+POUK SLOVENSKEGA JEZIKA V WALDORFSKIH ŠOLAH
+Graduation thesis
+SLOVENIAN LANGUAGE CURRICULUM AT WALDORF SCHOOLS
+Mentorica: doc. dr. Simona Pulko Kandidatka: Maruša Žižek Maribor, 2013 Lektorica:
+
+Mirjana Gazvoda, profesorica slovenščine in pedagogike Prevajalka:
+Josipa Žilić Hozjan, profesorica angleščine in zgodovine
+
+… Vsem, ki ste ta del poti prehodili z menoj …
+HVALA!
+
+FILOZOFSKA FAKULTETA
+Koroška cesta 160
+2000 Maribor, Slovenija
+www.ff.um.si
+IZJAVA
+Podpisana Maruša Žižek rojena 26. 10. 1987 študentka Filozofske fakultete Univerze v Mariboru, smer slovenski jezik s književnostjo in sociologija, izjavljam, da je diplomsko delo z naslovom Pouk slovenskega jezika v waldorfskih šolah pri mentorici doc. dr. Simoni Pulko, avtorsko delo.
+V diplomskem delu so uporabljeni viri in literatura korektno navedeni; teksti niso prepisani brez navedbe avtorjev.
+Kraj, Maribor
+Datum, november 2013
+(podpis študentke)
+
+POVZETEK
+Učni načrti, predmetnik, urnik in celoten učno-vzgojni proces vsake waldorfske šole izhajajo iz poznavanja in upoštevanja otrokovega duhovno-duševnega in fizičnega razvoja, njegovega povezovanja s svetom odraslih in okolja, v katerem biva. Prizadevanja waldorfske pedagogike so usmerjena k temu, da otroci zrastejo v odgovorne, ustvarjalne, socialne in zrele svobodne osebnosti. V waldorfski šoli je poudarek na umetniškem načinu poučevanja vseh predmetov, ne le umetniških. Tudi pouk slovenščine je umetnost. Poudarjajo, da je pomembno, da imajo otroci novo snov možnost sami urediti in obogatiti. Nebistvene podatke pustijo pozabiti, bistvene pa obogateno prikličejo nazaj v spomin.
+Šola, ki želi vsestransko oblikovati človekov razvoj, mora biti pri organizaciji in razčlenitvi pouka pozorna na to, da učna snov ne postane pomembnejša od človeka. Kadar učitelj upošteva duševne sposobnosti, slabosti in individualno nadarjenost svojih učencev skozi njihov razvoj, si prizadeva učno snov vedno znova prežeti z življenjem. Tako učbeniki izgubijo svojo vlogo, zaradi tega se v waldorfskih šolah ne uporabljajo. Prav tako se ne uporabljajo delovni zvezki. Obravnavano snov učenci zapisujejo v svoje zvezke sprva pod učiteljevim vodstvom, nato čedalje bolj samostojno.
+Živimo v času in okolju, ki ljudi silita predvsem v mišljenje, v svet slik in predstav, a proč od neposrednega doživljanja, od narave in celo osebnih stikov. Naloga pedagogike je zato v današnjem času zelo vzgojna in nikakor le izobraževalna, saj čas, v katerem živimo, nudi otrokom mnogo različnih poti do znanja.
+V empiričnem delu želimo prikazati neposredno izvedbo poučevanja slovenščine v 8. razredu waldorfske devetletne osnovne šole. Celotna epoha slovenščine je trajala devetnajst dni in je bila razdeljena na več delov, in sicer na literarne pojme, zgodovinski pregled književnosti, ustvarjalnico ter referate. Snov smo dosledno zapisovali, jo dopolnjevali z učnimi listi, učenčevimi izdelki ter s pogovorom z učiteljico.
+Ključne besede: waldorfska pedagogika, waldorfska osnovna šola, tretje triletje, književni pouk, jezikovni pouk, učni pripomočki.
+
+ABSTRACT
+The curriculum, range of subjects, timetable as well as the whole educational process of every waldorf school are based on the knowledge of and with regard to child's soul, spiritual and physical development, his/her connection with the world of adults and his/her environment.
+Waldorf pedagogy is striving towards educating responsible, creative, social and mature free personalities. At waldorf school, there is an emphasis on artistic mode of teaching all subjects, not only artistic ones. Therefore, the instruction of Slovenian language is an art as well. It is being stressed how important it is for the students to have the ability to edit and upgrade new materials by themselves. Non-essential information are let to be forgotten while the essential ones are upgraded and recalled back into their memory.
+In order to provide a comprehensive human development, the school has to organise and distribute the lessons while paying attention that the curriculum should never become more important than the human being himself. When the teacher accounts soul capacities, weaknesses and individual giftedness of his/her students through their development, he/she endeavours again and again to imbue the lesson contents with life. Consequently, the student's books are loosing their role and are not being used at waldorf schools. Similarly, the workbooks are not used as well. The students write down the notes into their notebooks.
+Firstly, the note taking is guided by a teacher, however later it becomes more and more independent.
+We are living in time and space that is forcing people predominantly to think, to use the world of pictures and images, however far away from direct experience, from nature and even personal contacts. Therefore, the aim of pedagogy nowadays is very educative and not only intellectual as the time we are living in offers the children many various ways to gain the knowledge.
+In the empirical part of thesis we are presenting direct performance of teaching Slovenian language in the 8th class at waldorf school. The whole epoch of Slovenian language lasted for 19 days and it was divided into several parts, namely literature concepts, historical overview of literature, creative corner and oral presentations. The materials had been consistently written down, supported by worksheets, students’ assignments as well as conversation with the teacher.
+
+Keywords: waldorf pedagogy, waldorf primary school, the third triad, study of literature, study of language, teaching aids.
+
+KAZALO
+1. UVOD .................................................................................................................................... 1 2. TEORETIČNI DEL ................................................................................................................ 3 2.1 RUDOLF STEINER ......................................................................................................... 3 2.2 PRVA WALDORFSKA ŠOLA ....................................................................................... 5 2.3 TEMELJI WALDORFSKE PEDAGOGIKE ................................................................... 7 2.3.1 TRI OBDOBJA ODRAŠČANJA ............................................................................. 9 2.3.1.1 OSNOVNOŠOLSKO OBDOBJE ..................................................................... 11 2.3.2 DNEVNI RITEM ..................................................................................................... 13 2.3.3 POUK V OBDOBJIH .............................................................................................. 15 2.3.4 RAZREDNI UČITELJ ............................................................................................. 16 2.3.5 PREDMETNI UČITELJI ......................................................................................... 17 2.3.6 STRUKTURA GLAVNE URE ............................................................................... 19 2.3.6.1 PETZVEZDNA METODA ............................................................................... 19 2.3.6.2 METODA TROKORAKA ................................................................................ 21 2.3.7 UČNI NAČRT ......................................................................................................... 22 2.3.7.1 UČNI NAČRT SLOVENŠČINA ...................................................................... 24 2.3.7.2 TRETJE TRILETJE .......................................................................................... 26 2.3.7.2.1 SPLOŠNI CILJI PREDMETA ................................................................... 26 2.3.7.2.2 OPERATIVNI CILJI PREDMETA ........................................................... 27 2.3.7.2.2.1 JEZIKOVNI POUK ............................................................................. 27 2.3.7.2.2.1.1 POSLUŠANJE IN GOVORJENJE ............................................... 27 2.3.7.2.2.1.2 PISANJE ....................................................................................... 28 2.3.7.2.2.1.3 BRANJE ........................................................................................ 29 2.3.7.2.2.1.4 RAZUMEVANJE JEZIKA ........................................................... 30 2.3.7.2.2.2 KNJIŽEVNI POUK ............................................................................. 32 2.3.7.2.3 DIDAKTIČNA PRIPOROČILA IN MEDPREDMETNE POVEZAVE ... 35
+
+2.3.8 UČBENIKI IN NJIHOVA UPORABA ................................................................... 37 3. EMPIRIČNI DEL ................................................................................................................. 39 3.1 NAMEN .......................................................................................................................... 39 3.2 RAZISKOVALNE HIPOTEZE ..................................................................................... 39 3.3 METODOLOGIJA ......................................................................................................... 40 3.3.1 RAZISKOVALNE METODE ................................................................................. 40 3.3.2 UPORABLJENI VIRI ............................................................................................. 40 3.4 PREVERJANJE HIPOTEZ ............................................................................................ 77 4. ZAKLJUČEK ....................................................................................................................... 85 5. LITERATURA IN VIRI ...................................................................................................... 87 6. PRILOGE ............................................................................................................................. 89 1. UVOD
+
+V zadnjih stoletjih in še posebej desetletjih se človeštvo razvija vse hitreje. Svet, v katerem živi novi narod, se vse bolj razlikuje od tistega, v katerem je živel prejšnji. Zato je toliko večja odgovornost odraslih, da prihajajočemu rodu omogočijo njegovo drugačnost, da ta rod drugačnost lahko uresniči po lastnih hotenjih, ne pa po željah prejšnjega. Takšne cilje si lahko zastavlja le odprto družbeno razmerje, kar naše v zadnjih desetletjih ni bilo. Šele spremembe v zadnjih desetletjih omogočajo waldorfski pedagogiki, da začenja poganjati svoje korenine na Slovenskem. (Carlgren 2003: 5)
+Naše zanimanje za waldorfsko pedagogiko se je pojavilo že v času študija. Samoiniciativno smo se podali na pot raziskovanja, ki smo jo zaključili s specializacijo za waldorfskega pedagoga.
+Živimo v času in okolju, ki ljudi silita predvsem v mišljenje, v svet slik in predstav, a proč od neposrednega doživljanja, od narave in celo od osebnih stikov. Naloga pedagogike je zato v današnjem času zelo vzgojna in nikakor le izobraževalna, saj čas, v katerem živimo, nudi otrokom mnogo različnih poti do znanja.
+Menimo, da prevečkrat pomislimo samo na to, kaj vse bo otrok nekoč moral znati, ne pa tudi, kako naj se tega nauči.
+V diplomskem delu želimo s pisanjem doseči dva temeljna cilja.
+1. Prvi temeljni cilj je odkrivanje značilnosti waldorfske osnovne šole in učnega načrta slovenščine v tretjem triletju.
+Prvi temeljni cilj bomo predstavili v prvem, t.i. teoretičnem delu. Osredotočili se bomo na začetnika waldorfske pedagogike in njegova prizadevanja za ustanovitev prve waldorfske šole, glavne značilnosti in hkrati tudi posebnosti waldorfske pedagogike ter se poglobili v učni načrt slovenščine za tretje triletje.
+2. Drugi temeljni cilj je praktičen prikaz poučevanja slovenskega jezika v 8. razredu devetletne osnovne šole.
+Drugi temeljni cilj bomo predstavili v drugem, empiričnem delu. Epoho slovenskega jezika bomo predstavili v vsej svoji celovitosti: zgradbo in podrobno predstavitev posameznih delov skupaj z zapisi ter tudi učenčevimi izdelki. Gradivo smo pridobili s pomočjo hospitacij, lastnih nastopov, pogovorov itd.
+
+Diplomsko delo bomo zaključili s sklepnimi mislimi, z zapisom literature ter zaključkom.
+
+2. TEORETIČNI DEL 2.1 RUDOLF STEINER
+Rudolf Steiner se je rodil leta 1861 v Kraljevcu na hrvaško-madžarski meji kot sin preprostega avstrijskega železniškega uradnika. Ko je končal realko in nato maturiral, je študiral matematiko in naravoslovne vede na Dunaju. Obenem je na univerzi poslušal predavanja iz filozofije, literarnih ved, pa tudi iz psihologije in medicine. (Carlgren 2003: 7) Leta 1894 je napisal njegovo najpomembnejše filozofsko delo, Filozofija svobode. (Carlgren 2003: 7)
+Ko je svoj študij zaključil, je prevzel mesto hišnega učitelja pri nekem dečku z vodenoglavostjo, za katerega je bilo več zdravnikov prepričanih, da se ne more učiti. Steinerju pa je s pedagoškimi prijemi pri oblikovanju dnevnega reda in s strnjenim poukom uspelo doseči tako temeljito izboljšanje, da so po dveh letih dečka sprejeli v šolo med enako stare vrstnike. Kasneje je maturiral in postal zdravnik. (Carlgren 2003: 7, 8) Steiner je začel predavati manjšim skupinam ljudi jeseni leta 1900, nato je o svojih temeljnih izsledkih govoril v okviru Antropozofske družbe in vedno bolj tudi v javnosti, ki je kazala zanimanje zanj. Vzporedno s tem so nastala njegova najpomembnejša in najbolj brana dela: Krščanstvo kot mistično dejstvo in misterij srednjega veka (1902), Teozofija. Uvod v nadčutno spoznavanje sveta in smisla človeškega življenja (1904), Kako priti do spoznanj višjih svetov? (1904), Oris znanosti o skrivnem svetu (1910). (Carlgren 2003: 9) Že od 1902. leta naprej je Steiner svojo znanstveno pot označeval z imenom, ki ga je kasneje uporabljal dosledno. Imenoval jo je antropozofija, ker ta znanost vodi k zavesti o resničnem bistvu človeka (iz grščine: anthropos, kar pomeni človek, in sofia, modrost). (Devjak 2008: 37)
+Prav v tem je smisel njegovega proučevanja človeka. Ugotoviti poskuša vzročno-posledične zveze med razvojem telesnega organizma in duhovnostjo, kar pomeni, da skuša razložiti vzajemen vpliv razvoja človeškega telesnega organizma in duševnosti. Kako se med njima kažejo vzročno-posledični odnosi. (Medveš 1989: 231)
+Leta 1919 je imel za delavce Tobačne tovarne Waldorf Astoria v Stuttgartu predavanje, v katerem je izrazil potrebo po povsem novi organizaciji šolstva. Na ravni obveznega šolanja naj bi obstajala enotna šola za vse otroke. »To bi omogočalo, da duhovno življenje ne bi služilo več samo nekaterim, temveč bi postalo splošna človeška dobrina, saj to življenje ni nastalo zaradi enega razreda, temveč zaradi vseh ljudi enako … Vi, ki vse dneve delate v tovarni, hodite kvečjemu mimo vzgojno-izobraževalnih zavodov, ki so ustanovljeni le za določene sloje ljudi, v teh zavodih se fabricirajo tisti, ki tvorijo doslej vladajoči razred, vodijo vlado in gospodarstvo … Vse to je mogoče doseči z ločitvijo šole od države …« Po tem predavanju ga je Emil Molt, vodja tobačnega koncerna, povabil, da postane vodja takšne šole, ki bi jo ustanovili za otroke vseh zaposlenih v koncernu. (Devjak 2008: 37, 38) Napisal in uprizoril je štiri misterijske drame1 in ustvaril novo plesno umetnost, ki z gibi izraža besede in tone, evritmijo. Kot prostor za različne umetnostne zvrsti in kot središče za delo v duhovnih znanostih je po lastnih arhitekturnih osnutkih v Dornachu pri Baslu zgradil zgradbo z dvojno kupolo. Imenoval jo je Goetheanum. Sam je vodil gradbena dela in sodeloval pri umetniški izdelavi. Tako je na primer sam poslikal strop male kupole, na velikih kosih mogočne lesene zgradbe so po njegovih navodilih rezbarili umetniki sedemnajstih različnih narodov. (Carlgren 2003: 9)
+
+»Ni pravilno vprašati: Kaj mora posameznik vedeti ali kaj mora biti sposoben narediti, zato da se bo vključeval v obstoječi družbeni red? Bolje je vprašati: Kaj živi v vsakem posamezniku in kaj je v njem ali njej možno razviti? Šele tedaj bo mogoče usmerjati nove kvalitete porajajoče se generacije v družbo. Družba bo tako postala, kar mladi ljudje kot celoviti posamezniki ustvarijo v obstoječih družbenih pogojih. Nova generacija ne sme biti oblikovana zgolj po tem kar obstoječa družba želi, da bi postala.« (Strmole Ukmar 2000: 295) Ta citat dr. Rudolfa Steinerja kaže na njegovo razumevanje naloge, ki jo imata v družbenem razvoju vzgoja in izobraževanje. Menil je namreč, da mora generacija, ki vzgaja in izobražuje, odraščajoči generaciji s svojim načinom dela omogočiti razvoj novih kvalitet in sposobnosti, s katerimi bodo razvijali in gradili družbo preko današnjih okvirov. To njegovo mišljenje se močno odraža tudi v učnem načrtu waldorfskih šol. (Strmole Ukmar 2000: 295) 1
+Srednjeveška verska igra s snovjo iz biblije, legend ali življenja svetnikov, primer pasijon. (Verbinc 1974: 458)
+
+2.2 PRVA WALDORFSKA ŠOLA
+»Začelo se je 23. aprila leta 1919 v "tobačni dvorani" tobačne tovarne Waldorf – Astoria v Stuttgartu. Delavci so se drenjali po klopeh in stolih, nekateri so sedeli tudi na velikih vrečah tobaka ob zadnji steni dvorane. Šef podjetja, trgovski svetnik Emil Molt, je najavil Steinerja kot "družbenega filozofa". Kaj lahko takšen človek, ki poleg tega prihaja še iz nevtralne, bogate Švice, razume o potrebah preprostih ljudi sredi povojne revščine in lakote? Poslušalci so bili izredno zadržani, dokler predavatelj ni začel govoriti o vprašanjih vzgoje.« (Carlgren 2003: 16)
+Steiner je svoje predavanje pričel s tem, kako so tisoči in tisoči ljudje v dobi, v kateri njihove duhovne in duševne sile prav posebej potrebujejo nego in razvoj, utesnjeni v svoji notranjosti, ker jih gospodarska nuja sili v zaposlitev. Začel je govoriti o nečem, česar še ni bilo, je pa bila to zahteva časa, in sicer o dvanajstletni enotni šoli, ki bi obsegala osnovno ter srednjo šolo in bi bila odprta vsakomur ne glede na njegovo družbeno pripadnost. (Carlgren 2003: 16) Jasno izražena želja delavcev po takšni šoli je ustvarila podlago za njen nastanek. (Carlgren 2003: 17)
+Emil Molt je kupil restavracijo, ki je bila naprodaj na hribu nad stuttgartsko dolino, jo predelal in nakupil potrebno opremo. Steinerjeva svobodna izbira so bili učitelji, ki jih je vodil skozi petnajstdnevni tečaj. (Carlgren 2003: 16) Tako so 7. septembra 1919 šolo odprli. (Carlgren 2003: 18) Ob otvoritvi je imela 8 razredov in približno 300 učencev. Imenovala se je Svobodna waldorfska šola po imenu tovarne, s katero je bila v začetku povezana večina staršev. (Carlgren 2003: 19)
+Šola je bila v nasprotju s selektivno in z diferencirano državno šolo, saj je vključevala vse otroke, od direktorjevih do snažilkinih. To je pomenilo, da se otroci niso nikoli med šolanjem delili na različne tipe šole ali razredov, kot so se delili otroci v državnem šolstvu. (Medveš 1989: 154)
+Iz te osnovne značilnosti waldorfske pedagogike je razvidno, da je gibanje temeljilo na izrazito socialni noti. (Medveš 1989: 154)
+»Steiner namreč meni, da je z razvojem tehnične civilizacije postalo socialno vprašanje jedrni problem zahodne kulture. Razvoj kapitalizma, industrije in znanosti naj bi namreč vplival na nastajanje pogojev človeškega življenja in medsebojnih odnosov, ki človeka razčlovečujejo v njegovih najbolj intimnih notranjih razsežnostih. Naše stoletje po mnenju antropozofov vse bolj jasno kaže, da glavni problemi človeštva niso zunaj vidne tegobe, ki izhajajo iz materialne bede in pomanjkanja, temveč postaja vse bolj problem notranja človeška beda.« (Medveš 1989: 154)
+
+Glavno vodilo Rudolfa Steinerja je torej bilo, da otrokom svojih delavcev omogoči široko splošno izobrazbo, ki ne bi razvijala samo otrokovih umskih sposobnosti, temveč bi z umetniškimi in s praktičnimi dejavnostmi pomagala oblikovati tudi srce in njegove roke.
+(Polak Fištravec 1999: 15)
+
+2.3 TEMELJI WALDORFSKE PEDAGOGIKE
+Waldorfsko pedagogiko bi lahko uvrstili med t.i. reformistična pedagoška gibanja2 na prelomu 19. in 20. stoletja, ki so se upirala tedanjim pedagoškim nazorom. Gre za teorijo, ki sloni na antropozofiji. Po Steinerju je človek trodelno bitje, sestavljeno iz fizičnega, duševnega in duhovnega telesa in tako je tudi cilj waldorfske vzgoje harmoničen razvoj otrokovih fizičnih, duševnih in duhovnih sil. Smisel njegovega proučevanja človeka je ugotoviti zveze med telesnim razvojem in duhovnostjo. (Medveš 1989: 229) Splošna orientacija gibanja je v tem, da želi celoten pouk približati otroku, omogočiti šolanje in otrokov razvoj brez stresa, strahu ter najrazličnejših travm. Zavzemajo se za šolo, v kateri se otrok ne bo prilagajal racionalnemu svetu znanosti, gospodarstvu, politiki, temveč bo v šoli gojil umetnost in kulturo duha. Takšne šole upoštevajo otrokove interese in hotenja. (Medveš 1989: 229)
+Tako so značilnosti waldorfske pedagogike naslednje:
+Vse navezati na človeka: otrok mora imeti občutek, da snov, ki jo učitelj podaja, zadeva tudi njega. Pedagog individualno nagovarja vsakega otroka znotraj skupine.
+Najprej storiti, nato razumeti: z udi je potrebno najprej delovati in šele nato razumeti v glavi.
+Od celote k delom: začnemo s celoto in se nato posvetimo posameznim delom.
+Svet je lep: otroku moramo takšen svet tudi ponuditi (zgodbe z moralnim naukom).
+(Polak Fištravec 1999: 40)
+Snov slikovito predstaviti: slika namreč pomeni več kot le notranjo predstavo opaženega, otrok skozi slike razume tudi notranje zakonitosti, pomen in bistvo.
+Vse je ritem: vse, kar počnemo, potrebuje ritem (budnost – spanje, učenje – pozabljanje, gibanje – mirovanje …).
+Vedno imeti pred očmi pravo, stvarno, živo, praktično življenje in ne abstraktno. To pravilo zaobjema vseh šest ostalih pravil.
+(Polak Fištravec 1999: 41) 2
+Skupno vsem tem gibanjem sta dve pragmatični točki, in sicer močno zavzemanje za priznavanje pravic otroka in mladih ter proti znanstveno zasnovani pedagogiki in šoli ter s tem povezani zahtevi, da se pedagogika razvija kot umetnost in tako dobi slednja v vzgoji (šoli) poseben pomen, kot posebno vzgojno področje (predmet) ter vzgojno načelo. (Medveš 1992: 3)
+
+Andrej Fištravec, sociolog in poznavalec antropofozije, pravi: »Waldorfska pedagogika je svetovni fenomen različnih kulturnih, religioznih in civilizacijskih okolij, pri čemer s svojim modelom ne negira in ne unificira omejenih različnosti. Prav nasprotno, waldorfska pedagogika je pedagoška teorija in praksa, ki išče stik z bogato drugačnostjo človeštva, da bi v tem našla skupaj z vsakim otrokom posebej tisto najbolj resnično, katero se skriva v njem kot majhen notranji odmev velikega vzklika radosti zunanje resničnosti sveta.« (Polak Fištravec 1999: 5)
+
+2.3.1 TRI OBDOBJA ODRAŠČANJA
+V psihologiji in pedagogiki je delitev v stopnje ali faze razvoja utrdila pogled o pomembnih razlikah med otroštvom in mladostništvom na eni ter odraslostjo na drugi strani. (Medveš 1992: 8)
+Waldorfski vrtec in šola sta strukturirana glede na tri obdobja odraščanja. Proces odraščanja je jasno razčlenjen glede na preobrazbe, ki se dogajajo v otroku. Prav iz tega izvirajo v waldorfski pedagogiki tri razvojne stopnje s čisto posebnimi nalogami, vsebinami in metodami vzgajanja, ki usmerjajo delo v waldorfskih vrtcih in šolah. Celotni razvoj poteka znotraj treh obdobij: od rojstva do sedmega leta, od sedmega do štirinajstega leta in od štirinajstega do polnoletnosti. (Polak Fištravec 1999: 16)
+V prvem sedemletnem obdobju gre najprej za obdobje posnemanja in gibanja. To so leta z materjo, očetom, družino in vzgojitelji, ki se lahko podaljša do približno devetega leta. (Polak Fištravec 1999: 16)
+Znak prehoda v drugo sedemletno obdobje je menjava zob, ki se na zunaj kaže v menjavi videza, s seboj pa prinese izrazito spremembo zavesti. Otroci se namreč na nov način zavedajo sami sebe, učitelja in drug drugega. Tako so pripravljeni vstopiti v drugo razvojno obdobje, ki ga lahko imenujemo "srce otroštva" (gre za čas z razrednim učiteljem), čas slikovitega dojemanja, obdobje vzgajanja čustev ter srca in se zaključi z rojstvom pubertete.
+(Polak Fištravec 1999: 17)
+S puberteto vstopimo v tretje obdobje otroštva, ki pomeni povsem novo razmerje do sveta.
+Mlad človek se namreč začne zavedati svojega lastnega bitja. V njegovi notranjosti se začnejo prebujati ideali in življenjski cilji. Namesto slikovitega dojemanja lahko zdaj mladostnik že razvije sposobnosti za presojanje sveta, ko mladostnik hrepeni po resnici (gre za konec osnovnošolskega obdobja in čas srednje šole s predmetnimi učitelji). Mladostnik se zdaj lahko in mora učiti iz lastnih izkušenj, da lahko najde svoje mesto v svetu. (Polak Fištravec 1999: 17)
+Gre za to, da si faze sledijo v nujnem zaporedju, da ničesar ni mogoče preskočiti ali spremeniti, če je razvoj pravilen. Razvoj pa je pravilen, če poteka od stopnje do stopnje v čisto določenih starostnih obdobjih. Tudi narava se ne vrača na prehojene stopnje, vedno stremi le k nadaljnjim. Pravzaprav to pomeni zahtevo po vzgoji v skladu z naravnim razvojem otroka. Napačna vzgoja, to je vzgoja, ki ne upošteva slednjega, pa ne pomeni le prekinitev v razvojnem toku, temveč tudi izničenje naravnih človeških darov. (Medveš 1992: 8)
+
+
+2.3.1.1 OSNOVNOŠOLSKO OBDOBJE
+Drugo sedemletno obdobje se začenja z menjavo zob, kar pa ni edina sprememba v otrokovem življenju, saj v tem času vstopi tudi v šolo. Zelo je pomembno, da otroku dopustimo dovolj časa, da se vživi v nove okoliščine in da zmore sprejeti vse, kar mu prinašajo s seboj. Učenje pisanja in branja poteka zato v waldorfski šoli skozi tri leta. Preko zgodb in slik se otrok sreča s črkami, ki jih do tretjega razreda prepoznava skozi pisanje in branje v vseh njihovih oblikah. (Polak Fištravec 1999: 22)
+Razvijajoče se čustveno življenje pri otroku se v tem obdobju kaže kot potreba po iskanju merila ali je nekaj "lepo" ali "grdo", "dobro" ali "zlo", "prav" ali "narobe". Pri tem mu je učiteljeva avtoriteta v veliko pomoč, saj v njem išče gotovost in oporo pri iskanju odgovorov na ta vprašanja. (Polak Fištravec 1999: 22)
+Sile (slikovne) domišljije je otrok sedaj sposoben voljno voditi in si jih tudi sam priklicati, neodvisno od zunanjih okoliščin, na katere se je navezovala njegova domišljija pred sedmim letom. (Polak Fištravec 1999: 22) Vsekakor je sedaj otrok že sposoben ločiti med domišljijo in zunanjim čutnim zaznavnim svetom, za katerega se pričenja vse bolj zanimati. V njem živi izrazita volja po učenju, v kateri pa še ni potrebe po lastnem presojanju. (Polak Fištravec 1999: 23)
+Razvijanje spomina in predstavljanja, veselje ob ritmičnem ponavljanju ter ritem nasploh, potreba po umetniškem predstavljanju učnih vsebin, kakor tudi umetniško udejstvovanje, dajejo temu obdobju pečat. Zelo je pomembno, da otroku omogočimo izkušnjo za razvoj teh sposobnosti in zadovoljevanja potreb. V waldorfski šoli mu je zraven kognitivno naravnanih predmetov to omogočeno skozi vrsto umetniških dejavnosti, kot so evritmija, slikanje, oblikovanje z glino, recitiranje v zboru, glasba (petje, igranje na flavto, …), rezbarjenje, uprizarjanje dramskih iger, in ne samo to, celoten pouk je prežet z umetnostjo! (Polak Fištravec 1999: 23)
+Če je sprejemanje učitelja kot avtoritete do devetega leta za otroke nekako samoumevno, postane otrok skozi razvoj, ki ga v tem času doživlja, do svojega učitelja bolj kritičen. Kakor je svojega učitelja prej brezpogojno ljubil, tako ga želi sedaj spoštovati, vendar si mora učitelj to spoštovanje zaslužiti. To ni več nič samoumevnega. Ta sprememba je posledica razvoja, kjer se prične za otroka dosedanji enoten svet deliti na otroka kot osebo, na "jaz" in svet okrog njega. Med tema dvema nastane meja, ki jo otrok občuti kot nekaj neprijetnega ali celo (duševno) bolečega. (Polak Fištravec 1999: 24) Zato učne vsebine za to obdobje po eni strani zrcalijo to razpetost (slovnično razgrajevanje stavka, ulomki pri računanju, …) po drugi pa mu pomagajo na novo vzpostaviti most s svetom (spoznavanje okolice, rastlinskega in živalskega sveta, zgodovina in šivanje pri ročnih delih). (Polak Fištravec 1999: 24)
+
+Pri otroku lahko okrog dvanajstega leta starosti pričenjamo opažati spremembe predvsem na njegovem telesu. Roke in noge postanejo dolge in videti je, kot da štrlijo iz telesa. Zaradi tega je otrok tudi zelo okoren. Duševne spremembe se kažejo v tem, da je otrok vedno bolj sposoben razsojanja in da postaja vedno bolj kritičen do bližnjih avtoritet (starši, učitelji).
+Prav ta prebujajoča sposobnost razsojanja mora dobiti v šoli dovolj snovi, ob kateri se bo lahko oblikovala in skozi katero bo otrok dobil odgovore na vprašanja, ki se mu pojavljajo: Od kod? Kam? Zakaj? Zato se v učnem načrtu za šesti in sedmi razred pojavljajo naravoslovni predmeti, kot so fizika, kemija in geometrija. (Polak Fištravec 1999: 24, 25) Glavna tema tega obdobja je raziskovanje. Pomembno je, da se otroku naravni zakoni približajo tako, da jih sprejme kot nekaj živega. Na podlagi konkretnega izkustva (opazovanja, preizkušanja) pripelje učitelj učence do nekega splošnega zakona (abstrakcije).
+Na tak način je otrok sam dejaven in spoznanje – aha! je resnično njegovo lastno in tako tudi živo. (Polak Fištravec 1999: 25) Vsaka vzgoja je v osnovi vzgoja samega sebe.
+Na nobeni stopnji ne obstaja nobena druga vzgoja kakor samovzgoja … Kot vzgojitelji in učitelji smo pravzaprav za samovzgajajočega se otroka le okolje.
+Ustvarjati moramo najugodnejše okolje, da se v njem lahko otrok vzgaja tako, kakor se glede na svojo notranjo usodo mora vzgajati.
+Te prave drže do otroka si vzgojitelj in učitelj ne moreta pridobiti drugače, kakor s postopnim šolanjem zavesti, da je temu tako … Rudolf Steiner
+(Polak Fištravec 1999: 25)
+
+2.3.2 DNEVNI RITEM
+Vsak otrok živi v ritmu bedenja in spanja, sprejemanja in pozabljanja. Če pri oblikovanju urnika in razdelitvi snovi upoštevamo dnevni ritem in letni koledar, pridemo pri tem do nekaterih metodičnih posebnosti vzgoje:
+upoštevanje dnevnega ritma,
+krepitev koncentracije s poukom v obdobjih,
+umetniško urjenje kot šolanje volje,
+vzgajanje čustvenega življenja z govorjeno besedo.
+(Carlgren 1993: 49)
+Zjutraj je otrok najbolj razpoložen za miselna dela, zato se šolski dan začne s predmeti, pri katerih je še posebej potrebno jasno mišljenje, razumevanje in predstavljanje. Vsak tak predmet je na urniku v prvih dveh jutranjih urah, in sicer nekaj tednov zapored kot obdobje, kot večja učna celota. Takšno celoto imenujejo glavna ura. (Carlgren 1993: 49) Glavno uro sestavljajo različne dejavnosti. Običajno se začne z ritmično-muzikaličnimi vajami, to je t.i. ritmični del glavne ure, konča se pa s pripovednim delom. (Medveš 1989: 161)
+Ritmični del je faza, v kateri naj bi z gibanjem telesa zbudili v otrocih sile, ki bi naj omogočile začetek doživljajsko učinkovitega učnega dela. Učenci velikokrat igrajo na različne instrumente (flavto, ksilofon, zvončke), uporabljajo tudi tolkala, vse to z namenom, da poudarjajo takt in ritem. Vadijo tudi jezikovno-recitatorsko izražanje. Tak začetek pouka, po mnenju waldorfskih pedagogov, učence sprosti, ustvari delovno klimo ter razpoloženje in angažirano pozornost. Vse to pa je pogoj za prehod na osrednji del pouka samega predmeta.
+(Medveš 1989: 161)
+Pripovedni del zapolnjuje zadnjih 15–30 minut glavne ure. Vsak dan učitelj s slikovito pripovedjo spodbuja pri učencih fantazijo in sposobnost upodabljanja. Za vsak razred je določeno, katere vrste pripovedi so primerne za učence. V prvem razredu učitelj pripoveduje ljudske pravljice, v drugem bajke in legende, v tretjem zgodovino stare zaveze, v četrtem grško, orientalsko in nordijsko mitologijo, od petega razreda dalje pa jim je zgodovina posredovana preko življenjskih zgodb zgodovinskih oseb. (Medveš 1989: 161) Sledijo predmeti, ki jih je potrebno ritmično ponavljati v samostojnih urah: tuji jeziki, evritmija in telovadba, glasba in religija. Po urah, ki zahtevajo stalno ponavljanje, pridejo na vrsto umetniška in praktična dela. Tudi domače naloge morajo imeti enak značaj: urjenje, oblikovanje in pridobivanje spretnosti. (Carlgren 1993: 49) Enakomerno se ponavlja sprejemanje, doživljanje in izvajanje, oblikovanje ter vdih in izdih. (Carlgren 1993: 50)
+
+
+2.3.3 POUK V OBDOBJIH
+V prvem razredu so obdobja dolga in se med seboj malo razlikujejo. Njihova vsebina je prilagojena sprejemljivosti učencev: risanje likov, pripovedovanje o naravi in letnih časih, o okolju in domovini učencev, pisanje in branje, računanje. Kasneje trajajo obdobja glavnega pouka tri do štiri tedne ter postajajo vedno bolj izrazita in razdelana. Njihova vsebina je tako zaokrožena, da imajo otroci občutek, da so nekaj dosegli. (Carlgren 1993: 51) Ker so obdobja istega predmeta včasih samo dvakrat letno, otroci lahko vsebino vmes pozabijo. Presledek med obdobji je torej isto kot noč med dvema dnevoma pouka. Da bi učenci lahko preoblikovali znanje v sposobnost, je ponovno srečanje s snovjo enako pomembno, kot prebujanje iz spanja. Vedno, kadar se poslavljamo od enega obdobja, ki je še pravkar dvigalo "temperaturo" med učenci, ter začenjamo z novim, se nam ponovi ista slika.
+Vse, kar so učenci prej sprejemali z navdušenjem, o čemer so si lahko ustvarili zaokroženo sliko, je med tem dozorelo in preraslo v sposobnost. Pa tudi tisto, česar niso povsem razumeli, je nenadoma postalo lahko in jasno. Noben drug delovni način ne ponuja toliko možnosti za strnjeno in aktivno delo z otroki. Snov jim predstavimo v nazornih slikah kot zaokroženo celoto. (Carlgren 1993: 51)
+Tudi odrasel človek si lahko predstavlja uspehe takšnega dela, če se je sam nekaj časa osredotočil na eno temo, dosegel svoj cilj, potem pa prešel na naslednjo. V civilizaciji, v kateri je sredi množice vtisov vedno težje misliti in delati na strnjen način, takšen pouk otroke vzgaja k redu in disciplini. (Carlgren 1993: 51)
+Ugovor, da bodo otroci tisto, kar so delali tako zgoščeno nekaj tednov, kmalu pozabili, se ne ujema z izkušnjami. Vsebino, ki so jo obravnavali pred več meseci, so na začetku novega obdobja istega predmeta praviloma sposobni hitro in dobro obnoviti. Znano je tudi, da se v spominu ohrani najbolje tisto, s čimer se je človek intenzivno in z zanimanjem ukvarjal.
+(Polak Fištravec 1999: 43)
+
+2.3.4 RAZREDNI UČITELJ
+Izrazita značilnost in posebnost waldorfske šole je ta, da razredni učitelj spremlja učence od prvega do devetega razreda. To mu daje možnost, da dobro spozna vsakega učenca in ga tako lahko vzpodbuja pri njegovem individualnem razvoju. Prav tako se med učiteljem in učencem zgradi pristen odnos in medsebojno zaupanje. (Polak Fištravec 1999: 42) Devet let je dolga doba in so tako učenci kot učitelji deležni globokih sprememb. V prvem razredu učitelj na primer približa otrokom pisano besedo, pripoveduje zgodbe in skrbi, da vzamejo učenci s seboj obleke in torbe, ko gredo domov. V devetem mora v precejšnji meri obvladati celo vrsto znanstvenih predmetov in se pred mladimi damami in gospodi vesti kot ugleden svetovljan. Nevarnosti, da bi se otroci naveličali gledati pred seboj vedno eno in isto osebo, skuša razredni učitelj preprečiti s tem, da se spreminja skupaj s svojimi učenci. Ti mu tudi največ pomagajo pri njegovi samovzgoji. (Polak Fištravec 1999: 42) Razredni učitelj poučuje v svojem razredu pri glavni uri slovenski jezik, matematiko, spoznavanje narave, v višjih razredih še zemljepis, zgodovino, fiziko, kemijo, biologijo, risanje likov ter slikanje. (Polak Fištravec 1999: 42)
+
+2.3.5 PREDMETNI UČITELJI
+Predmetni učitelji morajo z razrednimi učitelji dobro sodelovati, saj razrednik svoje učence veliko bolje pozna. Imeti morajo razvito sposobnost prilagajanja, hkrati s tem pa imajo tudi povezovalno vlogo. Tuji jeziki, evritmija, glasba, zbor in orkester, likovna vzgoja, ročna dela, rokodelstvo, telesna vzgoja, vrtnarstvo in religija se poučujejo v waldorfski šoli v tedenskem ritmu skozi celo šolsko leto. (Polak Fištravec 1999: 44)
+Dva tuja jezika (nemščina in angleščina) se poučujeta od prvega razreda dalje. Cilj pouka v nižjih razredih je preko pesmi in recitacij v otroku vzbuditi občutek za jezik in razumevanje slednjega skozi kontekst dogajanja in situacij. V waldorfski šoli začenjajo s pisnim in slovničnim spoznavanjem jezika v četrtem razredu. (Polak Fištravec 1999: 44) Umetniški predmeti, kot so slikanje, risanje, petje, ples, recitiranje in evritmija, se poučujejo od prvega razreda, izjema sta oblikovanje z glino ter rezbarjenje, in imajo v različnih obdobjih različno vsebino. (Polak Fištravec 1999: 45)
+Glasba oziroma petje je ob glasbenem pouku sestavni del tako glavne ure z razrednim učiteljem kot tudi pouka tujih jezikov in evritmije. Vsak otrok se uči igrati na flavto, glede na nadarjenost pa lahko izbere še dodatno glasbilo. (Polak Fištravec 1999: 45) Pri slikanju z akvarelnimi barvami na moker papir se otrok v začetnih razredih srečuje z barvami kot takimi, kasneje pa pri slikanju upodablja teme, ki jih spoznava pri pouku. (Polak Fištravec 1999: 45) »Težko je povedati z besedami, kaj pomeni intenzivno doživljanje barv za kasnejši človekov razvoj. Gre za notranje bogastvo, ki ga ni mogoče zgrabiti z rokami, za vrednote in odtenke, ki so preveč nežni, da bi jih lahko opisali. Nekaj pa je res: kdor je začel dojemati in razumevati tiho, povsem nerazumsko, globoko govorico barv, temu se spremeni ves svet.« (Carlgren 1993: 68)
+Risanje likov se začenja praktično s prvo šolsko uro, z risanjem črte in krivulje. To je osnova za spoznavanje črk in pisave. Otroci skupaj z učiteljem rišejo like in oblike. Ta geometrija ne ostaja samo na papirju in v rokah, temveč lahko prodre tudi do nog. Učenci gredo na šolsko dvorišče, tečejo v krogu, v obliki spirale, osmice, se nato vrnejo v razred in te oblike narišejo v svoje zvezke. Takšne vrste geometrija ima lahko neopazno urejevalno vlogo. (Polak Fištravec 1999: 46, 47)
+Evritmija je neke vrste izrazni ples, vidna komunikacija, govor telesa, umetnost gibanja, ki spodbuja izraznost. Evritmija izhaja iz samih glasov govorice, torej iz samoglasnikov in soglasnikov. Besede iz samoglasnikov izražajo naša notranja doživetja in naše razpoloženje, na drugi strani pa besede z veliko soglasnikov posnemajo dogodke v zunanjem svetu (mrmranje, grmenje, …). V waldorfski šoli evritmija zajema širok krog dejavnosti: od preprostih ritmov in vaj s palicami do precej zahtevnih odrskih nastopov v višjih razredih.
+
+(Medveš 1989: 162)
+Pri pouku ročnih del in rokodelstva ne gre samo za znanja in spretnosti, ki si jih pri tem pridobijo učenci, temveč jih pripravlja tudi na izzive, ki jim bodo izpostavljeni kasneje v življenju. Njihov vzgojni namen pa je še veliko širši. (Polak Fištravec 1999: 47) Rudolf Steiner je nekoč takole zapisal: »Naš razum se ne razvija tako, da ga čim hitreje zaposlimo z razumskim delom. Kdor je nespreten v prstih, je nespreten v razumu, nima prožnih misli in idej. Kdor pa zna prste pošteno uporabljati, ima tudi prožne misli in ideje, uspe mu prodreti do bistva stvari. Če človek to ve, ne bo podcenjeval pouka v praktičnem znanju; njegov namen je, da se razum razvije iz zunanjih človeških veščin.« Z drugimi besedami: ročna dela naučijo človeka, da pri mišljenju uporablja voljo. (Carlgren 1993: 68) Tako se učenci, tako deklice kot dečki, učijo plesti, kvačkati, krojiti, šivati ročno in strojno.
+Pri rokodelskih dejavnostih se otroci naučijo obdelovati les, kovino in oblikovati glino tako, da iz teh materialov nastanejo uporabni predmeti, ki imajo umetniške kvalitete. (Polak Fištravec 1999: 48)
+Religija je neločljivo povezana z razvojem kultur v preteklosti in kulturo samo. Vprašanje osebne vere pripada le domu. Pouk religije v waldorfski šoli ne pomeni verske vzgoje nobene veroizpovedi, pač pa pri religiji dobijo učenci pregled nad velikimi mitologijami in religijami različnih ljudstev. (Polak Fištravec 1999: 48)
+Pouk telovadbe temelji na Bothmerjevi gimnastiki, ki zajema ritmične igre, vaje spretnosti, tek, igre z žogo, gimnastiko, vaje na klasičnih gimnastičnih orodjih, lahko atletiko, medtem ko športno-tekmovalnih iger v klasičnem smislu ni. Učitelj telovadbe teži k temu, da resnično vzpodbudi otrokovo naravo in domišljijo. Vse to želi povezati z vajami na tak način, da ne ostanejo čiste telesne dejavnosti, tekmovanje ali šport, kjer šteje samo učinek. (Polak Fištravec 1999: 48)
+
+2.3.6 STRUKTURA GLAVNE URE
+2.3.6.1 PETZVEZDNA METODA
+Petzvezdna metoda vzgaja oz. izobražuje otrokovo dušo. Zlasti je obvezna pri glavnih urah, ki trajajo 120 minut, pri ostalih, krajših urah pa lahko uporabimo enako strukturo v pomanjšani obliki. Takšen ritem ponavljanja te sheme otrokom pomaga.
+1. Nova zgodba
+5. Presoja 2. Karakterizacija Naslednji dan: 3. Noč
+4. Spominjanje
+1. Nova zgodba, nova snov, lahko tudi nek poskus. Učitelj podaja snov, sicer sem sodijo tudi vprašanja učencev, s pomočjo katerih učitelj vzdržuje pozornost, vendar ne prevzemajo glavne vloge pri učiteljevem pripovedovanju. Učitelj tudi ne daje popolnih, zaključenih odgovorov, saj morajo učenci počakati do naslednjega dne. Učenec tukaj sprejema novo snov.
+2. Učitelj tik pred koncem ure, torej pred odmorom, označi, opiše v nekaj besedah novo snov.
+Gre zgolj za to, da učencem izpostavi le najpomembnejše. Tako jim v osnovni šoli še pomaga učitelj, medtem ko bodo s pomočjo takšnega dela sposobni v kasnejših letih to narediti sami.
+3. Noč je trenutek resnice. Mnogo stvari, ki jih počnemo v vsakdanjem življenju, ne nosimo s seboj v duhovni svet. S seboj učenci vzamejo le "vrhunce", ki jih učitelj pripoveduje.
+4. Naslednji dan učenci postavljajo popolnoma drugačna vprašanja, kot so jih takoj po ali pa že tudi med samo pripovedjo o novi snovi. Debato vodi učitelj.
+
+5. Gre za zaključek in čudovito je, če lahko učenci sami pridejo do slednjega. Zelo pomembno je, da nihče ne zapisuje, medtem ko učitelj razlaga novo snov. Zdaj, naslednji dan, si med razpravljanjem že lahko, medtem ko je nujno, da je v tem dnevu snov zapisana in tako tudi v zvezku zaključena, saj je naslednji dan na vrsti že nova snov. To je tudi čas za nove naloge, ki iz tega sledijo. Lahko zgodbo ilustrirajo, jo napišejo v obliki pesmi ali prostega sestavka itd.
+
+2.3.6.2 METODA TROKORAKA
+Če hoče imeti učitelj zdrav pouk na eni in obdelano snov na drugi strani, mora biti pozoren na pozabljanje. Prav to je vedno znova poudarjal Rudolf Steiner. Pri nas velikokrat rečemo, da moramo odločitev "prespati". Vsi pa vemo, da naši problemi v spanju ne izginejo, temveč se razbistrijo. Tako za učitelja kot tudi za učenca je nadvse pomembno, kaj se z učno snovjo zgodi naslednje jutro, na kakšen način se pojavijo doživetja prejšnjega dne. Beseda "pozabiti" spominja na besedo "prebaviti", na predelavo hrane v moč in sposobnost. Pri obrtniških delih je stvar mnogo bolj jasna: ko bi vsak prijem posebej zavestno usmerjal, ne bi nikoli znal spretno ravnati z orodjem. Da bi znali tekoče pisati, moramo pozabiti, kako smo se naučili črk. Zakoreninjene ideje se nikoli dovolj ne izgubijo, saj se vedno znova pojavljajo na površju zavesti. Če se nečesa ne moremo spomniti, to pomeni, da so se nam zaznave in doživetja izgubila ali pa nas niso dovolj močno zanimala, da bi se nam vtisnila v spomin. Za spomin in znanje je pomembno oboje, da znamo stvari pozabiti in da si jih ponovno prikličemo v spomin. (Carlgren 1993: 50)
+Metoda trokoraka poteka s pomočjo tridnevnega ciklusa, in sicer: 1. dan učitelj uvede novo snov s pomočjo pripovedovanja.
+Potrebno je zanimanje in učenci morajo biti zares prisotni, ko jim nekaj povemo, zato je potrebno vedno znova vse obleči v zgodbo. Graditi moramo počasi z veliko umetnosti, velikokrat je potrebno tudi ponoviti.
+2. dan učenci povedo, kaj so slišali včeraj.
+Ponavlja se na najrazličnejše načine: skupinsko delo, ustno utrjevanje, povezovanje književnosti in zgodovine s pomočjo zapisa na tabli, … Učenci so sposobni svojo voljo poslati globoko nazaj, tudi več mesecev, ko so imeli na zadnje to epoho.
+3. dan zapišejo zapis v zvezek.
+Kakor je zapisano v učnem načrtu je najpomembnejši vrstni red, in sicer od poslušanja in pripovedovanja do pisanja oziroma zapisovanja in kot zadnje še branje tistega, kar so pred tem govorili in zapisovali.
+
+2.3.7 UČNI NAČRT
+Waldorfska šola ne uporablja istih učnih načrtov kot državna šola, čeprav imajo predmeti isto ime. Gre namreč za to, da učne načrte sestavljajo waldorfski učitelji sami. V takšnih učnih načrtih so intelektualni in spoznavni cilji podrejeni doživetju, kar pomeni, da imajo v šoli večji pomen vzgojni kot pa izobraževalni cilji. (Medveš 1989: 164)
+Današnji učni načrt je nastal na podlagi osemdesetletne prakse in temeljev, ki so nastali v letih od 1919 do 1924, in sicer v prvi waldorfski šoli ob skupnem delu učiteljev in Rudolfa Steinerja. Vključuje močne elemente globalnega zavedanja, multikulturalne zavesti ter ljubezni do različnosti. Tako lahko rečemo, da je waldorfski učni načrt v svoji zasnovi internacionalen. Njegove kvalitete prav na področju preseganja različnosti in razvijanja tolerance ter sodelovanja so mu prinesle tudi javno priznanje mednarodnih organov, npr.
+Unesca. (Strmole Ukmar 2000: 295, 296)
+Tako učni načrt kot predmetnik waldorfskih šol sta prilagojena potrebam otrokovega razvoja, ki pogojuje njegov odnos do sveta. »Učni načrt otroka v dvanajstih letih šolanja (od osnovne do konca srednje šole) popelje iz domišljijskega, zelo subjektivno obarvanega sveta k objektivnemu, od skupinske zavesti k individualni, od celote k delom, od bližnjega k daljnemu, od praktičnega k abstraktnemu, od znanja k razumevanju. Središče waldorfskega kurikula je človek.« (Strmole Ukmar 2000: 296) Obravnava vsake učne snovi temelji na človeku in povezanosti s praktičnim življenjem. Cilj pa vsekakor ni zgolj pridobivanje znanja, temveč tudi razvoj duševnih sil, ki se lahko razvijajo ob posamezni učni vsebini. (Strmole Ukmar 2000: 296)
+Razlika med učnim načrtom waldorfske in državne šole je v tem, da waldorfski učni načrt izhaja iz potreb otrokovega razvoja in ni največji poudarek na vsebini, ki jo je potrebno usvojiti. Tako tudi v waldorfskem učnem načrtu niso učne vsebine podrobno predpisane, temveč so podani zgolj glavni sklopi, s čimer se ohranja učiteljeva avtonomnost, razvija njegova kreativnost, prilagaja se učni situaciji ter potrebi otroka na posamezni stopnji. Na podlagi tega, bi lahko po našem mnenju, o učnem načrtu govorili kot o napotkih za načrtovanje učnih ur v waldorfski šoli. Primer, ki potrjuje zgoraj napisano, smo zasledili v učnem načrtu za slovenščino, tretje triletje, književni pouk. »Ko pričnejo učenci odkrivati nova področja v svojem duševnem svetu in se pri geografiji učijo o velikih odkritjih, je primerno branje življenjepisov ljudi, ki so odkrivali nove predele Zemlje in ljudi, ki so v človeški zgodovini igrali odločilno vlogo. Če je možno, berejo zgodovinske tekste, romane, ki opisujejo moderne poglede na sodobno zgodovino, literaturo 19. stoletja. Branje avtorjev, ki obravnavajo tematiko odkrivanja notranjih in zunanjih svetov, mobilizira notranje sile občutkov, s katerimi potem mlad človek aktivno stopa v zunanji svet.« (http://www.waldorf.si/?w=11: 51, pridobljeno 4. 9. 2013)
+
+
+2.3.7.1 UČNI NAČRT SLOVENŠČINA
+Jezik je naše najpomembnejše sredstvo medsebojnega razumevanja in je prav zaradi tega prvenstveni pripomoček pri izobraževanju. Zelo pomemben vpliv ima tudi na oblikovanje otrokovega razvoja, zato je negovanje jezika osrednja vzgojna naloga Steinerjeve waldorfske pedagogike. Namen učnega načrta je učitelja spodbuditi k negovanju jezikovnih veščin pri vseh predmetih. Poučevanje materinščine ima ključno vlogo v celotnem izobraževanju.
+(http://www.waldorf.si/?w=11: 3, pridobljeno 5. 9. 2013)
+V svoji osnovni obliki je jezik sposobnost "jezikovnega duha". Modrost slednjega lahko zmeraj znova občudujoče odkrivamo in doživljamo skozi oblikovanje besed, kot tudi v slovničnih ujemanjih. Z uporabo jezika se vsak človek soudeležuje v ustvarjanju "jezikovnega duha" in se z njim povezuje kot individuum. To individualno ustvarjanje je hkrati izraz jaza.
+(http://www.waldorf.si/?w=11: 3, pridobljeno 5. 9. 2013)
+Ker je cilj waldorfske pedagogike omogočiti mlademu človeku dostop do njegovega jaza s pomočjo učnih vsebin, ima pouk jezika in nega slednjega pomembno vlogo.
+(http://www.waldorf.si/?w=11: 3, pridobljeno 5. 9. 2013)
+Naloga poučevanja je nagovoriti učenca v njegovi polnosti mišljenja, občutja ter hotenja.
+Jezik ima posredniško vlogo v treh stopnjah zgodnjega otroštva, pridobitvi vzravnanosti, učenju govorjenja ter razvoju mišljenja. Govor je ponotranjeno gibanje, mišljenje pa ponotranjen govor. Povsem jasno je napredovanje od gibanja in kretnje h govoru ter od govora k mišljenju. V tej notranji preobrazbi gibanja deluje jezik kot oblikovna sila v otrokovem razvoju. (http://www.waldorf.si/?w=11: 3, pridobljeno 5. 9. 2013) Razmerje med gibanjem in kretnjo ter govorom in mišljenjem je ključno za vse vidike jezikovnega poučevanja. Na vseh ravneh jezikovnih izkušenj (od oblikovanja glasov, črk abecede, ritma, stavčne strukture) najdemo preobrazbo gibanja in kretnje. Naloga jezikovnega poučevanja v osnovni šoli je razširitev otrokovega spektra jezikovnih izkušenj.
+(http://www.waldorf.si/?w=11: 3, pridobljeno 5. 9. 2013)
+Vse to se odraža ob dramatizaciji, saj se preko analize misli v odlomku pozornost preusmeri na ritem sintakse, išče se pomen ter učinek glasov, ki jih je umetnik uporabil in kot končna podoba se na odru izrazi celota kot gib in kretnja. (http://www.waldorf.si/?w=11: 4, pridobljeno 5. 9. 2013)
+
+Pri pouku slovenskega jezika je pomemben vrstni red, in sicer od poslušanja in pripovedovanja do pisanja oz. zapisovanja in kot zadnje še branje tistega, kar so pred tem govorili in zapisovali. Najboljša pot do dobrega branja je veliko kvalitetnega govorjenja, poslušanja in zapisovanja. (http://www.waldorf.si/?w=11: 4, pridobljeno 5. 9. 2013)
+
+2.3.7.2 TRETJE TRILETJE 2.3.7.2.1 SPLOŠNI CILJI PREDMETA
+Učenci sprejemajo ustna in pisna umetnostna ter neumetnostna besedila. Na ta način pridobivajo različne informacije, spoznavajo domačo in tujo kulturo ter bogatijo svoja osebna življenja. Ob razmišljanju razvijajo logično mišljenje, sklepanje, vrednotenje, utemeljevanje in upoštevanje drugačnih mnenj.
+Zavedajo se, da je slovenski jezik državni jezik, zato si med učenjem oblikujejo tudi narodno zavest.
+Učenci samostojno tvorijo ustrezna pisna in ustna besedila, se pogovarjajo in govorno nastopajo. Vzporedno s tem si krepijo samozavest in zmožnost spoštovanja drugačnega mnenja. Spoznavajo, da sta govorjenje in pisanje zapleteni dejavnosti. Zavedajo se pomena učenja maternega jezika.
+Razvijajo pravorečne in pravopisne sposobnosti ter spoznavajo vlogo slovenskega jezika v širšem prostoru.
+Razvijajo sposobnost branja, razumevanja in vrednotenja književnosti. Poslušajo učiteljevo pripovedovanje, branje poezije ter proze. Razvijajo sposobnost razumevanja in vrednotenja dramatike, se naučijo daljše dramsko besedilo in ob tem preizkušajo svoje sposobnosti vživljanja v različne like. Ob nastopu pa doživijo pomembnost umetniškega dela in si pridobivajo samozavest.
+Pripravijo se za samostojno ustno predstavitev projektnega dela in ob tem urijo jasnost izražanja misli ter pomen lepega, razločnega govora.
+Spoznavajo slovensko in svetovno mladinsko književnost.
+(http://www.waldorf.si/?w=11: 8, pridobljeno 5. 9. 2013)
+
+2.3.7.2.2 OPERATIVNI CILJI PREDMETA 2.3.7.2.2.1 JEZIKOVNI POUK
+2.3.7.2.2.1.1 POSLUŠANJE IN GOVORJENJE
+Po dvanajstem letu je osnovno vodilo poučevanja iskanje vzročno-posledičnega pogleda na stvari. Prav zaradi tega se mora učence še bolj načrtno uvajati v pozorno poslušanje in govorjenje, ki naj v zaključnih razredih privede do raznovrstnih diskusij.
+(http://www.waldorf.si/?w=11: 45, pridobljeno 5. 9. 2013)
+Diskusije so oblikovane kot razprave, kjer izberemo temo in nato posamezniki razpravljajo, tako da podpirajo ali zanikajo neko stališče. Teme naj bodo povezane z realnostjo. Naj imajo učenci možnost, da lahko govorno podprejo tisto stran, ki je v resnici ne zagovarjajo. Ta način zagovora ima namreč pomembno moralno in socialno vlogo. Zmožnost predstavljati nekoga drugega ter se vživeti v njegovo življenje ali pa v njegov pogled na določeno stvar, je pomembna veščina in jo je potrebno razvijati. (http://www.waldorf.si/?w=11: 45, pridobljeno 5. 9. 2013)
+Pogovor v skupini omogoča pomemben razvoj sposobnosti socialnega življenja in spoštovanja drugačnih mnenj. (http://www.waldorf.si/?w=11: 45, pridobljeno 5. 9. 2013) Učenci v tretjem triletju:
+poslušajo prosto govorjena poljudnoznanstvena besedila, poročila, potopise, razlage in opise,
+sami govorno nastopajo, temo pripravijo vnaprej,
+samostojno pripovedujejo daljši referat na določeno temo,
+prosto predstavijo določeno snov kot projektno nalogo,
+negujejo svoje govorno izražanje ter bogatijo svoj besedni zaklad,
+negujejo skupni pogovor, ki zahteva pozorno poslušanje, sposobnost izražanja občutkov in čustev, utemeljevanje lastnega mnenja in sposobnost vživljanja v druge,
+učijo se pozornega poslušanja, zaznavanja, opazovanja ter spominjanja,
+razvijajo sposobnost pravilnega izražanja opažanj, občutkov, osebnih izkušenj ter mnenj,
+razvijajo sposobnost, da lahko neko vsebino samostojno predstavijo.
+(http://www.waldorf.si/?w=11: 46, pridobljeno 5. 9. 2013)
+
+2.3.7.2.2.1.2 PISANJE
+Steiner je dejal, da se pri učencih razvija stil pisanja tudi glede na temperament, tako na primer poznamo melanholični, kolerični stil itd. V njih se tako prebudi občutek za temperamente. Tako se učenci srečujejo z jezikom še iz novega zornega kota.
+(http://www.waldorf.si/?w=11: 46, pridobljeno 5. 9. 2013) Opisom zunanjega sveta se v tem obdobju pridružijo odtisi teh zaznav v obliki izražanj doživetij, razmišljanj in mnenj. Učenci so v tem času pripravljeni na pisanje esejev. (http://www.waldorf.si/?w=11: 46, pridobljeno 5.
+Pri pisanju esejev je potrebno poudariti pogled na zgodovinsko in socialno pomembne teme z nasprotnih stališč, tako pozitivnih kot tudi negativnih, lahko pa tehtamo dve stališči, in sicer eno proti drugemu. Učenci morajo vaditi, kako opazovati obstoječa dejstva in razmisliti, kaj lahko povedo o tem. (http://www.waldorf.si/?w=11: 47, pridobljeno 5. 9. 2013) Učenci:
+razvijajo spretnost pisanja,
+natančno opisujejo opažanja, doživljaje in razmišljanja,
+sestavljajo pisma različnim osebam, natančna poročila o resničnih dogodkih, povzetke dejstev, komentarje, opombe, …,
+učijo se zapisovati natančne opise procesov, dogodkov ter drugih opažanj,
+iz časopisne vrstice sestavijo kratko zgodbo in/ali obratno,
+natančno opisujejo opazovanja poskusov pri pouku fizike, biologije, kemije,
+pri ročnih delih podrobno zapišejo postopek izdelave izdelka,
+zapisujejo nareke,
+samostojno pišejo sestavke na teme obravnavane pri pouku geografije, zgodovine in biologije,
+sestavijo in zapišejo referat na izbrano temo,
+urijo se v pisanju strokovnih sestavkov po pripovedovanju ali branju (intervju, poročilo, kritiko, reklamo, potopis, oceno, življenjepis, izvleček, oglas, obvestilo, opomin, potrdilo, prošnjo, povzetek, vabilo, zahvalo, zapisnik),
+učijo se pravilno pisati ločila in velike začetnice,
+vadijo pravopis,
+učijo se razvijanja misli v spisu ali sestavku.
+(http://www.waldorf.si/?w=11: 47, pridobljeno 5. 9. 2013)
+
+2.3.7.2.2.1.3 BRANJE
+Večina učencev je v tem obdobju sposobna tekočega branja, prav zaradi tega pouk branja omogoča iskanje individualnih kvalitet glasnega branja. (http://www.waldorf.si/?w=11: 48, pridobljeno 5. 9. 2013)
+Zdaj, ko se je v njih rodila sposobnost presojanja, razvijajo odnos do prebranih besedil in začenjajo ločevati med umetnostnimi in neumetnostnimi besedili.
+(http://www.waldorf.si/?w=11: 48, pridobljeno 5. 9. 2013)
+Vadijo glasno in tekoče branje tiskanih ter pisanih besedil, pozorni so na knjižno izreko, ustrezno intonacijo ter pravilno poudarjanje,
+vadijo tekoče in tiho branje z razumevanjem,
+berejo različna neumetnostna besedila (anketo, časopisno novico, intervju, reklamo),
+berejo besedila povezana z drugimi predmetnimi področji: dnevnike, biografije, opise krajev in držav, življenja ljudi, dogajanja v naravi,
+po branju utemeljujejo sporočilo, presodijo njegovo razumljivost in utemeljijo popravke, če so potrebni,
+berejo tudi uradna, poljudnoznanstvena ter strokovna besedila: kritiko, oceno, poročilo, izvleček, obvestilo, oglas, opomin, potrdilo, povzetek, prošnjo, zapisnik in jih razumejo,
+prepoznajo naslovnika, sporočevalčev namen ter temo besedila,
+učijo se vzpostavljati kritičen odnos do prebranih sporočil,
+v publicističnih besedilih presojajo resničnost podatkov,
+ločijo, ali je besedilo knjižno, narečno, prikazovalno ali propagandno, umetnostno ali neumetnostno.
+(http://www.waldorf.si/?w=11: 48, pridobljeno 5. 9. 2013)
+
+2.3.7.2.2.1.4 RAZUMEVANJE JEZIKA
+To je obdobje, ko mladi večinoma izgubljajo povezavo z jezikom in okoljem. Poglabljanje občutka za kvaliteto in širino jezika ima zato toliko večji pomen.
+(http://www.waldorf.si/?w=11: 49, pridobljeno 5. 9. 2013)
+Prekomeren vdor stilno zaznamovanih besed zahteva vedenje o pomenu rabe domačih besed pred tujimi ter odločitev za ohranitev čistosti jezika. Mladi spoznavajo nevarnosti, ki se pojavijo, če se to ne zgodi. Učenci začenjajo odkrivati pomen in vlogo jezika pri ohranjanju identitete slovenskega naroda v preteklosti, sedanjosti in prihodnosti.
+(http://www.waldorf.si/?w=11: 49, pridobljeno 5. 9. 2013)
+Razvijajo občutek, da je jezik živ. Začenjajo se zavedati, da za strogimi slovničnimi pravili živi bogata vsebina, ki posamezniku omogoči izraziti doživetje ali razmišljanje. Doživljajo, da jim poznavanje jezikovnih zakonitosti omogoča svobodo izražanja.
+(http://www.waldorf.si/?w=11: 49, pridobljeno 5. 9. 2013)
+Ponovno se srečajo z vsemi besednimi vrstami in vsako izmed njih natančneje spoznajo,
+ob različnih primerih opisujejo, katero izrazno kvaliteto prinaša posamezna besedna vrsta,
+spoznajo sklanjatvene vzorce in tako samostalniku določijo sklanjatev,
+spoznavajo neosebne glagolske oblike,
+razlikujejo naklonske in frazne glagole ter jih predstavijo v izrazih začudenja in občudovanja,
+doživijo in spoznajo razliko med pojmoma besedne vrste in stavčni členi,
+na osnovi vprašalnic določajo stavčne člene: povedek, osebek, predmet, prislovno določilo,
+spoznajo vse stavčne člene ter ugotavljajo povezave med njimi,
+opazujejo, kako različni stavčni členi vplivajo na izrazno moč stavka,
+izobrazijo se o gradnji stavkov,
+razmišljajo o razliki med pogojnimi in trdilnimi stavki,
+doživijo razliko ter sporočilno vrednost golih stavčnih členov v primerjavi z zloženimi,
+spoznavajo pojme jedro, določilo, levi in desni prilastek ter priredno in podredno zloženi stavčni člen,
+ugotavljajo razliko med kvaliteto zloženih in golih stavkov,
+razlikujejo pomen izrazov poved in stavek,
+v besedilu iščejo enostavčne ter dvostavčne povedi,
+v njih ločijo glavni ter odvisni stavek,
+
+stavčne člene razširjajo v odvisnike in obratno,
+poimenujejo odvisnike,
+ugotavljajo razmerja med različnimi enakovrednimi zloženimi stavki ter jih poimenujejo,
+ugotavljajo, kateri vezniki določajo posamezna razmerja,
+pozorni so na uporabo vejice v obravnavanih priredjih,
+v dvostavčnih povedih iščejo glavne ter odvisne stavke in jih zapišejo v S zgradbi,
+spoznajo pojem pastavek, polstavek in pristavek ter urijo rabo ločil v njih,
+utrjujejo osnovne pravopisne zakonitosti,
+v besedilih najdejo slovnične ter pravopisne napake in jih popravijo,
+besedam iščejo protipomenke, nadpomenke, podpomenke, sopomenke,
+besedam iščejo člane iste besedne družine in jim določijo koren,
+iščejo stalne besedne zveze ter pojasnjujejo njihov pomen,
+naštejejo glavne evropske jezikovne skupine ter ugotovijo, v katero skupino spada slovenski jezik,
+spoznajo bistvene značilnosti začetkov slovenskega jezika,
+razmišljajo o narečjih, slengu in prevzetih besedah,
+besedila znajo spremeniti v knjižni jezik,
+vadijo uporabo jezikovnih priročnikov.
+(http://www.waldorf.si/?w=11: 49–51, pridobljeno 5. 9. 2013)
+
+2.3.7.2.2.2 KNJIŽEVNI POUK
+V tem starostnem obdobje učenci "umolknejo". Ravno zaradi tega imajo toliko večjo potrebo po pisanju. Slednjo je potrebno pravilno usmerjati in ji dati dovolj možnosti za izražanje, kar pa zahteva od učitelja veliko razumevanja in obzirnosti. (http://www.waldorf.si/?w=11: 51, pridobljeno 5. 9. 2013)
+Prične se razvijati sposobnost presojanja, zato šele sedaj pišejo spise o notranjih doživetjih ter stvareh, ki zaposlujejo njihovo domišljijo. (http://www.waldorf.si/?w=11: 51, pridobljeno 5.
+Učencem je potrebno omogočiti razvoj sposobnosti bogatega in slikovitega izražanja želja, čudenja in presenečenja. Učitelj si tako mora prizadevati, da se učenci naučijo oblikovati povedi, ki imajo v sebi ta občutja. (http://www.waldorf.si/?w=11: 51, pridobljeno 5. 9. 2013) Skupaj, z učiteljevo pomočjo, naj ugotavljajo razliko med stavki, ki izražajo željo in tistimi, ki izražajo čudenje, ter poiščejo oblikotvorno silo jezika, ki zmore to izraziti. Ko učenci ta čustva izrazijo, jih zavestno dojamejo. Sedaj jih lahko opazujejo v na pogled nevtralnem področju jezika. (http://www.waldorf.si/?w=11: 52, pridobljeno 5. 9. 2013) Paleto občutij in njihovih kombinacij raziskujejo v njihovih jezikovnih izrazih: začudenje, predanost, presenečenje, osuplost, poželenje in strast nasproti hrepenenju, spodbujanju s sledjo izziva, zanikanje kot odrekanje ali žrtvovanje ter zanikanje kot samoobramba. Veliko je takih opisov duševnih stanj, ki jih lahko raziskujejo. Na takšen način pomagamo adolescentom, da začno načrtovati svoje notranje življenje in poimenovati svoja čustva.
+(http://www.waldorf.si/?w=11: 52, pridobljeno 5. 9. 2013)
+S pomočjo umetniško oblikovanega govora se učenci pripravljajo na nastopanje v javnosti.
+Prvič se lahko srečajo s pravo dramsko produkcijo. Do tega obdobja so sicer igrali že več iger, vendar je razlika v profesionalnosti, h kateri moramo stremeti. Pot ustvarjanja gledališke predstave mora biti tlakovana s pripravami, da to postane popolna gledališka izkušnja. Če izberemo delo iz klasičnega repertoarja, bodo učenci laže sprejeli stil jezika, ki ga niso vajeni, saj zgodba in osebe že živijo v njihovih predstavah. Učitelj pove zgodbo ter dogajanje, razdeli vloge, nato pričnejo z branjem scen. (http://www.waldorf.si/?w=11: 52, pridobljeno 5. 9.
+Učitelj pa lahko tudi sam napiše ali priredi igro z osebami in s temami s prirejenimi sposobnostmi, ki jih učenci pokažejo v razredu. Čeprav morda igri primanjkuje literarne oblike, ima veliko prednost, saj je prirejena določeni skupini otrok. Ko delimo vloge, je še vedno zelo pomembno, da učenci dobijo vlogo, ki ima za njih pozitiven izziv, da razvijejo del svoje sposobnosti. Če učitelj da vodilno gledališko vlogo bolj nadarjenim učencem, bo predstava boljša, ne bo pa priložnosti za razvoj učencev. Bolj primerno je, da vloge v skladu s sposobnostmi, ki služijo igri, delimo v srednji šoli. V višjih razredih osnovne šole pa ima igra ter razdelitev vlog socialne namene. (http://www.waldorf.si/?w=11: 52, pridobljeno 5. 9.
+
+Ob koncu zadnjega triletja je učencem potrebno ponuditi razumevanje obsežnejših besedil proze in poezije. Uvajajo se v jezik starih časov. (http://www.waldorf.si/?w=11: 52, pridobljeno 5. 9. 2013)
+Na temelju načinov izražanja, ki jih niso vajeni, lahko njihove misli pridobijo širino.
+Razvijajo nove sile in spretnosti, s katerimi lahko bolj kritično pristopijo k literarnim delom.
+(http://www.waldorf.si/?w=11: 53, pridobljeno 5. 9. 2013)
+Še vedno poslušajo učiteljevo branje in pripovedovanje proze ter poezije,
+recitirajo v zboru, skupini ter samostojno,
+poslušajo narečno, slengovsko besedilo in besedilo, v katerem so prevzete besede, prepoznavajo razlike ter besedila "prevedejo" v slovenski knjižni jezik,
+spoznavajo slovensko in svetovno mladinsko književnost ter književnost za odrasle,
+samostojno in tiho berejo daljša književna besedila, jih razumejo, obnovijo zgodbo in razpravljajo o vsebini, zgodbi ter jeziku, času in kraju dogajanja, se vživijo v življenje glavnih oseb, prepoznavajo motive za njihovo ravnanje, avtorja in pripovedovalca,
+ob branju ter lastnem ustvarjanju spoznavajo temeljne literarne zvrsti,
+doživljajo, zaznavajo in razumejo značilnosti pripovednih vrst (pripovedko, anekdoto in humoresko, povest, roman, novelo, črtico),
+prepoznavajo zgradbo besedila: temo, idejo, snov, zgodbo,
+zaznavajo in doživljajo zvočnost pesniškega jezika, ritem, rimo, likovno podobo besedila, besede s prenesenim pomenom, temo (ljubezensko, socialno, razpoloženjsko in miselno poezijo) in pesniške vrste (ep, sonet, balado, romanco, gazelo, gloso),
+spoznavajo svobodne ritme ter prozo kot nasprotje strogo vezanih oblik,
+opazujejo notranjo zgradbo literarnih besedil,
+iščejo različna vzdušja v literaturi,
+uprizorijo gledališko igro na odru pred širšim občinstvom,
+
+razpravljajo o prebranih vsebinah,
+spoznavajo pomembne dogodke v povezavi z nastankom slovenskega jezika in slovenskega knjižnega jezika ter vlogo nekaterih znanih Slovencev v tem procesu, spoznavajo tudi razvoj slovenske književnosti od nastankov (Trubar) do današnjih dni,
+spoznavajo življenja pesnikov in pisateljev, jih med seboj primerjajo in ugotavljajo, kako se utrip časa, v katerem so živeli, odraža v njihovih delih,
+razvijajo sposobnost pravilnega oblikovanja misli, občutkov, osebnih izkušenj ter mnenj,
+pišejo doživljajske, domišljijske in literarne spise, opise predmetov, delovnih postopkov ter orise in oznake književnih oseb,
+učenci iščejo svoj lastni stil pisanja ob spoznavanju različnih stilov pisanja pesnikov in pisateljev ter pri samostojnem literarnem ustvarjanju,
+pišejo poročila o gledaliških predstavah, koncertih in ogledih filmov,
+opisujejo različna občutja, vzdušja ter ugotavljajo razlike med njimi.
+(http://www.waldorf.si/?w=11: 53, 54, pridobljeno 5. 9. 2013)
+
+2.3.7.2.3 DIDAKTIČNA PRIPOROČILA IN MEDPREDMETNE POVEZAVE
+Učenci se pri svojem delu ne srečujejo samo z živo učiteljevo besedo, temveč tudi z različnimi besedili, ki imajo umetniško vrednost, kot tudi z neumetnostnimi besedili.
+(http://www.waldorf.si/?w=11: 66, pridobljeno 6. 9. 2013) Neumetnostna besedila so največkrat vsebinsko povezana z obravnavano snovjo pri družboslovnih in naravoslovnih predmetih. Učenci jih lahko obravnavajo kot dopolnilo k obravnavani snovi, ali pa jim je morda to izhodišče za pripravo referatov ter seveda osnova za zaključni projekt v devetem razredu. (http://www.waldorf.si/?w=11: 67, pridobljeno 6. 9.
+Posamezne referate učenci pripravijo lahko tudi v dvojicah ali manjših skupinah. Ob tem razvijajo sodelovalno učenje, učenje z odkrivanjem in problemsko učenje, zmožnosti za sporazumevanje, sposobnosti oblikovanja skupnega mnenja ter sodelovanja ob skupni predstavitvi. (http://www.waldorf.si/?w=11: 67, pridobljeno 6. 9. 2013) Pri poslušanju ali branju različnih neumetnostnih besedil se navajajo, kako razmišljujoče in kritično sprejemati besedila ter utemeljiti lastno mnenje o njih. Razvijajo in nadgrajujejo se tudi za tvorjenje samostojnih ustnih in pisnih neumetnostnih besedil, ob pravorečnih in pravopisnih sposobnostih razvijajo tudi zmožnost logičnega razmišljanja.
+(http://www.waldorf.si/?w=11: 67, pridobljeno 6. 9. 2013)
+Ob pogovorih učenci razmišljajo o družbenih vidikih jezika, spoznavajo vlogo narečja, slenga ter tujk, se poglabljajo v zgodovino našega jezika ter razpredajo o vlogi slovenskega jezika v zamejstvu. (http://www.waldorf.si/?w=11: 67, pridobljeno 6. 9. 2013) Učenci si pridobivajo suverenost tako na govornem kot na pisnem področju. Samostojno posegajo po poljudnih revijah in člankih ter si znajo sami poiskati primerno književno delo.
+(http://www.waldorf.si/?w=11: 67, pridobljeno 6. 9. 2013) V devetem razredu si temo zaključnega projekta izbere vsak učenec sam. Pri tem so najpomembnejši lastni interesi. Učenec pripravi obširno predstavitev, v kateri je združeno jezikovno znanje (kvaliteta sestavljenih zapisov in pravopis), strokovno znanje (razumevanje obravnavane tematike in sposobnost predstaviti jo z lastnimi povzetki in razmišljanji) in umetniške sposobnosti (ilustracije, plakat, oblikovanje pisnega izdelka). Vsak učenec se pripravi na zahtevno ustno predstavitev, saj mora referat javno predstaviti sošolcem, staršem, učiteljem in gostom. Pozoren mora biti na natančno predstavitev vsebine, ki mora biti dovolj glasna in jasna, držati se mora pravilne knjižne izgovorjave in časovne omejitve predstavitve.
+
+(http://www.waldorf.si/?w=11: 67, pridobljeno 6. 9. 2013)
+Pouk slovenščine je povezan z drugimi predmeti glavne ure, od koder se črpajo vsebine neumetnostnih besedil, to so kemija, fizika, biologija, zgodovina ter geografija. Pri umetniških in rokodelskih predmetih učenci opisujejo postopek dela, pouk evritmije pa je obarvan z bogastvom umetnostnih besedil, kjer učenci ritem, rimo in izrazno moč pesmi tudi gibalno prikažejo. (http://www.waldorf.si/?w=11: 68, pridobljeno 6. 9. 2013) Večdnevni izleti, strokovne ekskurzije in šole v naravi so priložnosti za pisanje spisov.
+Priporočljivo je, da ob tem izdajo razredno glasilo in tako razvijajo socialne zmožnosti ter gredo čez procese ustvarjanja, likovnega in tehničnega urejanja ter končnega širjenja glasila med otroci na šoli. (http://www.waldorf.si/?w=11: 68, pridobljeno 6. 9. 2013)
+
+2.3.8 UČBENIKI IN NJIHOVA UPORABA
+Zelo redko slišimo, da bi kakšen učenec rekel: »Pri tem predmetu imam tako odličen učbenik, da se naučim veliko več.« Ali pa: »Učbenik je tako slab, da nimam veselja do učenja.« Medtem ko pa velikokrat slišimo: »To leto sem imel tako dobrega učitelja, da sem se naučil toliko, kot še nikoli.« Vse to nam lahko ponudi le otroška iskrenost, ki potrjuje dejstvo, da so lahko učbeniki ali tehnični pripomočki še tako dobri, pa vendarle štejejo prav malo v primerjavi z učiteljevimi pedagoškimi sposobnostmi. (Carlgren 1993: 52) V waldorfskih šolah je živa beseda tako pomembna, da v nižjih razredih učbenikov sploh ne uporabljajo, pa tudi v višjih se jih izogibajo. Zakaj je tako?
+Krneta (1975: 466) navaja:
+1. Učbenik zavira kreativno delo učitelja, saj mu narekuje točno določeno metodično pot pri obravnavi snovi.
+2. Standardni učbenik, ki se uporablja dalj časa, postane neaktualen in zastari.
+3. Učbenik je napisan za določeno povprečje učencev in tako ne more upoštevati različnega predznanja in sposobnosti posameznih učencev. Tako se zgodi, da je za nekatere pretežek, spet za druge pa prepočasen.
+Carlgren (1993: 52) pa dodaja, da v nobenem učbeniku ni mogoče najti rdeče niti, ki se vleče skozi dobro pripravljeno učno obdobje od zasnove preko viška do konca, ki vsebino zaokroži in z novimi vprašanji nakaže naslednje obdobje.
+Vse to mora pripraviti učitelj sam, odvisno od njegovega razreda in vzgojnega učinka, ki ga hoče doseči s snovjo. Podatke črpa iz raznih knjig ter jih odvisno od svojega poznavanja človeka in pedagoškega pomena področja oblikuje v primerno celoto. (Carlgren 1993: 53) Ker si učitelj sam pripravlja svojo razlago, se mora temeljito pripraviti. Zato pa se z izbiro snovi lahko prilagaja posebnim razmeram v razredu, celo učencem in vsem njihovim posebnostim. Če je učitelj sposoben in domiseln, lahko obravnava tudi vprašanja in probleme, ki so trenutno aktualni. Živo, zagnano učiteljevo podajanje omogoča različno nadarjenim učencem, da enako dobro sodelujejo pri pouku. Nevarnost subjektivnega razpoloženja učitelja se razblini z njegovim vstopom v razred, ko se njegov "zasebni jaz" umakne in dobi navdih iz izvirov, ki so zunaj njega samega. Najde moč, da lahko oblikuje svojo uro z izmenjavanjem humorja in stroge resnosti, napetosti in sproščenosti. Tako se zagnanost učencev stopnjuje in spet popušča. Kot moderni ljudje pogosto ne zaupamo svojim čustvom, govorimo o emocijah in smo prepričani, da se jih je treba izogniti. Otrok v obdobju pubertete pa potrebuje močno čustveno razgibanost. Znati se mora vživeti v razmere zunaj samega sebe, tako da pozabi na svoje osebne probleme in se začne zanimati za svet okrog sebe. S tem razvija tudi "čustveno življenje" učencev. Zagnan učitelj vedno najde zagnane učence. Ali ni to pri vsem pouku in vzgoji najpomembnejše? Sposobnost sočustvovanja s tistimi, ki se veselijo, in s tistimi, ki trpijo, je vendar osnova vsega človeškega sožitja. V življenju sredi telekomunikacij in avtomatiziranega pouka je najuspešnejši način humanistične, družbene vzgoje še vedno živa beseda, ki najde pot od človeka do človeka. (Carlgren 1993: 53)
+
+
+3. EMPIRIČNI DEL
+Gradivo za empirični del smo pridobili s pomočjo sodelovanja z waldorfsko šolo A. Odločili smo se za hospitiranje v 8. razredu devetletne osnovne šole, kjer je bilo 16 učencev (12 fantov in 4 dekleta), in sicer spomladi leta 2012. V razredu smo bili vseh devetnajst dni, kolikor je epoha slovenskega pouka potekala. Sestavljena je bila iz literarnih pojmov, zgodovinskega pregleda književnosti, ustvarjalnice ter referatov. Snov smo dosledno zapisovali, jo dopolnjevali z učnimi listi, učenčevimi izdelki ter s pogovorom z učiteljico. Izvedli smo tudi šest nastopov, kar je v nadaljevanju posebej označeno z zvezdico (*nastop).
+Različne velikosti pisav smo uporabili zato, da bi bile stvari bolj pregledne. Tako smo manjšo različico pisave uporabili takrat, kadar je šlo za gradivo, ki so ga učenci poslušali ali zapisali, za vprašanja, ki jih je postavljala učiteljica ali so jih oblikovali učenci, ter za zapise zapisane na tabli. Z večjo pisavo je zapisan potek dela.
+3.1 NAMEN
+V empiričnem delu želimo prikazati neposredno izvedbo poučevanja slovenščine v 8. razredu waldorfske devetletne osnovne šole. Celotna epoha slovenščine je trajala devetnajst dni in je bila razdeljena na več delov. Vsak del smo posebej proučili in zapisali vse, kar je bilo mogoče. Nismo bili samo poslušalci in v tistih dneh del razreda, temveč smo se tudi aktivno vključevali v proces s svojimi nastopi.
+3.2 RAZISKOVALNE HIPOTEZE
+Hipoteza 1: Predvidevamo, da je otrok v središču dogajanja.
+Hipoteza 2: Predvidevamo, da med razrednikom in učencem vladata neposrednost in pristnost.
+Hipoteza 3: Predvidevamo spontanost v vzgojnem in učnem delu.
+Hipoteza 4: Predvidevamo uporabo najrazličnejših metod poučevanja znotraj epohe.
+Hipoteza 5: Predvidevamo, da usvajanje snovi in znanj poteka s pomočjo trokoraka.
+
+3.3 METODOLOGIJA
+3.3.1 RAZISKOVALNE METODE
+Med nastajanjem diplomskega dela smo uporabili naslednje raziskovalne metode: a. deskriptivno metodo (proučevanje na nivoju opisovanja dejstev), b. komparativno metodo (proučevanje na nivoju primerjanja dejstev, odnosov, proces z namenom odkrivanja podobnosti in razlik), c. metodo analize in sinteze (razčlenjevanje sestavljenih pojavov ter združevanje enostavnih miselnih sestavin), d. metodo opazovanja, e. metodo demonstracije/nastopanja.
+3.3.2 UPORABLJENI VIRI
+Srečevali smo se tako s primarnimi kot tudi s sekundarnimi viri.
+Primarni viri: knjige, članki v strokovnih in znanstvenih revijah, zborniki, diplomska dela, internetni viri.
+Sekundarni viri: priročniki, učni načrti.
+
+Glavno uro zajemajo različne dejavnosti. Prvi del, ki ga sestavljajo jutranji pozdrav, verz ter novice je enak ne glede na predmet, ki ga v epohi obravnavajo. Pesmi, recitacije in ritem, ki sledijo, se pa razlikuje od epohe do epohe. Učitelj jih določi glede na obravnavano snov, spet drugič glede na vzdušje v razredu, ali pa gre za povezavo s kakšnimi drugimi predmeti.
+Notranji ritem glavne ure: 1. Jutranji pozdrav
+Jutranji pozdrav sovpada z rokovanjem vsakega od učencev, ko vstopa v razred. Ne gre samo za vljuden pozdrav na začetku vsakega šolskega dne, temveč deset sekundni ritual rokovanja učitelju zagotovi dober vpogled. Tako je lahko učitelj veliko bolj dovzeten za spremembe.
+Nekatere roke so namreč vlažne, druge mokre, spet nekatere vroče, druge mrzle, … (Brierley 2006: 34) Roke ne samo nekaj primejo, ujamejo ali potisnejo, roke dosegajo in segajo, prejemajo in sprejemajo roke drugih. Roke držijo, roke nosijo. Z rokami ustvarjamo geste med govorjenjem. Te kretnje izražajo življenje naše duše, različne načine mišljenja, naše namere in čustva, in sicer od resničnega sveta pa vse do sveta duše. (Brierley 2006: 35) 2. Verz
+Gledam v svet, kjer sveti sonce, kjer se iskrijo zvezde, kjer ležijo kamni.
+Rastline živo rastejo, živali čuteče živijo, kjer človek v svoji duši daje duhu dom.
+Gledam v dušo, ki živi v meni, božji duh tke, v sonca in duše svetlobi, v širjavah sveta tam zunaj, v globinah duše tu notri.
+K tebi Duh Božji se obračam in prosim, naj moč in blagoslov za učenje in delo, rasteta v meni.
+3. Novice
+Učenci imajo prostor, da povedo o dogodkih, ki so se jim pripetili, o njihovih razmišljanjih in tudi o dogajanju po svetu. Prav prisrčno jih je gledati, s kakšno odkritostjo pripovedujejo o stvareh. Največja groza je po pripovedovanju učiteljice ta, da pubertetniki umolknejo. Četudi so živahni ali celo preživahni, samo da so prisotni. V tem obdobju sta namreč možnosti samo dve: živi in prisotni ali zasanjani in odsotni. Takrat je učni proces onemogočen. Glavni cilj novic je spodbujanje k odprtosti, da nekaj povedo.
+
+4. Pesmi, recitacije, ritem
+Vsako leto se učiteljica odloči, katera slovenska ljudska pesem bi najbolj ustrezala trenutnemu vzdušju v razredu. Letos je izbrala pesem Zaplula je barčica moja, saj se, kot mi pripoveduje, zgodi v 12. letu prelom. Dodaja, da se rodi duša, prevladujoč je občutek osamljenosti in harmonija preide v praznino. Najprej je občutek osamljenosti, iz katerega jih je treba poslati ven, v svet. Vsi pa dobro vemo, če gremo v svet, če raziskujemo, da zagotovo pridemo tudi enkrat nazaj, zaključi.
+ZAPLULA JE BARČICA MOJA
+Zaplula je barčica moja, zaplula je v sredo morja.
+Na bregu je deklica stala, točila je grenke solze.
+Povrni se, barčica moja, povrni se kmalu nazaj.
+»Ne morem se več povrniti, ne morem več priti po te.
+Ne jokaj se, deklica moja, saj pridem jaz kmalu nazaj.«
+(http://www.ringaraja.net/otroski_koticek/ljudske-pesmi/zaplula-je-barcica-moja_58&153.html, pridobljeno 3. 9.
+Puntarska pesem se medpredmetno povezuje z zgodovino in s slovenščino. Poudarja predvsem skupnost in njen pomen, da se s skupnimi močmi nekaj lahko doseže, spremeni.
+Učenci se velikokrat v tem obdobju počutijo osamljene, zato je pomembno, da nagovarjamo skupinsko moč.
+PUNTARSKA PESEM
+Le vkup, le vkup, uboga gmajna!
+Heja, hejo!
+Za staro pravdo zdaj bo drajna.
+Heja, hejo!
+Zimzelen za klobuk!
+Punt naj reši nas tlačanskih muk!
+Le vkup, v poslednji boj tlačani!
+
+Heja, hejo!
+Sedaj se kmečka gmajna brani!
+Heja, hejo!
+Puško, meč, kopje v dlan!
+Za svobodo bije se tlačan!
+Iz grajskih kvedrov teče vino, heja, hejo!
+Zažgali grofu smo graščino, heja, hejo!
+Grad gori, grof beži, vino teče naj, če teče kri!
+(http://www.hervardi.com/pesmi/puntarska_pesem.php, pridobljeno 3. 9. 2013) Recitaciji:
+Pesem o Nibelungih povzame srednjeveško zgodovino in izjemno nagovarja domišljijo. S svojim stopnjevanjem, če bi še to naredila, pa to in to, budi kreativnost.
+PESEM O NIBELUNGIH (nemški ljudski ep) Zdaj čuda poslušajte, kak bil zaklad je ta: dvanajst vozov vojaških zvozilo ne bi ga brez truda v štirih dnevih iz gore tja v pristan, četudi šli na vožnjo do trikrat bi na dan.
+Vse sami dragi kamni in čisto vmes zlato.
+In če ves svet kupili bi za bogastvo to, za las bi se ne zmanjšal ogromni ta zaklad.
+Ni čudno, da bi Hagen zares imel ga rad.
+(Pesem o Nibelungih, 1972, str. 57)
+Pesem Takrat popolnoma opisuje stanje, v katerem se učenci v tem obdobju nahajajo. Z njo se lahko popolnoma poistovetijo in počutijo razumljene.
+TAKRAT (Saša Vegri) Takrat ko na steni ura teče čisto razločno in sedim v nekem kotu obdan od sten, še sam ne vem, kaj naj počnem.
+Tak dan mi ne recite, ko od nekod pridrvite, da sem len, da se pretegujem in nič pametnega ne počnem.
+Na tak dan še sam ne vem, kaj sem in kaj naj s sabo počnem.
+
+V ritmično-pevskem delu je pomembno, da so učenci nagovorjeni, saj se v nasprotnem primeru dolgočasijo. Prav zaradi tega je potrebna nenehna dinamika v menjavanju skupinskega in frontalnega dela ter dela v dvojicah. Posameznik mora povedati, kaj je naredil.
+Če ni slišan, ni več prisoten.
+Po ritmičnem delu sledi osrednji del pouka samega predmeta. Epoha slovenščine je sestavljena iz več plasti: 1. literarni pojmi,
+2. zgodovinski pregled književnosti, 3. ustvarjalnica,
+4. oseba (učiteljeva predstavitev ali referat).
+Preglednica vključenosti posameznih plasti po dnevih:
+LITERARNI POJMI
+ZGODOVINSKI PREGLED
+KNJIŽEVNOSTI
+USTVARJALNICA OSEBA
+1. dan √ √ × × 2. dan √ √ √ √ 3. dan √ √ √ √ 4. dan √ √ √ √ 5. dan √ √ √ √ 6. dan √ √ √ √ 7. dan √ √ √ √ 8. dan × √ × √ 9. dan × √ × √ 10. dan × √ × √ 11. dan × √ × √ 12. dan × √ × √ 13. dan × √ × √ 14. dan × √ × √ 15. dan × √ × √ 16. dan × √ × √ 17. dan × √ × √ 18. dan × √ × √ 19. dan × √ × √
+√ = element je vključen × = element ni vključen
+
+1. LITERARNI POJMI
+1. dan Opis praktičnega dela v prejšnjem letu (sami so napisali pripovedke, mite in pravljice). Povzetek obravnavanih epskih del skozi pripovedno gradivo prejšnjih let. Ponovitev celotne snovi.
+2. dan Skupinsko delo. Iz prebujenega in s pomočjo zvezka sestavijo pregled.
+3. dan Skupna sestavitev zapisa na tablo.
+4. dan Samostojen zapis preglednice. Učenci vidijo, kolikšno je njihovo znanje.
+Utrjevanje pojmov.
+5. dan Samostojen zapis ter pregled preglednice. Poizkus nadgradnje.
+6. dan Utrjevanje.
+7. dan Utrjevanje. Podane so smernice: v tem letu prozo, v naslednjem poezijo.
+2. ZGODOVINSKI PREGLED KNJIŽEVNOSTI
+1. dan Ponovitev snovi: preseljevanje, pokristjanjevanja, renesansa.
+2. dan Zgodba o Cirilu in Metodu ter o razvoju pisave.
+3. dan Utrjevanje v skupinah.
+4. dan Ustno utrjevanje. Učenci se med seboj dopolnjujejo. Raziskovanje pisav s pomočjo delovnega lista (priloga A). Nadgradnja v zgodbi o kmečkih uporih in reformaciji.
+Zapis v zvezek o Cirilu in Metodu ter o pisavi.
+5. dan Utrjevanje v skupinah in nato še ustno. Nadgradnja s protireformacijo. Zapis v zvezek o kmečkih uporih in reformaciji.
+6. dan Povezava književnosti in zgodovine. Zapis na tabli.
+7. dan Utrjevanje in nadgradnja povezave med književnostjo in zgodovino s pomočjo zapisa na tabli in zastavljenih vprašanj. Zapis v zvezek o protireformaciji.
+8. dan Nadgradnja z barokom.
+9. dan Ustno utrjevanje. Nadgradnja z razsvetljenstvom.
+10. dan Nadgradnja in dopolnitev o razsvetljenstvu. Zapis v zvezek o baroku.
+11. dan Utrjevanje v dvojicah. Nadgradnja z romantiko.
+12. dan Individualno utrjevanje (priloga E). Nadgradnja in dopolnitev o romantiki. Zapis v zvezek o razsvetljenstvu.
+13. dan Utrjevanje v skupinah. Nadgradnja z obdobjem med romantiko in realizmom.
+14. dan Ustno utrjevanje. Nadgradnja z realizmom. Zapis v zvezek o romantiki.
+15. dan Ustno utrjevanje. Nadgradnja z moderno. Zapis v zvezek o obdobju med romantiko in realizmom.
+16. dan Nadgradnja in dopolnitev o moderni. Zapis v zvezek o realizmu.
+17. dan Individualno utrjevanje.
+18. dan Skupinsko utrjevanje. Zapis v zvezek o moderni.
+19. dan Ustno in individualno utrjevanje.
+
+3. USTVARJALNICA
+2. dan Dopolnitev stavka Prijatelj je … Pod besede zvok, predmet, žival, pridevnik, glagol, druge besede napiši čim več stvari, ki te spominjajo na prijatelja. Z barvami nariši vzdušje prijateljstva.
+3. dan Pregled zapisanih stvari in narisanega vzdušja. Sestavljanje pesmi o prijateljih.
+4. dan Pregled pesmi in branje slednjih. Ponovitev in poglobitev o tem, kar se napiše v uvodu, jedru in zaključku. Zapis uvoda in zaključka k naslovu Moj prijatelj.
+Razširitev dveh povedi.
+5. dan Pregled razširjenih povedi. Ponovitev in poglobitev pomembnosti ter značilnosti odstavkov. Zapis besed oz. izhodišč, ki so osnova za zgodbo, ki jo bodo pisali.
+6. dan S pomočjo opomb in svojih idej gradijo svojo zgodbo (priloga C).
+7. dan Predstavitev zgodb. Izmenjava vtisov, doživljajev.
+4. OSEBA
+2. dan Referat o Primožu Trubarju.
+3. dan Dopolnitev o Primožu Trubarju skozi zgodbo.
+4. dan Martin Luther in Janez V. Valvasor skozi zgodbo.
+5. dan Žiga Zois skozi zgodbo. Referat o Valentinu Vodniku.
+6. dan V ritmičnem delu učenec, ki je imel včeraj referat, deklamira Vodnikovo pesem Dramilo in razred nauči prvo kitico. Utrjevanje značilnosti oseb v skupinah.
+7. dan Utrjevanje s pomočjo delovnega lista (priloga D). Referat o Franu Levstiku.
+8. dan Referat o Simonu Jenku.
+9. dan Referat o Josipu Stritarju.
+10. dan Referat o Simonu Gregorčiču.
+11. dan Referat o Antonu Aškercu.
+12. dan Referat o Dragotinu Ketteju.
+13. dan Referat o Josipu Murnu.
+14. dan Referat o Ivanu Cankarju.
+15. dan Referat o Otonu Župančiču.
+16. dan Referat o Janezu Gradniku.
+17. dan Referat o Igu Grudnu.
+18. dan Referat o Cvetku Golarju.
+19. dan Referat o Srečku Kosovelu.
+
+1. LITERARNI POJMI
+1. DAN 2. DAN 3. DAN 4. DAN 5. DAN 6. DAN 7. DAN
+Opis praktičnega dela v prejšnjem letu (sami so napisali pripovedke, mite in pravljice).
+Povzetek obravnavanih epskih del skozi pripovedno gradivo prejšnjih let.
+Ponovitev celotne snovi.
+Bujenje sanjajočega.
+Vezano na konkretne vsebine.
+OD KONKRET- NEGA
+Skupinsko delo.
+Iz prebujenega in s pomočjo zvezka sestavijo pregled.
+Vezano na konkretne vsebine, poizkus urejanja.
+DO
+POJMA
+Skupna sestavitev zapisa na tablo.
+Poimenovanje pojmov, sestavitev preglednice.
+PRITI DO POJMA
+Samostojen zapis preglednice.
+Učenci vidijo, kolikšno je njihovo znanje.
+Utrjevanje pojmov.
+UTRDITI
+Samostojen zapis ter pregled preglednice.
+Poizkus nadgradnje.
+Utrjevanje.
+POJME
+Utrjevanje.
+Podane so smernice: v tem letu prozo, v naslednjem poezijo.
+PREKO USTVAR- JANJA DO NOVIH POJMOV
+Seznanjanje učencev s tem, kaj, zakaj in tudi kako se bodo učili, je večstransko utemeljeno. Iz človekove pravice svobodnega odločanja izvira njegova potreba, da ve, kaj bo delal in čemu.
+Dokler učencem ta pravica in pogoj nista zagotovljena, od njih ni mogoče pričakovati, kaj šele zahtevati, da bi se učili. Že J. J. Rousseau je o tem vedel, ko je zapisal: »Neumno je zahtevati od njih (otrok), naj se z vnemo posvečajo stvarem, za katere jim le na splošno povemo, da so v njihovo korist, ne da bi vedeli, v čem je ta korist …« (Blažič 2003: 132)
+1. DAN
+V začetku epohe, obravnave širših didaktičnih celot, izvajamo ponavljanje. S slednjim želimo priklicati v spomin informacije in osvežiti znanje, ki je pomembno za obravnavo snovi ali za druge nadaljnje aktivnosti. (Kramar 2009: 219)
+Vendar pa aktiviranje predznanja ni potrebno le v prid novega znanja, temveč je tudi v interesu predznanja samega. Ne le, da se s tem utrjuje, pač pa se v procesu stalnega prestrukturiranja in reorganiziranja v kontaktu z novim znanjem in izkušnjami tudi izpopolnjuje. (Blažič 2003: 133)
+Ponavljanje je potekalo v skupinski obliki. Učenci so bili razdeljeni v skupine po tri in so samostojno izvajali ponavljanje ter svoje ugotovitve tudi zapisovali.
+
+Končni zapis ene izmed skupin:
+pesem lirska (izraža čustva, razpoloženje)
+obredne,
+pripovedništvo epska zagovori,
+romanca, nabožne,
+slovanska balada ljubezenske
+mitologija bajeslovna bitja, čarovnice, vile, vampirji, volkodlaki
+ljudske pesmi (pesmi brez avtorja, značilnost: več različic besedil)
+zgodovinske,
+razlagalne
+Na voljo so imeli 15 minut časa. V tem času so ustvarili različne zapise. Ta skupina ga je naredila v obliki miselnega vzorca, spet druga si je pomagala z opornimi točkami.
+2. DAN
+Naslednji dan so se lotili ponavljanja na drugačen način: s skupnimi močmi so oblikovali zapis.
+Prikazovanje na tabli ima to prednost, da zapis nastaja sproti in tako učitelj učence lahko dobro vodi in usmerja. Tabelsko sliko je potrebno skrbno pripraviti in oblikovati. Zapisi na tabli morajo biti dovolj veliki, čitljivi, estetski, ne predolgi, preveč zgoščeni in razumljivi.
+KNJIŽEVNOST
+
+Posamezne dele lahko učitelj označi z različnimi barvami, vendar mora posamezno barvo dosledno uporabljati v istem pomenu, dele zapisa lahko tudi podčrta ali jih na drugačen način poudari. (Blažič 2003: 371)
+Zapis na tabli, ki so ga sestavili skupaj:
+KNJIŽEVNOST
+Na umetniški način se izražamo s knjižnim jezikom.
+IZVOR OBLIKA VSEBINA
+LJUDSKO PROZA POEZIJA LIRIKA EPIKA DRAMATIKA
+UMETNO pisatelj pesnik izpoveduje pripoveduje prikazuje
+čustva, dogodke,
+doživljaje razlage,
+opise
+Zapis je vključeval samo ključne besede, torej pojme, do katerih so s pomočjo razgovora prišli. Tabelska slika je bila čitljiva, pisava dovolj velika, poudarki podčrtani.
+3. DAN
+Samostojen zapis zgornje preglednice brez kakršnekoli pomoči. Mnogi se niso spomnili besed, kot so izvor, oblika in vsebina, zato še enkrat podrobno povedo skupaj. Pomagajo si z različnimi primeri iz vsakdanjega sveta. Izvor je kot izvir reke, glede na obliko hrane veš, kateri pribor si moreš vzeti, nato pa okusiš vsebino, ali je slana ali sladka.
+4. DAN
+Navodilo je bilo naslednje: na voljo imate dve minuti, da si pogledate preglednico v zvezku.
+Po preteku časa so zvezek zaprli ter na list samostojno zapisali preglednico. Sami so si jo pregledali, ocenili in točkovali. Vsak pravilen pojem je prinesel po eno točko, tako da je bilo možnih 15 točk. Vsi so si zapomnili večino, saj so imeli 13 točk ali več.
+Nadgradnjo je vzpodbudilo vprašanje učiteljice: »Kaj misliš, od kod so dobili besedo poezija?« Poezija izhaja iz grščine in pomeni ustvarjanje. Proza je iz latinščine in pomeni neprestano govorjenje. Lirika je povezana z igranjem na liro. Epika pomeni pripoved, dramatika pa dogajanje. Liriko, epiko in dramatiko skupaj z eno besedo poimenujemo literarne zvrsti. Podčrtane pojme so dodali v preglednico.
+
+5. DAN
+Utrjevanje je potekalo ustno s pomočjo frontalno zastavljenih vprašanj. Med drugim tudi: Kaj je tisto, kar veš več o književnosti v primerjavi z lanskim letom?
+Je še kakšen pojem, ki vam je težek?
+6. DAN
+Ustno utrjevanje z zastavljanjem vprašanj: Kaj bi rekli, da je književnost?
+Glede na izvor delimo? Glede na vsebino? Glede na obliko?
+Kaj so epika, lirika in dramatika?
+Katere vrste pesmi poznate?
+Kaj je značilno za epiko?
+V čem je razlika med balado in romanco?
+Katere vrste proze poznate?
+Glavna metoda, ki se je pojavljala v prvem delu, je bila utrjevanje.
+Svoje vedenje so začeli buditi s pomočjo konkretnih stvari, in sicer z opisom praktičnega dela v prejšnjem šolskem letu, ko so sami napisali pripovedke, mite in pravljice. Iz prebujenega in s pomočjo zvezka v skupinah naslednji dan sestavijo pregled. Skupinsko delo zato, da je lahko vsak dodal svoj košček k skupnem poizkusu urejanja znanja. Vse to so s frontalnim učiteljičinim vodenjem nadgradili naslednje jutro, ko so pojme poimenovali ter jih zapisali v obliki preglednice na tablo. Sledilo je utrjevanje v najrazličnejših oblikah. Najprej so samostojno zapisali preglednico, da so videli, kolikšno je njihovo znanje. Naslednji dan je sledila enaka naloga, vendar so si preglednico sami pregledali, si jo točkovali in s pomočjo vprašanj, ki jih je zastavila učiteljica, snov tudi nadgradili z dodatnimi pojmi. Utrjevanje je zadnja dva dneva potekalo s pomočjo zastavljenih vprašanj, na katere so učenci odgovarjali ustno z dvigovanjem rok.
+Prav tukaj lahko vidimo, kako pouk sledi in se ustrezno prilagaja miselnemu in spoznavnemu razvoju učencev, in sicer od konkretne do abstraktne ravni.
+
+2. ZGODOVINSKI PREGLED KNJIŽEVNOSTI 1. DAN 2. DAN 3. DAN 4. DAN 5. DAN 6. DAN 7. DAN
+Ponovitev snovi: preseljeva- nje, pokristja- njevanje, renesansa.
+Zgodba o Cirilu in Metodu ter o razvoju pisave.
+Utrjevanje v skupinah.
+Ustno utrjevanje.
+Učenci se med seboj dopolnjujejo.
+*Raziskovanje pisav s pomočjo delovnega lista (priloga A).
+Nadgradnja v zgodbi o kmečkih uporih in reformaciji.
+Zapis v zvezek o Cirilu in Metodu ter pisavi.
+Utrjevanje v skupinah in nato še ustno.
+Nadgradnja s protireformacijo.
+Zapis v zvezek o kmečkih uporih in reformaciji.
+Povezava književnosti in zgodovine.
+Zapis na tabli.
+Utrjevanje in nadgradnja povezave med književnostjo in zgodovino s pomočjo zapisa na tabli in zastavljenih vprašanj.
+Zapis v zvezek o protireformaciji.
+*nastop
+1. DAN
+Kakor je zapisal Brierley (2006: 29), so leta odkritij stopnja v razvoju človekove zavesti.
+Raziskovalne teme v renesansi so povezane z odkrivanjem jaza pri drugih. Renesansa je namreč čas, ko smo Evropejci odkrili tujo in nepoznano plat v nas samih. Ne vključuje samo nas kot individualno bitje, temveč tudi kot skupine ljudi.
+2. DAN
+Še pred pripovedovanjem je učiteljica učence prosila, da pospravijo vse stvari in se pripravijo za poslušanje. Svojo pripoved je začela: »Zavrteli bomo kolo časa in prišli na preseljevanje Slovanov v naš prostor.« Učence je v njeno pripoved aktivno vključevala, saj jim je nenehno postavljala vprašanja. Slednji so se z velikim veseljem vključevali in so tako pripomogli k sooblikovanju svojega znanja. Poudarki:
+Ljudstva, ki so poselila naše ozemlje, so s seboj prinesla svoj jezik, pesmi, šege in navade. Njihov jezik je bila praslovanščina.
+Dokler so bili lovci in pastirji so častili drevesa, živali, vodo, sonce in mesec. Z ustalitvijo so si ustvarili stalen dom, začeli so častiti duhove in bogove, ki so imeli človeške lastnosti. V tem času so nastale mnoge pesmi, legende, bajke ter miti.
+Zaradi čedalje pogostejših napadov Obrov so poklicali na pomoč Germane, ki so jim morali v zahvalo priznati njihovo oblast, kar je pomenilo vdiranje krščanstva na slovansko ozemlje. Slovanski svobodnjaki so se upirali, kar lahko izvemo v Krstu pri Savici. Deželo so pričeli poseljevati nemški fevdalci.
+Na Moravskem (današnjem češkem ozemlju) je vladal knez Rastislav, ki je želel dobiti misijonarja, ki bi opravljala bogoslužje v slovanskem jeziku. Prav to je bil razlog, da sta sem prišla brata Ciril in Metod. Ciril je že prej zbral okoli sebe slovanske učence in ustvaril staroslovansko abecedo – glagolico. Na Moravskem sta vzgajala duhovnike in prevajala knjige. Metodovi učenci so nerodno glagolico zamenjali z bolj praktično cirilico.
+
+Poglavitni jezik vladajočega razreda na naših tleh je bila najprej latinščina, pozneje jo je izpodrinila nemščina. Neukemu ljudstvu so bile predpisane latinske ali nemške molitve. Ker se je Karel Veliki zavzemal, naj ljudje molijo v svojem jeziku, sta duhovnika okoli leta 1000 prevedla spovedno molitev in dve kratki pridigi v lepo slovenščino, ki je bila podobna staro cerkveni slovanščini. Zapisala sta jo z latinščino, ki so jo uporabljali v tem času.
+3. DAN
+Snov so ponavljali v skupinah. Zapisati so morali vse, kar so si od včeraj zapomnili. Po preteku desetih minut, so svoje delo predstavili pred tablo.
+4. DAN
+Ponavljanje snovi je potekalo tako, da je učenec v zadnji vrsti pričel in so se med seboj dopolnjevali, tako da je vsak prišel na vrsto. Začeli so pri Slovanih, ki so prišli na jug.
+Ponovitev smo nadgradili z raziskovanjem pisav. Pripravili smo delovni list z različnimi pisavami (glej prilogo A). Njihova naloga je bila, da so si pisave ogledali, o njih razmislili, pod vsako napisali, kako se imenuje, ter razglabljali o tem, katera bi lahko bila starejša in katera mlajša. Tako so lahko napisali razvoj pisav. Delo je potekalo v skupinah.
+Učenci so se takšnega dela izjemno razveselili. V razredu je bilo čutiti pravi raziskovalni duh.
+Med seboj so se pogovarjali, argumentirali, zakaj bi lahko bila ena pisava mlajša od druge, izražali svoje mnenje o tem, kateri znak pomeni katero črko, … Resnično vsi so uživali in se znašli v vlogi raziskovalca.
+S pripovedovanjem so svoje znanje nadgradili še s kmečkimi upori in z reformacijo. Poudarki so bili naslednji:
+Kmetje so v tem času zelo težko živeli, saj so morali plačevati desetino in hoditi na tlako. Tako so se zadolževali. Zaradi neznosnega življenja so se pričeli upirati.
+Razvijale so se obrt, trgovina, rudarstvo in fužinarstvo. Plemičem je za njihovo razsipno življenje pričelo primanjkovati denarja, zato so kmetom zviševali dajatve. V deželo so vdirali Turki, kar je tudi otežilo njihovo življenje.
+Kmetje so zahtevali "staro pravdo", to pomeni take dajatve, kot so bile nekoč. Hrvaški in slovenski kmetje so se združili v veliki kmečki upor pod vodstvom Matije Gubca, kmečkega "kralja". Gubca so ujeli in ga 15. februarja 1573 mučili in razčetverili.
+
+V Nemčiji je Martin Luther napisal svoje ugovore in jih nabil na cerkvena vrata v Wittenbergu. Njegovo versko gibanje je zahtevalo reforme, spremembe, zato se imenuje reformacija. Trdil je tudi, da ima vsak pravico brati Sveto pismo, zato ga je sam prevedel in bil začetnik nemškega knjižnega jezika.
+Nad idejami reformacije se je navdušil tudi naš Primož Trubar, ki ga je navdušila misel, da bi tudi Slovenci dobili svojo prvo knjigo. Sestavil je Abecednik in Katekizem, ki sta izšli leta 1550. Sprva se je odločil za gotske črke, ki so mu bile znane in tudi domačinom najbližje. Kasneje je namesto njih uporabljal latinico, ki jo je prikrojil našim potrebam.
+Zapisali so snov o Cirilu in Metodu ter o razvoju pisave.
+Pri tem je viden trokorak:
+1. korak: zgodba o Cirilu in Metodu, o razvoju pisave – pripovedovanje zgodbe, pogovarjanje o tem.
+2. korak: ponovitev snovi in učenci dodajo svoje vedenje.
+3. korak: dvig na nivo znanja – zapis v zvezek.
+5. DAN
+Skupinska ponovitev snovi. Končni izdelki po petnajstih minutah so bili zelo različni:
+1. SKUPINA
+Katera slovanska pisava je najstarejša?
+Kako je krščanstvo prišlo v naše kraje?
+Kakšen jezik so govorili v samostanih?
+Kdo je bil Rastislav?
+Kako se je prej imenovala Češka?
+Kako se imenuje prvi zapis v slovenščini?
+S kakšno pisavo so napisali prvi slovenski zapis?
+Koliko samostanov je bilo v Sloveniji okrog leta 1300?
+Zakaj so hoteli Germani oblatiti Cirila in Metoda?
+Kdaj se je rodil Primož Trubar? Kje se je rodil? Kje je študiral? Katero vero je zagovarjal?
+Kaj je Martin Luther pribil na vrata cerkve?
+Kako se je Primož Trubar preživljal v Salzburgu?
+Kaj je bil Primož Trubar po izobrazbi?
+Katero delo je napisal Janez V. Valvasor?
+Fantje so si v skupini razdelili delo. Trije so pisali splošna vprašanja, četrti, ki je imel referat o Primožu Trubarju, pa vprašanja o njem. Vprašanja so dobro strukturirana, jasna in zajemajo celotno obravnavano snovno področje.
+
+2. SKUPINA
+Kdo je sestavil cirilico?
+Kdo je prevedel Sveto pismo? (Nedefinirano vprašanje, saj ni jasno, za kateri jezik gre.) Kdo je sestavil glagolico?
+Kako je Karel Veliki vplival na verovanje?
+Kdo je bil Rastislav? Kje je vladal?
+Kdo je uporabljal praslovanščino?
+Kdo je prinesel krščanstvo v slovanske kraje?
+Vprašanja obsegajo ožje področje kot prejšnja. So veliko bolj široko zastavljena in zajemajo predvsem začetek snovi.
+Pri vsaki snovi učenci sami napišejo vprašanja, ki jih učiteljica razreže in uporabi pri preverjanju snovi. Na tak način imajo učenci občutek sodelovanja in soustvarjanja učnega procesa, hkrati se pa izognemo situaciji (ne)pravičnosti glede postavljanja vprašanj.
+S pripovedovanjem o protireformaciji so svoje znanje nadgradili:
+Protestantsko versko gibanje je razdelilo del evropske družbe na dva dela, v protestantski in katoliški tabor.
+Dve tretjini evropskih dežel se je sedaj ločilo od Rima. Cerkveni zbor se je sestal in pričel se je boj proti protestantizmu. Zopet je zaživela inkvizicija, to je sodišče proti krivovercem, in sestavili so seznam krivoverskih knjig. Ustanovili so nov meniški red, jezuitski, ki je pričel skrbeti za izobraževanje.
+Na Slovensko je prišel ukaz, da se morajo vsi protestanti vrniti v katoliško cerkev ali zapustiti deželo.
+Ustanovili so komisije, ki so bile sestavljene iz katoliških duhovnikov in cesarjevih zastopnikov, porušile so veliko cerkva in požigale protestantske knjige.
+V naši deželi protestantizem ni mogel zmagati, saj ni imel podpore v ljudskih množicah. Kmetje so ga zavračali, saj je bila to vera osovraženega plemstva.
+Slovensko ljudstvo je s protestantizmom in kmečkimi upori prvič poseglo v politično življenje. Dobili smo prvo tiskano knjigo in z njo postavili temelj slovenski književnosti.
+Temu je sledil neploden čas s propadanjem gospodarstva, kmečkimi upori in povečevanjem davkov. Od leta 1615 do leta 1672 ni izšla nobena knjiga, nato pa je nastopilo obdobje baroka.
+Za domačo nalogo so prepisali zapis o kmečkih uporih in reformaciji.
+TROKORAK:
+1. korak: pripovedovanje zgodbe o kmečkih uporih in reformaciji.
+2. korak: ponovitev snovi, učenci dodajo svoje vedenje.
+3. korak: zapis v zvezek.
+
+6. DAN
+S pomočjo zapisa na tabli so povezovali zgodovino in književnost. padec Bizanca Kolumb Magellan Kepler Cook Napoleon
+ZGODOVINA
+Brižinski tiskarski stroj Luthrove ustanovitev (rojstvo) Valvasor spomeniki Gutenberg teze jezuitskega reda prva knjiga Shakespeare izda S.V.K. barok 1000 1454 1517 1534 1550 1564 1641 1672 1789
+KNJIŽEVNOST
+Tega učenci ne prepišejo. Letnice niso napisane tukaj zato, da bi se jih naučili na pamet, temveč da jih učenci vidijo. Na takšen način lahko stvari umestimo v čas in pokažemo, da književnosti ni mogoče razumeti brez zgodovine.
+7. DAN
+Povezavo med književnostjo in zgodovino so ponovili z drugim, novim zapisom na tabli.
+ZGODNJI SREDNJI VISOKI SREDNJI VEK P O Z N I – M R A Č N I
+VEK
+P O K R I S T J A N J E V A N J E
+BRIŽINSKI SAMOSTANI USTOLIČEVANJE KOROŠKIH VOJVOD SPOMENIKI LATINSKI JEZIK SREDNJI VEK
+T U R Š K I V P A D I
+K M E Č K I U P O R I PADEC BIZANCA
+1453 LUTHER
+1455 R E F O R M A C I J A P R O T I - B A R O K 1789 TISKARSKI ABECEDNIK REFORMACIJA 1689 ŽUPANOVA
+STROJ KATEKIZEM SLAVA MICKA
+1492 VOJVODINE
+ODKRITJE KRANJSKE
+AMERIKE (V NEMŠČINI)
+
+Ponavljajo ob zapisu in postavljanju vprašanj: Kaj je bilo značilno za zgodnji srednji vek?
+Kaj je bilo značilno za visoki srednji vek?
+Kaj je bilo značilno za pozni srednji vek?
+Kdo je pomagal krotiti zadnje turške vpade?
+Kdaj se začnejo kmečki upori?
+Kdaj je slovenščina prvič zaživela v pisni obliki?
+Kdaj je slovenščina prvič zaživela kot prvi pisani vir?
+Zakaj je lahko izšla prva knjiga?
+Zapis v zvezek o protireformaciji.
+V drugem delu, kjer je v ospredju književnost, je poudarjen trokorak. Način, s pomočjo katerega se usvajata snov in znanje v waldorfskih šolah.
+1. dan učitelj uvede novo snov s pomočjo pripovedovanja.
+2. dan učenci povedo, kaj so slišali včeraj.
+3. dan zapišejo zapis v zvezek.
+
+3. USTVARJALNICA 1. DAN
+(2. dan epohe)
+2. DAN
+(3. dan epohe)
+*3. DAN
+(4. dan epohe)
+*4. DAN
+(5. dan epohe)
+*5. DAN
+(6. dan epohe)
+*6. DAN
+(7. dan epohe) Dopolnitev stavka Prijatelj je … Pod besede
+ZVOK
+PREDMET ŽIVAL
+PRIDEVNIK GLAGOL
+DRUGE BESEDE napiši čim več stvari, ki te spominjajo na prijatelja.
+Z barvami nariši vzdušje prijateljstva.
+Pregled zapisanih stvari in narisanega vzdušja.
+Sestavljanje pesmi o prijateljih.
+Pregled pesmi in branje slednjih.
+Ponovitev in poglobitev o tem, kar se napiše v uvodu, jedru in zaključku.
+Zapis uvoda in zaključka k naslovu Moj prijatelj.
+Razširitev dveh povedi.
+Pregled razširjenih povedi.
+Ponovitev ter poglobitev pomembnosti in značilnosti odstavkov.
+Zapis besed oz. izhodišč, ki so osnova za zgodbo, ki jo bodo napisali.
+S pomočjo opomb in svojih idej gradijo svojo zgodbo
+(priloga C).
+Predstavitev zgodb.
+Izmenjava vtisov, doživljajev.
+*nastop *nastop *nastop *nastop 2. DAN (3. dan epohe)
+Pesmi smo v popoldanskem času pregledali in ugotovili, da resnično veliko krajšajo.
+Pravopisnih napak ni bilo veliko, zato smo se odločili, da naslednji dan izpostavimo krajšanje besed.
+3. DAN (4. dan epohe)
+*Izpostavili smo krajšanje na učenčevem primeru: Spet vsakdo pa prijatelj ni, pa če 'maš en'ga al' pa tri.
+Povprašamo jih, kako bi se to prebralo, če ne bi bilo okrajšano. Razložimo jim razliko med ritmom in rimo. Na koncu poudarimo, da je krajšanje dovoljeno, če je to potrebno zaradi ritma, sicer k temu ne težimo.
+Učenci se sploh ne zavedajo, da upoštevajo ritem, ker je to v njih, saj delajo z njim že od prvega razreda. Ritem bodo v 9. razredu dvignili v stopico in bodo celo pesem pisali v jambu, nato v troheju, ...
+S krajšanjem je začel eden izmed učencev, nam med pogovorom razloži učiteljica, in ga z velikim veseljem posnemajo ostali.
+Svoje krajšave popravijo.
+
+Kdor je želel, je svojo pesem prebral.
+Skupaj ustno ponavljamo in poglabljamo značilnosti uvoda, jedra in zaključka. Naše ugotovitve:
+UVOD:
+je lahko kratek;
+povemo, o čem bomo pisali;
+dogajanju pripišemo prostor in čas;
+morda tudi predstavimo udeležence, ki nastopajo v jedru.
+JEDRO:
+je osrednji del besedila in je zato tudi najobširnejše;
+kar smo v uvodu napisali, tukaj poglabljamo, dokazujemo, razširjamo;
+če smo v uvodu napisali imena udeležencev, jih zdaj podrobneje predstavimo;
+podrobno opišemo kak dogodek.
+ZAKLJUČEK
+zaključuje besedilo;
+povemo, kaj smo se naučili ob dogajanju iz jedra;
+izrazimo svoje mnenje;
+lahko zaključimo s kakšnim pregovorom.
+Predstavimo neprimerne zaključke: Upam, da vam je besedilo všeč.
+Tako se je zgodilo meni.
+Tako zaključujem svojo zgodbo.
+Ker smo z učiteljico ugotovili, da je največji problem pisanje uvodov in zaključkov, smo jih prosili, da napišejo uvod in zaključek k naslovu Moj prijatelj.
+Po desetih minutah smo vse prebrali in skupaj ugotovili, da so bili uvodi napisani zelo inovativno in niti najmanj klišejsko.
+Za domačo nalogo smo jim narekovali dve povedi, ki ju bodo obogatili in razširili.
+1. Otrok sedi na dvorišču.
+2. S hriba se je prikotalil kamen.
+
+4. DAN (5. dan epohe)
+*Ustvarjalnico smo pričeli s pregledom razširjenih povedi.
+Naloge so se lotili zelo različno: nekateri so dodali zgolj par besed, mnogi so pa poved razširili v kratko zgodbo, kjer so opisali svoje doživetje.
+Predstavili smo jim svojo idejo in jih nagovorili:
+Dobili boste besede, izhodišča, ki bodo osnova za neko zgodbo. Lahko je iz resničnega sveta, lahko je pravljica ali pa tudi pripovedka, kjer nastopajo bajeslovna bitja. Karkoli želite.
+Želimo si, da bi zgodbo čim bolj nadgrajevali. Ali ste kdaj pomislili, kako pišejo pisatelji?
+Pišejo osnutke, ki jih nadgrajujejo, in iz tega nastane veliko delo. Bi se preizkusili v tem?
+Skupaj smo ustno ponovili pomembnosti in značilnosti pisanja odlomkov.
+Na tablo zapišemo besede: zgodnja pomlad, samotna domačija, neznani prišleki, lastovka, občudovati in uresničiti.
+Izbor besed smo poskušali aktualizirati s časom v naravi in v katerem se nahajajo učenci.
+Učenci so bili zelo zainteresirani za delo, ko smo jih povprašali, če so za to. Dela so se lotili takoj. Vprašali so le, če mora biti beseda točno tako napisana kot je na tabli (npr. lastovka) ali se jo lahko spremeni.
+Učenec je končal po petih minutah in nam želel pokazati. Vzpodbudili smo ga, da z delom nadaljuje, saj ima še petnajst minut časa, in naj napiše dolgo zgodbo, ki bo samo njegova.
+Spet drugi učenec je zaključil svoje delo po desetih minutah in kljub naši vzpodbudi ni nadaljeval. Opazili smo učenca, ki je svojo zgodbo že dvakrat popolnoma zbrisal. Po vsem vloženem trudu in razmišljanju pove: »Danes ni moj dan za pisanje.« Komentiramo, da imajo tudi pisatelji slab dan in jim ne gre.
+5. DAN (6. dan epohe)
+*Njihove zgodbe smo prejšnjo popoldne pregledali in jim z zvezdico ter vprašanjem označili dele, ki bi jih lahko še razširili. Tako jim povemo, naj naše opombe jemljejo kot dobronamerne, ki jih lahko upoštevajo ali pa tudi ne. Dodamo še, da jih bo pa morda ravno naše vprašanje spomnilo na kakšno dobro idejo.
+
+Dogovorili smo se, da ne prepisujejo svoje zgodbe v celoti, temveč zraven naše opombe napišejo številko in jo razširijo na naslednji strani.
+Večina učencev je svojo zgodbo dopolnjevala, nadgrajevala in jo bogatila, le en učenec je opombe jemal kot kritiko in kljub naši ter učiteljičini vzpodbudi svoje zgodbe ni nadgrajeval.
+Njihova domača naloga čez vikend je bila, da svojo zgodbo še nadgradijo, jo prepišejo ter narišejo ilustracijo. Natančnejša navodila smo skupaj z učiteljico pripravili na listu (glej prilogo B).
+Popoldne, preden so odšli učenci domov, smo njihove naloge ponovno prebrali, popravili napake in dodali še kakšno zvezdico, kjer bi lahko svojo zgodbo še nadgradili.
+6. DAN (7. dan epohe)
+*Predstavitev zgodb, kdor želi (zapisane zgodbe v prilogi C).
+Vtisi, doživljaji, izkušnje učencev ob njihovem delu:
+Zanimivo je bilo to, da so nam vsak dan popravili, mi pa smo potem dodajali svoje nove ideje.
+Zdaj vidim, kako težko delo imajo pisatelji.
+Čeprav se ti zdi že takoj dobro, moraš prespati in se ti nato porodi veliko novih idej.
+Meni je to delo zelo všeč. Mami mi je rekla, da najprej si zamislijo, o čem bodo pisali, junaka in potem se kar samo odvija.
+Zelo težko, saj sem veliko časa razmišljal.
+Težko je bilo, če si si sproti kaj zamislil pa se ti ne sklada z ostalim.
+Ko sem razširjal, je bilo vedno težje uporabljati te besede.
+Prvi dan sem napisal neko zgodbo, ki sem jo čez vikend popolnoma spremenil.
+Izkusil sem, s kakšnimi občutki se je spopadal Primož Trubar, ko so se mu nenehno vtikovali.
+Ves čas so pritiski in vtikanja in to je težko.
+Moja ugotovitev je, da ne bom pisatelj.
+Vsakemu učencu smo napisali svoje mnenje, pri čemer smo bili pozorni na: SODELOVANJE – ali je nadgrajeval svojo zgodbo,
+VSEBINO – ali misli med seboj povezuje, ima njegova zgodba uvod, jedro in zaključek, zaplet in razplet,
+POVEDI – slovnične in pravopisne napake,
+SESTAVEK KOT CELOTA,
+PISAVO - ali je pisava čitljiva.
+
+Ustvarjalnica je bila posvečena kreativnemu pisanju, ki se je nadgrajevalo iz dneva v dan.
+Začetne vaje pred kreativnim pisanjem so bile naslednje: dopolnitev stavka Moj prijatelj, pisanje pesmi o prijateljih, ponovitev značilnosti uvoda, jedra in zaključka, zapis uvoda in zaključka k naslovu Moj prijatelj, razširitev dveh povedi in ponovitev značilnosti odstavkov.
+Tako so se segrevali za pisanje svoje lastne zgodbe. Kakršnokoli obliko so zavzemale, pa naj bo to povest, novela ali pravljica, so zgodbe pripovedovale o iskanju pomena, delčka čudeža v odkrivanju novega in tudi lastne vpletenosti v dogodke. Pisanje in mišljenje sta med seboj povezana. Prav kreativno pisanje temelji na samoizražanju. Kreativni pisatelj je lahko le tisti, ki ima nekaj, kar bi rad izrazil. Učenci so sami sebi dokazali, da to zmorejo biti in to z brezmejno lahkotnostjo.
+
+4. OSEBA 1. DAN
+(2. dan epohe)
+2. DAN
+(3. dan epohe)
+3. DAN
+(4. dan epohe)
+4. DAN
+(5. dan epohe)
+5. DAN
+(6. dan epohe)
+6. DAN
+(7. dan epohe) Referat o Primožu Trubarju.
+Dopolnitev o Primožu Trubarju skozi zgodbo.
+Martin
+Luther in Janez V.
+Valvasor skozi zgodbo.
+Žiga Zois skozi zgodbo.
+Referat o Valentinu Vodniku.
+V ritmičnem delu učenec, ki je imel včeraj referat, deklamira Vodnikovo pesem Dramilo in razred nauči prvo kitico.
+Utrjevanje značilnosti oseb v skupinah.
+Utrjevanje s pomočjo delovnega lista (priloga D).
+Referat o Franu Levstiku.
+1. DAN (2. dan epohe)
+Ob koncu lanskega šolskega leta je vsak učenec dobil svojega pesnika. Pot raziskovanja je bila tako dolga in temeljita. O tej osebi so morali prebrati in izvedeti čim več, se naučiti eno pesem na pamet ter narisati njegov portret.
+S takšnim načinom dela je izredno poudarjena individualnost, kako se nekdo loti dela.
+Namen referata je, da učenci pesnika doživijo kot človeka, da izpostavijo tisto, kar se jim je zdelo zanimivo in se datumov ne učijo na pamet.
+Prvi, ki je predstavljal Primoža Trubarja, je odlično opravil svojo nalogo in predstavil obogatil z zanimivostmi.
+2. DAN (3. dan epohe)
+Učiteljica je referat dopolnila z zelo nazornim pripovedovanjem. Pričela je: »Stari ste 12 let in vaš oče opazi, da imate talent, zato vas pošlje na Reko, kjer eno leto živite sami. Nato se preselite v Salzburg, kjer ni bilo obiskov in nikakršne pomoči.« Učenci so njeno pripoved kar "požirali" in se popolnoma vživeli vanjo. Nenehno so komentirali, da mu resnično ni bilo lahko in da bi oni svojo družino zelo pogrešali.
+Učence zmorejo motivirati predvsem življenjske, zanje aktualne teme, torej povezave med tem, kar jih že zdaj zanima in kar jim bo v življenju koristilo, ter onim, kar se v šoli dejansko učijo. (Blažič 2003: 135) 3. DAN (4. dan epohe)
+Ponovno odlična pripoved o Martinu Luthru in Janezu V. Valvasorju v obliki zgodbe.
+Poudarila je razvoj vedoželjnosti, raziskovanja, ljubezni do knjige ter znanja. V razredu je bil prisoten neomajen nacionalist, zato je učiteljica dodala še, da je bil Valvasorjev oče Italijan, mama Nemka, sam pa eden izmed največjih slovenskih domoljubov.
+
+4. DAN (5. dan epohe)
+V zgodbi o Žigi Zoisu je bila posebej poudarjena njegova vloga mentorja, ki je materialno podpiral, spodbujal in usmerjal Jerneja Kopitarja, Antona Tomaža Linharta, Valentina Vodnika in druge.
+Ta njegova vloga se vsekakor povezuje z ustvarjalnico in našim delom oziroma našo vlogo v razredu. Tudi sami jih usmerjamo, podpiramo ter jim ponujamo čas in prostor za kakršnokoli vprašanje.
+5. DAN (6. dan epohe)
+V ritmičnem delu bo vsak učenec dan po referatu deklamiral eno pesem.
+Učenec, ki je imel referat o Valentinu Vodniku, si je izbral pesem Dramilo.
+DRAMILO
+Slovenc, tvoja zemlja je zdrava in pridnim nje lega naj prava.
+Pólje, vinograd, gora, morjé, ruda, kupčija tebe rede.
+Za uk si prebrisane glave pa čedne in trdne postave.
+Išče te sreča, um ti je dan, našel jo boš, ak nisi zaspan.
+Lej, stvarnica vse ti ponudi, iz rok ji prejemat ne mudi!
+Lenega čaka strgan rokav, palca beraška, prazen bokal.
+(http://sl.wikisource.org/wiki/Dramilo, pridobljeno 3. 9. 2013) Svoje sošolce je naučil prvo kitico.
+
+Snov so utrjevali v skupinah tako, da so zraven oseb, ki so bile zapisane na tabli, napisali čim več značilnosti o njih.
+Zapisane osebe: Primož Trubar, Martin Luther, Janez V. Valvasor, Žiga Zois in Valentin Vodnik.
+Svoje delo so predstavili in ugotovili, da imajo sedaj boljšo sliko o osebah, kot so jo imeli še včeraj.
+6. DAN (7. dan epohe)
+Utrjevanje snovi s pomočjo delovnega lista (glej prilogo D).
+Tako pri skupinskem delu kot pri frontalnem ponavljanju sodelujejo samo tisti, ki znajo. Pri individualnem delu pa so vsi prisiljeni, da vsaj preberejo in vidijo besede, ki jih morda na kaj spomnijo.
+Če je morda kdo prej končal, je pomagal tistemu, ki mu ni šlo najbolje.
+List smo skupaj pregledali, ocenili oziroma točkovali so pa samostojno.
+
+Z vsakodnevnimi referati se je nekoliko spremenila tudi struktura glavne ure, in sicer v delih, ki so krepko označeni: 1. jutranji pozdrav, 2. verz, 3. novice, 4. recitacije,
+5. ponovitev referata iz prejšnjega dne, 6. utrjevanje,
+7. poglabljanje snovi,
+8. zgodovinski pregled književnosti, 9. oseba.
+Prva sprememba se je pokazala pri recitacijah. Vsak učenec je sošolce in učiteljico dan po predstavitvi referata naučil kitico pesmi pesnika, ki ga je predstavil. Vselej so povedali ime pesnika in naslov pesmi, tako so si učenci vsak dan sproti utrjevali tudi imena. Iz dneva v dan je bilo več pesmi. Venček pesmi so nato predstavili tudi staršem kot uvod v roditeljski sestanek.
+Referat iz prejšnjega dne so si največkrat priklicali v spomin s pomočjo vprašanja o tem, kaj so si zapomnili od predstave. Temu je sledil tudi priklic celotne obravnavane snovi, nova razmišljanja in nove ugotovitve. Bilo je tako, kot bi počasi odgrinjali zastor, vsak dan so si ogledali sliko na nov način.
+Snov so poglabljali tako, da je učiteljica vsak dan pripravila zanimivosti, ki so bile povezane z zgodovinskim ozadjem in osebo, ki je bila obravnavana pred dvema dnevoma. Tako se je skupaj z učenci pogovarjala o mnogih temah, ki so se navezovale na življenje samo pa tudi na zgodovinsko ozadje. Učenci so ob pripovedovanju dogodkov iz življenj iskali podobnosti in razlike posameznih oseb. Vedno je sledila njihovim vprašanjem in interesu.
+Kaj pomeni študirati v tujini, vzdušje osamljenosti, možnosti za pridobivanje financ in predvsem, kako se posameznik vključi v tuje okolje.
+
+Duhovniški poklic in ljubezen. Duhovniški poklic in arabska kultura. Na kakšen način so se različni posamezniki upirali oziroma kako so izražali svojo enkratnost.
+Nezakonski otrok, življenje v reji, lik matere, ki ni nikoli dosegljiva.
+Prezgodnja smrt mladih talentov.
+Pesmi za otroke.
+Slovenska beseda in hrvaški vpliv.
+Ker ima izrazito fantovski razred, je bilo v ospredju tudi politično vprašanje. Razpravljali so o tem, kako je Oton Župančič modro prekrmaril skozi toliko različnih situacij, kako je bil Ivan Cankar bojevit in enoznačen. Učenec je našel revijo, v kateri je bil članek o tem, kako so ga umorili predvsem zaradi njegovega upora.
+Učitelj se mora temeljito pripraviti, saj si sam pripravlja svojo razlago. Prav zaradi tega pa se lahko z izbiro snovi prilagaja posebnim potrebam v razredu, celo učencem in njihovim posebnim usodam. Živo in zagnano učiteljevo podajanje omogoča različno nadarjenim učencem, da enako dobro sodelujejo pri pouku. Če je učitelj sposoben ter domiseln, lahko obravnava vprašanja in probleme, ki so trenutno aktualni. Otrok v obdobju pubertete potrebuje močno čustveno razgibanost. Znati se mora vživeti v razmere zunaj samega sebe, tako da pozabi na svoje osebne probleme in se začne zanimati za svet okrog sebe. Če je učitelj pri tem zgled, mu otroci radi sledijo. Ali ni to pri vsej vzgoji in pouku najpomembnejše?
+Sposobnost sočustvovanja s tistimi, ki se veselijo, in s tistimi, ki trpijo. To je vendar osnova vsega človeškega sožitja. V življenju sredi telekomunikacij in avtomatiziranega pouka je najuspešnejši način vzgoje še vedno živa beseda, ki najde pot od človeka do človeka.
+(Carlgren 1993: 53)
+
+ZGODOVINSKI PREGLED KNJIŽEVNOSTI 8. DAN 9. DAN 10. DAN 11. DAN 12. DAN 13. DAN
+Nadgradnja z barokom.
+Ustno utrjevanje.
+Nadgradnja z razsvetljenstvom.
+Nadgradnja in dopolnitev o razsvetljenstvu.
+Zapis v zvezek o baroku.
+Utrjevanje v dvojicah.
+Nadgradnja z romantiko.
+Individualno utrjevanje (priloga E).
+Nadgradnja in dopolnitev o romantiki.
+Zapis v zvezek o razsvetljenstvu.
+Utrjevanje v skupinah.
+Nadgradnja z obdobjem med romantiko in realizmom.
+14. DAN 15. DAN 16. DAN 17. DAN 18. DAN 19. DAN
+Ustno utrjevanje.
+Nadgradnja z realizmom.
+Zapis v zvezek o romantiki.
+Ustno utrjevanje.
+Nadgradnja z moderno.
+Zapis v zvezek o obdobju med romantiko in realizmom.
+Nadgradnja in dopolnitev o moderni.
+Zapis v zvezek o realizmu.
+Individualno utrjevanje.
+Skupinsko utrjevanje.
+Zapis v zvezek o moderni.
+Ustno in individualno utrjevanje.
+8. DAN
+Svoje znanje so s pomočjo pripovedi učiteljice nadgradili z barokom.
+Najprej se je barok pojavil v likovni umetnosti, kjer sta bili poudarjeni bujnost in potreba po izražanju slovesnosti. Ljudje so ponovno odkrili smisel za lepoto in so v tem celo pretiravali (vse je bilo zelo okrašeno).
+Ljudje so želeli čim bolj izkoristiti svoje življenje, zato je bilo njihovo vodilo carpe diem, kar pomeni izkoristi dan. Zavedali so se kratkega življenja in bližajoče se smrti, zato so cenili tudi rek memento mori (ne pozabi, da si umrljiv).
+Pomemben predstavnik baroka je Janez V. Valvasor. Veliko je potoval, zapisoval ljudske šege in navade ter opise pokrajin, risal zemljevide, raziskoval zgodovino dežele. Vse je izdal v knjigi Slava vojvodine Kranjske, ki je bila zapisana v nemškem jeziku.
+V tem obdobju je bila zapisana tudi katoliška duhovna igra Škofjeloški pasijon.
+9. DAN
+Učenci so svoje znanje o protireformaciji in baroku utrjevali ustno, in sicer s pomočjo zastavljenih vprašanj:
+Kaj je povzročilo protestantsko versko gibanje?
+Kaj pomeni beseda inkvizicija?
+Kako se je imenoval nov meniški red?
+Zakaj protestantizem v naših deželah ni mogel zmagati?
+
+Kaj smo dobili v času protestantizma?
+Kje se je barok najprej pojavil?
+Kateremu vodilu so sledili v življenju?
+Kdo je pomemben predstavnik baroka? Katero knjigo je napisal in v katerem jeziku?
+Nato je učiteljica nadaljevala s pripovedjo o razsvetljenstvu. Pričela jo je: »V obdobju razsvetljenstva gre za preporod slovenske književnosti.« Njeni poudarki so bili:
+V 18. stoletju so se predvsem med plemiči in meščani uveljavili novi pogledi na svet, naravo in človeka.
+Razvilo se je duhovno gibanje razsvetljenstvo, ime je dobilo iz luči razuma, ki omogoča človeku spoznavanje sveta okoli sebe.
+Verjeli so, da je človek dober in da je vsakogar mogoče izobraziti in vzgojiti. Zahtevali so šolo, v kateri bi si človek širil obzorje. Nasprotovali so telesni in smrtni kazni ter se zavzemali za versko svobodo. Trdili so, da se vsi ljudje rodijo enaki, zato veljajo za njih enake pravice in zakoni.
+V tem času je prišla na oblast Marija Terezija, katero je nasledil sin Franc Jožef. Zavzemala sta se za gospodarski napredek, uvedla sta šolo za vse dečke in tako so se morali šolati tudi podložniki. Tlačan je lahko postal svoboden.
+Svobodno šolanje kmetov in povečevanje obrti je povečalo število meščanov in izobražencev. Kmetje otrok niso pošiljali v šolo, ker je bil učni jezik nemški, zato so potrebovali slovenske šolske knjige. Pokazala se je potreba po enotnem slovenskem knjižnem jeziku. Ugotovili so, da ni slovenščina nič manj vredna kot drugi jeziki. Leta 1768 je Marko Pohlin izdal Slovnico slovenskega jezika. Zdelo se je, kot bi se Slovenci prebudili, zato to obdobje imenujemo doba narodnega prebujenja.
+10. DAN
+Nadgradnja in dopolnitev o razsvetljenstvu:
+Da bi si pomagali in se podpirali, so se povezovali v krožke. Najpomembnejši je bil krožek barona Žige Zoisa, veletrgovca in podjetnika, ki je s svojim denarjem spodbujal zanimanje za slovenski jezik.
+Član njegovega krožka je bil pesnik in dramatik Anton Tomaž Linhart. Najprej je pisal v nemščini, a ga je Žiga Zois navdušil nad slovenskim jezikom. Leta 1789 so na odru ljubljanskega gledališča zaigrali prvo slovensko igro Županovo Micko.
+Tudi Valentin Vodnik je bil član Zoisovega krožka. Leta 1797 je pričel izhajati prvi slovenski časopis Lublanske novize. V Napoleonovem času je bil gimnazijski ravnatelj in je napisal kar nekaj šolskih knjig. Bil je prvi slovenski pesnik, v domačem jeziku je opisoval življenje kmeta, obrtnika in meščana.
+Napoleon je leta 1809 ustanovil Ilirske province, kamor so spadali tudi naši kraji. Uvedli so obvezno šolanje in tako je morala biti šola v vsakem večjem kraju. Poučevalo se je v slovenskem jeziku.
+Po Napoleonovem padcu je bilo leta 1813 konec francoske Ilirije, Vodnika so upokojili, Avstrijci so hitro odpravili svoboščine, ki so jih uvedli Francozi, in uradni jezik je zopet postala nemščina.
+Zapis v zvezek o baroku.
+
+11. DAN
+Učenci utrjujejo v dvojicah. Skupaj zapišeta na list vse, kar sta si zapomnila od včerajšnje snovi in snovi dan pred tem. Učiteljica jih spomni in usmeri, da jim je ta dva dneva pripovedovala o razsvetljenstvu. Po desetih minutah vsakemu paru pregleda in pokomentira njuno delo.
+Popotovanje skozi obdobja so nadaljevali z romantiko, in sicer:
+Vodnikova in Zoisova smrt sta naznanili prihod novega obdobja v zgodovini slovenske književnosti – romantike.
+Po Napoleonovem porazu so naše kraje spet zasedli Avstrijci. Uradni jezik je postala nemščina. Naša dežela je zaostajala z razvojem. Prve parne stroje smo dobili leta 1815, tovarn skoraj ni bilo. Najbolj razvito je bilo železarstvo in fužinarstvo. Postopoma se je razvijalo slovensko meščanstvo, ki je od zadolženega kmeta kupovalo posestva, od obubožanega plemstva pa graščine. Naraščalo je število kajžarjev.
+Avstrijske oblasti niso bile naklonjene slovenskim izobražencem, ki so poskušali širiti znanje slovenskega jezika in v svojem jeziku pisati knjige. Toda njihov krog se je večal. Vse več Slovencev je odhajalo študirat na Dunaj. Prebujala se je narodna zavest in začutili so potrebo, da se Slovenci različnih dežel povežejo.
+Poprej so se borili le za jezikovne in kulturne pravice, sedaj so se v svojem narodnem gibanju pričeli tudi politično prebujati.
+Oblikovali sta se dve večji skupini. V prvi je bil osrednja osebnost pesnik France Prešeren, v drugi pa živinozdravnik in tajnik Kmetijske družbe Janez Bleiweis. Obstajala pa je tudi manjša tretja skupina, ki se je navduševala za kulturno in politično združitev vseh južnih Slovanov, ki se je imenovala ilirizem. Ilirci so menili, da se je nemškim pritiskom možno upreti le v združitvi vseh južnih Slovanov. Voditelj ilirskega gibanja na Hrvaškem je bil mladi Ljudevit Gaj, ki je uveljavil črkopis gajico, katero nekoliko spremenjeno pišemo še danes.
+12. DAN
+Nov teden so pričeli z individualnim ponavljanjem. Zapisali so pripoved o razvoju slovenskega jezika, kamor so vključili vso svoje dosedanje znanje (glej prilogo E).
+Učiteljica je nato nadaljevala s pripovedjo o romantiki. Najprej je ponovila, kar je že o tem do sedaj povedala, nato pa še snov dopolnila:
+Naprednim, Prešernovim, silam so pripadali nekateri najpomembnejši izobraženci tedanjega časa, kot je bil to Matija Čop, ki je bil poznavalec tujih jezikov in književnosti. Prepričani so bili, da morajo Slovenci, če se želijo povzpeti med velike narode in postati enakopravni z njimi, pridobiti predvsem meščanstvo in izobraženstvo. Zato je potrebno ustvarjati književnost, ki bo ugajala izobražencem in meščanstvu. Prešernu je to uspelo.
+
+Bleiweis je bil predvsem praktičen človek, zato je menil, da se velikemu sosedu postavimo po robu predvsem z gospodarskim napredkom. Vso pozornost je posvetil kmetom in obrtnikom. Ustanovil je časopis Kmetijske in rokodelske novice, ki so spodbujale napredek kmetijstva in bralcem vcepljale ljubezen do slovenskega jezika.
+Oboji so prispevali k temu, da se je slovensko narodno gibanje okrepilo.
+Romantiki so poudarjali načelo, da je človek merilo vseh stvari in zatrjevali, da je v umetnosti potrebno izpovedovati svoja čustva. Ugotavljali so, da je med človekovo željo po sreči in dejanskim življenjem globok prepad, zato so opisovali tudi razočaranja in duševne bolečine.
+Slovensko romantiko predstavlja predvsem Prešernova poezija, pred njo Slovenci nismo imeli pesniške tradicije. Prešeren se je znašel pred zahtevno nalogo, kako svojo poezijo izraziti v lepem jeziku. Pri tem mu je veliko pomagal prijatelj Matija Čop, ki je znal devetnajst jezikov in je odlično poznal tudi antično književnost. Prešeren je ustvaril sonete, pesnil v heksametru, pisal romance in balade, … Odpiral je poti za bodočo slovensko poezijo.
+Zapis v zvezek o razsvetljenstvu.
+13. DAN
+Snov so ponavljali v skupinah. Vsaka skupina je napisala vprašanja, ki so zajemala snov od protireformacije do vključno romantike.
+Nadgradnja z obdobjem med romantiko in realizmom:
+Kmet je leta 1848 postal lastnik zemlje, ki jo je obdeloval, toda nekdanjemu zemljiškemu gospodu je moral plačevati odškodnino. Poleg tega mu je država nalagala velike davke. Da bi dobil denar, bi moral veliko prodati, kar pa je bilo vedno težje. Z železnico so v deželo pričeli prihajati cenejši izdelki iz tujine, ki so uspešno izpodrivali domače. Kmetje so se zadolževali, denar za visoke obresti pa so si začeli izposojati pri vaških oderuhih. Mnogo dolgov niso mogli poravnati, zato je propadanje kmetov v tem času postal velik problem. Obubožani kmetje so se pričeli izseljevati.
+To je prehodno obdobje, ko v književnosti še živijo nazori romantike. Pisatelji vidijo svoje poslanstvo v tem, da snov za pisanje zajemajo iz ljudskega pripovednega izročila, življenje bolj ali manj olepšujejo, njihovo pisanje pa skuša ustrezati potrebam prebujenega meščanstva.
+V tem obdobju najdemo dve skupini. V prvi so bili katoliški, romantični staroslovenci, ki so zagovarjali počasne spremembe in se opirali na cerkev in duhovščino. V drugem so bili mlajši, meščanski, revolucionarni, liberalni mladoslovenci, ki so vključevali večino slovenskih izobražencev.
+Predstavnik staroslovencev je bil Janez Bleiweis. Zavzemal se je, da med Slovenci ne bi bilo sporov. Njihovo geslo je bilo: »Vse za vero, dom, oblast.«
+Boj proti staroslovencem je pričel utemeljitelj mladoslovenskega gibanja Fran Levstik. Prizadeval si je, da bi ustvaril umetnost na temeljih ljudskega življenja. Neprestano se je bojeval proti "nemškutarjem", zato ni bil zaželen in je težko dobil delo. Toda skozi življenje je hodil trdo, pokončno in samozavestno. Če ga je kdo razjezil, je rojil kot razjarjen lev, ko se je umiril, je bil krotek kot jagnje. Pisal je pesmi, sestavil potopis Od Litije do Čateža in napisal umetno pripovedko Martin Krpan z Vrha.
+
+Ko so izšle pesmi Simona Jenka, so jih staroslovenci močno skritizirali. Toda Fran Levstik mu je v težkih trenutkih življenja priskočil na pomoč. Čeprav je bil Jenko občutljiv in mehak, je ostal možat in odločen, bil je bister in pošten, samozavesten in dobrosrčen. Umrl je star petintrideset let in mnogi njegovih pesmi niso razumeli. Josip Stritar mu je na grob položil pesem: »Zorna pač skoraj pomlad zasije deželi slovenski, tvojega srca takrat spolnjene bodo želje!«
+Drugi pomemben steber mladoslovencev je bil Josip Stritar. Levstik je bil njihov idejni vodja in utemeljitelj slovenskega pripovedništva. Stritarjeva poglavitna zasluga pa je bila, da je bil literarni vzgojitelj mladega pesniškega rodu, a hkrati tudi sam pesnik, pripovednik, satirik, urednik, ... Izdajal je glasilo Zvon, kjer je pisal o Simonu Jenku in Franu Levstiku. Vzgajal je mlade bralce in bil učitelj mlademu literarnemu rodu, saj je bil v njegovem času najbolj izobražen in razgledan Slovenec. S svojim delom je pomagal razbijati staroslovensko konzervativno družbo.
+V Stritarjevi literarni šoli je oblikoval svoj pesniški talent tudi Simon Gregorčič in tako postal najboljši pesnik tedanjega časa. Bil je dostojanstven in resen človek, a je bil tudi občutljive in otožne narave. Mislil je, da so tudi drugi ljudje pošteni, kot je bil on sam, a doživel je razočaranje, zato je iskal tolažbo v samoti in kmečkem delu. V pesmih opisuje vero v pravico, poštenost in ljubezen do domače zemlje. Njegove pesmi odlikuje izjemna muzikaličnost, zato so ga imenovali "goriški slavček". Gregorčič je bil izrazit lirik.
+14. DAN
+Ustno utrjevanje o razsvetljenstvu, romantiki in obdobju med romantiko in realizmom s pomočjo zastavljenih vprašanj: Kaj je bilo značilno za razsvetljenstvo?
+Kdo je prišel v tem času na oblast? Za kaj sta se zavzemala?
+Zakaj temu obdobju pravimo doba narodnega prebujanja? Kaj in kdo vse je pripomogel k temu?
+Zakaj so začeli nastajati krožki? Kateri je bil najpomembnejši? Kdo so bili njegovi člani in kaj veš o njih?
+Katera dogodka sta naznanila prihod novega obdobja v zgodovini, romantike?
+Kakšno je bilo življenje v tem času?
+Katera je osrednja osebnost tega obdobja?
+Za kaj se je navduševal ilirizem? Kdo je bil voditelj tega gibanja? Kaj je uveljavil?
+Kateri dve skupini sta delovali v obdobju med romantiko in realizmom? Kdo so njuni predstavniki in za kaj so se zavzemali?
+Sledila je nadgradnja z realizmom:
+Ob koncu leta 1880 je prenehal izhajati Stritarjev Zvon, ki je s svojo veliko čustvenostjo izražal romantičen odnos do sveta. Žal to ni več ustrezalo tedanjemu času, ki je želel več bojevitosti in opisov realnega, dejanskega življenja, ki ga je zagovarjal Levstik. Realizem je torej nasproten romantiki, kajti zanj je značilen odpor proti pretiranemu razkazovanju čustev. Vodilo pesniku in pisatelju naj bi postala resnica. Podrobno opisovanje življenja, takšnega kot je, brez olepšav, se je veliko lažje izrazilo v prozi kot v poeziji. Najbolj prikladen za to pa je bil roman.
+
+Začetki slovenske proze so se pričeli že v Trubarjevem času. V Prešernovem času smo dobili prvo slovensko povest, Ciglarjevo Srečo v nesreči. Prvo slovensko umetno pripovedko je ustvaril Fran Levstik, in sicer Martin Krpan z Vrha. V tem času pa smo Slovenci dobili prvi slovenski roman, Deseti brat, katerega je napisal Josip Jurčič.
+Pod Levstikovim vodstvom so mladoslovenci leta 1881 osnovali Ljubljanski zvon, v katerem so pisali najboljši tedanji pesniki in pisatelji: Josip Jurčič (Jurij Kozjak), Fran Levstik, Ivan Tavčar (Cvetje v jeseni), Janko Kersnik, Simon Gregorčič, Anton Aškerc, Janez Trdina.
+To je bil čas, v katerem se je večal vpliv prebujajoče industrije, vedno več je bilo tudi rudnikov. Zgradili so veliko železnic. Kmet se je bolj in bolj zadolževal, število kajžarjev se je še povečalo, nadaljevalo se je množično izseljevanje. Vsa vodilna mesta so bila v rokah Nemcev. Povečevalo se je število delavcev. Okoli leta 1895 je bilo pri nas okoli 50.000 delavcev. Na eni strani se je širilo bogastvo, na drugi strani beda množic.
+V političnem življenju sta se spet ustanovila dva tabora, katoliški konzervativni tabor, ki je sprejel Mahničeva načela, in narodna napredna stranka, ki se je oklepala svobodomiselnih načel. Njen voditelj je bil dr. Ivan Tavčar. Med njima se je vnel srdit boj. Mahnič je ostro napadel Gregorčičeve pesmi in jih obsodil na brezverske.
+Najodločnejše se je s pesniško besedo izražal Anton Aškerc. Bil je borec za pravice naroda. Vse življenje se je bojeval proti Mahničevi omejeni miselnosti.
+Aškerc je bil razgledan, saj je veliko potoval. Zanimalo ga je življenje onstran meja. Prebiral je Koran in proučeval različna vzhodna verstva. Njegove pesmi zajemajo motive iz resničnega sodobnega ljudskega življenja, zato se zelo ločijo od romantike. Napisal je mnoge balade in romance, ki jih odlikuje dramatičen zaplet. V svojih pesmih brez olepšav govori o viharnih časih slovenske zemlje in njenega ljudstva. Možate, resne in kakor iz težkih kamnitih skladov izklesane so njegove pesmi, govore preprosto in brez olepšav, kar je značilnost realizma.
+Mladina je bila nad njegovo poezijo navdušena, Mahnič pa je menil, da naj mu nikar ne pade na pamet svoje cunje iz Zvonov pobrati in jih v zbirki ljudem ponujati. Toda Aškerc se je veliko bolj odločno uprl Mahniču kakor Gregorčič.
+Aškerc je bil izrazit epik. Cenil je svobodo in enakopravnost vseh narodov ter vseh družbenih slojev. Bil je začetnik slovenske socialne lirike.
+Zapis v zvezek o romantiki.
+15. DAN
+Utrjevanje je potekalo tako, da je vsak učenec, ki je prišel na vrsto, dopolnil drugega.
+Pripoved so pričeli v času protireformacije in jo skupaj, vsak je prispeval pomemben delež pripovedi, pripeljali do obdobja realizma. Vsekakor je učiteljica s pomočjo vprašanj pomagala učencem, če se je kaj zataknilo, če so kaj pomembnega izpustili, … Nadgradnja znanja z moderno.
+
+Ob koncu 19. stoletja je v slovensko književnost stopila nova generacija. Skoraj istočasno sta izšli dve pesniški zbirki, Cankarjeva in Župančičeva, ki sta bili nekakšno revolucionarno dejanje in sta razburkali slovensko javnost.
+Tudi življenje na naših tleh je bilo vedno bolj zapleteno. Izseljevanje se je še povečalo. V političnem življenju se je vedno bolj večal prepad med liberalno in klerikalno stranko.
+Ivan Cankar in Oton Župančič, ki sta študirala na Dunaju, sta od tam prinesla pobude za nastanek nove književnosti.
+Predstavniki slovenske moderne so bili: Ivan Cankar, Dragotin Kette, Josip Murn in Oton Župančič.
+Dragotin Kette (1876–1899) je kljub trnovi življenjski poti ostal vesel, duhovit in radoživ fant. Po Prešernu je bil drugi pesnik, ki je za svojo izpoved uporabljal sonet (Na otčevem grobu). Zgradba njegovih pesmi je bila torej klasična, po sporočilnosti pa je bil moderen. Kljub kratkemu življenju je dozorel v mladega moža, ki sta mu Ivan Cankar in Oton Župančič priznavala, da je bil najgloblji mislec izmed vseh predstavnikov moderne.
+Povsem drugačen človek je bil Josip Murn (1879–1901). Sam sebi se je zdel "čuden človek", kot je zapisal v pismu Ivanu Cankarju. Življenje se mu je zdelo včasih "veliko in lepo", včasih pa "pusto, prazno in mrtvo".
+Njegova razpoloženja so se menjavala od trenutka do trenutka. Včasih se je počutil "pogreznjenega v velik kup blata", drugič pa "kot da plava z oblaki, visoko nad vso življenjsko umazanijo". Vse to je bila posledica izjemno težkih razmer, v katerih je rastel kot otrok. Od otroštva je rastel pri tujih ljudeh, zato so bila občutja tujosti, izgubljenosti in brezciljnosti osrednje izpovedi njegovih pesmi.
+Na koncu pa še zapis v zvezek o obdobju, ki se imenuje med romantiko in realizmom.
+16. DAN
+Znanje o obdobju moderne so s pomočjo pripovedi učiteljice nadgradili in dopolnili.
+Osrednja osebnost slovenske moderne je bil Ivan Cankar (1876–1918). Rodil se je na Vrhniki v številčni družini. Očeta krojača je konkurenca spravila ob zaslužek, zato je odšel v svet in tako je družino preživljala samo mati. Številne zgodbe opisujejo njegovo revno življenje. Navkljub slabim razmeram ni padel v črnogledost, saj je bil vedno pripravljen za šalo. Njegovo bivanje na Dunaju, to je trajalo enajst let, vendar s presledki, je globoko oblikovalo njegovo življenje. Zapisal je, da je tam gledal dan za dnem stvari, ki bi morale tudi duševno plitkega in v srcu revnega človeka siliti k premišljevanju. V svojih pripovedih je prikazoval izkoriščanje trpečega ljudstva, grajal je hinavstvo in brezsrčnost izkoriščevalcev.
+Cankar ni bil le umetnik, ampak tudi borec za pravico, boljše življenje in ohranitev slovenskega jezika.
+Izmed vseh predstavnikov moderne je Oton Župančič (1878–1948) doživel najdaljšo starost. Njegovi starši so bili v Vinici v Beli krajini posestniki in trgovci, a ker niso bili poslovno uspešni, je malo manjkalo, da se niso odselili v Ameriko, kamor so Belokranjci množično odhajali. Med študijem na Dunaju se je družil s Cankarjem. Počitnice je preživljal v Ljubljani, kjer je zahajal na obisk k svojemu najboljšemu prijatelju Murnu.
+
+Tako kot Cankarjeva proza tudi Župančičeva poezija izraža odpor proti lažem v družbenem življenju ter ljudskim zatiralcem in skrb za socialne težave ljudi. Znal je prisluhniti tudi mladim, zato je ustvaril izvrstne pesmi za otroke.
+Zapis v zvezek o realizmu.
+17. DAN
+Učenci so samostojno ponovili snov s pomočjo zvezka in zapisov v njem.
+18. DAN
+Učenci so ponavljali po skupinah, in sicer tako, da so zapisovali vprašanja od romantike pa vse do vključno moderne v zvezek.
+Zapis v zvezek o moderni.
+19. DAN
+Zadnji dan epohe je bil namenjen utrjevanju in ponavljanju znanja. Najprej so ponavljali ustno, in sicer so gradili pripoved vse od Cirila in Metoda do moderne. Vsak učenec je prišel na vrsto in tako dopolnil pripoved ter pokazal svoje znanje. Za konec so ob zapisanih imenih na tabli na list napisali vse, kar vedo o teh osebah.
+Zapisane osebe: Ciril in Metod, Primož Trubar, Janez V. Valvasor, Marko Pohlin, Žiga Zois, Anton Tomaž Linhart, Valentin Vodnik, France Prešeren, Fran Levstik, Josip Stritar, Simon Gregorčič, Josip Jurčič, Anton Aškerc, Dragotin Kette, Josip Murn, Ivan Cankar, Oton Župančič.
+
+OSEBA 7. DAN
+(8. dan epohe)
+8. DAN
+(9. dan epohe)
+9. DAN
+(10. dan epohe)
+10. DAN
+(11. dan epohe)
+11. DAN
+(12. dan epohe)
+12. DAN
+(13. dan epohe) Referat o
+Simonu Jenku.
+Referat o Josipu Stritarju.
+Referat o Simonu
+Gregorčiču.
+Referat o Antonu Aškercu.
+Referat o Dragotinu Ketteju.
+Referat o Josipu Murnu.
+13. DAN
+(14. dan epohe)
+14. DAN
+(15. dan epohe)
+15. DAN
+(16. dan epohe)
+16. DAN
+(17. dan epohe)
+17. DAN
+(18. dan epohe)
+18. DAN
+(19. dan epohe) Referat o Ivanu Cankarju.
+Referat o Otonu Župančiču.
+Referat o Janezu
+Gradniku.
+Referat o Igu Grudnu.
+Referat o
+Cvetku Golarju.
+Referat o Srečku
+Kosovelu.
+Vrstni red referatov je kronološki, kot je časovno zaporedje, v katerem so pesniki ustvarjali.
+Odločitev, da bodo najprej pregledali poezijo, je dodobra premišljena in tehtna. Na prvi pogled zato, ker jim je poezija bližje, ker z njo lahko začneš takoj. Slednja nagovarja prebujajočo duševnost in po drugi strani lahko vsak, tudi tisti, ki težje bere, zlahka preleti pesniško zbirko in jo prebere.
+Naloge so zadane nivojsko:
+Tisti, ki so manj sposobni, pripravijo nekaj o življenju, preberejo pesniško zbirko in predstavijo pesem.
+Tisti, ki so bolj sposobni, se poskušajo vživeti v pesnika, si predstavljajo, kot da bi bili to oni sami in iščejo med pesmimi različne vrste.
+Tisti, ki so najbolj sposobni, pripravijo zelo zanimivo recitacijo, razmišljajo o pomembnih točkah v življenju pesnika, vključijo svoje razmišljanje in znajo podati svoje ugotovitve.
+Odločitve o dodelitvi pesnika posameznemu učencu so različne:
+Levstika je učiteljica dodelila učenki, ker je veliko napisanega o njem. Ona je otroška duša, za Levstika so pa značilne otroške pesmi. Je trmasta in mulasta do konca, hkrati pa izjemno talentirana.
+Učencu je namenila Aškerca, da ga zbudi. Veliko bo moral narediti, prebrati, govoriti, kar ga bo prebudilo, saj želi sicer vse opraviti zelo na hitro.
+Murn ima izjemno globoke, težke in zahtevne pesmi, ki jih lahko razume samo en učenec v razredu, zato je izbrala ravno njega.
+
+Učiteljica je ob vsakem pesniku poiskala točke v življenju, ki so odločilne tako za njega kot osebnost kot imajo tudi pomen za njegovo ustvarjanje. S pomočjo pesnikov nagovori skozi življenje razvijajočo se osebnost mladostnika, nagovori pa tudi ustvarjalnega, kreativnega duha (kot borca za pravice, kritičnega misleca) ter budi narodno zavest in pripadnost. To obdobje je bilo prežeto z najrazličnejšimi stvarmi, od tega, da niso bile začrtane ostre narodne meje, do tega, da se je iskal evropski oziroma svetovni duh. Biti domoljub je lepo, vendar je velika razlika v tem, če je nekdo nacionalist.
+Prebujanje s poezijo so zaključili s Kosovelom, saj je presegel vse meje. Njegova genialnost v svetovnem merilu se kaže v pesniški zbirki Integrali. Kons je nekaj, kar je nad poezijo.
+Kosovel zajema tudi velik spekter, in sicer od otroških pesmi do opisov Krasa, na koncu pa tudi kot mislec in filozof. Kosovel je kot veter, ki v deželi zapiha, in pusti večne sledi ter tako daje možnosti za nadaljnjo ustvarjanje.
+Epohi slovenščine sledi matematika, kjer bodo imeli v urah ponavljanja prozo in bodo veliko brali.
+
+3.4 PREVERJANJE HIPOTEZ
+H1: Predvidevamo, da je otrok v središču dogajanja.
+Hipotezo o predvidevanju, da je tako otrok kot individualno bitje kot tudi razred kot celota v središču dogajanja, lahko potrdimo. Slednje je moč opaziti že v ritmično-pevskem delu, kjer se učiteljica vsako leto odloči, katera slovenska ljudska pesem bi najbolj ustrezala trenutnemu vzdušju v razredu. Tokrat je izbrala pesem Zaplula je barčica moja, saj se zgodi v 12. letu prelom. Rodi se duša, prevladujoč je občutek osamljenosti in harmonija preide v praznino.
+Najprej je občutek osamljenosti, iz katerega jih je treba poslati ven, v svet. Vsi pa dobro vemo, če gremo v svet, če raziskujemo, da zagotovo pridemo tudi enkrat nazaj.
+Dogajanje znotraj vsakega učenca posebej smo lahko opazovali ob pisanju njihovih lastnih zgodb. Popolnoma individualno delo, ki smo ga nadgrajevali z vsakim posebej. Bili smo on, zgodba in mi.
+Upoštevanje individualnosti, kreativnosti, značilnosti vsakega izmed učencev se je kazalo s pomočjo referatov. Naloge in pričakovanja so bila v skladu z otrokovimi zmožnostmi.
+Nekateri so pripravili nekaj o življenju, prebrali pesniško zbirko in predstavili pesem, spet drugi so se poskušali vživeti v pesnika, iskali so različne vrste med pesmimi, tretji pa so razmišljali o pomembnih točkah v življenju pesnika ter so slednje tudi vključili v svojo predstavitev. Tudi odločitve o dodeljevanju pesnikov učencem so bile premišljene. Kot primer bi lahko navedli Aškerca, ki ga je učiteljica dodelila učencu zato, da ga zbudi, saj je moral veliko narediti, prebrati, govoriti. Velikokrat želi vse opraviti zelo hitro.
+
+H2: Predvidevamo, da med razrednikom in učencem vladata neposrednost in pristnost.
+Vsako jutro, devet let dan za dnem, pred vstopom v razred dati roko svojemu razredniku, ga pogledati v oči in mu zaželeti dobro jutro. Ritual, ki učitelju zagotovi dober vpogled v dogajanje posameznega učenca, ritual, ki daje moč občutiti pristnost ter neposrednost in ne nazadnje tudi posebno vez med razrednikom in učencem. Lahko bi to poimenovali kot nebesedno ustvarjanje vezi, ki se potem nadaljuje, morda potrjuje ali pa tudi ne, v času novic, ki jih učenci pripovedujejo. Vsako jutro jim je omogočen prostor, da povedo o svojih pripetljajih, razmišljanjih, …
+Devet let je dolga doba in tako pri učencih kot tudi pri učitelju pride v tem času do vrste globokih sprememb. V prvem razredu pripoveduje zgodbe in pazi, da otroci s seboj vzamejo svoje obleke in torbe, ko gredo domov. Učitelj igra vlogo staršev. V devetem razredu pa mora v precejšnji meri obvladati celo vrsto znanstvenih predmetov ter se pred mladimi damami in gospodi vesti kot uglajen svetovljan. Naloge učitelja prehajajo v vlogo starejšega prijatelja.
+(Carlgren 1993: 112) Hkrati pa ima učitelj ogromno prednost pred starši: devet let vodi otroka pri pouku, skupnem umetniškem delu, na izletih in v zaupnih pogovorih, ki jih imajo mnogi otroci raje z učiteljem kot s starši, lahko razlaga, svetuje in kaže. Tako učitelji in učenci postopoma ob veselju in težavah zrastejo v skupnost. Leto za letom imajo okrog sebe iste obraze in nekomu, ki ne živi v skrajno nemogočih razmerah, to pomeni najti svojo domovino na zemlji. (Carlgren 1993: 113)
+Hipotezo o tem, da vladata med razrednikom in učencem neposrednost in pristnost, lahko potrdimo.
+
+H3: Predvidevamo spontanost v vzgojnem in učnem delu.
+V učnem načrtu waldorfskih osnovnih šol so cilji podani, vendar so oblikovani kot smernice, kot okvir, znotraj katerega učitelj ustvarja pouk. Neuporaba učbenikov ter delovnih zvezkov pripelje do tega, da so v ospredju potrebe in zahteve točno določenega razreda. Tako se izognemo površinskosti in nenehnemu ponavljanju.
+Znotraj jezikovnega pouka imamo na eni strani poslušanje in govorjenje ter na drugi pisanje.
+Operativni cilji za poslušanje in govorjenje so naslednji, da poslušajo prosto govorjena poljudnoznanstvena besedila, potopise, poročila, biografije, razlage in opise, da sami govorno nastopajo, samostojno pripovedujejo daljši referat na določeno temo, negujejo svoje govorno izražanje in skupen pogovor, bogatijo svoj besedni zaklad, se učijo pozornega poslušanja, opazovanja, zaznavanja in spominjanja, razvijajo sposobnost pravilnega izražanja opažanj, občutkov, osebnih izkušenj, mnenj ter občutijo, da lahko vsebino pravilno in samostojno predstavijo. (http://www.waldorf.si/?w=11: 46, pridobljeno 15. 9. 2013) Ne gre za vsebinsko, programsko in didaktično formaliziranost, temveč za napotke, ki jih učitelj glede na vzdušje in potrebe v razredu formalizira v različne oblike dele. Vsi operativni cilji za tretje triletje so upoštevani v predstavitvi pesnikov, ki so jih imeli učenci ob zaključku glavne ure.
+Ustvarjalnica in pisanje lastne zgodbe sta obliki dela, v kateri so zajeti operativni cilji v povezavi s pisanjem, kot na primer: učenci razvijajo spretnost pisanja, natančno opisujejo opažanja, doživljaje in razmišljanja, učijo se pravilno pisati velike začetnice in ločila, vadijo pravopis ter se učijo razvijanja misli v nekem spisu ali sestavku.
+(http://www.waldorf.si/?w=11: 47, pridobljeno 15. 9. 2013). Tako referati kot tudi ustvarjalnica se povezujeta s cilji znotraj književnega pouka: recitirajo v zboru, v skupini in samostojno, spoznavajo življenja pesnikov, jih med seboj primerjajo in ugotavljajo, kako se utrip časa, v katerem so živeli, odraža v njihovih delih, učenci iščejo svoj lasten stil pisanja ob spoznavanju različnih stilov pisanja pesnikov ter pri samostojnem literarnem ustvarjanju.
+(http://www.waldorf.si/?w=11: 53, 54, pridobljeno 15. 9. 2013)
+V enem izmed pogovorov nam je učiteljica dejala, da je v pripravi veliko bolj strukturirana, medtem ko je pri izvedbi čim bolj sproščena. Ko delaš z otroki starimi trinajst let in več, se mora učitelj zelo prilagajati temu, kar uči. Če ni sposoben spremeniti načina poučevanja, je bolje, da gre. Eden izmed načinov je, da učitelj stopi tri korake nazaj in samo natančno opazuje ter ne reagira za vsako stvar, če ni vzgojno sporna. Opazovati mora vzdušje razreda, pozoren mora biti na prebujanja in ves čas iskati hrano za to prebujanje za konkreten razred.
+
+V tem obdobju lahko nastane čustvena zmeda. Njihova čustva so razburkana, vedno skrajnostno naravnana in učitelj mora to uravnotežiti. Vsako učiteljevo neutemeljeno razburjenje je še dodaten priliv na ogenj. Učitelj mora biti kot kreator, umirjevalec, povezovalec, mora nevtralizirati in ne zatreti. To pomeni, da ne prilije vode na ogenj, temveč da material, hrano za ta ogenj. Zelo pomembno je tudi, da učitelj spoštuje distanco, ki si jo učenci želijo. Še v 5. in 6. razredu so radi v bližini učitelja, sedaj pa se radi umaknejo v svoje skupine in se tam pogovarjajo svoje teme.
+Hipotezo o spontanosti v vzgojnem in učnem delu lahko potrdimo.
+
+H4: Predvidevamo uporabo najrazličnejših metod poučevanja znotraj epohe.
+V splošnem pomenu je metoda oblika načrtnega, premišljenega dejanja, ravnanja ali mišljenja za dosego kakega cilja. (SSKJ 2002: 547)
+To so premišljene poti do nečesa, kar nekdo hoče doseči. V izobraževalnem procesu so vsekakor v središču metode pouka oziroma metode poučevanja. V današnjem pomenu poučevanje pojmujemo kot učiteljevo dejavnost, sodelovanje v učenčevem pridobivanju in usvajanju znanja, ki ga učenci kreirajo z lastno notranjo, zlasti pa miselno aktivnostjo.
+(Kramar 2009: 148)
+Epoha je prežeta z najrazličnejšimi metodami, zato tudi četrto hipotezo lahko potrdimo. Če pogledamo nanjo kot na celoto, vidimo, da v vsakem delu, v celoti so štirje deli, prevladuje posamezna metoda.
+V prvem delu poimenovanem literarni pojmi je glavna metoda utrjevanje. Ponavljanje in utrjevanje sta se udejanjali v najrazličnejših oblikah dela. V samostojnem delu, kjer so zapisali preglednico, ki so jo naslednji dan nadgradili in si jo tudi samostojno pregledali, ter ustno utrjevanje s pomočjo zastavljenih vprašanj.
+Zgodovinski pregled književnosti, torej drugi del, je vključeval metodo razlage, utrjevanja in prikazovanja. Metoda razlage je potekala v obliki učiteljičinega živega pripovedovanja, ki ga je iz dneva v dan nadaljevala in nadgrajevala. Sledili so ji tudi učenci, ki so svoje znanje nadgrajevali s pomočjo metode utrjevanja, in sicer v skupinah ali pa z ustnim dopolnjevanjem drug drugega. Svoje književno znanje so povezali z zgodovino s pomočjo prikazovanja zapisa na šolski tabli.
+Tretji del, to je ustvarjalnica, je bila v celoti namenjena kreativnemu pisanju. Pisanje in mišljenje sta med seboj zelo povezana. Tukaj so lahko svobodno izlili lastne misli in čustva na papir.
+Zadnji del je bil namenjen govornim nastopom. Naloga je bila zadana nivojsko in učenci so imeli na voljo veliko časa, da so resnično v miru prebrskali in prebrali vse o svojem pesniku, kar so želeli. Postaviti se pred razred, prosto govoriti pred celotnim razredom, v prvi osebi ednine, ni lahka naloga, vendar je potrebno, da se urijo v tem. Menimo, da bi morali učitelji učencem omogočiti čim več govornih nastopov, saj kot pravi pregovor: »Vaja dela mojstra.« H5: Predvidevamo, da usvajanje snovi in znanja poteka s pomočjo trokoraka.
+
+Hipotezo, da usvajanje snovi in znanja poteka s pomočjo trokoraka, lahko potrdimo, kar teoretično in v praksi izgleda takole: 1. dan:
+Nova snov, ki jo pripeljemo v učno uro. Tudi če je nekaj novega, jo moramo povedati tako, da se bodo s tem lahko poistovetili. Že zdaj so otroci na poti k sodbi in nekateri že vzklikajo, ja, jaz vem, sem videl film, … Našo vsebino izročimo duši občutkov.
+2. dan:
+Ponavljanje: pogovor, analiziranje. Navezujemo se na dušo razuma, gre namreč za proces na poti do sodbe, gre za karakterizacijo in ne definicijo.
+3. dan:
+Zaključek: imamo sodbo, vendar gre bolj za oblikovanje konceptov, pri čemer nagovarjamo dušo zavesti.
+V nadaljevanju sledi praktičen prikaz uporabe trokoraka znotraj epohe.
+
+3. dan epohe 1. dan
+Pripoved o baroku.
+4. dan epohe 2. dan Ustno utrjevanje.
+1. dan
+Pripoved o razsvetljenstvu.
+5. dan epohe 3. dan Zapis v zvezek.
+2. dan
+Dopolnitev pripovedi.
+6. dan epohe
+3. dan
+Utrjevanje v dvojicah.
+1. dan
+Pripoved o romantiki.
+7. dan epohe
+4. dan
+Zapis v zvezek.
+2. dan
+Dopolnitev pripovedi, individualno utrjevanje.
+8. dan epohe
+3. dan
+Utrjevanje v skupinah.
+1. dan
+Pripoved o obdobju med romantiko in realizmom.
+9. dan epohe
+4. dan
+Zapis v zvezek.
+2. dan
+Ustno utrjevanje.
+1. dan
+Pripoved o realizmu.
+10. dan epohe
+3. dan
+Zapis v zvezek.
+2. dan Ustno utrjevanje.
+1. dan
+Pripoved o moderni.
+11. dan epohe
+3. dan Zapis v zvezek.
+2. dan
+Dopolnitev pripovedi.
+12. dan epohe
+3. dan
+Individualno utrjevanje.
+13. dan epohe
+4. dan
+Zapis v zvezek.
+Učitelj je tisti, ki vodi ta proces. Učenci še nimajo razvite duše občutka in zavesti, zato potrebujejo pomoč.
+Vsi vtisi, ki jih zaznavamo s čutili, nas lahko spravljajo ob živce. Če smo dalj časa prebujeni, ker ne spimo več dni zaporedoma, nimamo več kontrole nad mentalnimi podobami, ki se pojavljajo v glavi. Posledica je nesposobnost pravega mišljenja, ker ne moremo nadzirati miselnih podob, saj nam nenehno vdirajo.
+Med tem da pozabimo in se spomnimo, je enak odnos, kot med tem da spimo in smo budni.
+Pozabiti pomeni, da daš nekaj v svoje ude oziroma kosti.
+
+Andrej Fištravec (2005: 3) v enem izmed svojih intervjujev pravi, da imajo otroci pravico do pozabljanja, saj tako krepijo svoj spomin. Šele takrat, ko imaš pravico pozabiti, se lahko spomniš.
+Zraven tega je pomembno, da imajo učenci prostor, kjer lahko povedo o svojih dogodkih in razmišljanjih, da ne umolknejo. Bolje je, da so živahni ali pa celo preživahni, samo, da so prisotni.
+Učitelj z izbranimi pesmimi nagovori tako razred kot celoto kot tudi vsakega posameznika.
+Vzdušje v razredu je izredno pomembno in lepo je, ko se lahko s pomočjo pesmi počutiš razumljen in nagovorjen.
+Učenci imajo pri vsaki snovi možnost, da sami napišejo vprašanja. Učiteljica jih nato razreže in uporabi pri preverjanju znanja. Na takšen način imajo učenci občutek sodelovanja in soustvarjanja učnega procesa, hkrati pa se izognemo situaciji (ne)pravičnosti glede postavljanja vprašanj.
+Imeti možnost, ne samo občutiti, temveč tudi povedati, da danes ni "naš dan", je neprecenljivo. Pa naj bo to ob pisanju zgodbe ali v kateremkoli drugem delu pouka. Biti slišan in upoštevan.
+
+4. ZAKLJUČEK
+Svoboda je osnovni pogoj za obstoj ustvarjalnega duhovnega življenja. Vendar pa živimo v času, v katerem težnje po čim obsežnejšem državnem in industrijskem načrtovanju vedno bolj prodirajo v izobraževanje in znanost, s tem pa tudi v celotno kulturno življenje. Šole in univerze postajajo v vedno večji meri sestavni deli mednarodnega gospodarskega konkurenčnega boja. Učni načrti, oblikovanje pouka, izpitni pogoji, raziskovalni programi in metode postajajo vedno bolj dosledno prilagojeni potrebam državne uprave. (Carlgren 2003: 11)
+Vzgoja in izobraževanje imata pri tem odločilno vlogo. Prihodnost človeškega rodu se kaže pri otrocih. Vse novosti in vsa ustvarjalnost sveta so konec koncev odvisne od individualnih dosežkov in njihove uveljavitve v skupnosti. Vendar pa so možnosti posameznika, da razvije svoje notranje sposobnosti, odvisne od pristopa vzgojiteljev in učiteljev. Najpomembnejša naloga učitelja je spodbujanje individualne nadarjenosti in njeno vključevanje v družbeno okolje, ne pa pridobivanje naraščaja za premočrtno nadaljevanje po že utrjenih tehničnih in gospodarskih razvojnih poteh. (Carlgren 2003: 11, 12)
+In kot se velikokrat postavi vprašanje o tem, ali je takšna šola za otroka dolgoročno boljša od storilnostne javne šole smo ugotovili, da smisel šolanja v waldorfski šoli ni v izobraževanju, pri tem imamo v mislih predvsem tip izobraževanja, ki ga narekuje moderna znanost. Ne gre samo za pripravo na vsakdanje potrebe življenja, ki segajo od vključevanja posameznika v življenje sodobne civilizacije do priprave na poklic, temveč gre za cilje, ki so povezani z višjo človeško usodo in smislom življenja.
+Znanstvenost vsebinsko in metodično prežema javno šolstvo, zaradi česar so se v tem šolstvu po Steinerju izgubile vse najvišje človeške vrednote. (Medveš 1989: 233) Znanje, ki ga posreduje znanstveno usmerjen pouk, naj bi bilo le sredstvo, s katerim si posameznik in država zagotavljata kopičenje materialnih dobrin. Takšno šolanje pa je posamezniku le etapa v formuliranju življenjske kariere. In tako je tudi z univerzo, saj po Steinerjevem mnenju ljudje pošljejo svoje otroke na univerzo ali kako drugo visoko šolo samo zato, ker jim želijo zagotoviti podlago za njihovo kariero. Smoter šolanja, za kar si prizadevajo v waldorfskih šolah, je doživetje sebe kot bistvo kozmosa. Umetnost pa je le sredstvo za dosega tega smotra.
+(Medveš 1989: 234)
+S pisanjem diplomskega dela in predvsem s samo udeležbo pri pouku slovenskega jezika smo ugotovili, da waldorfska pedagogika in z njo povezane zakonitosti ne obstajajo samo nekje napisane, temveč so še kako žive v razredih. V njih je začutiti domačnost in toplino, k čemur pripomore tudi leseno pohištvo, igrače, mizica letnih časov itd.
+
+Vseh pet hipotez, ki smo si jih zastavili na začetku raziskovanja, smo lahko potrdili.
+Že zjutraj, v ritmično-pevskem delu, je otrok kot individualno bitje pa tudi razred kot celota v središču dogajanja. Vse to smo lahko opazovali tudi ob pisanju njihovih lastnih zgodb ter govornih nastopih, ki so jih pripravili.
+Jutranji ritual rokovanja med učencem in razrednikom vsako jutro, devet let zapovrstjo ter njuna skupna rast in razvijanje skozi leta pripomoreta, da med njima vladata neposrednost in pristnost.
+Učni načrt waldorfskih šol je drugačen od državnih. Tukaj so cilji podani, vendar so bolj oblikovani kot smernice, s pomočjo katerih učitelj ustvarja pouk. Neuporaba učbenikov in delovnih zvezkov v ospredje postavi potrebe ter zahteve točno določenega razreda. Tako je učitelj lahko spontan v vzgojnem in učnem delu.
+Že sama razdelitev epohe na štiri dele: literarni pojmi, zgodovinski pregled književnosti, ustvarjalnica ter govorni nastopi potrjujejo uporabo najrazličnejših metod poučevanja.
+Znotraj najrazličnejših metod poučevanja je v waldorfski pedagogiki najpomembnejša metoda trokoraka, ki je bila dosledno upoštevana.
+Zelo pomembno je, da ugotovimo, kaj je otrok prinesel na ta svet. Vsak izmed nas namreč nekaj prinese. To moramo najti, ugotoviti in ne zatreti.
+
+5. LITERATURA IN VIRI
+Literatura:
+Blažič, Marjan, 2003: Didaktika. Novo mesto: Visokošolsko središče, Inštitut za raziskovalno in razvojno delo.
+Brierley, David, 2006: The Not Yet in the Now. Oslo: ASK.
+Carglen, Frans, 1993: Vzgoja za svobodo. Ljubljana: Epta.
+Devjak, Tatjana, 2008: Alternativni vzgojni koncepti. Ljubljana: Pedagoška fakulteta.
+Fištravec, Andrej, 2005: Učenci imajo pravico tudi pozabiti. Štajerski tednik 41. 3.
+Kramar, Martin, 2209: Pouk. Nova Gorica: Educa, Melior.
+Krneta, Ljubo (ur.), 1975: Pedagogika 2. Ljubljana: DZS.
+Medveš, Zdenko, 1989: Waldorfska pedagogika ali kako izgubiti strah in vzljubiti šolo.
+Sodobna pedagogika 3−4. 153−165.
+Medveš, Zdenko, 1989: Antropozofski temelji waldorfske pedagogike. Sodobna pedagogika 5−6. 228−242.
+Medveš, Zdenko, 1992: Aktualnost reformske pedagogike v sodobnih vzgojnih konceptih in njen pomen v razvoju vzgoje in izobraževanja na Slovenskem. Zbornik prispevkov z mednarodnega posveta o alternativnih vzgojnih konceptih in znanstvenega simpozija o raziskovalnih dosežkih v vzgoji in izobraževanju. Maribor. 1−14.
+Medveš, Zdenko, 2007: Vzgojni modeli v reformski pedagogiki. Sodobna pedagogika 4.
+50−69.
+Polak Fištravec, Irena, 1999: Waldorfska pedagogika: waldorfska šola in waldorfski vrtec Maribor. Maribor: Zavod Waldorf.
+Strmole Ukmar, Branka, 2000: Kurikul waldorfske šole. Gerjolj, Stanko (ur.): Človek in kurikul: zbornik predavanj. 294−297.
+Walters, Donald, 1989: Vzgoja za življenje. Celje: Mohorjeva družba.
+
+Viri:
+Pesem o Nibelungih, 1972. Ljubljana: Mladinska knjiga.
+Verbinc, France, 1974: Slovar tujk. Ljubljana: Cankarjeva založba.
+Slovar slovenskega knjižnega jezika, 2002. Ljubljana: DZS.
+Steiner, Rudolf, 1987: Pogledi waldorfske pedagogike: prispevki k antropozofskemu učenju o vzgoji. Ljubljana: DZS.
+Steiner, Rudolf, 2010: Svobodna šola in tročlenost. Človek in svet 3. 30−35.
+Steiner, Rudolf, 2012: Splošni nauk o človeku kot osnova pedagogike: nauk o človeku in umetnost vzgoje: štirinajst predavanj držanih v Stuttgartu od 21. avgusta do 5. septembra 1919 in govor od 20. avgusta 1919: izobraževalni tečaj za učitelje z namenom ustanovitve Svobodne waldorfske šole v Stuttgartu: 1. del. Ruše: Založba Rudolfa Steinerja.
+Steiner, Rudolf, 2012: Umetnost vzgoje. Metodika – didaktika: nauk o človeku in umetnost vzgoje: predavanja izobraževalnega tečaja za učitelje držana v Stuttgartu od 21. avgusta do 6. septembra 1919 z namenom ustanovitve Svobodne waldorfske šole v Stuttgartu: 2. del. Ruše: Založba Rudolfa Steinerja.
+Steiner, Rudolf, 2012: Umetnost vzgoje. [Nauk o človeku in umetnost vzgoje]: seminarski posvet in predavanja o učnem načrtu držana v Stuttgartu od 21. avgusta do 6. septembra 1919 pri ustanovitvi Svobodne waldorfske šole: 3. del. Ruše: Založba Rudolfa Steinerja.
+Elektronski viri:
+Pesem Zaplula je barčica moja. Iz: http://www.ringaraja.net/otroski_koticek/ljudske- pesmi/zaplula-je-barcica-moja_58&153.html (Dostop 3. 9. 2013) Puntarska pesem. Iz: http://www.hervardi.com/pesmi/puntarska_pesem.php (Dostop 3. 9.
+Wikipedia. Iz: http://sl.wikisource.org/wiki/Dramilo (Dostop 3. 9. 2013) Učni načrt slovenščine v waldorfskih šolah. Iz: http://www.waldorf.si/?w=11 (Dostop 6. 9.
+
+6. PRILOGE
+PRILOGA A RAZISKOVANJE PISAV
+V skupini preglejte spodnje pisave, o njih razmislite, pod posamezno zapišite njeno ime ter razglabljajte o tem, katera bi lahko bila starejša in katera mlajša.
+
+
+PRILOGA B Natančnejša navodila za dokončanje zgodbe.
+
+PRILOGA C Primeri zgodb, ki so jih učenci napisali sami. 1. primer: 2. primer: 3. primer: 4. primer: 5. primer:
+
+
+
+
+
+
+
+
+
+
+PRILOGA D
+DOPIŠI IMENA ZNANIH OSEB
+Abecednik grad Bogenšperk pri Litiji Teze na vratih cerkve v Wittenbergu VALENTIN VODNIK Slava Vojvodine Kranjske cerkvene reforme natančna zemljepisna podoba dežele Kranjske prva slovenska gledališka igra katekizem podpornik slovenske književnosti protestantizem PRIMOŽ TRUBAR udeležil vojne zoper Turke MARTIN LUTHER kmečki kralj Zois ga je vzpodbujal baron JANEZ VAJKARD VALVASOR prva knjiga spodbujal ljudi, da pišejo slovensko stara pravda najbogatejši predstavnik porajajočega kapitalizma na Slov. spoznavanje posebnosti naših krajev ANTON TOMAŽ LINHART Raščica pri Turjaku velik ljubitelj znanosti in umetnosti duhovnik živel v Napoleonovem času preživljanje s petjem prvi slovenski dramatik 15. februar 1573 fevdalec, ki je ljubil lepoto naše zemlje član angleške akademije znanosti prvi slovenski pesnik Začetnik slovenske književnosti pisec šolskih knjig Rodoljub ilirski Županova Micka Reka, Salzburg ravnatelj razprava o Cerkniškem jezeru MATIJA GUBEC Leonardo da Vinci star 30 let prvi slovenski časnik oče slovenskega knjižnega jezika ŽIGA ZOIS cerkvene reforme Dramilo
+
+PRILOGA E
+

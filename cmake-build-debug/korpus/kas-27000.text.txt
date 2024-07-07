@@ -1,0 +1,553 @@
+UNIVERZA V LJUBLJANI EKONOMSKA FAKULTETA DIPLOMSKO DELO
+OBLIKOVANJE URAVNOTEŽENEGA SISTEMA KAZALNIKOV: PRIMER LIP BLED
+Ljubljana, avgust 2008 TEJA BURJA
+
+IZJAVA
+Študentka Teja Burja izjavljam, da sem avtorica tega diplomskega dela, ki sem ga napisala pod mentorstvom dr. Marka Hočevarja, in dovolim njegovo objavo na fakultetnih spletnih straneh.
+V Ljubljani, dne __________________ Podpis: _____________________________ i
+
+KAZALO
+UVOD ........................................................................................................................................ 1 1 PREDSTAVITEV URAVNOTEŽENEGA SISTEMA KAZALNIKOV......................... 2
+1.1 Strateški kazalniki uspešnosti poslovanja ...................................................................... 6 1.1.1 Finančni vidik............................................................................................................ 7 1.1.2 Vidik poslovanja s strankami .................................................................................... 7 1.1.3 Vidik notranjih procesov........................................................................................... 9 1.1.4 Vidik učenja in rasti ................................................................................................ 10 1.2 Uravnoteženi sistem kot managerski sistem................................................................. 11 1.3 Prednosti in omejitve sistema uravnoteženih kazalnikov ter tipične napake pri uvedbi ................................................................................................................................... 12
+2 OBLIKOVANJE URAVNOTEŽENEGA SISTEMA KAZALNIKOV V PODJETJU
+LIP BLED ............................................................................................................................... 14
+2.1 Gospodarsko in politično okolje, kjer se nahaja podjetje LIP BLED ......................... 16 2.2 Proces uvedbe Uravnoteženega sistema kazalnikov v podjetje LIP BLED................. 18 2.3 Opredelitev vidikov uravnoteženega sistema kazalnikov ............................................. 19 2.3.1 Finančni vidik.......................................................................................................... 20 2.3.2 Vidik poslovanja s strankami .................................................................................. 23 2.3.3 Vidik notranjih procesov......................................................................................... 28 2.3.4 Vidik učenja in rasti ................................................................................................ 32 2.4 Prikaz modela uravnoteženega sistema kazalnikov za podjetje LIP BLED............... 36
+SKLEP..................................................................................................................................... 38 LITERATURA IN VIRI........................................................................................................ 40 ii
+
+SEZNAM SLIK
+Slika 1: Uravnoteženi sistem kazalnikov zagotavlja okvir za preoblikovanje strategije v dejanja ........................................................................................................................................ 5 Slika 2: Veriga vzorčno – posledičnih razmerij ......................................................................... 6 Slika 3: Vidik poslovanja s strankami – osnovni kazalniki ........................................................ 9 Slika 4: Veriga vrednosti notranjih poslovnih procesov – model osnovne verige vrednosti ..... 9 Slika 5: Uravnoteženi sistem kazalnikov kot sistem strateškega vodenja ................................ 11 Slika 6: Organizacijska shema v podjetju LIP BLED .............................................................. 16 Slika 7: Uravnoteženi sistem kazalnikov v LIP BLED-u.......................................................... 36
+SEZNAM TABEL
+Tabela 1: Funkcije zaposlenih v podjetju................................................................................... 3 Tabela 2: Osnovni kazalniki pri poslovanju s strankami ........................................................... 8 Tabela 3: Vpliv ekonomskega in političnega okolja na LIP BLED......................................... 16 Tabela 4: Življenjski cikli izdelkov profitnih centrov LIP BLED-a ........................................ 21 Tabela 5: Stopnja izkoriščenosti kapacitet v LIP BLED-u ...................................................... 31 Tabela 6: Zadovoljstvo zaposlenih v LIP BLED-u.................................................................. 34
+
+UVOD
+Uspešna podjetja so tista podjetja, ki imajo v prihodnosti dobro oblikovane cilje, katere skušajo doseči ne glede na številne spremembe in prilagajanja. Prav slednje so pomembne pri konkurenčnosti in naskoku svetovne gospodarske elite.
+V preteklosti in še danes se za ocenjevanje uspešnosti poslovanja nekega podjetja najpogosteje uporablja analiza finančnih rezultatov. Tradicionalni pogled na uspešnost poslovanja je tisti, ki bistvo obstoja podjetja vidi v ustvarjanju dobička. Ker klasična računovodska merila ne zmorejo vrednotiti prave konkurenčne prednosti podjetij (predvsem neopredmetena dolgoročna sredstva), je nastala potreba po novem izkazovanju in merjenju uspešnosti podjetja.
+V razvitih ekonomijah so v zadnjih nekaj letih začeli hiteti z vpeljevanjem številnih novih merilnikov in modelov presoje poslovne uspešnosti: EVA (ekonomska dodana vrednost), MVA (trženjska dodana vrednost), SV (vrednost za delničarje, angl. shareholder's value), uravnoteženi sistem kazalnikov (angl. balanced scorecards), EFQM (evropski model poslovne uspešnosti), Nagrada Malcolm Baldridge (ameriška nagrada za poslovno uspešnost) itn. (Gruban, 2007).
+Oblikovanje uravnoteženega sistema kazalnikov (angl. balanced scorecard) je združilo klasični finančni vidik in okvir merjenja. Med seboj je povezala doseganje dolgoročnih konkurenčnih zmožnosti in finančno-računovodski model, ki temelji na stroških, kateri so se zgodili v preteklosti. Kar z drugimi besedami pomeni, da model ohranja finančne kazalnike hkrati pa uvaja kazalnike, ki vključujejo vidike poslovanja s strankami, notranjih poslovnih procesov ter učenja in rasti.
+»Balanced Scorecard« pomeni raznovrstne stvari različnim ljudem. Po eni strani lahko predstavlja okvir merjenja za skupine, katerim izoblikujemo kazalnike, drugo skrajnost pa predstavlja sistem, ki med seboj povezuje strateško planiranje, vodenje in komunikacijo obenem (Rohn, 2008).
+Podjetja so samostojne enote, ki jih ne smemo enačiti med sabo. Tega načela se moramo držati tudi pri oblikovanju in uporabi uravnoteženega sistema kazalnikov. Podjetje potrebuje kazalnike, ki mu bodo prilagojeni in jih bo tudi po številu ravno prav.
+Cilj diplomskega dela je najprej predstaviti teoretični koncept uravnoteženega sistema kazalnikov. Nadaljevanje teoretičnega dela je oblikovanje uravnoteženega sistema kazalnikov oziroma predlogov kazalnikov v proizvodnem podjetju, ki bo podjetju omogočilo poslovanje, da bo bolj uspešno sledilo viziji in strateškim ciljem podjetja.
+
+Namen diplomskega dela je s pomočjo uravnoteženega sistema kazalnikov oblikovati strateški managerski sistem, ki bo omogočal vpeljavo strategije v celotno delovanje podjetja LIP BLED ter spremljanje uspešnosti izvajanja strategije. Vodstvo bo lahko sproti ugotavljalo ali je podjetje na poti zastavljenim ciljem. Namen je torej vzpostaviti uravnoteženi sistem kazalnikov.
+Prvi del diplomske naloge je bolj teoretično usmerjen, medtem ko je v drugem delu prikazan praktični primer uvajanja sistema uravnoteženih kazalnikov na primeru podjetja LIP BLED.
+Diplomsko delo bom zaključila s sklepom, v katerem bom povzela glavne ugotovitve do katerih bom prišla pri izdelavi te naloge.
+1 PREDSTAVITEV URAVNOTEŽENEGA SISTEMA KAZALNIKOV
+Uravnoteženi sistem kazalnikov zagotavlja vodstvenim delavcem obsežen okvir, ki pretvarja vizijo in strategijo podjetja v razumljiv splet kazalnikov uspešnosti poslovanja (Kaplan & Norton, 2000, str. 36).
+V preteklosti so managerji sprejemali odločitve predvsem na osnovi informacij, ki so jih pridobili iz finančnih kazalnikov. Ti so se razvili na začetku 20. stoletja, ko so podjetja delovala v industrijski dobi in so pomagali predvsem pri odločitvah o razporejanju finančnih sredstev. V sedanjem času, ko podjetja poslujejo v tako imenovani informacijski dobi in so se spremenili pogoji poslovanja na trgu, morajo podjetja neprestano spremljati razvoj okolja in se sama prilagajati spremembam. Posledično torej finančni kazalniki niso zadostni za sprejemanje odločitev in morajo biti dopolnjeni z ostalimi, tako imenovanimi nefinančnimi kazalniki (Ošep & Volovšek, 2006).
+Različne raziskave so pokazale, da se manj kot 10% uspešno postavljenih strategij tudi uspešno izvaja na vseh nivojih v podjetju. Zaradi tega so se v začetku 90. let v ZDA pojavili začetki ideje uravnoteženega sistema kazalnikov uspešnosti, ki so nastali na osnovi raziskave Merjenje uspešnosti v organizaciji prihodnosti, katere vodja je bil David Norton, Robert Kaplan pa je bil akademski svetovalec. Spodbuda za raziskavo je bilo prepričanje avtorjev, da postajajo obstoječi pristopi k merjenju uspešnosti, ki se zanašajo zlasti na finančne in računovodske kazalnike, zastareli. V raziskavo so bili vključeni predstavniki večjega števila ameriških proizvodnih in storitvenih industrijskih podjetij iz različnih dejavnosti. Na osnovi študije primerov modernih sistemov merjenja uspešnosti podjetij je nastal sistem, ki je bil kasneje poimenovan Uravnoteženi sistem kazalnikov (Lesjak, 2003, str. 25) BSC nove generacije pa se ne ukvarja samo z merjenjem finančnih in nefinančnih pokazateljev, ampak se je usmeril v management in izvajanje poslovnih strategij. BSC usmerja energijo, sposobnosti in znanja ljudi v podjetju k doseganju strateških ciljev.
+
+Cilj uravnoteženega sistema kazalnikov je povezati kratkoročne poslovne cilje z dolgoročno vizijo in strategijo poslovanja. Sistem pomeni revolucijo in evolucijo v managementu, saj v podjetje vnaša celovitost, s katero je v današnjih časih nenehnih sprememb možno bolje upravljati podjetja. Prinaša spremembe tako pri metodah učenja in spreminjanja kot tudi pri strategijah podjetij ter pri filozofiji vodenja, merjenja in upravljanja poslovne uspešnosti (Winterleitner, 2004a).
+Pri preoblikovanju strategije v konkretna dejanja s klasičnimi metodami, podjetja ne uspejo uresničiti zastavljenih ciljev. Velikokrat se zgodi, da strategija ostane samo na papirju in podjetje ni sposobno spremljati rezultatov strateških pobud.
+Raziskave so identificirale štiri ključne ovire za udejanjanje strategije (Opis aplikacije Balanced scorecard):
+• Vizija: le 5 % zaposlenih razume strategijo.
+• Zaposleni: večina zaposlenih ima cilje, ki niso povezani s strategijo podjetja (glej Tabelo 2).
+• Viri: vedno primanjkuje časa in denarja; vsota denarja, ki jo podjetje nameni nagrajevanju ni povezana s strategijo.
+• Managerji: preveč časa posvečajo kratkoročnim težavam in odločitvam, 85% vodstvenih ekip si vzame manj kot uro časa na mesec za diskusijo strategije (glej Tabelo 2).
+Po raziskavah sodeč strateško postavljen sistem nagrajevanja zviša vrednost podjetja za 39%.
+Vodstvo mora v podjetju oblikovati merljive cilje – kar z drugimi besedami pomeni, česar ne moreš meriti, ne moreš obvladati.
+Tabela 1: Funkcije zaposlenih v podjetju
+ZAPOSLENI OPRAVILA
+IZVAJALCI Vsi razumejo merljive cilje Imajo možnost Lahko se izražajo Sliši se jih in spoštuje Rutinska, različna
+KLJUČNI KADRI
+Specifična znanja:
+-neposnemljivi,
+- ustvarjalni,
+- tiho znanje Oblikujejo stališče:
+-osebne vrednote Obnašanje posameznika:
+- pooblastila,
+- odgovornosti Skupno obnašanje:
+- zaupanje Strokovna, specifična, tiho znanje
+VODILNI Pozornost Potrpežljivost Usmerjenost, prepričevanje Lojalnost, pripadnost Koordinacija
+Vir: R. Cipot, Sistem uravnoteženih kazalnikov v storitveni dejavnosti, 2006.
+Pravilno uvajanje uravnoteženega sistema kazalnikov v podjetje zahteva več smernic in napotkov, katere naj vodstvo pri uvedbi upošteva. Ena izmed najbolj pomembnih, da si vodstvo mora za projekt vzeti dovolj časa. Pri oblikovanju uravnoteženega sistema kazalnikov (izdelavi in vpeljavi) mora biti nujno prisoten direktor oziroma lastnik podjetja ob pomoči širše vodstvene skupine, saj mora sistem odsevati strateško vizijo najvišjega vodstva. Pred uvedbo sistema je potrebno določiti strategijo in vrednost, ki jo podjetje zagotavlja kupcu.
+
+Prav tako pa je pomembno, da družba analitično prouči poslovni model podjetja in izbere prava merila in kazalnike ter določi ključne poslovne procese. Ena izmed mnogih napak pri oblikovanju sistema kazalnikov je posnemanje spleta kazalnikov drugih podjetij. Uravnotežen sistem kazalnikov nam tako predstavlja temeljni koncept strateškega managementa in proračunskega načrtovanja. S cilji in merili uravnoteženega sistema kazalnikov je treba najprej povezati individualne cilje in nagrajevanje managementa, nato pa še vseh zaposlenih, sistem je treba podpreti z informacijsko tehnologijo, ki omogoča avtomatično zajemanje in analizo podatkov. Najbolj pomembno pri vsej uvedbi sistema pa je, da vodstvo podjetja koncept uravnoteženega sistema kazalnikov pojasni vsem zaposlenim in jih tudi primerno izobrazi. Sledi pa še pregled in potrebno spreminjanje vseh preostalih sistemov (nagrajevanje, poslovni načrti, naložbe, kontroling, oddelčni cilji in podobno) ter uskladitev z uravnoteženim sistemom kazalnikov (Winterleitner, 2004b).
+Na vprašanje zakaj postaviti BSC koncept v podjetje, je Kaydos (2003) odgovoril s 5 preprostimi točkami:
+• povečati pomembnost strategije in rezultatov,
+• izboljšati organizacijski nastop z merjenjem tistega, kar je pomembno,
+• povezati strategijo z dejanskim delom zaposlenih,
+• osredotočiti se na ključne dejavnike, ki bodo podjetje vodile v uspešno prihodnost,
+• izboljšati komunikacijo med zaposlenimi in vodstvom.
+Uravnoteženi sistem kazalnikov pretvarja poslanstvo in strategijo v cilje in kazalnike, razvrščene v štiri vidike (glej Sliko 1 na strani 5):
+• Finančni vidik
+• Vidik poslovanja s strankami
+• Vidik notranjih poslovnih procesov
+• Vidik učenja in rasti
+
+Slika 1: Uravnoteženi sistem kazalnikov zagotavlja okvir za preoblikovanje strategije v dejanja Vir: R. Kaplan & D. Norton,, Uravnoteženi sistem kazalnikov, 2000, str. 21, slika 1-1.
+Finančni vidik: Kako nas vidijo naše stranke, da bomo dosegli finančno uspešnost?
+Poslovanje s strankami: Kako nas vidijo naše stranke, da bomo uresničili svojo vizijo?
+Notranji poslovni procesi: V katerih poslovnih procesih se moramo izkazati, da bomo zadovoljili svoje delničarje in stranke?
+Učenje in rast: Kako naj okrepimo svojo sposobnost za spremembe in izboljšave, da bomo uresničili svojo vizijo?
+Uravnoteženi sistem kazalnikov zagotavlja okvir, neke vrste jezik, za posredovanje poslanstva in strategije. Merjenje uporablja za obveščanje zaposlenih o trenutnem in prihodnjem uspehu.
+Sistem ohranja finančno merjenje kot osnovno merilo managerske in poslovne uspešnosti, vendar poudarja bolj splošen in celovit skupek kazalnikov, ki trenutno uspešnost pri poslovanju s strankami, na področju notranjih procesov, zaposlenih in sistema povežejo z dolgoročnim finančnim uspehom (Kaplan & Norton, 2000, str. 33).
+Uravnoteženi sistem kazalnikov poudarja, da morajo biti finančni in nefinančni kazalniki del informacijskega sistema za zaposlene na vseh ravneh. Odgovorni za sprejemanje odločitev se morajo zavedati finančnih posledic svojih odločitev in ukrepov. Cilji uravnoteženega sistema kazalnikov postanejo skupna odgovornost ekipe vodstvenih uslužbencev in tako omogočajo, da se sistem uporablja kot organizacijski okvir za široko paleto pomembnih managerskih procesov, ki temeljijo na skupinskem delu, ne glede na prejšnje delovne izkušnje ali strokovno znanje.
+Uravnoteženi sistem kazalnikov bi moral biti uporabljen kot sistem komuniciranja, obveščanja in učenja, ne pa kot sistem nadzora (Kaplan & Norton, 2000, str. 37).
+Vizija in strategija Finančni vidik Notranji poslovni procesi
+Učenje in rast Poslovanje s strankami
+
+1.1 Strateški kazalniki uspešnosti poslovanja
+Sistem uravnoteženih kazalnikov je zelo obsežno orodje, ki ga je potrebno prikrojiti lastnim potrebam in željam. Vsako podjetje mora izpostaviti svoje potrebe in želje ter temu primerno izbrati vse najpomembnejše kazalnike, ki odločilno vplivajo na razvoj podjetja v prihodnosti (Bizjak, 2006, str. 23).
+Kot manager podjetja se pred uvajanjem uravnoteženega sistema kazalnikov lahko vprašamo, če nam zadostujejo prej omenjeni vidiki ali mogoče potrebujemo dodatnega. Ti štirje vidiki so se med različnimi podjetji in dejavnostmi izkazali za utemeljene, toda vedno se jih lahko dopolni oziramo zamenja s čim, kar deluje še bolj učinkovito kot predlagani vidiki.
+Pri sestavljanju sistema se prav tako ne smemo zaplesti s prevelikim številom vključenih kazalnikov v BSC koncept. Področja poslovanja večine podjetij so zelo raznovrstna, da je oblikovanje sistema kazalnikov na ravni podjetja lahko težavna začetna naloga. Kazalniki, ki se pojavljajo v uravnoteženem sistemu, morajo biti povsem vključeni v verigo vzorčno – posledičnih povezav (glej Sliko 2), ki določajo strategijo poslovne enote (Kaplan & Norton, 2000, str. 47).
+Slika 2: Veriga vzorčno – posledičnih razmerij
+Vir:B. Winterleitner, Uvajanje uravnoteženega sistema kazalnikov v malo podjetje (1.del), 2004a.
+
+1.1.1 Finančni vidik
+Finančni kazalniki so koristni predvsem pri povzemanju lahko merljivih ekonomskih posledic že sprejetih ukrepov, pri uvajanju uravnoteženega sistema kazalnikov pa je treba finančne cilje povezati s strategijo podjetja. Vloga finančnih kazalnikov je dvojna: prvič, določajo finančno uspešnost, ki jo vodstvo pričakuje od strategije, in drugič, nastopajo v vlogi finančnih ciljev za kazalnike preostalih treh vidikov sistema. (Winterleitner, 2004a).
+Finančni cilji predstavljajo usmeritev ciljev in kazalnikov vseh drugih vidikov sistema. Vsak izbrani kazalnik bi moral biti člen v verigi vzorčno – posledičnih razmerij, ki privede do izboljšanja finančne uspešnosti.
+Finančni cilji se lahko močno razlikujejo na vsaki stopnji življenjskega cikla poslovne enote, te stopnje pa so (Kaplan & Norton, 2000, str. 58):
+• Rast: izdelki oz. storitve z velikim potencialom rasti; splošna finančna cilja: deleži (%) stopnje rasti prihodkov in stopnja rasti prodaje na ciljnih trgih.
+• Zrelost: poslovne enote z visokimi donosi vloženega kapitala; splošna finančna cilja: dohodek od poslovanja ali bruto dobiček.
+• Upadanje: nič več vlaganj v poslovne enote; splošna finančna cilja: denarni tok iz poslovanja in zmanjšanje potreb po obratnih sredstvih.
+Za vsako od treh stopenj življenjskega cikla pa sta avtorja odkrila tri finančne usmeritve, ki poganjajo poslovno strategijo:
+• Rast in splet prihodkov: se nanaša na razširitev ponudbe izdelkov in storitev, obračanje k novim strankam in trgom, spreminjanje programa izdelkov in storitev v ponudbo z višjo dodano vrednostjo ter določanje novih cen izdelkov in storitev.
+• Zmanjševanje stroškov oz. izboljšanje produktivnosti: navezuje se na prizadevanje za zniževanje neposrednih stroškov izdelkov in storitev, zmanjševanje posrednih stroškov ter delitev skupnih sredstev z drugimi poslovnimi enotami.
+• Izraba sredstev oz. naložbena strategija: zmanjšanje količine obratnega kapitala, potrebnega za podporo danega obsega in programa poslovanja, večji izkoristek obsega osnovnih sredstev z usmerjanjem novih poslov k sredstvom, ki trenutno niso povsem izkoriščena, učinkovito izrabo omejenih sredstev in odprodajo premoženja, ki ne prinaša zadostnih donosov glede na tržno vrednost.
+1.1.2 Vidik poslovanja s strankami
+Dandanes pogostokrat slišiš: »Kupec je kralj«. Prav zato je prilagajanje ponudbe strankam kvaliteta podjetja, ki se obrestuje dolgoročno.
+
+Le zvesta in zadovoljna stranka namreč podjetju zagotavlja uspešno poslovanje, zato je pomembno, da podjetje na podlagi različnih dejavnikov spremlja svoj odnos do stranke, pa tudi odnos stranke do podjetja (Winterleitner, 2004a).
+Pri oblikovanju vidika poslovanja s strankami mora vodstvo določiti segmente ciljnih strank in trga. Segmentacija strank je namenjena razporejanju strank na obstoječe in potencialne stranke, torej dve vrsti strank z različnimi potrebami in željami.
+V primerjavo s finančnimi kazalniki so to kazalniki z zamikom – podjetje se ne zaveda uspešnosti pri zadovoljevanju potreb in želja ciljnih trgov, dokler ni prepozno, da bi še vplivali na rezultat. Managerji so prav tako odgovorni za opredelitev želja strank, in za izbiro ponudbe, ki jim jo bodo predstavili. Izbirajo lahko med tremi kategorijami značilnosti (Kaplan & Norton, 2000, str. 73):
+• značilnost izdelka oz. storitve: funkcionalnost, kakovost, cena in čas,
+• odnos s stranko: kakovost nakupne izkušnje in osebni odnosi,
+• imidž in ugled podjetja.
+Osnovna skupina kazalnikov pri poslovanju s strankami je enaka za vse vrste organizacij, in sicer vključuje (glej Tabelo 2 in Sliko 3 na strani 9): Tabela 2: Osnovni kazalniki pri poslovanju s strankami Tržni delež
+Odseva delež poslov posamezne poslovne enote na določenem trgu (glede na število strank, porabljeni denar ali prodano količino enot).
+Pridobivanje strank Meri stopnjo po kateri poslovna enota privablja ali pridobiva nove stranke oziroma posle.
+Ohranjanje strank Spremlja stopnjo po kateri poslovna enota ohranja oziroma vzdržuje obstoječe odnose s svojimi strankami.
+Zadovoljstvo strank Ocenjuje stopnjo zadovoljstva strank glede na posebna merila uspešnosti znotraj ponudbe.
+Dobičkonosnost strank
+Meri samo čisti dobiček od stranke ali segmenta, ko odštejemo odhodke, potrebne za oskrbovanje določene stranke.
+Vir: R. Kaplan & D. Norton, Uravnoteženi sistem kazalnikov, 2000, str. 78, slika 4-1.
+
+Slika 3: Vidik poslovanja s strankami – osnovni kazalniki
+Vir: R. Kaplan & D. Norton, Uravnoteženi sistem kazalnikov, 2000, str. 78, slika 4-2.
+Pričakovanja kupcev v današnjem času so se v poprečju močno dvignila. Kupci danes želijo in pričakujejo od podjetij: manj prodajnih pritiskov, več odzivnosti (krajši dobavni roki), več poslušanja (manj sklicevanja na notranje probleme in postopke), več pozornosti in zaupanja (manj stroškov, več prilagodljivosti), manj birokracije (papirologije) (Ilgo, 2008, str. 32).
+1.1.3 Vidik notranjih procesov
+Vidik notranjih poslovnih procesov vključuje procese (glej Sliko 4), ki so ključni za izpopolnjevanje ciljev delničarjev, hkrati pa naj bi zagotavljali ponudbe, ki bodo pritegnile in obdržale stranke. Kazalniki notranjih poslovnih procesov so usmerjeni v notranje procese, ki bodo najbolj vplivali na zadovoljstvo stranke in dosego finančnih ciljev organizacije.
+Uravnotežen sistem kazalnikov teži k stalnemu izboljševanju vseh notranjih poslovnih procesov in vanje uvaja filozofijo poslovne odličnosti (Winterleitner, 2004a).
+Slika 4: Veriga vrednosti notranjih poslovnih procesov – model osnovne verige vrednosti Vir: R. Kaplan & D. Norton,Uravnoteženi sistem kazalnikov, 2000, str. 105, slika 5-1.
+Zadovoljstvo strank
+Dobičkonosnost strank Tržni deleži
+Pridobivanje strank
+Ohranjanje strank Oprede- litev potreb strank Oprede- ljevanje trga
+Obliko- vanje izdelka/ ponuja- nje storitev Proizvo- dnja izdelkov/ opravlja- nje storitev Dosta- va izdelk ov/sto ritev Stori- tve za stran- ke
+Zadovo- ljitev potreb strank
+Proces inovacij Operativni proces Proces popro- dajnih storitev
+
+Proces inovacij je ključni sestavni del vidika notranjih poslovnih procesov, ki poudarja pomen opredelitve značilnosti tržnih segmentov, ki jim poslovna enota namenja prihodnje izdelke in storitve. Zatem sledi oblikovanje in razvoj le teh, ki bodo zadovoljili ciljne segmente.
+V operativnem procesu je potrebno opredeliti značilnosti stroškov, kakovosti, rokov in uspešnosti, ki obstoječim kupcem zagotavljajo kakovostne izdelke in storitve.
+S poprodajnimi storitvami podjetja lahko poudarijo pomembne vidike storitev, ki jih ponujajo po dostavi kupljenega izdelka ali storitve.
+Večina podjetij teži k naprednim pristopom merjenja in sledi celovitejšim metodam merjenja in nadzora poslovanja podjetja. Tako finančne kazalnike nadomeščajo kazalniki kakovosti, donosa, pretoka in trajanja cikla poslovnega procesa. Trendi v zadnjem času spodbujajo podjetja, da merijo uspešnost poslovnih procesov, kot so: izpolnjevanje naročil, nabava ter načrtovanje in nadzor proizvodnje, ki segajo v različne organizacijske enote. V te namene podjetja za tovrstne procese opredelijo kazalnike stroškov, kakovosti, pretoka in časovnih rokov.
+Glavna naloga vodstva je torej določitev in opredelitev ključnih procesov podjetja, prenove procesov in njihove implementacije s ciljem boljšega zadovoljevanja kupčevih potreb in zadovoljstva zaposlenih in posredno tudi doseganja konkurenčne prednosti v pogojih globalizacije poslovanja in čedalje večje zahtevnosti kupcev (Ilgo, 2008, str. 32).
+1.1.4 Vidik učenja in rasti
+Cilji, ki so bili postavljeni v prejšnjih treh vidikih, opredeljujejo procese, ki jih mora organizacija kakovostno izvajati, če želi doseči izjemno uspešnost poslovanja. Cilj vidika učenja in rasti je zagotoviti podjetju infrastrukturo za doseganje ambicioznih dolgoročno usmerjenih ciljev, ki so jih opredelili v preostalih treh vidikih (Kaplan & Norton, 2000, str.
+V BSC konceptu se poudarja pomen vlaganj v prihodnost, vendar ne gre le za običajne naložbe, vendar za naložbe v zaposlene, sisteme in postopke. To so pomembni koraki na poti do doseganja dolgoročnih ambicioznih ciljev finančne rasti.
+
+Vidik učenja in rasti pa lahko razdelimo na tri glavne kategorije, in sicer (Kaplan & Norton, 2000, str. 137):
+• Sposobnosti zaposlenih; osnovne skupine kazalnikov za merjenje učinkovitosti zaposlenih: zadovoljstvo zaposlenih, ohranjanje zaposlenih v organizaciji in produktivnost zaposlenih.
+• Zmogljivosti informacijskih sistemov; pogosto uporabljene skupine kazalnikov za merjenje zmogljivosti informacijskih sistemov: zasedenost strateških delovnih mest in dostopnost strateških informacij, ki se med seboj dopolnjujeta.
+• Motivacija, avtonomnost in usklajevanje; skupine kazalnikov za merjenje motivacije, avtonomnosti in usklajevanja: kazalniki novih zamisli in njihovega uresničevanja, kazalniki izboljšav, kazalniki individualnega in organizacijskega usklajevanja in kazalniki uspešnosti delovanja zaposlenih.
+1.2 Uravnoteženi sistem kot managerski sistem
+BSC koncept je bil na začetku njegove poti razvit z namenom, da bi rešili problematično vprašanje merjenja. V začetku 90-ih let je začelo prevladovati prepričanje, da obstoječi modeli merjenja ne dajejo več zadovoljivih rezultatov, saj se meritve nanašajo le na finančne kazalnike, ki upoštevajo le pretekle stroške in so primerni le za pridobivanje povratnih informacij o preteklem poslovanju in za nadzor nad kratkoročnimi posli. Prav za rešitev tega problema je bil razvit uravnoteženi sistem kazalnikov, za katerega pa se je hitro pokazalo, da vodilni managerji v njem vidijo več kot le sistem merjenja (glej Sliko 5).
+Slika 5: Uravnoteženi sistem kazalnikov kot sistem strateškega vodenja Vir: B. Winterleitner, Uvajanje uravnoteženega sistema kazalnikov v malo podjetje (1.del), 2004a.
+
+Uravnoteženi sistem kazalnikov poudarja, da morajo biti finančni in nefinančni kazalniki del informacijskega sistema za zaposlene na vseh ravneh. Cilji in kazalniki uspešnosti v BSC so načrtno izbrani in oprijemljivi, ter izvirajo iz procesa »od zgoraj navzdol«, ki ga vodita poslanstvo in strategija podjetja. Kazalniki predstavljajo uravnoteženost med zunanjimi kazalniki, namenjenimi za delničarje in stranke, ter notranjimi kazalniki poslovnih procesov, inovacij ter učenja in rasti. Za te kazalnike lahko rečemo, da so uravnoteženi med kazalniki rezultatov (posledic preteklega dela) in kazalniki, ki spodbujajo prihodnje poslovanje.
+Sistem kazalnikov ponuja vodstvenim delavcem novo orodje za usmerjanje njihovih organizacij v strategijo in posledično za dolgoročen uspeh podjetja. Z določitvijo najpomembnejših ciljev, ki jim mora organizacija nameniti največ pozornosti in sredstev, sistem kazalnikov ustvarja okolje, potrebno za uveljavitev strateškega managerskega sistema, ki pomaga organizirati naloge, informacije ter pomembne managerske procese.
+Uravnoteženi sistem kazalnikov v bistvu ustvarja povezave med cilji, ki izhajajo iz poslovanja s strankami, notranjih poslovnih procesov ter kadrovskih in splošnih sistemov za doseganje dolgoročnega finančnega uspeha. Prav tako pa BSC usklajuje cilje oddelkov, skupin in posameznikov za doseganje strateškega uspeha. Pomaga tudi prilagoditi razporeditev sredstev, strateške pobude in pri načrtovanju letne strategije. Zelo pomembno je tudi, da BSC ne odpravlja pomembne vloge finančnega merjenja v managerskem sistemu, ampak le umešča merjenje finančne uspešnosti v bolj uravnotežen managerski sistem, ki vzpostavlja soodvisnost med kratkoročnimi operativnimi cilji in dolgoročnimi strateškimi cilji.
+1.3 Prednosti in omejitve sistema uravnoteženih kazalnikov ter tipične napake pri uvedbi
+Ena izmed prednosti metode BSC je prav gotovo, da jo lahko uporabljajo podjetja v katerikoli gospodarski panogi. Vendar različna konkurenčna okolja zahtevajo različne splete kazalnikov.
+Ti morajo biti prilagojeni viziji oziroma poslanstvu podjetja, strategiji, tehnologiji in organizacijski kulturi. Prednosti metode BSC so (Hočevar, 2003): a) povezanost, b) nefinančni kazalniki, c) uresničevanje strategije, d) uporabnost.
+Prva zgoraj omenjena lastnost je torej povezanost. USK povezuje in usklajujejo številna navidezno ločena, v resnici pa odvisna področja konkurenčnega poslovanja. S tem ko so managerji prisiljeni obravnavati vse pomembne kazalnike hkrati, lahko preprečijo doseganje izboljšav na enem področju na račun drugih področij.
+Naslednja prednost se nanaša na sodobne nefinančne kazalnike za presojanje uspešnosti svojih dejavnosti, vendar ne določijo, kateri so ključni za presojanje uspešnosti poslovanja podjetja kot celote. BSC zahteva, da managerji izberejo omejeno število kazalnikov za vsakega od štirih vidikov in se osredotočijo na ključne dejavnike doseganja strategije podjetja. BSC prav tako odpravlja ogromno razliko med kratkoročnim merjenjem uspešnosti (finančni kazalniki) in merjenjem dolgoročne uspešnosti podjetja.
+
+Bistvo BSC je strategija, in ne nadzor, kot je bilo značilno za klasične modele sisteme merjenja. Ti so izhajali iz finančnega vidika ter določali, kaj morajo zaposleni storiti, nato pa nadzirali njihovo uspešnost. V sodobnih okoliščinah ni mogoče natančno predpisati, kako naj zaposleni dosegajo cilje. BSC vključuje zaposlene v izbiro takšnih dejanj, ki bodo vodile do skupnega cilja. Zato je pomembno, da so z Uravnoteženim sistemom kazalnikov seznanjeni vsi zaposleni.
+Zadnja tako imenovana prednost, ki jo je Hočevar (2007, str. 196) izpostavil, pa se nanaša na uporabnost. Uporabniki informacij, ki jih daje BSC, so tako notranji kot zunanji. Finančni vidik in vidik poslovanja s kupci sta zunanja vidika, ker opisujeta poglede zunanjih oseb (delničarjev, kupcev) na podjetje. Druga dva vidika pa prikazujeta notranje poslovanje podjetja.
+Prav gotovo je BSC metoda merjenja uspešnosti poslovanja, ki odpravlja slabosti klasičnih računovodskih meril. Kljub temu pa, da bi se morali v podjetjih zavedati vsaj teh štirih omejitev uravnoteženega merjenja uspešnosti poslovanja (Hočevar, 2003): a) novosti, b) nepopolnosti, c) obsežnosti in d) slabe implementacije strategije.
+Prva zgoraj omenjena omejitev je novost. Zaposleni, vključno z vodstvom, imajo težave pri navajanju koncepta in popolnoma nove miselnosti.
+Naslednja slabost se navezuje na nepopolnost. BSC zajema številna pomembna področja poslovanja. Vendar v predlaganem modelu ti vidiki niso popolni. Prav gotovo vsaj vidika odnos z dobavitelji in poprodajne storitve bi si zaslužila podrobnejše določanje ciljev in spremljanje uspešnosti.
+Zadnja omejitev pa je obsežnost koncepta. BSC je obsežen sistem kazalnikov in informacij, kar lahko povzroči težave pri ocenjevanju uspešnosti poslovanja podjetja kot celote, oziroma povzroči težave pri primerjanju poslovanja podjetja z drugimi (Hočevar, 2007, str. 198).
+Eden izmed večjih problemov pri Uravnoteženem sistemu kazalnikov je slaba implementacija strategije v podjetje. Ilgo (2008, str. 32) navaja razmerje 30 : 70, kar pomeni, da je 70 odstotkov projektov ali sprememb poslovanja neuspešnih zaradi slabe implementacije in le 30 odstotkov zaradi neustrezne oziroma napačno postavljene strategije.
+
+Winterleitnerjeva (2004a) pa je v svojem članku izpostavila tipične napake, s katerimi se podjetja v Sloveniji srečujejo pri uvajanju uravnoteženega sistema kazalnikov, in sicer te so:
+• premalo poglobljena strategija podjetja;
+• zaradi premalo poglobljene strategije prihaja do sprememb v glavnih usmeritvah (kar je tudi glavni razlog za to, da imajo slovenska podjetja v operativni odličnosti in stroškovni učinkovitosti še veliko rezerve);
+• na podjetje se ne gleda kot na celoto;
+• izbira neustreznega svetovalca pri vpeljavi uravnoteženega sistema kazalnikov;
+• uravnoteženi sistem kazalnikov v podjetju ne deluje povsem oziroma se uporablja bolj za promocijo;
+• pomanjkanje dvosmerne komunikacije (v podjetjih obstajajo težave pri komunikaciji z zaposlenimi in uveljavljanju novih modelov internega komuniciranja).
+2 OBLIKOVANJE URAVNOTEŽENEGA SISTEMA KAZALNIKOV V PODJETJU LIP BLED
+Podjetje LIP BLED ima sedež na Bledu, znanem alpskem letovišču. Gozdarstvo, žagarstvo in predelava lesa imajo zato v tem delu Gorenjske bogato in dolgoletno tradicijo. Naslednik te tradicije je tudi podjetje, ki je bilo ustanovljeno 17. maja 1948. V šestdesetih letih razvoja so prerasli v enega največjih in najuspešnejših lesnopredelovalnih podjetij v Sloveniji.
+V začetnem obdobju se je podjetje ukvarjalo s predelavo hlodovine v žagan les, začetki izdelave končnih izdelkov pa segajo v šestdeseta leta. Takrat je LIP BLED začel s proizvodnjo opažnih gradbenih plošč in kasneje še s proizvodnjo vrat. Z leti se je proizvodni program močno spremenil (prej zožil kot razširil) in danes obsega:
+• Notranja vrata (krila in podboji) izdelana iz različnih vrst furnirja ali visoko kakovostnih folij, za stanovanja, poslovne in druge objekte, modernih in klasičnih oblik, različnih površin, z različnimi izrezi in dodatki, po želji s posebnimi lastnostmi za varnost in zaščito prostorov. Izdelana so po slovenskih, jugoslovanskih, nemških, švicarskih, čeških, poljskih, ruskih in avstrijskih normah, v različnih izvedbah (npr. gladka, stilna, design, podeželska, drsna in dvokrilna). Sodobna tehnologija omogoča izdelavo kril in podbojev z zaobljenimi robovi. Poseben program pa predstavljajo atestirana funkcijska vrata, in sicer zvočno - izolacijska, ognjevarna, protivlomna in klimatsko odporna vrata. Proizvodi profitnega centra Notranjih vrat zadovoljujejo zahtevam po funkcionalnosti (odpiranje, zapiranje) in estetiki.
+• Spalnice, jedilnice, predsobe, mladinske in dnevne sobe iz različnih vrst masivnega lesa, kot je smreka, jelša, bukev, s poudarjeno naravno strukturo lesa, površinsko obdelane z okolju in zdravju prijaznimi materiali. Izdelane so iz različnih vrst masivnega lesa smreke, jelše, bukve in breze s poudarjeno naravno strukturo lesa.
+
+• Opažne plošče za gradbeništvo, izdelane iz treh vodoodporno zlepljenih slojev masivnega lesa smreke ali jelke, z veliko upogibnostjo, trdnostjo, majhno težo in velikim številom aplikacij. Na področjih, kjer so opažni sistemi že bolj razviti se opažna plošča pojavlja bolj kot pomožni element. Opažna plošča LIP BLED pokriva tiste potrebe kupcev, ki ne iščejo najcenejšo ploščo, ampak je za tiste, ki opazijo razliko v kvaliteti, ki se odraža v 20 do 30-kratni uporabi, ki jo s konkurenčnimi ploščami uporabniki praviloma ne dosegajo. Podjetje omogoča tudi takojšnjo dobavo opažnih plošč.
+Več kot 2/3 proizvodnje gre v izvoz, predvsem na zahtevne zahodne in srednjeevropske trge.
+Njihovi najpomembnejši zunanjetrgovinski partnerji prihajajo iz Nemčije, Italije, Španije, Švice in trgov bivših jugoslovanskih republik, slabo tretjino izdelkov pa LIP proda na slovenskem trgu, ki mu v zadnjem času posveča vse večjo pozornost. Njihove lastne maloprodajne trgovine so na Bledu, v Ljubljani, Kranju in Murski Soboti. Poleg tega ima podjetje v Sloveniji še pet franšiznih trgovin. V Zagrebu ima dva prodajna slona.
+Podjetje je doživelo veliko organizacijskih sprememb, med njimi se je konec leta 1992 iz enovitega podjetja LIP BLED reorganiziralo v koncern s sedmimi družbami z omejeno odgovornostjo (glej Sliko 6 na strani 16).
+Leta 1997 se je družba prestrukturirala v delniško družbo LIP BLED, d.d. Leta 2007 se je po uspešno izvedenem managerskem prevzemu preoblikovala v LIP BLED d.o.o., ki posluje kot enovita družba s profitnimi centri:
+• PC Opažne plošče,
+• PC Masivno pohištvo,
+• PC Notranja vrata,
+• PC Maloprodaja in inženiring (z lastnimi in franšiznimi prodajnimi saloni),
+• Direkcija (uprava, finančni in splošni sektor).
+Družba LIP BLED d.o.o ima v 100 odstotni lasti hčerinski podjetji lipbled Zagreb d.o.o., ki je pričela poslovati v septembru 2006 in invalidsko podjetje lipbled IPPS d.o.o., ki deluje od 1.1.2008.
+
+Slika 6: Organizacijska shema v podjetju LIP BLED Vir: Gospodarski načrt LIP BLED, d.d. za leto 2008.
+2.1 Gospodarsko in politično okolje, kjer se nahaja podjetje LIP BLED V Tabeli 3 sem predstavila ekonomsko in politično okolje, ki je pomembno za poslovanje podjetja LIP BLED.
+Tabela 3: Vpliv ekonomskega in političnega okolja na LIP BLED VPLIV NA POSLOVNO USPEŠNOST Ekonomsko - politična dogajanja domači trg tuji trg
+EKONOMSKO
+OKOLJE: neugoden nevtralen ugoden neugoden nevtralen ugoden Protiinflacijska politika x x Denarno - kreditna politika x x Politika obrestnih mer x x Tečajna politika x x
+Zunanjetrgovinska politika x x Razvojna politika x x Dohodkovna politika x x Delovanje trga delovne sile x x Rast komponent realnega povpraševanja x x Skupna ocena: x -x
+POLITIČNO OKOLJE:
+Politični odnosi v svetu x x Politični odnosi s sosedi x x Vključevanje v evropske povez. procese x x Skupna ocena: +x -x
+Vir: Strateški razvojni načrt LIP BLED d.d. za obdobje od leta 2007 do leta 2014.
+LIP BLED, d.o.o.
+Direkcija lipbled IPPS, d.o.o. lipbled Zagreb, d.o.o.
+PC Opažne plošče PC Pohištvo
+PC Notranja vrata PC Maloprodaja in inženiring
+
+OPOMBA: V analizi so upoštevane države Evrope, kamor LIP trenutno lahko glede na velikost »kritične mase« lahko izvaža. Pod kritično maso mislim na obseg proizvodnje, človeške vire, finančne resurse, ki trenutno onemogočajo ambiciozen nastop na trgih arabskih držav proizvajalk nafte ali v Rusiji.
+Iz Tabele 3 lahko razberemo, da je ekonomsko okolje prej slabo kot dobro. V Sloveniji je zaenkrat konjunktura še dobra, medtem ko je v Z Evropi za LIP-ove izdelke slaba. Negativni val hipotekarne krize, ki je močno prizadel svetovni denarni sistem, je povzročil sunkovit padec povpraševanja gradbenega sektorja v državah z zrelo ekonomijo kot so: Anglija, Nemčija in Italija. Investicije v gradbeništvu so se v Španiji praktično ustavile. Ravno te države pa predstavljajo glavna izvozna tržišča. Situacija v državah bivše Jugoslavije ni dobra, vendar ostaja približno enaka že več let. Pomembno pa je, da se ni poslabšala. Pozitivni trendi se kažejo edino na trgih V Evrope še posebej v državah, ki so vstopile v EU. To velja za Češko, Slovaško, Bolgarijo, Romunijo, Poljsko, manj pa za Madžarsko. Zaradi takšne situacije bo moral LIP v kratkem preusmeriti precejšen del svoje prodaje na nova tržišča in po možnosti še povečati obseg doma.
+Za politično okolje lahko ugotovimo, da je zelo dobro. Žal pa takšno stanje potrjuje tudi pravilo, da stabilno politično okolje še ne zagotavlja dobre konjunkture. Veliko priložnosti so Slovenija in z njim slovenski gospodarski subjekti pridobili z vključitvijo v skupni evropski gospodarski prostor. Seveda pa se ne sme pozabiti na negativne posledice. Ena izmed bolj pomembnih je ostrejša konkurenca na domačem trgu, ki bo na daljše obdobje iz gospodarskega prostora izbrisala marsikatero podjetje.
+Iz tega lahko sklepamo, da so trendi, ki vplivajo na poslovanje LIP BLED-a in s tem profitnih centrov lahko priložnosti lahko pa tudi nevarnosti.
+Glavne priložnosti vidim:
+− lesna industrija ima edina v Sloveniji od vseh gospodarskih panog dovolj surovine, saj je Slovenija po pokritosti z gozdovi s 60% površine druga najbolj gozdnata država v Evropi (Informacija o poslovanju lesne in pohištvene industrije v letu 2007);
+− politika Evropske Unije, kot je bila predstavljena ob srečanju gospodarstvenikov s sekretarjem Barossom, bo slonela na (Informacija o poslovanju lesne in pohištvene industrije v letu 2007):
+1. večji proizvodnji energije iz obnovljivih virov,
+2. dajanje prednosti uporabi izdelkov, ki so narejeni iz materialov, ki porabijo manj energije in zmanjšanju emisije toplogrednih učinkov, 3. les je v vseh teh pogledih ustrezen material.
+− povečevanje obsega realizacije s storitvami, kot sta montaža in prodaja trgovskega blaga;
+− vedno večja osveščenost prebivalstva glede ekologije bo izdelke iz lesa v prihodnosti postavila v boljši položaj. Poleg tega je njihova uporaba v primerjavi s plastiko oziroma kovinami bolj zdrava;
+
+− politični odnosi z državami LIP-ovih kupcev so v pretežni meri dobri.
+Glavne pasti, ki jih vidim pa so:
+− padanje natalitete v razvitih ekonomijah Evrope (kamor LIP BLED proda največ);
+− zaradi relativne majhnosti se podjetje ne more uveljaviti na novih atraktivnih tržiščih Daljnega Vzhoda, arabskih proizvajalk nafte in Rusije;
+− prepočasno uvajanje naprednega poslovnega modela;
+− povečanje stroškov državne in lokalne uprave;
+− napetost v odnosih med bloki sveta (EU, ZDA, Daljni vzhod);
+− vedno višji stroški za zaščito okolja.
+2.2 Proces uvedbe Uravnoteženega sistema kazalnikov v podjetje LIP BLED Vizija LIP BLED-a je, da bo postalo uspešno in prepoznavno mednarodno podjetje, ki bo imelo vodilni položaj v Sloveniji in JV Evropi in bo odigralo ključno vlogo v procesu koncentracije in preoblikovanja lesne industrije na tem območju. LIP BLED bo pomemben akter v lesno predelovalni industriji v EU. Organizirani bodo kot mednarodno podjetje s hčerinskimi enotami in predstavništvi v tujini. Pomembno vlogo v prodajni distribuciji, tako doma kot v tujini, bodo vršili franšiziji in pooblaščeni trgovci.
+V proizvodnji troslojnih opažnih plošč si družba želi postati tretji največji proizvajalec v Evropski Uniji in z uvedbo moderne žagarske tehnologije razviti visoko produktivno primarno predelavo iglavcev.
+V proizvodnji nemškega tipa notranjih vrat z »brazdanimi« krili je cilj družbe postati petnajsti največji proizvajalec v Evropski Uniji.
+Na trgu bo LIP BLED nastopal kot nišno podjetje z definiranimi geografskimi območji delovanja. Z izbrano ponudbo proizvedenih in kupljenih izdelkov ter storitev želijo kupcu zagotavljati celovito oskrbo (angl. Category Management). S specializacijo proizvodnih programov in nenehnim razvojem novih izdelkov si družba v prihodnosti želi nuditi sodobne in kvalitetne izdelke. S kompetentnimi zaposlenimi in učinkovito organizacijo proizvodnega sistema si družba želi doseči visoko produktivnost v slovenski lesni panogi, ki bo primerljiva s produktivnostjo v Evropski Uniji in bo zagotavljala konkurenčne prodajne cene izdelkov in storitev. Pri vseh programih bo družba povečala delež storitev. Dobavo pa bodo vršili po načelu JIT (»just in time«).
+V Sloveniji in na trgih JV Evrope bo družba zgradila prepoznavno blagovno znamko LIP
+BLED.
+
+Poslanstvo podjetja LIP BLED je dvigniti nivo zadovoljstva in kulture bivanja kupca. To pa si želijo doseči s prvenstvom v proizvodnji in razvoju notranjih vrat in opažnih plošč ter celovitim servisiranjem kupca s kakovostnimi izdelki družbe LIP BLED. Značilnost njihovih izdelkov in storitev bo tudi v prihodnje najvišja možna raven kakovosti v najširšem smislu.
+Pri tem pa si podjetje želi upoštevati želje kupcev po najvišji kvaliteti izdelkov, dobavljenih ob pravem času in po konkurenčni ceni.
+− Notranja vrata nudijo izvirne estetske in tehnične rešitve za vsak dom s poudarkom na naravnih materialih.
+− Delo v gradbeništvu je učinkovitejše z obstojnimi troslojnimi opažnimi ploščami podjetja LIP BLED.
+− V vsakodnevnem stiku z uporabniki izdelkov podjetja LIP BLED preko lastnih in franšiznih prodajnih salonov družba celovito rešuje zahteve kupcev, po načelu vse na enem mestu.
+− Z inženiring prodajo družba zagotavlja izvajalcem zaključnih del v gradbeništvu celovito ponudbo izbranih skupin izdelkov, montažo, svetovanje in ostale storitve za hitro in kvalitetno izgradnjo posameznih objektov.
+Cilje podjetja želi vodstvo podjetja dosegati z nenehnim usposabljanjem vseh sodelavcev, z uporabo sodobnih tehnologij izdelave in nenehnim izboljševanjem organizacije dela. Poseben poudarek pa družba še naprej namenja optimalnem koriščenju vseh razpoložljivih notranjih in zunanjih virov podjetja ter skrbi za prijetno in varno okolje, kar bo v veliko zadovoljstvo vseh zaposlenih in lastnikov podjetja, ter omogočilo povečanje konkurenčnosti podjetja.
+Konkurenčnost podjetja se bo kazala v njegovi sposobnosti, da v pogojih dobre donosnosti za podjetje in ob hudi konkurenci na trgu ugodi vsem zahtevam svojih kupcev.
+Celovita strategija družbe temelji na ukrepih za povečanje konkurenčne sposobnosti družbe LIP BLED, d.d.:
+- agresivno trženje in prilagodljiva distribucija,
+- učinkovita nabavna veriga,
+- k napredku usmerjen poslovni model: produktivnost, organizacija, informacijski sistem ter odnosi in komunikacije v podjetju,
+- razvoj novih izdelkov,
+- povečanje neotipljivega dela produkta: svetovanje, dobavna pripravljenost, blagovna znamka, poprodajne storitve,
+- prodaja usmerjena h končnemu kupcu.
+2.3 Opredelitev vidikov uravnoteženega sistema kazalnikov
+Že pri sami odločitvi za izvedbo projekta se je potrebno zavedati, da je implementacija izvajanja in predvsem kontrola izvajanja najtežji del projekta. Osnovni pogoj za uspešno delovanje metode v praksi je namreč prav učinkovito merjenje in kontrola izvajanja sprejetih strategij ter na tej osnovi sprejemanje ustreznih ukrepov (Kokošar, 2005, str. 254).
+
+Za matično družbo in znotraj nje posamezne profitne centre ter za druge odvisne družbe v Skupini LIP BLED bi morali določiti aktivnosti, merila (kazalniki), dolgoročne (strateške) in kratkoročne (letne) cilje ter konkretni akcijski načrti z odgovornimi nosilci in roki. Za vsako merilo je potrebno določiti namen merjenja, povezanost z drugimi merili, ciljno vrednost, formulo za izračun, pogostost merjenja, kdo preverja realizacijo in reagira v primeru odmikov ter kdo sprejema ukrepe za odpravo odmikov. Na ta način so podani vsi pogoji za učinkovito merjenje oziroma kontrolo udejanjanja strategij.
+Za izdelavo diplomske naloge sem opravila več intervjujev z vodilnimi zaposlenimi v LIP BLED-u:
+• Alojz Burja – glavni direktor,
+• Irena Cepič – izvršna direktorica finančno-računovodskega sektorja,
+• Janko Cerkovnik – izvršni direktor PC Notranja vrata,
+• Tone Koncilja – vodja kadrovske službe,
+• mag. Matjaž Tomaževič – vodja kontrolinga,
+• mag. Franci Potočnik – vodja marketinga,
+• Andrej Budna – vodja prodaje vrat za Slovenijo, države bivše Jugoslavije ter Bolgarije in Romunije.
+2.3.1 Finančni vidik
+V sklopu finančnega vidika družba LIP BLED vsako leto naredi finančno projekcijo za določanje strateških ciljev, kamor spadajo: rast realizacije, rast kritja, delež DIS (direktnih stroškov materiala), delež FIS (fiksnih stroškov), delež kapitala v financiranju, delež dolgoročnih sredstev, donosnost sredstev, donosnost kapitala – ROE, poslovni izid pred davki, obrestmi, odpisi in amortizacijo - EBITDA, koeficient obračanja celotnih sredstev na vse prihodke in ločeno za prihodke od prodaje. Poleg načrtovanja »stalnih« ciljev, pa se določi še specifične cilje, kot so na primer: povečanje investicijskih vlaganj (v tehnologijo, gradnjo novih prostorov, informatiko), lastninska preoblikovanje preko vstopa strateškega partnerja, zvišanja oziroma znižanje posameznih postavk znotraj bilance stanja (npr. znižanje starosti terjatev do kupcev, zaradi kvalitetnejše politike izterjave, zmanjšanje obsega zalog, vrednost odpisanih zalog letno, znižanje obsega obveznosti do dobaviteljev …).
+Kot sem že v teoretičnem delu izpostavila življenjske cikle izdelkov, bom najprej ocenila izdelke podjetja LIP BLED, ter jih razvrstila v stopnje življenjskega cikla, ter za njih določila strategijo (glej Tabelo 4 na strani 21):
+
+Tabela 4: Življenjski cikli izdelkov profitnih centrov LIP BLED-a Programi: Uvajanje Rast Zrelost Upadanje 1. PC Opažne plošče x 2. PC Notranja vrata x
+3. PC Pohištvo iz masivnega lesa x 4. PC Maloprodaja in inženiring x Vir: Lasten prikaz.
+Produkti Opažnih Plošč se nahajajo v fazi zrelosti, prodajno območje je možno razširiti v Vzhodno Evropo in v Sredozemlje s prestrukturiranjem tržišč, kar pomeni nespremenjen volumen uporabe. V zahodni Evropi je izdelek že nekaj let v krizi zaradi težav gradbenega sektorja, vendar je plošča, kljub potencialno manjši potrošnji zaradi razvoja novih substitutov in opažnih sistemov, ostala aktualna za gradbeništvo. Opažne plošče podjetje izdeluje že 42 let, njihov življenjski cikel pa je pogojen s povečevanjem obsega proizvodnje, avtomatizacijo proizvodnje in povečevanjem prodaje. Tako da strategija, katero bo ubrala družba je zmanjševanje stroškov in hkrati tudi izboljšanje produktivnosti
+Proizvodi profitnega centra Notranjih vrat se nahajajo v fazi rasti, samo če upoštevamo poleg izdelka tudi večji delež storitev (montaža, svetovanje, dobavna pripravljenost) in razvoj novih izdelkov, na osnovi katerih se rodijo nove potrebe kupcev. Izdelek je dosegel tehnološko in funkcionalno zrelost. Možne so spremembe v smislu funkcionalnih, dimenzijskih in estetskih nadgraditev.
+Potrebe kupcev pohištva v Sloveniji so zelo diferencirane in se spreminjajo hitro. Posebno mesto ima pohištvo izdelano iz masivnega lesa, v katerega je potrebno vložiti več ročnega dela. Poleg estetske edinstvenosti je osnovni material naraven les praktično brez kemičnih dodatkov. Zato je cena v primerjavi z pohištvom, izdelanih iz iverice dražja. Poleg izdelave pohištva, ki ga LIP izdeluje po meri, nudi kupcem svetovanje in montažo. Izdelek se nahaja že v fazi zrelosti, saj pohištvo družbi ne predstavlja ključnega programa. Vendar pa predstavlja dopolnitev pri ponudbi pri opremi ambienta. Pomembnejšo vlogo igra tudi v maloprodaji. Počasi se uveljavlja tudi v ponudbi inženiringa pri opremi objektov, še posebej pri opremi manjših družinskih hotelov.
+Maloprodaja in inženiring pa sta se že razvila iz stopnje uvajanja v stopnjo rasti. Profitni center maloprodaja in inženiring tržita poleg proizvodov LIP BLED tudi trgovsko blago, ki je vezano predvsem na celovito ponudbo stavbnega pohištva. Ker LIP ne želi tekmovati z nizko cenovnimi proizvajalci vrat in pohištva, pri nudenju zahtevnih izdelkov igra pomembno vlogo svetovanje in kasnejša montaža na objektu. Z vstopom v EU ima razvoj inženiring prodaje v Avstriji in na Bavarskem vključno z montažo veliko prihodnost. Zaradi relativno nizke cene storitev v primerjavi z avstrijsko oziroma nemško ceno je razvoj prodaje tega produkta velika priložnost za LIP BLED. Za enkrat to omejuje prepoved prostega pretoka delovne sile, ki se konča v letu 2011.
+
+Na podlagi zgoraj omenjenih ciljev, bi za Uravnoteženi sistem kazalnikov izbrali naslednje kazalnike: rast prihodkov od prodaje, dodana vrednost zaposlenega, ROE – dobičkonosnost kapitala, dobiček iz poslovanja, delež DIS in delež FIS.
+1. Rast prihodkov od prodaje (%)
+Kazalnik primerja prihodke od prodaje za tekoče leto s prihodki od prodaje za preteklo leti.
+Ponavadi podjetja razmerje računajo mesečno in kvartalno ter na koncu poslovnega leta.
+V LIP BLED načrtujejo zagotavljati rast prihodkov od prodaje z organsko rastjo, torej s povečevanjem lastne proizvodnje obstoječih produktov in z uvajanjem novih produktov ter prevzemom konkurenčnih podjetij.
+Poleg intenzivnega trženja in proizvodnje obstoječih produktov bo družba razvijala glede na potrebe kupcev nove zahtevnejše izdelke v višjem cenovnem razredu.
+LIP bo izbrane serijske proizvode skušal poceniti s poenostavitvijo konstrukcije izdelkov in uporabo cenejših materialov ter proizvodnjo v velikih serijah. Na ta način bo skušal pridobiti širši krog odjemalcev, predvsem tistih, ki so občutljivi na ceno.
+Pridobitev novih kupcev na obstoječih tržiščih je stalna naloga prodaje.
+2. Dodana vrednost na zaposlenega (EUR)
+Kazalnik prikaže, koliko je podjetje ustvarilo dodane vrednosti na enega zaposlenega.
+Predstavlja pa razliko med prihodki in dohodki od poslovanja, ki jo zatem delimo s številom zaposlenih v celem podjetju. Poenostavljeno kazalnik predstavlja vrednost stroškov dela, amortizacije in dobička na zaposlenega.
+Podjetje kazalnik že uporablja za spremljaje poslovanja, in sicer izračun poteka tako, da sešteje prihodke od prodaje in lastne porabe izdelkov ter deli s številom vseh zaposlenih na podlagi delovnih ur.
+Dodana vrednost brez upoštevanja prevrednotenj je znašala (Letna poročila 2005, 2006, 2007
+LIP BLED):
+− leta 2005 ……… 17.187 EUR/zaposlenega,
+− leta 2006 ……… 19.297 EUR/zaposlenega,
+− leta 2007 …….... 20.733 EUR/zaposlenega.
+V državah Zahodne Evrope je dodana vrednost na zaposlenega dva krat do tri krat višja, kot jo dosega LIP, ki je hkrati v slovenski lesni industriji med vodilnimi. To kaže na velik zaostanek LIP-a za razvito zahodnoevropsko lesno industrijo.
+
+3. Dobičkonosnost kapitala - ROE (%)
+Kazalnik predstavlja razmerje med čistim dobičkom v poslovnem letu in povprečnim kapitalom (brez čistega poslovnega izida proučevanega leta) in je ključni kazalnik, za lastnike. Pove nam, kakšen je dobiček glede na vložek. Ta kazalnik se obračunava dvakrat letno.
+Družba spremlja kazalec na polletni in letni ravni (Letna poročila 2005, 2006, 2007 LIP
+BLED):
+• ROE v letu 2005 …………. 2,0 %
+• ROE v letu 2006 ………… 3,0 %
+• ROE v letu 2007 …………. 2,1 % 4. Dobiček iz poslovanja (%)
+Dobiček iz poslovanja lahko razberemo iz izkaza poslovnega izida , ter ga nato primerjamo z dobičkom iz poslovanja za preteklo leto. Prav tako lahko podjetje primerja doseženi dobiček iz poslovanja z načrtovanim dobičkom iz poslovanja. Glede na to, kako se dobiček iz poslovanja giblje, pa lahko podjetje načrtuje oziroma predvideva kakšen dobiček želi doseči v prihodnosti.
+Tudi ta kazalec družba že zajema v svojem načrtovanju, dolgoročnem in kratkoročnem.
+Vodstvo LIP BLED-a si zastavi ustrezno rast dobička iz poslovanja, ki naj bi jo podjetje v določenem številu let doseglo.
+5. delež DIS (%)
+DIS so direktni stroški materialov v celotni prodajni realizaciji.
+V letu 2007 je delež direktnih stroškov znašal 51,2 % (Letno poročilo 2007 LIP BLED).
+6. delež FIS (%)
+FIS so fiksni stroški v celotni prodajni realizaciji. Sem spadajo stroški energije in ostalih materialov, storitev (prevozi), amortizacija, delo, vračunan FIS v zalogi in drugi stroški.
+V letu 2007 je delež fiksnih stroškov znašal 47,4 % (Letno poročilo 2007 LIP BLED).
+2.3.2 Vidik poslovanja s strankami
+Ključno za kvalitetni preboj LIP BLED-a je zvišati obseg prodaje. Ker je bila v preteklosti družba preveč orientirana na zahodna tržišča, kjer so cene praviloma najnižje, se je družba v zadnjih nekaj letih začela aktivneje usmerjati na domače tržišče. Iz dvajset odstotnega deleža je ob večanju prihodkov v zadnjih nekaj letih je leta 2007 dosegla že 33 odstotni delež prodaje doma. Velika večina te prodaje je bila dosežena preko lastnih prodajnih kanalov, to je maloprodaje in inženiringa, kjer je kritje največje.
+
+Ena od ključnih usmeritev je približati prodajo končnim kupcem z vključitvijo čim manj posrednikov, po možnosti prodati izdelek končnemu kupcu. Na ta način se ne doseže samo večja dodana vrednost oziroma izboljšati kritje, ampak še posebej izboljšati kontakt s kupci in s tem na trgu zaznavati pristne potrebe kupcev. Poleg tega se s tem doseže tudi večja razpršenost prodaje in s tem manjša odvisnost od posameznega kupca. LIP je namreč na tem področju doživel bridko izkušnjo, ko je dolgih 27 let uspešno sodeloval z nemškim specializiranim trgovcem za stavbno pohištvo (okna, vhodna vrata in notranja vrata) – s »sortimenterjem« Moderne Bauelemente iz Bremna. Letna prodaja je znašala od 10 do 13 milijonov EUR, kar je predstavljalo od 50 do 70% celotne takratne prodaje programa notranjih vrat. Zaradi težke situacije na nemškem tržišču, ki enostavno ni več dovoljeval plačila dodatnega posrednika, je pred tremi leti nemški partner propadel. LIP pa je moral v zelo kratkem času preusmeriti prodajo na druge kupce.
+Pomemben kriterij pri izbiri kupcev je plačilna boniteta posameznega kupca. Komercialist je dolžan preden prične poslovati z novim kupcem pridobiti ustrezno boniteto od bonitetne hiše Dunn & Bradstreet s ciljem zmanjšati tveganje neplačila. Poleg tega so z izjemo kupcev, ki plačujejo z avansom, vse terjatve zavarovane pri Slovenski izvozni družbi. Za izterjavo je zadolžen komercialist, ki je prodal blago. Sistematičen nadzor izterjave pa se vrši preko finančnega tima, ki ima sestanek vsak mesec.
+Promocijo svojih izdelkov lipbled vrši preko sejmov doma in v tujini ter preko oglaševanja, kjer se osredotoča predvsem na strokovno javnost ter na kupce, ki opremljajo stanovanja.
+LIP BLED načrtuje rast prodaje ločeno po profitnih centrih, in sicer za vsakega oblikuje svoje specifično prilagojene cilje.
+V profitnem centru Opažne plošče družba načrtuje povečanje prodaje in povečanje tržnega deleža na evropskem trgu, ki je v letu 2007 znašal okrog 6 %. Ciljna tržišča so države Vzhodne Evrope, med njim Češka, Poljska, Bolgarija, Madžarska in Romunija. Poleg njih želi družba povečati direktno prodajo gradbenim izvajalcem v Sloveniji ter povečati obseg prodaje v državah bivše Jugoslavije. Ker je trenutna konjunktura v Zahodni Evropi (Italija, Španija), kamor je LIP prodajal največ plošč zelo šibka, bo družba morala v prihodnje iskati povečanje kritja, ne toliko s povečanjem obsega prodaje, kot s povečanjem deleža prodaje končnim kupcem. V prihodnje bo potrebno povečati delež opažnih plošč z lastno blagovno znamko lipbled. Ciljni kupci so predvsem specialisti z opažnimi sistemi, gradbene firme in veletrgovci z gradbenimi materiali ter gradbene firme. Kot ključni kupci so po prvem kriteriju opredeljeni tisti, ki kupujejo preko celega leta, tudi v zimskem obdobju.
+
+Zaradi omejenosti proizvodnih kapacitet proizvodnje opažnih plošč se načrtuje uvedba nove žagarske tehnologije, ki bo omogočila proizvodnjo novih izdelkov s področja primarne predelave lesa.
+Načrtovani obseg masivnega pohištva bo odvisen od možnosti prodaje preko lastne maloprodaje in inženiringa ter veleprodaje v Sloveniji, v državah bivše Jugoslavije in Rusije.
+Zaradi dosežene nizke izvozne cene se je družba odpovedala prodaji v Nemčijo, kamor je v preteklosti prodala največ. Novemu ožjemu trgu je prilagodila prodajni asortiment, ki so proizvodna pohištva iz domačih drevesnih vrst kot so: smreka, bukev in breza. Pohištva izdelujejo po meri, v majhnih serijah. Poleg končnih odjemalcev se prodaja vrši tudi preko inženiringa pri opremljanju manjših hotelov in privatnih penzionov. Vse pohištvo se prodaja z blagovno znamko lipbled. Cenovno sodi v višji razred.
+Čeprav je zahodnoevropski trg zasičen s proizvodnimi kapacitetami, vidi LIP BLED največjo možnost razvoja programa prav na programu notranjih vrat. »Core Business« ostajajo najdražja furnirana vrata za najbolj zahtevne kupce. Prodaja dekor vrat (površina s folijo) je namenjena zaradi nizke cene manj zahtevnim kupcem. CPL vrata (površina z laminatom) so ustrezna predvsem za javne ustanove (bolnice, šole, vrtci, pisarne …). Cena se giblje med furniranimi in dekor vrati. Pretežni delež furniranih vrat LIP izvaža v EU ter proda doma, medtem ko večino dekor in CPL vrat proda v države bivše Jugoslavije in Vzhodne Evrope.
+Velika večina prodaje se vrši pod lastno blagovno znamko lipbled. Z izgubo velikega nemškega kupca se je močno spremenila struktura naročil. Vedno manj je velikih serijskih naročil. Široki asortiment in razdrobljena naročila zahtevajo kvalitetno organizacijo dela, ki je podprta z ustreznim proizvodnim informacijskim sistemom. Čeprav je bil narejen v zadnjih petih letih velik napredek na vseh področjih, pa zaradi zahtevnega asortimenta in velike razdrobljenosti naročil ter vedno večjih zahtev kupcev po skrajšanju dobavnih rokov, LIP BLED trenutno še ni v stanju zadovoljiti pričakovanja kupcev. Družba si prizadeva uiti iz proizvodnje nizkocenovnih vrat, ker predstavljajo konkurenco proizvajalci iz Češke in Poljske ter v zadnjem času tudi Kitajske, v višje cenovne razrede, kjer so konkurenti predvsem Nemci, Avstrijci in Skandinavci. LIP to dosega s povečanjem proizvodnje zahtevnih furniranih vrat z intarzijami in funkcijskih vrat (protipožarna, protizvočna, protivlomna, klima). Prodaja se vedno bolj usmerja na končne kupce, kot so izvajalci zaključnih gradbenih del in posamezniki. Ključno vlogo pri prodaji končnim kupcem imata maloprodaja in inženiring.
+Profitni center Maloprodaja in inženiring je pomemben prodajni kanal za izdelke lipbled, predvsem za notranja vrata in pohištvo iz masivnega lesa, v manjši meri pa za opažne plošče.
+V zadnjih treh letih beleži profitni center vsako leto rast, ki je višja od 30 %. Ker kar 75 % prodaje profitnega centra predstavlja prodaja notranjih vrat, je profitni center Notranja vrata lažje prenesel izgubo velikega nemškega dolgoletnega kupca. Maloprodaja je sestavljena iz štirih lastnih prodajaln: na Bledu, v Ljubljani na Rudniku, v Kranju in v Murski Soboti ter petih franšiznih prodajaln. Prodajni asortiment sestavljajo notranja vrata, pohištvo iz masivnega lesa, opažne plošče, briketi ter trgovsko blago, kot so: vhodna vrata, okna, kljuke, posteljni vložki, talne obloge, stenske obloge, … Inženiring zagotavlja gradbenim podjetjem in izvajalcem zaključnih gradbenih del strokovno pripravo ponudbe s svetovanjem ter kasnejšo montažo. Lastni prodajni kanal je pomemben tudi za utrjevanje lastne blagovne znamke lipbled. Produkt trgovinske storitve, ki jo nudi profitni center Maloprodaja in inženiring postaja vedno bolj pomemben in v prihodnje zelo perspektiven v ponudbi LIP BLED-a.
+
+Na podlagi zgoraj omenjenih usmeritev podjetja, bi za Uravnoteženi sistem kazalnikov izbrala naslednje kazalnike znotraj vidika kupcev: tržni delež, zadovoljstvo strank, vrednost poprodajnih storitev in delež stroškov za marketinške dejavnosti.
+1. Tržni deleži (%)
+Tržni delež odseva delež poslov posamezne poslovne enote na določenem trgu, glede na število strank, porabljeni denar ali prodano količino enot (Kaplan, Norton, 2000, str. 78). Ko podjetje določi ciljno skupino strank, je merjenje tržnega deleža preprosto. Oceno skupne velikosti trga lahko podjetje dobi pri inštitucijah kot je državni statistični urad in drugih ustanovah (Fajt, 2005, str.15).
+Vodstvo LIP BLED načrtuje pri večini izdelkov rast tržnih deležev, pri izbranih pa njihovo zmanjšanje.
+Pred petimi leti je prodaja v Nemčijo predstavljala kar 40 % celotne realizacije s propadom Moderne Bauelemente, ki je imel ekskluzivo, pa je bila družba primorana pričeti na novo razvijati prodajne poti. Zaradi izredne konkurence in nizkih cen se je delež prodaje v lanskem letu zmanjšal na skromnih 7 %. Prvenstvo je pripadlo domačemu trgu s 33 %. V preteklosti je LIP BLED preveč zanemarjal domače tržišče, kjer se praviloma dosegajo boljši prodajni pogoji, tudi z vidika obvladovanja terjatev. Ocenjujem, da je sedanja tržna porazdelitev dokaj ugodna (Letno poročilo 2007 LIP BLED):
+• Slovenija …….……………... 33 %,
+• države bivše Jugoslavije ….... 17 %,
+• Italija ……………………….. 11 %,
+• Avstrija ……………………… 8 %,
+• Nemčija ……………………… 7 %,
+• Španija ..…………………….... 6 %,
+• Švica …………………………. 6 %,
+• Madžarska …………………… 4 %,
+• Bolgarija ……………………... 2 %,
+• Češka ………………………… 2 %,
+• Ostalo ……………………….... 4 %.
+
+Hkrati pa mislim, da LIP premalo izkorišča prodajne možnosti v države, ki so na novo vstopile v EU, kot so: Češka, Bolgarija, Romunija, Poljska, Slovaška. Namreč omenjene države dosegajo hitro gospodarsko rast, kar bo trajalo še nekaj let.
+Znotraj tega kazalca pa je potrebno omeniti tudi povečanje tržnega deleža izdelkov z lastno blagovno znamko. Prodajo blaga pod lastno blagovno znamko podjetje želi povečati predvsem v državah, kjer družba že ima oziroma načrtuje ustanovitev svojih hčerinskih podjetij.
+2. Zadovoljstvo strank (/)
+Zadovoljstvo strank je kazalnik s katerim podjetje ocenjuje stopnjo zadovoljstva strank glede na posebna merila uspešnosti znotraj ponudbe. Ti kazalniki torej zagotavljajo povratno informacijo o tem kako uspešno je podjetje pri zadovoljevanju potreb strank (Kaplan & Norton, 2000, str.78).
+Mesečno družba LIP BLED meri podatke na podlagi poročila o napakah in reklamacijah. S tem ugotavljajo zadovoljstvo kupcev in izvajajo analize naročil in pritožb. Reklamacije in pritožbe v sklopu profitnega centra Notranja vrata se redno obravnavajo na kolegiju profitnih centrov. Občasno za hitrejšo rešitev odprtih reklamacij posreduje tudi najvišje vodstvo. Stanje na tem področju bi bilo možno še precej izboljšati. Del reklamacij pa nastaja tudi pri montaži.
+Zato je bilo izvedeno certificiranje montažnega osebja, občasno je potrebno šolanje monterjev s ciljem osvežitve njihovega znanja. Pri profitnem centru opažnih plošč družba ugotavlja, da je reklamacij glede na število dogodkov, prodajne vrednosti in količini izredno malo. Le te analizira služba za kvaliteto. Prav tako je stalnost kupcev znak zadovoljstva. Pri profitnem centru Pohištvo iz masivnega lesa družba analizo izvaja redno na domačem trgu, in sicer v obliki telefonske ankete, ki zajema okoli 10 % kupcev. Na vseh trgih pa družba izvaja tudi obiske trgovcev, od katerih pridobivajo dodatne informacije. Analiz v profitnem centru Maloprodaja in inženiring ne izvajajo.
+Ocenjujem, da je reklamacij in nezadovoljnih kupcev notranjih vrat zaradi predolgih dobavnih rokov še vedno preveč in tudi časi reševanja so predolgi. Namreč tekma za kupce se vedno bolj bije na polju krajšanja dobavnih rokov, medtem ko je kvaliteta že postala samoumevna.
+Potrebno je upoštevati, da so pričakovanja kupcev vedno višja. Reklamacije so samo vrh ledene gore, ki plava nad vodo, medtem ko mnogo večje število nezadovoljnih kupcev svojega nezadovoljstva nikdar ne izrazi podjetju. Ob tem pa svoje nezadovoljstvo ustno prenaša na svojo okolico. Tako kot je zadovoljen kupec najboljša propaganda, je nezadovoljen kupec najslabša reklama.
+3. Vrednost poprodajnih storitev (EUR)
+Poprodajne storitve predstavljajo zadnjo stopnjo oziroma zadnji proces notranje verige vrednosti. Proces vključuje izdajanje jamstev in popravila popravljanje napak, obravnavo zavračil (reklamacij) ter obdelavo plačil (poslovanje s kreditnimi karticami) (Kaplan & Norton, 2000, str. 114). Gre torej za merjenje uspešnosti storitev, ki jih podjetje nudi potem, ko je že dostavijo izdelek oziroma storitev določeni stranki. Pogosto ravno te storitve povečujejo vrednost za ciljne stranke (Winterleitner, 2003, str. 37).
+
+Kot smo že omenili, družba želi izboljšati nivo poprodajnih storitev, kot so svetovanje pri izbiri in kvalitetna izvedba montaže. Prav tako pa jih konkurenca v tujini sili v podaljšanje rokov garancij. LIP BLED pa želi kupcem ugoditi tudi z načinom plačevanja. Seveda jim nudi možnost plačevanja s kreditnimi karticami, zraven pa jim nudi tudi možnosti kreditiranja s čeki, na 12 mesecev, brez obresti, z vključitvijo porokov in možnost plačevanja preko trajnikov.
+4. Delež stroškov za marketinške dejavnosti (%)
+Delež stroškov za marketinške dejavnosti je kazalnik, s katerim merimo velikost stroškov, ki jih podjetje v določenem obdobju porabi za marketinške dejavnosti. Delež obravnavanega obdobja lahko primerjamo z deležem stroškov za marketinške dejavnosti predhodnega leta oziroma planiranim deležem.
+Družba LIP BLED že meri omenjeni kazalnik, in sicer v zadnjih letih se giblje okoli 1 % prodajne vrednosti. Na relativno nizek delež marketinških stroškov vpliva relativno velik delež prodaje opažnih plošč, ki ne potrebujejo posebne promocije.
+V prihodnosti bo potrebno za doseganje planirane realizacije in večjo prepoznavnost blagovne znamke postopoma povečati delež marketinških stroškov. Največji porast naj bi beležil profitni center Notranja vrata, manjši naj bi bil dvig pri profitnem centru Maloprodaja in inženiring, minimalen pa pri profitnem centru Opažnih plošč. Večino tega denarja naj bi bilo namenjenega sejemskim aktivnostim, PR aktivnostim, promociji blagovne znamke in dokumentaciji za podporo prodajnemu procesu. Hkrati pa naj bi del proračuna pokrival tudi promocijo aktivnostim za prodajo trgovskega blaga in dodatnih storitev (izmere, svetovanje, montažne storitve, objektni koncept ponudbe).
+2.3.3 Vidik notranjih procesov
+Družba se želi v proizvodnji specializirati predvsem na dva ključna programa: opažne plošče s primarno predelavo lesa in notranja vrata. Proizvodni program masivnega pohištva naj bi dopolnjeval ponudbo notranjih vrat pri objektni prodaji in prodaji končnim kupcem v maloprodaji pri opremi ambienta. V proizvodnji notranjih vrat bo potrebno narediti sintezo masovne proizvodnje in posamične proizvodnje. V proizvodnji opažnih plošč in primarni predelavi lesa pa bo najbolj pomembno izvesti avtomatizacijo proizvodnje in na ta način zmanjšati število zaposlenih ter povečati prodajno vrednost na zaposlenega. Vodstvo si dodatno želi izboljšati produktivnost dela, in sicer z optimizacijo proizvodnih postopkov, izboljšanim sistemom planiranja in z zmanjšanjem zastojev na liniji. Po besedah direktorja so pričeli pripravljati projekt uvedbe logistike, kot organizacijske enote, ki bo bedela nad potekom procesa od naročila preko proizvodnje do dobave, s ciljem skrajšati pretočni čas.
+
+Na podlagi zgoraj omenjenih ciljev, bi za Uravnoteženi sistem kazalnikov izbrali naslednje kazalnike iz vidika notranjih procesov: obvladovanje stroškov po PC-jih, obračanje zalog in terjatev, stopnja JIT dobave, stopnja izkoriščenosti zmogljivosti kapacitet in razvoj novih izdelkov.
+1. Obvladovanje stroškov po PC-jih (%)
+Podjetja morajo skrbno spremljati stroške, veliko nevarnost pa jim predstavlja, da stroški rastejo hitreje od prihodkov. Kazalnik rasti stroškov je lahko izražen kot razmerje med stroški obravnavanega leta in stroški preteklega leta, druga možnost pa obstaja če stroške obravnavanega leta primerjamo z načrtovanim obsegom stroškov. Veliko podjetij si želi stroške močno znižati, taka podjetja si bodo izbrala kazalnik stroški na enoto proizvoda.
+Zraven pa so morajo postaviti tudi ukrepe, s katerim bodo dosegla želena znižanja.
+Vodstvo LIP BLED-a poizkuša nadzirati in obvladovati stroške po posameznih profitnih centrih. Veliko pozornosti posveča nabavnemu procesu in izbiri zanesljivih dobaviteljev. S tem namenom izvaja audite pri glavnih dobaviteljih, hkrati pa skuša doseči čim boljše nabavne pogoje. V proizvodnji se veliko pozornosti posveča organizaciji procesov, s ciljem povečati produktivnost dela, izvaja merjenje storilnosti in zato najema tudi zunanje specializirane organizacije. Poleg tega pripravlja združevanje profitnih centrov Notranja vrata in Masivno pohištvo, s ciljem izkoristiti sinergične učinke obeh programov tako pri izrabi strojnega parka kot tudi delovne sile.
+2. Obračanje zalog in terjatev (dnevi)
+Nujen predpogoj za udejanjanje vseh procesov v podjetju je zagotovljen denarni tok. Ker je zagotavljanje likvidnosti eden največjih problemov v podjetju, je zelo pomembno, kako visoke so zaloge in terjatve. To pa izpostavlja potrebo po čim hitrejšem obračanja zalog in izterjavi terjatev.
+Vodstvo LIP-a se zaveda, da je obseg zalog kot terjatev prevelik. Zato gibanje zalog redno obravnava mesečno na razširjenem kolegiju glavnega direktorja, kjer sprejemajo ustrezne ukrepe. Terjatve spremljajo na finančnem timu, ki se sestanejo vsak mesec. Za izterjavo je odgovoren komercialist, ki proda blago. Finančna služba s kontrolingom predstavlja strokovno podporo pri izterjavi in zagotavljanje bonitetnih ocen, medtem ko tožbene postopke izvaja pravna služba.
+Vodstvo podjetja LIP BLED želi zmanjšati zaloge končnih proizvodov, in sicer tako, da bodo stare zaloge z nizkim koeficientom obračanja odprodali (»rdeče zaloge«) s popustom. Po veljavni zakonodaji je vsako podjetje dolžno zmanjševati vrednost zalog glede na njihovo starost. Da bi hitreje zadovoljevali kupce pa se oblikujejo zaloge za najbolj pogoste izdelke, ki gredo hitro v prodajo (angl. core business). Pomemben dejavnik pri zalogah je, da družba proizvaja za znanega kupca s takojšnjo odpremo, tako ne prihaja do starih zalog oziroma zalog s nizkim koeficientom obračanja. Prav tako pa je cilj družbe, da izboljšajo proces skladiščenja s primerno organizacijo skladiščnega prostora ob zmanjšanih zalogah. Za učinkovito obvladovanje zalog je potrebna ustrezna informacijska podpora.
+
+Vsako podjetje teži k proizvodnji »brez zalog«, kar pomeni organizirati logistiko in tekoče pretoke v proizvodnji tako, da zaloge surovin, nedokončane proizvodnje in gotovih izdelkov zmanjšamo na minimum. Zaloge so drage, saj zahtevajo finančno imobilizacijo, zavzemajo prostor in povzročajo obsežno vodenje. Vodstvo si želi zmanjšanja zalog, ki lahko nastanejo iz treh vrst vzrokov:
+− Zaradi nepravilnosti v proizvodnem procesu (okvar, naključij, slabih kosov, pomot
+…). Vse te odpovedi silijo podjetje, da ustvarijo zaloge izdelkov, da ne prekinejo pretoka.
+− Zaradi diskontinuitete pretoka ali zaradi njegove pretirane počasnosti, ki lahko izhaja: iz razmetanosti oziroma neprimerne postavitve proizvodnih sredstev, iz postavitve proizvodnih sredstev po tehnologijah in ne po linijah izdelkov, iz zakasnelih informacij, iz čakanja na dele, iz različnih režimov dela pri kupcih in pri dobaviteljih.
+− Zaradi nesposobnosti plačila kupca.
+V razgovoru z vodilnimi sem ugotovila, da je na tem področju še veliko rezerv.
+3. Stopnja JIT dobave (%)
+Dobavljati ravno ob pravem času (angl. just in time - JIT) pomeni, da dobavitelj drži obljubljeni rok dobave. Kazalec pa je sestavljen kot razmerje števila JIT dobav in vseh dobav skupaj.
+Ker se tekma, biti boljši od konkurence, odvija vedno bolj na področju zanesljivosti in hitrosti dobav, je LIP BLED ustanovil projektno skupino JIT za dobavo izbranega ožjega asortimenta furniranih vrat in podbojev izdelanih po DIN normi za kupce v Nemčiji z dobavnim rokom 10 delovnih dni (10 AT). Dobavna pripravljenost se mesečno obravnava na razširjenih kolegijih glavnega direktorja. Zaradi pomena držanja obljubljenih rokov v proizvodnji vrat, je vodstvo vpeljalo posebno stimulacijo pri plači, če profitni center, presega 90 – odstotno stopnjo JIT dobave. Pri tem je treba poudariti, da je zaradi razdrobljenosti naročil in izdelave vrat po različnih standardih, stopnja JIT v zadnjih letih padla. Pri dobavi na skladišče Moderne Bauelemente pred 4 leti je LIP dosegel stopnjo preko 98 %. Seveda pa je šlo za veliko serijska naročila proizvedenih po eni normi.
+
+4. Stopnja izkoriščenosti zmogljivosti kapacitet (št. izmen) Kazalnik kaže, kakšen je delež časovne zasedenosti proizvodnih kapacitet glede na razpoložljiv fond ur. Izdelki v podjetju se proizvajajo na avtomatiziranih strojih, ki v enakomernih časovnih ciklusih izdelujejo posamezen izdelek. Glavna faktorja, ki vplivata na uspešnost proizvajanja, sta obvladovanje časa in takšno načrtovanje serij, da čim bolj optimalno zapolnijo razpoložljive zmogljivosti.
+Družba meni, da ima pri stopnji izkoriščenosti kapacitet še veliko rezerv (glej Tabelo 5).
+Izkoriščenost kapacitet pri notranjih vratih je okoli 1,2 do 1,5 izmene, zato obstajajo še velike rezerve. Naročila znotraj profitnega centra Notranjih vrat pa so močno razdrobljena. V profitnem centru Opažnih plošč ocenjujejo, da ima družba visoko izkoriščenost kapacitet, in sicer za okoli dobri 2 izmeni. Stopnja izkoriščenosti kapacitet Masivnega pohištva pa je slaba.
+Tabela 5: Stopnja izkoriščenosti kapacitet v LIP BLED-u
+STOPNJA IZKORIŠČENOSTI KAPACITET
+Programi: nizka srednja visoka 1. Opažne plošče +x 2. Notranja vrata -x 3. Masivno pohištvo x Skupna ocena: -x
+Vir: Strateški poslovnii načrt LIP BLED, d.d. za obdobje od leta 2005 do leta 2009.
+Velike multinacionalke zaradi globalnega trženja dosegajo proizvodnjo v treh oziroma celo štirih izmenah (za praznike in nedelje je oblikovana dodatna ekipa). Na ta način dosegajo 360 delovnih dni v treh izmenah na leto. Izkoriščenost proizvodnih kapacitet, ki je v veliki meri odvisno od sposobnosti trženja, je verjetno glavni faktor, ki določa uspešnost podjetja.
+5. Razvoj novih izdelkov (%)
+Razvoj novih izdelkov lahko v modelu osnovne verige vrednosti uvrstimo v proces inoviranja, kjer v podjetju ugotavljajo obstoječe in nove potrebe odjemalcev ter razvijajo nove rešitve za zadovoljevanje teh potreb. Za podjetja, ki se zavedajo, da z inovativnimi izdelki pridobivajo konkurenčno prednost, so inovacije odločilen notranji proces. Uspešnost, učinkovitost in pravočasnost v procesu inovacij, je za večino podjetij celo pomembnejše kot odličnost njihovih vsakodnevnih operativnih procesov (Winterleitner, 2003, str. 52).
+Družba LIP BLED razvoj nove tehnologije in izdelkov rešuje timsko in pri tem sodeluje z zunanjimi inštitucijami. Pri razvoju izdelkov se poslužujejo storitev tujih in domačih oblikovalcev. Nove proizvode redno predstavljajo na sejemskih prireditvah. Tako pri notranjih vratih kot pri pohištvu je LIP BLED prejel več prestižnih nagrad.
+
+2.3.4 Vidik učenja in rasti
+Cilji upravljanja s kadrovskimi viri so predvsem razvijati in izboljšati procese, metode in orodja za zagotavljanje kompetentnih, motiviranih in zadovoljnih zaposlenih.
+Najpomembnejši operativni cilji in aktivnosti s katerimi bo družba LIP BLED uresničila načrt pa so:
+− zagotavljanje ustrezne strukture zaposlenih za nemoteno poslovanje, dvig deleža visoko kvalificiranih proizvodnih delavcev in delavcev z univerzitetno izobrazbo s specialnimi znanji;
+− zagotavljanje ustreznega nagrajevanja zaposlenih z večjo vlogo variabilnega dela plače, ki bo temeljila na merljivih kazalcih uspešnosti in učinkovitosti;
+− zagotavljanje nizke stopnje fluktuacije in nizke stopnje absentizma;
+− zagotavljanje varnega delovnega okolja (zniževanje števila poškodb pri delu in števila delovnih invalidov), povečanje zaposljivosti invalidov v na novo ustanovljenem invalidskem podjetju in s tem povečanje motivacije invalidov za aktivno delo.
+Cilj družbe je prav tako izboljšati raven tehničnega in splošnega lesarskega znanja, zato redno organizirajo izobraževanja v okviru podjetja in zunaj podjetja. Funkcionalna usposabljanja in izobraževanja, ko delavec pridobi splošna in specifična znanja, ki jih lahko takoj in neposredno uporabi pri svojem delu, predstavljajo največji delež vseh izobraževanj.
+Perspektivnim kadrom omogoča podjetje šolanje ob delu, za nove zaposlene pa se trudijo, da omogočijo kakovostno uvajanje na delovno mesto. Vsako leto družba oblikuje seznam usposabljanj, na podlagi katerih skupaj z vodji in sodelavci načrtujejo izobraževanja iz naslednjih področij: zakonsko obvezna usposabljanja, vodenje, finance, kakovost, trženje, jezikovna usposabljanja, računalništvo in informatika.
+V letu 2007 je družba uvedla nagrajevanje zaposlenih z večjo vlogo variabilnega dela plače, ki bo temeljila na merljivih kazalcih uspešnosti in učinkovitosti. S takim načinom nagrajevanja si vodstvo želi spodbuditi večjo motivacijo zaposlenih za kvalitetnejše in bolj produktivno delo. S tem je prišlo tudi do dviga nivoja plač. Prav tako LIP BLED želi na trgu dela pridobiti kvalitetnejše kadre ter znižati stopnjo bolniške odsotnosti pod 6 odstotkov.
+Druge ugodnosti, ki jih družba nudi zaposlenim so še: letovanje po ugodnih cenah v njihovih počitniških kapacitetah.
+Kazalnike, katere bi vključili v uravnoteženi sistem pa so: število ur izobraževanja na delavca, stopnja bolniške odsotnosti od dela, zadovoljstvo zaposlenih, število koristnih predlogov in koeficient kakovosti informacije.
+
+1. Število ur izobraževanja na delavca (ure/delavec)
+Kazalnik letno spremlja, koliko se zaposleni izobražujejo in pridobivajo nova znanja za svoje področje dela. Brez izobraževanja zaposleni ne morejo pridobiti dodatnih znanj. Kazalnik je razmerje med številom ur izobraževanja in številom delavcev v celotnem podjetju.
+V podjetju LIP BLED razdelijo kazalnik tudi po posameznih profitnih centrih. In sicer v letnem načrtu določijo število in vrsto izobraževalnih programov, ki jih bodo naslednje leto izvajali.
+Družba določen znesek denarja nameni štipendiranju učencev in študentov. Zanimanje za poklic mizar je vedno manjše, pa še ti se odločajo za nadaljevanje šolanja. Zato je LIP BLED organiziral izobraževanja zaposlenih v podjetju, ki jih izvaja v sodelovanju z Srednjo lesno šolo v Škofji Loki. Vodstvo LIP BLED-a načrtuje organizacijo izobraževanja za poklic obdelovalec lesa in za poklic mizar tistim delavcem, ki nimajo izobrazbe oz. njihova izobrazba ne ustreza potrebam proizvodnje. Tako načrtujejo, da bodo na tak način vsako leto izobrazili 12 delavcev. S tem bodo izboljšali kvalifikacijsko strukturo zaposlenih, obenem pa bodo zmanjšali tudi število nekvalificiranih delavcev.
+2. Stopnja bolniške odsotnosti od dela (%)
+Kazalnik predstavlja razmerje med zaposlenimi, ki so bolniško odsotni, in vsemi zaposlenimi.
+Za podjetje je zelo pomembno, da je stopnja čim manjša, saj je s tem dosežena večja prisotnost na delu in to olajša učinkovitejšo organizacijo dela, kar ima za posledico večjo produktivnost dela. Pri tem je za podjetje pomembna delitev na odsotnost do 30 dni, katere stroške krije podjetje, in nad 30 dni, ki jo plača Zavod za invalidsko in pokojninsko zavarovanje Slovenije.
+Zaradi pomembnosti dejavnika, LIP BLED podrobno spremlja bolniško odsotnost. Podatke obravnavajo mesečno na kolegiju glavnega direktorja, kjer se na osnovi analiz sprejemajo ustrezne ukrepe. Glavne aktivnosti, ki sem jih zasledila pri pregledu njihovih zapisnikov, so naslednji:
+• razgovori direktorja profitnih centrov z delavci, ki pogosto ali dalj časa bolujejo, s ciljem, da se ugotovi vzrok za bolniško odsotnost in hkrati opozori delavce, kako pomembno je, da so delovna mesta polno zasedena, da se lahko kvalitetno organizira delo, in da se s tem doseže planirana produktivnost;
+• izvajanje kontrole bolniško odsotnih delavcev z zunanjim izvajalcem;
+• stimulacija za dnevno prisotnost na delu in na koncu leta, za tiste, ki nikdar niso bolovali.
+Podatki kažejo, da se je LIP-u po nekaj letih upadanja bolniške, v letošnjem letu začela ponovno dvigovati in se je dvignila iz lanskih 6,29 % na 6,90 %.
+
+3. Zadovoljstvo zaposlenih (/)
+Ta kazalnik je eden izmed ključnih predpogojev, da zaposleni delajo angažirano, marljivo, in da so pripadni družbi.
+Je tudi osnovni pogoj za večjo produktivnost, odzivnost, kakovost in širšo ponudbo storitev (Kaplan & Norton, 2000, str. 138).
+Družba ugotavlja zadovoljstvo delavcev preko sestankov delovnih skupin in preko rednih letnih razgovorov (glej Tabelo 6).
+Tabela 6: Zadovoljstvo zaposlenih v LIP BLED-u Elementi/ocena Zelo slaba Slaba Srednja Dobra Zelo dobra
+Fleksibilnost kadrov x Delovna disciplina x Tehnološka disciplina (kvaliteta dela) x Motivacija za delo:
+- plače x
+- nematerialna stimulacija x Medsebojni odnosi x Pripadnost družbi x Skupna ocena x
+Vir: Gospodarska načrta LIP BLED, d.d. za leto 2006 in 2007.
+4. Število koristnih predlogov
+Kazalnik kaže število zamisli za izboljšanje delovnega procesa, ki so jih podali zaposleni. Pri tem upošteva vse predloge, tudi tiste, ki niso bili realizirani, saj s tem vodstvo opazuje zagnanost zaposlenih pri podajanju novih zamisli.
+Inovativnost zaposlenih LIP BLED spodbuja tudi z uvajanjem sistema sugestij preko delovnih skupin. Vsak zaposleni lahko poda koristen predlog za izboljšanje dela tako na svojem delovnem mestu, kot tudi na nivoju poslovanja podjetja. Zato je stimuliran z denarno nagrado.
+Tisti, ki podajo največ sugestij pa so dodatno stimulirani z nedenarno nagrado (vikend paketi v počitniških kapacitetah, darila v obliki majic).
+
+5. Koeficient kakovosti informacije (/)
+Cilj vsakega podjetja na področju komunikacije je dvigniti dostopnost strateških informacij in izboljšati dvosmerno komunikacijo z zaposlenimi. Zaposleni morajo prejemati kakovostne informacije v takšnem obsegu, da bodo sposobni prevzemati popolno odgovornost na področju dela, ki ga opravljajo in sprejemati odločitve, kar bi omogočalo doseganje učinkovitih notranjih procesov in izdelavo kakovostnih informacij, s čimer poteka dvosmerna komunikacija (Winterleitner, 2003, str. 90).
+V LIP-u so pred petimi leti ponovno začeli izdajati interno glasilo Glasnik lipbled, v katerem zaposleni in bivši sodelavci lahko dobijo informacije vezane na poslovanje, ekonomsko dogajanje na trgu, promocijske aktivnosti, kadrovske vesti ter pomembne dogodke, ki so se zgodili v podjetju in občini. Pokazalo se je, da na ta način vodstvo lažje komunicira z zaposlenimi in upokojenci, ki se še vedno močno identificirajo s podjetjem.
+Drugo še bolj učinkovito komunikacijsko orodje z zaposlenimi so delovne skupine, preko katerih na mesečnih sestankih vodilni v podjetju informirajo zaposlene o doseženih rezultatih in potrebnih ukrepih za dosego gospodarskega načrta.
+Poleg tega družba vpeljuje ustvariti informacijski sistem, ki omogoča kompetentnim zaposlenim dostop in delo s celotno bazo zaupnih podatkov. Ta omogoča kvalitetno obdelavo podatkov, vezanih na produkt, kupca, tržišče, ceno, kadre, računovodske izkaze in finance (MIS – managerski informacijski sistem).
+
+2.4 Prikaz modela uravnoteženega sistema kazalnikov za podjetje LIP BLED Slika 7: Uravnoteženi sistem kazalnikov v LIP BLED-u Vir: Lasten prikaz
+Na osnovi poglobljene analize pridobljenih podatkov o poslovanju in gospodarskih načrtih LIP BLED ter razgovora z izbranimi vodilnimi in teoretičnim znanjem, ki sem ga pridobila iz Sistema uravnoteženih kazalnikov, predlagam, da vodstvo izpelje sledeče aktivnosti in ukrepe:
+FINANČNI VIDIK:
+Rast prihodkov od prodaje
+Zvišati obseg prihodkov od prodaje v treh letih za 30 %.
+Dodana vrednost na zaposlenega
+Zvišati dodano vrednost na zaposlenega iz 20.733 EUR/zaposlenega v letu 2007 na 30.000 EUR/ zaposlenega v letu 2010.
+Strategija:
+-agresivno trženje
+-učinkovita nabavna veriga
+- k napredku usmerjen poslovni model
+-razvoj novih izdelkov
+- povečanje neotipljivega dela produkta
+- prodaja usmerjena h končnemu kupcu
+Vidik notranjih poslovnih procesov: 1. Obvladovanje stroškov po PC-jih
+2. Obračanje zalog in terjatev 3. Stopnja JIT dobave 4. Stopnja izkoriščenosti zmogljivosti kapaciteti 5. Razvoj novih izdelkov Vidik poslovanja s strankami:
+1. Tržni deleži
+2. Zadovoljstvo strank 3. Vrednost poprodajnih storitev
+4. Delež stroškov za marketinške dejavnosti Vidik rasti in učenja: 1. Število ur izobraževanja na delavca
+2. Stopnja bolniške odsotnosti od dela
+3. Zadovoljstvo zaposlenih 4. Število koristnih predlogov 5. Koeficient kakovosti informacije
+Finančni vidik:
+1. Rast prihodkov od prodaje 2. Dodana vrednost na zaposlenega 3. Dobičkonosnost kapitala – ROE 4. Dobiček iz poslovanja 5. Delež DIS 6. Delež FIS
+
+Dobičkonosnost kapitala – ROE
+Zvišati dobičkonosnost kapitala – ROE iz 2,1 % v 2007 na 9,5 % v letu 2010.
+Dobiček iz poslovanja
+Zvišati dobiček iz poslovanja iz 426.948 EUR v 2007 na 2.000.000 EUR v letu 2010.
+Delež DIS
+Znižati delež direktnih stroškov materiala (DIS) iz 51,2 % v letu 2007 vsaj za 1 % letno v treh letih.
+Delež FIS
+Znižati delež fiksnih stroškov (FIS) iz 47,4 % v letu 2007 za vsaj 4 % v letu 2010.
+VIDIK POSLOVANJA S STRANKAMI:
+Tržni deleži
+Pomembneje povečati obseg prodaje v državah, ki so na novo vstopile v EU, kot so: Češka, Bolgarija, Romunija, Poljska in Slovaška. V treh letih doseči 20 % delež prodaje na ta tržišča.
+Zadovoljstvo strank
+Izboljšati zadovoljstvo strank na račun znižanja reklamacij in s tem števila nezadovoljnih kupcev. Znižati relativni delež števila reklamacij na milijon EUR prodaje za polovico v treh letih.
+Vrednost poprodajnih storitev
+Zvišati vrednost poprodajnih storitev s podaljšanjem garancijske dobe.
+Delež stroškov za marketinške dejavnosti
+Zvišati delež stroška za marketinške dejavnosti, in sicer s podvojitvijo stroška za promocije blagovne znamke z usmerjenim oglaševanjem.
+VIDIK NOTRANJIH POSLOVNIH PROCESOV:
+Obvladovanje stroškov po PC-jih
+Zmanjšati stroške po PC - jih z izboljšanjem nabavnih pogojev in z združevanjem profitnih centrov (npr. Notranja vrata in Masivno pohištvo) ter izkoristiti sinergične učinke obeh programov.
+Obračanje zalog in terjatev
+Znižati število dni obračanja zalog iz 52 dni v letu 2007 na 43 dni v letu 2010. Prav tako pa tudi znižati število dni obračanja terjatev iz 58 dni v letu 2007 na 50 dni v letu 2010.
+
+Stopnja JIT dobave
+Izboljšati dobavno pripravljenost PC Notranja vrata iz 71,3 % v letu 2007 na 90,0 % v letu 2010.
+Stopnja izkoriščenosti zmogljivosti kapacitet
+Zvišati stopnjo izkoriščenosti zmogljivosti kapacitet z uvedbo popolne druge in tretje izmene v proizvodnji notranjih vrat.
+Razvoj novih izdelkov
+Povečati pomen razvojne in inovacijske dejavnosti v družbi.
+VIDIK UČENJA IN RASTI:
+Število ur izobraževanja na delavca
+Izboljšati kadrovsko strukturo za 10 % pri mizarjih in lesarskih tehnikih.
+Stopnja bolniške odsotnosti od dela
+Znižati stopnjo bolniške odsotnosti od dela iz 6,90 % v letu 2007 na 5,50 % do največ 6,00 % v letu 2010.
+Zadovoljstvo zaposlenih
+Izboljšati zadovoljstvo zaposlenih z več interne komunikacije in z uvedbo bolj stimulativnega nagrajevanja.
+Število koristnih predlogov
+Povečanje števila koristnih predlogov s spodbujanjem zaposlenih in nedenarno stimulacijo.
+Koeficient kakovosti informacije
+Nadaljevati z izdajanjem internega glasila in povečati število izvodov iz sedanjih 10 na leto na 12 izvodov na leto. Vpeljati MIS in povečati njegovo uporabo za izdelavo analiz.
+* pri predlogih za kazalnike sem poizkušala čim več napovedi predstaviti v številkah, s čimer sem nakazala smer razvijanja kazalnikov.
+SKLEP
+V času globalne konkurence se morajo podjetja vse bolj zavedati, da zagotavljanje dolgoročne uspešnosti poslovanja zahteva pregled nad finančnim kratkoročnim delom, ki je bil že vključen v tradicionalni računovodski model. Na eni strani je finančni poslovanje dopolnjeno z neotipljivimi sredstvi, kot na primer znanje zaposlenih, na drugi strani pa so dodane kategorije, ki predstavljajo pogoj za doseganje uspešnosti v prihodnosti, kot na primer učinkoviti proizvodni procesi. Poleg kratkoročnih ciljev so se managerji začeli zavedati tudi pomembnosti dolgoročnih ciljev.
+
+Na osnovi poglobljene analize podjetja preko opravljenih intervjujev z vodilnimi zaposlenimi, povzetkov kolegijev in gospodarskih strateških in poslovnih načrtov za LIP BLED sem ugotovila, da podjetje na letni in polletni ravni spremlja veliko število kazalnikov, s pomočjo katerih ocenjujejo trenutno poslovanje podjetja. Vsi štirje vidiki znotraj Uravnoteženega sistema kazalnikov so v LIP BLED-u pokriti z ustreznimi že vpeljanimi merili, medtem ko sem sama izbrala tiste, ki si po mojem mnenju ključni v Uravnoteženem sistemu kazalnikov.
+Ocenjujem, da LIP BLED uporablja sistem kazalnikov, ki pa bi ga bilo potrebno bolje uravnotežiti glede na pomen posameznega dejavnika. Manjka pa dinamična povezava med doseženimi vrednostmi kazalnikov in potrebnimi aktivnostmi za dosego načrtovanih ciljev podprta z ustreznim informacijskim sistemom.
+V svojem raziskovalnem delu sem postavila cilje, s katerimi bi LIP BLED izboljšal svoje finančno stanje, se še bolj povezal s kupci, izboljšal proizvodne procese ter motiviral svoje zaposlene. Zavedam se, da so cilji ambiciozno postavljeni, saj vsaka družba potrebuje »visoko leteče« cilje, saj z njimi lahko doseže to, kar se na prvi pogled vidi nemogoče. Poleg tega sem upoštevala 3-letno časovno obdobje, kot najdaljše, za katerega je še možno kvalitetno načrtovati prihodnje cilje. Namreč 5-letni oziroma 7-letni strateški časovni načrti, ki jih ima LIP BLED se mi zdijo predolgi, glede na vse hitrejši proces spreminjanja vsega, kar nas obkroža.
+Lesnopredelovalna panoga v Sloveniji je v slabi kondiciji. Podjetje LIP BLED je v omenjeni panogi med boljšimi, vendar v primerjavi z ostalimi slovenskimi gospodarskimi družbami spada med povprečne. To je posledica slabše konjukture na svetovnem trgu za lesne izdelke in prepočasnega prilagajanja slovenske lesnopredelovalne industrije na omenjeno situacijo.
+Panoga je preveč razdrobljena, in podjetja imajo preširoke proizvodne programe, zaradi česar so stroški na enoto izdelka v primerjavi s svetovno konkurenco previsoki. Zadnja dogajanja v panogi kažejo na to, da že prihaja do večje koncentracije proizvodnje (prevzem proizvodnje notranjih vrat Jelovice s strani LIP BLED-a, poskus koncentracije proizvodnje stolov v Javorju …).
+Čeprav je bila konjuktura v zadnjih letih na trgu slaba, pa ocenjujem, da se bo v nekaj letih bistveno izboljšala. Težka situacija bo povzročila, da se bo skozi proces koncentracije in propad najslabših lesnih proizvajalcev v Evropi ponudba zmanjšala. Po drugi strani pa se bo pomen lesenih izdelkov močno povečal zaradi lesa, kot obnovljivega vira. Poleg tega leseni izdelki v procesu proizvodnje porabijo v primerjavi z drugimi materiali (aluminij, jeklo, beton) bistveno manj energije, kar pozitivno vplivalo na zmanjšanje emisij v zraku.
+
+LITERATURA IN VIRI
+1. Bizjak, M. (2006). Uravnoteženi sistem kazalnikov uspešnosti poslovanja: uvajanje in nadgradnja sistema v podjetju Valkarton. Magistrsko delo. Ljubljana: Ekonomska fakulteta.
+2. Cipot, R. (2006, 23. maj). Sistem uravnoteženih kazalnikov v storitveni dejavnosti.
+Najdeno 14. junija 2008 na spletnem naslovu http://www.mju.gov.si/fileadmin/mju.gov.si/pageuploads/sodobnajavnauprava/ppt/evropa
+_A/kovac/CIPOT.ppt.
+3. Fajt, O. (2005). Uravnoteženi sistem kazalnikov v podjetjih in v državni upravi.
+Specialistično delo. Ljubljana: Ekonomska fakulteta.
+4. Gospodarski načrt 2006 LIP BLED, Bled: 2005.
+5. Gospodarski načrt 2007 LIP BLED, Bled: 2006.
+6. Gospodarski načrt 2008 LIP BLED, Bled: 2007.
+7. Gruban, B. (2007). Nefinančna merila poslovne uspešnosti. Najdeno 26. junija 2008 na spletnem naslovu http://dialogos.si/slo/objave/clanki/nefinancna-merila/.
+8. Hočevar, M. (2003). Prednosti in omejitve metode BSC. Najdeno 13. junija 2008 na spletnem naslovu http://www.zls-zveza.si/RL/Arhiv/RL_3_2003_Hocevar.pdf.
+9. Hočevar, M. (2007). Kontroling stroškov. Ljubljana: GV Založba.
+10. Ilgo, P. (2008, 14. julij). Do konkurenčne prednosti s procesno usmerjenostjo. Delo FT, str. 32.
+11. Informacija o poslovanju lesne in pohištvene industrije v letu 2007 (10. julij 2008).
+Ljubljana: Gospodarska zbornica Slovenije.
+12. Interni vir: Opis aplikacije Balanced scorecard. VMA Management Consulting.
+13. Kaplan, R. & Norton, D. (2000). Uravnoteženi sistem kazalnikov. Ljubljana: Gospodarski Vestnik.
+14. Kaydos, W. (2003). Identifying and capturing operational strategic and organizational opportunities for improving performance. Najdeno 25. junija 2008 na spletnem naslovu http://www.balancedscorecard.org/WhatShouldYourCompanyMeasure/tabid/138/Default. aspx.
+15. Kokošar, S. (2005). Kontroling uravnoteženega sistema kazalnikov v podjetju JAVOR Pivka d.d.. Revija Les, (junij - julij), str. 254-256.
+16. Lesjak, M. (2003). Uvedba uravnoteženega sistema kazalnikov uspešnosti v podjetje Tim Laško. Magistrsko delo. Ljubljana: Ekonomska fakulteta.
+17. Letno poročilo 2005 LIP BLED, Bled: 2005.
+18. Letno poročilo 2006 LIP BLED, Bled: 2006.
+
+19. Letno poročilo 2007 LIP BLED, Bled: 2007.
+20. Ošep, B. & Volovšek, B. (2006). Uravnoteženi sistem kazalnikov in konsolidacija strateških podatkov v skupinah podjetij. Najdeno 5. junija 2008 na spletnem naslovu http://www.drustvo-informatika.si/dogodki/dsi2002/prispeliReferati/osep.doc.
+21. Rohn, H. (2008). Using the balanced scorecard to align your organization. Najdeno 25. junija 2008 na spletnem naslovu http://www.balancedscorecard.org/Portals/o/PDF/BalancedPerformance_Article1.pdf.
+22. Strateški poslovni načrt LIP BLED, d.d. za obdobje od leta 2005 do leta 2009, Bled: 2004.
+23. Strateški razvojni načrt LIP BLED, d.d. za obdobje od leta 2007 do leta 2014, Bled: 2006.
+24. Winterleitner, B. (2003). Uporaba uravnoteženega sistema kazalnikov v podjetju Prizma.
+Magistrsko delo. Ljubljana: Ekonomska fakulteta.
+25. Winterleitner, B. (2004a). Uvajanje uravnoteženega sistema kazalnikov v malo podjetje (1.del). Finance on-net. Najdeno 6. junija 2008 na spletnem naslovu http://www.finance.- on.net.
+26. Winterleitner, B. (2004b). Uvajanje uravnoteženega sistema kazalnikov v malo podjetje (2.del). Finance on-net. Najdeno 6.junija 2008 na spletnem naslovu http://www.finance.- on.net.
+27. Winterleitner, B. (2004c). Uvajanje uravnoteženega sistema kazalnikov v malo podjetje (3.del). Finance on-net. Najdeno 6.junija 2008 na spletnem naslovu http://www.finance.- on.net.
+

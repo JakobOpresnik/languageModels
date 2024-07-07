@@ -1,0 +1,868 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document xml:id="kas-1134000" doc_id="1134000" text_id="1469728" cobiss_id="28215389" title="Politbarometer 12/2008" author="Toš, Niko et al." year="2008" publisher_abbr="UL FDV" publisher="Fakulteta za družbene vede" place="Ljubljana" url="http://www.cjm.si/sites/cjm.si/files/file/raziskava_pb/PB12_08.pdf" type="Končno poročilo o rezultatih raziskav" udc="316.653(497.4)" udc_desc="Socialna psihologija" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf">
+  <page xml:id="pb1" n="1" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=1">
+    <p xml:id="pb1.p1" xml:lang="sl">PPoolliittbbaarroommeetteerr 1122//22000088 december 2008 Projekt</p>
+    <p xml:id="pb1.p2" xml:lang="sl">"Javnomnenjske raziskave o odnosu javnosti do aktualnih razmer in dogajanj v Sloveniji" je longitudinalni projekt CJMMK, ki poteka od januarja 1995 dalje Ljubljana, 16. 12. 2008</p>
+  </page>
+  <page xml:id="pb2" n="2" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=2">
+    <p xml:id="pb2.p1" xml:lang="sl">POLITBAROMETER 12/08</p>
+    <p xml:id="pb2.p2" xml:lang="sl">Poročilo o raziskavi, ki je bila opravljena v dneh od 8. do 10. decembra 2008</p>
+    <p xml:id="pb2.p3" xml:lang="sl">Politbarometer je bil koncem 1994 zasnovan na iniciativo Vlade Republike Slovenije in vse do 31. 12. 2005 financiran s strani Urada RS za informiranje. Prva eksperimentalna meritev PB je bila izvedena decembra 1994; v obdobju 1995–2005 je merjenje potekalo deset oz. enajstkrat letno, od leta 2006 dalje pa poteka štirikrat letno.</p>
+    <p xml:id="pb2.p4" xml:lang="sl">V dneh od 8. do 10. decembra 2008 smo na osnovi vzorca telefonskih naročnikov zajeli 944 polnoletnih oseb, državljane in državljanke Republike Slovenije in z njimi izvedli telefonski intervju s pomočjo standardiziranega vprašalnika. Vzorčenje je potekalo iz vzorčne baze (BN=3196), ki je bila izčrpana do 30%. Telefonske intervjuje Politbarometra 12/08 je izvajalo 28 izšolanih anketarjev CJMMK, povprečni čas trajanja intervjuja (računalniška meritev) je bil 10,5 minut, medtem ko je bil skupni bruto čas trajanja ankete 400 ur.</p>
+    <p xml:id="pb2.p5" xml:lang="sl">Zasnovo vprašalnika PB12/08, kontrolo izvedbe in pripravo poročila je opravila skupina CJMMK: red. prof. dr. Niko Toš, doc. dr. Slavko Kurdija (koordinacija izvedbe), dr. Matej Kovačič, Rebeka Falle, univ. dipl. soc., Tina Vovk, univ. dipl. soc, Živa Broder, univ. dipl. soc. in Ivi Kecman, tajnica Centra.</p>
+    <p xml:id="pb2.p6" xml:lang="sl">Poročilo vsebuje popoln pregled postavljenih vprašanj in dobljenih odgovorov – v prilogi. V nadaljevanju podajamo pregled najznačilnejših ugotovitev v opisni, grafični ali numerični obliki.</p>
+    <p xml:id="pb2.p7" xml:lang="sl">Vsa vprašanja in merila v gradivu so povzeta v izvirni obliki. Ker gre v večini primerov za ponavljajoče se meritve, podajamo poleg aktualne meritve še pregled prejšnjih meritev.</p>
+    <p xml:id="pb2.p8" xml:lang="sl">V prilogi poročila dodajamo tabelarno gradivo, ki kaže na povezanosti med izraženimi stališči anketirancev ter njihovimi statusnimi oziroma socialno-demografskimi značilnostmi. Tako v analizo vključujemo poleg spola, starosti in izobrazbe, še poklic oz. zaposlitveni status, tip naselja in regionalno pripadnost respondentov. V analizo vključujemo tudi variable, ki kažejo nazorsko in strankarsko opredeljenost respondentov: vernost, opredelitev na t. i. levo-desni lestvici in strankarsko opredeljenost, ki jo zajemamo s pomočjo indeksa strankarskih preferenc. Indeks strankarskih preferenc je vsota opredelitev za stranke, zajetih z vprašanjema "Katero stranko bi volili?" in "Katera stranka vam je najbližja?". V grafičnih medčasovnih prikazih, vključenih v to poročilo, ki segajo v obdobje 1996–2006, so z navpično črto in oznako DZ ali PR zabeležene časovne točke državnozborskih oz. predsedniških volitev. Prikazi in analiza podatkov temeljijo na sistemu vzorčnih uteži, ki zmanjšujejo pristranost in napake v rezultatih kot posledice vzorčenja.</p>
+    <p xml:id="pb2.p9" xml:lang="sl">Utemeljitev in opis postopka obteževanja je podan v dokumentu: dr. Slavko Kurdija, dr. Janez Štebe: "Oblikovanje vzorčnih uteži za telefonsko anketo Politbarometer", objavljenem v Politbarometru PB3/97.</p>
+  </page>
+  <page xml:id="pb3" n="3" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=3">
+    <p xml:id="pb3.p1" xml:lang="sl">KAZALO</p>
+    <p xml:id="pb3.p2" xml:lang="sl">Prikazi in analize</p>
+    <p xml:id="pb3.p3" xml:lang="sl">Socialna in politična klima Osnovne vrednotne orientacije Odgovornost je na posamezniku/na državi Težnja k enakosti – k razlikam v dohodkih Razmere, ki vzbujajo skrb Strahovi v povezavi z EU Zadovoljstvo z demokracijo Zadovoljstvo z materialnimi razmerami Izražanje skrbi pred izgubo zaposlitve Zadovoljstvo z življenjem kot celoto Slovenke in Slovenci smo pretežno srečni Zaupanje v institucije</p>
+    <p xml:id="pb3.p4" xml:lang="sl">Zaupanje politikom – mednarodna primerjava Zaupanje v politične in civilno-družbene institucije Zaupanje v institucije – trendi Podpora vladi</p>
+    <p xml:id="pb3.p5" xml:lang="sl">Strankarska in (po)volilna opredeljevanja Levo-desno samoopredeljevanje</p>
+    <p xml:id="pb3.p6" xml:lang="sl">Bi šli naslednjo nedeljo na volitve? In koga bi volili?</p>
+    <p xml:id="pb3.p7" xml:lang="sl">Potek volilnega odločanja in zadovoljstvo z izidom volitev Strankarske preference Izbrani aktualni problemi »Neimenovanja ambasadorjev« »D. Rupel posebni odposlanec« »Blejski otok v najem RKC« »Nova univerza«</p>
+    <p xml:id="pb3.p8" xml:lang="sl">»Vpliv krize na ravnanje z denarjem« »Izbrisani« Priloga 1:</p>
+    <p xml:id="pb3.p9" xml:lang="sl">Gibanje preferenc v obdobju 2001–2008 – strnjen prikaz za levo-sredinske in desno-sredinske stranke Priloga 2:</p>
+    <p xml:id="pb3.p10" xml:lang="sl">Volitve v Državni zbor leta 2008, Primerjave volilnih rezultatov 1992-2008</p>
+  </page>
+  <page xml:id="pb4" n="4" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=4">
+    <p xml:id="pb4.p1" xml:lang="sl">Prikazi in analize</p>
+    <p xml:id="pb4.p2" xml:lang="sl">Ta prikaz temelji na četrti načrtovani meritvi v okviru projekta Politbarometer v letu 2008. Tokratna meritev je potekala v dneh od 8. do 10. decembra 2008. S časovno umestitvijo meritev Politbarometra v prvo polovico letošnjega leta (februar, april, junij) ter zaključno meritvijo v decembru smo se izognili obdobju najintenzivnejše volilne kampanje in času neposredno po volitvah. Menili smo, da za razumevanje poteka strankarskih opredeljevanj v tem času več kot zadoščajo zgoščene meritve, ki so jih opravili medijski in tržni raziskovalci javnega mnenja. Tako je vsebinska zasnova tokratne meritve sledila predvsem opazovanju medčasovnih potekov in trendov v političnem javnem mnenju in se le obrobno dotaknila posamičnih vprašanj, ki trenutno vzburjajo politične odzive.</p>
+    <p xml:id="pb4.p3" xml:lang="sl">Priprava tega prikaza sovpada z zaključkom oz. zaključevanjem dveh obsežnih temeljnih socioloških raziskovalnih projektov, ki jih je skupina raziskovalcev CJM izvedla v letošnjem letu.1 Obe raziskavi, še posebej v njunem medčasovnem in mednarodno primerjalnem okviru, zarisujeta socialno in politično klimo in odpirata priložnost za poglobljeno analizo pojavov, ki se jih s politbarometrskimi meritvami dotikamo le površinsko. Za ponazoritev smo tako iz obeh raziskav izbrali nekaj nizov podatkov in jih pridružili temu poročilu.</p>
+    <p xml:id="pb4.p4" xml:lang="sl">1 I. Evropska raziskava vrednot (European Value Survey, 1992-2008, četrta meritev); II. Evropska družboslovna raziskava (European Social Survey, 2002-2008, četrta meritev).</p>
+  </page>
+  <page xml:id="pb5" n="5" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=5">
+    <p xml:id="pb5.p1" xml:lang="sl">Socialna in politična klima</p>
+    <p xml:id="pb5.p2" xml:lang="sl">Socialno in politično klimo označuje izražanje splošnega življenjskega zadovoljstva in sreče, hkrati pa tudi ne-zadovoljstev, ne-zaupanj ter občutkov ne-ogroženosti v vsakdanjem življenjskem okolju.</p>
+    <p xml:id="pb5.p3" xml:lang="sl">Ta vidik bomo prikazali z naslednjimi kazalci:</p>
+    <p xml:id="pb5.p4" xml:lang="sl">- prevladujoče vrednotne orientacije</p>
+    <p xml:id="pb5.p5" xml:lang="sl">- razumevanje individualne odgovornosti</p>
+    <p xml:id="pb5.p6" xml:lang="sl">- zavzemanje za razlike – enakost v dohodku</p>
+    <p xml:id="pb5.p7" xml:lang="sl">- zadovoljstvo z življenjem kot celoto</p>
+    <p xml:id="pb5.p8" xml:lang="sl">- zaskrbljenost glede življenjskih razmer na sploh</p>
+    <p xml:id="pb5.p9" xml:lang="sl">- zaskrbljenost glede materialnega položaja ljudi v starosti</p>
+    <p xml:id="pb5.p10" xml:lang="sl">- zaskrbljenost glede socialnih posledic vključenosti v EU ipd.</p>
+    <p xml:id="pb5.p11" xml:lang="sl">Osnovne vrednotne orientacije</p>
+    <p xml:id="pb5.p12" xml:lang="sl">Na osnovi vpogleda v rezultate evropske in svetovne raziskave vrednot (graf 1) lahko sklepamo o relativni trdnosti in stabilnosti prevladujočih vrednotnih orientacij ljudi v Sloveniji. V vrhu vrednotne lestvice Slovenk in Slovencev sta prejkoslej družina in delo, na dnu pa vera in politika.</p>
+    <p xml:id="pb5.p13" xml:lang="sl">Nekako v sredino, vendar s tendenco rasti, pa se umešča vrednotenje socialnih stikov (prijatelji) in kvaliteta življenja (prosti čas).</p>
+    <p xml:id="pb5.p14" xml:lang="sl">Graf 1</p>
+    <p xml:id="pb5.p15" xml:lang="sl">KAKO POMEMBNA JE VSAKA OD NAŠTETIH STVARI V VAŠEM</p>
+    <p xml:id="pb5.p16" xml:lang="sl">ŽIVLJENJU? (delež odgovorov: 4-zelo pomembna) 0</p>
+    <p xml:id="pb5.p17" xml:lang="en">C J M M K</p>
+    <p xml:id="pb5.p18" xml:lang="sl">S lo v e n s k o</p>
+    <p xml:id="pb5.p19" xml:lang="sl">j a v n o</p>
+    <p xml:id="pb5.p20" xml:lang="sl">m n e n je</p>
+    <p xml:id="pb5.p21" xml:lang="sl">DRUŽINA PRIJATELJI DELO PROSTI ČAS VERA POLITIKA</p>
+  </page>
+  <page xml:id="pb6" n="6" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=6">
+    <p xml:id="pb6.p1" xml:lang="sl">Odgovornost je na posamezniku/na državi</p>
+    <p xml:id="pb6.p2" xml:lang="sl">Med ljudmi se postopno izostruje občutek (individualne) odgovornosti za lastno usodo, pa čeprav je solidaristični koncept, ki prenaša odgovornost na družbo oz. državo, še vedno (pre-)močno ukoreninjen. (graf 2) Graf 2</p>
+    <p xml:id="pb6.p3" xml:lang="sl">DRŽAVA BI MORALA SPREJETI VEČ ODGOVORNOSTI, DA JE VSAKDO PRESKRBLJEN / POSAMEZNIK BI MORAL PREVZETI VEČ ODGOVORNOSTI SAM ZASE</p>
+    <p xml:id="pb6.p4" xml:lang="sl">(uporaba lestvice od 1-država več odgovornosti do 10-posameznik več odgovornosti) 40,5 20</p>
+    <p xml:id="pb6.p5" xml:lang="sl">10 20 30 40 50 60 70 država več odgovornosti (1 - 4) nekje vmes (5, 6) posameznik več odgovornosti (7 - 10)</p>
+    <p xml:id="pb6.p6" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb6.p7" xml:lang="sl">S lo v e n s k o</p>
+    <p xml:id="pb6.p8" xml:lang="sl">j a v n o</p>
+    <p xml:id="pb6.p9" xml:lang="sl">m n e n je</p>
+    <p xml:id="pb6.p10" xml:lang="en">i n 2 0 0 8</p>
+    <p xml:id="pb6.p11" xml:lang="sl">Težnja k enakosti – k razlikam v dohodkih</p>
+    <p xml:id="pb6.p12" xml:lang="sl">Težnja za solidarizem in enakost je še vedno prevladujoča in v zadnjem obdobju (2008) še bolj poudarjena. Ekstremno, lahko bi rekli socialno-patološko razpiranje socialnih in premoženjskih razlik, ki se dogaja v zadnjem obdobju, dobi svoj odziv v zaostrenih večinskih zahtevah po več enakosti (graf 3).</p>
+    <p xml:id="pb6.p13" xml:lang="sl">Graf 3</p>
+    <p xml:id="pb6.p14" xml:lang="sl">DOHODKI BI MORALI BIT I BOLJ ENAKI / POTREBNE SO VEČJE RAZLIKE V DOHODKIH, KER TO VZPODBUDI LJUDI K VEČJI PRIZADEVNOSTI</p>
+    <p xml:id="pb6.p15" xml:lang="sl">(uporaba lestvice od 1-bolj enaki do 10-večje razlike) 32,8 16,6 35,2 48,6 26,5 23,8 55,2 22,8 20</p>
+    <p xml:id="pb6.p16" xml:lang="sl">10 20 30 40 50 60 70 bolj enaki (1 - 4) nekje vmes (5, 6) večje razlike (7 - 10)</p>
+    <p xml:id="pb6.p17" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb6.p18" xml:lang="sl">S lo v e n s k o</p>
+    <p xml:id="pb6.p19" xml:lang="sl">ja v n o</p>
+    <p xml:id="pb6.p20" xml:lang="sl">m n e n je</p>
+    <p xml:id="pb6.p21" xml:lang="en">in</p>
+    <p xml:id="pb6.p22" xml:lang="sl">1992 1995 1999 2005 2008 Razmere, ki vzbujajo skrb</p>
+  </page>
+  <page xml:id="pb7" n="7" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=7">
+    <p xml:id="pb7.p1" xml:lang="sl">Koncept socialne države je prejkoslej v temelju vrednotenja in opredeljevanja ljudi. To pokaže tudi graf 4, kjer so umeščeni socialni vidiki, ki ljudi močno skrbijo. V vrh se umesti skrb za lastno družino, sledijo pa kritične zaznave v razmerah in položaju otrok v revnih družinah, bolnih in invalidnih ljudi, starejših, nezaposlenih itd. Življenjske razmere priseljencev v Sloveniji so umeščene na zadnje mesto, kar deloma izraža tudi zadržan (diskriminatoren?) odnos do te kategorije ljudi.</p>
+    <p xml:id="pb7.p2" xml:lang="sl">Graf 4</p>
+    <p xml:id="pb7.p3" xml:lang="sl">KOLIKO VAS SKRBIJO ŽIVLJENJSKE RAZMERE ...</p>
+    <p xml:id="pb7.p4" xml:lang="sl">(seštevek odgovorov "zelo močno" in "močno") 12,2 46,2 53,3 55,3 66,2 74,2</p>
+    <p xml:id="pb7.p5" xml:lang="sl">0 10 20 30 40 50 60 70 80 90 100 priseljencev, ki živijo v Sloveniji nezaposlenih ljudi v Sloveniji starejših ljudi v Sloveniji bolnih in invalidnih ljudi v Sloveniji otrok v revnih slovenskih družinah vaše ožje družine</p>
+    <p xml:id="pb7.p6" xml:lang="sl">CJMMK, Slovensk o javno mnenje 2008/1, N=1366</p>
+    <p xml:id="pb7.p7" xml:lang="sl">Dodatna ilustracija zgornje umestitve skrb vzbujajočih razmer je podana v grafu 5, ki pokaže, kako se Slovenci v ocenjevanju življenjskih razmer in materialnega položaja starih ljudi umeščamo v mednarodni primerjavi. (graf 5)</p>
+    <p xml:id="pb7.p8" xml:lang="sl">Graf 5 Zaskrbljenost glede življenjskih razmer, materialnega položaja v starosti</p>
+    <p xml:id="pb7.p9" xml:lang="sl">– mednarodna primerjava Strahovi v povezavi z EU</p>
+  </page>
+  <page xml:id="pb8" n="8" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=8">
+    <p xml:id="pb8.p1" xml:lang="sl">Težnja k vključevanju v evropski družbeni prostor, ki spremlja ves potek demokratizacije, osamosvajanja in razvoja slovenske družbe in države v zadnjih desetletjih, se po vključitvi Slovenije v Evropsko unijo in do nje izraža z več zadržanosti ter je – v razmerah globalne krize – povezana z novimi strahovi, predvsem še glede možne izgube delovnih mest, zmanjševanja socialne varnosti, izgubljanja nacionalne in kulturne identitete itd. (graf 6) Graf 6</p>
+    <p xml:id="pb8.p2" xml:lang="sl">STRAHOVI GLEDE NADALJNEGA RAZVOJA EU</p>
+    <p xml:id="pb8.p3" xml:lang="sl">(1-zelo me skrbi, 10-sploh me ne skrbi) seštevek odgovorov 1+2 25</p>
+    <p xml:id="pb8.p4" xml:lang="sl">0 10 20 30 40 50 60 70 80 90 100 Zmanjšanje vpliva Slovenije v svetu.</p>
+    <p xml:id="pb8.p5" xml:lang="sl">Izgubljanje nacionalne identitete in kulture.</p>
+    <p xml:id="pb8.p6" xml:lang="sl">Zmanjšanje socialne varnosti.</p>
+    <p xml:id="pb8.p7" xml:lang="sl">Plačevanje vedno višjih prispevkov Evropski uniji.</p>
+    <p xml:id="pb8.p8" xml:lang="sl">Izguba delovnih mest v Sloveniji.</p>
+    <p xml:id="pb8.p9" xml:lang="sl">CJMMK, Slovensk o javno mnenje 2008/1, N=1366 Zadovoljstvo z demokracijo</p>
+    <p xml:id="pb8.p10" xml:lang="sl">S potekom in načinom obnavljanja in delovanja osrednjih državnih ustanov Slovenci nismo zadovoljni (grafi 7–9). Prevladujoče ne-zadovoljstvo je konstanta v izražanju odnosa do političnih institucij.</p>
+    <p xml:id="pb8.p11" xml:lang="sl">Graf 7</p>
+    <p xml:id="pb8.p12" xml:lang="sl">ZADOVOLJSTVO Z DEMOKRACIJO</p>
+    <p xml:id="pb8.p13" xml:lang="sl">ZADOVOLJNI NEZADOVOLJNI NE VEM, B.O.</p>
+    <p xml:id="pb8.p14" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb8.p15" xml:lang="sl">P o lit b a ro m e te r,</p>
+    <p xml:id="pb8.p16" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb8.p17" xml:lang="en">N</p>
+    <p xml:id="pb8.p18" xml:lang="sl">APR JUN DEC</p>
+  </page>
+  <page xml:id="pb9" n="9" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=9">
+    <p xml:id="pb9.p1" xml:lang="sl">Le kratek čas po volitvah 2004 in ob vladni umestitvi desno-sredinskih strank je nastal videz prevladovanja zadovoljstva nad nezadovoljstvom v delovanju demokratičnega sistema. Vsega pol leta po volitvah je nezadovoljstvo prevladalo nad zadovoljstvom z demokracijo.</p>
+    <p xml:id="pb9.p2" xml:lang="sl">Graf 8</p>
+    <p xml:id="pb9.p3" xml:lang="sl">ZADOVOLJSTVO Z DEMOKRACIJO</p>
+    <p xml:id="pb9.p4" xml:lang="sl">1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 ZADOVOLJNI NEZADOVOLJNI ne vem, b.o.</p>
+    <p xml:id="pb9.p5" xml:lang="sl">DZ PR</p>
+    <p xml:id="pb9.p6" xml:lang="sl">CJMMK, Politb arometer, 1996 - 2008</p>
+    <p xml:id="pb9.p7" xml:lang="sl">DZ DZ PR DZ</p>
+    <p xml:id="pb9.p8" xml:lang="sl">Kako je potekalo izražanje zadovoljstva z demokracijo pred in neposredno po volitvah leta 2004 in leta 2008, ilustrira graf 9. V obeh primerih je zadovoljstvo z demokracijo naraslo, vendar izraziteje ob volitvah 2004 kot ob zadnjih volitvah.</p>
+    <p xml:id="pb9.p9" xml:lang="sl">Graf 9</p>
+    <p xml:id="pb9.p10" xml:lang="sl">ZADOVOLJSTVO Z DEMOKRACIJO</p>
+    <p xml:id="pb9.p11" xml:lang="sl">PRED (junij) IN PO (december) VOLITVAH 2004 / 2008 0</p>
+    <p xml:id="pb9.p12" xml:lang="sl">2004/6 2004/12 2008/6 2008/12 ZADOVOLJNI NEZADOVOLJNI ne vem, b.o.</p>
+    <p xml:id="pb9.p13" xml:lang="sl">CJMMK, Politbarometer, 2004 - 2008 Zadovoljstvo z materialnimi razmerami</p>
+  </page>
+  <page xml:id="pb10" n="10" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=10">
+    <p xml:id="pb10.p1" xml:lang="sl">Zadovoljstvo z materialnimi razmerami (grafi 10-11) kaže na potek in stanje socialne diferenciacije.</p>
+    <p xml:id="pb10.p2" xml:lang="sl">Dobra polovica vseh izraža zadovoljstvo, slaba polovica pa nezadovoljstvo z materialnimi razmerami. V časovnem preseku 2006-2008 delež nezadovoljnih postopno narašča.</p>
+    <p xml:id="pb10.p3" xml:lang="sl">Graf 10</p>
+    <p xml:id="pb10.p4" xml:lang="sl">ZADOVOLJSTVO Z MATERIALNIMI RAZMERAMI</p>
+    <p xml:id="pb10.p5" xml:lang="sl">ZADOVOLJNI NEZADOVOLJNI NE VEM, B.O. C J M M K</p>
+    <p xml:id="pb10.p6" xml:lang="sl">P o lit b a ro m e te r,</p>
+    <p xml:id="pb10.p7" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb10.p8" xml:lang="en">N</p>
+    <p xml:id="pb10.p9" xml:lang="en">APR JUN DEC</p>
+    <p xml:id="pb10.p10" xml:lang="sl">Graf 11</p>
+    <p xml:id="pb10.p11" xml:lang="sl">ZADOVOLJSTVO Z MATERIALNIMI RAZMERAMI</p>
+    <p xml:id="pb10.p12" xml:lang="sl">1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 ZADOVOLJNI NEZADOVOLJNI ne vem, b.o.</p>
+    <p xml:id="pb10.p13" xml:lang="sl">DZ PR</p>
+    <p xml:id="pb10.p14" xml:lang="sl">CJMMK, Politbarometer, 1996 - 2008</p>
+    <p xml:id="pb10.p15" xml:lang="sl">DZ DZ PR DZ</p>
+    <p xml:id="pb10.p16" xml:lang="sl">Več nezadovoljnih kot v povprečju (45%) je med respondenti iz obeh srednjih starostnih skupin (npr. 46–60: 50%), med respondenti le z osnovno šolo (57%), med brezposelnimi (59%), med preferenti DESUS (63%) in strankarsko neopredeljenimi (51%) itd. Mnogo več zadovoljnih pa je med višje in visoko izobraženimi (70%), zaposlenimi v negospodarstvu (61%), študenti, dijaki (80%), desno samoopredeljenimi (60%), pa tudi med podporniki Pahorjeve vlade (59%), preferenti SDS (58%) in SD (56%) itd.</p>
+  </page>
+  <page xml:id="pb11" n="11" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=11">
+    <p xml:id="pb11.p1" xml:lang="sl">Izražanje skrbi pred izgubo zaposlitve</p>
+    <p xml:id="pb11.p2" xml:lang="sl">Izražanje skrbi za zaposlitev je trajna spremljevalka socialne klime. Zaskrbljenost glede možne izgube zaposlitve kaže dobra tretjina vseh zaposlenih. Ta zaznava se v letošnjem letu še ni izostrila.</p>
+    <p xml:id="pb11.p3" xml:lang="sl">(graf 12) Graf 12</p>
+    <p xml:id="pb11.p4" xml:lang="sl">ALI VAS SKRBI, DA BI LAHKO IZGUBILI SVOJE DELOVNO MESTO?</p>
+    <p xml:id="pb11.p5" xml:lang="sl">(samo za zaposlene v gospodarstvu in negospodarstvu) 0</p>
+    <p xml:id="pb11.p6" xml:lang="sl">DA, ZELO ME SKRBI DA, DO NEKE MERE NE, ME NE SKRBI PR</p>
+    <p xml:id="pb11.p7" xml:lang="sl">CJMMK, Politbarometer, 2002 - 2008</p>
+    <p xml:id="pb11.p8" xml:lang="sl">DZ PR DZ</p>
+    <p xml:id="pb11.p9" xml:lang="sl">Zadovoljstvo z življenjem kot celoto</p>
+    <p xml:id="pb11.p10" xml:lang="sl">Kljub nezadovoljstvom in zaskrbljenosti ljudi glede življenjskih razmer v prej prikazanih presekih na vprašanje o življenjskem zadovoljstvu na sploh (močno) prevlada njihov pozitiven odziv. Kar tri četrtine vseh (73.5%) izraža (visoko) stopnjo zadovoljstva (graf 13). Delež nezadovoljnih dosega vsega majhen del (7.9%) populacije. V grafu prikazane meritve zajamejo obdobje 1992–2008 in kažejo na izrazit pozitiven trend. Delež nezadovoljnih je v tem časovnem obdobju upadel na polovico, delež zadovoljnih pa je močno narastel (1992: 46%; 2008: 53.5%).</p>
+    <p xml:id="pb11.p11" xml:lang="sl">Graf 13</p>
+    <p xml:id="pb11.p12" xml:lang="sl">ZADOVOLJSTVO Z ŽIVLJENJEM KOT CELOTO</p>
+    <p xml:id="pb11.p13" xml:lang="sl">(uporaba lestvice od 1-povsem nezadovoljen do 10-povsem zadovoljen) 17</p>
+    <p xml:id="pb11.p14" xml:lang="sl">10 20 30 40 50 60 70 80 nezadovoljen (1 - 4) nekje vmes (5, 6) zadovoljen (7-10)</p>
+    <p xml:id="pb11.p15" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb11.p16" xml:lang="sl">S lo v e n s k o</p>
+    <p xml:id="pb11.p17" xml:lang="sl">ja v n o</p>
+    <p xml:id="pb11.p18" xml:lang="sl">m n e n je</p>
+    <p xml:id="pb11.p19" xml:lang="en">in</p>
+  </page>
+  <page xml:id="pb12" n="12" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=12">
+    <p xml:id="pb12.p1" xml:lang="sl">Slovenke in Slovenci smo pretežno srečni</p>
+    <p xml:id="pb12.p2" xml:lang="sl">In vendar smo prebivalci Slovenije, Slovenke in Slovenci vse bolj in pretežno srečni. Ko smo v okviru Politbarometra pred štirimi leti prvič povprašali ljudi glede občutka osebne sreče, se je za nesrečne izrekla šestina vprašanih, za srečne (33%) in zelo srečne (15%) pa skoraj polovica vseh vprašanih. Tokrat, torej štiri leta kasneje, je delež »nesrečnih« močno upadel (iz 15% na 9%) in delež »srečnih« močno narastel (iz 48% na 62%) (graf 14).</p>
+    <p xml:id="pb12.p3" xml:lang="sl">Graf 14:</p>
+    <p xml:id="pb12.p4" xml:lang="sl">ČE POGLEDATE IZTEKAJOČE SE LETO IN VAŠE OBČUTKE OSEBNE SREČE, KAKO SREČNO / SREČNEGA SE POČUTITE?</p>
+    <p xml:id="pb12.p5" xml:lang="sl">1 - nisem srečen 2 3 - nekaj vmes 4 5 - zelo srečen ne vem, b.o.</p>
+    <p xml:id="pb12.p6" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb12.p7" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb12.p8" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb12.p9" xml:lang="en">N</p>
+    <p xml:id="pb12.p10" xml:lang="sl">42004 DEC 2008 DEC</p>
+    <p xml:id="pb12.p11" xml:lang="sl">Analiza rezultatov zadnje meritve pokaže, da se kot nesrečni v večji meri kot v povprečju (9%) umeščajo samozaposleni (26%), respondenti z najstarejše starostne skupine (61 in več: 13%), le z osnovno šolo (18%) itd. Med najbolj srečne pa se umeščajo predvsem najmlajši (do 30: 75%), višje in visoko izobraženi (72%), zaposleni v negospodarstvu (75%) itd.</p>
+    <p xml:id="pb12.p12" xml:lang="sl">Niz raziskav SJM/EVS, ki poteka vse od leta 1991 dalje, nakazuje jasen trend v izražanju sreče (graf 15). Do celote sprememb v življenjskih razmerah in usod posameznikov se ljudje vse bolj in v veliki večini (2008) opredeljujejo pozitivno.</p>
+    <p xml:id="pb12.p13" xml:lang="sl">Graf 15:</p>
+    <p xml:id="pb12.p14" xml:lang="sl">KAKO SREČNI STE?</p>
+    <p xml:id="pb12.p15" xml:lang="sl">(delež odgovorov: "zelo srečni + precej srečni" in "ne preveč srečni + sploh niste srečni") 0</p>
+    <p xml:id="pb12.p16" xml:lang="en">C J M M K</p>
+    <p xml:id="pb12.p17" xml:lang="sl">S lo v e n s k o</p>
+    <p xml:id="pb12.p18" xml:lang="sl">ja v n o</p>
+    <p xml:id="pb12.p19" xml:lang="sl">m n e n je</p>
+    <p xml:id="pb12.p20" xml:lang="sl">SREČNI NESREČNI</p>
+  </page>
+  <page xml:id="pb13" n="13" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=13">
+    <p xml:id="pb13.p1" xml:lang="sl">Zaupanje v institucije</p>
+    <p xml:id="pb13.p2" xml:lang="sl">Zaupanje politikom – mednarodna primerjava</p>
+    <p xml:id="pb13.p3" xml:lang="sl">Zaupanje v institucije je v temelju demokratičnega sistema. Najprej lahko ugotovimo, da je nezaupanje do politike, političnih strank in politikov nekako »ukoreninjeno« v zavesti Slovencev.</p>
+    <p xml:id="pb13.p4" xml:lang="sl">To ilustrirajo rezultati Evropske družboslovne raziskave, ki odpirajo medčasovni in mednarodnoprimerjalni pogled na ta problem (graf 16). Slovenci se v teh primerjavah umeščamo nizko, na zgornji rob srednje- in vzhodno-evropskih držav.</p>
+    <p xml:id="pb13.p5" xml:lang="sl">Graf 16: Zaupanje politikom</p>
+    <p xml:id="pb13.p6" xml:lang="sl">Zaupanje v politične in civilno-družbene institucije</p>
+    <p xml:id="pb13.p7" xml:lang="sl">V opazovanje vseskozi vključujemo obsežen nabor državnih in civilno-družbenih ustanov, ki smo jim tokrat dodali še informacijsko pooblaščenko in računsko sodišče.</p>
+    <p xml:id="pb13.p8" xml:lang="sl">Aktualna raziskava zaupanja v politične institucije pokaže, da je povolilna (personalna) prenova osrednjih državnih institucij deloma vplivala na rahel vzpon v izražanju zaupanja. Meritev (graf 17) pokaže, da se v vrh, z največjih deležem tistih, ki izrekajo zaupanje (popolnoma zaupam + zaupam) umesti Predsednik republike (55%), sledijo pa mu Evro (53%), Banka Slovenije (49%), Informacijska pooblaščenka (47%), šolstvo (44%), vojska (42%), Varuhinja človekovih pravic (41%) in Predsednik vlade (40%); v spodnji del ranga, z najmanjšim deležem pa se umeščajo politične stranke (9%), sodišča (16%), NATO (23%), državna uprava (23%), Računsko sodišče (24%), cerkev in duhovščina (25%) itd. V sredino ranga, vendar z višjim deležem izrečenih zaupanj kot nezaupanj, se umeščajo Komisija za preprečevanje korupcije, mediji, zdravstvo, policija, Evropska unija, OZN in vlada. Ob Ustavnem sodišču in sindikatih pa je delež tistih, ki obema ustanovama ne izreka zaupanja, višji od »zaupnikov«. Za skupino najnižje uvrščenih institucij pa je še posebej značilno, da nase vežejo daleč več izrazov nezaupanja, kot zaupanja. To še posebej velja za cerkev in duhovščino (48%), pa tudi za sodišča (46%) in politične stranke (43%), ki so na sploh deležni največ izrazov nezaupanja.</p>
+  </page>
+  <page xml:id="pb14" n="14" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=14">
+    <p xml:id="pb14.p1" xml:lang="sl">Graf 17:</p>
+    <p xml:id="pb14.p2" xml:lang="sl">ZAUPANJE V INSTITUCIJE...</p>
+    <p xml:id="pb14.p3" xml:lang="sl">(seštevek odgovorov: "5-popolnoma zaupa"+"4-zaupa" in "1-nič ne zaupa"+"2-ne zaupa"; v %) CJMMK, POLITBAROMETER, december 2008, N=944 24 18 19 16 15 20 20 25 31 27 29 30 22 22 26 29 36 23 48 25 23 35 46 43 55 53 49 47 44 42 41 40 36 35 33 32 30 29 28 27 27 26 25 24 23 23 16 9</p>
+    <p xml:id="pb14.p4" xml:lang="sl">PREDSEDNIK REPUBLIKE EVRO</p>
+    <p xml:id="pb14.p5" xml:lang="sl">BANKA SLOVENIJE INF.POOBLAŠČENKA ŠOLSTVO VOJSKA</p>
+    <p xml:id="pb14.p6" xml:lang="sl">VARUHINJA ČL. PRAVIC PREDSEDNIK VLADE</p>
+    <p xml:id="pb14.p7" xml:lang="sl">K.ZA PREPREČ. KORUPCIJE MEDIJI</p>
+    <p xml:id="pb14.p8" xml:lang="sl">ZDRAVSTVO POLICIJA EU</p>
+    <p xml:id="pb14.p9" xml:lang="sl">OZN</p>
+    <p xml:id="pb14.p10" xml:lang="sl">VLADA</p>
+    <p xml:id="pb14.p11" xml:lang="sl">USTAVNO SODIŠČE SINDIKATI DRŽAVNI ZBOR</p>
+    <p xml:id="pb14.p12" xml:lang="sl">CERKEV IN DUHOVŠČINA RAČUNSKO SODIŠČE DRŽAVNA UPRAVA NATO</p>
+    <p xml:id="pb14.p13" xml:lang="sl">SODIŠČA</p>
+    <p xml:id="pb14.p14" xml:lang="sl">POLITIČNE STRANKE</p>
+    <p xml:id="pb14.p15" xml:lang="sl">NE ZAUPA ZAUPA</p>
+    <p xml:id="pb14.p16" xml:lang="sl">Zaupanje v institucije – trendi</p>
+    <p xml:id="pb14.p17" xml:lang="sl">Primerjava rezultatov treh meritev (april-junij-december – graf 18), prikazanih v srednjih vrednostih, pokaže, da je na zaupanju v tem časovnem preseku največ pridobil Predsednik vlade (J.</p>
+    <p xml:id="pb14.p18" xml:lang="sl">Janša junij: 2.63, B. Pahor december: 3.20), Državni zbor (iz 2.59 na 3.0) in vlada v celoti (iz 2.59 na 2.98). Vidi se, da je v časovnem preseku junij–december v izraženem zaupanju največ izgubil Predsednik republike (junij 3.93, december 3.44). Očitna je tudi visoka umestitev nadzornih ustanov, med njimi še posebej Informacijske pooblaščenke (prva meritev), Varuhinje človekovih pravic, pa tudi Komisije za preprečevanje korupcije in Računskega sodišča. Umestitev Računskega sodišča ob prvi meritvi lahko označimo kot solidno, saj po umestitvi presega oz. dosega v rangu Ustavno sodišče in močno presega sodišča na sploh, ki so tokrat umeščena na dno ranga.</p>
+  </page>
+  <page xml:id="pb15" n="15" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=15">
+    <p xml:id="pb15.p1" xml:lang="sl">Uvrstitev štirih nadzornih institucij skupaj je na oz. nad ravnjo zaupanja, ki ga državljani in državljanke izrekajo osrednjim državnim ustanovam. K takšni uvrstitvi brez dvoma prispeva tudi dejstvo, da so bile vse štiri nadzorne ustanove v zadnjem parlamentarnem mandatu izpostavljene ostrim kritikam, zavračanjem ter poizkusom onemogočanja in ukinjanja. Vladajoča politika, ki se spopada z nadzornimi institucijami, razkriva svoje nedemokratično bistvo.</p>
+    <p xml:id="pb15.p2" xml:lang="sl">Graf 18:</p>
+    <p xml:id="pb15.p3" xml:lang="sl">ZAUPANJE V INSTITUCIJE</p>
+    <p xml:id="pb15.p4" xml:lang="sl">(povprečje na lestvici od 1 - najmanj zaupa do 5 - najbolj zaupa) 4, 07 3, 34 3</p>
+    <p xml:id="pb15.p5" xml:lang="sl">IN F O R M A C</p>
+    <p xml:id="pb15.p6" xml:lang="sl">IJ S K I P O O B</p>
+    <p xml:id="pb15.p7" xml:lang="sl">LA Š Č E N K I P R E D S E D N</p>
+    <p xml:id="pb15.p8" xml:lang="sl">IK U</p>
+    <p xml:id="pb15.p9" xml:lang="sl">R E P U B L</p>
+    <p xml:id="pb15.p10" xml:lang="sl">IK E E V R U B A N K</p>
+    <p xml:id="pb15.p11" xml:lang="sl">I S LO V E N</p>
+    <p xml:id="pb15.p12" xml:lang="sl">IJ E Š O</p>
+    <p xml:id="pb15.p13" xml:lang="sl">LS T V U V O</p>
+    <p xml:id="pb15.p14" xml:lang="sl">JS K I V A R U H</p>
+    <p xml:id="pb15.p15" xml:lang="sl">IN JI</p>
+    <p xml:id="pb15.p16" xml:lang="sl">Č</p>
+    <p xml:id="pb15.p17" xml:lang="en">P R A V</p>
+    <p xml:id="pb15.p18" xml:lang="en">IC P R E D S E D N</p>
+    <p xml:id="pb15.p19" xml:lang="en">IK U</p>
+    <p xml:id="pb15.p20" xml:lang="sl">LA D E O Z N E U M E D</p>
+    <p xml:id="pb15.p21" xml:lang="sl">IJ E M K O M</p>
+    <p xml:id="pb15.p22" xml:lang="sl">IS IJ I/ P R E P R E Č</p>
+    <p xml:id="pb15.p23" xml:lang="sl">.K O R U P C</p>
+    <p xml:id="pb15.p24" xml:lang="sl">IJ E Z D R A V S T V U D R Ž A V N E M U</p>
+    <p xml:id="pb15.p25" xml:lang="sl">Z B O R U V</p>
+    <p xml:id="pb15.p26" xml:lang="sl">LA D</p>
+    <p xml:id="pb15.p27" xml:lang="sl">C E</p>
+    <p xml:id="pb15.p28" xml:lang="sl">LO T I R A Č U N S K E M U</p>
+    <p xml:id="pb15.p29" xml:lang="sl">S O D</p>
+    <p xml:id="pb15.p30" xml:lang="sl">IŠ Č U D R Ž A V N</p>
+    <p xml:id="pb15.p31" xml:lang="sl">I U P R A V I U S T A V N E M U</p>
+    <p xml:id="pb15.p32" xml:lang="sl">S O D</p>
+    <p xml:id="pb15.p33" xml:lang="sl">IŠ Č U P O</p>
+    <p xml:id="pb15.p34" xml:lang="sl">LI C</p>
+    <p xml:id="pb15.p35" xml:lang="sl">IJ I S</p>
+    <p xml:id="pb15.p36" xml:lang="sl">IN D</p>
+    <p xml:id="pb15.p37" xml:lang="sl">IK A T O M N A T O C E R K V</p>
+    <p xml:id="pb15.p38" xml:lang="sl">I,D U H O V Š Č</p>
+    <p xml:id="pb15.p39" xml:lang="sl">IN I P O</p>
+    <p xml:id="pb15.p40" xml:lang="sl">LI T</p>
+    <p xml:id="pb15.p41" xml:lang="sl">IČ N</p>
+    <p xml:id="pb15.p42" xml:lang="sl">IM</p>
+    <p xml:id="pb15.p43" xml:lang="sl">S T R A N K A M S O D</p>
+    <p xml:id="pb15.p44" xml:lang="sl">IŠ Č E M C J M M K</p>
+    <p xml:id="pb15.p45" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb15.p46" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb15.p47" xml:lang="en">N</p>
+    <p xml:id="pb15.p48" xml:lang="sl">APR JUN DEC</p>
+    <p xml:id="pb15.p49" xml:lang="sl">Kako je potekalo izražanje zaupanja Predsedniku republike in Predsedniku vlade v preseku 2004– 2008, pred in po volitvah, ilustrira graf 19.</p>
+    <p xml:id="pb15.p50" xml:lang="sl">Graf 19:</p>
+    <p xml:id="pb15.p51" xml:lang="sl">ZAUPANJE PREDSEDNIKU VLADE IN PREDSEDNIKU REPUBLIKE</p>
+    <p xml:id="pb15.p52" xml:lang="sl">PRED (junij) IN PO (december) VOLITVAH 2004 / 2008 (seštevek 5-zelo zaupa in 4-zaupa) 0</p>
+    <p xml:id="pb15.p53" xml:lang="sl">2004/6 2004/12 2008/6 2008/12 predsednik vlade predsednik republikeCJMMK, Politbarometer, 2004 - 2008</p>
+    <p xml:id="pb15.p54" xml:lang="sl">ROP / DRNOVŠEK JANŠA / DRNOVŠEK JANŠA / TÜRK PAHOR / TÜRK</p>
+  </page>
+  <page xml:id="pb16" n="16" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=16">
+    <p xml:id="pb16.p1" xml:lang="sl">Podpora vladi</p>
+    <p xml:id="pb16.p2" xml:lang="sl">Ob tokratni meritvi podpora vladi B. Pahorja dosega več kot polovico in nepodpora dobro tretjino (34%) vseh vprašanih. (graf 20).</p>
+    <p xml:id="pb16.p3" xml:lang="sl">Graf 20</p>
+    <p xml:id="pb16.p4" xml:lang="sl">PODPORA JANŠEVI / PAHORJEVI VLADI</p>
+    <p xml:id="pb16.p5" xml:lang="sl">DA, PODPIRAM NE, NE PODPIRAM NE VEM, B.O.</p>
+    <p xml:id="pb16.p6" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb16.p7" xml:lang="sl">P o lit b a ro m e te r,</p>
+    <p xml:id="pb16.p8" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb16.p9" xml:lang="en">N</p>
+    <p xml:id="pb16.p10" xml:lang="sl">APR JUN DEC</p>
+    <p xml:id="pb16.p11" xml:lang="sl">Gornji graf ilustrira tudi premik v izražanju podpore/nepodpore vladi v prehodu iz Janševega v Pahorjev mandat v tem letu.</p>
+    <p xml:id="pb16.p12" xml:lang="sl">Izražanje podpore v vsem obdobju meritev (2001–2008 – graf 21) pokaže oster premik v izražanju podpore na začetku Janševega mandata – in ponovno na izhodišču Pahorjevega mandata. Visoko podporo je vlada J. Janše ohranjala do sredine prvega leta mandata. V srednjem obdobju mandata sta se podpora in nepodpora izravnali, v zaključnem delu mandata, koncem leta 2007 in v letu 2008, pa je vlada J. Janše bila deležna le nizke podpore in visoke nepodpore. Dvig podpore ob nastopu vlade B. Pahorja pa je bil bolj umirjen. Ali se bo podpora kazala kot prevladujoča, kar velja za Drnovškovo obdobje, ali izravnala z nepodporo, kar velja za Ropovo obdobje, ali se bo uravnavala glede na model sunkovitega vzpona in hitrega padca, kar je značilno za Janševo obdobje, bodo pokazale kasnejše meritve.</p>
+  </page>
+  <page xml:id="pb17" n="17" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=17">
+    <p xml:id="pb17.p1" xml:lang="sl">ALI PODPIRATE VLADE JANŠE / ROPA / DRNOVŠKA / PAHORJA?</p>
+    <p xml:id="pb17.p2" xml:lang="sl">PODPIRA NE PODPIRA DRNOVŠEK</p>
+    <p xml:id="pb17.p3" xml:lang="sl">CJMMK, Politb arometer, 2000 - 2008</p>
+    <p xml:id="pb17.p4" xml:lang="sl">ROP JANŠA PAHOR</p>
+    <p xml:id="pb17.p5" xml:lang="sl">Analiza decembrske meritve pokaže, da se med izrazite podpornike vlade B. Pahorja umeščajo respondenti iz naslednjih skupin: najstarejši (61 in več: 60%), višje in visoko izobraženi (62%), dijaki in študenti (59%), levo usmerjeni (69%), prebivalci Ljubljane in Maribora ter večjih mest (56%, 57%), respondenti, ki so bo zadnjih volitvah glasovali za SD (79%), Zares (76%), preferenti SD (86%), itd. Največ nepodpornikov vlade B. Pahorja pa je med samozaposlenimi in poklicno izobraženimi (44%), desno opredeljenimi (40%), preferenti SNS (56%), SDS (50%) itd.</p>
+    <p xml:id="pb17.p6" xml:lang="sl">Kasnejša analiza bo podrobneje pokazala na dejavnike, ki prispevajo k izražanju podpore oz. nepodpore. Za drugo polovico mandata vlade J. Janše pa seveda velja, da je le-ta uplahnila zaradi vse bolj zaostrenih kritik razmer v socialnem, gospodarskem in političnem razvoju Slovenije (korupcija, slabšanje položaja zaposlenih, razmere na področju zdravstva, urejanje odnosov s Hrvaško itd.).</p>
+  </page>
+  <page xml:id="pb18" n="18" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=18">
+    <p xml:id="pb18.p1" xml:lang="sl">Strankarska in (po)volilna opredeljevanja Levo-desno samoopredeljevanje</p>
+    <p xml:id="pb18.p2" xml:lang="sl">Stanje v levo-desnem samoopredeljevanju anketiranih oseb ilustrirata grafa 22 in 23. Zadnje meritve, od predsedniških volitev do danes, nakazujejo vzgib v smeri levega samoopredeljevanja.</p>
+    <p xml:id="pb18.p3" xml:lang="sl">To ilustrirajo kratkoročne primerjave (april-december, graf 22), pa tudi dolgoročne primerjave (graf 23). V vsem obdobju opazovanja te spremenljivke se pokaže, da je levo-desno samoopredeljevanje izdatnejše, kar se kaže v povečevanem deležu levo samoopredeljenih in konstantnem oz. rahlo zmanjšanem deležu desno samoopredeljenih. Iz tega okvira pa izstopa levo-desno opredeljevanje v začetnem obdobju mandata vlade J. Janše, kjer delež levo opredeljenih vidneje usiha.</p>
+    <p xml:id="pb18.p4" xml:lang="sl">Graf 22</p>
+    <p xml:id="pb18.p5" xml:lang="sl">LEVO-DESNO SAMOOPREDELJEVANJE</p>
+    <p xml:id="pb18.p6" xml:lang="sl">LEVO SREDINA DESNO brez odgovora</p>
+    <p xml:id="pb18.p7" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb18.p8" xml:lang="sl">P o lit b a ro m e te r,</p>
+    <p xml:id="pb18.p9" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb18.p10" xml:lang="en">N</p>
+    <p xml:id="pb18.p11" xml:lang="sl">APR JUN DEC</p>
+  </page>
+  <page xml:id="pb19" n="19" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=19">
+    <p xml:id="pb19.p1" xml:lang="sl">LEVO-DESNO SAMOOPREDELJEVANJE</p>
+    <p xml:id="pb19.p2" xml:lang="sl">LEVO DESNO DZ PR</p>
+    <p xml:id="pb19.p3" xml:lang="sl">CJMMK, Politbarometer, 1996 - 2008</p>
+    <p xml:id="pb19.p4" xml:lang="sl">DZ DZ PR DZ</p>
+    <p xml:id="pb19.p5" xml:lang="sl">Analiza rezultatov aktualne meritve pokaže, da se kot desni bolj pogosteje kot v povprečju (19%) izrekajo respondenti iz naslednjih skupin: najmlajši (do 30 let: 24%), poklicno in srednje šolani (21%), dijaki in študentje (22%), brezposelni (30%), verni (26%), še posebej pa preferenti SDS (50%) ter NSI (49%) in SLS (43%). Bolj levo kot v povprečju pa se opredeljujejo višje in visoko izobraženi (58%), zaposleni v negospodarstvu in samozaposleni (46%), študentje, dijaki (35%), prebivalci Ljubljane in Maribora (39%), neverni (52%), podporniki vlade B. Pahorja (43%) ter preferenti stranke Zares (76%!), LDS (58%), SD (48%) itd. Pri tem je zanimivo predvsem razkritje, da se preferenti Zares skoraj izključno opredeljujejo kot levi in med njimi desno opredeljenih ni (2%), med preferenti SD je, poleg levo opredeljenih (48%), še značilen delež sredinsko ter velik delež neopredeljenih (24%); desno opredeljenih pa je 7%.</p>
+    <p xml:id="pb19.p6" xml:lang="sl">Bi šli naslednjo nedeljo na volitve? In koga bi volili?</p>
+    <p xml:id="pb19.p7" xml:lang="sl">Gre za projektivni vprašanji, ki kažeta na državljanski oz. politični aktivizem. Graf 24 ilustrira »pravilnosti« v izražanju pripravljenosti udeležbe na volitvah. Pripravljenost narašča ali upada skladno z volilnimi cikli v DZ in za PR.</p>
+    <p xml:id="pb19.p8" xml:lang="sl">Graf 24</p>
+    <p xml:id="pb19.p9" xml:lang="sl">ČE BI BILE NASLEDNJO NEDELJO VOLITVE V DRŽAVNI ZBOR,</p>
+    <p xml:id="pb19.p10" xml:lang="sl">ALI BI VI ŠLI ALI NE BI ŠLI NA VOLITVE?</p>
+    <p xml:id="pb19.p11" xml:lang="sl">DA NE DZ PR</p>
+    <p xml:id="pb19.p12" xml:lang="sl">CJMMK, Politbarometer, 1996 - 2008</p>
+    <p xml:id="pb19.p13" xml:lang="sl">DZ DZ PR DZ</p>
+  </page>
+  <page xml:id="pb20" n="20" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=20">
+    <p xml:id="pb20.p1" xml:lang="sl">Odgovori na vprašanje, koga (katero stranko) bi volili, so prikazani v grafu 25. Opazno je naraščanje deleža strankarsko opredeljenih (april: 61%, junij: 64%, december: 74%), kar se predvsem pokaže v izrazitem povečevanju deleža izbir za SD (iz 19% na 30%) in stranke Zares (april: 6%, junij: 5%, december: 8%). Prikaz v grafu 25 zajame le skupino »tistih, ki bi šli na volitve«. Medčasovna primerjava pokaže tudi močno povečan delež opredeljenih (iz 61% aprila na 74% decembra) in neznačilna gibanja v tej časovni primerjavi za stranke DESUS, LDS, NSI, SLS, SNS, pa tudi SDS. Strukturni pregled pokaže, da se strankarsko najbolj (76%) opredelijo najmlajši, najmanj (30%) pa respondenti od 31 do 45 let. Glede na izobrazbo se strankarsko najbolj opredelijo višje in visoko izobraženi (77%), najmanj pa le z osnovno šolo (68%). Med kategorijami oz. skupinami, ki se najmanj opredeljujejo, so tudi samozaposleni (58%), dijaki in študenti (65%) itd.</p>
+    <p xml:id="pb20.p2" xml:lang="sl">Pregled pokaže, da se kot »volivci« za SD močneje kot v povprečju opredeljujejo najmlajši (do 30 let: 38%), le z osnovno šolo (33%), iz negospodarstva (33%), respondenti iz večjih mest (37%), neverni (40%) in levo opredeljeni (42%). Med levo opredeljenimi najdemo sicer največ »volivcev« SD (42%), sledi pa Zares z visokim deležem (19%). To kaže, da je med volivci Zares relativno največ levo opredeljenih volivcev. Podobna povezava se pokaže tudi pri desno opredeljenih: med njimi je največ »volivcev« SDS (47%). sledi pa SNS (9%).</p>
+    <p xml:id="pb20.p3" xml:lang="sl">Graf 25</p>
+    <p xml:id="pb20.p4" xml:lang="sl">KOGA BI VOLILI?</p>
+    <p xml:id="pb20.p5" xml:lang="sl">(tisti, ki bi šli na volitve) 3 4 3 18 1 5</p>
+    <p xml:id="pb20.p6" xml:lang="sl">DESUS LDS NSI SDS SLS SNS SD ZARES LIPA drugo ne vem, b.o.</p>
+    <p xml:id="pb20.p7" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb20.p8" xml:lang="sl">P o lit b a ro m e te r,</p>
+    <p xml:id="pb20.p9" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb20.p10" xml:lang="sl">APR (n=535) JUN (n=547) DEC (n=701)</p>
+    <p xml:id="pb20.p11" xml:lang="sl">Potek volilnega odločanja in zadovoljstvo z izidom volitev</p>
+    <p xml:id="pb20.p12" xml:lang="sl">Udeležence volitev, ki so navedli stranko, za katero so volili, smo povprašali, kdaj so se odločili, da bodo volili to stranko. Graf 26 pokaže, da je četrtina vseh volivcev odločitev glede izbrane stranke oblikovala v zadnjem mesecu oz. v zadnjih dneh. Očitno je, da je intenzivnost volilne kampanje prispevala h končnim volilnim odločitvam. Pokaže pa se tudi, da je bil daleč največji del volivcev (60%) že dalj časa vnaprej odločen glede svoje izbrane stranke.</p>
+  </page>
+  <page xml:id="pb21" n="21" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=21">
+    <p xml:id="pb21.p1" xml:lang="sl">KDAJ STE SE ODLOČILI, DA BOSTE VOLILI TO STRANKO?</p>
+    <p xml:id="pb21.p2" xml:lang="sl">(odgovarjajo tisti, ki so navedli stranko; n=598) 13 12 13 60 1 0</p>
+    <p xml:id="pb21.p3" xml:lang="sl">V ZADNJIH DNEH V ZADNJEM MESECU</p>
+    <p xml:id="pb21.p4" xml:lang="sl">OD ZAČETKA</p>
+    <p xml:id="pb21.p5" xml:lang="sl">LETOŠNJEGA LETA ŽE DALJ ČASA SEM ODLOČEN ne vem, b.o</p>
+    <p xml:id="pb21.p6" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb21.p7" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb21.p8" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb21.p9" xml:lang="sl">Analiza pokaže, da se delež vnaprej odločenih spreminja glede na starost. Tako je med najstarejšimi (61 let in več) bilo glede volilne izbire »od začetka leta ali že dlje« odločenih kar 79% vseh. Med najmlajšimi (do 30 let) pa je bilo takih le 59%, bistveno več pa se jih je o volilni izbiri odločalo v zadnjih dneh (19%) oz. v zadnjem mesecu (23%). Očitno je, da je najmlajši del volilnega telesa bil najbolj izpostavljen vplivom volilne kampanje. Pregled tudi pokaže, da ima SDS največ (80%) vnaprej odločenih volivcev, medtem ko jih ima SD nekaj manj (65%), Zares pa značilno manj (38%). Med preferenti Zares je daleč največ tistih, ki so se glede izbire odločali v zadnjih dneh (18%) oz. v zadnjem mesecu (30%).</p>
+    <p xml:id="pb21.p10" xml:lang="sl">Graf 27 ilustrira »zadovoljstvo z izidom volitev«. Skladno s pričakovanjem so tri petine (59%) vseh vprašanih zadovoljni z izidom volitev, dobra tretjina (34%) pa nezadovoljnih.</p>
+    <p xml:id="pb21.p11" xml:lang="sl">Graf 27</p>
+    <p xml:id="pb21.p12" xml:lang="sl">ALI STE VI OSEBNO Z IZIDOM VOLITEV ZADOVOLJNI?</p>
+    <p xml:id="pb21.p13" xml:lang="sl">100 zadovoljen ni zadovoljen ne vem, b.o</p>
+    <p xml:id="pb21.p14" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb21.p15" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb21.p16" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb21.p17" xml:lang="en">N</p>
+  </page>
+  <page xml:id="pb22" n="22" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=22">
+    <p xml:id="pb22.p1" xml:lang="sl">Skladno z pričakovanji je seveda daleč več zadovoljnih z izidom volitev med preferenti SD (91%), Zares (85%), LDS (70%), DESUS (65%) in po drugi strani, daleč več nezadovoljnih med preferenti SDS (71%), SNS (72%) itd. Strankarska vezanost v osnovi določa zadovoljstvo z izidom. Ne kaže pa zanemariti dejstva, da so daleč bolj zadovoljni z izidom preferenti z najmanj srednjo (64%) oz. višjo in visoko izobrazbo (70%), pa tudi upokojenci (64%) in študenti, dijaki (67%), kar je mogoče pojasniti tudi z njihovim boljšim poznavanjem in razumevanjem demokratičnega bistva volitev.</p>
+    <p xml:id="pb22.p2" xml:lang="sl">Strankarske preference</p>
+    <p xml:id="pb22.p3" xml:lang="sl">Odgovore »volil bi« in »najbližja mi je« smo strnili v indeks strankarskih preferenc (graf 28).</p>
+    <p xml:id="pb22.p4" xml:lang="sl">Decembrska meritev pokaže, da se rezultati volitev v DZ na preferenčni ravni izostrijo. Predvsem se okrepi preferenčna pozicija SD, ki doseže več kot tretjino (37%) vseh opredeljenih, dalje, močno se okrepi pozicija Zares (13%), medtem ko SDS ohrani preferenčno podporo na ravni predhodnih meritev (25%) in blizu ravni volilnega rezultata, preostale stranke poslabšajo svoj preferenčni položaj v primerjavi z volilnim rezultatom (DESUS, LDS, NSI), ali pa ga potrdijo (SLS, SNS).</p>
+    <p xml:id="pb22.p5" xml:lang="sl">Predvsem je očitno, da se zmagovalka volitev preferenčno močno okrepi. Primerjave umestitev SDS kot zmagovite stranke na volitvah 2004 pa vendarle pokažejo, da povolilno izražanje preferenc za SD ne doseže enakega vzpona, kot smo ga izmerili leta 2004. K temu pa lahko dodamo, da je v volilni situaciji in v povolilnem preferenčnem opredeljevanju močno udeležena stranka Zares, poleg nje pa še stranki DESUS in LDS, kar se je po volitvah izrazilo v povezavi v t. i. levo koalicijo.</p>
+    <p xml:id="pb22.p6" xml:lang="sl">Analiza pokaže na značilnosti in sestav preferenčnih skupin posameznih strank oz. skupine preferenčno neopredeljenih. Za slednjo skupino (neopredeljene) velja, da so v njej bolj zastopani respondenti iz skupine 31 do 45 let (35%), le z osnovno šolo (36%), samozaposleni (56%), s podeželja (31%), sredinsko opredeljeni (33%), pa tudi nepodporniki vlade (38%) itd. V skupini preferentov SD so v večji meri kot v povprečju (26%) udeleženi najstarejši (30%), višje in visoko izobraženi (30%), dijaki, študenti (30%), upokojenci (29%), respondenti iz Ljubljane in Maribora (31%), levo opredeljeni (39%), podporniki vlade B. Pahorja (44%) itd. Skupino preferentov SD (17%) pa v večji meri kot v povprečju sestavljajo respondenti srednjih starostnih kategorij (41 do 45 let: 22%), poklicno in srednje izobraženi (21%), brezposelni (25%), desno opredeljeni (46%) itd.</p>
+    <p xml:id="pb22.p7" xml:lang="sl">Značilnosti skupine preferentov stranke Zares pa so: nadpovprečno (9%) visoka udeležba višje in visoko izobraženih (20%), samozaposlenih (13%), študentov, dijakov (14%), prebivalcev Ljubljane in Maribora (17%), nevernih (18%) in levo opredeljenih (22%).</p>
+    <p xml:id="pb22.p8" xml:lang="sl">Očitno je, da je tekma med SD in SDS za položaj stranke relativne večine ob volitvah v Državni zbor s preferenčnim opredeljevanjem po volitvah presežena.</p>
+  </page>
+  <page xml:id="pb23" n="23" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=23">
+    <p xml:id="pb23.p1" xml:lang="sl">STRANKARSKE PREFERENCE</p>
+    <p xml:id="pb23.p2" xml:lang="sl">(bi volil + najbližja stranka) 3 6 2</p>
+    <p xml:id="pb23.p3" xml:lang="sl">DESUS LDS NSI SDS SLS SNS ZLSD/SD ZARES LIPA drugo ne vem, b.o.</p>
+    <p xml:id="pb23.p4" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb23.p5" xml:lang="sl">P o lit b a ro m e te r,</p>
+    <p xml:id="pb23.p6" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb23.p7" xml:lang="sl">APR (N=813) JUN (N=804) DEC (N=944)</p>
+    <p xml:id="pb23.p8" xml:lang="sl">Graf 28 prikazuje preferenčno opredeljevanje in neopredeljenost vseh raziskovancev. Tudi tu se jasno izrazi vse, kar je pokazal neto prikaz: naraščanje deleža opredeljenih v preseku april– december, izrazito naraščanje deležev preferentov SD in manj izrazito naraščanje deleža preferentov Zares ter stabilen visok položaj SDS itd.</p>
+    <p xml:id="pb23.p9" xml:lang="sl">Gibanja v strankarskem opredeljevanju ilustrirata grafa 29 in 30. Volilni rezultati in preferenčne opredelitve v decembru pritrjujejo domnevi, da je h končni opredelitvi pomembno prispevala nova stranka Zares, kar se pokaže v umestitvi t. i. levega trojčka in možnosti oblikovanja koalicije.</p>
+    <p xml:id="pb23.p10" xml:lang="sl">Graf 29 0</p>
+    <p xml:id="pb23.p11" xml:lang="en">C J M M K</p>
+    <p xml:id="pb23.p12" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb23.p13" xml:lang="sl">-2 0 0 ne vem DESUS LDS NSI SLS SNS SDS ZLSD/SD ZARES drugo 10 20 30 40 50 60</p>
+  </page>
+  <page xml:id="pb24" n="24" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=24">
+    <p xml:id="pb24.p1" xml:lang="en">C J M M K</p>
+    <p xml:id="pb24.p2" xml:lang="sl">P o lit b a ro m e te r,</p>
+    <p xml:id="pb24.p3" xml:lang="sl">-2 0 0 8 ne vem DESUS LDS NSI SLS SNS SDS ZLSD/SD ZARES drugo</p>
+    <p xml:id="pb24.p4" xml:lang="sl">DZ DZ PRDZPR DZ</p>
+  </page>
+  <page xml:id="pb25" n="25" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=25">
+    <p xml:id="pb25.p1" xml:lang="sl">Izbrani aktualni problemi »Neimenovanja ambasadorjev«</p>
+    <p xml:id="pb25.p2" xml:lang="sl">Na vprašanje, kako ocenjujejo odločitev predsednika republike D. Türka, da zadrži imenovanje kandidatov za veleposlanike, je značilna večina (60%) izrekla odobravanje in dobra četrtina (26%) neodobravanje takega ravnanja.</p>
+    <p xml:id="pb25.p3" xml:lang="sl">Graf 31</p>
+    <p xml:id="pb25.p4" xml:lang="sl">KAKO OCENJUJETE ODLOČITEV PREDSEDNIKA D. TURKA, DA ZADRŽI IMENOVANJE NEKATERIH KANDIDATOV ZA VELEPOSLANIKE? ALI TO...</p>
+    <p xml:id="pb25.p5" xml:lang="sl">ODOBRAVATE NE ODOBRAVATE ne vem, b.o.</p>
+    <p xml:id="pb25.p6" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb25.p7" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb25.p8" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb25.p9" xml:lang="en">N</p>
+    <p xml:id="pb25.p10" xml:lang="sl">Med tistimi, ki v večji meri odobravajo odločitev predsednika republike, izstopajo preferenti Zares (96%), SD (76%), LDS (73%) ter višje in visok izobraženi (74%) in levo opredeljeni (87%) itd.</p>
+    <p xml:id="pb25.p11" xml:lang="sl">Največ neodobravanja pa je ta ukrep deležen pri preferentih SDS (55%), desno opredeljenih (47%) itd.</p>
+  </page>
+  <page xml:id="pb26" n="26" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=26">
+    <p xml:id="pb26.p1" xml:lang="sl">»D. Rupel posebni odposlanec«</p>
+    <p xml:id="pb26.p2" xml:lang="sl">Odločitev predsednika vlade B. Pahorja, ki je imenoval D. Rupla za posebnega odposlanca, je v decembrski meritvi PB naletela na izrazito odklonilno stališče. Tega imenovanja ne odobrava 68% vseh in odobrava le 24% vseh vprašanih. Na izrazito neodobravanje ta odločitev naleti med preferenti stranke Zares (90%), SD (73%), DESUS (83%), LDS (78%), večinsko pa tudi med preferenti SDS (58%!) itd. Nekaj več odobravanja tega ukrepa opazimo med preferenti SDS (37%), med vernimi (28%), desno samoopredeljenimi (31%) itd.</p>
+    <p xml:id="pb26.p3" xml:lang="sl">Graf 32</p>
+    <p xml:id="pb26.p4" xml:lang="sl">KAKO OCENJUJETE ODLOČITEV PREDSEDNIKA VLADE B. PAHORJA, DA IMENUJE D. RUPLA KOT POSEBNEGA ODPOSLANCA ZA ZUNANJE ZADEVE? ALI TO...</p>
+    <p xml:id="pb26.p5" xml:lang="sl">ODOBRAVATE NE ODOBRAVATE ne vem, b.o.</p>
+    <p xml:id="pb26.p6" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb26.p7" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb26.p8" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb26.p9" xml:lang="en">N</p>
+    <p xml:id="pb26.p10" xml:lang="sl">»Blejski otok v najem RKC«</p>
+    <p xml:id="pb26.p11" xml:lang="sl">Odločitev bivšega ministra Simonitija, da odda Blejski otok cerkvi, je naletela na visoko neodobravanje (69%) – graf 33. Ta ukrep odobrava 17% vprašanih; med njimi izstopajo verni (24%), preferenti SDS (36%), respondenti s podeželja (24%), sredinsko (26%) in desno opredeljeni (23%) itd.</p>
+    <p xml:id="pb26.p12" xml:lang="sl">Graf 33</p>
+    <p xml:id="pb26.p13" xml:lang="sl">KAKO OCENJUJETE ODLOČITEV BIVŠEGA MINISTRA SIMONITIJA, DA ODDA BLEJSKI OTOK V NAJEM CERKVI? ALI TO...</p>
+    <p xml:id="pb26.p14" xml:lang="sl">ODOBRAVATE NE ODOBRAVATE ne vem, b.o.</p>
+    <p xml:id="pb26.p15" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb26.p16" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb26.p17" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb26.p18" xml:lang="en">N</p>
+  </page>
+  <page xml:id="pb27" n="27" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=27">
+    <p xml:id="pb27.p1" xml:lang="sl">»Nova univerza«</p>
+    <p xml:id="pb27.p2" xml:lang="sl">Povprašali smo tudi o odločitvi bivše ministrice Kucler-Dolinar, ki je dopustila vpis nove, t. i.</p>
+    <p xml:id="pb27.p3" xml:lang="sl">Jambrekove univerze (graf 34) Ob tem se pokaže predvsem večja neorientiranost in neinformiranost respondentov, saj ostaja dobra tretjina respondentov (35%) neopredeljenih. Ukrep ministrice odobrava 24% in ne odobrava 41% vprašanih. Z visokim deležem neodobravanja izstopajo višje in visoko izobraženi (60%), respondenti s področja negospodarstva (57%), neverni (62%), preferenti Zares (70%) itd. Tudi med preferenti SDS neodobravanje (40%) presega delež odobravanja (30%) itd.</p>
+    <p xml:id="pb27.p4" xml:lang="sl">Graf 34</p>
+    <p xml:id="pb27.p5" xml:lang="sl">ALI ODOBRAVATE ODLOČITEV BIVŠE MINISTRICE M. KUCLER DOLINAR, DA PODPRE USTANOVITEV NOVE T.I. JAMBREKOVE UNIVERZE?</p>
+    <p xml:id="pb27.p6" xml:lang="sl">ODOBRAVATE NE ODOBRAVATE ne vem, b.o.</p>
+    <p xml:id="pb27.p7" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb27.p8" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb27.p9" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb27.p10" xml:lang="en">N</p>
+    <p xml:id="pb27.p11" xml:lang="sl">»Vpliv krize na ravnanje z denarjem«</p>
+    <p xml:id="pb27.p12" xml:lang="sl">Ali bližajoča se finančna in gospodarska kriza vpliva na osebno ravnanje z denarjem, pokažejo odgovori, prikazani v grafu 35. Velika večina vseh navaja, da bo kriza vplivala na način njihovega gospodarjenja z denarjem.</p>
+    <p xml:id="pb27.p13" xml:lang="sl">Graf 35</p>
+    <p xml:id="pb27.p14" xml:lang="sl">V ZADNJEM ČASU JE PRECEJ GOVORA O SVETOVNI GOSPODARSKI IN FINANČNI KRIZI. ALI BO TO KAJ VPLIVALO NA VAŠE RAVNANJE Z DENARJEM?</p>
+    <p xml:id="pb27.p15" xml:lang="sl">BO VPLIVALO NE BO PREVEČ VPLIVALO ne vem, b.o.</p>
+    <p xml:id="pb27.p16" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb27.p17" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb27.p18" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb27.p19" xml:lang="en">N</p>
+  </page>
+  <page xml:id="pb28" n="28" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=28">
+    <p xml:id="pb28.p1" xml:lang="sl">»Izbrisani«</p>
+    <p xml:id="pb28.p2" xml:lang="sl">Končno smo postavili še vprašanje o tem, ali je vlada dolžna upoštevati odločbo Ustavnega sodišča pri ureditvi položaja t. i. izbrisanih. V grafu 36 so prikazani rezultati treh meritev v letih 2006– 2008. Potrdi se, da je v tem časovnem obdobju polovica vseh vprašanih (od 48% do 55%) pritrdila, da je vlada dolžna upoštevati odločitev ustavnega sodišča, dobra četrtina vseh (od 23% do 28%) pa, da ni dolžna. Med tistimi, ki zavračajo odločitev ustavnega sodišča, močno izstopajo preferenti SNS (67%). Med preferenti SDS pritrjevanje (41%) ustavnemu sodišču preseže (39%) odklanjanje. Da je vlada ta problem dolžna urediti skladno z odločbo Ustavnega sodišča, v veliki večini poudarjajo višje in visoko izobraženi (70%), najmlajši (59%), študentje, dijaki (65%), preferenti Zares (71%) in SD (58%) itd, itd.</p>
+    <p xml:id="pb28.p3" xml:lang="sl">Graf 36</p>
+    <p xml:id="pb28.p4" xml:lang="sl">USTAVNO SODIŠČE JE ŽE PRED LETI SPREMENILO ODLOČBO O UREDITVI POLOŽAJA T.I. IZBRISANIH. ALI JE SLOVENSKA VLADA OB TEM VPRAŠANJU DOLŽNA UPOŠTEVATI ODLOČBO UST. SODIŠČA, ALI NE?</p>
+    <p xml:id="pb28.p5" xml:lang="sl">100 da, dolžna ne, ni dolžna ne vem, b.o.</p>
+    <p xml:id="pb28.p6" xml:lang="sl">C J M M K</p>
+    <p xml:id="pb28.p7" xml:lang="sl">P o li tb a ro m e te r,</p>
+    <p xml:id="pb28.p8" xml:lang="sl">d e c e m b e r 2 0 0 8</p>
+    <p xml:id="pb28.p9" xml:lang="en">N</p>
+    <p xml:id="pb28.p10" xml:lang="sl">2006 JAN 2007 DEC 2008 DEC</p>
+  </page>
+  <page xml:id="pb29" n="29" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=29">
+    <p xml:id="pb29.p1" xml:lang="sl">Priloga 1:</p>
+    <p xml:id="pb29.p2" xml:lang="sl">Gibanje preferenc v obdobju 2001–2008 – Strnjen prikaz za levosredinske in desno-sredinske stranke</p>
+    <p xml:id="pb29.p3" xml:lang="sl">Potek preferenčnega opredeljevanja je v strnjenem prikazu za levo-sredinske in desno-sredinske stranke podan za obdobje 2001–2008. Najprej je podan skupen prikaz preferenčnih opredeljevanj, nato za levo oz. desno-sredinske stranke, v nadaljevanju pa sledi serija prikazov za LDS in SD oz. od novembra 2006 dalje za SD in SDS.</p>
+    <p xml:id="pb29.p4" xml:lang="sl">V drugem delu tabelarnega gradiva so strnjeni prikazi preferentov za levo-sredinske in desnosredinske stranke ter neopredeljene glede na spol, starost, izobrazbo, kraj bivanja, vernost, levodesno samoopredeljenost respondentov ter regionalno pripadnost, vselej v časovnem zaporedju 2001–2008.</p>
+    <p xml:id="pb29.p5" xml:lang="sl">Graf 1</p>
+    <p xml:id="pb29.p6" xml:lang="sl">STRANKARSKE PREFERENCE V LETIH PB 2001-2008</p>
+    <p xml:id="pb29.p7" xml:lang="sl">DESUS LDS NSI SLS SNS SDS ZLSD/SD ZARES drugo neopredeljeni</p>
+    <p xml:id="pb29.p8" xml:lang="en">2001 2002 2003 2004 2005 jan-jun 2005 sep-dec 2006 jan-jun 2006 sep-nov 2007 2008 feb-jun 2008 dec 10</p>
+    <p xml:id="pb29.p9" xml:lang="sl">Graf 2</p>
+    <p xml:id="pb29.p10" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001-2008</p>
+    <p xml:id="pb29.p11" xml:lang="sl">10 20 30 40 leve (LDS, SD, DESUS in ZARES) desne (SDS, NSI in SLS) druge stranke neopredeljeni 2001 2002 2003 2004 2005 jan-jun 2005 sep-dec 2006 jan-jun 2006 sep-nov 2007 2008 feb-jun 2008 dec</p>
+  </page>
+  <page xml:id="pb30" n="30" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=30">
+    <p xml:id="pb30.p1" xml:lang="sl">PREFERENTI LDS/SD, SDS IN NEOPREDELJENI januar 2001 - december 2008</p>
+    <p xml:id="pb30.p2" xml:lang="sl">(do vključno novembra 2006 so prikazani deleži za LDS) 0</p>
+    <p xml:id="pb30.p3" xml:lang="sl">4 6 12 ne vem LDS / SD SDS Graf 4</p>
+    <p xml:id="pb30.p4" xml:lang="sl">GIBANJE LEVO IN DESNO SREDINSKIH STRANK V OBDOBJU JANUAR 2004 - DECEMBER 2008</p>
+    <p xml:id="pb30.p5" xml:lang="sl">2004 feb mar apr maj jun avg sep okt nov dec 2005 feb mar apr maj jun sep okt nov dec 2006 mar apr jun sep nov 2007 mar jun sep dec 2008 feb apr jun dec leve (LDS, SD, DESUS in ZARES) desne (SDS, NSI in SLS) druge stranke neopredeljeni Graf 5</p>
+    <p xml:id="pb30.p6" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA SPOL</p>
+    <p xml:id="pb30.p7" xml:lang="en">ja n</p>
+    <p xml:id="pb30.p8" xml:lang="en">-j u n 2 0 0 5</p>
+    <p xml:id="pb30.p9" xml:lang="en">s e p</p>
+    <p xml:id="pb30.p10" xml:lang="en">-d e c 2 0 0 6</p>
+    <p xml:id="pb30.p11" xml:lang="en">ja n</p>
+    <p xml:id="pb30.p12" xml:lang="en">-j u n 2 0 0 6</p>
+    <p xml:id="pb30.p13" xml:lang="sl">s e p</p>
+    <p xml:id="pb30.p14" xml:lang="sl">-n o v 2 0 0 7 2 0 0 8</p>
+    <p xml:id="pb30.p15" xml:lang="sl">fe b</p>
+    <p xml:id="pb30.p16" xml:lang="sl">-j u n 2 0 0 8</p>
+    <p xml:id="pb30.p17" xml:lang="sl">d e c 2 0 0 1 2 0 0 2 2 0 0 3 2 0 0 4 2 0 0 5</p>
+    <p xml:id="pb30.p18" xml:lang="sl">ja n</p>
+    <p xml:id="pb30.p19" xml:lang="sl">-j u n 2 0 0 5</p>
+    <p xml:id="pb30.p20" xml:lang="sl">s e p</p>
+    <p xml:id="pb30.p21" xml:lang="sl">-d e c 2 0 0 6</p>
+    <p xml:id="pb30.p22" xml:lang="sl">ja n</p>
+    <p xml:id="pb30.p23" xml:lang="sl">-j u n 2 0 0 6</p>
+    <p xml:id="pb30.p24" xml:lang="sl">s e p</p>
+    <p xml:id="pb30.p25" xml:lang="sl">-n o v 2 0 0 7 2 0 0 8</p>
+    <p xml:id="pb30.p26" xml:lang="sl">fe b</p>
+    <p xml:id="pb30.p27" xml:lang="sl">-j u n 2 0 0 8</p>
+    <p xml:id="pb30.p28" xml:lang="sl">d e c m oški ženske neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb31" n="31" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=31">
+    <p xml:id="pb31.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA STAROSTNE KATEGORIJE</p>
+    <p xml:id="pb31.p2" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p3" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p4" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p5" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p6" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p7" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p8" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p9" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb31.p10" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p11" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p12" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p13" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p14" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p15" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p16" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p17" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb31.p18" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p19" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p20" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p21" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p22" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p23" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p24" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p25" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb31.p26" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p27" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p28" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p29" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p30" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p31" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p32" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p33" xml:lang="sl">d ec do 30 let od 31 do 45 let od 46 do 60 let 61 let in več neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 7</p>
+    <p xml:id="pb31.p34" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA IZOBRAZBENE KATEGORIJE</p>
+    <p xml:id="pb31.p35" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p36" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p37" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p38" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p39" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p40" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p41" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p42" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb31.p43" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p44" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p45" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p46" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p47" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p48" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p49" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p50" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb31.p51" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p52" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p53" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p54" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p55" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p56" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p57" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p58" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb31.p59" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p60" xml:lang="en">s ep</p>
+    <p xml:id="pb31.p61" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb31.p62" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb31.p63" xml:lang="sl">s ep</p>
+    <p xml:id="pb31.p64" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb31.p65" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb31.p66" xml:lang="sl">d ec osnovna poklicna srednja višja,visoka neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb32" n="32" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=32">
+    <p xml:id="pb32.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA KRAJ BIVANJA</p>
+    <p xml:id="pb32.p2" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p3" xml:lang="en">s ep</p>
+    <p xml:id="pb32.p4" xml:lang="en">-d e c</p>
+    <p xml:id="pb32.p5" xml:lang="sl">ja nju n 2</p>
+    <p xml:id="pb32.p6" xml:lang="sl">00 6 se pno v</p>
+    <p xml:id="pb32.p7" xml:lang="en">f eb</p>
+    <p xml:id="pb32.p8" xml:lang="en">-ju n</p>
+    <p xml:id="pb32.p9" xml:lang="en">d e c</p>
+    <p xml:id="pb32.p10" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p11" xml:lang="en">s ep</p>
+    <p xml:id="pb32.p12" xml:lang="en">-d e c</p>
+    <p xml:id="pb32.p13" xml:lang="sl">ja nju n 2</p>
+    <p xml:id="pb32.p14" xml:lang="sl">00 6 se pno v</p>
+    <p xml:id="pb32.p15" xml:lang="en">f eb</p>
+    <p xml:id="pb32.p16" xml:lang="en">-ju n</p>
+    <p xml:id="pb32.p17" xml:lang="en">d e c</p>
+    <p xml:id="pb32.p18" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p19" xml:lang="en">s ep</p>
+    <p xml:id="pb32.p20" xml:lang="en">-d e c</p>
+    <p xml:id="pb32.p21" xml:lang="sl">ja nju n 2</p>
+    <p xml:id="pb32.p22" xml:lang="sl">00 6 se pno v</p>
+    <p xml:id="pb32.p23" xml:lang="en">f eb</p>
+    <p xml:id="pb32.p24" xml:lang="en">-ju n</p>
+    <p xml:id="pb32.p25" xml:lang="en">d e c</p>
+    <p xml:id="pb32.p26" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p27" xml:lang="en">s ep</p>
+    <p xml:id="pb32.p28" xml:lang="en">-d e c</p>
+    <p xml:id="pb32.p29" xml:lang="sl">ja nju n 2</p>
+    <p xml:id="pb32.p30" xml:lang="sl">00 6 se pno v</p>
+    <p xml:id="pb32.p31" xml:lang="en">f eb</p>
+    <p xml:id="pb32.p32" xml:lang="en">-ju n</p>
+    <p xml:id="pb32.p33" xml:lang="sl">d e c podeželje manjši kraj večje mesto LJ, MB neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 9</p>
+    <p xml:id="pb32.p34" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA VERNOST</p>
+    <p xml:id="pb32.p35" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p36" xml:lang="en">s ep</p>
+    <p xml:id="pb32.p37" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb32.p38" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p39" xml:lang="sl">s ep</p>
+    <p xml:id="pb32.p40" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb32.p41" xml:lang="sl">f eb</p>
+    <p xml:id="pb32.p42" xml:lang="sl">-ju n</p>
+    <p xml:id="pb32.p43" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb32.p44" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p45" xml:lang="en">s ep</p>
+    <p xml:id="pb32.p46" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb32.p47" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p48" xml:lang="sl">s ep</p>
+    <p xml:id="pb32.p49" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb32.p50" xml:lang="sl">f eb</p>
+    <p xml:id="pb32.p51" xml:lang="sl">-ju n</p>
+    <p xml:id="pb32.p52" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb32.p53" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p54" xml:lang="en">s ep</p>
+    <p xml:id="pb32.p55" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb32.p56" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb32.p57" xml:lang="sl">s ep</p>
+    <p xml:id="pb32.p58" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb32.p59" xml:lang="sl">f eb</p>
+    <p xml:id="pb32.p60" xml:lang="sl">-ju n</p>
+    <p xml:id="pb32.p61" xml:lang="sl">d ec sem veren nisem veren nekje vmes neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb33" n="33" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=33">
+    <p xml:id="pb33.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001</p>
+    <p xml:id="pb33.p2" xml:lang="sl">- 2008 GLEDE NA SAMOOPREDELJEVANJE LEVO-DESNO</p>
+    <p xml:id="pb33.p3" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p4" xml:lang="en">s ep</p>
+    <p xml:id="pb33.p5" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb33.p6" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p7" xml:lang="sl">s ep</p>
+    <p xml:id="pb33.p8" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb33.p9" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb33.p10" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb33.p11" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p12" xml:lang="en">s ep</p>
+    <p xml:id="pb33.p13" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb33.p14" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p15" xml:lang="sl">s ep</p>
+    <p xml:id="pb33.p16" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb33.p17" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb33.p18" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb33.p19" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p20" xml:lang="en">s ep</p>
+    <p xml:id="pb33.p21" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb33.p22" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p23" xml:lang="sl">s ep</p>
+    <p xml:id="pb33.p24" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb33.p25" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb33.p26" xml:lang="sl">d ec 20 01 20 02 20 03 20 04 20 05</p>
+    <p xml:id="pb33.p27" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p28" xml:lang="en">s ep</p>
+    <p xml:id="pb33.p29" xml:lang="sl">-d ec 20 06</p>
+    <p xml:id="pb33.p30" xml:lang="sl">ja nju n</p>
+    <p xml:id="pb33.p31" xml:lang="sl">s ep</p>
+    <p xml:id="pb33.p32" xml:lang="sl">-n ov 20 07 20 08</p>
+    <p xml:id="pb33.p33" xml:lang="sl">fe bju n</p>
+    <p xml:id="pb33.p34" xml:lang="sl">d ec prej levo v sredino prej desno b.o. neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 11</p>
+    <p xml:id="pb33.p35" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - POMURSKA REGIJA</p>
+    <p xml:id="pb33.p36" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb33.p37" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb33.p38" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb33.p39" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb33.p40" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb33.p41" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb34" n="34" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=34">
+    <p xml:id="pb34.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - PODRAVSKA REGIJA</p>
+    <p xml:id="pb34.p2" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb34.p3" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb34.p4" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb34.p5" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb34.p6" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb34.p7" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 13</p>
+    <p xml:id="pb34.p8" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - KOROŠKA REGIJA</p>
+    <p xml:id="pb34.p9" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb34.p10" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb34.p11" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb34.p12" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb34.p13" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb34.p14" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb35" n="35" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=35">
+    <p xml:id="pb35.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - SAVINJSKA REGIJA</p>
+    <p xml:id="pb35.p2" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb35.p3" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb35.p4" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb35.p5" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb35.p6" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb35.p7" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 15</p>
+    <p xml:id="pb35.p8" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - GORENJSKA REGIJA</p>
+    <p xml:id="pb35.p9" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb35.p10" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb35.p11" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb35.p12" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb35.p13" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb35.p14" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb36" n="36" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=36">
+    <p xml:id="pb36.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - ZASAVSKA REGIJA</p>
+    <p xml:id="pb36.p2" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb36.p3" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb36.p4" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb36.p5" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb36.p6" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb36.p7" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 17</p>
+    <p xml:id="pb36.p8" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - OSREDNJE-SLOVENSKA REGIJA</p>
+    <p xml:id="pb36.p9" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb36.p10" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb36.p11" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb36.p12" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb36.p13" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb36.p14" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb37" n="37" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=37">
+    <p xml:id="pb37.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - SPOD.-POSAVSKA REGIJA</p>
+    <p xml:id="pb37.p2" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb37.p3" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb37.p4" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb37.p5" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb37.p6" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb37.p7" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 19</p>
+    <p xml:id="pb37.p8" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - DOLENJSKA REGIJA</p>
+    <p xml:id="pb37.p9" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb37.p10" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb37.p11" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb37.p12" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb37.p13" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb37.p14" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb38" n="38" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=38">
+    <p xml:id="pb38.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - GORIŠKA REGIJA</p>
+    <p xml:id="pb38.p2" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb38.p3" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb38.p4" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb38.p5" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb38.p6" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb38.p7" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 21</p>
+    <p xml:id="pb38.p8" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - OBALNO-KRAŠKA REGIJA</p>
+    <p xml:id="pb38.p9" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb38.p10" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb38.p11" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb38.p12" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb38.p13" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb38.p14" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)</p>
+  </page>
+  <page xml:id="pb39" n="39" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=39">
+    <p xml:id="pb39.p1" xml:lang="sl">PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - KRAŠKA REGIJA</p>
+    <p xml:id="pb39.p2" xml:lang="sl">2001 2002 2003 2004 2005 janjun</p>
+    <p xml:id="pb39.p3" xml:lang="sl">2005 sepdec</p>
+    <p xml:id="pb39.p4" xml:lang="sl">2006 janjun</p>
+    <p xml:id="pb39.p5" xml:lang="sl">2006 sepnov</p>
+    <p xml:id="pb39.p6" xml:lang="sl">2007 2008 febjun</p>
+    <p xml:id="pb39.p7" xml:lang="sl">2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 23</p>
+    <p xml:id="pb39.p8" xml:lang="sl">PREFERENTI LDS/SD V LETIH PB 2001-2008 PO SPOLU</p>
+    <p xml:id="pb39.p9" xml:lang="sl">(do vključno novembra 2006 so prikazani deleži za LDS) 0</p>
+    <p xml:id="pb39.p10" xml:lang="sl">4 6 12 m oški ženske Graf 24</p>
+    <p xml:id="pb39.p11" xml:lang="sl">PREFERENTI SDS</p>
+    <p xml:id="pb39.p12" xml:lang="sl">V LETIH PB 2001-2008 PO SPOLU</p>
+    <p xml:id="pb39.p13" xml:lang="sl">6 9 12 2008 4 6 12 m oški ženske</p>
+  </page>
+  <page xml:id="pb40" n="40" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=40">
+    <p xml:id="pb40.p1" xml:lang="sl">NEOPREDELJENI</p>
+    <p xml:id="pb40.p2" xml:lang="sl">V LETIH PB 2001-2008 PO SPOLU</p>
+    <p xml:id="pb40.p3" xml:lang="sl">4 6 12 m oški ženske Graf 26</p>
+    <p xml:id="pb40.p4" xml:lang="sl">PREFERENTI LDS/SD V LETIH PB 2001-2008 PO STAROSTI</p>
+    <p xml:id="pb40.p5" xml:lang="sl">(do vključno novembra 2006 so prikazani deleži za LDS) 0</p>
+    <p xml:id="pb40.p6" xml:lang="sl">4 6 12 do 30 let od 31 do 45 let od 46 do 60 let 61 let in več Graf 27</p>
+    <p xml:id="pb40.p7" xml:lang="sl">PREFERENTI SDS</p>
+    <p xml:id="pb40.p8" xml:lang="sl">V LETIH PB 2001-2008 PO STAROSTI</p>
+    <p xml:id="pb40.p9" xml:lang="sl">4 6 12 do 30 let od 31 do 45 let od 46 do 60 let 61 let in več Graf 28</p>
+    <p xml:id="pb40.p10" xml:lang="sl">NEOPREDELJENI</p>
+    <p xml:id="pb40.p11" xml:lang="sl">V LETIH PB 2001-2008 PO STAROSTI</p>
+    <p xml:id="pb40.p12" xml:lang="sl">6 9 12 2008 4 6 12 do 30 let od 31 do 45 let od 46 do 60 let 61 let in več</p>
+  </page>
+  <page xml:id="pb41" n="41" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=41">
+    <p xml:id="pb41.p1" xml:lang="sl">PREFERENTI LDS/SD V LETIH PB 2001-2008 PO IZOBRAZBENIH KATEGORIJAH</p>
+    <p xml:id="pb41.p2" xml:lang="sl">(do vključno novembra 2006 so prikazani deleži za LDS) 0</p>
+    <p xml:id="pb41.p3" xml:lang="sl">4 6 12 osnovna poklicna srednja višja,visoka Graf 30</p>
+    <p xml:id="pb41.p4" xml:lang="sl">PREFERENTI SDS</p>
+    <p xml:id="pb41.p5" xml:lang="sl">V LETIH PB 2001-2008 PO IZOBRAZBENIH KATEGORIJAH</p>
+    <p xml:id="pb41.p6" xml:lang="sl">4 6 12 osnovna poklicna srednja višja,visoka Graf 31</p>
+    <p xml:id="pb41.p7" xml:lang="sl">NEOPREDELJENI</p>
+    <p xml:id="pb41.p8" xml:lang="sl">V LETIH PB 2001-2008 PO IZOBRAZBENIH KATEGORIJAH</p>
+    <p xml:id="pb41.p9" xml:lang="sl">4 6 12 osnovna poklicna srednja višja,visoka Graf 32</p>
+    <p xml:id="pb41.p10" xml:lang="sl">PREFERENTI LDS/SD V LETIH PB 2001-2008 PO KRAJU BIVANJA</p>
+    <p xml:id="pb41.p11" xml:lang="sl">(do vključno novembra 2006 so prikazani deleži za LDS) 0</p>
+    <p xml:id="pb41.p12" xml:lang="sl">6 9 12 2008 4 6 12 podeželje manjši kraj večje mesto LJ, MB</p>
+  </page>
+  <page xml:id="pb42" n="42" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=42">
+    <p xml:id="pb42.p1" xml:lang="sl">PREFERENTI SDS</p>
+    <p xml:id="pb42.p2" xml:lang="sl">V LETIH PB 2001-2008 PO KRAJU BIVANJA</p>
+    <p xml:id="pb42.p3" xml:lang="sl">4 6 12 podeželje manjši kraj večje mesto LJ, MB Graf 34</p>
+    <p xml:id="pb42.p4" xml:lang="sl">NEOPREDELJENI</p>
+    <p xml:id="pb42.p5" xml:lang="sl">V LETIH PB 2001-2008 PO KRAJU BIVANJA</p>
+    <p xml:id="pb42.p6" xml:lang="sl">6 9 12 2008 4 6 12 podeželje manjši kraj večje mesto LJ, MB Priloga 2:</p>
+  </page>
+  <page xml:id="pb43" n="43" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=43">
+    <p xml:id="pb43.p1" xml:lang="sl">VOLITVE V DRŽAVNI ZBOR LETA 2008</p>
+    <p xml:id="pb43.p2" xml:lang="sl">Primerjave volilnih rezultatov 1992-2008</p>
+    <p xml:id="pb43.p3" xml:lang="sl">V nadaljevanju nanizane beležke temeljijo na pregledu in analizi rezultatov volitev v DZ 2008 v primerjavi z rezultati volitev 1992, 1996, 2000 in 2004. Vir: Državna volilna komisija Republike Slovenije.</p>
+    <p xml:id="pb43.p4" xml:lang="sl">Prva beležka</p>
+    <p xml:id="pb43.p5" xml:lang="sl">V preseku 1992–2008 se postopoma povečuje število volilnih upravičencev (iz 1.491.374 leta 1992 na 1.696.437 leta 2008 - glej graf 1). Volilno telo v preseku 1992–2008 tako naraste za 11,4%, indeks rasti po volilnih obdobjih pa je okoli 3%.</p>
+    <p xml:id="pb43.p6" xml:lang="sl">Rast volilnega telesa ne gre pripisati demografski rasti, temveč predvsem podaljševanju življenjske dobe in deloma tudi še vedno potekajočemu reguliranju (državljanskih) statusov.</p>
+    <p xml:id="pb43.p7" xml:lang="sl">Graf 1</p>
+    <p xml:id="pb43.p8" xml:lang="sl">SLOVENSKO VOLILNO TELO OD 1992 DO 2008 (v tisoč volivcev) 1071 971 1696</p>
+    <p xml:id="pb43.p9" xml:lang="sl">1992 1996 2000 2004 2008 Vir: Državna volilna komisija volilni upravičenci volivci zastopani v parlamentu Druga beležka</p>
+    <p xml:id="pb43.p10" xml:lang="sl">V časovnih presekih 92–96–00–04 je očiten visok upad volilne udeležbe, saj je bila le-ta leta 1992: 85.6%, leta 1996: 73.7%, leta 2000: 70.1% in leta 2004: 60.6%. Volilna udeležba ob volitvah 2008 je narasla na raven 63.10%. Ob najočitnejšem upadu števila udeležencev volitev v preseku 92/96 in 00/04 (ko se delež zmanjša vselej za okoli 10%) pa zaznamo ob volitvah 2008 ponoven značilen dvig volilne udeležbe (glej graf 1).</p>
+  </page>
+  <page xml:id="pb44" n="44" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=44">
+    <p xml:id="pb44.p1" xml:lang="sl">Tretja beležka</p>
+    <p xml:id="pb44.p2" xml:lang="sl">K razumevanju razmer, v katerih poteka volilno odločanje volivk in volivcev, prispeva podatek o deležu neveljavnih glasov ob posameznih volitvah. Višjega ali nižjega deleža neveljavnih glasov ne kaže pripisati zgolj (ne-)seznanjenosti volivcev s pravili glasovanja in preglednosti glasovalnih list, temveč tudi zavestnemu ravnanju dela volivcev, ki tako izrazijo nezadovoljstvo s ponujenimi alternativami. Z visokim deležem neveljavnih glasov izstopijo predvsem volitve leta 1992 (9.98% vseh oddanih glasovnic; glej tabelo 1). Leta 1996 je delež neveljavnih glasovnic še vedno visok in dosega 5.89%, ob nadaljnjih volitvah pa močno upade (na 3.31% leta 2000 in 2.25% leta 2004). Ob zadnjih volitvah delež neveljavnih glasovanj še dodatno upade in doseže vsega 1.74% oddanih glasov. Glede na volilno udeležbo in nizek delež neveljavnih glasov ob zadnjih volitvah lahko sklepamo, da je volilna izbira volivk in volivcev potekala v odprtem in sproščenem predvolilnem razpoloženju. (graf 1) Volivci so bili motivirani k jasnemu izražanju svoje volje.</p>
+    <p xml:id="pb44.p3" xml:lang="sl">Četrta beležka</p>
+    <p xml:id="pb44.p4" xml:lang="sl">Glede na gibanje števila volilnih upravičencev v presekih opazovanih volitev in padajočo volilno udeležbo se sorazmerno spreminja delež glasov, oddanih za politične stranke, ki jim ne uspe vstop v Državni zbor. Delež glasov, oddanih za stranke, ki niso udeležene v delitvi sedežev v DZ dosega leta 1992 16.45% oddanih glasov volivcev, leta 1996: 9.97%, leta 2000 upade na vsega 3.63%, leta 2004 ponovno naraste na 11.46% oddanih glasov, leta 2008 pa zopet delno upade – na 7.65% – kar je značilno nad ravnjo ob volitvah leta 2000.</p>
+    <p xml:id="pb44.p5" xml:lang="sl">To nakazuje potek in dinamiko preoblikovanja strankarskega polja; povečuje se število strank, ki jim po (prvi) umestitvi v Državni zbor ne uspe potrditi parlamentarnega statusa ob naslednjih volitvah. (graf 1) Peta beležka</p>
+    <p xml:id="pb44.p6" xml:lang="sl">Opazovanje gibanja deleža volilnih upravičencev, ki s svojimi glasovi niso sodelovali pri izbiri poslancev, nakaže trend naraščanja nereprezentiranih volivcev. V preseku 1992–2004 se tako vse bolj zmanjšuje delež volivcev, ki so zastopani v DZ – leta 1992: 65.6%; 1996: 62%; 2000: 65.3%; 2004: 52.3%, ob volitvah 2008 pa se ponovno rahlo vzpne – in to na raven 56.2!</p>
+    <p xml:id="pb44.p7" xml:lang="sl">Šesta beležka</p>
+    <p xml:id="pb44.p8" xml:lang="sl">Rezultati volitev, opazovani skozi položaj treh (2008: štirih) levo-sredinskih oz. treh desnosredinskih strank, kažejo na izmenjave njihovih prednosti. Tako so tri levo-sredinske stranke (DESUS, LDS, ZLSD – glej graf 2) leta 1992 skupaj pridobile podporo 29.5% vseh volilnih upravičencev (34.4% volivcev), tri desno-sredinske stranke (SKD, SDS, SLS) pa 21.2% podpore med vsemi volilnimi upravičenci (24.7% volivcev). Leta 1996 se to razmerje zaobrne v prid desno-sredinskim strankam – leve: 28%, desne: 31.3% volilnih upravičencev (leve: 38.0%, desne: 42.4% volivcev). Po izkušnji v zvezi z Bajukovo vlado se leta 2000 predhodno razmerje zopet zaobrne: leve 36.3%, desne 23.0% (leve 50.7%, desne 32.2% volivcev). Razmerje ob volitvah 2004: leve 22.6%, desne 26.6% (leve 37.2%, desne 43.9% volivcev). Razmerje med skupinama strank, izraženo na volitvah 2004, ne odstopa bistveno od povprečij predhodnih volilnih izidov, če izvzamemo iz primerjave volitve 2000. Volilne izide v letih 1996 in 2004 določajo premiki v obsegu 3%–5% telesa volilnih upravičencev (oz. 4% do 7% volivcev). Seveda pa se ti premiki izražajo v večinskomanjšinskih razmerjih in torej v pogojih konstituiranja izvršne oblasti.</p>
+  </page>
+  <page xml:id="pb45" n="45" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=45">
+    <p xml:id="pb45.p1" xml:lang="sl">Graf 2</p>
+    <p xml:id="pb45.p2" xml:lang="sl">4 "LEVE", 3 "DESNE" STRANKE IN SNS NA VOLITVAH 1992- 2008 (v tisoč volivcev) 552 369 576 432</p>
+    <p xml:id="pb45.p3" xml:lang="sl">1992 1996 2000 2004 2008 Vir: Državna volilna komisija</p>
+    <p xml:id="pb45.p4" xml:lang="sl">LEVE (SD, ZARES, LDS, DESUS) DESNE (SDS, SLS, NSI) SNS</p>
+    <p xml:id="pb45.p5" xml:lang="sl">Rezultate volitev 2000 lahko štejemo za negativen odziv volilnega telesa na epizodo Bajukove vlade – in so kot taki težko ponovljivi. Rezultati volitev 2004 pa so bili negativen odziv na dvanajstletno dominacijo LDS v izvršni oblasti, in tudi ti so kot taki težko ponovljivi.</p>
+    <p xml:id="pb45.p6" xml:lang="sl">Rezultate volitev 2008 lahko le pogojno umestimo v medčasovne primerjave ob upoštevanju naslednjih okoliščin: (1) da je DESUS še vedno prevladujoče levo-sredinska stranka, kljub njegovemu sodelovanju v desno-sredinski koaliciji v obdobju 2004–2008, (2) da se je levi skupini pridružila stranka Zares ter (3), da v desno-sredinski skupini zadržimo NSI z njegovim deležem volilnih glasov (3.4%) kljub temu, da ni prestopil parlamentarnega praga. Razmerje med levo-sredinskimi in desno-sredinskimi strankami je ob volitvah 2008 torej: 32.5% : 23.5% v prid levim (med vsemi volilnimi upravičenci) oz. 51.6% : 37.2% med vsemi udeleženci volitev.</p>
+  </page>
+  <page xml:id="pb46" n="46" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=46">
+    <p xml:id="pb46.p1" xml:lang="sl">Pogled na takšno umestitev strank v obdobju 1992–2008 pokaže, da so v treh primerih volitev bile levo-sredinske stranke deležne večje volilne podpore kot desne in v dveh primerih desne. V tej primerjavi izrazito izstopajo rezultati volitev 2000, kjer se vzpostavi razmerje 50.7% : 32.2% v prid levo-sredinskih strank, pa tudi ob tokratnih volitvah (2008), kjer se vzpostavi razmerje 51.6% : 37.2%, prav tako v prid levo-sredinskih strank. Ob volitvah 2004 se vzpostavi razmerje v prid desno-sredinskih strank 43.9% : 37.2%.</p>
+    <p xml:id="pb46.p2" xml:lang="sl">Primerjave pokažejo, da so tokratne (2008) volitve z vidika prevlade levo-sredinske skupine (štirih) strank močno presegle predhodne volitve (2004) in da so po deležu izražene podpore levo-sredinskim strankam rahlo nad letom 2000.</p>
+    <p xml:id="pb46.p3" xml:lang="sl">Tudi deleži podpor desno-sredinskih strank po obdobjih nihajo. Delež tokratne (2008) podpore desno-sredinskim strankam (37.2%) je značilno pod ravnjo podpore iz predhodnih volitev (2004: 43.9%) in volitev leta 1996 (42.4%).</p>
+    <p xml:id="pb46.p4" xml:lang="sl">Sedma beležka</p>
+    <p xml:id="pb46.p5" xml:lang="sl">Opazovanje položaja posamezne od treh levo-sredinskih strank, ZLSD, LDS, DESUS (graf 3) v vseh opazovanih presekih kaže njihovo soodvisnost: skupaj pridobivajo in skupaj izgubljajo. Za tri desno-sredinske stranke, SDS, SLS, NSI (graf 4) ta ugotovitev ne velja.</p>
+    <p xml:id="pb46.p6" xml:lang="sl">SKD svojo visoko prednost ob prvih volitvah ob naslednjih volitvah izgubi. SLS se ob volitvah 1996 povzpne visoko, nato pa pri nadaljnjih volitvah zgublja podporo. SDS se z nizkim izhodiščem na volitvah leta 1992 ob nadaljnjih volitvah 1996, 2000 uvrsti visoko drugo mesto med strankami in kot prvouvrščena desno-sredinska stranka; leta 2004 pa se uvrsti še višje kot dominantna parlamentarna stranka.</p>
+    <p xml:id="pb46.p7" xml:lang="sl">Gibanje desno-sredinskega volilnega telesa gre v preseku 1996–2004 izrazito v smeri kopičenja v prid SDS. Vidna je tendenca nastajanja ene dominantne desno-sredinske stranke. Ta tendenca se še bolj izrazito potrdi v volilnem rezultatu 2008, ko SDS celo poveča volilno podporo iz predhodnih volitev, izgubi pa položaj stranke relativne večine.</p>
+    <p xml:id="pb46.p8" xml:lang="sl">NSI in SLS pa ob tokratnih volitvah izgubita znaten del volilne podpore, celo v meri, da NSI ostane izven parlamenta.</p>
+    <p xml:id="pb46.p9" xml:lang="sl">Obdobje 2004–2008 označujejo burna dogajanja okoli LDS, njegova implozija in razpadanje, prehajanja poslancev ter ustanovitev nove stranke Zares. Ta dogajanja gredo v prid utrditve položaja SD in njeni umestitvi kot dominantni stranki na levi sredini. Podobno kot so model »pomladnega trojčka« ob volitvah 2004 s pridom izkoristile tri desnosredinske stranke, se tudi ob tokratnih volitvah pokaže korist od povezanega nastopa treh levo-sredinskih strank. Prizadevanja za osvojitev položaja stranke z relativno večino gre v primeru pomladnega trojčka izrazito v prid SDS, v primeru levega trojčka pa izrazito v prid SD. Ob teh volitvah namreč pri delu volivcev, glede na »vsiljeno« koncepcijo relativnega zmagovalca, prevlada »strateška« presoja in kopičenje glasov v korist nosilnih strank in v škodo partneric na levi in desni strani.</p>
+  </page>
+  <page xml:id="pb47" n="47" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=47">
+    <p xml:id="pb47.p1" xml:lang="sl">Graf 3</p>
+    <p xml:id="pb47.p2" xml:lang="sl">SD, LDS, ZARES IN DESUS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 161 97</p>
+    <p xml:id="pb47.p3" xml:lang="sl">1992 1996 2000 2004 2008 Vir: Državna voli lna komisija</p>
+    <p xml:id="pb47.p4" xml:lang="sl">SD (ZLSD) LDS ZARES DESUS</p>
+    <p xml:id="pb47.p5" xml:lang="sl">Graf 4</p>
+    <p xml:id="pb47.p6" xml:lang="sl">SDS, SLS, NSI IN SNS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 40</p>
+    <p xml:id="pb47.p7" xml:lang="sl">1992 1996 2000 2004 2008 Vir: Državna volilna komisija</p>
+    <p xml:id="pb47.p8" xml:lang="sl">SDS (SDZ, SDSS) SLS (SLS+SKD) NSI (SKD) SNS</p>
+    <p xml:id="pb47.p9" xml:lang="sl">Osma beležka</p>
+    <p xml:id="pb47.p10" xml:lang="sl">Opazovanje položaja dveh najmočnejših strank SDS, LDS (graf 5) v petih presekih pokaže njuno elektoralno dinamiko. LDS se v izhodišču, leta 1992, kot parlamentarna stranka uvrsti visoko nad drugimi levo-sredinskimi strankami; SDSS kot socialdemokratska stranka v tem preseku ne najde potrditve, medtem ko se kot desno-sredinski stranki izkažeta z visoko podporo predvsem SKD in SLS.</p>
+  </page>
+  <page xml:id="pb48" n="48" pdf_url="http://nl.ijs.si/project/kas/pdf/000/kas-1134000.pdf#page=48">
+    <p xml:id="pb48.p1" xml:lang="sl">SDS IN LDS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 55</p>
+    <p xml:id="pb48.p2" xml:lang="sl">1992 1996 2000 2004 2008 Vir: Državna volilna komisija</p>
+    <p xml:id="pb48.p3" xml:lang="sl">LDS SDS</p>
+    <p xml:id="pb48.p4" xml:lang="sl">LDS do volitev 2000 ohrani svoj dominanten položaj, na volitvah 2004 pa izgubi podporo dobre desetine (cca 11%) volilnega telesa. SDS se po svoji jasnejši desni razpoznavnosti v obdobju 2000–2004, še posebej v zadnjih dveh letih, uvršča visoko in na volitvah 2004 pridobi podporo cca 7% volilnega telesa in tako prevzame mesto najmočnejše parlamentarne stranke. Ob volitvah 2008 pa LDS dokončno izgubi svoj dominantni položaj in se umesti na rob parlamentarnega prostora (5.2%), medtem ko dominantni položaj pridobi SD, ki se umesti visoko (30.4%), ob njej pa kot tretje umeščena stranka Zares (9.4%). Tako se SD jasno umesti kot ključna stranka v Državnem zboru in – skupaj z Zares, LDS in DESUS – kot nosilka nove koalicije.</p>
+    <p xml:id="pb48.p5" xml:lang="sl">Graf 6</p>
+    <p xml:id="pb48.p6" xml:lang="sl">SD IN SDS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 161 97</p>
+    <p xml:id="pb48.p7" xml:lang="sl">1992 1996 2000 2004 2008 Vir: Državna voli lna komisija</p>
+    <p xml:id="pb48.p8" xml:lang="sl">SD SDS</p>
+    <p xml:id="pb48.p9" xml:lang="sl">SDS se v Državni zbor umesti kot dominantna opozicijska stranka, vendar je v tem položaju izrazito osamljena.</p>
+  </page>
+</document>

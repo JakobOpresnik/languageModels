@@ -1,0 +1,6098 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dokument>
+  <DocumentID>7000</DocumentID>
+  <ContentID>12273</ContentID>
+  <FileName>7000_file.pdf</FileName>
+  <Title>Slovenska policija v mednarodnih civilnih misijah - primerjalna analiza ameriško in evropsko vodenih misij</Title>
+  <EnglishTitle>Slovenska policija v mednarodnih civilnih misijah</EnglishTitle>
+  <Subtitle>diplomsko delo</Subtitle>
+  <EnglishSubtitle></EnglishSubtitle>
+  <Abstract>Slovenska policija v mednarodnih civilnih misijah - primerjalna analiza ameriško in evropsko vodenih misij : diplomsko delo</Abstract>
+  <EnglishAbstract></EnglishAbstract>
+  <Keywords>
+    <keyword>policija</keyword>
+    <keyword>policijsko delo</keyword>
+    <keyword>mirovne misije</keyword>
+    <keyword>civilne misije</keyword>
+    <keyword>mednarodno sodelovanje</keyword>
+    <keyword>diplomske naloge</keyword>
+  </Keywords>
+  <EnglishKeywords />
+  <Publisher>A. Lorbek]</Publisher>
+  <IssueYear>2010</IssueYear>
+  <ISBN></ISBN>
+  <ISSN></ISSN>
+  <DOI></DOI>
+  <EVSAbbreviation>UM FVV</EVSAbbreviation>
+  <EVSName>Fakulteta za varnostne vede</EVSName>
+  <EVSEnglishName>Faculty of Criminal Justice</EVSEnglishName>
+  <Pages>39 str.</Pages>
+  <Volume></Volume>
+  <Issue></Issue>
+  <Location>[Ljubljana</Location>
+  <Url>http://dkum.uni-mb.si/Dokument.php?id=21841</Url>
+  <CobissID>2113002</CobissID>
+  <Typology>Diplomsko delo</Typology>
+  <UDC>351.741</UDC>
+  <UDCTagsSlo>
+    <tag>Posamične dejavnosti javne uprave</tag>
+  </UDCTagsSlo>
+  <UDCTagsEng>
+    <tag>Particular activities of public administration</tag>
+  </UDCTagsEng>
+  <Authors>
+    <Author>
+      <Name>Allen</Name>
+      <Surname>Lorbek</Surname>
+      <Role>Avtor</Role>
+    </Author>
+    <Author>
+      <Name>Andrej</Name>
+      <Surname>Sotlar</Surname>
+      <Role>Mentor</Role>
+    </Author>
+  </Authors>
+  <PlainText>Univerza v Mariboru
+
+Fakulteta za varnostne vede
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIPLOMSKO DELO
+
+Slovenska policija v mednarodnih civilnih misijah – primerjalna analiza
+
+ameriško in evropsko vodenih misij
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Allen Lorbek
+
+November, 2010                                             Mentor: dr. Andrej Sotlar, docent
+
+
+
+
+Ko jezi zadiši kri, je ni več mogoče prikriti!
+
+(Lucius Annaeus Seneka)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iskrena zahvala mentorju doc. dr. Andreju Sotlarju,
+
+za njegovo pomoč pri izdelavi diplomskega dela,
+
+Marku Rodetu za svetovanje in nasvete pri pisanju,
+
+moji druţini za podporo in spodbudo, Andreju,
+
+Dušanu, Barbari in vsem ostalim, ki ste kakor koli
+
+sodelovali pri izdelavi tega diplomskega dela.
+
+
+
+
+
+
+
+
+
+
+Kazalo
+
+
+
+1 Uvod ............................................................................................................................... 1
+
+2 Metodološko – hipotetični okvir .................................................................................. 3
+
+2.1 Predmet proučevanja ............................................................................................... 3
+
+2.2 Cilji proučevanja ..................................................................................................... 4
+
+2.3 Hipoteze ................................................................................................................... 4
+
+2.4 Metode ..................................................................................................................... 4
+
+3 Razvoj civilnih zmogljivosti za sodelovanje v mednarodnih civilnih misijah in
+
+operacijah v Republiki Sloveniji ................................................................................. 5
+
+3.1 Pravna in politična podlaga za delo policistov v mednarodnih civilnih misijah .... 5
+
+3.2 Pogoji za napotitev policista .................................................................................... 8
+
+3.3 Kronologija mednarodnih civilnih misij .................................................................. 9
+
+4 Študija primera ameriško in evropsko vodenih misij ............................................. 12
+
+4.1 Na splošno o Jordan international police training center ..................................... 12
+
+4.2 Na splošno o European union police mission ........................................................ 13
+
+4.3 Primerjalna analiza proučevanih misij po ključnih parametrih ........................... 15
+
+4.3.1 Pravna podlaga ............................................................................................... 15
+
+4.3.2 Cilji ................................................................................................................. 17
+
+4.3.3 Ciljno okolje ................................................................................................... 18
+
+4.3.4 Pripadniki policijske misije ............................................................................ 21
+
+4.3.5 Delovanje policijskega kontingenta................................................................ 24
+
+4.3.6 Logistika ......................................................................................................... 26
+
+4.3.7 Varnost ........................................................................................................... 28
+
+4.3.8 Psihosocialne okoliščine ................................................................................. 29
+
+5 Zaključek ..................................................................................................................... 31
+
+5.1 Verifikacija hipotez ................................................................................................ 31
+
+5.2 Povzetek glavnih ugotovitev ................................................................................... 33
+
+6 Literatura in viri ......................................................................................................... 35
+
+
+
+
+
+
+
+
+Seznam kratic
+
+
+
+BiH – Bosna in Hercegovina
+
+CFSP – Common Foreign and Security Policy, Skupna zunanja in varnostna
+
+politika
+
+CIVPOL – Civilian Police, Mednarodna civilna policija
+
+EVOP – Evolutionary Operations, Evropska varnostna in obrambna politika
+
+EU – European Union, Evropska unija
+
+EUPM – European Union Police Mission, Evropska policijska misija
+
+EUPM BiH – European Union Police Mission in Bosnia and Hercegovina,
+
+Evropska policijska misija v Bosni in Hercegovini
+
+ESDP – European Security and Defence Policy, Evropska Varnostna in obrambna
+
+politika
+
+EULEX Kosovo – European Union Rule of Law Mission in Kosovo, Evropska
+
+misija vladavine prava na Kosovu
+
+EUMM – European Union Monitoring Mission in Georgia, Opazovalna misija
+
+Evropske unije v Gruziji
+
+IED – Improvised Explozive Device, Improvizirana eksplozivna naprava
+
+IPTF – Internationa Police Task Force, Mednarodne sile za policijske naloge
+
+IPTM – International Police Training Mission, Mednarodna policijska misija za
+
+usposabljanje
+
+JIPTC – Jordan International Police Training Center, Jordanski mednarodni
+
+trenaţni center
+
+WEU MAPE Albanija – Westeren European Multinational Advisory Police
+
+Element in Albania, Policijska svetovalna misija Zahodnoevropske unije v
+
+Albaniji
+
+MCM – Mednarodna civilna misija
+
+MOM – Mednarodne operacije in misije
+
+OSCE – Organisation for Security and Cooperation in Europe, Organizacija za
+
+varnost in sodelovanje v Evropi (OVSE)
+
+
+
+
+UN - United Nations, Organizacija zdruţenih narodov (OZN)
+
+ZDA – Zdruţene drţave Amerike
+
+ZEU – Western European Union, Zahodno evropska unija
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Povzetek
+
+
+
+Mednarodna skupnost v zadnjem času doţivlja velikanske spremembe na področju
+
+zagotavljanja svetovnega miru. Podobno kot vojska, tudi policija aktivno sodeluje v
+
+mednarodnih civilnih misijah v okviru različnih mednarodnih organizacij. Za današnje
+
+varnostne groţnje je  značilno, da niso omejene zgolj na en teritorij. Če ţelimo te groţnje
+
+preprečiti ali jih omiliti, so eden od takih inštitutov tudi mednarodne civilne misije z
+
+različnimi sredstvi in cilji. Pričujoče delo primerjalno analizira dve različni mednarodni
+
+civilni misiji, in sicer: mednarodno policijsko misijo pod okriljem Organizacije zdruţenih
+
+narodov JIPTC (Jordan International Police Training Center – JIPTC) v Jordaniji ter
+
+Policijsko misijo Evropske unije v Bosni in Hercegovini (European Union Police Mission –
+
+EUPM). V začetku predstavi zgodovinski razvoj mednarodnih civilnih misij v Sloveniji in
+
+njene civilne zmogljivosti,  dotakne pa se tudi zakonske in politične podlage za napotitev
+
+slovenskih policistov v mednarodne civilne misije. V nadaljevanju pove nekaj splošnih
+
+izhodišč za razumevanje misije JIPTC in misije EUPM BiH, nato pa primerjalno analizira
+
+proučevani misiji po ključnih parametrih. V okviru primerjalne analize predstavi
+
+posamezne parametre, pomembne za laţje razumevanje namena in uspešnosti tako ene kot
+
+druge misije, kakor tudi dela in ţivljena policistov mirovnikov. Na koncu na podlagi
+
+primerjalne analize poda splošno oceno .
+
+
+
+
+
+Ključne besede: varnost, mednarodne civilne misije, Jordan International Police Training
+
+Center, European Union Police Mission
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slovenian police in international civil missions – comperative
+
+analysis of American and European missions
+
+Summary
+
+
+
+International Community has lately been experienced significant changes in the field of
+
+implementation of peace and acceptable security situation. Similar like military forces,
+
+police forces actively participate in international civilian missions joining diverse
+
+international organizations. Today’s security threats are not confined on one territory. A
+
+variety of means and goals are prescribed by international civilian missions aimed at
+
+preventing and mitigating these security threats. The thesis contemplates a comparative
+
+analysis of two different international police missions: international police mission under
+
+the auspices of United Nations (JIPTC-Jordan International Police Training Center) in
+
+Jordan and the European Union Police Mission in Bosnia and Herzegovina (European
+
+Union Police Mission – EUPM). The thesis firstly discourses on historical development of
+
+Slovenian participation in international civilian mission and its civil capability, also
+
+referring to legal grounds for the deployment of Slovenian police officers in international
+
+civil missions. General background for better understanding of two missions JIPTC and
+
+EUPM has been depicted as well as the study on comparative analysis of missions as the
+
+key parameter. The purpose of comparative analysis is to present the parameters relevant
+
+for better insight into the function and performance of missions as well as police work and
+
+lives of peacekeepers. Based on comparative analysis overall assessment has been created
+
+as the conclusion of thesis.
+
+
+
+
+
+Key words: safety, international civilian mission, Jordan international police training
+
+center, European Union police mission
+
+
+
+1
+
+
+
+1 Uvod
+
+
+
+Republika Slovenija je s civilnimi policisti v mednarodnih mirovnih operacijah začela
+
+sodelovati oktobra leta 1997, ko je Vlada republike Slovenije potrdila sodelovanje
+
+slovenskih policistov v misiji MAPE  v Albaniji. Nosilka operacije je bila Zahodno
+
+evropska unija (ZEU) kot temelj evropske varnostne in obrambne identitete. Glavni namen
+
+misije je bil pribliţati organiziranost in standarde delovanja albanske policije standardom
+
+evropskih policij. Poseben poudarek je bil na spoštovanju človekovih pravic (Garb, 2003:
+
+20-21). Slovenski policisti so v misiji pričeli sodelovati kot inštruktorji v trenaţnih centrih
+
+v Draču in Tirani, zaradi izkazanega uspeha pri delu pa so kasneje opravljali tudi delo
+
+osrednjega svetovalca za področje mejnih zadev ter področnega svetovalca za usposabljanje
+
+specialne enote policije.
+
+
+
+Kasneje je slovenska policija sodelovala in še sodeluje tudi v misijah OZN, trenutno pa
+
+sodeluje še v treh mednarodnih civilnih misijah pod okriljem EU, in sicer v misiji EUPM v
+
+BiH, misiji EULEX na Kosovu ter misiji EUMM v Gruziji. V prvo so bili napoteni
+
+predvsem policisti, ki tudi v Sloveniji opravljajo bolj zahtevna in specifična dela na
+
+področju kriminalističnega preiskovanja, policijske taktike in policijskega managementa.
+
+
+
+Mirovne misije ali misije v podporo miru lahko razdelimo glede večih dejavnikov.
+
+Najosnovnejša je delitev na misije OZN in misije EU, delimo pa jih tudi na vojaške in
+
+policijske misije. Misije lahko razdelimo glede na generacije, in sicer mirovne operacije
+
+prve generacije, druge in tretje generacije
+1
+(Jelušič, 2003: 639). Misije delimo še na
+
+oboroţene, tradicionalne in kompleksne, operacije za vzpostavitev miru, operacije za
+
+ohranitev miru, za ustvarjanje miru, za vsiljevanje miru in operacije za preventivno
+
+diplomacijo.  Vse misije pa so imenovane tudi politične misije, ki so namenjene pomoči pri
+
+vzpostavitvi in oblikovanju novega političnega sistema (Jelušič, 2003).
+
+
+
+1
+Prva generacija mirovnih misij je bila v času hladne vojne, druga od konca hladne vojne do leta 1992 in
+tretja generacija traja še danes (Jelušič, 2003).
+
+
+
+2
+
+
+
+Naloge slovenskih policistov v misijah pa se razlikujejo predvsem glede na vrsto nalog.
+
+Tako bi jih samo naštel in sicer:
+
+
+
+operativne oziroma izvršilne naloge
+
+opazovalne naloge
+
+svetovalne naloge
+
+izobraţevalne naloge
+
+
+
+V diplomskem delu bom poskušal s primerjalno analizo dveh različnih misij, dveh različnih
+
+principov vodenja (ameriškega in evropskega), kakor tudi ţivljenja v eni in drugi misiji, kar
+
+najbolje ilustrirati razliko med misijama OZN in EU. Potrebno je poudariti, da ZDA ne
+
+vodijo mirovnih civilnih misij in operacij. Le te se izvajajo na predlog ZDA in z odobritvijo
+
+VS OZN, tako da poleg ZDA v misiji navsezadnje sodelujejo tudi druge drţave.
+
+Pomembno vlogo pri tem pa igra samo dejstvo, da ameriška administracija namenja veliko
+
+denarja OZN-u, tako da »upravljajo« s to organizacijo. Večina primerjanja misij bo
+
+temeljila na lastnih izkušnjah, saj sem kot pripadnik slovenske policije sodeloval v
+
+mednarodni civilni misiji Jordan international police training center v Jordaniji, ki je imela
+
+podporo VS OZN in civilni misiji European union police mission v BiH pod okriljem
+
+Evropske unije, v kateri v času izdelave diplomskega dela še vedno sodelujem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+2 Metodološko – hipotetični okvir
+
+
+
+2.1 Predmet proučevanja
+
+
+
+Predmet proučevanja diplomskega dela so mednarodne civilne misije, v katerih sodeluje
+
+slovenska policija, predmet posebnega proučevanja pa sta izbrani ameriško in evropsko
+
+vodeni mednarodni civilni misiji.
+
+
+
+Večina groţenj varnosti deluje transnacionalno, zato zahteva obramba pred njimi visoko
+
+stopnjo mednarodnega sodelovanja in usklajenega odzivanja na različne krizne pojave.
+
+Globalne groţnje varnosti postajajo vse bolj tudi neposredne nacionalne groţnje, tako je
+
+tudi varnostno okolje Republike Slovenije povezano z negotovostjo in nestabilnostjo v
+
+drţavah znotraj in zunaj evroatlantskega prostora. Ker je interes Republike Slovenije varno
+
+okolje, spremljanje sprememb v varnostnem okolju, preprečevanje nastajanja groţenj v
+
+Republiki Sloveniji ter drugih drţavah iz regije in, ker misije in operacije predstavljajo
+
+obliko globalne mirovne preventive pred širjenjem groţenj, bo naloga osredotočena na
+
+sodelovanje Republike Slovenije v mednarodnih civilnih misijah (v nadaljevanju MCM).
+
+(Resolucija o strategiji nacionalne varnosti Republike Slovenije, Uradni list RS, št.
+
+27/2010)
+
+
+
+Izraz »operacije« kriznega odzivanja uporabljata Ministrstvo za obrambo in Slovenska
+
+vojska (Crisis managament operations) za opredelitev delovanja Slovenske vojske in
+
+civilnih funkcionalnih strokovnjakov (CIMIC) na kriznih območjih v tujini. MNZ in
+
+Policija v teh operacijah ne sodelujeta.
+
+
+
+Z namenom jasne in enostavne opredelitve delovanja organov slovenske drţavne uprave v
+
+tujini, predvsem slovenske vojske in policije, uvaja letos sprejeta Strategija sodelovanja
+
+Republike Slovenije v mednarodnih operacijah in misijah (Ur. l. RS, št. 19/2010)
+
+pojmovno zvezo mednarodne operacije in misije (MOM).
+
+
+
+
+
+
+
+4
+
+
+
+2.2 Cilji proučevanja
+
+
+
+S primerjalno analizo ameriško in evropsko vodenih MCM sem ţelel doseči naslednje cilje:
+
+
+
+Predstaviti delovanje misij OZN in EU s poudarkom na podobnostih in razlikah;
+
+Ugotoviti, ali je mednarodna civilna misija, ki je eden od predmetov proučevanja,
+
+pod okriljem Zdruţenih drţav Amerike, bolje organizirana,  enostavneje vodena in
+
+bolj učinkovita kot tista pod okriljem Evropske unije;
+
+Ugotoviti, ali uţiva slovenska policija v mednarodnih civilnih misijah, ki jih vodi
+
+EU, večjo enakopravnost z vidika delovanja in soodločanja;
+
+Ugotoviti, ali je v mednarodnih civilnih misijah, ki jih vodi EU zastopanost vseh
+
+drţav članic enakomernejša kot v mednarodnih civilnih misijah ki jih vodijo OZN;
+
+Predstaviti lasten izkustveni pogled na mednarodne civilne misije.
+
+
+
+2.3 Hipoteze
+
+
+
+H1: Organiziranost, vodenje in poveljevanje je bilo v misiji JIPTC, katero so vodile ZDA v
+
+okviru OZN, boljše kot je to v misiji EUPM BiH pod okriljem EU.
+
+
+
+H2: Slovenski policisti zaradi poznavanja kulture in jezika prebivalstva, uspešneje
+
+opravljajo svoje delo v MCM na območju jugovzhodne Evrope kot pa v MCM po svetu.
+
+
+
+2.4 Metode
+
+
+
+Analiziral in interpretiral sem  primarne in sekundarne vire, saj sem za raziskavo uporabil
+
+knjige, časopisne članke in internetne strani. Te vire sem uporabljal skozi celotno delo.
+
+Prav tako sem uporabil historično metodo, predvsem v poglavju, kjer opisujem sodelovanje
+
+slovenske policije v MCM, kot ključno pa sem uporabil komparativno analitsko v
+
+poglavjih, kjer primerjam dve različni MCM. Uporabil sem še analizo uradnih statistik ter
+
+deskiptivno metodo, predvsem v poglavjih, kjer sem opredelil temeljne pojme.
+
+
+
+5
+
+
+
+3 Razvoj civilnih zmogljivosti za sodelovanje v mednarodnih
+
+civilnih misijah in operacijah v Republiki Sloveniji
+
+
+
+Slovenija je z mednarodnim priznanjem ter članstvom v Organizaciji zdruţenih narodov
+
+(OZN), Organizaciji za varnost in sodelovanje v Evropi (OVSE) ter Evropski uniji (EU)
+
+prevzela soodgovornost za zagotavljanje svetovnega miru. Slovenska policija aktivno
+
+prispeva k skupnim naporom Evropske unije pri oblikovanju skupne evropske varnostne in
+
+obrambne politike (EVOP). (http://www.mzz.gov.si/si/zunanja_politika/evropska_unija/
+
+evropska_varnostna_in_obrambna_politika_evop/)
+
+
+
+Nacionalna varnostna politika Republike Slovenije (njene temelje določa Resolucija o
+
+strategiji nacionalne varnosti Republike Slovenije, Ur. l. RS. Št. 27/2010) daje prednost
+
+nenasilnemu reševanju mednarodnih konfliktov in obsoja uporabo sile s ciljem ogroţanja
+
+svobode in varnosti drugih drţav. Slovenska policija aktivno sodeluje v mednarodnih
+
+civilnih misijah pod okriljem OZN, EU in OVSE od leta 1997.
+
+
+
+Konflikti v zadnjem obdobju so vse bolj notranjedrţavni z ali brez vmešavanja sosednjih ali
+
+drugih drţav. Zaradi spremenjene narave sporov postajajo MCM  vse bolj zahtevne in po
+
+vsebini kompleksne. Klasične mirovne misije se praktično ne vzpostavljajo več. Današnje
+
+MCM vsebujejo različne vsebinske aktivnosti (humanitarno pomoč, pomoč pri izvedbi
+
+volitev, vzpostavljanje pravne drţave, demilitarizacijo, demobilizacijo, vzpostavitev nove
+
+administracije, vojske, lokalne policije, njihovo usposabljanje itd). (Grošelj, 2009)
+
+
+
+3.1 Pravna in politična podlaga za delo policistov v mednarodnih civilnih
+
+misijah
+
+
+
+Pravno podlago za delo policistov v mednarodnih civilnih misijah predstavljajo:
+
+
+
+Zakon o zunanjih zadevah (Uradni list RS, št. 113/03 – uradno prečiščeno
+
+besedilo, 76/08 in 108/2009)
+
+
+
+
+
+6
+
+
+
+Zakon o napotitvi oseb v mednarodne civilne misije in mednarodne organizacije
+
+(Uradni list RS, št. 20/2006)
+
+Zakon o policiji (Uradni list RS, št. 66/2009 – uradno prečiščeno besedilo)
+
+Pravilnik o napotitvi javnih usluţbencev ministrstva za notranje zadeve in organov
+
+v sestavi v mednarodne civilne misije in mednarodne organizacije (št. 007
+152/2008/1)
+
+Poslovnik medresorske komisije za napotitev oseb v misije in mednarodne
+
+organizacije (Uradni list RS, št. 112/2006)
+
+Uredba o plačah in drugih prejemkih javnih usluţbencev za delo v tujini (Uradni
+
+list RS, št. 14/09, 16/09 – popr. in 23/2009)
+
+Strategija sodelovanja Republike Slovenije v mednarodnih operacijah in misijah
+
+(Uradni list RS, št. 19/2010)
+
+Strategija sodelovanja MNZ v mednarodnih civilnih misijah 2010 - 2015 (št. 871
+5/2009/18) (http://www.policija.si/images/stories/MednarodnoSodelovanje/PDF/
+
+MirovneMisije/100303-StrategijaMNZ.pdf)
+
+Resolucija o strategiji nacionalne varnosti Republike Slovenije (Uradni list RS, št.
+
+27/2010)
+
+Resolucija UNSCR 1325 in 1820 (United Nations Security Council Resolutions,
+
+1325 and 1820)
+
+
+
+Splošno zakonsko podlago za sodelovanje slovenske policije v mirovnih misijah
+
+predstavlja 19. člen Zakon o policiji, (Ur. l. RS, št. 49/98, 66/98)2, napotitve policistov v
+
+konkretne MCM pa imajo podlago v posamičnih sklepih Vlade RS. Plače policistov, ki
+
+sodelujejo v MCM, ureja Uredba o plačah delavcev MNZ RS v tujini pri opravljanju
+
+obveznosti, sprejetih v mednarodnih organizacijah (Ur. l. RS, št. 67/97).
+
+
+
+2
+19. člen Zakona o policiji določa:
+
+„ Policija lahko na prošnjo mednarodnih organizacij ali na podlagi meddrţavnih sporazumov, katerih
+članica ali podpisnica je Republika Slovenija, sodeluje v tujini pri opravljanju policijskih ali drugih
+nevojaških nalog. O uporabi policije za naloge iz prejšnjega odstavka odloča Vlada na predlog ministra,
+pristojnega za notranje zadeve.“
+
+
+
+
+
+7
+
+
+
+Mednarodno pravni temelj sodelovanja slovenske policije v MCM je članstvo Republike
+
+Slovenije v Organizaciji zdruţenih narodov. Slovenija je bila v to organizacijo sprejeta z
+
+resolucijo Generalne skupščine A/RES/46/236 na predlog Varnostnega sveta na 86.
+
+plenarnem zasedanju 22. 5. 1992. Poleg Zakona o policiji pa je pomemben nacionalni
+
+pravni vir, ki ureja napotitve policistov v MCM tudi Pravilnik o sodelovanju pri opravljanju
+
+policijskih ali drugih nevojaških nalog v tujini. Obstaja pa seveda še vrsta mednarodnih
+
+pravnih virov, ki vsebujejo bodisi splošne določbe povezane z MCM ali pa se nanašajo na
+
+konkretne misije.
+
+
+
+Med pomembnejše mednarodno pravne vire sodijo Splošna dekleracija OZN o človekovih
+
+pravicah iz leta 1948, Evropska konvencija o človekovih pravicah iz leta 1950, Deklaracija
+
+o zaščiti vseh oseb pred mučenjem in drugimi oblikami okrutnega, nečloveškega in
+
+poniţevalnega ravnanja iz leta 1975, Mednarodni pakt o drţavljanskih in političnih
+
+pravicah iz leta 1966, itd
+
+
+
+Slovenski policisti pa ne opravljajo naloge samo v okviru OZN, temveč tudi v okviru EU in
+
+OVSE. Pravico in dolţnost sodelovanja v misijah EU je Slovenija pridobila z vstopom v
+
+EU.
+
+
+
+Podlago za sodelovanje v misijah OVSE je Slovenija pridobila z vstopom v to organizacijo
+
+leta 1992. Naloge se opravljajo na podlagi dokumenta Izzivi sprememb, ki ga je podpisala
+
+tudi Slovenija in je bil oblikovan v Helsinkih leta 1992
+3
+.
+
+
+
+Poleg zgoraj naštetih pravnih virov je za udeleţbo slovenskih policistov v MCM in
+
+operacijah pomemben sklep Vlade Republike Slovenije, ki določa, kolikšno število
+
+policistov in pod kakšnimi pogoji naj se jih pošlje v misijo.
+
+
+
+
+
+3
+Dokument Izzivi sprememb (Challenges of change) obravnava operacije ohranjanja miru v okviru KVSE. V
+
+skladu s tem dokumentom OVSE lahko samostojno ukrepa in začne operacije ohranjanja miru kot
+organizacija.
+
+
+
+8
+
+
+
+Nacionalna varnostna politika Republike Slovenije
+4
+daje prednost nenasilnemu reševanju
+
+mednarodnih konfliktov in obsoja uporabo sile s ciljem ogroţanja svobode in varnosti
+
+drugih drţav, zato svoje nacionalne varnostne interese tudi v prihodnje zagotavlja tudi z
+
+aktivnim sodelovanjem v strukturah kooperativne varnosti.
+
+
+
+Slovenski policisti po odločitvi vlade sodelujejo v MCM pod okriljem Organizacije
+
+zdruţenih narodov, (OZN), Organizacije za varnosti in sodelovanje v Evropi (OVSE),
+
+Evropske unije (EU) in v okviru izpolnjevanja drugih obveznosti Republike Slovenije v
+
+mednarodnih organizacijah ali na podlagi meddrţavnih sporazumov leta 1997.
+
+
+
+S svojo strokovnostjo in specifičnostjo je slovenska policija močneje prisotna v misijah JV
+
+Evrope. V EU so se pričeli zavedati prednosti, ki jih imajo slovenski policisti zaradi
+
+poznavanje kulture, jezika, mentalitete, zakonodaje in drugih odločilnih dejavnikov na
+
+območju JZ Evrope. (Strategija sodelovanja Republike Slovenije v mednarodnih operacijah
+
+in misijah, Ur. l. RS. Št. 19/2010)
+
+
+
+3.2 Pogoji za napotitev policista
+
+
+
+EU je sprejela kriterije, ki jih mora upoštevati vsaka drţava napotiteljica policistov v
+
+misije. Poglavitni pogoji, ki jih morajo izpolnjevati napoteni policisti so:
+
+
+
+poštenost – ohraniti mora najvišjo stopnjo osebne integritete, nepristranskosti in
+
+osebne discipline za čas v misiji. Imeti mora odlične pogajalske sposobnosti in
+
+zmoţnost profesionalnega dela v stresnem in raznolikem okolju,
+
+varnostni kriterij – opis del in nalog za posamezno delovno mesto zahteva
+
+pridobitev dovoljenja za dostop do tajnih podatkov, zaščitenih s stopnjo tajnosti
+
+»NATO TAJNO«,
+
+
+
+4
+Resolucija o strategiji nacionalne varnosti Republike Slovenije (Uradni list RS, št. 27/2010)
+
+
+
+
+9
+
+
+
+voljnost in prilagodljivost – biti mora sposoben opravljanja dela v teţavnih
+
+razmerah z omejitvijo pomoči in soočanja z daljšo odsotnostjo od druţine in
+
+običajnega ţivljenskega in delovnega okolja,
+
+psihična in fizična vzdržljivost – biti mora psihično močna in zdrava oseba, brez
+
+telesnih zdravstvenih teţav ali odvisnosti od substanc, ki lahko zmanjšajo
+
+operativni učinek v misiji,
+
+sposobnost učinkovitega komuniciranja v angleščini – tekoče mora ustno in
+
+pisno komunicirati v angleškem jeziku, ter obvladati sistematično pisno poročanje,
+
+vozniško dovoljenje – imeti mora veljavno vozniško dovoljenje za motorna vozila
+
+kategorije B in biti usposobljen za voţnjo terenskih vozil s 4x4 pogonom,
+
+poznavanje dela z računalnikom – vešč mora biti uporabe različnih programskih
+
+orodij osebnega računalnika (predvsem urejevalnika besedil).
+
+(Strategija sodelovanja Ministrstva za notranje zadeve v mednarodnih civilnih
+
+misijah, http://www.policija.si/images/stories/MednarodnoSodelovanje/PDF/
+
+MirovneMisije/100303-StrategijaMNZ.pdf)
+
+
+
+Resno naknadno ugotovljeno nepoznavanje katerega od  naštetih kriterijev lahko povzroči
+
+izredno in predčasno odslovitev policista iz MCM in njegovo vrnitev v domovino. Do sedaj
+
+še noben slovenski policist ni bil odslovljen iz misije, kar ponovno kaţe na vrhunsko
+
+usposobljenost in strokovnost naših policistov v misijah. (http://www.policija.si/images/
+
+stories/MednarodnoSodelovanje/PDF/MirovneMisije/PolicijaVMednarodnihMisijah.pdf)
+
+
+
+3.3 Kronologija mednarodnih civilnih misij
+
+
+
+Jelušičeva (2003: 639) ugotavlja, da so se mirovne operacije v zgodovini stalno
+
+spreminjale, tako po namenih, kakor tudi po načinu delovanja. Največje spremembe načina
+
+delovanja MCM nastanejo po koncu hladne vojne, ko pride do popuščanja napetosti med
+
+blokoma, upadanja pomena veta Varnostnega sveta OZN, ter povečane vloge OZN pri
+
+reševanju mednarodnih konfliktov.
+
+
+
+
+
+
+
+10
+
+
+
+Operacije so šle v smeri:
+
+
+
+preventivne namestitve sil pred izbruhom spopada,
+
+vmesne razmestitve mirovnih sil, ki ustvarjajo pogoje za uspeh političnih pogajanj,
+
+operacije za uresničevaje sprejetih mirovnih in drugih splošnih sporazumov,
+
+operacije za zaščito humanitarne pomoči v času oboroţenih spopadov,
+
+operacije za stabilizacijo razmer in vzpostavitev drţavnosti in
+
+operacije za preprečitev kršenja dogovorov v sporu.
+
+
+
+Danes se v vedno večjem obsegu v mednarodne operacije vključujejo civilna policija,
+
+civilne mednarodne organizacije in lokalni usluţbenci. Vsi si prizadevajo, da se teţave
+
+rešujejo diplomatsko. Tu ne gre samo za razmejitev sprtih strani, temveč tudi za dejansko
+
+rešitev problemov. Dejstvo pa je, da operacije same še niso končane, zato ne moremo
+
+govoriti o boljših, uspešnejših mirovnih operacijah, temveč samo o naprednejšem,
+
+diplomatskem reševanju sporov (Hansen, 2002: 59).
+
+
+
+Preglednica 1: Udeleţba slovenskih policistov v EUPM in JIPTC
+
+Leto
+
+Misija, lokacija
+04 05 06 07 08 09 SKUPAJ
+
+EUPM BiH 4 4 4 4 4 4 24
+
+JIPTC Jordanija 5 5 5 - - - 15
+
+SKUPAJ 9 9 9 4 4 4 39
+
+Vir: http://www2.policija.si/index.php/mednarodno-sodelovanje/mednarodne-civilne-misije
+
+
+
+V preglednici 1 sta prikazani misiji EUPM in JIPTC, ki sta predmet diplomskega dela.
+
+Tako je kronološko prikazan številčni razvoj policistov v MCM JIPTC v Jordaniji in
+
+EUPM v Bosni in Hercegovini med leti 2004–2009, koliko slovenskih policistov je bilo v
+
+
+
+
+11
+
+
+
+omenjenih misijah (začetek primerjanja je začetek misije JIPTC)  in koliko policistov je v
+
+eni ali drugi misiji zdaj.
+
+
+
+Če pogledamo preglednico, ugotovimo, da je imela Republika Slovenija v času trajanja
+
+misije JIPTC (Jordan international police training center)  več policistov kot pa v EUPM
+
+BiH (European Union police mission in Bosnia and Herzegovina), kar ne kaţe večjega
+
+interesa Republike Slovenije za zagotavljanje miru in stabilnosti v JV Evropi. Vendar pa
+
+samo dejstvo, da v misiji EUPM v BiH še vedno aktivno sodelujemo in da so slovenski
+
+policisti v EUPM BiH ţe od leta 2002, kaţe na to, da temu ni tako. Po drugi strani je bil kar
+
+zadeva JIPTC, dogovor slovenske vlade in ameriške administracije, da policija pošlje
+
+policiste v misijo v okviru njenih zmoţnosti (to je 5 policistov). Misija se je po treh letih
+
+delovanja in izpolnitve ameriške obljube iraškim oblastem števila izurjenih iraških
+
+policistov zaprla.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+
+
+4 Študija primera ameriško in evropsko vodenih misij
+
+
+
+4.1 Na splošno o Jordan international police training center
+
+
+
+Cilj oblikovanja JIPTC je zagotovitev usposabljanja policistov v varnem okolju in
+
+povečano sodelovanje z mednarodnimi partnerji. Nahaja se v puščavskem predelu občine
+
+Muwaqar, pribliţno 40 kilometrov vzhodno od jordanskega glavnega mesta Ammanna, na
+
+nadmorski višini 844 m. Izgradnja kompleksa novega centra  je bila zaključena 2007.
+
+
+
+Kmalu po začetku gradnje so v Muwaqar prispeli prvi mednarodni policijski inštruktorji in
+
+prvi iraški policijski rekruti. Policijski inštruktorji so bili po večini iz drţav začasne
+
+koalicije (ZDA, Velika Britanija in Kanada) in Jordanije, tem pa so se kmalu pridruţili še
+
+policisti iz nekaterih evropskih in drugih drţav.
+
+
+
+Policisti so v tej misiji opravljali vlogo inštruktorjev, predavateljev in profesorjev v
+
+različnih ustanovah. Predvsem je šlo za delo na policijski akademiji – šolskem centru
+
+nacionalnih policijskih sil (po zaključku misije je bil center predan Joradanski policiji za
+
+njihovo lastno uporabo in je eden največjih policijskih centrov na svetu).
+
+
+
+JIPTC je bila operacija, ki je avtorizirala večnacionalne sile pod enotnim poveljstvom za
+
+izvedbo vseh potrebnih ukrepov, ki prispevajo k vzdrţevanju varnosti in stabilnosti v Iraku.
+
+
+
+Aktivnosti v JIPTC je začela Začasna koalicijska uprava Iraka, kasneje pa so, kot pri IPTM
+
+(ang. International Police Training Mission), prešle pod okrilje ameriških ministrstev za
+
+zunanje zadeve in pravosodje. Cilj JIPTC je bil zagotoviti usposabljanje iraških varnostnih
+
+sil v varnem okolju in ob največjem moţnem sodelovanju mednarodnih partnerjev.
+
+Inštruktorji so prihajali iz različnih drţav, med katerimi so prevladovale evropske in
+
+severnoameriške.
+
+
+
+
+
+13
+
+
+
+Program usposabljanja je bil razdeljen na usposabljanje za splošno policijsko delo (boj
+
+proti terorizmu in kriminalu, temeljna načela demokratičnega delovanja policije in veščine
+
+patruljiranja) in na usposabljanje za operativno policijsko delovanje (obrambne taktike,
+
+ravnanje s strelnim oroţjem, voţnja in praktična uporaba pridobljenih znanj). Večina
+
+kandidatov je na tej stopnji končala svoje urjenje in usposabljanje ter se vrnila v Irak. Le
+
+izbrani so nadaljevali specializirano usposabljanje, na katerem so se usposobili za ravnanje
+
+z improviziranimi eksplozivnimi napravami in zagotavljanje varnosti na policijskih
+
+postajah ter pridobili potrebna vodstvena in taktična znanja. Slovenska policija je
+
+sodelovala v operaciji od leta 2004 do 15. 4. 2007, predvsem pri usposabljanju za splošno
+
+policijsko delo. V treh dvanajstmesečnih izmenah je skupno sodelovalo petnajst policistov.
+
+
+
+Za prizadevanja in strokovno opravljeno delo na območju Jordanije so vsi policisti prejeli
+
+tudi posebna odlikovanja, katerih izdajo je odobril jordanski kralj Abdullah II.
+
+(http://www2.policija.si/index.php/novinarsko-sredie/index.php?option=com_content
+
+&amp;view=article&amp;id=3066)
+
+
+
+4.2 Na splošno o European union police mission
+
+
+
+Do 31. decembra 2002 je na podlagi Daytonskega sporazuma in resolucije OZN v BiH
+
+delovala misija IPTF (International Police Task Force). Njen mandat je bil nadzor,
+
+predvsem pa izgradnja policije BiH po standardih razvitih policij s poudarkom na načelih
+
+demokratičnosti, varovanja človekovih pravic itd. Naloga je bila zaradi treh entitet, ki ţivijo
+
+na območju BiH, teţka in odgovorna. Misija IPTF je kljub zahtevnosti naloge dosegla
+
+zastavljene cilje in končala svoj mandat v roku.
+
+
+
+Januarja 2003 je mandat IPTF delno prevzela EU, ki se je zaradi zgodovinskih in političnih
+
+vzrokov čutila poklicano in odgovorno, da skrbi za red in razvoj na svojem »dvorišču«,
+
+torej v BiH. Drugi pomemben dejavnik je t. i. CFSP (Skupna zunanja in varnostna politika
+
+EU). EU je pričela vzpostavljati sile za hitro posredovanje oz. t. i. civilni krizni
+
+menedţment, ki vključuje tudi policijske sile. Sprva je bilo mišljeno, da bodo v bodoči
+
+
+
+
+
+14
+
+
+
+(testni) misiji EU sodelovale le drţave članice, vendar so bile k sodelovanju povabljene tudi
+
+drţave kandidatke za članstvo v EU. Tako je svoj deleţ k tem silam ponudila tudi slovenska
+
+policija. Mandat misije EUPM je izgradnja demokratične policije s standardi, ki dosegajo
+
+evropske v vseh bistvenih elementih delovanja policije in vzpostavitev koordinacije ter
+
+sodelovanja med entitetami, ki ţivijo na območju BiH. Rok za dosego cilja je bil postavljen
+
+dokaj ambiciozno, in sicer do 31. decembra 2005, vendar cilj do takrat ni bil doseţen. Nato
+
+je bila misija podaljšana do konca leta 2009 in nato še enkrat do konca leta 2011.
+
+(http://www.eupm.org/Overview.aspx)
+
+
+
+To je svetovalna misija, ki se izvaja v Bosni in Hercegovini v okviru Evropske unije. V tej
+
+misiji policisti opravljajo vlogo svetovalcev na področju srednjega policijskega
+
+menedţmenta. Policisti s svojimi znanji, pridobljenimi z dolgoletnimi izkušnjami na svojih
+
+specifičnih področjih, svetujejo lokalni policiji pri njenem delu in vzpostavitvi policijskih
+
+struktur in zakonitosti v drţavi. (http://www.eupm.org/OurMandate.aspx)
+
+
+
+Slovenska policija je v tej MCM sodelovala od samega začetka, od 1.1.2003, ko je misjija
+
+EUPM 1 začela delovati s povprečno po štirimi policisti, tako da je do zdaj v EUPM
+
+sodelovalo skupaj 33 policistov. Na različnih lokacijah v BiH so delovali kot strokovni
+
+svetovalci za boj proti organiziranemu kriminalu ter za splošno policijsko delo na zvezni in
+
+lokalni (kantonalni) ravni.
+
+
+
+Misija EUPM 2 je operativno začela delovati 1.1. 2006, z mandatom dveh let, in je
+
+nadaljevanje misije EUPM 1 v BiH, katere mandat se je končal decembra 2005. Naloge
+
+misije so svetovanje policiji BiH, podpora in pomoč pri proaktivnem boju zoper
+
+organiziran kriminal ter izvedba reform v policiji. (http://www2.policija.si/index.php/
+
+delovna-podroja/8043-eupm?lang=)
+
+
+
+Po sklepu Vlade republike Slovenije (št. 51100-141/2005/3, 5. 1. 2006) so štirje slovenski
+
+policisti na misiji nastopili enoletni mandat 6. 2. 2006. Sekretariat Sveta EU je zaprosil RS
+
+za podaljšanje do 31. 12. 2007,  kasneje pa še do konca leta 2008. V Sekretariatu Sveta EU
+
+(CPCC - The Civilian Planning and Conduct Capability) so razpravljali o morebitnem
+
+
+
+
+
+
+
+15
+
+
+
+ponovnem podaljšanju in obliki te misije ter nazadnje podaljšali misijo do 2011 kot EUPM
+
+3 v podporo policiji BiH v boju zoper organiziran kriminal in korupcijo.
+
+(http://www2.policija.si/index.php/delovna-podroja/8043-eupm?lang=)
+
+
+
+4.3 Primerjalna analiza proučevanih misij po ključnih parametrih
+
+
+
+V tem delu diplomskega dela bi rad skozi parametre pravne podlage, ciljnega okolja, ciljne
+
+populacije, pripadnikov policijske misije, delovanja kontingenta, logistike, varnosti in psiho
+
+– socialne okoliščin prikazal razliko med misijama, prišel do potrditve ali zavrnitve
+
+postavljenih hipotez in nenazadnje bralcu poskušal prikazati vodenje, napredovanje in
+
+ţivljenje v obeh misijah ki sta predmet primerjanja.
+
+
+
+4.3.1 Pravna podlaga
+
+
+
+Osnovo za ustanovitev JIPTC je predstavljal 13. odstavek resolucije VS OZN 1511/2003,
+
+pomemben pa je bil tudi 14. odstavek, ki poziva vse članice, da v duhu resolucije
+
+prispevajo k oblikovanju v 13. členu opredeljenih večnacionalnih sil.
+
+
+
+Za ustanovitev EUPM BiH so pomembni naslednji akti: pogodba o Evropski uniji (tretji
+
+odstavek 25. člena), pogodba o Policijski misiji Evropske unije (EUPM) v Bosni in
+
+Hercegovini (BiH) (1) (17. člen skupnega ukrepa), skupni ukrep Sveta 2005/824 /SZVP z
+
+dne 24. novembra 2005 o Policijski misiji Evropske unije (EUPM) v Bosni in
+
+Hercegovini(BiH) (2) predvsem 9(1). člen. Mandat misije pa temelji na določilih Aneksa
+
+11. k Daytonskemu sporazumu ki je sporazum o mednarodnih silah za policijske naloge
+
+(International police task forces - IPTF)
+
+
+
+Ugotovimo lahko, da je pravna podlaga za EU misije natančna in bolje določna, predvsem
+
+so natančneje opredeljeni okviri, v katerih lahko deluje misija.
+
+
+
+
+
+
+
+
+16
+
+
+
+Temeljni nacionalni pravni akt
+
+Za napotitev policistov v JIPTC je temeljni sklep vlade RS, ki je oktobra 2003 obravnavala
+
+predlog  pomoči Republike Slovenije v Iraku in odobrila sodelovanje v MCM v Jordaniji.
+
+
+
+Za napotitev policistov v EUPM BiH je temejni pravni akt sprejetje sklepa Vlade
+
+Republike Slovenije (št.51100-141/2005/3, 5. 1. 2006) o napotitvi policistov v MCM BiH.
+
+
+
+Ugotovimo, da so policisti v JIPTC ali EUPM BiH napoteni na podlagi sklepa, katerega
+
+sprejme vlada. Tako velja za vse MCM, v katerih deluje slovenska policija.
+
+
+
+Namen
+
+Namen napotitve policistov v JIPTC je bilo pooblastilo OZN večnacionalnim policijskim
+
+silam pod enotnim poveljstvom, da izvedejo vse potrebne ukrepe in prispevajo k
+
+vzdrţevanju varnosti in stabilnosti v Iraku. Cilji pa so zagotoviti usposabljanje iraških
+
+varnostnih sil v varnem okolju in ob največjem moţnem sodelovanju mednarodnih
+
+partnerjev, zato je bila misija na nevtralnem ozemlju, v Jordaniji.
+
+
+
+Namen EUPM BiH je ustanovitev mednarodnih policijskih sil pod okriljem EU za
+
+izvajanje različnih nalog. Cilji so urjenje in svetovanje varnostnim strukturam, spremljanje
+
+in nadziranje njihovega delovanja.
+
+
+
+Namen v JIPTC je izšolati iraške kandidate za policiste, ki niso imeli nikakršnega
+
+policijskega predznanja, bili takorekoč pobrani iz ulice, do te mere, da so bili sposobni
+
+opravljanja osnovnih policijskih nalog (legitimiranja, preverjanja dokumentov, ustavljanja
+
+vozil, obravnavaja prometnih nesreč, streljanja, itd) medtem ko je namen in cilj misije
+
+EUPM BiH predvsem nadzor nad delom policije, preprečevanje konfliktov znotraj
+
+policijskih vrst zaradi rasne in verske nestrpnosti in s tem zagotoviti profesionalno policijo,
+
+kateri bodo drţavljani Bosne in Hercegovine zaupali.
+
+
+
+
+
+
+
+
+
+17
+
+
+
+4.3.2 Cilji
+
+
+
+Primarni cilji
+
+Primarni cilj  JIPTC je bil v kratkem času temeljno ali do te mere izuriti pripadnike iraške
+
+policije, da so lahko samostojno opravljali policijsko delo v Iraku in s tem prispevali k
+
+izboljšanju varnostnih razmer v svoji drţavi.
+
+
+
+V EUPM BiH je primarni cilj doseči evropske standarde skozi reformo policije v sami
+
+policijski organizaciji ter vodenju le te v celotni BiH, preprečevanje rasne in verske
+
+nestrpnosti in s tem vplivati na njeno profesionalno delovanje.
+
+
+
+Obe misiji imata pozitivno poslanstvo, skušata doseči določene standarde, ki pa so na
+
+različnih nivojih profesionalnosti.  Lahko zaključim, da je delo v EUPM BiH dosti teţje
+
+(svetovanje organizaciji, ki ţe dosega zadovoljive rezultate)5 kot pa nekoga naučiti osnove
+
+policijskega dela in navsezadnje ne imeti kontrole nad samim izvajanjem naučenega v
+
+matični domovini.
+
+
+
+Sekundarni cilji
+
+Sekundarni cilji JIPTC so bili na podlagi prenašanja znanja mednarodnih inštruktorjev v
+
+učenju osnovnih policijskih nalog, kakor tudi zagotavljanju človekovih pravic, zgotoviti
+
+zadostno število iraških policistov za nemoteno izvajanje policijskih nalog v domovini.
+
+
+
+Sekundarni cilji EUPM BiH so doseči evropske policijske standarde (skozi opremo,
+
+delovanje policije, tako pri ogledu kaznivih dejanj kakor tudi obravnavanju prometnih
+
+nesreč – zavarovanje kraja prometne nesreče, korupcije med policisti, itd.) in upoštevanje
+
+človekovih pravic, implementacija policijsike reforme ter Zakona o policiji.
+
+
+
+
+
+5
+Tu je mišljena predvsem  ukinitev viznega reţima, katera naj bi se zgodila v decembru 2010, kar je velik
+uspeh za Bosno in Hercegovino, vendar ostalih sprememb, katere bi bile bistvene za začetek pogajanj o
+priključitvi Bosne in Hercegovine EU, še vedno ni (policijska reforma, Zakon o policiji, itd)
+
+
+
+18
+
+
+
+V misiji JIPTC je bila ta številka doseţena, čeprav je kvaliteta policistov vprašljiva, v misiji
+
+EUPM je doseţen cilj usposobljenost policistov ter upoštevanje človekovih pravic, dočim
+
+cilja sprejetja policijske reforme in Zakona o policiji do časa pisanja diplomskega dela še
+
+nista doseţena. Lahko zaključimo, da je večji napredek v EUPM BiH, vendar je potrebno
+
+upoštevati dejstvo, da je velik pritisk s strani EU na Bosno in Hercegovino v zvezi z
+
+implementacijo reforme in zakona.
+
+
+
+4.3.3 Ciljno okolje
+
+
+
+Geografski podatki
+
+Irak spada k drţavam Bliţnjega vzhoda. Kulturno gledano pod Bliţnji vzhod štejemo
+
+drţave severne Afrike in jugozahodne Azije. Meji z Iranom, Jordanijo, Kuvajtom, Savdsko
+
+Arabijo, Sirijo in Turčijo. Irak ima 438,317 kvadratnih kilometrov ozemlja, od tega je 950
+
+kvadratnih kilometrov vode. (https://www.cia.gov/library/publications/the-world
+factbook/geos/iz.html)
+
+
+
+Bosna in Hercegovina (Bosna i Hercegovina - BiH) je drţava na Balkanskem polotoku,
+
+nekdanja socialistična republika SFRJ. Na zahodu in severu meji na Hrvaško, na vzhodu na
+
+Srbijo in na jugovzhodu na Črno goro, na jugu pa ima pri kraju Neum dostop do
+
+Jadranskega morja. Bosna in Hercegovina ima 51,197 kvadratnih kilometrov ozemlja od
+
+tega je 10 kvadratnih kilometrov vode.(https://www.cia.gov/library/publications/the-world
+factbook/geos/bk.html)
+
+
+
+Demografski podatki
+
+Irak ima po lastnih navedbah pribliţno 29 milijonov prebivalcev. Centralne province
+
+Bagdad in Babil so najbolj gosto naseljene. (https://www.cia.gov/library/publications/the
+world-factbook/geos/iz.html)
+
+
+
+V Bosni ţivijo tri velike etnične skupine: Bošnjaki, Srbi in Hrvati. Spori med njimi so še
+
+vedno pogosti in privedejo do številnih političnih nasprotij. Ima pribliţno 4,5 miljona
+
+prebivalcev.(https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19
+
+
+
+Tako ena kot druga drţava imata teţavo zdruţiti različne etnične skupine, saj je sovraštvo
+
+med njimi še tako močno in prisotno, da v času pisanja diplomskega dela niti ni realno
+
+pričakovati, da se bo to spremenilo.
+
+
+
+Ekonomski podatki
+
+V Iraku prevladuje naftni sektor, ki predstavlja 95% deviznih prilivov, primarni sektorji pa
+
+so kmetijstvo, gozdarstvo, ribolov, rudarstvo.(https://www.cia.gov/library/publications/the
+world-factbook/geos/iz.html)
+
+
+
+Pred vojno je bila Bosna in Hercegovina koncentrirana na proizvodnjo surovin (les,
+
+kmetijstvo, ţelezo) ter na polproizvode (deli za avtomobilsko industrijo, deli za obutev in
+
+notranjo opremo stanovanj). Danes skoraj nič od tega ne deluje in je opuščeno. Tuje
+
+naloţbe se počasi povečujejo, vendar je javna poraba denarja na skoraj 50% bruto
+
+domačega proizvoda. (https://www.cia.gov/library/publications/the-world-factbook/geos/
+
+bk.html)
+
+
+
+Irak je bogat z nafto, ki je zelo iskan »artikel« na trgu, medtem ko Bosna in Hercegovina
+
+razen dveh delujočih rudnikov (Tuzla in Novi Grad) in nekaj obutvene industrije nima
+
+popolnoma nič. Gozdovi, kar ni zaminirano, so večinoma neuporabni, voda  je čedalje bolj
+
+onesnaţena.
+
+
+
+Politični sistem
+
+Irak: Parlamentarna demokracija, ki zastopa interese vseh Iračanov. (https://www.cia.gov/
+
+library/publications/the-world-factbook/geos/iz.html)
+
+
+
+Bosna in Hercegovina: Po vojni je zvezna demokratična republika s trţno usmerjenim
+
+gospodarskim sistemom. (https://www.cia.gov/library/publications/the-world-factbook/
+
+geos/bk.html)
+
+
+
+Obe drţavi skušata iz političnega sistema, ki ni bil dober, preiti v nekaj pozitivnega in
+
+boljšega za ljudi – predvsem glede na človekove pravice. Kako jima to uspeva v času
+
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+pisanja tega diplomskega dela, pa lahko vidimo iz informativnih oddaj, časopisja in na
+
+podlagi varnostne situacije v primerjanih drţavah in tako sami pridemo do zaključka.
+
+
+
+Varnostni sistem
+
+Varnostni sistem v Iraku je zelo slab, saj je dnevno na ulicah vse polno nasilja, očitno pa sta
+
+policija in vojska nemočni pri zajezitvi zelo dobro organiziranega kriminala. Po nekaterih
+
+informacijah so za veliko število ugrabitev tujcev in domačinov v Iraku krive kriminalne
+
+zdruţbe (informacija pridobljena od iraških policijskih kandidatov in potrjena s strani
+
+slovenskega vojaka, ki je bil inštruktor v Iraku in je ni mogoče drugače preveriti), ki
+
+poskušajo terjati za ugrabljene osebe dodškodnine, v kolikor je ne dobijo, predajo osebo
+
+islamskim skrajneţem, ki to osebo »porabijo« v propagandne namene.
+
+
+
+Varnostni sistem v Bosni in Hercegovini deluje dokaj dobro, kljub velikemu številu hujših
+
+kaznivih dejanj (ropi, umori, ugrabitve) saj je večina  teh rešenih, storilci pa prijeti..
+
+(http://blog.dsos.org/2009/07/06/nato-in-eu-v-bosni-in-hercegovini-%e2%80%93-sinergija
+ali-tekmovanje/)
+
+
+
+Varnostni sistem v Bosni in Hercegovini je gotovo boljši kot v Iraku. Ţe sam obisk tujcev
+
+(turistov) priča o tem, kako se ljudje počutijo v drţavi – lastna varnost je na prvem mestu.
+
+
+
+Religije
+
+Irak: 97% prebivalstva je muslimanov, od tega 60% do 65% šiitov 32% do 37% sunitov,
+
+katolikov in ostalih je 3%.(https://www.cia.gov/library/publications/the-world-factbook/
+
+geos/iz.html)
+
+
+
+Bosna in Hercegovina: 40% prebivalstva je muslimanov, od tega 55-65% šiitov in 32-35 %
+
+sunitov, 31% je pravoslavcev, 15% katolikov in 14% ostalih. (https://www.cia.gov/library/
+
+publications/the-world-factbook/geos/bk.html)
+
+
+
+
+
+
+
+
+
+
+
+
+21
+
+
+
+V obeh drţavah so mešane religije, v Iraku šiiti, suniti, Kurdi – vsi islamske veroispovedi,
+
+vendar različne -  medtem ko so v Bosni in Hercegovini deljene na muslimane, katolike in
+
+pravoslavce. Zadnje štetje prebivalstva v Bosni in Hercegovini je bilo leta 2000.
+
+
+
+4.3.4 Pripadniki policijske misije
+
+
+
+Način kadrovanja
+
+Način kadrovanja za misijo JIPTC je bil po sistemu: »Ali bi se udeleţil misije?«. Potrebno
+
+je bilo priloţiti ţivljenjepis in v kolikor si izpolnjeval pogoje, predvsem kar se tiče
+
+poznavanja angleškega jezika, si bil izbran. Pričakovali so, da je imel vsak prijavljen
+
+policist osnovno znanje policijskega dela, tako da se to ni posebaj preverjalo. Zato je bila
+
+tudi nadaljna razporeditev policista v misiji odločitev  vodje oddelka za kader v misiji.
+
+
+
+Način kadrovaja za EUPM BiH je po sistemu »preverjanje ţivljenjepisa«, v kolikor
+
+izpoljnjuješ določena strokovna znanja iz področja, katero je bilo razpisano (poznavalec
+
+mejne problematike, organiziran kriminal, finančni kriminal itd.), in si iskan profil
+
+(kriminalist, mejni policist, kriminalist za gospodarski kriminal, itd.), si prišel v misijo in
+
+zasedel delovno mesto, na katerega si se prijavil.
+
+
+
+Tako v eni kot v drugi misiji so bili zahtevani določeni profili, razlika je v tem, da je bilo
+
+delovno mesto v JIPTC določeno s strani vodje oddelka za kadre v misiji, ker se je za
+
+zahtevano delo pričakovalo, da policist pozna osnove policijskega dela (kontrola osebe,
+
+preverjanje dokumentov, obravnavanje prometnih nezgod, ogled kraja kaznivega dejanja,
+
+itd.), EUPM BiH pa na podlagi oddanega ţivljenjepisa in samega specifičnega znanja ali
+
+nalog, katere opravljaš doma.  Lahko ugotovim, da je način kadrovanja za misijo EUPM
+
+BiH dosti boljši, saj policistom podajaš svoje izkušnje in znanje. V JIPTC so bili določeni
+
+policisti na nepravih poloţajih (prometni policist je predaval o človekovih pravicah, itd.). S
+
+tem je jasno povezano vodenje in poveljevanje, katero v JIPTC ni bilo tako »strokovno«
+
+kot je v EUPM BiH, bilo je bolj neposredno, tako da smo teţave reševali sproti. Tako je
+
+prenašanje znanja in izkušenj na dosti višjem nivoju, v EUPM BiH je pa vodenje in
+
+
+
+22
+
+
+
+poveljevanje mednarodnim policitom nekoliko slabše. Če je razdalja med šefom in
+
+delavcem velika, to vpliva na izmenjavo informacij in s tem povezano poročanje.
+
+
+
+Napredovanje
+
+V JIPTC je vse delovalo po vojaškem sistemu - danes si tu, jutri si tam – vsak mednarodni
+
+policist se je imel pravico pritoţiti na odločitve poveljujočih.
+
+
+
+V EUPM BiH skoraj da ni napredovanja,  ker  je potrebno za vsako spremembo delovnega
+
+mesta pridobiti soglasje matične drţave.
+
+
+
+Tukaj pridemo do zaključka, da je organiziranost EUPM BiH skozi napredovanje
+
+mednarodnih policistov znotraj misije dosti slabša, kot je bilo pa to v misiji JIPTC. V
+
+JIPTC si sčasoma zaprosil za delovno mesto, katero ti je najbolje ustrezalo in si se počutil
+
+dovolj sposobnega in profesionalno opravljati zastavljene naloge.
+
+
+
+Posebna znanja
+
+V JIPTC v kolikor je kandidat imel posebna znanja (vodenje policijske postaje, aretacije
+
+storilcev hujših kaznivih dejanj, vpadi v objekte, poznavanje eksplozivnih sredstev, itd.) je
+
+lahko zasedel višje poloţaje v smislu vodje oddelka.
+
+
+
+V EUPM, v kolikor imaš posebna znanja, si jih lahko samo šteješ kot prednost, se pa ne
+
+upoštevajo pri tvojem napredovanju.
+
+
+
+V obeh misijah so bila posebna znanja zaţeljena, vendar niso imela večjega vpliva na
+
+odločanje o zasedbi poloţaja policista. Lahko pa ugotovim, da je bilo v misiji JIPTC
+
+napredovanje in zasedanje višjih poloţajev hitrejše in bolj verjetno kot pa v EUPM BiH.
+
+
+
+Moţnosti podajanja posebnih znanj
+
+V JIPTC si imel moţnost podajati posebna znanja, celo zaţeljeno je bilo, v kolikor si imel
+
+izkušnje s področij, (vodstvo misije te je pri takšnih projektih spodbujalo) ki so bila
+
+zastopana v misiji.
+
+
+
+23
+
+
+
+V EUPM BiH lahko podajaš posebna znanja, vendar je na ţalost tudi pomembno, iz katere
+
+drţave prihajaš, saj se pogosto dogaja, da izkušnje policista, na primer iz Nemčije, več
+
+štejejo, kot pa policista iz Slovenije.
+
+
+
+V misiji JIPTC ni bilo pomembno, kdo si in od kod si, pomembno je bilo, kaj znaš in si v
+
+tem dober, medtem ko v EUPM najvišje poloţaje zasedajo Nemci, Italjani in Francozi.
+
+Ostali so na niţjih poloţajih.
+
+
+
+Starost
+
+Za obe misiji tako JIPTC kot EUPM BiH je po zakonu je pogoj za pristop v misijo 12 let
+
+delovnih izkušenj.
+
+
+
+Starost ni pomembna, te pa v EUPM drugače obravnavajo, če si »starejši« policist in s tem
+
+po njihovi razlagi bolj izkušen. Tako lahko ugotovim, da je misija JIPTC dosti bolj prijazna
+
+do mladih policistov kot pa EUPM BiH.
+
+
+
+Spol
+
+Spol tako za misijo JIPTC kot misijo EUPM BiH ne vpliva na izbor kandidatov.
+
+
+
+V obeh misijah niso delali razlik med moškim in ţenskim spolom. Dejstvo pa je, da so tako
+
+Iračani kakor tudi policisti v BiH laţje sprejeli moškega kot ţensko. Tukaj je teţko
+
+zaključiti, kdo je boljši, je pa gotovo misija v EUPM BiH dosti bolj prijazna do ţensk kot je
+
+bila misija JIPTC.
+
+
+
+Druţinski status
+
+Druţinski status tako za misijo JIPTC kot za misijo EUPM BiH ne vpliva na izbor
+
+kandidatov.
+
+
+
+Za obe misiji druţinski status ni pomemben, je pa laţje za policista, ki ima druţino,
+
+sodelovati v EUPM BiH  zaradi bliţine doma .
+
+
+
+
+
+24
+
+
+
+Drţavljanstvo
+
+Za obe misiji je pogoj drţavljanstvo Republike Slovenije, manjša razlika je samo v izbiri
+
+kandidatov, saj Republika Slovenija ne pošilja v misijo EUPM BiH policistov, katerih
+
+starši so iz bivših jugoslovanskih republik. Razlogi zato so nepristranskost pri izvajanju
+
+nalog, kar lahko štejem kot slabost.
+
+
+
+Motiv
+
+Vsekakor je za obe misiji tako JIPTC kot EUPM BiH motiv denar, drugi pa sprememba
+
+delovnega okolja, delo s tujimi policisti, nabiranje izkušenj, itd
+
+
+
+Verjetno je motiv v vseh misijah enak, mogoče se sčasoma samo spreminjajo prioritete
+
+odhoda. Tako lahko ugotovim, da je misija EUPM BiH glede zgoraj naštetih faktorjev
+
+veliko bolj prijazna.
+
+
+
+Trajanje napotitve
+
+Za obe misiji tako JIPTC kot EUPM BiH je po zakonu leto dni z moţnostjo podaljšanja za
+
+šest mesecev.
+
+
+
+Lahko ugotovim, da je v EUPM BiH  dosti laţje preţiveti leto in pol, kot pa v misiji JIPTC
+
+ţe zaradi oddaljenosti od doma in odhodov domov, še posebej, če ima policist mirovnik
+
+doma otroke.
+
+
+
+4.3.5 Delovanje policijskega kontingenta
+
+
+
+Priprave pred odhodom v misijo
+
+Pred odhodom v JIPTC smo imeli tedenske priprave, predavanja kolegov, ki poznajo
+
+razmere na Bliţnjem vzhodu, predavanja glede obnašanja, kulture, itd
+
+
+
+Pred odhodom v EUPM BiH smo imeli dvodnevne priprave in seznanitev z delom in
+
+političnim sistemov v BiH.
+
+
+
+
+
+25
+
+
+
+Priprave za misijo JIPTC so bile dosti bolj kvalitetne in obširnejše kot pa za EUPM BiH,
+
+kar je po eni strani razumljivo.
+
+
+
+Prihod v misijo
+
+Prihod v misijo JIPTC je z letalom, stroške krije Republika Slovenija.
+
+
+
+Prihod v misijo EUPM BiH je z letalom ali lastnim prevoznim sredstvom. Stroške letala
+
+krije Republika Slovenija, gorivo za vozilo sam.
+
+
+
+V JIPTC ni bilo izbire, v misijo si moral z letalom, v EUPM BiH greš lahko s svojim
+
+vozilom, ki lahko uporabljaš v prostem času, kar je prednost.
+
+
+
+Temeljne zadolţitve
+
+V JIPTC usposabljanje bodočih policistov.
+
+
+
+V EUPM BiH pomoč in svetovanje policistom in kriminalistom pri delu.
+
+
+
+V JIPTC smo jih usposabljali v temeljnih policiskih nalogah, v EUPM pa jim svetujemo pri
+
+reševanju teţav, do katerih pridejo pri delu na terenu in raziskavah kaznivih dejanj.
+
+
+
+Horizontalni in vertikalni stiki v strukturi misije
+
+V JIPTC deloval pod poveljstvom vodje teama, v katerem si delal.
+
+V EUPM BiH delujem pod povelstvom vodje SIPE v Sarajevu in njemu odgovarjam.
+
+
+
+V obeh misijah se točno ve, od koga prejemaš ukaze in komu odgovarjaš. Lahko ugotovim,
+
+da je bila tako imenovana »veriga poveljevanja« dosti boljša v JIPTC, saj smo imeli šefa pri
+
+»roki«, v EUPM BiH je pa v Sarajevu (sam sem stacioniran v Banja Luki), zato vidim
+
+svojega nadrejenega  enkrat mesečno. Vsa ostala komunikacija poteka  preko telefona ali e
+maila.
+
+
+
+
+
+
+
+26
+
+
+
+Sistem poročanja
+
+V JIPTC ni bilo tega sistema, saj je bil vodja skupine z nami.
+
+
+
+V EUPM BiH poročam vodji SIPA Sarajevo s tedenskim poročilom in pisnimi
+
+zabeleţkami.
+
+
+
+Dejanskega poročanja v JIPTC ni bilo, saj ni bil potreben, v EUPM pa se tedensko in
+
+dnevno poroča nadrejenemu v pisni obliki. Tukaj lahko ocenim, da je bil dosti bolši sistem
+
+v JIPTC, saj je bil vodja v vsakem trenutku seznanjen z delom.
+
+
+
+Srečanja članov nacionalnega kontingenta
+
+V JIPTC so bila srečanja članov kontingenta dnevna, saj smo ţiveli v isti stavbi.
+
+
+
+V EUPM BiH so srečanja članov kontingenta bolj redka, (v enem letu smo se srečali
+
+trikrat), saj smo razporejeni po celotni Bosni in Hercegovini (Banja Luka, Tuzla, Mostar in
+
+Sarajevo).
+
+
+
+Kar se tiče izmenjave mnenj in socialnega ţivljenja članov kontingenta, je bilo dosti bolje v
+
+JIPTC kot je v EUPM BiH.
+
+
+
+4.3.6 Logistika
+
+
+
+Informacijska in telekomunikacijska oprema
+
+V JIPTC nam je pripadal mobilni telefon katerega zagotovi MNZ, vodja kontingenta je
+
+imal dodatno še satelitski telefon.
+
+
+
+V EUPM BiH imam mobilni telefon katerega zagotovi MNZ in še enega katerega zagotovi
+
+EUPM BiH.
+
+
+
+
+
+27
+
+
+
+Med misijama ni bilo bistvene razlike glede informacijske in telekomunikacijske opreme.
+
+Kar lahko štejem v plus je to, da nam misija EUPM BiH priskrbi telefone z lokalnimi
+
+karticami, prav tako nam plačajo 20 eur mesečno, kar v JIPTC ni bilo.
+
+
+
+Namestitev
+
+V JIPTC in EUPM BiH morajo policisti sami poskrbeti za namestitev. Razlika je bila v
+
+plačilu stanarine, vode in ostalih stroškov. V JIPTC je stanarino plača drţava Slovenija  v
+
+EUPM BiH pa stanarino plačaš sam.
+
+
+
+Tukaj lahko ugotovim, da je bilo dosti bolje poskrbljeno za nas v JIPTC ţe zaradi same
+
+kvalitete bivanja (sam gledaš na višino stanarine, v JIPTC je bilo določeno, koliko lahko
+
+potrošimo), vendar so ponujena finančna sredstva presegala zahteve.
+
+
+
+Nastanitvena logistika
+
+Glede nastanitvene logistike je bilo v JIPTC nekoliko boljše, saj smo imeli kosilo
+
+zagotovljeno v kampu, zajtrk, večerjo smo plačevali sami. Kar se tiče čiščenja, likanja,
+
+pospravljanja, delo opraviš sam ali pa si plačaš čistilko. Enako velja za  EUPM BiH. Edina
+
+razlika med misijama je, da v Banja Luki nismo imeli zagotovljene  restavracije za kosilo.
+
+
+
+Lokalni prevoz
+
+Vozila je zagotovila misija JIPTC (vozila so bila rent – a – car, vsa opremljena z lokalnimi
+
+tablicami in s tem povezano nevpadljiva). Uporabljali smo jih za prevoz na delo in domov.
+
+V prostem času si vozilo lahko uporabljel, vendar si sam plačal gorivo.
+
+
+
+Vozila so last EUPM BIH, temno modre barve, oznakami EU POLICE, rumenimi tablicami
+
+in tako vpadljiva. V prostem času vozilo lahko uporablješ, vendar ne med 23.00 uro in
+
+06.00 uro zjutraj.
+
+
+
+V JIPTC so zagotovili vozila, ki niso bila markantna in s tem manj izstopajoča, ter za
+
+uporabnike bolj varna. Prav tako ni bilo nekakšne omejitve rabe vozila v prostem času.
+
+
+
+
+
+28
+
+
+
+4.3.7 Varnost
+
+
+
+Fizična ogroţenost
+
+Fizična in ţivljenska ogroţenost je bila bolj prisotna v JIPTC ţe zaradi samega potovanja
+
+na delovno mesto. Slovenski policisti smo bili nastanjeni v Ammanu, glavnem mestu
+
+Jordanije in smo se vsakodnevno vozili cca. 1,5 ure z avtomobilom v kamp v puščavi
+
+Muwaqar, kjer smo delali. Pri voţnji smo bili izpostavljeni prometnim nesrečam, uličnemu
+
+kriminalu, predvsem na semaforiziranih kriţiščih na rdeči luči (fizični napadi na policiste,
+
+poškodovanje vozil, tatvine, itd), v samem kampu pa terorističnim napadom podpornikov
+
+Iraka in iraške politike, ki so bili zaradi slabega nadzora nad izbranimi kandidati poslani na
+
+šolanje.
+
+
+
+V EUPM BiH so nevarne predvsem mine, še posebej na področjih, ki niso poseljena, in
+
+kriminal (drzne tatvine, ropi, tatvine vozil, itd.). Zanimivo, da se največ drznih tatvin ter
+
+ropov zgodi pri odhodu iz trgovskih centrov, kar kaţe na kupno moč in socialno stanje v
+
+drţavi.
+
+
+
+Kar se tiče virov ogroţanja, je bilo teh več v misiji JIPTC kot jih je v misiji EUPM BiH.
+
+Navsezadnje lahko vire ogroţanje v EUPM BiH zmanjšaš na minimum, če upoštevaš
+
+določene varnostne ukrepe (zbiraš restavracije, bare, itd), ter se izogibaš območjem, ki so
+
+označena s tablami »Pazi mine«.
+
+
+
+Psihosocialna ogroţenost
+
+V JIPTC te lahko ţe sam strah pred napadom in  razmišljanje o tem, kaj se ti lahko zgodi,
+
+pripelje na rob obupa. Prav tako je prisoten močan strah in stres, še posebej, če imaš otroke
+
+in se komu od njih kaj zgodi.
+
+
+
+V EUPM BiH psihosocialne ogroţenosti ni, saj se lahko v vsakem trenutku vrneš v
+
+domovino (vsaj čez vikend).
+
+
+
+
+
+29
+
+
+
+Strah, pritiski, stres je bil bolj prisoten v Jordaniji kot je pa v Bosni in Hercegovini ţe
+
+zaradi različnega dojemanja okolja in ljudi okoli tebe.
+
+
+
+Zdravstvena ogroţenost
+
+V JIPTC je največjo zdravstveno nevarnost predstavlja zastrupitev s hrano ali vodo,
+
+dehidracija (visoka vročina in nič vlage).
+
+
+
+V EUPM BiH je zdravstvena ogroţenost nekako enaka kot je v Sloveniji, saj nimajo
+
+ekstremnih bolezni.
+
+
+
+V JIPTC je bilo dosti več moţnosti zbolevanja kot je pa to v Bosni in Hercegovini.
+
+Navsezadnje je puščava za nas popolnoma drugo okolje, ki ga nismo vajeni.
+
+
+
+Skupna stopnja ogroţenosti
+
+Za misijo JIPTC smo pri plači prejemali dodatek za nevarnost.
+
+
+
+V misiji EUPM BiH ne prejemamo dodatka za nevarnost.
+
+
+
+Po kriterijih Uredbe o plačah je nevarost dosti večja v Jordaniji kot Bosni in Hercegovini.
+
+Lahko ugotovimo, da je od posameznika do posameznika odvisno, kaj mu več pomeni,
+
+dodatek in oddaljenost od doma, ali pa nič dodatka in bliţina doma.
+
+
+
+4.3.8 Psihosocialne okoliščine
+
+
+
+Oddaljenost od doma
+
+V JIPTC je vpliv oddaljenosti od doma velik. Druţino slišiš preko telefona ter interneta.
+
+Sam sem v 13 mesecih delovanja v misiji z druţino preţivel 1,5 meseca.
+
+
+
+V EUPM BiH dosti laţje prenašaš oddaljenost od doma, saj je razdalja med Bosno in
+
+Hercegovino ter Slovenijo »majhna«, z vozilom cca. 3,5 ure, tako da si lahko doma skoraj
+
+vsak konec tedna.
+
+
+
+30
+
+
+
+Sama oddaljenost je ključnega pomena, saj lahko, če ti je teţko, ali če je doma kaj narobe,
+
+iz EUPM BiH odideš domov, v JIPTC smo bili vezani na letalske prevoznike.
+
+
+
+Obiski doma
+
+Obiski doma so bili iz misije JIPTC omejeni in vezani na dopust. Na vsake 3 mesece smo
+
+odhajali domov za ca.14 dni.
+
+
+
+Iz misije EUPM BiH so obiski doma lahko vsak vikend, ter še dodatno vezani na dopust.
+
+Mesečno ti pripada 4 dni, tako da jih lahko porabiš v tekočem mesecu ali pa jih shranjuješ
+
+ter jih kasneje koristiš skupaj.
+
+
+
+Obiskov doma je dosti več iz  misije EUPM BiH kot jih je bilo iz misije JIPTC, v obeh
+
+misijah pa si lahko hkrati koristil 21 dni, nato pa se je bilo potrebno vrniti.
+
+
+
+Tako pridemo do zaključka, da je skozi institucionalno primerjalno analizo in parametre,
+
+katere sem primerjal, dosti več pozitivnih stvari na strani misije EUPM BiH (21
+
+parametrov) kot pa na strani strani misije JIPTC (10 parametrov). Če pa govorim
+
+individualno – skozi občutke policista -  ugotovim, da v primerjavi parametrov delovanja
+
+kontingenta in tehničnih sredstave prevladuje misija JIPTC. Samo vodenje, poročanje in
+
+organiziranje dela je bilo tako boljše in bolj učinkovito kot je to v EUPM BiH. Dejstvo je,
+
+da je nekaj parametrov, katerih nisem mogel primerjati, ker so v osnovi enaki (npr.
+
+demografija, ekonomija, politični sistem, itd.), vendar ne vplivajo na končno oceno, katera
+
+misija je bolje vodena in katera je bolj pozitivna in laţja, gledano s stališča slovenskega
+
+policista in osnovnih ţivljenskih kriterijev.
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
+
+
+5 Zaključek
+
+
+
+5.1 Verifikacija hipotez
+
+
+
+Uradno ZDA ne vodijo mirovnih civilnih misij in operacij. Le te se namreč vedno izvajajo
+
+z odobritvijo VS OZN, tako da potem v misiji poleg ZDA sodelujejo tudi druge drţave in
+
+članice VS. Tako je bilo tudi v primeru našega sodelovanja v JIPTC. Slovenija je sicer
+
+sodelovala s State Departmentom, vendar je cela ameriška operacija v Iraku imela podporo
+
+VS OZN. Uradno bi torej lahko rekli, da je Slovenska policija tam sodelovala kot članica
+
+OZN in ne kot podpornica ameriške zunanje politike, neuradno pa se seveda ve, kdo je bil
+
+glavni »motor« operacije Iraqi Freedom.
+
+
+
+Po zgornjih ugotovitvah skozi primerjalno analizo je jasno, da so bile smernice pod
+
+»ameriškim« poveljstvom bolj jasno začrtane, vodenje je bilo učinkovito, saj je bilo celo
+
+vodstvo iz ene same drţave. Direktor, njegov namestnik in vsi ostali vodilni usluţbenci
+
+misije, so bili Američani. Tam smo vedeli, za koga delamo. S tem ne trdim, da so bili ukazi
+
+vedno najbolj logični, bili pa so bolj usklajeni kot so v misiji EUPM. Hitreje se je lahko
+
+odločalo o vseh stvareh. Bistvena razlika je, če ima misija samo enega »gospodarja«, ali pa
+
+jih ima sedemindvajset, kot je v misijah EU. Članice Unije so pač enakopravno zastopane,
+
+kar nujno privede do različnih konceptov dela in vodenja, s tem pa tudi do slabe sinergije in
+
+teţav pri doseganju skupnih ciljev. Takšno vodenje dostikrat vzame (pre)več časa in
+
+energije.
+
+
+
+Zato lahko potrdim prvo hipotezo, da je bila Organiziranost, vodenje in poveljevanje o v
+
+misiji JIPT,C katero so vodile ZDA v okviru OZN boljše, kot je to v misiji EUPM BiH pod
+
+okriljem EU.
+
+
+
+Kako sta bili misiji učinkoviti, je teţko izmeriti, nenazadnje ena še ni zaključena. Dejstvo
+
+je, da smo v misiji JIPTC poskušali v dveh mesecih usposobiti kandidate za opravljanje
+
+poklica policist. Tipičnega profila kandidata ni mogoče narediti, vedeli pa smo, da so vseh
+
+
+
+32
+
+
+
+starosti (od mladih do starih), različnimi stopnjami in vrstami izobrazbe. Usposabljali smo
+
+jih za delo v zelo specifičnem okolju, predvsem pa v okviru kurikulima, ki so ga napravili
+
+ljudje, ki niso poznali kulture ciljne populacije, njihovih osebnih in druţbenih razmer ter
+
+običajev in zelo pomanjkljive izobrazbe. Dejstvo, da jih je bilo pri opravljanju policijskih
+
+nalog dve tretjini ubitih v roku enega leta po zaključku njihovega šolanja in povratku v
+
+Irak, še ne pomeni, da je bila misija neuspešna. Ali pač? Verjetno so bile (in so še vedno)
+
+razmere v Iraku res tako  hude in bi jih brez znanj, ki so jih pridobili od mednarodnih
+
+instruktorjev v JIPTC, pobili še več. Vsaka stvar se vedno da narediti bolje, vendar menim,
+
+da smo v danih okoliščinah mednarodni inštruktorji s svojim profesionalnim angaţmajem
+
+dosegli optimalne  moţne rezultatov.
+
+
+
+Misija EUPM poteka ţe od leta 2003. Od takrat se v Bosni in Hercegovini ni spremenilo
+
+skoraj nič. Izvedena je bila vrsta normativnih, političnih, upravnih, organizacijskih,
+
+kadrovskih in drugih sprememb, kar naj bi vse pripomoglo k blaginji naroda, k ukinitvi
+
+viznega reţima za bosanske drţavljane in k procesu pribliţevanja Evropski uniji.  Če na
+
+trenutne razmere gledamo  globalno in se osredotočimo na resnejše spremembe v drţavi, na
+
+primer na reformo policije, ugotovimo, da narod in vladajoča politika nista pripravljena na
+
+spremembe in jih nočeta sprejeti. Nobena od policijskih sistemskih reform ali resnih
+
+sprememb zakona ni bila uspešna in še vedno ni. BiH je daleč od blaginje, korupcija in
+
+kriminal vladata drţavi. Določeni drţavni aparati kot so policija, toţilstvo in sodstvo se
+
+trudijo spremeniti obstoječe stanje, vendar jim vse skupaj ne uspeva najbolje. Ţalostno je,
+
+da jim tudi mednarodne organizacije, pa ne mislim samo na EUPM, ampak tudi na OHR,
+
+OSCE in druge, pri tem ne pomagajo kaj dosti. Veliko je govorjenja, realiziranega je bolj
+
+malo. Je pa res, vsaj kar se tiče Slovenskih policistov, ljudje nas jemljejo kot sebi enake,
+
+navsezadnje smo bili del nekega skupnega druţbenoekonomskega in druţbenopolitičnega
+
+sistema nekdanje skupne drţave. Samo poznavanje lokalnih narodov, običajev, kulture,
+
+obnašanja, ipd. nam daje prednost pred ostalimi drţavami. Ljudje nam v veliki meri
+
+zaupajo, razumemo jezik, sporazumevanje je laţje in s tem je dvosmerni tok informacij
+
+kvalitetnejši.
+
+
+
+
+
+33
+
+
+
+Zato lahko potrdim tudi drugo hipotezo, da Slovenski policisti opravljajo svoje delo v
+
+mednarodnih mirovnih operacijah bolje na območju Jugozahodne Evrope kot pa v drugih
+
+mirovnih operacijah po svetu zaradi poznavanja kulture in jezika prebivalstva, kjer poteka
+
+mirovna operacija.
+
+
+
+5.2 Povzetek glavnih ugotovitev
+
+
+
+Republika Slovenija se je osredotočila predvsem na misije, ki potekajo na območju JV
+
+Evrope. V večini primerov je to za slovenske policiste prednost pred ostalimi tujimi
+
+policisti, ker nas večina dokaj dobro razume in pozna lokalni jezik, zgodovino, kulturo in
+
+socialne in administrativne strukture drţave, kjer se izvršuje misija EUPM BiH.
+
+
+
+Skozi diplomsko delo pa smo ugotovili, da je velika razlika ali misija poteka na enem
+
+prostoru (v policijskem centru), ali pa poteka na območju cele drţave. Jasno je, da je bila
+
+učinkovitost in koordinacija misije skozi organizacijo, vodenje in poveljevanje, ki je
+
+strnjena na en prostor kot v mojem primeru JIPTC boljša,  kot pa je to v misiji EUPM BiH.
+
+Poveljevanje, vodenje in poročanje je neposredno, tako da se jasno ve, kaj se od nekoga
+
+zahteva, če pa imamo misijo v celi drţavi, je to logostično nekoliko bolj zahtevno in  tudi
+
+manj učinkovito.
+
+
+
+S tem je nujno povezan tudi nivo znanja angleškega jezika, ki je v misiji EU  boljši in
+
+kvalitetnejši kot je to v misijah UN. Določene drţave v misijo UN pošiljajo policiste brez
+
+(pred)znanja angleškega jezika, tako da bi take zahteve kot jih postavlja EU v misijah UN
+
+povzročile velik osip kandidatov za misije, saj je znanje angleščine nekaterih zelo slabo
+
+(nezadovoljivo za osnovno komuniciranje), v misijo pridejo brez vozniškega dovoljenja, ter
+
+z drugimi lastnostmi, ki so za druge udeleţence misij moteče. Dodati je potrebno, da so
+
+pripadniki misij EU tudi drţavljani članic EU, kjer so ţivljenjski standardi in običaji na
+
+precej visokem in relativno enakem nivoju, zaradi česar teţko pride do večjih razhajanj v
+
+obnašanju policistov.
+
+
+
+
+
+34
+
+
+
+Skozi diplomsko delo sem se poskušal dotakniti vseh osnovnih segmentov dela in ţivljenja
+
+policistov v MCM, da bi bralec laţje razumel in dobil  svojo sliko o misijah. Misiji, kateri
+
+sem primerjal, sta geografsko in politično popolnoma različni, kar nujno vpliva tudi na
+
+kvaliteto ţivljenja policistov. Prednost misije JIPTC je bila v tem, da smo ţiveli v isti
+
+zgradbi, tako da smo lahko dnevno komunicirali in se videvali, medtem ko smo v misiji
+
+EUPM BiH razporejeni po celi drţavi in so srečanja omejena na vsakih par mesecev. Prav
+
+tako je puščava slovenskim policistom neznanka, zato je bila prilagoditev na ţivljenje
+
+daljša in teţja, poznavanje arabske kulture je bilo na nekem osnovnem nivoju, medtem ko
+
+jezika niti eden od petnajstih sodelujočih policistov ni poznal niti ni bilo organiziranega
+
+nobenega tečaja arabskega jezika.
+
+
+
+Tako pridemo do zaključka, da pripravljenost in vrhunska usposobljenost evropskih
+
+policistov in vojakov nedvomno izkazuje visok nivo elementov kriznega managementa, saj
+
+navedena elementa ne bi mogla obstojati, v kolikor bi bile matične drţave v razsulu
+
+oziroma pod nivojem, ki je tudi za Slovenijo nekaj povsem običajnega (imeti toplo vodo,
+
+elektriko, zdravila, dnevni topel obrok, itd.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+
+
+
+6 Literatura in viri
+
+
+
+Central intelligence agency, Publications, The world factbook. Pridobljeno dne
+
+19.10.2010 na https://www.cia.gov/library/publications/the-world-factbook/docs/
+
+profileguide.html.
+
+European union police mission in Bosnia and Herzegovina, Mandate. Pridobljeno
+
+dne 07.11.2010 na http://www.eupm.org/OurMandate.aspx
+
+European union police mission in Bosnia and Herzegovina, Overview. Pridobljeno
+
+dne 07.11.2010 na http://www.eupm.org/Overview.aspx
+
+Fugina, M. (2009). Štab, Nato in EU v Bosni in Hercegovini – sinergija ali
+
+tekmovanje?, Štab. Članek je pridobljen dne 07.11.2010 na http://blog.dsos.org/
+
+2009/07/06/nato-in-eu-v-bosni-in-hercegovini-%E2%80%93-sinergija-ali
+tekmovanje/.
+
+Garb, M. (2003), Mirovne operacije, Slovenska vojska, 11 (16), 20 -21.
+
+Grošelj, K. (2009). Transformacija sodobnih mirovnih oparacij, urednik R. Bric,
+
+Zbornik, Sodelovanje Republike Slovenije v mednarodnih operacijah in misijah,
+
+22-23. 21. januar 2009, Brdo pri Kranju, Ljubljana, Ministrstvo za obrambo RS.
+
+Hansen, A. (2002) From Kongo to Kosovo, Civilian police in Peace Operations,
+
+343, London, Adelphi Paper.
+
+Jelušič, L. (2003). Mirovne operacije kot oblika globalne mirovne preventive pred
+
+širjenjem groţenj. Teorija in praksa 40 (4), 627-647.
+
+Macchi, V. (2006), Jordan Times, JIPTC— Arming Iraqis with policing skills,
+
+Jordan Times. Članek je dobljen dne 16.05.2010 na http://www.jordan
+
+embassyus.org/01302006001.htm.
+
+Ministrstvo za notranje zadeve, Policija, Bosna in Hercegovina, EUPM. Članek
+
+dobljen dne 07.11.2010 na http://www2.policija.si/index.php/delovna-podroja/
+
+8043-eupm?lang=
+
+Ministrstvo za notranje zadeve, Policija, Mednarodne civilne misije. Članek
+
+pridobljen dne 07.11.2010 na http://www2.policija.si/index.php/mednarodno
+sodelovanje/mednarodne-civilne-misije
+
+
+
+
+
+
+
+
+
+
+
+
+36
+
+
+
+Ministrstvo za notranje zadeve, Policija, Slovenska policija v mednarodnih civilnih
+
+misijah 1997 – 2007. Članek prodobljen dne 07.11.2010 na http://www.policija.
+
+si/images/stories/MednarodnoSodelovanje/PDF/MirovneMisije/PolicijaVMednaro
+
+dnihMisijah.pdf
+
+Ministrstvo za notranje zadeve, Policija, Sprejem policistov, ki so se vrnili iz
+
+mednarodne mirovne misije v Jordaniji, in podelitev odlikovanj jordanskega
+
+kralja. Članek pridobljen dne 07.11.2010 na http://www2.policija.si/index.
+
+php/novinarsko-sredie/index.php?option=com_content&amp;view=article&amp;id=3066
+
+Poslovnik medresorske komisije za napotitev oseb v misije in mednarodne
+
+organizacije (Uradni list RS, št. 112/06).
+
+Pravilnik o napotitvi javnih usluţbencev ministrstva za notranje zadeve in organov
+
+v sestavi v mednarodne civilne misije in mednarodne organizacije (št. 007
+152/2008/1, 13. 5. 2008).
+
+Resolucija o strategiji nacionalne varnosti Republike Slovenije (Uradeni list RS,
+
+št. 27/2010).
+
+Strategija sodelovanja MNZ v mednarodnih civilnih misijah 2010 - 2015 (št. 871
+5/2009/18, 30. 3. 2010). Pridobljeno dne 11.10.2010 nahttp://www.policija.si/
+
+images/stories/MednarodnoSodelovanje/PDF/MirovneMisije/100303
+StrategijaMNZ.pdf
+
+Strategija sodelovanja Republike Slovenije v mednarodnih operacijah in misijah
+
+(Uradni list RS, št. 19/10).
+
+Uredba o plačah in drugih prejemkih javnih usluţbencev za delo v tujini (Uradni
+
+list RS, št. 14/09, 16/09 – popr. in 23/09).
+
+Vlada republike Slovenije, Ministrstvo za zunanje zadeve, Evropska varnostna in
+
+obrambna politika (EVOP). Članek dobljen dne na 07.11.2010 na
+
+http://www.mzz.gov.si/si/zunanja_politika/evropska_unija/evropska_varnostna_in
+
+_obrambna_politika_evop/
+
+Zakon o napotitvi oseb v mednarodne civilne misije in mednarodne organizacije
+
+(Uradni list RS, št. 20/06).
+
+Zakon o policiji (Uradni list RS, št. 66/09 – uradno prečiščeno besedilo).
+
+
+
+
+
+37
+
+
+
+Zakon o zunanjih zadevah (Uradni list RS, št. 113/03 – uradno prečiščeno
+
+besedilo, 76/08 in 108/09).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38
+
+
+
+Delovni življenjepis kandidata
+
+
+
+Rodil sem se 29. junija 1975 v Weissenburgu v Nemčiji. Tri razrede osnovne šole sem
+
+končal v Ljubljani, dokončal pa  na Vrhniki. Šolanje sem nadaljeval na Srednji šoli za
+
+miličnike v Tacnu..
+
+
+
+Po opravljanem zaključnem izpitu sem se leta 1994 zaposlil kot policist na Policijski postaji
+
+Vrhnika, kjer sem opravljal najprej delo policista – opazovalca, nato spremeljevalca v
+
+patrulji in nazadnje kot vodja patrulje.
+
+
+
+Leta 1998 sem bil na lastno ţeljo premeščen v Sektor kriminalistične policije, takrat
+
+Mobilno kriminalistično skupino, kasneje Mobilni kriminalistični oddelek, kjer sem še
+
+danes.
+
+
+
+Leta 2005 sem se prijavil v začetni tečaj za policiste – mirovnike, tako da sem ţe leta 2006
+
+odšel v prvo misijo  JIPTC (Jordan international police training center) v Jordaniji, kjer sem
+
+sodeloval pri usposabljanju iraških policistov. V misiji sem bil 13 mesecev . Leta 2009 sem
+
+šel v misijo EUPM v Bosni in Hercegovini in opravljal naloge svetovalca za SIPA (State
+
+investigation and protection agency) v Banja Luki. V tej misiji sem še vedno.
+
+
+
+Aktivno govorim angleški jezik in jezike bivše Jugoslavije. Obvladam delo s programskimi
+
+orodji Microsoft Office in Internet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39
+
+
+
+Izjava o avtorstvu
+
+
+
+Spodaj podpisani Allen Lorbek izjavljam, da je diplomsko delo z naslovom »Slovenska
+
+policija v mednarodnih civilnih misijah – primerjalna analiza ameriško in evropsko
+
+vodenih misij« rezultat lastnega dela in da so rezultati korektno navedeni.
+
+
+
+
+
+Ljubljana, 11.11.2010                                                                                          Allen Lorbek</PlainText>
+  <XmlText>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+&lt;meta name="dcterms:modified" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="meta:creation-date" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="meta:save-date" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="dc:creator" content="Allen"/&gt;
+&lt;meta name="Last-Modified" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="Author" content="Allen"/&gt;
+&lt;meta name="dcterms:created" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="date" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="modified" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="creator" content="Allen"/&gt;
+&lt;meta name="xmpTPg:NPages" content="47"/&gt;
+&lt;meta name="Creation-Date" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="meta:author" content="Allen"/&gt;
+&lt;meta name="created" content="Thu Nov 11 12:50:32 CET 2010"/&gt;
+&lt;meta name="producer" content="Microsoft® Office Word 2007"/&gt;
+&lt;meta name="Content-Type" content="application/pdf"/&gt;
+&lt;meta name="xmp:CreatorTool" content="Microsoft® Office Word 2007"/&gt;
+&lt;meta name="Last-Save-Date" content="2010-11-11T11:50:32Z"/&gt;
+&lt;meta name="dc:title" content="Univerza v Mariboru"/&gt;
+&lt;title&gt;Univerza v Mariboru&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Univerza v Mariboru 
+&lt;/p&gt;
+&lt;p&gt;Fakulteta za varnostne vede 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;DIPLOMSKO DELO 
+&lt;/p&gt;
+&lt;p&gt;Slovenska policija v mednarodnih civilnih misijah – primerjalna analiza 
+&lt;/p&gt;
+&lt;p&gt;ameriško in evropsko vodenih misij 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;                                                                        Allen Lorbek 
+&lt;/p&gt;
+&lt;p&gt;November, 2010                                             Mentor: dr. Andrej Sotlar, docent &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Ko jezi zadiši kri, je ni več mogoče prikriti! 
+&lt;/p&gt;
+&lt;p&gt;                                                                                         (Lucius Annaeus Seneka) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Iskrena zahvala mentorju doc. dr. Andreju Sotlarju,  
+&lt;/p&gt;
+&lt;p&gt;za njegovo pomoč pri izdelavi diplomskega dela, 
+&lt;/p&gt;
+&lt;p&gt;Marku Rodetu za svetovanje in nasvete pri pisanju,  
+&lt;/p&gt;
+&lt;p&gt;moji druţini za podporo in spodbudo, Andreju, 
+&lt;/p&gt;
+&lt;p&gt;Dušanu, Barbari in vsem ostalim, ki ste kakor koli 
+&lt;/p&gt;
+&lt;p&gt;sodelovali pri izdelavi tega diplomskega dela.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Kazalo 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;1 Uvod ............................................................................................................................... 1 
+&lt;/p&gt;
+&lt;p&gt;2 Metodološko – hipotetični okvir .................................................................................. 3 
+&lt;/p&gt;
+&lt;p&gt;2.1 Predmet proučevanja ............................................................................................... 3 
+&lt;/p&gt;
+&lt;p&gt;2.2 Cilji proučevanja ..................................................................................................... 4 
+&lt;/p&gt;
+&lt;p&gt;2.3 Hipoteze ................................................................................................................... 4 
+&lt;/p&gt;
+&lt;p&gt;2.4 Metode ..................................................................................................................... 4 
+&lt;/p&gt;
+&lt;p&gt;3 Razvoj civilnih zmogljivosti za sodelovanje v mednarodnih civilnih misijah in 
+&lt;/p&gt;
+&lt;p&gt;operacijah v Republiki Sloveniji ................................................................................. 5 
+&lt;/p&gt;
+&lt;p&gt;3.1 Pravna in politična podlaga za delo policistov v mednarodnih civilnih misijah .... 5 
+&lt;/p&gt;
+&lt;p&gt;3.2 Pogoji za napotitev policista .................................................................................... 8 
+&lt;/p&gt;
+&lt;p&gt;3.3 Kronologija mednarodnih civilnih misij .................................................................. 9 
+&lt;/p&gt;
+&lt;p&gt;4 Študija primera ameriško in evropsko vodenih misij ............................................. 12 
+&lt;/p&gt;
+&lt;p&gt;4.1 Na splošno o Jordan international police training center ..................................... 12 
+&lt;/p&gt;
+&lt;p&gt;4.2 Na splošno o European union police mission ........................................................ 13 
+&lt;/p&gt;
+&lt;p&gt;4.3 Primerjalna analiza proučevanih misij po ključnih parametrih ........................... 15 
+&lt;/p&gt;
+&lt;p&gt;4.3.1 Pravna podlaga ............................................................................................... 15 
+&lt;/p&gt;
+&lt;p&gt;4.3.2 Cilji ................................................................................................................. 17 
+&lt;/p&gt;
+&lt;p&gt;4.3.3 Ciljno okolje ................................................................................................... 18 
+&lt;/p&gt;
+&lt;p&gt;4.3.4 Pripadniki policijske misije ............................................................................ 21 
+&lt;/p&gt;
+&lt;p&gt;4.3.5 Delovanje policijskega kontingenta................................................................ 24 
+&lt;/p&gt;
+&lt;p&gt;4.3.6 Logistika ......................................................................................................... 26 
+&lt;/p&gt;
+&lt;p&gt;4.3.7 Varnost ........................................................................................................... 28 
+&lt;/p&gt;
+&lt;p&gt;4.3.8 Psihosocialne okoliščine ................................................................................. 29 
+&lt;/p&gt;
+&lt;p&gt;5 Zaključek ..................................................................................................................... 31 
+&lt;/p&gt;
+&lt;p&gt;5.1 Verifikacija hipotez ................................................................................................ 31 
+&lt;/p&gt;
+&lt;p&gt;5.2 Povzetek glavnih ugotovitev ................................................................................... 33 
+&lt;/p&gt;
+&lt;p&gt;6 Literatura in viri ......................................................................................................... 35 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Seznam kratic 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; BiH – Bosna in Hercegovina 
+&lt;/p&gt;
+&lt;p&gt; CFSP – Common Foreign and Security Policy, Skupna zunanja in varnostna 
+&lt;/p&gt;
+&lt;p&gt;politika 
+&lt;/p&gt;
+&lt;p&gt; CIVPOL – Civilian Police, Mednarodna civilna policija 
+&lt;/p&gt;
+&lt;p&gt; EVOP – Evolutionary Operations, Evropska varnostna in obrambna politika 
+&lt;/p&gt;
+&lt;p&gt; EU – European Union, Evropska unija 
+&lt;/p&gt;
+&lt;p&gt; EUPM – European Union Police Mission, Evropska policijska misija 
+&lt;/p&gt;
+&lt;p&gt; EUPM BiH – European Union Police Mission in Bosnia and Hercegovina, 
+&lt;/p&gt;
+&lt;p&gt;Evropska policijska misija v Bosni in Hercegovini 
+&lt;/p&gt;
+&lt;p&gt; ESDP – European Security and Defence Policy, Evropska Varnostna in obrambna 
+&lt;/p&gt;
+&lt;p&gt;politika  
+&lt;/p&gt;
+&lt;p&gt; EULEX Kosovo – European Union Rule of Law Mission in Kosovo, Evropska 
+&lt;/p&gt;
+&lt;p&gt;misija vladavine prava na Kosovu 
+&lt;/p&gt;
+&lt;p&gt; EUMM – European Union Monitoring Mission in Georgia, Opazovalna misija 
+&lt;/p&gt;
+&lt;p&gt;Evropske unije v Gruziji 
+&lt;/p&gt;
+&lt;p&gt; IED – Improvised Explozive Device, Improvizirana eksplozivna naprava 
+&lt;/p&gt;
+&lt;p&gt; IPTF – Internationa Police Task Force, Mednarodne sile za policijske naloge 
+&lt;/p&gt;
+&lt;p&gt; IPTM – International Police Training Mission, Mednarodna policijska misija za 
+&lt;/p&gt;
+&lt;p&gt;usposabljanje 
+&lt;/p&gt;
+&lt;p&gt; JIPTC – Jordan International Police Training Center, Jordanski mednarodni 
+&lt;/p&gt;
+&lt;p&gt;trenaţni center 
+&lt;/p&gt;
+&lt;p&gt; WEU MAPE Albanija – Westeren European Multinational Advisory Police 
+&lt;/p&gt;
+&lt;p&gt;Element in Albania, Policijska svetovalna misija Zahodnoevropske unije v 
+&lt;/p&gt;
+&lt;p&gt;Albaniji 
+&lt;/p&gt;
+&lt;p&gt; MCM – Mednarodna civilna misija 
+&lt;/p&gt;
+&lt;p&gt; MOM – Mednarodne operacije in misije 
+&lt;/p&gt;
+&lt;p&gt; OSCE – Organisation for Security and Cooperation in Europe, Organizacija za 
+&lt;/p&gt;
+&lt;p&gt;varnost in sodelovanje v Evropi (OVSE) &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; UN - United Nations, Organizacija zdruţenih narodov (OZN) 
+&lt;/p&gt;
+&lt;p&gt; ZDA – Zdruţene drţave Amerike 
+&lt;/p&gt;
+&lt;p&gt; ZEU – Western European Union, Zahodno evropska unija 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Povzetek 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Mednarodna skupnost v zadnjem času doţivlja velikanske spremembe na področju 
+&lt;/p&gt;
+&lt;p&gt;zagotavljanja svetovnega miru. Podobno kot vojska, tudi policija aktivno sodeluje v 
+&lt;/p&gt;
+&lt;p&gt;mednarodnih civilnih misijah v okviru različnih mednarodnih organizacij. Za današnje 
+&lt;/p&gt;
+&lt;p&gt;varnostne groţnje je  značilno, da niso omejene zgolj na en teritorij. Če ţelimo te groţnje 
+&lt;/p&gt;
+&lt;p&gt;preprečiti ali jih omiliti, so eden od takih inštitutov tudi mednarodne civilne misije z 
+&lt;/p&gt;
+&lt;p&gt;različnimi sredstvi in cilji. Pričujoče delo primerjalno analizira dve različni mednarodni 
+&lt;/p&gt;
+&lt;p&gt;civilni misiji, in sicer: mednarodno policijsko misijo pod okriljem Organizacije zdruţenih 
+&lt;/p&gt;
+&lt;p&gt;narodov JIPTC (Jordan International Police Training Center – JIPTC) v Jordaniji ter 
+&lt;/p&gt;
+&lt;p&gt;Policijsko misijo Evropske unije v Bosni in Hercegovini (European Union Police Mission – 
+&lt;/p&gt;
+&lt;p&gt;EUPM). V začetku predstavi zgodovinski razvoj mednarodnih civilnih misij v Sloveniji in 
+&lt;/p&gt;
+&lt;p&gt;njene civilne zmogljivosti,  dotakne pa se tudi zakonske in politične podlage za napotitev 
+&lt;/p&gt;
+&lt;p&gt;slovenskih policistov v mednarodne civilne misije. V nadaljevanju pove nekaj splošnih 
+&lt;/p&gt;
+&lt;p&gt;izhodišč za razumevanje misije JIPTC in misije EUPM BiH, nato pa primerjalno analizira 
+&lt;/p&gt;
+&lt;p&gt;proučevani misiji po ključnih parametrih. V okviru primerjalne analize predstavi 
+&lt;/p&gt;
+&lt;p&gt;posamezne parametre, pomembne za laţje razumevanje namena in uspešnosti tako ene kot 
+&lt;/p&gt;
+&lt;p&gt;druge misije, kakor tudi dela in ţivljena policistov mirovnikov. Na koncu na podlagi 
+&lt;/p&gt;
+&lt;p&gt;primerjalne analize poda splošno oceno . 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Ključne besede: varnost, mednarodne civilne misije, Jordan International Police Training 
+&lt;/p&gt;
+&lt;p&gt;Center, European Union Police Mission 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Slovenian police in international civil missions – comperative 
+&lt;/p&gt;
+&lt;p&gt;analysis of American and European missions 
+&lt;/p&gt;
+&lt;p&gt;Summary 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;International Community has lately been experienced significant changes in the field of 
+&lt;/p&gt;
+&lt;p&gt;implementation of peace and acceptable security situation. Similar like military forces, 
+&lt;/p&gt;
+&lt;p&gt;police forces actively participate in international civilian missions joining diverse 
+&lt;/p&gt;
+&lt;p&gt;international organizations. Today’s security threats are not confined on one territory. A 
+&lt;/p&gt;
+&lt;p&gt;variety of means and goals are prescribed by international civilian missions aimed at 
+&lt;/p&gt;
+&lt;p&gt;preventing and mitigating these security threats. The thesis contemplates a comparative 
+&lt;/p&gt;
+&lt;p&gt;analysis of two different international police missions: international police mission under 
+&lt;/p&gt;
+&lt;p&gt;the auspices of United Nations (JIPTC-Jordan International Police Training Center) in 
+&lt;/p&gt;
+&lt;p&gt;Jordan and the European Union Police Mission in Bosnia and Herzegovina (European 
+&lt;/p&gt;
+&lt;p&gt;Union Police Mission – EUPM). The thesis firstly discourses on historical development of 
+&lt;/p&gt;
+&lt;p&gt;Slovenian participation in international civilian mission and its civil capability, also 
+&lt;/p&gt;
+&lt;p&gt;referring to legal grounds for the deployment of Slovenian police officers in international 
+&lt;/p&gt;
+&lt;p&gt;civil missions. General background for better understanding of two missions JIPTC and 
+&lt;/p&gt;
+&lt;p&gt;EUPM has been depicted as well as the study on comparative analysis of missions as the 
+&lt;/p&gt;
+&lt;p&gt;key parameter. The purpose of comparative analysis is to present the parameters relevant 
+&lt;/p&gt;
+&lt;p&gt;for better insight into the function and performance of missions as well as police work and 
+&lt;/p&gt;
+&lt;p&gt;lives of peacekeepers. Based on comparative analysis overall assessment has been created 
+&lt;/p&gt;
+&lt;p&gt;as the conclusion of thesis.   
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Key words: safety, international civilian mission, Jordan international police training 
+&lt;/p&gt;
+&lt;p&gt;center, European Union police mission  &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;1 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;1 Uvod 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Republika Slovenija je s civilnimi policisti v mednarodnih mirovnih operacijah začela 
+&lt;/p&gt;
+&lt;p&gt;sodelovati oktobra leta 1997, ko je Vlada republike Slovenije potrdila sodelovanje 
+&lt;/p&gt;
+&lt;p&gt;slovenskih policistov v misiji MAPE  v Albaniji. Nosilka operacije je bila Zahodno 
+&lt;/p&gt;
+&lt;p&gt;evropska unija (ZEU) kot temelj evropske varnostne in obrambne identitete. Glavni namen 
+&lt;/p&gt;
+&lt;p&gt;misije je bil pribliţati organiziranost in standarde delovanja albanske policije standardom 
+&lt;/p&gt;
+&lt;p&gt;evropskih policij. Poseben poudarek je bil na spoštovanju človekovih pravic (Garb, 2003: 
+&lt;/p&gt;
+&lt;p&gt;20-21). Slovenski policisti so v misiji pričeli sodelovati kot inštruktorji v trenaţnih centrih 
+&lt;/p&gt;
+&lt;p&gt;v Draču in Tirani, zaradi izkazanega uspeha pri delu pa so kasneje opravljali tudi delo 
+&lt;/p&gt;
+&lt;p&gt;osrednjega svetovalca za področje mejnih zadev ter področnega svetovalca za usposabljanje 
+&lt;/p&gt;
+&lt;p&gt;specialne enote policije.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Kasneje je slovenska policija sodelovala in še sodeluje tudi v misijah OZN, trenutno pa 
+&lt;/p&gt;
+&lt;p&gt;sodeluje še v treh mednarodnih civilnih misijah pod okriljem EU, in sicer v misiji EUPM v 
+&lt;/p&gt;
+&lt;p&gt;BiH, misiji EULEX na Kosovu ter misiji EUMM v Gruziji. V prvo so bili napoteni 
+&lt;/p&gt;
+&lt;p&gt;predvsem policisti, ki tudi v Sloveniji opravljajo bolj zahtevna in specifična dela na 
+&lt;/p&gt;
+&lt;p&gt;področju kriminalističnega preiskovanja, policijske taktike in policijskega managementa.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Mirovne misije ali misije v podporo miru lahko razdelimo glede večih dejavnikov. 
+&lt;/p&gt;
+&lt;p&gt;Najosnovnejša je delitev na misije OZN in misije EU, delimo pa jih tudi na vojaške in 
+&lt;/p&gt;
+&lt;p&gt;policijske misije. Misije lahko razdelimo glede na generacije, in sicer mirovne operacije 
+&lt;/p&gt;
+&lt;p&gt;prve generacije, druge in tretje generacije
+1
+ (Jelušič, 2003: 639). Misije delimo še na 
+&lt;/p&gt;
+&lt;p&gt;oboroţene, tradicionalne in kompleksne, operacije za vzpostavitev miru, operacije za 
+&lt;/p&gt;
+&lt;p&gt;ohranitev miru, za ustvarjanje miru, za vsiljevanje miru in operacije za preventivno 
+&lt;/p&gt;
+&lt;p&gt;diplomacijo.  Vse misije pa so imenovane tudi politične misije, ki so namenjene pomoči pri 
+&lt;/p&gt;
+&lt;p&gt;vzpostavitvi in oblikovanju novega političnega sistema (Jelušič, 2003). 
+&lt;/p&gt;
+&lt;p&gt;                                                           
+&lt;/p&gt;
+&lt;p&gt;1
+ Prva generacija mirovnih misij je bila v času hladne vojne, druga od konca hladne vojne do leta 1992 in 
+tretja generacija traja še danes (Jelušič, 2003).  &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;2 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Naloge slovenskih policistov v misijah pa se razlikujejo predvsem glede na vrsto nalog. 
+&lt;/p&gt;
+&lt;p&gt;Tako bi jih samo naštel in sicer:  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; operativne oziroma izvršilne naloge 
+&lt;/p&gt;
+&lt;p&gt; opazovalne naloge 
+&lt;/p&gt;
+&lt;p&gt; svetovalne naloge 
+&lt;/p&gt;
+&lt;p&gt; izobraţevalne naloge 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V diplomskem delu bom poskušal s primerjalno analizo dveh različnih misij, dveh različnih 
+&lt;/p&gt;
+&lt;p&gt;principov vodenja (ameriškega in evropskega), kakor tudi ţivljenja v eni in drugi misiji, kar 
+&lt;/p&gt;
+&lt;p&gt;najbolje ilustrirati razliko med misijama OZN in EU. Potrebno je poudariti, da ZDA ne 
+&lt;/p&gt;
+&lt;p&gt;vodijo mirovnih civilnih misij in operacij. Le te se izvajajo na predlog ZDA in z odobritvijo 
+&lt;/p&gt;
+&lt;p&gt;VS OZN, tako da poleg ZDA v misiji navsezadnje sodelujejo tudi druge drţave. 
+&lt;/p&gt;
+&lt;p&gt;Pomembno vlogo pri tem pa igra samo dejstvo, da ameriška administracija namenja veliko 
+&lt;/p&gt;
+&lt;p&gt;denarja OZN-u, tako da »upravljajo« s to organizacijo. Večina primerjanja misij bo 
+&lt;/p&gt;
+&lt;p&gt;temeljila na lastnih izkušnjah, saj sem kot pripadnik slovenske policije sodeloval v 
+&lt;/p&gt;
+&lt;p&gt;mednarodni civilni misiji Jordan international police training center v Jordaniji, ki je imela 
+&lt;/p&gt;
+&lt;p&gt;podporo VS OZN in civilni misiji European union police mission v BiH pod okriljem 
+&lt;/p&gt;
+&lt;p&gt;Evropske unije, v kateri v času izdelave diplomskega dela še vedno sodelujem.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;3 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;2 Metodološko – hipotetični okvir 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;2.1 Predmet proučevanja 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Predmet proučevanja diplomskega dela so mednarodne civilne misije, v katerih sodeluje 
+&lt;/p&gt;
+&lt;p&gt;slovenska policija, predmet posebnega proučevanja pa sta izbrani ameriško in evropsko 
+&lt;/p&gt;
+&lt;p&gt;vodeni mednarodni civilni misiji. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Večina groţenj varnosti deluje transnacionalno, zato zahteva obramba pred njimi visoko 
+&lt;/p&gt;
+&lt;p&gt;stopnjo mednarodnega sodelovanja in usklajenega odzivanja na različne krizne pojave. 
+&lt;/p&gt;
+&lt;p&gt;Globalne groţnje varnosti postajajo vse bolj tudi neposredne nacionalne groţnje, tako je 
+&lt;/p&gt;
+&lt;p&gt;tudi varnostno okolje Republike Slovenije povezano z negotovostjo in nestabilnostjo v 
+&lt;/p&gt;
+&lt;p&gt;drţavah znotraj in zunaj evroatlantskega prostora. Ker je interes Republike Slovenije varno 
+&lt;/p&gt;
+&lt;p&gt;okolje, spremljanje sprememb v varnostnem okolju, preprečevanje nastajanja groţenj v 
+&lt;/p&gt;
+&lt;p&gt;Republiki Sloveniji ter drugih drţavah iz regije in, ker misije in operacije predstavljajo 
+&lt;/p&gt;
+&lt;p&gt;obliko globalne mirovne preventive pred širjenjem groţenj, bo naloga osredotočena na  
+&lt;/p&gt;
+&lt;p&gt;sodelovanje Republike Slovenije v mednarodnih civilnih misijah (v nadaljevanju MCM). 
+&lt;/p&gt;
+&lt;p&gt;(Resolucija o strategiji nacionalne varnosti Republike Slovenije, Uradni list RS, št. 
+&lt;/p&gt;
+&lt;p&gt;27/2010) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Izraz »operacije« kriznega odzivanja uporabljata Ministrstvo za obrambo in Slovenska 
+&lt;/p&gt;
+&lt;p&gt;vojska (Crisis managament operations) za opredelitev delovanja Slovenske vojske in 
+&lt;/p&gt;
+&lt;p&gt;civilnih funkcionalnih strokovnjakov (CIMIC) na kriznih območjih v tujini. MNZ in 
+&lt;/p&gt;
+&lt;p&gt;Policija v teh operacijah ne sodelujeta. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Z namenom jasne in enostavne opredelitve delovanja organov slovenske drţavne uprave v 
+&lt;/p&gt;
+&lt;p&gt;tujini, predvsem slovenske vojske in policije, uvaja letos sprejeta Strategija sodelovanja 
+&lt;/p&gt;
+&lt;p&gt;Republike Slovenije v mednarodnih operacijah in misijah (Ur. l. RS, št. 19/2010)  
+&lt;/p&gt;
+&lt;p&gt;pojmovno zvezo mednarodne operacije in misije (MOM).  
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="f;ù6I˚2DøÑ{¥‘_æS¹nulld2ñ¯Ï$}0úï&amp;gt;êŸfi™7×vzîìnull]…äæMÂ?î"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="¹ˇ†£Cnull‘êºÝ±Î%©»eªFMnullãöª&amp;lt;nullc-'‹ßØÛ›a)ˇ-ÁÆ®G¯HsFØ{v"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;4 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;2.2 Cilji proučevanja 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;S primerjalno analizo ameriško in evropsko vodenih MCM sem ţelel doseči naslednje cilje: 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; Predstaviti delovanje misij OZN in EU s poudarkom na podobnostih in razlikah; 
+&lt;/p&gt;
+&lt;p&gt; Ugotoviti, ali je mednarodna civilna misija, ki je eden od predmetov proučevanja, 
+&lt;/p&gt;
+&lt;p&gt;pod okriljem Zdruţenih drţav Amerike, bolje organizirana,  enostavneje vodena in 
+&lt;/p&gt;
+&lt;p&gt;bolj učinkovita kot tista pod okriljem Evropske unije;   
+&lt;/p&gt;
+&lt;p&gt; Ugotoviti, ali uţiva slovenska policija v mednarodnih civilnih misijah, ki jih vodi 
+&lt;/p&gt;
+&lt;p&gt;EU, večjo enakopravnost z vidika delovanja in soodločanja; 
+&lt;/p&gt;
+&lt;p&gt; Ugotoviti, ali je v mednarodnih civilnih misijah, ki jih vodi EU zastopanost vseh 
+&lt;/p&gt;
+&lt;p&gt;drţav članic enakomernejša kot v mednarodnih civilnih misijah ki jih vodijo OZN;   
+&lt;/p&gt;
+&lt;p&gt; Predstaviti lasten izkustveni pogled na mednarodne civilne misije.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;2.3 Hipoteze 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;H1: Organiziranost, vodenje in poveljevanje je bilo v misiji JIPTC, katero so vodile ZDA v 
+&lt;/p&gt;
+&lt;p&gt;okviru OZN, boljše kot je to v misiji EUPM BiH pod okriljem EU.        
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;H2: Slovenski policisti zaradi poznavanja kulture in jezika prebivalstva, uspešneje 
+&lt;/p&gt;
+&lt;p&gt;opravljajo svoje delo v MCM na območju jugovzhodne Evrope kot pa v MCM po svetu.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;2.4 Metode 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Analiziral in interpretiral sem  primarne in sekundarne vire, saj sem za raziskavo uporabil 
+&lt;/p&gt;
+&lt;p&gt;knjige, časopisne članke in internetne strani. Te vire sem uporabljal skozi celotno delo. 
+&lt;/p&gt;
+&lt;p&gt;Prav tako sem uporabil historično metodo, predvsem v poglavju, kjer opisujem sodelovanje 
+&lt;/p&gt;
+&lt;p&gt;slovenske policije v MCM, kot ključno pa sem uporabil komparativno analitsko v 
+&lt;/p&gt;
+&lt;p&gt;poglavjih, kjer primerjam dve različni MCM. Uporabil sem še analizo uradnih statistik ter 
+&lt;/p&gt;
+&lt;p&gt;deskiptivno metodo, predvsem v poglavjih, kjer sem opredelil temeljne pojme. &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;5 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;3 Razvoj civilnih zmogljivosti za sodelovanje v mednarodnih 
+&lt;/p&gt;
+&lt;p&gt;civilnih misijah in operacijah v Republiki Sloveniji 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Slovenija je z mednarodnim priznanjem ter članstvom v Organizaciji zdruţenih narodov 
+&lt;/p&gt;
+&lt;p&gt;(OZN), Organizaciji za varnost in sodelovanje v Evropi (OVSE) ter Evropski uniji (EU) 
+&lt;/p&gt;
+&lt;p&gt;prevzela soodgovornost za zagotavljanje svetovnega miru. Slovenska policija aktivno 
+&lt;/p&gt;
+&lt;p&gt;prispeva k skupnim naporom Evropske unije pri oblikovanju skupne evropske varnostne in 
+&lt;/p&gt;
+&lt;p&gt;obrambne politike (EVOP). (http://www.mzz.gov.si/si/zunanja_politika/evropska_unija/ 
+&lt;/p&gt;
+&lt;p&gt;evropska_varnostna_in_obrambna_politika_evop/) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Nacionalna varnostna politika Republike Slovenije (njene temelje določa Resolucija o 
+&lt;/p&gt;
+&lt;p&gt;strategiji nacionalne varnosti Republike Slovenije, Ur. l. RS. Št. 27/2010) daje prednost 
+&lt;/p&gt;
+&lt;p&gt;nenasilnemu reševanju mednarodnih konfliktov in obsoja uporabo sile s ciljem ogroţanja 
+&lt;/p&gt;
+&lt;p&gt;svobode in varnosti drugih drţav. Slovenska policija aktivno sodeluje v mednarodnih 
+&lt;/p&gt;
+&lt;p&gt;civilnih misijah pod okriljem OZN, EU in OVSE od leta 1997.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Konflikti v zadnjem obdobju so vse bolj notranjedrţavni z ali brez vmešavanja sosednjih ali 
+&lt;/p&gt;
+&lt;p&gt;drugih drţav. Zaradi spremenjene narave sporov postajajo MCM  vse bolj zahtevne in po 
+&lt;/p&gt;
+&lt;p&gt;vsebini kompleksne. Klasične mirovne misije se praktično ne vzpostavljajo več. Današnje 
+&lt;/p&gt;
+&lt;p&gt;MCM vsebujejo različne vsebinske aktivnosti (humanitarno pomoč, pomoč pri izvedbi 
+&lt;/p&gt;
+&lt;p&gt;volitev, vzpostavljanje pravne drţave, demilitarizacijo, demobilizacijo, vzpostavitev nove 
+&lt;/p&gt;
+&lt;p&gt;administracije, vojske, lokalne policije, njihovo usposabljanje itd). (Grošelj, 2009) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;3.1 Pravna in politična podlaga za delo policistov v mednarodnih civilnih 
+&lt;/p&gt;
+&lt;p&gt;misijah 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Pravno podlago za delo policistov v mednarodnih civilnih misijah predstavljajo: 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; Zakon o zunanjih zadevah (Uradni list RS, št. 113/03 – uradno prečiščeno 
+&lt;/p&gt;
+&lt;p&gt;besedilo, 76/08 in 108/2009)  &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="]¤null‡‡Ät|Ç°ÍÉ§ÇŁ=éz4é+Þìï„È{null&amp;lt;ıŠ#ÍùeJ&amp;lt;F°nullâÏü&amp;lt;PÍð×µ’w}õ˝nullôÐÁ¸PËnull°ßÿjLl(òõ’æ-PÏ#õ˚l˝æÑˇzïÞ{“U†—null˝5nullnullU#YnullÒ"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="nullnullèqÉŸt¯8ÌÀ\gÌ½¥(null‡žnull&amp;gt;nullûÿD”V{@YT¤”|ÔÕÞüZWÏSš£ı€TKtc½Ïx¶ÿ¸A»æß˚HNg¯×‡éFº”ãºk#'ŸnulläyÂ[´Ÿg;«null]æSÃ¡!null8#‰ÿnullnull"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;6 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; Zakon o napotitvi oseb v mednarodne civilne misije in mednarodne organizacije 
+&lt;/p&gt;
+&lt;p&gt;(Uradni list RS, št. 20/2006)  
+&lt;/p&gt;
+&lt;p&gt; Zakon o policiji (Uradni list RS, št. 66/2009 – uradno prečiščeno besedilo)  
+&lt;/p&gt;
+&lt;p&gt; Pravilnik o napotitvi javnih usluţbencev ministrstva za notranje zadeve in organov 
+&lt;/p&gt;
+&lt;p&gt;v sestavi v mednarodne civilne misije in mednarodne organizacije (št. 007-
+&lt;/p&gt;
+&lt;p&gt;152/2008/1) 
+&lt;/p&gt;
+&lt;p&gt; Poslovnik medresorske komisije za napotitev oseb v misije in mednarodne 
+&lt;/p&gt;
+&lt;p&gt;organizacije (Uradni list RS, št. 112/2006)  
+&lt;/p&gt;
+&lt;p&gt; Uredba o plačah in drugih prejemkih javnih usluţbencev za delo v tujini (Uradni 
+&lt;/p&gt;
+&lt;p&gt;list RS, št. 14/09, 16/09 – popr. in 23/2009)  
+&lt;/p&gt;
+&lt;p&gt; Strategija sodelovanja Republike Slovenije v mednarodnih operacijah in misijah 
+&lt;/p&gt;
+&lt;p&gt;(Uradni list RS, št. 19/2010)  
+&lt;/p&gt;
+&lt;p&gt; Strategija sodelovanja MNZ v mednarodnih civilnih misijah 2010 - 2015 (št. 871-
+&lt;/p&gt;
+&lt;p&gt;5/2009/18) (http://www.policija.si/images/stories/MednarodnoSodelovanje/PDF/ 
+&lt;/p&gt;
+&lt;p&gt;MirovneMisije/100303-StrategijaMNZ.pdf)  
+&lt;/p&gt;
+&lt;p&gt; Resolucija o strategiji nacionalne varnosti Republike Slovenije (Uradni list RS, št. 
+&lt;/p&gt;
+&lt;p&gt;27/2010) 
+&lt;/p&gt;
+&lt;p&gt; Resolucija UNSCR 1325 in 1820 (United Nations Security Council Resolutions, 
+&lt;/p&gt;
+&lt;p&gt;1325 and 1820) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Splošno zakonsko podlago za sodelovanje slovenske policije v mirovnih misijah 
+&lt;/p&gt;
+&lt;p&gt;predstavlja 19. člen Zakon o policiji, (Ur. l. RS, št. 49/98, 66/98)2, napotitve policistov v 
+&lt;/p&gt;
+&lt;p&gt;konkretne MCM pa imajo podlago v posamičnih sklepih Vlade RS. Plače policistov, ki  
+&lt;/p&gt;
+&lt;p&gt;sodelujejo v MCM, ureja Uredba o plačah delavcev MNZ RS v tujini pri opravljanju 
+&lt;/p&gt;
+&lt;p&gt;obveznosti, sprejetih v mednarodnih organizacijah (Ur. l. RS, št. 67/97). 
+&lt;/p&gt;
+&lt;p&gt;                                                           
+&lt;/p&gt;
+&lt;p&gt;2
+ 19. člen Zakona o policiji določa: 
+&lt;/p&gt;
+&lt;p&gt;   „ Policija lahko na prošnjo mednarodnih organizacij ali na podlagi meddrţavnih sporazumov, katerih 
+članica ali podpisnica je Republika Slovenija, sodeluje v tujini pri opravljanju policijskih ali drugih 
+nevojaških nalog. O uporabi policije za naloge iz prejšnjega odstavka odloča Vlada na predlog ministra, 
+pristojnega za notranje zadeve.“  &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="hnull¦null+ ?ŒÑ˘ˆÍGŽÖ«£fløë©ù·nullÚ¶ÌÑ¢nullãÝ'%¿null¦Ï onullunullÿnullëfiÑ"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="†ù•;−eD ã€æ•&amp;quot;}˙nullnullÕœo+nullnullÁÚ\š8L÷ÊÛˇñEwÄˇ,®nullÏnullûÌðar"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;7 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Mednarodno pravni temelj sodelovanja slovenske policije v MCM je članstvo Republike 
+&lt;/p&gt;
+&lt;p&gt;Slovenije v Organizaciji zdruţenih narodov. Slovenija je bila v to organizacijo sprejeta z 
+&lt;/p&gt;
+&lt;p&gt;resolucijo Generalne skupščine A/RES/46/236 na predlog Varnostnega sveta na 86. 
+&lt;/p&gt;
+&lt;p&gt;plenarnem zasedanju 22. 5. 1992. Poleg Zakona o policiji pa je pomemben nacionalni 
+&lt;/p&gt;
+&lt;p&gt;pravni vir, ki ureja napotitve policistov v MCM tudi Pravilnik o sodelovanju pri opravljanju 
+&lt;/p&gt;
+&lt;p&gt;policijskih ali drugih nevojaških nalog v tujini. Obstaja pa seveda še vrsta mednarodnih 
+&lt;/p&gt;
+&lt;p&gt;pravnih virov, ki vsebujejo bodisi splošne določbe povezane z MCM ali pa se nanašajo na 
+&lt;/p&gt;
+&lt;p&gt;konkretne misije.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Med pomembnejše mednarodno pravne vire sodijo Splošna dekleracija OZN o človekovih 
+&lt;/p&gt;
+&lt;p&gt;pravicah iz leta 1948, Evropska konvencija o človekovih pravicah iz leta 1950, Deklaracija 
+&lt;/p&gt;
+&lt;p&gt;o zaščiti vseh oseb pred mučenjem in drugimi oblikami okrutnega, nečloveškega in 
+&lt;/p&gt;
+&lt;p&gt;poniţevalnega ravnanja iz leta 1975, Mednarodni pakt o drţavljanskih in političnih 
+&lt;/p&gt;
+&lt;p&gt;pravicah iz leta 1966, itd 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Slovenski policisti pa ne opravljajo naloge samo v okviru OZN, temveč tudi v okviru EU in 
+&lt;/p&gt;
+&lt;p&gt;OVSE. Pravico in dolţnost sodelovanja v misijah EU je Slovenija pridobila z vstopom v 
+&lt;/p&gt;
+&lt;p&gt;EU.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Podlago za sodelovanje v misijah OVSE je Slovenija pridobila z vstopom v to organizacijo 
+&lt;/p&gt;
+&lt;p&gt;leta 1992. Naloge se opravljajo na podlagi dokumenta Izzivi sprememb, ki ga je podpisala 
+&lt;/p&gt;
+&lt;p&gt;tudi Slovenija in je bil oblikovan v Helsinkih leta 1992
+3
+.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Poleg zgoraj naštetih pravnih virov je za udeleţbo slovenskih policistov v MCM in 
+&lt;/p&gt;
+&lt;p&gt;operacijah pomemben sklep Vlade Republike Slovenije, ki določa, kolikšno število 
+&lt;/p&gt;
+&lt;p&gt;policistov in pod kakšnimi pogoji naj se jih pošlje v misijo.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;                                                           
+&lt;/p&gt;
+&lt;p&gt;3
+ Dokument Izzivi sprememb (Challenges of change) obravnava operacije ohranjanja miru v okviru KVSE. V 
+&lt;/p&gt;
+&lt;p&gt;skladu s tem dokumentom OVSE lahko samostojno ukrepa in začne operacije ohranjanja miru kot 
+organizacija.  &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;8 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Nacionalna varnostna politika Republike Slovenije
+4
+ daje prednost nenasilnemu reševanju 
+&lt;/p&gt;
+&lt;p&gt;mednarodnih konfliktov in obsoja uporabo sile s ciljem ogroţanja svobode in varnosti 
+&lt;/p&gt;
+&lt;p&gt;drugih drţav, zato svoje nacionalne varnostne interese tudi v prihodnje zagotavlja tudi z 
+&lt;/p&gt;
+&lt;p&gt;aktivnim sodelovanjem v strukturah kooperativne varnosti.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Slovenski policisti po odločitvi vlade sodelujejo v MCM pod okriljem Organizacije 
+&lt;/p&gt;
+&lt;p&gt;zdruţenih narodov, (OZN), Organizacije za varnosti in sodelovanje v Evropi (OVSE), 
+&lt;/p&gt;
+&lt;p&gt;Evropske unije (EU) in v okviru izpolnjevanja drugih obveznosti Republike Slovenije v 
+&lt;/p&gt;
+&lt;p&gt;mednarodnih organizacijah ali na podlagi meddrţavnih sporazumov leta 1997. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;S svojo strokovnostjo in specifičnostjo je slovenska policija močneje prisotna v misijah JV 
+&lt;/p&gt;
+&lt;p&gt;Evrope. V EU so se pričeli zavedati prednosti, ki jih imajo slovenski policisti zaradi 
+&lt;/p&gt;
+&lt;p&gt;poznavanje kulture, jezika, mentalitete, zakonodaje in drugih odločilnih dejavnikov na 
+&lt;/p&gt;
+&lt;p&gt;območju JZ Evrope. (Strategija sodelovanja Republike Slovenije v mednarodnih operacijah 
+&lt;/p&gt;
+&lt;p&gt;in misijah, Ur. l. RS. Št. 19/2010) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;3.2 Pogoji za napotitev policista 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;EU je sprejela kriterije, ki jih mora upoštevati vsaka drţava napotiteljica policistov v 
+&lt;/p&gt;
+&lt;p&gt;misije. Poglavitni pogoji, ki jih morajo izpolnjevati napoteni policisti so: 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; poštenost – ohraniti mora najvišjo stopnjo osebne integritete, nepristranskosti in 
+&lt;/p&gt;
+&lt;p&gt;osebne discipline za čas v misiji. Imeti mora odlične pogajalske sposobnosti in 
+&lt;/p&gt;
+&lt;p&gt;zmoţnost profesionalnega dela v stresnem in raznolikem okolju, 
+&lt;/p&gt;
+&lt;p&gt; varnostni kriterij – opis del in nalog za posamezno delovno mesto zahteva 
+&lt;/p&gt;
+&lt;p&gt;pridobitev dovoljenja za dostop do tajnih podatkov, zaščitenih s stopnjo tajnosti 
+&lt;/p&gt;
+&lt;p&gt;»NATO TAJNO«, 
+&lt;/p&gt;
+&lt;p&gt;                                                           
+&lt;/p&gt;
+&lt;p&gt;4
+ Resolucija o strategiji nacionalne varnosti Republike Slovenije (Uradni list RS, št. 27/2010) &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="null5‡ßžÜnullønullãÜƒÙ+ÿ)å‹Ê$ŁNÉý÷nullŠ£˘R·8m¡c¥ãh&amp;lt;‰Y™ànullnull,vU"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;9 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; voljnost in prilagodljivost – biti mora sposoben opravljanja dela v teţavnih 
+&lt;/p&gt;
+&lt;p&gt;razmerah z omejitvijo pomoči in soočanja z daljšo odsotnostjo od druţine in 
+&lt;/p&gt;
+&lt;p&gt;običajnega ţivljenskega in delovnega okolja,  
+&lt;/p&gt;
+&lt;p&gt; psihična in fizična vzdržljivost – biti mora psihično močna in zdrava oseba, brez 
+&lt;/p&gt;
+&lt;p&gt;telesnih zdravstvenih teţav ali odvisnosti od substanc, ki lahko zmanjšajo 
+&lt;/p&gt;
+&lt;p&gt;operativni učinek v misiji, 
+&lt;/p&gt;
+&lt;p&gt; sposobnost učinkovitega komuniciranja v angleščini – tekoče mora ustno in 
+&lt;/p&gt;
+&lt;p&gt;pisno komunicirati v angleškem jeziku, ter obvladati sistematično pisno poročanje, 
+&lt;/p&gt;
+&lt;p&gt; vozniško dovoljenje – imeti mora veljavno vozniško dovoljenje za motorna vozila 
+&lt;/p&gt;
+&lt;p&gt;kategorije B in biti usposobljen za voţnjo terenskih vozil s 4x4 pogonom, 
+&lt;/p&gt;
+&lt;p&gt; poznavanje dela z računalnikom – vešč mora biti uporabe različnih programskih 
+&lt;/p&gt;
+&lt;p&gt;orodij osebnega računalnika (predvsem urejevalnika besedil). 
+&lt;/p&gt;
+&lt;p&gt;(Strategija sodelovanja Ministrstva za notranje zadeve v mednarodnih civilnih 
+&lt;/p&gt;
+&lt;p&gt;misijah, http://www.policija.si/images/stories/MednarodnoSodelovanje/PDF/ 
+&lt;/p&gt;
+&lt;p&gt;MirovneMisije/100303-StrategijaMNZ.pdf) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Resno naknadno ugotovljeno nepoznavanje katerega od  naštetih kriterijev lahko povzroči  
+&lt;/p&gt;
+&lt;p&gt;izredno in predčasno odslovitev policista iz MCM in njegovo vrnitev v domovino. Do sedaj 
+&lt;/p&gt;
+&lt;p&gt;še noben slovenski policist ni bil odslovljen iz misije, kar ponovno kaţe na vrhunsko 
+&lt;/p&gt;
+&lt;p&gt;usposobljenost in strokovnost naših policistov v misijah. (http://www.policija.si/images/ 
+&lt;/p&gt;
+&lt;p&gt;stories/MednarodnoSodelovanje/PDF/MirovneMisije/PolicijaVMednarodnihMisijah.pdf) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;3.3 Kronologija mednarodnih civilnih misij  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Jelušičeva (2003: 639) ugotavlja, da so se mirovne operacije v zgodovini stalno 
+&lt;/p&gt;
+&lt;p&gt;spreminjale, tako po namenih, kakor tudi po načinu delovanja. Največje spremembe načina 
+&lt;/p&gt;
+&lt;p&gt;delovanja MCM nastanejo po koncu hladne vojne, ko pride do popuščanja napetosti med 
+&lt;/p&gt;
+&lt;p&gt;blokoma, upadanja pomena veta Varnostnega sveta OZN, ter povečane vloge OZN pri 
+&lt;/p&gt;
+&lt;p&gt;reševanju mednarodnih konfliktov. 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="fl¥Æ#˚fiNá`:ˇc&amp;gt;ÚÅnullnullÉkfzL‹flèÂa˙ÓfiéÂÚnullÃvoófitTnullnullŽp¢Á–š˛k¢5nullünull a˙7üjªë−V)˜âJ|UR–Rå&amp;amp;Ø¶h&amp;amp;_n÷˝½Piànull¸&amp;amp;n|J•F4ˆ&amp;quot;„null?WknullRnull°"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="Q†0snullónull´&amp;amp;¦ÐÁK£}finull°©ªnullhnullŠÂäî˚pI“D)?˜nnull‡Ðàänull(‡Ü)‰KŠ„öìnull¿nullàžu¦±&amp;lt;˛a˚$%⁄qł¦©Ïíñ]˚áIqö®fiÂ@“Znull°ênull%°%RÄ&amp;amp;õ7£Rçnullÿâ3t€−ž"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;10 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Operacije so šle v smeri:  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; preventivne namestitve sil pred izbruhom spopada,  
+&lt;/p&gt;
+&lt;p&gt; vmesne razmestitve mirovnih sil, ki ustvarjajo pogoje za uspeh političnih pogajanj, 
+&lt;/p&gt;
+&lt;p&gt; operacije za uresničevaje sprejetih mirovnih in drugih splošnih sporazumov,  
+&lt;/p&gt;
+&lt;p&gt; operacije za zaščito humanitarne pomoči v času oboroţenih spopadov,  
+&lt;/p&gt;
+&lt;p&gt; operacije za stabilizacijo razmer in vzpostavitev drţavnosti in 
+&lt;/p&gt;
+&lt;p&gt; operacije za preprečitev kršenja dogovorov v sporu. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Danes se v vedno večjem obsegu v mednarodne operacije vključujejo civilna policija, 
+&lt;/p&gt;
+&lt;p&gt;civilne mednarodne organizacije in lokalni usluţbenci. Vsi si prizadevajo, da se teţave 
+&lt;/p&gt;
+&lt;p&gt;rešujejo diplomatsko. Tu ne gre samo za razmejitev sprtih strani, temveč tudi za dejansko 
+&lt;/p&gt;
+&lt;p&gt;rešitev problemov. Dejstvo pa je, da operacije same še niso končane, zato ne moremo 
+&lt;/p&gt;
+&lt;p&gt;govoriti o boljših, uspešnejših mirovnih operacijah, temveč samo o naprednejšem, 
+&lt;/p&gt;
+&lt;p&gt;diplomatskem reševanju sporov (Hansen, 2002: 59). 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Preglednica 1: Udeleţba slovenskih policistov v EUPM in JIPTC 
+&lt;/p&gt;
+&lt;p&gt;Leto 
+&lt;/p&gt;
+&lt;p&gt;Misija, lokacija 
+04 05 06 07 08 09 SKUPAJ 
+&lt;/p&gt;
+&lt;p&gt;EUPM BiH 4 4 4 4 4 4 24 
+&lt;/p&gt;
+&lt;p&gt;JIPTC Jordanija 5 5 5 - - - 15 
+&lt;/p&gt;
+&lt;p&gt;SKUPAJ 9 9 9 4 4 4 39 
+&lt;/p&gt;
+&lt;p&gt;Vir: http://www2.policija.si/index.php/mednarodno-sodelovanje/mednarodne-civilne-misije 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V preglednici 1 sta prikazani misiji EUPM in JIPTC, ki sta predmet diplomskega dela. 
+&lt;/p&gt;
+&lt;p&gt;Tako je kronološko prikazan številčni razvoj policistov v MCM JIPTC v Jordaniji in 
+&lt;/p&gt;
+&lt;p&gt;EUPM v Bosni in Hercegovini med leti 2004–2009, koliko slovenskih policistov je bilo v &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="¦wCÚÈo^Ÿ\null~nullð|äø‡‡L¦Œfi“0™t¿jÊ)nullfXM_Pœ·null·Tnull2ý’ÓggnullAó¿dûÁ¾Š¢1˜gpnull)nullûT5WÞ™•JnullNgÕÂnull’‚¬"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;11 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;omenjenih misijah (začetek primerjanja je začetek misije JIPTC)  in koliko policistov je v 
+&lt;/p&gt;
+&lt;p&gt;eni ali drugi misiji zdaj. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Če pogledamo preglednico, ugotovimo, da je imela Republika Slovenija v času trajanja 
+&lt;/p&gt;
+&lt;p&gt;misije JIPTC (Jordan international police training center)  več policistov kot pa v EUPM 
+&lt;/p&gt;
+&lt;p&gt;BiH (European Union police mission in Bosnia and Herzegovina), kar ne kaţe večjega 
+&lt;/p&gt;
+&lt;p&gt;interesa Republike Slovenije za zagotavljanje miru in stabilnosti v JV Evropi. Vendar pa 
+&lt;/p&gt;
+&lt;p&gt;samo dejstvo, da v misiji EUPM v BiH še vedno aktivno sodelujemo in da so slovenski 
+&lt;/p&gt;
+&lt;p&gt;policisti v EUPM BiH ţe od leta 2002, kaţe na to, da temu ni tako. Po drugi strani je bil kar 
+&lt;/p&gt;
+&lt;p&gt;zadeva JIPTC, dogovor slovenske vlade in ameriške administracije, da policija pošlje 
+&lt;/p&gt;
+&lt;p&gt;policiste v misijo v okviru njenih zmoţnosti (to je 5 policistov). Misija se je po treh letih 
+&lt;/p&gt;
+&lt;p&gt;delovanja in izpolnitve ameriške obljube iraškim oblastem števila izurjenih iraških 
+&lt;/p&gt;
+&lt;p&gt;policistov zaprla. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;12 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4 Študija primera ameriško in evropsko vodenih misij 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.1 Na splošno o Jordan international police training center  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Cilj oblikovanja JIPTC je zagotovitev usposabljanja policistov v varnem okolju in 
+&lt;/p&gt;
+&lt;p&gt;povečano sodelovanje z mednarodnimi partnerji. Nahaja se v puščavskem predelu občine 
+&lt;/p&gt;
+&lt;p&gt;Muwaqar, pribliţno 40 kilometrov vzhodno od jordanskega glavnega mesta Ammanna, na 
+&lt;/p&gt;
+&lt;p&gt;nadmorski višini 844 m. Izgradnja kompleksa novega centra  je bila zaključena 2007. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Kmalu po začetku gradnje so v Muwaqar prispeli prvi mednarodni policijski inštruktorji in 
+&lt;/p&gt;
+&lt;p&gt;prvi iraški policijski rekruti. Policijski inštruktorji so bili po večini iz drţav začasne 
+&lt;/p&gt;
+&lt;p&gt;koalicije (ZDA, Velika Britanija in Kanada) in Jordanije, tem pa so se kmalu pridruţili še 
+&lt;/p&gt;
+&lt;p&gt;policisti iz nekaterih evropskih in drugih drţav.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Policisti so v tej misiji opravljali vlogo inštruktorjev, predavateljev in profesorjev v 
+&lt;/p&gt;
+&lt;p&gt;različnih ustanovah. Predvsem je šlo za delo na policijski akademiji – šolskem centru 
+&lt;/p&gt;
+&lt;p&gt;nacionalnih policijskih sil (po zaključku misije je bil center predan Joradanski policiji za 
+&lt;/p&gt;
+&lt;p&gt;njihovo lastno uporabo in je eden največjih policijskih centrov na svetu).  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;JIPTC je bila operacija, ki je avtorizirala večnacionalne sile pod enotnim poveljstvom za 
+&lt;/p&gt;
+&lt;p&gt;izvedbo vseh potrebnih ukrepov, ki prispevajo k vzdrţevanju varnosti in stabilnosti v Iraku. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Aktivnosti v JIPTC je začela Začasna koalicijska uprava Iraka, kasneje pa so, kot pri IPTM 
+&lt;/p&gt;
+&lt;p&gt;(ang. International Police Training Mission), prešle pod okrilje ameriških ministrstev za 
+&lt;/p&gt;
+&lt;p&gt;zunanje zadeve in pravosodje. Cilj JIPTC je bil zagotoviti usposabljanje iraških varnostnih 
+&lt;/p&gt;
+&lt;p&gt;sil v varnem okolju in ob največjem moţnem sodelovanju mednarodnih partnerjev. 
+&lt;/p&gt;
+&lt;p&gt;Inštruktorji so prihajali iz različnih drţav, med katerimi so prevladovale evropske in 
+&lt;/p&gt;
+&lt;p&gt;severnoameriške. 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;13 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Program usposabljanja je bil razdeljen na usposabljanje za splošno policijsko delo (boj 
+&lt;/p&gt;
+&lt;p&gt;proti terorizmu in kriminalu, temeljna načela demokratičnega delovanja policije in veščine 
+&lt;/p&gt;
+&lt;p&gt;patruljiranja) in na usposabljanje za operativno policijsko delovanje (obrambne taktike, 
+&lt;/p&gt;
+&lt;p&gt;ravnanje s strelnim oroţjem, voţnja in praktična uporaba pridobljenih znanj). Večina 
+&lt;/p&gt;
+&lt;p&gt;kandidatov je na tej stopnji končala svoje urjenje in usposabljanje ter se vrnila v Irak. Le 
+&lt;/p&gt;
+&lt;p&gt;izbrani so nadaljevali specializirano usposabljanje, na katerem so se usposobili za ravnanje 
+&lt;/p&gt;
+&lt;p&gt;z improviziranimi eksplozivnimi napravami in zagotavljanje varnosti na policijskih 
+&lt;/p&gt;
+&lt;p&gt;postajah ter pridobili potrebna vodstvena in taktična znanja. Slovenska policija je 
+&lt;/p&gt;
+&lt;p&gt;sodelovala v operaciji od leta 2004 do 15. 4. 2007, predvsem pri usposabljanju za splošno 
+&lt;/p&gt;
+&lt;p&gt;policijsko delo. V treh dvanajstmesečnih izmenah je skupno sodelovalo petnajst policistov. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Za prizadevanja in strokovno opravljeno delo na območju Jordanije so vsi policisti prejeli 
+&lt;/p&gt;
+&lt;p&gt;tudi posebna odlikovanja, katerih izdajo je odobril jordanski kralj Abdullah II. 
+&lt;/p&gt;
+&lt;p&gt;(http://www2.policija.si/index.php/novinarsko-sredie/index.php?option=com_content 
+&lt;/p&gt;
+&lt;p&gt;&amp;amp;view=article&amp;amp;id=3066) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.2 Na splošno o European union police mission 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Do 31. decembra 2002 je na podlagi Daytonskega sporazuma in resolucije OZN v BiH 
+&lt;/p&gt;
+&lt;p&gt;delovala misija IPTF (International Police Task Force). Njen mandat je bil nadzor, 
+&lt;/p&gt;
+&lt;p&gt;predvsem pa izgradnja policije BiH po standardih razvitih policij s poudarkom na načelih 
+&lt;/p&gt;
+&lt;p&gt;demokratičnosti, varovanja človekovih pravic itd. Naloga je bila zaradi treh entitet, ki ţivijo 
+&lt;/p&gt;
+&lt;p&gt;na območju BiH, teţka in odgovorna. Misija IPTF je kljub zahtevnosti naloge dosegla 
+&lt;/p&gt;
+&lt;p&gt;zastavljene cilje in končala svoj mandat v roku.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Januarja 2003 je mandat IPTF delno prevzela EU, ki se je zaradi zgodovinskih in političnih 
+&lt;/p&gt;
+&lt;p&gt;vzrokov čutila poklicano in odgovorno, da skrbi za red in razvoj na svojem »dvorišču«,  
+&lt;/p&gt;
+&lt;p&gt;torej v BiH. Drugi pomemben dejavnik je t. i. CFSP (Skupna zunanja in varnostna politika 
+&lt;/p&gt;
+&lt;p&gt;EU). EU je pričela vzpostavljati sile za hitro posredovanje oz. t. i. civilni krizni 
+&lt;/p&gt;
+&lt;p&gt;menedţment, ki vključuje tudi policijske sile. Sprva je bilo mišljeno, da bodo v bodoči &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="ŠÀÝ*þ¯ƒÍxnullgnull_$$’KS*ni˘¤3ˇþQ~nullŠ¾nullEÕ@^ß$ƒÔáłñ#nullÞ_ý›.vUŁç4MÌnull†ÇÆQ=ınull“©»&amp;amp;A£nullšÚl÷cìŸKWM-ÕfiŒÉí€´ù}õ×7«¹&amp;quot;˝F¬"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="b‰null²R@õnullªlŠvnull˘«iunull+‡`¦ÿ˚¿´&amp;amp;nullä|null çêÐVKSº˘£˙ˇnull5óÇ¥BÅwKIdJÒüéµýtnullnullur6`null¹null±¦vnullˆ–gþ/S˛˘˝Î¯·ÜÉÅ…Ý^2$«·ÖÔsnullnull"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;14 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;(testni) misiji EU sodelovale le drţave članice, vendar so bile k sodelovanju povabljene tudi 
+&lt;/p&gt;
+&lt;p&gt;drţave kandidatke za članstvo v EU. Tako je svoj deleţ k tem silam ponudila tudi slovenska 
+&lt;/p&gt;
+&lt;p&gt;policija. Mandat misije EUPM je izgradnja demokratične policije s standardi, ki dosegajo 
+&lt;/p&gt;
+&lt;p&gt;evropske v vseh bistvenih elementih delovanja policije in vzpostavitev koordinacije ter 
+&lt;/p&gt;
+&lt;p&gt;sodelovanja med entitetami, ki ţivijo na območju BiH. Rok za dosego cilja je bil postavljen 
+&lt;/p&gt;
+&lt;p&gt;dokaj ambiciozno, in sicer do 31. decembra 2005, vendar cilj do takrat ni bil doseţen. Nato 
+&lt;/p&gt;
+&lt;p&gt;je bila misija podaljšana do konca leta 2009 in nato še enkrat do konca leta 2011. 
+&lt;/p&gt;
+&lt;p&gt;(http://www.eupm.org/Overview.aspx) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;To je svetovalna misija, ki se izvaja v Bosni in Hercegovini v okviru Evropske unije. V tej 
+&lt;/p&gt;
+&lt;p&gt;misiji policisti opravljajo vlogo svetovalcev na področju srednjega policijskega 
+&lt;/p&gt;
+&lt;p&gt;menedţmenta. Policisti s svojimi znanji, pridobljenimi z dolgoletnimi izkušnjami na svojih 
+&lt;/p&gt;
+&lt;p&gt;specifičnih področjih, svetujejo lokalni policiji pri njenem delu in vzpostavitvi policijskih 
+&lt;/p&gt;
+&lt;p&gt;struktur in zakonitosti v drţavi. (http://www.eupm.org/OurMandate.aspx) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Slovenska policija je v tej MCM sodelovala od samega začetka, od 1.1.2003, ko je misjija 
+&lt;/p&gt;
+&lt;p&gt;EUPM 1 začela delovati s povprečno po štirimi policisti, tako da je do zdaj v EUPM 
+&lt;/p&gt;
+&lt;p&gt;sodelovalo skupaj 33 policistov. Na različnih lokacijah v BiH so delovali kot strokovni 
+&lt;/p&gt;
+&lt;p&gt;svetovalci za boj proti organiziranemu kriminalu ter za splošno policijsko delo na zvezni in 
+&lt;/p&gt;
+&lt;p&gt;lokalni (kantonalni) ravni. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Misija EUPM 2 je operativno začela delovati 1.1. 2006, z mandatom dveh let, in je 
+&lt;/p&gt;
+&lt;p&gt;nadaljevanje misije EUPM 1 v BiH, katere mandat se je končal decembra 2005. Naloge 
+&lt;/p&gt;
+&lt;p&gt;misije so svetovanje policiji BiH, podpora in pomoč pri proaktivnem boju zoper 
+&lt;/p&gt;
+&lt;p&gt;organiziran kriminal ter izvedba reform v policiji. (http://www2.policija.si/index.php/ 
+&lt;/p&gt;
+&lt;p&gt;delovna-podroja/8043-eupm?lang=) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Po sklepu Vlade republike Slovenije (št. 51100-141/2005/3, 5. 1. 2006) so štirje slovenski 
+&lt;/p&gt;
+&lt;p&gt;policisti na misiji nastopili enoletni mandat 6. 2. 2006. Sekretariat Sveta EU je zaprosil RS 
+&lt;/p&gt;
+&lt;p&gt;za podaljšanje do 31. 12. 2007,  kasneje pa še do konca leta 2008. V Sekretariatu Sveta EU 
+&lt;/p&gt;
+&lt;p&gt;(CPCC - The Civilian Planning and Conduct Capability) so razpravljali o morebitnem &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="#q“ªþßÏÙå«‚˙ÒµöÖCš¶D&amp;quot;àŽë“ftUXłˇnull®"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="c˜šn,n¼ÁÆnullSÖ&amp;lt;.h,Ì²−Çhöõj°˜ßÐ¯ÐNñunullG"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="ùey’ËéF@Łìävñ]Ká»†W(Ómnullf&amp;quot;ÿÉ§gnull/&amp;quot;P´Ênull´9nÅ[—G˘null/èGßa[¹ ?Öú¥-×Ìénull’&amp;amp;"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="f§‡z-qÔònullnullÇÅµ¶WîªäWð PrG¤š˚ønullóËZ€áìÄ[nully‘ˆ‡sÆnullnullªflnull·æ2Tlnull÷NwnullX–nullnull‰"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;15 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;ponovnem podaljšanju in obliki te misije ter nazadnje podaljšali misijo do 2011 kot EUPM 
+&lt;/p&gt;
+&lt;p&gt;3 v podporo policiji BiH v boju zoper organiziran kriminal in korupcijo. 
+&lt;/p&gt;
+&lt;p&gt;(http://www2.policija.si/index.php/delovna-podroja/8043-eupm?lang=) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3 Primerjalna analiza proučevanih misij po ključnih parametrih  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V tem delu diplomskega dela bi rad skozi parametre pravne podlage, ciljnega okolja, ciljne 
+&lt;/p&gt;
+&lt;p&gt;populacije, pripadnikov policijske misije, delovanja kontingenta, logistike, varnosti in psiho 
+&lt;/p&gt;
+&lt;p&gt;– socialne okoliščin prikazal razliko med misijama, prišel do potrditve ali zavrnitve 
+&lt;/p&gt;
+&lt;p&gt;postavljenih hipotez in nenazadnje bralcu poskušal prikazati vodenje, napredovanje in 
+&lt;/p&gt;
+&lt;p&gt;ţivljenje v obeh misijah ki sta predmet primerjanja.   
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.1 Pravna podlaga 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Osnovo za ustanovitev JIPTC je predstavljal 13. odstavek resolucije VS OZN 1511/2003, 
+&lt;/p&gt;
+&lt;p&gt;pomemben pa je bil tudi 14. odstavek, ki poziva vse članice, da v duhu resolucije 
+&lt;/p&gt;
+&lt;p&gt;prispevajo k oblikovanju v 13. členu opredeljenih večnacionalnih sil. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Za ustanovitev EUPM BiH so pomembni naslednji akti: pogodba o Evropski uniji (tretji 
+&lt;/p&gt;
+&lt;p&gt;odstavek 25. člena), pogodba o Policijski misiji Evropske unije (EUPM) v Bosni in 
+&lt;/p&gt;
+&lt;p&gt;Hercegovini (BiH) (1) (17. člen skupnega ukrepa), skupni ukrep Sveta 2005/824 /SZVP z 
+&lt;/p&gt;
+&lt;p&gt;dne 24. novembra 2005 o Policijski misiji Evropske unije (EUPM) v Bosni in 
+&lt;/p&gt;
+&lt;p&gt;Hercegovini(BiH) (2) predvsem 9(1). člen. Mandat misije pa temelji na določilih Aneksa 
+&lt;/p&gt;
+&lt;p&gt;11. k Daytonskemu sporazumu ki je sporazum o mednarodnih silah za policijske naloge 
+&lt;/p&gt;
+&lt;p&gt;(International police task forces - IPTF) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Ugotovimo lahko, da je pravna podlaga za EU misije natančna in bolje določna, predvsem 
+&lt;/p&gt;
+&lt;p&gt;so natančneje opredeljeni okviri, v katerih lahko deluje misija.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="2±\[InulllšO!Ü¶Ž‹ÀªTsa’\ÄL¸null·Ënullç•RJæÎB—Üç0zqnull[3ž©fi¸null2nullÓì:6ÌúÿnullÂnull2nullnull"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;16 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Temeljni nacionalni pravni akt 
+&lt;/p&gt;
+&lt;p&gt;Za napotitev policistov v JIPTC je temeljni sklep vlade RS, ki je oktobra 2003 obravnavala 
+&lt;/p&gt;
+&lt;p&gt;predlog  pomoči Republike Slovenije v Iraku in odobrila sodelovanje v MCM v Jordaniji.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Za napotitev policistov v EUPM BiH je temejni pravni akt sprejetje sklepa Vlade 
+&lt;/p&gt;
+&lt;p&gt;Republike Slovenije (št.51100-141/2005/3, 5. 1. 2006) o napotitvi policistov v MCM BiH. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Ugotovimo, da so policisti v JIPTC ali EUPM BiH napoteni na podlagi sklepa, katerega 
+&lt;/p&gt;
+&lt;p&gt;sprejme vlada. Tako velja za vse MCM, v katerih deluje slovenska policija. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Namen 
+&lt;/p&gt;
+&lt;p&gt;Namen napotitve policistov v JIPTC je bilo pooblastilo OZN večnacionalnim policijskim 
+&lt;/p&gt;
+&lt;p&gt;silam pod enotnim poveljstvom, da izvedejo vse potrebne ukrepe in prispevajo k 
+&lt;/p&gt;
+&lt;p&gt;vzdrţevanju varnosti in stabilnosti v Iraku. Cilji pa so zagotoviti usposabljanje iraških 
+&lt;/p&gt;
+&lt;p&gt;varnostnih sil v varnem okolju in ob največjem moţnem sodelovanju mednarodnih 
+&lt;/p&gt;
+&lt;p&gt;partnerjev, zato je bila misija na nevtralnem ozemlju, v Jordaniji. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Namen EUPM BiH je ustanovitev mednarodnih policijskih sil pod okriljem EU za 
+&lt;/p&gt;
+&lt;p&gt;izvajanje različnih nalog. Cilji so urjenje in svetovanje varnostnim strukturam, spremljanje 
+&lt;/p&gt;
+&lt;p&gt;in nadziranje njihovega delovanja. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Namen v JIPTC je izšolati iraške kandidate za policiste, ki niso imeli nikakršnega 
+&lt;/p&gt;
+&lt;p&gt;policijskega predznanja, bili takorekoč pobrani iz ulice, do te mere, da so bili sposobni 
+&lt;/p&gt;
+&lt;p&gt;opravljanja osnovnih policijskih nalog (legitimiranja, preverjanja dokumentov, ustavljanja 
+&lt;/p&gt;
+&lt;p&gt;vozil, obravnavaja prometnih nesreč, streljanja, itd) medtem ko je namen in cilj misije 
+&lt;/p&gt;
+&lt;p&gt;EUPM BiH predvsem nadzor nad delom policije, preprečevanje konfliktov znotraj 
+&lt;/p&gt;
+&lt;p&gt;policijskih vrst zaradi rasne in verske nestrpnosti in s tem zagotoviti profesionalno policijo, 
+&lt;/p&gt;
+&lt;p&gt;kateri bodo drţavljani Bosne in Hercegovine zaupali.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;17 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.2 Cilji 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Primarni cilji 
+&lt;/p&gt;
+&lt;p&gt;Primarni cilj  JIPTC je bil v kratkem času temeljno ali do te mere izuriti pripadnike iraške 
+&lt;/p&gt;
+&lt;p&gt;policije, da so lahko samostojno opravljali policijsko delo v Iraku in s tem prispevali k 
+&lt;/p&gt;
+&lt;p&gt;izboljšanju varnostnih razmer v svoji drţavi. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH je primarni cilj doseči evropske standarde skozi reformo policije v sami 
+&lt;/p&gt;
+&lt;p&gt;policijski organizaciji ter vodenju le te v celotni BiH, preprečevanje rasne in verske 
+&lt;/p&gt;
+&lt;p&gt;nestrpnosti in s tem vplivati na njeno profesionalno delovanje.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Obe misiji imata pozitivno poslanstvo, skušata doseči določene standarde, ki pa so na 
+&lt;/p&gt;
+&lt;p&gt;različnih nivojih profesionalnosti.  Lahko zaključim, da je delo v EUPM BiH dosti teţje 
+&lt;/p&gt;
+&lt;p&gt;(svetovanje organizaciji, ki ţe dosega zadovoljive rezultate)5 kot pa nekoga naučiti osnove 
+&lt;/p&gt;
+&lt;p&gt;policijskega dela in navsezadnje ne imeti kontrole nad samim izvajanjem naučenega v 
+&lt;/p&gt;
+&lt;p&gt;matični domovini.   
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Sekundarni cilji 
+&lt;/p&gt;
+&lt;p&gt;Sekundarni cilji JIPTC so bili na podlagi prenašanja znanja mednarodnih inštruktorjev v 
+&lt;/p&gt;
+&lt;p&gt;učenju osnovnih policijskih nalog, kakor tudi zagotavljanju človekovih pravic, zgotoviti 
+&lt;/p&gt;
+&lt;p&gt;zadostno število iraških policistov za nemoteno izvajanje policijskih nalog v domovini.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Sekundarni cilji EUPM BiH so doseči evropske policijske standarde (skozi opremo, 
+&lt;/p&gt;
+&lt;p&gt;delovanje policije, tako pri ogledu kaznivih dejanj kakor tudi obravnavanju prometnih 
+&lt;/p&gt;
+&lt;p&gt;nesreč – zavarovanje kraja prometne nesreče, korupcije med policisti, itd.) in upoštevanje 
+&lt;/p&gt;
+&lt;p&gt;človekovih pravic, implementacija policijsike reforme ter Zakona o policiji.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;                                                           
+&lt;/p&gt;
+&lt;p&gt;5
+ Tu je mišljena predvsem  ukinitev viznega reţima, katera naj bi se zgodila v decembru 2010, kar je velik 
+uspeh za Bosno in Hercegovino, vendar ostalih sprememb, katere bi bile bistvene za začetek pogajanj o 
+priključitvi Bosne in Hercegovine EU, še vedno ni (policijska reforma, Zakon o policiji, itd) &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;18 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V misiji JIPTC je bila ta številka doseţena, čeprav je kvaliteta policistov vprašljiva, v misiji 
+&lt;/p&gt;
+&lt;p&gt;EUPM je doseţen cilj usposobljenost policistov ter upoštevanje človekovih pravic, dočim 
+&lt;/p&gt;
+&lt;p&gt;cilja sprejetja policijske reforme in Zakona o policiji do časa pisanja diplomskega dela še 
+&lt;/p&gt;
+&lt;p&gt;nista doseţena. Lahko zaključimo, da je večji napredek v EUPM BiH, vendar je potrebno 
+&lt;/p&gt;
+&lt;p&gt;upoštevati dejstvo, da je velik pritisk s strani EU na Bosno in Hercegovino v zvezi z 
+&lt;/p&gt;
+&lt;p&gt;implementacijo reforme in zakona.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.3 Ciljno okolje 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Geografski podatki 
+&lt;/p&gt;
+&lt;p&gt;Irak spada k drţavam Bliţnjega vzhoda. Kulturno gledano pod Bliţnji vzhod štejemo 
+&lt;/p&gt;
+&lt;p&gt;drţave severne Afrike in jugozahodne Azije. Meji z Iranom, Jordanijo, Kuvajtom, Savdsko 
+&lt;/p&gt;
+&lt;p&gt;Arabijo, Sirijo in Turčijo. Irak ima 438,317 kvadratnih kilometrov ozemlja, od tega je 950 
+&lt;/p&gt;
+&lt;p&gt;kvadratnih kilometrov vode. (https://www.cia.gov/library/publications/the-world-
+&lt;/p&gt;
+&lt;p&gt;factbook/geos/iz.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Bosna in Hercegovina (Bosna i Hercegovina - BiH) je drţava na Balkanskem polotoku, 
+&lt;/p&gt;
+&lt;p&gt;nekdanja socialistična republika SFRJ. Na zahodu in severu meji na Hrvaško, na vzhodu na 
+&lt;/p&gt;
+&lt;p&gt;Srbijo in na jugovzhodu na Črno goro, na jugu pa ima pri kraju Neum dostop do 
+&lt;/p&gt;
+&lt;p&gt;Jadranskega morja. Bosna in Hercegovina ima 51,197 kvadratnih kilometrov ozemlja od 
+&lt;/p&gt;
+&lt;p&gt;tega je 10 kvadratnih kilometrov vode.(https://www.cia.gov/library/publications/the-world-
+&lt;/p&gt;
+&lt;p&gt;factbook/geos/bk.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Demografski podatki 
+&lt;/p&gt;
+&lt;p&gt;Irak ima po lastnih navedbah pribliţno 29 milijonov prebivalcev. Centralne province 
+&lt;/p&gt;
+&lt;p&gt;Bagdad in Babil so najbolj gosto naseljene. (https://www.cia.gov/library/publications/the-
+&lt;/p&gt;
+&lt;p&gt;world-factbook/geos/iz.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V Bosni ţivijo tri velike etnične skupine: Bošnjaki, Srbi in Hrvati. Spori med njimi so še 
+&lt;/p&gt;
+&lt;p&gt;vedno pogosti in privedejo do številnih političnih nasprotij. Ima pribliţno 4,5 miljona 
+&lt;/p&gt;
+&lt;p&gt;prebivalcev.(https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html) &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="!¾þªªPcD„nullz&amp;amp;nullî˜nullý)ìaR¶Ýnull&amp;amp;5öfnullxnull'H¯nullì˚−ý™úGn¤BRK!ö9nullnullT~ÎEïÿfiñ§«s.˛HcÉÜ¥null3"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="™'„÷ÔZë`VÒØø]„\ks8àÕdÓÑ,ÿbcn[½lôR(ªøU¡·2F…null6‚inullh±õ&amp;lt;ysnull”Œä˜;fiÖ×·bnull$iÏš–null1"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="=Çñ&amp;amp;œt=J«null›fiUv]ônull&amp;lt;…ü˜àÛ•nullI–Vrnull¬‹!%©Œ•Lñì"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="Ææ¸L»¿GY–Ó6h/3ñÐÍ³Ë’ø·ÓþÂßP´k1yò¹K€nullÂe×?bÕ2ùhˆ"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="˝ý·nk⁄null–nullłÝz ØnnullÙ’–˛fimwnullH‹®ãnull¥ú5ónullŠ0nullÔnullmV7qò²‚ª˚Ð×â&amp;gt;Õ²—4›èˇnull‰Ù¦S:µð+1=á!©ˆ¬œGòD1HøÞ‘6:ıùP¤˘fl"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="·½¯w„onull©Cm(nullnullUÖµÝ%nullnullÇåNÁ‘+Da€Ö€zÞ&amp;lt;›–9˚"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="ÿúêLnullÇç“ˆł;ú}°ÑV–1k”Š—null1ïŽ›#nullÙ6µ¨õnull&amp;gt;Nyv\ä˜aMnullì=W›!¦©¥í33çèV⁄ÁÄÂnullðÝznullnullÓênull‰O%nullÊ=−“U"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="±KhByV]õanullnull»Ÿ]o˝8Œ[âRçÔ×nullx¢4¡T¨z¤0»L«ˆ¤†null"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="à¹ÂDIÁ/'ŽDŸ6nE¿nullØ[Q§%–nullaúnullÌe{jnull&amp;amp;÷ðý"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href=":…ùõ¦null0‹ Ëæïnullnull®©1ynull−%ðªnullÜÞgPIˆ,Xñnull|—ë†LM^−R"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="ç?wuŸnull¢h±íÈ'~ÎÄnullnull;dË9‡`˚ÇWhÄYBC•null"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="nullqùDpnullaŁÉ˙ñVòÂ”Ó˙Qnull‘nullÎ€z˜null²UµnullÃnull¿jô^û“÷£ÙúýB"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="j:w⁄©&amp;gt;‹Łý/ƒÌfi¦û_dnc§É¥#‚‘›˝nullEÇ6X·‡¢Ý+^Dö:‚;„D_Rh\í¬nullØ–kOÝÀƒ‡Ïyœßnull¢¶«’nullnullã"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="û{nullˆ4£½nullûŒPˇˆëažnull~¿-úý}¸¤null½ˆX[¦ð#Ð/—(…(»¡œı6s-ùÁÜÍzZ8nullnullÏVnull’›\¹°›®¼¸G!K&amp;lt;À"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="*nullRnull$ƒA‘«;ª\‚¬ÓºÙöÜ†LUíh¢ÿŽtnullŽ÷õ®Rk=vflà&amp;gt;ô˜&amp;lt;˝nulläØÔ’N5é õmÄ˜¾null'onullÛ`flnnullnullHQînull"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="F+2nullA@˚nullUƒnullÎ˙Ynull˜null˘Ð}null&amp;gt;]GE&amp;amp;5null¶ðjnullòüØ¥žı:¶¼}˚ıi&amp;amp;Inull˜nulložö32ý“null‡gsÕ%âÍÅó®çb)É"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="¶Õ¶]»_null’¬oìfi˜¤ãåÈÞzF³‰ÊýøÇaI·$8±ßòJ2Óà2/Vmnull’nullH©ïÌnullÙ0GnullñÒèE»Ô&amp;lt;i-òÓNëëÕônullÎd^ŸÇß"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="³null?ýKý³§=zT—°Ufi˚ØQFÏžTœƒnullGł‡éÌRgÕ"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="û¢pÍ°õnull·ı[¤Ý¨rmÅµí$8ú’}flnullMõÙ−o−«úg†"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="dÁnullç˚˚•Û»¿|§?„PLfinull¡T¤finnull4—ýfiëÃ~ÙŒ˜Ù™˚}¾S−çŸ.InullP¶Þ¶null)Łàòïù™DÌ²Èšnull[null´‡9Ž⁄Æ"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;19 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Tako ena kot druga drţava imata teţavo zdruţiti različne etnične skupine, saj je sovraštvo 
+&lt;/p&gt;
+&lt;p&gt;med njimi še tako močno in prisotno, da v času pisanja diplomskega dela niti ni realno 
+&lt;/p&gt;
+&lt;p&gt;pričakovati, da se bo to spremenilo.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Ekonomski podatki 
+&lt;/p&gt;
+&lt;p&gt;V Iraku prevladuje naftni sektor, ki predstavlja 95% deviznih prilivov, primarni sektorji pa 
+&lt;/p&gt;
+&lt;p&gt;so kmetijstvo, gozdarstvo, ribolov, rudarstvo.(https://www.cia.gov/library/publications/the-
+&lt;/p&gt;
+&lt;p&gt;world-factbook/geos/iz.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Pred vojno je bila Bosna in Hercegovina koncentrirana na proizvodnjo surovin (les, 
+&lt;/p&gt;
+&lt;p&gt;kmetijstvo, ţelezo) ter na polproizvode (deli za avtomobilsko industrijo, deli za obutev in 
+&lt;/p&gt;
+&lt;p&gt;notranjo opremo stanovanj). Danes skoraj nič od tega ne deluje in je opuščeno. Tuje 
+&lt;/p&gt;
+&lt;p&gt;naloţbe se počasi povečujejo, vendar je javna poraba denarja na skoraj 50% bruto 
+&lt;/p&gt;
+&lt;p&gt;domačega proizvoda. (https://www.cia.gov/library/publications/the-world-factbook/geos/ 
+&lt;/p&gt;
+&lt;p&gt;bk.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Irak je bogat z nafto, ki je zelo iskan »artikel« na trgu, medtem ko Bosna in Hercegovina 
+&lt;/p&gt;
+&lt;p&gt;razen dveh delujočih rudnikov (Tuzla in Novi Grad) in nekaj obutvene industrije nima 
+&lt;/p&gt;
+&lt;p&gt;popolnoma nič. Gozdovi, kar ni zaminirano, so večinoma neuporabni, voda  je čedalje bolj 
+&lt;/p&gt;
+&lt;p&gt;onesnaţena. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Politični sistem 
+&lt;/p&gt;
+&lt;p&gt;Irak: Parlamentarna demokracija, ki zastopa interese vseh Iračanov. (https://www.cia.gov/ 
+&lt;/p&gt;
+&lt;p&gt;library/publications/the-world-factbook/geos/iz.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Bosna in Hercegovina: Po vojni je zvezna demokratična republika s trţno usmerjenim 
+&lt;/p&gt;
+&lt;p&gt;gospodarskim sistemom. (https://www.cia.gov/library/publications/the-world-factbook/ 
+&lt;/p&gt;
+&lt;p&gt;geos/bk.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Obe drţavi skušata iz političnega sistema, ki ni bil dober, preiti v nekaj pozitivnega in 
+&lt;/p&gt;
+&lt;p&gt;boljšega za ljudi – predvsem glede na človekove pravice. Kako jima to uspeva v času &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="fikrnull]±nrŠnullJ’ÎbÑnull•òéØãÄÏ&amp;quot;³PN7ªŽØ?ÚÃ…null[2«=ôíÔ¶nullw¹aänull1nulli¿Vž àÌMÈÈPÜ¬³µnull˝nullM©"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="ÁH]'Łnull,4ËnullŁºˇ:¢“&amp;amp;|Unullªønullunull&amp;amp;‚÷-¤kºˆŽ^?d£Lˇ(Îê3−fbM€finull§Ý)q⁄sKˇô¨5³Ï³t‹⁄null~¨¥"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="null¹4nullˆBënullÖuT‡èI°Œ;{8⁄hŒ¦N“Ï5fiób_ °™…Iýö·5¶Þ£ZCDnullú›,T”ü‡«”ÓìÜÊÉéªl³‘wçŁ·¶Ä"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="%~ãŠn±à¯òè™ä˛nullúznull˙~hkÁnull−€.ž^ÿ^—µñnull®Ì´ÍøYÊãômàJ8i£nSTnull‚%nullnull{nullE‡sÉnullŸ—&amp;lt;¤:(cnull"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="Oºqç0ã‘]nullã@\)ßñh`9,u¾¸&amp;gt;èJ¾nullnullÃnull9ìš+2Ëº×lÍŠºˇ−ÂÈò‚nullnUùÝºˇ.à0nullnull|ıÓÚöÞXz™¿µflnull]^⁄çL7?¡null`à'Ła&amp;lt;†ð&amp;gt;"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="è¥nullWCYnull‰x‰¦ò†m˝ªü¢Âèßłˇ»µó Ł›QÞnulläû+nullnull´[&amp;lt;8±ł|íËÞ¤ÏU¢µ¥|ëßÉ„)Ž±õ¡Ññƒ|*®Ânull“null’null“k¼ƒöóÙ¡lłÐ&amp;lt;"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="Äéª9„èá´•‡Å¬âªTnullÃûUúnull¥null½ç⁄nullnull¹ò+ð)nullUnulle^—)QÂ›‡ƒýÑłG|= ènullíp3null™öÙ;ì}§ÆXe„rLnull"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="”&amp;lt;łÎ#û™ÿ÷nullÄˆ»~¶−U`q„¦WµµZOnull°˘Ýª‡nullà®•çàóxäÿêì0¯null®8ÂŠž&amp;quot;‘§\Af⁄´»nullsá®5lßÈx;â"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;20 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;pisanja tega diplomskega dela, pa lahko vidimo iz informativnih oddaj, časopisja in na 
+&lt;/p&gt;
+&lt;p&gt;podlagi varnostne situacije v primerjanih drţavah in tako sami pridemo do zaključka. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Varnostni sistem 
+&lt;/p&gt;
+&lt;p&gt;Varnostni sistem v Iraku je zelo slab, saj je dnevno na ulicah vse polno nasilja, očitno pa sta 
+&lt;/p&gt;
+&lt;p&gt;policija in vojska nemočni pri zajezitvi zelo dobro organiziranega kriminala. Po nekaterih 
+&lt;/p&gt;
+&lt;p&gt;informacijah so za veliko število ugrabitev tujcev in domačinov v Iraku krive kriminalne 
+&lt;/p&gt;
+&lt;p&gt;zdruţbe (informacija pridobljena od iraških policijskih kandidatov in potrjena s strani 
+&lt;/p&gt;
+&lt;p&gt;slovenskega vojaka, ki je bil inštruktor v Iraku in je ni mogoče drugače preveriti), ki 
+&lt;/p&gt;
+&lt;p&gt;poskušajo terjati za ugrabljene osebe dodškodnine, v kolikor je ne dobijo, predajo osebo 
+&lt;/p&gt;
+&lt;p&gt;islamskim skrajneţem, ki to osebo »porabijo« v propagandne namene.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Varnostni sistem v Bosni in Hercegovini deluje dokaj dobro, kljub velikemu številu hujših 
+&lt;/p&gt;
+&lt;p&gt;kaznivih dejanj (ropi, umori, ugrabitve) saj je večina  teh rešenih, storilci pa prijeti.. 
+&lt;/p&gt;
+&lt;p&gt;(http://blog.dsos.org/2009/07/06/nato-in-eu-v-bosni-in-hercegovini-%e2%80%93-sinergija-
+&lt;/p&gt;
+&lt;p&gt;ali-tekmovanje/)  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Varnostni sistem v Bosni in Hercegovini je gotovo boljši kot v Iraku. Ţe sam obisk tujcev 
+&lt;/p&gt;
+&lt;p&gt;(turistov) priča o tem, kako se ljudje počutijo v drţavi – lastna varnost je na prvem mestu.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Religije 
+&lt;/p&gt;
+&lt;p&gt;Irak: 97% prebivalstva je muslimanov, od tega 60% do 65% šiitov 32% do 37% sunitov, 
+&lt;/p&gt;
+&lt;p&gt;katolikov in ostalih je 3%.(https://www.cia.gov/library/publications/the-world-factbook/ 
+&lt;/p&gt;
+&lt;p&gt;geos/iz.html) 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Bosna in Hercegovina: 40% prebivalstva je muslimanov, od tega 55-65% šiitov in 32-35 % 
+&lt;/p&gt;
+&lt;p&gt;sunitov, 31% je pravoslavcev, 15% katolikov in 14% ostalih. (https://www.cia.gov/library/ 
+&lt;/p&gt;
+&lt;p&gt;publications/the-world-factbook/geos/bk.html) 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="O6ãöÌFZïC[ågƒnull0¦nullZ•PCdçó“ýÍØnullE+¸m]©ŠûzÄ¿É‹Aó€×)YÕDhØ›)E¤'˚åÔ&amp;lt;nullwónullëRÐ»žnull™"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="^qÊnullXanullŁå@bB¿{É“ƒ–ß„null“Ænull¦z¥u¢nullCå‘¤ænull&amp;gt;⁄Zó=)ÆIÖ¦qnullKµ\‹Ðµƒ#½(¤?¼„nullu$HçÑ§˝·Ñ"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="ÍQ)null„oPnkFª!çWÎÒÀï``:ynullÍç#™Å&amp;gt;)fi=c]³Ð·"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="=Ÿ«^¯CÈ+xõA«ÑœCH²*null¡¬Â_J‚null”fiƒáznullL9WwŁ4null"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="null¡Ô²—ıéQgJŒ°}+sH}flPçnull`&amp;quot;éfgnullZŒÊÈ´nullÍAËÏı˛ž‚Ñ„.=}pw°null,±„)nullé˝-þnullÿ!³×—!óÝc¡"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="µ´˙Ô«ƒ8nullM|⁄ÙoíøcnullH‰¢ÊıânullnullfiSÀõnull¾‡nulld`{%Î°finull5ƒ?OÓØRó€sŽŠ‹¦ÜVÑ€a8nullG1éÆ}\-Ù#ü"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="±‹‹ ºO¤ÂˇþnullínullÜ´lÅŒ–ï»½ð null)nullshíL}õZH·I!éštenullQ÷˚null¢.,t!Ý⁄°nullû†7¸;¶¾¡j ÛnullnullŒ+˛"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;21 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V obeh drţavah so mešane religije, v Iraku šiiti, suniti, Kurdi – vsi islamske veroispovedi, 
+&lt;/p&gt;
+&lt;p&gt;vendar različne -  medtem ko so v Bosni in Hercegovini deljene na muslimane, katolike in 
+&lt;/p&gt;
+&lt;p&gt;pravoslavce. Zadnje štetje prebivalstva v Bosni in Hercegovini je bilo leta 2000. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.4 Pripadniki policijske misije  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Način kadrovanja 
+&lt;/p&gt;
+&lt;p&gt;Način kadrovanja za misijo JIPTC je bil po sistemu: »Ali bi se udeleţil misije?«. Potrebno 
+&lt;/p&gt;
+&lt;p&gt;je bilo priloţiti ţivljenjepis in v kolikor si izpolnjeval pogoje, predvsem kar se tiče 
+&lt;/p&gt;
+&lt;p&gt;poznavanja angleškega jezika, si bil izbran. Pričakovali so, da je imel vsak prijavljen 
+&lt;/p&gt;
+&lt;p&gt;policist osnovno znanje policijskega dela, tako da se to ni posebaj preverjalo. Zato je bila 
+&lt;/p&gt;
+&lt;p&gt;tudi nadaljna razporeditev policista v misiji odločitev  vodje oddelka za kader v misiji.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Način kadrovaja za EUPM BiH je po sistemu »preverjanje ţivljenjepisa«, v kolikor 
+&lt;/p&gt;
+&lt;p&gt;izpoljnjuješ določena strokovna znanja iz področja, katero je bilo razpisano (poznavalec 
+&lt;/p&gt;
+&lt;p&gt;mejne problematike, organiziran kriminal, finančni kriminal itd.), in si iskan profil 
+&lt;/p&gt;
+&lt;p&gt;(kriminalist, mejni policist, kriminalist za gospodarski kriminal, itd.), si prišel v misijo in 
+&lt;/p&gt;
+&lt;p&gt;zasedel delovno mesto, na katerega si se prijavil.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Tako v eni kot v drugi misiji so bili zahtevani določeni profili, razlika je v tem, da je bilo 
+&lt;/p&gt;
+&lt;p&gt;delovno mesto v JIPTC določeno s strani vodje oddelka za kadre v misiji, ker se je za 
+&lt;/p&gt;
+&lt;p&gt;zahtevano delo pričakovalo, da policist pozna osnove policijskega dela (kontrola osebe, 
+&lt;/p&gt;
+&lt;p&gt;preverjanje dokumentov, obravnavanje prometnih nezgod, ogled kraja kaznivega dejanja, 
+&lt;/p&gt;
+&lt;p&gt;itd.), EUPM BiH pa na podlagi oddanega ţivljenjepisa in samega specifičnega znanja ali 
+&lt;/p&gt;
+&lt;p&gt;nalog, katere opravljaš doma.  Lahko ugotovim, da je način kadrovanja za misijo EUPM 
+&lt;/p&gt;
+&lt;p&gt;BiH dosti boljši, saj policistom podajaš svoje izkušnje in znanje. V JIPTC so bili določeni 
+&lt;/p&gt;
+&lt;p&gt;policisti na nepravih poloţajih (prometni policist je predaval o človekovih pravicah, itd.). S 
+&lt;/p&gt;
+&lt;p&gt;tem je jasno povezano vodenje in poveljevanje, katero v JIPTC ni bilo tako »strokovno« 
+&lt;/p&gt;
+&lt;p&gt;kot je v EUPM BiH, bilo je bolj neposredno, tako da smo teţave reševali sproti. Tako je 
+&lt;/p&gt;
+&lt;p&gt;prenašanje znanja in izkušenj na dosti višjem nivoju, v EUPM BiH je pa vodenje in &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;22 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;poveljevanje mednarodnim policitom nekoliko slabše. Če je razdalja med šefom in 
+&lt;/p&gt;
+&lt;p&gt;delavcem velika, to vpliva na izmenjavo informacij in s tem povezano poročanje. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Napredovanje 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC je vse delovalo po vojaškem sistemu - danes si tu, jutri si tam – vsak mednarodni 
+&lt;/p&gt;
+&lt;p&gt;policist se je imel pravico pritoţiti na odločitve poveljujočih. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH skoraj da ni napredovanja,  ker  je potrebno za vsako spremembo delovnega 
+&lt;/p&gt;
+&lt;p&gt;mesta pridobiti soglasje matične drţave. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Tukaj pridemo do zaključka, da je organiziranost EUPM BiH skozi napredovanje 
+&lt;/p&gt;
+&lt;p&gt;mednarodnih policistov znotraj misije dosti slabša, kot je bilo pa to v misiji JIPTC. V 
+&lt;/p&gt;
+&lt;p&gt;JIPTC si sčasoma zaprosil za delovno mesto, katero ti je najbolje ustrezalo in si se počutil 
+&lt;/p&gt;
+&lt;p&gt;dovolj sposobnega in profesionalno opravljati zastavljene naloge.   
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Posebna znanja 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC v kolikor je kandidat imel posebna znanja (vodenje policijske postaje, aretacije 
+&lt;/p&gt;
+&lt;p&gt;storilcev hujših kaznivih dejanj, vpadi v objekte, poznavanje eksplozivnih sredstev, itd.) je 
+&lt;/p&gt;
+&lt;p&gt;lahko zasedel višje poloţaje v smislu vodje oddelka.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM, v kolikor imaš posebna znanja, si jih lahko samo šteješ kot prednost, se pa ne 
+&lt;/p&gt;
+&lt;p&gt;upoštevajo pri tvojem napredovanju.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V obeh misijah so bila posebna znanja zaţeljena, vendar niso imela večjega vpliva na 
+&lt;/p&gt;
+&lt;p&gt;odločanje o zasedbi poloţaja policista. Lahko pa ugotovim, da je bilo v misiji JIPTC 
+&lt;/p&gt;
+&lt;p&gt;napredovanje in zasedanje višjih poloţajev hitrejše in bolj verjetno kot pa v EUPM BiH. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Moţnosti podajanja posebnih znanj 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC si imel moţnost podajati posebna znanja, celo zaţeljeno je bilo, v kolikor si imel 
+&lt;/p&gt;
+&lt;p&gt;izkušnje s področij, (vodstvo misije te je pri takšnih projektih spodbujalo) ki so bila 
+&lt;/p&gt;
+&lt;p&gt;zastopana v misiji. &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;23 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH lahko podajaš posebna znanja, vendar je na ţalost tudi pomembno, iz katere 
+&lt;/p&gt;
+&lt;p&gt;drţave prihajaš, saj se pogosto dogaja, da izkušnje policista, na primer iz Nemčije, več 
+&lt;/p&gt;
+&lt;p&gt;štejejo, kot pa policista iz Slovenije. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V misiji JIPTC ni bilo pomembno, kdo si in od kod si, pomembno je bilo, kaj znaš in si v 
+&lt;/p&gt;
+&lt;p&gt;tem dober, medtem ko v EUPM najvišje poloţaje zasedajo Nemci, Italjani in Francozi. 
+&lt;/p&gt;
+&lt;p&gt;Ostali so na niţjih poloţajih.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Starost 
+&lt;/p&gt;
+&lt;p&gt;Za obe misiji tako JIPTC kot EUPM BiH je po zakonu je pogoj za pristop v misijo 12 let 
+&lt;/p&gt;
+&lt;p&gt;delovnih izkušenj. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Starost ni pomembna, te pa v EUPM drugače obravnavajo, če si »starejši« policist in s tem 
+&lt;/p&gt;
+&lt;p&gt;po njihovi razlagi bolj izkušen. Tako lahko ugotovim, da je misija JIPTC dosti bolj prijazna 
+&lt;/p&gt;
+&lt;p&gt;do mladih policistov kot pa EUPM BiH.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Spol 
+&lt;/p&gt;
+&lt;p&gt;Spol tako za misijo JIPTC kot misijo EUPM BiH ne vpliva na izbor kandidatov. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V obeh misijah niso delali razlik med moškim in ţenskim spolom. Dejstvo pa je, da so tako 
+&lt;/p&gt;
+&lt;p&gt;Iračani kakor tudi policisti v BiH laţje sprejeli moškega kot ţensko. Tukaj je teţko 
+&lt;/p&gt;
+&lt;p&gt;zaključiti, kdo je boljši, je pa gotovo misija v EUPM BiH dosti bolj prijazna do ţensk kot je 
+&lt;/p&gt;
+&lt;p&gt;bila misija JIPTC.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Druţinski status 
+&lt;/p&gt;
+&lt;p&gt;Druţinski status tako za misijo JIPTC kot za misijo EUPM BiH ne vpliva na izbor 
+&lt;/p&gt;
+&lt;p&gt;kandidatov. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Za obe misiji druţinski status ni pomemben, je pa laţje za policista, ki ima druţino, 
+&lt;/p&gt;
+&lt;p&gt;sodelovati v EUPM BiH  zaradi bliţine doma . 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;24 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Drţavljanstvo 
+&lt;/p&gt;
+&lt;p&gt;Za obe misiji je pogoj drţavljanstvo Republike Slovenije, manjša razlika je samo v izbiri 
+&lt;/p&gt;
+&lt;p&gt;kandidatov, saj Republika Slovenija ne pošilja v misijo EUPM BiH policistov, katerih 
+&lt;/p&gt;
+&lt;p&gt;starši so iz bivših jugoslovanskih republik. Razlogi zato so nepristranskost pri izvajanju 
+&lt;/p&gt;
+&lt;p&gt;nalog, kar lahko štejem kot slabost.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Motiv 
+&lt;/p&gt;
+&lt;p&gt;Vsekakor je za obe misiji tako JIPTC kot EUPM BiH motiv denar, drugi pa sprememba 
+&lt;/p&gt;
+&lt;p&gt;delovnega okolja, delo s tujimi policisti, nabiranje izkušenj, itd 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Verjetno je motiv v vseh misijah enak, mogoče se sčasoma samo spreminjajo prioritete 
+&lt;/p&gt;
+&lt;p&gt;odhoda. Tako lahko ugotovim, da je misija EUPM BiH glede zgoraj naštetih faktorjev 
+&lt;/p&gt;
+&lt;p&gt;veliko bolj prijazna.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Trajanje napotitve 
+&lt;/p&gt;
+&lt;p&gt;Za obe misiji tako JIPTC kot EUPM BiH je po zakonu leto dni z moţnostjo podaljšanja za 
+&lt;/p&gt;
+&lt;p&gt;šest mesecev. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Lahko ugotovim, da je v EUPM BiH  dosti laţje preţiveti leto in pol, kot pa v misiji JIPTC 
+&lt;/p&gt;
+&lt;p&gt;ţe zaradi oddaljenosti od doma in odhodov domov, še posebej, če ima policist mirovnik 
+&lt;/p&gt;
+&lt;p&gt;doma otroke.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.5 Delovanje policijskega kontingenta 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Priprave pred odhodom v misijo 
+&lt;/p&gt;
+&lt;p&gt;Pred odhodom v JIPTC smo imeli tedenske priprave, predavanja kolegov, ki poznajo 
+&lt;/p&gt;
+&lt;p&gt;razmere na Bliţnjem vzhodu, predavanja glede obnašanja, kulture, itd  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Pred odhodom v EUPM BiH smo imeli dvodnevne priprave in seznanitev z delom in 
+&lt;/p&gt;
+&lt;p&gt;političnim sistemov v BiH. 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;25 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Priprave za misijo JIPTC so bile dosti bolj kvalitetne in obširnejše kot pa za EUPM BiH, 
+&lt;/p&gt;
+&lt;p&gt;kar je po eni strani razumljivo.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Prihod v misijo 
+&lt;/p&gt;
+&lt;p&gt;Prihod v misijo JIPTC je z letalom, stroške krije Republika Slovenija.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Prihod v misijo EUPM BiH je z letalom ali lastnim prevoznim sredstvom. Stroške letala 
+&lt;/p&gt;
+&lt;p&gt;krije Republika Slovenija, gorivo za vozilo sam.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC ni bilo izbire, v misijo si moral z letalom, v EUPM BiH greš lahko s svojim 
+&lt;/p&gt;
+&lt;p&gt;vozilom, ki lahko uporabljaš v prostem času, kar je prednost.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Temeljne zadolţitve 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC usposabljanje bodočih policistov. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH pomoč in svetovanje policistom in kriminalistom pri delu. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC smo jih usposabljali v temeljnih policiskih nalogah, v EUPM pa jim svetujemo pri 
+&lt;/p&gt;
+&lt;p&gt;reševanju teţav, do katerih pridejo pri delu na terenu in raziskavah kaznivih dejanj. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Horizontalni in vertikalni stiki v strukturi misije 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC deloval pod poveljstvom vodje teama, v katerem si delal.  
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH delujem pod povelstvom vodje SIPE v Sarajevu in njemu odgovarjam. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V obeh misijah se točno ve, od koga prejemaš ukaze in komu odgovarjaš. Lahko ugotovim, 
+&lt;/p&gt;
+&lt;p&gt;da je bila tako imenovana »veriga poveljevanja« dosti boljša v JIPTC, saj smo imeli šefa pri 
+&lt;/p&gt;
+&lt;p&gt;»roki«, v EUPM BiH je pa v Sarajevu (sam sem stacioniran v Banja Luki), zato vidim  
+&lt;/p&gt;
+&lt;p&gt;svojega nadrejenega  enkrat mesečno. Vsa ostala komunikacija poteka  preko telefona ali e-
+&lt;/p&gt;
+&lt;p&gt;maila.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;26 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Sistem poročanja 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC ni bilo tega sistema, saj je bil vodja skupine z nami. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH poročam vodji SIPA Sarajevo s tedenskim poročilom in pisnimi 
+&lt;/p&gt;
+&lt;p&gt;zabeleţkami. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Dejanskega poročanja v JIPTC ni bilo, saj ni bil potreben, v EUPM pa se tedensko in 
+&lt;/p&gt;
+&lt;p&gt;dnevno poroča nadrejenemu v pisni obliki. Tukaj lahko ocenim, da je bil dosti bolši sistem 
+&lt;/p&gt;
+&lt;p&gt;v JIPTC, saj je bil vodja v vsakem trenutku seznanjen z delom.   
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Srečanja članov nacionalnega kontingenta 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC so bila srečanja članov kontingenta dnevna, saj smo ţiveli v isti stavbi. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH so srečanja članov kontingenta bolj redka, (v enem letu smo se srečali 
+&lt;/p&gt;
+&lt;p&gt;trikrat), saj smo razporejeni po celotni Bosni in Hercegovini (Banja Luka, Tuzla, Mostar in 
+&lt;/p&gt;
+&lt;p&gt;Sarajevo).  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Kar se tiče izmenjave mnenj in socialnega ţivljenja članov kontingenta, je bilo dosti bolje v 
+&lt;/p&gt;
+&lt;p&gt;JIPTC kot je v EUPM BiH. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.6 Logistika 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Informacijska in telekomunikacijska oprema 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC nam je pripadal mobilni telefon katerega zagotovi MNZ, vodja kontingenta je 
+&lt;/p&gt;
+&lt;p&gt;imal dodatno še satelitski telefon. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH imam mobilni telefon katerega zagotovi MNZ in še enega katerega zagotovi 
+&lt;/p&gt;
+&lt;p&gt;EUPM BiH.  
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;27 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Med misijama ni bilo bistvene razlike glede informacijske in telekomunikacijske opreme. 
+&lt;/p&gt;
+&lt;p&gt;Kar lahko štejem v plus je to, da nam misija EUPM BiH priskrbi telefone z lokalnimi 
+&lt;/p&gt;
+&lt;p&gt;karticami, prav tako nam plačajo 20 eur mesečno, kar v JIPTC ni bilo.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Namestitev 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC in EUPM BiH morajo policisti sami poskrbeti za namestitev. Razlika je bila v 
+&lt;/p&gt;
+&lt;p&gt;plačilu stanarine, vode in ostalih stroškov. V JIPTC je stanarino plača drţava Slovenija  v 
+&lt;/p&gt;
+&lt;p&gt;EUPM BiH pa stanarino plačaš sam.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Tukaj lahko ugotovim, da je bilo dosti bolje poskrbljeno za nas v JIPTC ţe zaradi same 
+&lt;/p&gt;
+&lt;p&gt;kvalitete bivanja (sam gledaš na višino stanarine, v JIPTC je bilo določeno, koliko lahko 
+&lt;/p&gt;
+&lt;p&gt;potrošimo), vendar so ponujena finančna sredstva presegala zahteve.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Nastanitvena logistika 
+&lt;/p&gt;
+&lt;p&gt;Glede nastanitvene logistike je bilo v JIPTC nekoliko boljše, saj smo imeli kosilo 
+&lt;/p&gt;
+&lt;p&gt;zagotovljeno v kampu, zajtrk, večerjo smo plačevali sami. Kar se tiče čiščenja, likanja, 
+&lt;/p&gt;
+&lt;p&gt;pospravljanja, delo opraviš sam ali pa si plačaš čistilko. Enako velja za  EUPM BiH. Edina 
+&lt;/p&gt;
+&lt;p&gt;razlika med misijama je, da v Banja Luki nismo imeli zagotovljene  restavracije za kosilo. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Lokalni prevoz 
+&lt;/p&gt;
+&lt;p&gt;Vozila je zagotovila misija JIPTC (vozila so bila rent – a – car, vsa opremljena z lokalnimi 
+&lt;/p&gt;
+&lt;p&gt;tablicami in s tem povezano nevpadljiva). Uporabljali smo jih za prevoz na delo in domov. 
+&lt;/p&gt;
+&lt;p&gt;V prostem času si vozilo lahko uporabljel, vendar si sam plačal gorivo. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Vozila so last EUPM BIH, temno modre barve, oznakami EU POLICE, rumenimi tablicami 
+&lt;/p&gt;
+&lt;p&gt;in tako vpadljiva. V prostem času vozilo lahko uporablješ, vendar ne med 23.00 uro in 
+&lt;/p&gt;
+&lt;p&gt;06.00 uro zjutraj. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC so zagotovili vozila, ki niso bila markantna in s tem manj izstopajoča, ter za 
+&lt;/p&gt;
+&lt;p&gt;uporabnike bolj varna. Prav tako ni bilo nekakšne omejitve rabe vozila v prostem času. 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;28 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.7 Varnost 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Fizična ogroţenost 
+&lt;/p&gt;
+&lt;p&gt;Fizična in ţivljenska ogroţenost je bila bolj prisotna v JIPTC ţe zaradi samega potovanja 
+&lt;/p&gt;
+&lt;p&gt;na delovno mesto. Slovenski policisti smo bili nastanjeni v Ammanu, glavnem mestu 
+&lt;/p&gt;
+&lt;p&gt;Jordanije in smo se vsakodnevno vozili cca. 1,5 ure z avtomobilom v kamp v puščavi 
+&lt;/p&gt;
+&lt;p&gt;Muwaqar, kjer smo delali. Pri voţnji smo bili izpostavljeni prometnim nesrečam, uličnemu 
+&lt;/p&gt;
+&lt;p&gt;kriminalu, predvsem na semaforiziranih kriţiščih na rdeči luči (fizični napadi na policiste, 
+&lt;/p&gt;
+&lt;p&gt;poškodovanje vozil, tatvine, itd), v samem kampu pa terorističnim napadom podpornikov 
+&lt;/p&gt;
+&lt;p&gt;Iraka in iraške politike, ki so bili zaradi slabega nadzora nad izbranimi kandidati poslani na 
+&lt;/p&gt;
+&lt;p&gt;šolanje. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH so nevarne predvsem mine, še posebej na področjih, ki niso poseljena, in  
+&lt;/p&gt;
+&lt;p&gt;kriminal (drzne tatvine, ropi, tatvine vozil, itd.). Zanimivo, da se največ drznih tatvin ter 
+&lt;/p&gt;
+&lt;p&gt;ropov zgodi pri odhodu iz trgovskih centrov, kar kaţe na kupno moč in socialno stanje v 
+&lt;/p&gt;
+&lt;p&gt;drţavi.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Kar se tiče virov ogroţanja, je bilo teh več v misiji JIPTC kot jih je v misiji EUPM BiH. 
+&lt;/p&gt;
+&lt;p&gt;Navsezadnje lahko vire ogroţanje v EUPM BiH zmanjšaš na minimum, če upoštevaš 
+&lt;/p&gt;
+&lt;p&gt;določene varnostne ukrepe (zbiraš restavracije, bare, itd), ter se izogibaš območjem, ki so 
+&lt;/p&gt;
+&lt;p&gt;označena s tablami »Pazi mine«.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Psihosocialna ogroţenost 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC te lahko ţe sam strah pred napadom in  razmišljanje o tem, kaj se ti lahko zgodi, 
+&lt;/p&gt;
+&lt;p&gt;pripelje na rob obupa. Prav tako je prisoten močan strah in stres, še posebej, če imaš otroke 
+&lt;/p&gt;
+&lt;p&gt;in se komu od njih kaj zgodi. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH psihosocialne ogroţenosti ni, saj se lahko v vsakem trenutku vrneš v 
+&lt;/p&gt;
+&lt;p&gt;domovino (vsaj čez vikend). 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;29 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Strah, pritiski, stres je bil bolj prisoten v Jordaniji kot je pa v Bosni in Hercegovini ţe 
+&lt;/p&gt;
+&lt;p&gt;zaradi različnega dojemanja okolja in ljudi okoli tebe.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Zdravstvena ogroţenost 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC je največjo zdravstveno nevarnost predstavlja zastrupitev s hrano ali vodo, 
+&lt;/p&gt;
+&lt;p&gt;dehidracija (visoka vročina in nič vlage). 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH je zdravstvena ogroţenost nekako enaka kot je v Sloveniji, saj nimajo 
+&lt;/p&gt;
+&lt;p&gt;ekstremnih bolezni. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC je bilo dosti več moţnosti zbolevanja kot je pa to v Bosni in Hercegovini. 
+&lt;/p&gt;
+&lt;p&gt;Navsezadnje je puščava za nas popolnoma drugo okolje, ki ga nismo vajeni.   
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Skupna stopnja ogroţenosti 
+&lt;/p&gt;
+&lt;p&gt;Za misijo JIPTC smo pri plači prejemali dodatek za nevarnost. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V misiji EUPM BiH ne prejemamo dodatka za nevarnost. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Po kriterijih Uredbe o plačah je nevarost dosti večja v Jordaniji kot Bosni in Hercegovini.  
+&lt;/p&gt;
+&lt;p&gt;Lahko ugotovimo, da je od posameznika do posameznika odvisno, kaj mu več pomeni, 
+&lt;/p&gt;
+&lt;p&gt;dodatek in oddaljenost od doma, ali pa nič dodatka in bliţina doma.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;4.3.8 Psihosocialne okoliščine 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Oddaljenost od doma 
+&lt;/p&gt;
+&lt;p&gt;V JIPTC je vpliv oddaljenosti od doma velik. Druţino slišiš preko telefona ter interneta. 
+&lt;/p&gt;
+&lt;p&gt;Sam sem v 13 mesecih delovanja v misiji z druţino preţivel 1,5 meseca. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;V EUPM BiH dosti laţje prenašaš oddaljenost od doma, saj je razdalja med Bosno in 
+&lt;/p&gt;
+&lt;p&gt;Hercegovino ter Slovenijo »majhna«, z vozilom cca. 3,5 ure, tako da si lahko doma skoraj 
+&lt;/p&gt;
+&lt;p&gt;vsak konec tedna.  &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;30 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Sama oddaljenost je ključnega pomena, saj lahko, če ti je teţko, ali če je doma kaj narobe, 
+&lt;/p&gt;
+&lt;p&gt;iz EUPM BiH odideš domov, v JIPTC smo bili vezani na letalske prevoznike.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Obiski doma 
+&lt;/p&gt;
+&lt;p&gt;Obiski doma so bili iz misije JIPTC omejeni in vezani na dopust. Na vsake 3 mesece smo 
+&lt;/p&gt;
+&lt;p&gt;odhajali domov za ca.14 dni.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Iz misije EUPM BiH so obiski doma lahko vsak vikend, ter še dodatno vezani na dopust. 
+&lt;/p&gt;
+&lt;p&gt;Mesečno ti pripada 4 dni, tako da jih lahko porabiš v tekočem mesecu ali pa jih shranjuješ 
+&lt;/p&gt;
+&lt;p&gt;ter jih kasneje koristiš skupaj. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Obiskov doma je dosti več iz  misije EUPM BiH kot jih je bilo iz misije JIPTC, v obeh 
+&lt;/p&gt;
+&lt;p&gt;misijah pa si lahko hkrati koristil 21 dni, nato pa se je bilo potrebno vrniti. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Tako pridemo do zaključka, da je skozi institucionalno primerjalno analizo in parametre, 
+&lt;/p&gt;
+&lt;p&gt;katere sem primerjal, dosti več pozitivnih stvari na strani misije EUPM BiH (21 
+&lt;/p&gt;
+&lt;p&gt;parametrov) kot pa na strani strani misije JIPTC (10 parametrov). Če pa govorim 
+&lt;/p&gt;
+&lt;p&gt;individualno – skozi občutke policista -  ugotovim, da v primerjavi parametrov delovanja 
+&lt;/p&gt;
+&lt;p&gt;kontingenta in tehničnih sredstave prevladuje misija JIPTC. Samo vodenje, poročanje in 
+&lt;/p&gt;
+&lt;p&gt;organiziranje dela je bilo tako boljše in bolj učinkovito kot je to v EUPM BiH. Dejstvo je, 
+&lt;/p&gt;
+&lt;p&gt;da je nekaj parametrov, katerih nisem mogel primerjati, ker so v osnovi enaki (npr. 
+&lt;/p&gt;
+&lt;p&gt;demografija, ekonomija, politični sistem, itd.), vendar ne vplivajo na končno oceno, katera 
+&lt;/p&gt;
+&lt;p&gt;misija je bolje vodena in katera je bolj pozitivna in laţja, gledano s stališča slovenskega 
+&lt;/p&gt;
+&lt;p&gt;policista in osnovnih ţivljenskih kriterijev.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;31 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;5 Zaključek 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;5.1 Verifikacija hipotez 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Uradno ZDA ne vodijo mirovnih civilnih misij in operacij. Le te se namreč vedno izvajajo 
+&lt;/p&gt;
+&lt;p&gt;z odobritvijo VS OZN, tako da potem v misiji poleg ZDA sodelujejo tudi druge drţave in 
+&lt;/p&gt;
+&lt;p&gt;članice VS. Tako je bilo tudi v primeru našega sodelovanja v JIPTC. Slovenija je sicer 
+&lt;/p&gt;
+&lt;p&gt;sodelovala s State Departmentom, vendar je cela ameriška operacija v Iraku imela podporo 
+&lt;/p&gt;
+&lt;p&gt;VS OZN. Uradno bi torej lahko rekli, da je Slovenska policija tam sodelovala kot članica 
+&lt;/p&gt;
+&lt;p&gt;OZN in ne kot podpornica ameriške zunanje politike, neuradno pa se seveda ve, kdo je bil 
+&lt;/p&gt;
+&lt;p&gt;glavni »motor« operacije Iraqi Freedom.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Po zgornjih ugotovitvah skozi primerjalno analizo je jasno, da so bile smernice pod 
+&lt;/p&gt;
+&lt;p&gt;»ameriškim« poveljstvom bolj jasno začrtane, vodenje je bilo učinkovito, saj je bilo celo 
+&lt;/p&gt;
+&lt;p&gt;vodstvo iz ene same drţave. Direktor, njegov namestnik in vsi ostali vodilni usluţbenci 
+&lt;/p&gt;
+&lt;p&gt;misije, so bili Američani. Tam smo vedeli, za koga delamo. S tem ne trdim, da so bili ukazi 
+&lt;/p&gt;
+&lt;p&gt;vedno najbolj logični, bili pa so bolj usklajeni kot so v misiji EUPM. Hitreje se je lahko 
+&lt;/p&gt;
+&lt;p&gt;odločalo o vseh stvareh. Bistvena razlika je, če ima misija samo enega »gospodarja«, ali pa 
+&lt;/p&gt;
+&lt;p&gt;jih ima sedemindvajset, kot je v misijah EU. Članice Unije so pač enakopravno zastopane, 
+&lt;/p&gt;
+&lt;p&gt;kar nujno privede do različnih konceptov dela in vodenja, s tem pa tudi do slabe sinergije in 
+&lt;/p&gt;
+&lt;p&gt;teţav pri doseganju skupnih ciljev. Takšno vodenje dostikrat vzame (pre)več časa in 
+&lt;/p&gt;
+&lt;p&gt;energije.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Zato lahko potrdim prvo hipotezo, da je bila Organiziranost, vodenje in poveljevanje o v 
+&lt;/p&gt;
+&lt;p&gt;misiji JIPT,C katero so vodile ZDA v okviru OZN boljše, kot je to v misiji EUPM BiH pod 
+&lt;/p&gt;
+&lt;p&gt;okriljem EU. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Kako sta bili misiji učinkoviti, je teţko izmeriti, nenazadnje ena še ni zaključena. Dejstvo 
+&lt;/p&gt;
+&lt;p&gt;je, da smo v misiji JIPTC poskušali v dveh mesecih usposobiti kandidate za opravljanje 
+&lt;/p&gt;
+&lt;p&gt;poklica policist. Tipičnega profila kandidata ni mogoče narediti, vedeli pa smo, da so vseh &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;32 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;starosti (od mladih do starih), različnimi stopnjami in vrstami izobrazbe. Usposabljali smo 
+&lt;/p&gt;
+&lt;p&gt;jih za delo v zelo specifičnem okolju, predvsem pa v okviru kurikulima, ki so ga napravili 
+&lt;/p&gt;
+&lt;p&gt;ljudje, ki niso poznali kulture ciljne populacije, njihovih osebnih in druţbenih razmer ter 
+&lt;/p&gt;
+&lt;p&gt;običajev in zelo pomanjkljive izobrazbe. Dejstvo, da jih je bilo pri opravljanju policijskih 
+&lt;/p&gt;
+&lt;p&gt;nalog dve tretjini ubitih v roku enega leta po zaključku njihovega šolanja in povratku v 
+&lt;/p&gt;
+&lt;p&gt;Irak, še ne pomeni, da je bila misija neuspešna. Ali pač? Verjetno so bile (in so še vedno) 
+&lt;/p&gt;
+&lt;p&gt;razmere v Iraku res tako  hude in bi jih brez znanj, ki so jih pridobili od mednarodnih 
+&lt;/p&gt;
+&lt;p&gt;instruktorjev v JIPTC, pobili še več. Vsaka stvar se vedno da narediti bolje, vendar menim, 
+&lt;/p&gt;
+&lt;p&gt;da smo v danih okoliščinah mednarodni inštruktorji s svojim profesionalnim angaţmajem 
+&lt;/p&gt;
+&lt;p&gt;dosegli optimalne  moţne rezultatov.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Misija EUPM poteka ţe od leta 2003. Od takrat se v Bosni in Hercegovini ni spremenilo 
+&lt;/p&gt;
+&lt;p&gt;skoraj nič. Izvedena je bila vrsta normativnih, političnih, upravnih, organizacijskih, 
+&lt;/p&gt;
+&lt;p&gt;kadrovskih in drugih sprememb, kar naj bi vse pripomoglo k blaginji naroda, k ukinitvi 
+&lt;/p&gt;
+&lt;p&gt;viznega reţima za bosanske drţavljane in k procesu pribliţevanja Evropski uniji.  Če na 
+&lt;/p&gt;
+&lt;p&gt;trenutne razmere gledamo  globalno in se osredotočimo na resnejše spremembe v drţavi, na 
+&lt;/p&gt;
+&lt;p&gt;primer na reformo policije, ugotovimo, da narod in vladajoča politika nista pripravljena na 
+&lt;/p&gt;
+&lt;p&gt;spremembe in jih nočeta sprejeti. Nobena od policijskih sistemskih reform ali resnih 
+&lt;/p&gt;
+&lt;p&gt;sprememb zakona ni bila uspešna in še vedno ni. BiH je daleč od blaginje, korupcija in 
+&lt;/p&gt;
+&lt;p&gt;kriminal vladata drţavi. Določeni drţavni aparati kot so policija, toţilstvo in sodstvo se 
+&lt;/p&gt;
+&lt;p&gt;trudijo spremeniti obstoječe stanje, vendar jim vse skupaj ne uspeva najbolje. Ţalostno je, 
+&lt;/p&gt;
+&lt;p&gt;da jim tudi mednarodne organizacije, pa ne mislim samo na EUPM, ampak tudi na OHR, 
+&lt;/p&gt;
+&lt;p&gt;OSCE in druge, pri tem ne pomagajo kaj dosti. Veliko je govorjenja, realiziranega je bolj 
+&lt;/p&gt;
+&lt;p&gt;malo. Je pa res, vsaj kar se tiče Slovenskih policistov, ljudje nas jemljejo kot sebi enake, 
+&lt;/p&gt;
+&lt;p&gt;navsezadnje smo bili del nekega skupnega druţbenoekonomskega in druţbenopolitičnega 
+&lt;/p&gt;
+&lt;p&gt;sistema nekdanje skupne drţave. Samo poznavanje lokalnih narodov, običajev, kulture, 
+&lt;/p&gt;
+&lt;p&gt;obnašanja, ipd. nam daje prednost pred ostalimi drţavami. Ljudje nam v veliki meri 
+&lt;/p&gt;
+&lt;p&gt;zaupajo, razumemo jezik, sporazumevanje je laţje in s tem je dvosmerni tok informacij 
+&lt;/p&gt;
+&lt;p&gt;kvalitetnejši. 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;33 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Zato lahko potrdim tudi drugo hipotezo, da Slovenski policisti opravljajo svoje delo v 
+&lt;/p&gt;
+&lt;p&gt;mednarodnih mirovnih operacijah bolje na območju Jugozahodne Evrope kot pa v drugih 
+&lt;/p&gt;
+&lt;p&gt;mirovnih operacijah po svetu zaradi poznavanja kulture in jezika prebivalstva, kjer poteka 
+&lt;/p&gt;
+&lt;p&gt;mirovna operacija.    
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;5.2 Povzetek glavnih ugotovitev 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Republika Slovenija se je osredotočila predvsem na misije, ki potekajo na območju JV 
+&lt;/p&gt;
+&lt;p&gt;Evrope. V večini primerov je to za slovenske policiste prednost pred ostalimi tujimi 
+&lt;/p&gt;
+&lt;p&gt;policisti, ker nas večina dokaj dobro razume in pozna lokalni jezik, zgodovino, kulturo in 
+&lt;/p&gt;
+&lt;p&gt;socialne in administrativne strukture drţave, kjer se izvršuje misija EUPM BiH.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Skozi diplomsko delo pa smo ugotovili, da je velika razlika ali misija poteka na enem 
+&lt;/p&gt;
+&lt;p&gt;prostoru (v policijskem centru), ali pa poteka na območju cele drţave. Jasno je, da je bila 
+&lt;/p&gt;
+&lt;p&gt;učinkovitost in koordinacija misije skozi organizacijo, vodenje in poveljevanje, ki je 
+&lt;/p&gt;
+&lt;p&gt;strnjena na en prostor kot v mojem primeru JIPTC boljša,  kot pa je to v misiji EUPM BiH.  
+&lt;/p&gt;
+&lt;p&gt;Poveljevanje, vodenje in poročanje je neposredno, tako da se jasno ve, kaj se od nekoga 
+&lt;/p&gt;
+&lt;p&gt;zahteva, če pa imamo misijo v celi drţavi, je to logostično nekoliko bolj zahtevno in  tudi 
+&lt;/p&gt;
+&lt;p&gt;manj učinkovito.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;S tem je nujno povezan tudi nivo znanja angleškega jezika, ki je v misiji EU  boljši in 
+&lt;/p&gt;
+&lt;p&gt;kvalitetnejši kot je to v misijah UN. Določene drţave v misijo UN pošiljajo policiste brez  
+&lt;/p&gt;
+&lt;p&gt;(pred)znanja angleškega jezika, tako da bi take zahteve kot jih postavlja EU v misijah UN 
+&lt;/p&gt;
+&lt;p&gt;povzročile velik osip kandidatov za misije, saj je znanje angleščine nekaterih zelo slabo 
+&lt;/p&gt;
+&lt;p&gt;(nezadovoljivo za osnovno komuniciranje), v misijo pridejo brez vozniškega dovoljenja, ter 
+&lt;/p&gt;
+&lt;p&gt;z drugimi lastnostmi, ki so za druge udeleţence misij moteče. Dodati je potrebno, da so 
+&lt;/p&gt;
+&lt;p&gt;pripadniki misij EU tudi drţavljani članic EU, kjer so ţivljenjski standardi in običaji na  
+&lt;/p&gt;
+&lt;p&gt;precej visokem in relativno enakem nivoju, zaradi česar teţko pride do večjih razhajanj v 
+&lt;/p&gt;
+&lt;p&gt;obnašanju policistov.  
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;34 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Skozi diplomsko delo sem se poskušal dotakniti vseh osnovnih segmentov dela in ţivljenja 
+&lt;/p&gt;
+&lt;p&gt;policistov v MCM, da bi bralec laţje razumel in dobil  svojo sliko o misijah. Misiji, kateri 
+&lt;/p&gt;
+&lt;p&gt;sem primerjal, sta geografsko in politično popolnoma različni, kar nujno vpliva tudi na 
+&lt;/p&gt;
+&lt;p&gt;kvaliteto ţivljenja policistov. Prednost misije JIPTC je bila v tem, da smo ţiveli v isti 
+&lt;/p&gt;
+&lt;p&gt;zgradbi, tako da smo lahko dnevno komunicirali in se videvali, medtem ko smo v misiji 
+&lt;/p&gt;
+&lt;p&gt;EUPM BiH razporejeni po celi drţavi in so srečanja omejena na vsakih par mesecev. Prav 
+&lt;/p&gt;
+&lt;p&gt;tako je puščava slovenskim policistom neznanka, zato je bila prilagoditev na ţivljenje 
+&lt;/p&gt;
+&lt;p&gt;daljša in teţja, poznavanje arabske kulture je bilo na nekem osnovnem nivoju, medtem ko 
+&lt;/p&gt;
+&lt;p&gt;jezika niti eden od petnajstih sodelujočih policistov ni poznal niti ni bilo organiziranega 
+&lt;/p&gt;
+&lt;p&gt;nobenega tečaja arabskega jezika.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Tako pridemo do zaključka, da pripravljenost in vrhunska usposobljenost evropskih 
+&lt;/p&gt;
+&lt;p&gt;policistov in vojakov nedvomno izkazuje visok nivo elementov kriznega managementa, saj 
+&lt;/p&gt;
+&lt;p&gt;navedena elementa ne bi mogla obstojati, v kolikor bi bile matične drţave v razsulu 
+&lt;/p&gt;
+&lt;p&gt;oziroma pod nivojem, ki je tudi za Slovenijo nekaj povsem običajnega (imeti toplo vodo, 
+&lt;/p&gt;
+&lt;p&gt;elektriko, zdravila, dnevni topel obrok, itd.)  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;35 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;6 Literatura in viri 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; Central intelligence agency, Publications, The world factbook. Pridobljeno dne 
+&lt;/p&gt;
+&lt;p&gt;19.10.2010 na https://www.cia.gov/library/publications/the-world-factbook/docs/ 
+&lt;/p&gt;
+&lt;p&gt;profileguide.html. 
+&lt;/p&gt;
+&lt;p&gt; European union police mission in Bosnia and Herzegovina, Mandate. Pridobljeno 
+&lt;/p&gt;
+&lt;p&gt;dne 07.11.2010 na http://www.eupm.org/OurMandate.aspx 
+&lt;/p&gt;
+&lt;p&gt; European union police mission in Bosnia and Herzegovina, Overview. Pridobljeno 
+&lt;/p&gt;
+&lt;p&gt;dne 07.11.2010 na http://www.eupm.org/Overview.aspx 
+&lt;/p&gt;
+&lt;p&gt; Fugina, M. (2009). Štab, Nato in EU v Bosni in Hercegovini – sinergija ali 
+&lt;/p&gt;
+&lt;p&gt;tekmovanje?, Štab. Članek je pridobljen dne 07.11.2010 na http://blog.dsos.org/ 
+&lt;/p&gt;
+&lt;p&gt;2009/07/06/nato-in-eu-v-bosni-in-hercegovini-%E2%80%93-sinergija-ali-
+&lt;/p&gt;
+&lt;p&gt;tekmovanje/. 
+&lt;/p&gt;
+&lt;p&gt; Garb, M. (2003), Mirovne operacije, Slovenska vojska, 11 (16), 20 -21. 
+&lt;/p&gt;
+&lt;p&gt; Grošelj, K. (2009). Transformacija sodobnih mirovnih oparacij, urednik R. Bric, 
+&lt;/p&gt;
+&lt;p&gt;Zbornik, Sodelovanje Republike Slovenije v mednarodnih operacijah in misijah, 
+&lt;/p&gt;
+&lt;p&gt;22-23. 21. januar 2009, Brdo pri Kranju, Ljubljana, Ministrstvo za obrambo RS.  
+&lt;/p&gt;
+&lt;p&gt; Hansen, A. (2002) From Kongo to Kosovo, Civilian police in Peace Operations, 
+&lt;/p&gt;
+&lt;p&gt;343, London, Adelphi Paper. 
+&lt;/p&gt;
+&lt;p&gt; Jelušič, L. (2003). Mirovne operacije kot oblika globalne mirovne preventive pred 
+&lt;/p&gt;
+&lt;p&gt;širjenjem groţenj. Teorija in praksa 40 (4), 627-647. 
+&lt;/p&gt;
+&lt;p&gt; Macchi, V. (2006), Jordan Times, JIPTC— Arming Iraqis with policing skills, 
+&lt;/p&gt;
+&lt;p&gt;Jordan Times. Članek je dobljen dne 16.05.2010 na http://www.jordan 
+&lt;/p&gt;
+&lt;p&gt;embassyus.org/01302006001.htm. 
+&lt;/p&gt;
+&lt;p&gt; Ministrstvo za notranje zadeve, Policija, Bosna in Hercegovina, EUPM. Članek 
+&lt;/p&gt;
+&lt;p&gt;dobljen dne 07.11.2010 na http://www2.policija.si/index.php/delovna-podroja/ 
+&lt;/p&gt;
+&lt;p&gt;8043-eupm?lang= 
+&lt;/p&gt;
+&lt;p&gt; Ministrstvo za notranje zadeve, Policija, Mednarodne civilne misije. Članek 
+&lt;/p&gt;
+&lt;p&gt;pridobljen dne 07.11.2010 na http://www2.policija.si/index.php/mednarodno-
+&lt;/p&gt;
+&lt;p&gt;sodelovanje/mednarodne-civilne-misije &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="null+8ˆìEÙ„°˘|—cGxłfèíË²SønullìktØx2a˛mLËµ¥ižnullý¿«à\1ÍlònullÊ•j@’‰“nullflì&amp;quot;nullE)˚Õ£æ05ú−zÓt&amp;lt;fiQ*¦nullnull"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="n°Ý! …qÁ&amp;gt;2nullÙíÙUünullkeÎinull“E˘½Enull?‚_ønullæîð‘Û»9³fÁÏÅ¯ö%Ü0üù!˙ÞË˘JnullÉzÖÔnull„iè“Tå¹4A˚52·™ä8Vl"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="*Û6™3[ø˛£nullŒ;nullä»¥-˛nullOÁ£ınullnullOnullÕ©flnull¤#ûñ"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="nullÛ˝ÍnullM”\ø¥null˙Lƒ)¬˘~Å‘±nullJÁ*»Ož`æG˜¢2]nullÆcÙ¶;(&amp;lt;0+null"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="i~SnÃd°`ç=œnullZý?QnullásÖµ½Ùpð&amp;amp;Œì:nullnull-Î¹Ä˙nullÝt{xze⁄Èì"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="„ª‚3ü’dÁA£nullúÏÞnullmKnull$null&amp;quot;!¾unullÑ¬™M¦nullÿÉï5.ÝnullàJË èó»‚»[nzj_}®ùnull+/eAòÇŒł"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="nullnullæœnullÃnulltš¦*åÍnÞôÙµfl¾'!?Áƒ˙±®®úÀ¿nullð’'W1ÈC(ª½@7øłxþ−ÖÅË¤,ŒÚflflEPbÒö"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="ãäd¸ž]xÐ—„he=÷þâÓHêª½8U»Oªnull¶‰Æœ˚#é%Lqú&amp;gt;÷null³!null«QãªþŁ@eJYnull«H˚null‰óêfi‘˝&amp;lt;âånullÆ°1TłÍUn|Œö“‰"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="¥8}Ï†TÓnullÏÐûÍnullNnulle!¥gnullpâ¦U˚ÉG’ñ¬ã'ÙnulltVDæµ„Æñ.‡Ïnull˘nullTå*™&amp;quot;b‘±Ñu÷`Aþ¡˚,ôõÇ-flÖznullË—‰?Rƒ™™1"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;36 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; Ministrstvo za notranje zadeve, Policija, Slovenska policija v mednarodnih civilnih 
+&lt;/p&gt;
+&lt;p&gt;misijah 1997 – 2007. Članek prodobljen dne 07.11.2010 na http://www.policija. 
+&lt;/p&gt;
+&lt;p&gt;si/images/stories/MednarodnoSodelovanje/PDF/MirovneMisije/PolicijaVMednaro
+&lt;/p&gt;
+&lt;p&gt;dnihMisijah.pdf 
+&lt;/p&gt;
+&lt;p&gt; Ministrstvo za notranje zadeve, Policija, Sprejem policistov, ki so se vrnili iz 
+&lt;/p&gt;
+&lt;p&gt;mednarodne mirovne misije v Jordaniji, in podelitev odlikovanj jordanskega 
+&lt;/p&gt;
+&lt;p&gt;kralja. Članek pridobljen dne 07.11.2010 na http://www2.policija.si/index. 
+&lt;/p&gt;
+&lt;p&gt;php/novinarsko-sredie/index.php?option=com_content&amp;amp;view=article&amp;amp;id=3066 
+&lt;/p&gt;
+&lt;p&gt; Poslovnik medresorske komisije za napotitev oseb v misije in mednarodne 
+&lt;/p&gt;
+&lt;p&gt;organizacije (Uradni list RS, št. 112/06). 
+&lt;/p&gt;
+&lt;p&gt; Pravilnik o napotitvi javnih usluţbencev ministrstva za notranje zadeve in organov 
+&lt;/p&gt;
+&lt;p&gt;v sestavi v mednarodne civilne misije in mednarodne organizacije (št. 007-
+&lt;/p&gt;
+&lt;p&gt;152/2008/1, 13. 5. 2008). 
+&lt;/p&gt;
+&lt;p&gt; Resolucija o strategiji nacionalne varnosti Republike Slovenije (Uradeni list RS, 
+&lt;/p&gt;
+&lt;p&gt;št. 27/2010). 
+&lt;/p&gt;
+&lt;p&gt; Strategija sodelovanja MNZ v mednarodnih civilnih misijah 2010 - 2015 (št. 871-
+&lt;/p&gt;
+&lt;p&gt;5/2009/18, 30. 3. 2010). Pridobljeno dne 11.10.2010 nahttp://www.policija.si/ 
+&lt;/p&gt;
+&lt;p&gt;images/stories/MednarodnoSodelovanje/PDF/MirovneMisije/100303-
+&lt;/p&gt;
+&lt;p&gt;StrategijaMNZ.pdf 
+&lt;/p&gt;
+&lt;p&gt; Strategija sodelovanja Republike Slovenije v mednarodnih operacijah in misijah 
+&lt;/p&gt;
+&lt;p&gt;(Uradni list RS, št. 19/10). 
+&lt;/p&gt;
+&lt;p&gt; Uredba o plačah in drugih prejemkih javnih usluţbencev za delo v tujini (Uradni 
+&lt;/p&gt;
+&lt;p&gt;list RS, št. 14/09, 16/09 – popr. in 23/09). 
+&lt;/p&gt;
+&lt;p&gt; Vlada republike Slovenije, Ministrstvo za zunanje zadeve, Evropska varnostna in 
+&lt;/p&gt;
+&lt;p&gt;obrambna politika (EVOP). Članek dobljen dne na 07.11.2010 na 
+&lt;/p&gt;
+&lt;p&gt;http://www.mzz.gov.si/si/zunanja_politika/evropska_unija/evropska_varnostna_in
+&lt;/p&gt;
+&lt;p&gt;_obrambna_politika_evop/ 
+&lt;/p&gt;
+&lt;p&gt; Zakon o napotitvi oseb v mednarodne civilne misije in mednarodne organizacije 
+&lt;/p&gt;
+&lt;p&gt;(Uradni list RS, št. 20/06). 
+&lt;/p&gt;
+&lt;p&gt; Zakon o policiji (Uradni list RS, št. 66/09 – uradno prečiščeno besedilo). &lt;/p&gt;
+&lt;p/&gt;
+&lt;div class="annotation"&gt;&lt;a href="å³¼Š`OR−9eÒƒ¤YfiÉ™žˆœJ)sŒMÚnull|Ò‰ênullyØR–GÒŁìnullÏÞ˝uŒvnull‹™&amp;lt;z]çÍë8[…nullû!ènull&amp;amp;z@Ãfnull1Iı…t³ô…üz¡ƒı‘(¦-Ks−ô\eB=fDžnullö9Ł"/&gt;&lt;/div&gt;
+&lt;div class="annotation"&gt;&lt;a href="mnullnullp*™Ô`Ç¥„‡$Á3°Hbk2çæ$—Yd¤d.Ãnullöê÷¤5Êjª`@null$èD/æª²nullò½b(æ\`é¾nullnullö&amp;lt;Ã*null¿_—8^‚ã–˜«i½üÙHP‰Fmnull^tbKIò&amp;quot;ýœ]Y–ï˛inull"/&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;37 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; Zakon o zunanjih zadevah (Uradni list RS, št. 113/03 – uradno prečiščeno 
+&lt;/p&gt;
+&lt;p&gt;besedilo, 76/08 in 108/09).  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;38 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Delovni življenjepis kandidata 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Rodil sem se 29. junija 1975 v Weissenburgu v Nemčiji. Tri razrede osnovne šole sem 
+&lt;/p&gt;
+&lt;p&gt;končal v Ljubljani, dokončal pa  na Vrhniki. Šolanje sem nadaljeval na Srednji šoli za 
+&lt;/p&gt;
+&lt;p&gt;miličnike v Tacnu.. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Po opravljanem zaključnem izpitu sem se leta 1994 zaposlil kot policist na Policijski postaji 
+&lt;/p&gt;
+&lt;p&gt;Vrhnika, kjer sem opravljal najprej delo policista – opazovalca, nato spremeljevalca v 
+&lt;/p&gt;
+&lt;p&gt;patrulji in nazadnje kot vodja patrulje.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Leta 1998 sem bil na lastno ţeljo premeščen v Sektor kriminalistične policije, takrat 
+&lt;/p&gt;
+&lt;p&gt;Mobilno kriminalistično skupino, kasneje Mobilni kriminalistični oddelek, kjer sem še 
+&lt;/p&gt;
+&lt;p&gt;danes.  
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Leta 2005 sem se prijavil v začetni tečaj za policiste – mirovnike, tako da sem ţe leta 2006 
+&lt;/p&gt;
+&lt;p&gt;odšel v prvo misijo  JIPTC (Jordan international police training center) v Jordaniji, kjer sem 
+&lt;/p&gt;
+&lt;p&gt;sodeloval pri usposabljanju iraških policistov. V misiji sem bil 13 mesecev . Leta 2009 sem 
+&lt;/p&gt;
+&lt;p&gt;šel v misijo EUPM v Bosni in Hercegovini in opravljal naloge svetovalca za SIPA (State 
+&lt;/p&gt;
+&lt;p&gt;investigation and protection agency) v Banja Luki. V tej misiji sem še vedno. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Aktivno govorim angleški jezik in jezike bivše Jugoslavije. Obvladam delo s programskimi 
+&lt;/p&gt;
+&lt;p&gt;orodji Microsoft Office in Internet. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;div class="page"&gt;&lt;p/&gt;
+&lt;p&gt;39 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Izjava o avtorstvu 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Spodaj podpisani Allen Lorbek izjavljam, da je diplomsko delo z naslovom »Slovenska 
+&lt;/p&gt;
+&lt;p&gt;policija v mednarodnih civilnih misijah – primerjalna analiza ameriško in evropsko 
+&lt;/p&gt;
+&lt;p&gt;vodenih misij« rezultat lastnega dela in da so rezultati korektno navedeni. 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt;Ljubljana, 11.11.2010                                                                                          Allen Lorbek 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; 
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p/&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/html&gt;</XmlText>
+</dokument>

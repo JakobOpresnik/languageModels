@@ -1,0 +1,817 @@
+PPoolliittbbaarroommeetteerr 1122//22000088 december 2008 Projekt
+"Javnomnenjske raziskave o odnosu javnosti do aktualnih razmer in dogajanj v Sloveniji" je longitudinalni projekt CJMMK, ki poteka od januarja 1995 dalje Ljubljana, 16. 12. 2008
+
+POLITBAROMETER 12/08
+Poročilo o raziskavi, ki je bila opravljena v dneh od 8. do 10. decembra 2008
+Politbarometer je bil koncem 1994 zasnovan na iniciativo Vlade Republike Slovenije in vse do 31. 12. 2005 financiran s strani Urada RS za informiranje. Prva eksperimentalna meritev PB je bila izvedena decembra 1994; v obdobju 1995–2005 je merjenje potekalo deset oz. enajstkrat letno, od leta 2006 dalje pa poteka štirikrat letno.
+V dneh od 8. do 10. decembra 2008 smo na osnovi vzorca telefonskih naročnikov zajeli 944 polnoletnih oseb, državljane in državljanke Republike Slovenije in z njimi izvedli telefonski intervju s pomočjo standardiziranega vprašalnika. Vzorčenje je potekalo iz vzorčne baze (BN=3196), ki je bila izčrpana do 30%. Telefonske intervjuje Politbarometra 12/08 je izvajalo 28 izšolanih anketarjev CJMMK, povprečni čas trajanja intervjuja (računalniška meritev) je bil 10,5 minut, medtem ko je bil skupni bruto čas trajanja ankete 400 ur.
+Zasnovo vprašalnika PB12/08, kontrolo izvedbe in pripravo poročila je opravila skupina CJMMK: red. prof. dr. Niko Toš, doc. dr. Slavko Kurdija (koordinacija izvedbe), dr. Matej Kovačič, Rebeka Falle, univ. dipl. soc., Tina Vovk, univ. dipl. soc, Živa Broder, univ. dipl. soc. in Ivi Kecman, tajnica Centra.
+Poročilo vsebuje popoln pregled postavljenih vprašanj in dobljenih odgovorov – v prilogi. V nadaljevanju podajamo pregled najznačilnejših ugotovitev v opisni, grafični ali numerični obliki.
+Vsa vprašanja in merila v gradivu so povzeta v izvirni obliki. Ker gre v večini primerov za ponavljajoče se meritve, podajamo poleg aktualne meritve še pregled prejšnjih meritev.
+V prilogi poročila dodajamo tabelarno gradivo, ki kaže na povezanosti med izraženimi stališči anketirancev ter njihovimi statusnimi oziroma socialno-demografskimi značilnostmi. Tako v analizo vključujemo poleg spola, starosti in izobrazbe, še poklic oz. zaposlitveni status, tip naselja in regionalno pripadnost respondentov. V analizo vključujemo tudi variable, ki kažejo nazorsko in strankarsko opredeljenost respondentov: vernost, opredelitev na t. i. levo-desni lestvici in strankarsko opredeljenost, ki jo zajemamo s pomočjo indeksa strankarskih preferenc. Indeks strankarskih preferenc je vsota opredelitev za stranke, zajetih z vprašanjema "Katero stranko bi volili?" in "Katera stranka vam je najbližja?". V grafičnih medčasovnih prikazih, vključenih v to poročilo, ki segajo v obdobje 1996–2006, so z navpično črto in oznako DZ ali PR zabeležene časovne točke državnozborskih oz. predsedniških volitev. Prikazi in analiza podatkov temeljijo na sistemu vzorčnih uteži, ki zmanjšujejo pristranost in napake v rezultatih kot posledice vzorčenja.
+Utemeljitev in opis postopka obteževanja je podan v dokumentu: dr. Slavko Kurdija, dr. Janez Štebe: "Oblikovanje vzorčnih uteži za telefonsko anketo Politbarometer", objavljenem v Politbarometru PB3/97.
+
+KAZALO
+Prikazi in analize
+Socialna in politična klima Osnovne vrednotne orientacije Odgovornost je na posamezniku/na državi Težnja k enakosti – k razlikam v dohodkih Razmere, ki vzbujajo skrb Strahovi v povezavi z EU Zadovoljstvo z demokracijo Zadovoljstvo z materialnimi razmerami Izražanje skrbi pred izgubo zaposlitve Zadovoljstvo z življenjem kot celoto Slovenke in Slovenci smo pretežno srečni Zaupanje v institucije
+Zaupanje politikom – mednarodna primerjava Zaupanje v politične in civilno-družbene institucije Zaupanje v institucije – trendi Podpora vladi
+Strankarska in (po)volilna opredeljevanja Levo-desno samoopredeljevanje
+Bi šli naslednjo nedeljo na volitve? In koga bi volili?
+Potek volilnega odločanja in zadovoljstvo z izidom volitev Strankarske preference Izbrani aktualni problemi »Neimenovanja ambasadorjev« »D. Rupel posebni odposlanec« »Blejski otok v najem RKC« »Nova univerza«
+»Vpliv krize na ravnanje z denarjem« »Izbrisani« Priloga 1:
+Gibanje preferenc v obdobju 2001–2008 – strnjen prikaz za levo-sredinske in desno-sredinske stranke Priloga 2:
+Volitve v Državni zbor leta 2008, Primerjave volilnih rezultatov 1992-2008
+
+Prikazi in analize
+Ta prikaz temelji na četrti načrtovani meritvi v okviru projekta Politbarometer v letu 2008. Tokratna meritev je potekala v dneh od 8. do 10. decembra 2008. S časovno umestitvijo meritev Politbarometra v prvo polovico letošnjega leta (februar, april, junij) ter zaključno meritvijo v decembru smo se izognili obdobju najintenzivnejše volilne kampanje in času neposredno po volitvah. Menili smo, da za razumevanje poteka strankarskih opredeljevanj v tem času več kot zadoščajo zgoščene meritve, ki so jih opravili medijski in tržni raziskovalci javnega mnenja. Tako je vsebinska zasnova tokratne meritve sledila predvsem opazovanju medčasovnih potekov in trendov v političnem javnem mnenju in se le obrobno dotaknila posamičnih vprašanj, ki trenutno vzburjajo politične odzive.
+Priprava tega prikaza sovpada z zaključkom oz. zaključevanjem dveh obsežnih temeljnih socioloških raziskovalnih projektov, ki jih je skupina raziskovalcev CJM izvedla v letošnjem letu.1 Obe raziskavi, še posebej v njunem medčasovnem in mednarodno primerjalnem okviru, zarisujeta socialno in politično klimo in odpirata priložnost za poglobljeno analizo pojavov, ki se jih s politbarometrskimi meritvami dotikamo le površinsko. Za ponazoritev smo tako iz obeh raziskav izbrali nekaj nizov podatkov in jih pridružili temu poročilu.
+1 I. Evropska raziskava vrednot (European Value Survey, 1992-2008, četrta meritev); II. Evropska družboslovna raziskava (European Social Survey, 2002-2008, četrta meritev).
+
+Socialna in politična klima
+Socialno in politično klimo označuje izražanje splošnega življenjskega zadovoljstva in sreče, hkrati pa tudi ne-zadovoljstev, ne-zaupanj ter občutkov ne-ogroženosti v vsakdanjem življenjskem okolju.
+Ta vidik bomo prikazali z naslednjimi kazalci:
+- prevladujoče vrednotne orientacije
+- razumevanje individualne odgovornosti
+- zavzemanje za razlike – enakost v dohodku
+- zadovoljstvo z življenjem kot celoto
+- zaskrbljenost glede življenjskih razmer na sploh
+- zaskrbljenost glede materialnega položaja ljudi v starosti
+- zaskrbljenost glede socialnih posledic vključenosti v EU ipd.
+Osnovne vrednotne orientacije
+Na osnovi vpogleda v rezultate evropske in svetovne raziskave vrednot (graf 1) lahko sklepamo o relativni trdnosti in stabilnosti prevladujočih vrednotnih orientacij ljudi v Sloveniji. V vrhu vrednotne lestvice Slovenk in Slovencev sta prejkoslej družina in delo, na dnu pa vera in politika.
+Nekako v sredino, vendar s tendenco rasti, pa se umešča vrednotenje socialnih stikov (prijatelji) in kvaliteta življenja (prosti čas).
+Graf 1
+KAKO POMEMBNA JE VSAKA OD NAŠTETIH STVARI V VAŠEM
+ŽIVLJENJU? (delež odgovorov: 4-zelo pomembna) 0
+C J M M K
+S lo v e n s k o
+j a v n o
+m n e n je
+DRUŽINA PRIJATELJI DELO PROSTI ČAS VERA POLITIKA
+
+Odgovornost je na posamezniku/na državi
+Med ljudmi se postopno izostruje občutek (individualne) odgovornosti za lastno usodo, pa čeprav je solidaristični koncept, ki prenaša odgovornost na družbo oz. državo, še vedno (pre-)močno ukoreninjen. (graf 2) Graf 2
+DRŽAVA BI MORALA SPREJETI VEČ ODGOVORNOSTI, DA JE VSAKDO PRESKRBLJEN / POSAMEZNIK BI MORAL PREVZETI VEČ ODGOVORNOSTI SAM ZASE
+(uporaba lestvice od 1-država več odgovornosti do 10-posameznik več odgovornosti) 40,5 20
+10 20 30 40 50 60 70 država več odgovornosti (1 - 4) nekje vmes (5, 6) posameznik več odgovornosti (7 - 10)
+C J M M K
+S lo v e n s k o
+j a v n o
+m n e n je
+i n 2 0 0 8
+Težnja k enakosti – k razlikam v dohodkih
+Težnja za solidarizem in enakost je še vedno prevladujoča in v zadnjem obdobju (2008) še bolj poudarjena. Ekstremno, lahko bi rekli socialno-patološko razpiranje socialnih in premoženjskih razlik, ki se dogaja v zadnjem obdobju, dobi svoj odziv v zaostrenih večinskih zahtevah po več enakosti (graf 3).
+Graf 3
+DOHODKI BI MORALI BIT I BOLJ ENAKI / POTREBNE SO VEČJE RAZLIKE V DOHODKIH, KER TO VZPODBUDI LJUDI K VEČJI PRIZADEVNOSTI
+(uporaba lestvice od 1-bolj enaki do 10-večje razlike) 32,8 16,6 35,2 48,6 26,5 23,8 55,2 22,8 20
+10 20 30 40 50 60 70 bolj enaki (1 - 4) nekje vmes (5, 6) večje razlike (7 - 10)
+C J M M K
+S lo v e n s k o
+ja v n o
+m n e n je
+in
+1992 1995 1999 2005 2008 Razmere, ki vzbujajo skrb
+
+Koncept socialne države je prejkoslej v temelju vrednotenja in opredeljevanja ljudi. To pokaže tudi graf 4, kjer so umeščeni socialni vidiki, ki ljudi močno skrbijo. V vrh se umesti skrb za lastno družino, sledijo pa kritične zaznave v razmerah in položaju otrok v revnih družinah, bolnih in invalidnih ljudi, starejših, nezaposlenih itd. Življenjske razmere priseljencev v Sloveniji so umeščene na zadnje mesto, kar deloma izraža tudi zadržan (diskriminatoren?) odnos do te kategorije ljudi.
+Graf 4
+KOLIKO VAS SKRBIJO ŽIVLJENJSKE RAZMERE ...
+(seštevek odgovorov "zelo močno" in "močno") 12,2 46,2 53,3 55,3 66,2 74,2
+0 10 20 30 40 50 60 70 80 90 100 priseljencev, ki živijo v Sloveniji nezaposlenih ljudi v Sloveniji starejših ljudi v Sloveniji bolnih in invalidnih ljudi v Sloveniji otrok v revnih slovenskih družinah vaše ožje družine
+CJMMK, Slovensk o javno mnenje 2008/1, N=1366
+Dodatna ilustracija zgornje umestitve skrb vzbujajočih razmer je podana v grafu 5, ki pokaže, kako se Slovenci v ocenjevanju življenjskih razmer in materialnega položaja starih ljudi umeščamo v mednarodni primerjavi. (graf 5)
+Graf 5 Zaskrbljenost glede življenjskih razmer, materialnega položaja v starosti
+– mednarodna primerjava Strahovi v povezavi z EU
+
+Težnja k vključevanju v evropski družbeni prostor, ki spremlja ves potek demokratizacije, osamosvajanja in razvoja slovenske družbe in države v zadnjih desetletjih, se po vključitvi Slovenije v Evropsko unijo in do nje izraža z več zadržanosti ter je – v razmerah globalne krize – povezana z novimi strahovi, predvsem še glede možne izgube delovnih mest, zmanjševanja socialne varnosti, izgubljanja nacionalne in kulturne identitete itd. (graf 6) Graf 6
+STRAHOVI GLEDE NADALJNEGA RAZVOJA EU
+(1-zelo me skrbi, 10-sploh me ne skrbi) seštevek odgovorov 1+2 25
+0 10 20 30 40 50 60 70 80 90 100 Zmanjšanje vpliva Slovenije v svetu.
+Izgubljanje nacionalne identitete in kulture.
+Zmanjšanje socialne varnosti.
+Plačevanje vedno višjih prispevkov Evropski uniji.
+Izguba delovnih mest v Sloveniji.
+CJMMK, Slovensk o javno mnenje 2008/1, N=1366 Zadovoljstvo z demokracijo
+S potekom in načinom obnavljanja in delovanja osrednjih državnih ustanov Slovenci nismo zadovoljni (grafi 7–9). Prevladujoče ne-zadovoljstvo je konstanta v izražanju odnosa do političnih institucij.
+Graf 7
+ZADOVOLJSTVO Z DEMOKRACIJO
+ZADOVOLJNI NEZADOVOLJNI NE VEM, B.O.
+C J M M K
+P o lit b a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+APR JUN DEC
+
+Le kratek čas po volitvah 2004 in ob vladni umestitvi desno-sredinskih strank je nastal videz prevladovanja zadovoljstva nad nezadovoljstvom v delovanju demokratičnega sistema. Vsega pol leta po volitvah je nezadovoljstvo prevladalo nad zadovoljstvom z demokracijo.
+Graf 8
+ZADOVOLJSTVO Z DEMOKRACIJO
+1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 ZADOVOLJNI NEZADOVOLJNI ne vem, b.o.
+DZ PR
+CJMMK, Politb arometer, 1996 - 2008
+DZ DZ PR DZ
+Kako je potekalo izražanje zadovoljstva z demokracijo pred in neposredno po volitvah leta 2004 in leta 2008, ilustrira graf 9. V obeh primerih je zadovoljstvo z demokracijo naraslo, vendar izraziteje ob volitvah 2004 kot ob zadnjih volitvah.
+Graf 9
+ZADOVOLJSTVO Z DEMOKRACIJO
+PRED (junij) IN PO (december) VOLITVAH 2004 / 2008 0
+2004/6 2004/12 2008/6 2008/12 ZADOVOLJNI NEZADOVOLJNI ne vem, b.o.
+CJMMK, Politbarometer, 2004 - 2008 Zadovoljstvo z materialnimi razmerami
+
+Zadovoljstvo z materialnimi razmerami (grafi 10-11) kaže na potek in stanje socialne diferenciacije.
+Dobra polovica vseh izraža zadovoljstvo, slaba polovica pa nezadovoljstvo z materialnimi razmerami. V časovnem preseku 2006-2008 delež nezadovoljnih postopno narašča.
+Graf 10
+ZADOVOLJSTVO Z MATERIALNIMI RAZMERAMI
+ZADOVOLJNI NEZADOVOLJNI NE VEM, B.O. C J M M K
+P o lit b a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+APR JUN DEC
+Graf 11
+ZADOVOLJSTVO Z MATERIALNIMI RAZMERAMI
+1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 ZADOVOLJNI NEZADOVOLJNI ne vem, b.o.
+DZ PR
+CJMMK, Politbarometer, 1996 - 2008
+DZ DZ PR DZ
+Več nezadovoljnih kot v povprečju (45%) je med respondenti iz obeh srednjih starostnih skupin (npr. 46–60: 50%), med respondenti le z osnovno šolo (57%), med brezposelnimi (59%), med preferenti DESUS (63%) in strankarsko neopredeljenimi (51%) itd. Mnogo več zadovoljnih pa je med višje in visoko izobraženimi (70%), zaposlenimi v negospodarstvu (61%), študenti, dijaki (80%), desno samoopredeljenimi (60%), pa tudi med podporniki Pahorjeve vlade (59%), preferenti SDS (58%) in SD (56%) itd.
+
+Izražanje skrbi pred izgubo zaposlitve
+Izražanje skrbi za zaposlitev je trajna spremljevalka socialne klime. Zaskrbljenost glede možne izgube zaposlitve kaže dobra tretjina vseh zaposlenih. Ta zaznava se v letošnjem letu še ni izostrila.
+(graf 12) Graf 12
+ALI VAS SKRBI, DA BI LAHKO IZGUBILI SVOJE DELOVNO MESTO?
+(samo za zaposlene v gospodarstvu in negospodarstvu) 0
+DA, ZELO ME SKRBI DA, DO NEKE MERE NE, ME NE SKRBI PR
+CJMMK, Politbarometer, 2002 - 2008
+DZ PR DZ
+Zadovoljstvo z življenjem kot celoto
+Kljub nezadovoljstvom in zaskrbljenosti ljudi glede življenjskih razmer v prej prikazanih presekih na vprašanje o življenjskem zadovoljstvu na sploh (močno) prevlada njihov pozitiven odziv. Kar tri četrtine vseh (73.5%) izraža (visoko) stopnjo zadovoljstva (graf 13). Delež nezadovoljnih dosega vsega majhen del (7.9%) populacije. V grafu prikazane meritve zajamejo obdobje 1992–2008 in kažejo na izrazit pozitiven trend. Delež nezadovoljnih je v tem časovnem obdobju upadel na polovico, delež zadovoljnih pa je močno narastel (1992: 46%; 2008: 53.5%).
+Graf 13
+ZADOVOLJSTVO Z ŽIVLJENJEM KOT CELOTO
+(uporaba lestvice od 1-povsem nezadovoljen do 10-povsem zadovoljen) 17
+10 20 30 40 50 60 70 80 nezadovoljen (1 - 4) nekje vmes (5, 6) zadovoljen (7-10)
+C J M M K
+S lo v e n s k o
+ja v n o
+m n e n je
+in
+
+Slovenke in Slovenci smo pretežno srečni
+In vendar smo prebivalci Slovenije, Slovenke in Slovenci vse bolj in pretežno srečni. Ko smo v okviru Politbarometra pred štirimi leti prvič povprašali ljudi glede občutka osebne sreče, se je za nesrečne izrekla šestina vprašanih, za srečne (33%) in zelo srečne (15%) pa skoraj polovica vseh vprašanih. Tokrat, torej štiri leta kasneje, je delež »nesrečnih« močno upadel (iz 15% na 9%) in delež »srečnih« močno narastel (iz 48% na 62%) (graf 14).
+Graf 14:
+ČE POGLEDATE IZTEKAJOČE SE LETO IN VAŠE OBČUTKE OSEBNE SREČE, KAKO SREČNO / SREČNEGA SE POČUTITE?
+1 - nisem srečen 2 3 - nekaj vmes 4 5 - zelo srečen ne vem, b.o.
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+42004 DEC 2008 DEC
+Analiza rezultatov zadnje meritve pokaže, da se kot nesrečni v večji meri kot v povprečju (9%) umeščajo samozaposleni (26%), respondenti z najstarejše starostne skupine (61 in več: 13%), le z osnovno šolo (18%) itd. Med najbolj srečne pa se umeščajo predvsem najmlajši (do 30: 75%), višje in visoko izobraženi (72%), zaposleni v negospodarstvu (75%) itd.
+Niz raziskav SJM/EVS, ki poteka vse od leta 1991 dalje, nakazuje jasen trend v izražanju sreče (graf 15). Do celote sprememb v življenjskih razmerah in usod posameznikov se ljudje vse bolj in v veliki večini (2008) opredeljujejo pozitivno.
+Graf 15:
+KAKO SREČNI STE?
+(delež odgovorov: "zelo srečni + precej srečni" in "ne preveč srečni + sploh niste srečni") 0
+C J M M K
+S lo v e n s k o
+ja v n o
+m n e n je
+SREČNI NESREČNI
+
+Zaupanje v institucije
+Zaupanje politikom – mednarodna primerjava
+Zaupanje v institucije je v temelju demokratičnega sistema. Najprej lahko ugotovimo, da je nezaupanje do politike, političnih strank in politikov nekako »ukoreninjeno« v zavesti Slovencev.
+To ilustrirajo rezultati Evropske družboslovne raziskave, ki odpirajo medčasovni in mednarodnoprimerjalni pogled na ta problem (graf 16). Slovenci se v teh primerjavah umeščamo nizko, na zgornji rob srednje- in vzhodno-evropskih držav.
+Graf 16: Zaupanje politikom
+Zaupanje v politične in civilno-družbene institucije
+V opazovanje vseskozi vključujemo obsežen nabor državnih in civilno-družbenih ustanov, ki smo jim tokrat dodali še informacijsko pooblaščenko in računsko sodišče.
+Aktualna raziskava zaupanja v politične institucije pokaže, da je povolilna (personalna) prenova osrednjih državnih institucij deloma vplivala na rahel vzpon v izražanju zaupanja. Meritev (graf 17) pokaže, da se v vrh, z največjih deležem tistih, ki izrekajo zaupanje (popolnoma zaupam + zaupam) umesti Predsednik republike (55%), sledijo pa mu Evro (53%), Banka Slovenije (49%), Informacijska pooblaščenka (47%), šolstvo (44%), vojska (42%), Varuhinja človekovih pravic (41%) in Predsednik vlade (40%); v spodnji del ranga, z najmanjšim deležem pa se umeščajo politične stranke (9%), sodišča (16%), NATO (23%), državna uprava (23%), Računsko sodišče (24%), cerkev in duhovščina (25%) itd. V sredino ranga, vendar z višjim deležem izrečenih zaupanj kot nezaupanj, se umeščajo Komisija za preprečevanje korupcije, mediji, zdravstvo, policija, Evropska unija, OZN in vlada. Ob Ustavnem sodišču in sindikatih pa je delež tistih, ki obema ustanovama ne izreka zaupanja, višji od »zaupnikov«. Za skupino najnižje uvrščenih institucij pa je še posebej značilno, da nase vežejo daleč več izrazov nezaupanja, kot zaupanja. To še posebej velja za cerkev in duhovščino (48%), pa tudi za sodišča (46%) in politične stranke (43%), ki so na sploh deležni največ izrazov nezaupanja.
+
+Graf 17:
+ZAUPANJE V INSTITUCIJE...
+(seštevek odgovorov: "5-popolnoma zaupa"+"4-zaupa" in "1-nič ne zaupa"+"2-ne zaupa"; v %) CJMMK, POLITBAROMETER, december 2008, N=944 24 18 19 16 15 20 20 25 31 27 29 30 22 22 26 29 36 23 48 25 23 35 46 43 55 53 49 47 44 42 41 40 36 35 33 32 30 29 28 27 27 26 25 24 23 23 16 9
+PREDSEDNIK REPUBLIKE EVRO
+BANKA SLOVENIJE INF.POOBLAŠČENKA ŠOLSTVO VOJSKA
+VARUHINJA ČL. PRAVIC PREDSEDNIK VLADE
+K.ZA PREPREČ. KORUPCIJE MEDIJI
+ZDRAVSTVO POLICIJA EU
+OZN
+VLADA
+USTAVNO SODIŠČE SINDIKATI DRŽAVNI ZBOR
+CERKEV IN DUHOVŠČINA RAČUNSKO SODIŠČE DRŽAVNA UPRAVA NATO
+SODIŠČA
+POLITIČNE STRANKE
+NE ZAUPA ZAUPA
+Zaupanje v institucije – trendi
+Primerjava rezultatov treh meritev (april-junij-december – graf 18), prikazanih v srednjih vrednostih, pokaže, da je na zaupanju v tem časovnem preseku največ pridobil Predsednik vlade (J.
+Janša junij: 2.63, B. Pahor december: 3.20), Državni zbor (iz 2.59 na 3.0) in vlada v celoti (iz 2.59 na 2.98). Vidi se, da je v časovnem preseku junij–december v izraženem zaupanju največ izgubil Predsednik republike (junij 3.93, december 3.44). Očitna je tudi visoka umestitev nadzornih ustanov, med njimi še posebej Informacijske pooblaščenke (prva meritev), Varuhinje človekovih pravic, pa tudi Komisije za preprečevanje korupcije in Računskega sodišča. Umestitev Računskega sodišča ob prvi meritvi lahko označimo kot solidno, saj po umestitvi presega oz. dosega v rangu Ustavno sodišče in močno presega sodišča na sploh, ki so tokrat umeščena na dno ranga.
+
+Uvrstitev štirih nadzornih institucij skupaj je na oz. nad ravnjo zaupanja, ki ga državljani in državljanke izrekajo osrednjim državnim ustanovam. K takšni uvrstitvi brez dvoma prispeva tudi dejstvo, da so bile vse štiri nadzorne ustanove v zadnjem parlamentarnem mandatu izpostavljene ostrim kritikam, zavračanjem ter poizkusom onemogočanja in ukinjanja. Vladajoča politika, ki se spopada z nadzornimi institucijami, razkriva svoje nedemokratično bistvo.
+Graf 18:
+ZAUPANJE V INSTITUCIJE
+(povprečje na lestvici od 1 - najmanj zaupa do 5 - najbolj zaupa) 4, 07 3, 34 3
+IN F O R M A C
+IJ S K I P O O B
+LA Š Č E N K I P R E D S E D N
+IK U
+R E P U B L
+IK E E V R U B A N K
+I S LO V E N
+IJ E Š O
+LS T V U V O
+JS K I V A R U H
+IN JI
+Č
+P R A V
+IC P R E D S E D N
+IK U
+LA D E O Z N E U M E D
+IJ E M K O M
+IS IJ I/ P R E P R E Č
+.K O R U P C
+IJ E Z D R A V S T V U D R Ž A V N E M U
+Z B O R U V
+LA D
+C E
+LO T I R A Č U N S K E M U
+S O D
+IŠ Č U D R Ž A V N
+I U P R A V I U S T A V N E M U
+S O D
+IŠ Č U P O
+LI C
+IJ I S
+IN D
+IK A T O M N A T O C E R K V
+I,D U H O V Š Č
+IN I P O
+LI T
+IČ N
+IM
+S T R A N K A M S O D
+IŠ Č E M C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+APR JUN DEC
+Kako je potekalo izražanje zaupanja Predsedniku republike in Predsedniku vlade v preseku 2004– 2008, pred in po volitvah, ilustrira graf 19.
+Graf 19:
+ZAUPANJE PREDSEDNIKU VLADE IN PREDSEDNIKU REPUBLIKE
+PRED (junij) IN PO (december) VOLITVAH 2004 / 2008 (seštevek 5-zelo zaupa in 4-zaupa) 0
+2004/6 2004/12 2008/6 2008/12 predsednik vlade predsednik republikeCJMMK, Politbarometer, 2004 - 2008
+ROP / DRNOVŠEK JANŠA / DRNOVŠEK JANŠA / TÜRK PAHOR / TÜRK
+
+Podpora vladi
+Ob tokratni meritvi podpora vladi B. Pahorja dosega več kot polovico in nepodpora dobro tretjino (34%) vseh vprašanih. (graf 20).
+Graf 20
+PODPORA JANŠEVI / PAHORJEVI VLADI
+DA, PODPIRAM NE, NE PODPIRAM NE VEM, B.O.
+C J M M K
+P o lit b a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+APR JUN DEC
+Gornji graf ilustrira tudi premik v izražanju podpore/nepodpore vladi v prehodu iz Janševega v Pahorjev mandat v tem letu.
+Izražanje podpore v vsem obdobju meritev (2001–2008 – graf 21) pokaže oster premik v izražanju podpore na začetku Janševega mandata – in ponovno na izhodišču Pahorjevega mandata. Visoko podporo je vlada J. Janše ohranjala do sredine prvega leta mandata. V srednjem obdobju mandata sta se podpora in nepodpora izravnali, v zaključnem delu mandata, koncem leta 2007 in v letu 2008, pa je vlada J. Janše bila deležna le nizke podpore in visoke nepodpore. Dvig podpore ob nastopu vlade B. Pahorja pa je bil bolj umirjen. Ali se bo podpora kazala kot prevladujoča, kar velja za Drnovškovo obdobje, ali izravnala z nepodporo, kar velja za Ropovo obdobje, ali se bo uravnavala glede na model sunkovitega vzpona in hitrega padca, kar je značilno za Janševo obdobje, bodo pokazale kasnejše meritve.
+
+ALI PODPIRATE VLADE JANŠE / ROPA / DRNOVŠKA / PAHORJA?
+PODPIRA NE PODPIRA DRNOVŠEK
+CJMMK, Politb arometer, 2000 - 2008
+ROP JANŠA PAHOR
+Analiza decembrske meritve pokaže, da se med izrazite podpornike vlade B. Pahorja umeščajo respondenti iz naslednjih skupin: najstarejši (61 in več: 60%), višje in visoko izobraženi (62%), dijaki in študenti (59%), levo usmerjeni (69%), prebivalci Ljubljane in Maribora ter večjih mest (56%, 57%), respondenti, ki so bo zadnjih volitvah glasovali za SD (79%), Zares (76%), preferenti SD (86%), itd. Največ nepodpornikov vlade B. Pahorja pa je med samozaposlenimi in poklicno izobraženimi (44%), desno opredeljenimi (40%), preferenti SNS (56%), SDS (50%) itd.
+Kasnejša analiza bo podrobneje pokazala na dejavnike, ki prispevajo k izražanju podpore oz. nepodpore. Za drugo polovico mandata vlade J. Janše pa seveda velja, da je le-ta uplahnila zaradi vse bolj zaostrenih kritik razmer v socialnem, gospodarskem in političnem razvoju Slovenije (korupcija, slabšanje položaja zaposlenih, razmere na področju zdravstva, urejanje odnosov s Hrvaško itd.).
+
+Strankarska in (po)volilna opredeljevanja Levo-desno samoopredeljevanje
+Stanje v levo-desnem samoopredeljevanju anketiranih oseb ilustrirata grafa 22 in 23. Zadnje meritve, od predsedniških volitev do danes, nakazujejo vzgib v smeri levega samoopredeljevanja.
+To ilustrirajo kratkoročne primerjave (april-december, graf 22), pa tudi dolgoročne primerjave (graf 23). V vsem obdobju opazovanja te spremenljivke se pokaže, da je levo-desno samoopredeljevanje izdatnejše, kar se kaže v povečevanem deležu levo samoopredeljenih in konstantnem oz. rahlo zmanjšanem deležu desno samoopredeljenih. Iz tega okvira pa izstopa levo-desno opredeljevanje v začetnem obdobju mandata vlade J. Janše, kjer delež levo opredeljenih vidneje usiha.
+Graf 22
+LEVO-DESNO SAMOOPREDELJEVANJE
+LEVO SREDINA DESNO brez odgovora
+C J M M K
+P o lit b a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+APR JUN DEC
+
+LEVO-DESNO SAMOOPREDELJEVANJE
+LEVO DESNO DZ PR
+CJMMK, Politbarometer, 1996 - 2008
+DZ DZ PR DZ
+Analiza rezultatov aktualne meritve pokaže, da se kot desni bolj pogosteje kot v povprečju (19%) izrekajo respondenti iz naslednjih skupin: najmlajši (do 30 let: 24%), poklicno in srednje šolani (21%), dijaki in študentje (22%), brezposelni (30%), verni (26%), še posebej pa preferenti SDS (50%) ter NSI (49%) in SLS (43%). Bolj levo kot v povprečju pa se opredeljujejo višje in visoko izobraženi (58%), zaposleni v negospodarstvu in samozaposleni (46%), študentje, dijaki (35%), prebivalci Ljubljane in Maribora (39%), neverni (52%), podporniki vlade B. Pahorja (43%) ter preferenti stranke Zares (76%!), LDS (58%), SD (48%) itd. Pri tem je zanimivo predvsem razkritje, da se preferenti Zares skoraj izključno opredeljujejo kot levi in med njimi desno opredeljenih ni (2%), med preferenti SD je, poleg levo opredeljenih (48%), še značilen delež sredinsko ter velik delež neopredeljenih (24%); desno opredeljenih pa je 7%.
+Bi šli naslednjo nedeljo na volitve? In koga bi volili?
+Gre za projektivni vprašanji, ki kažeta na državljanski oz. politični aktivizem. Graf 24 ilustrira »pravilnosti« v izražanju pripravljenosti udeležbe na volitvah. Pripravljenost narašča ali upada skladno z volilnimi cikli v DZ in za PR.
+Graf 24
+ČE BI BILE NASLEDNJO NEDELJO VOLITVE V DRŽAVNI ZBOR,
+ALI BI VI ŠLI ALI NE BI ŠLI NA VOLITVE?
+DA NE DZ PR
+CJMMK, Politbarometer, 1996 - 2008
+DZ DZ PR DZ
+
+Odgovori na vprašanje, koga (katero stranko) bi volili, so prikazani v grafu 25. Opazno je naraščanje deleža strankarsko opredeljenih (april: 61%, junij: 64%, december: 74%), kar se predvsem pokaže v izrazitem povečevanju deleža izbir za SD (iz 19% na 30%) in stranke Zares (april: 6%, junij: 5%, december: 8%). Prikaz v grafu 25 zajame le skupino »tistih, ki bi šli na volitve«. Medčasovna primerjava pokaže tudi močno povečan delež opredeljenih (iz 61% aprila na 74% decembra) in neznačilna gibanja v tej časovni primerjavi za stranke DESUS, LDS, NSI, SLS, SNS, pa tudi SDS. Strukturni pregled pokaže, da se strankarsko najbolj (76%) opredelijo najmlajši, najmanj (30%) pa respondenti od 31 do 45 let. Glede na izobrazbo se strankarsko najbolj opredelijo višje in visoko izobraženi (77%), najmanj pa le z osnovno šolo (68%). Med kategorijami oz. skupinami, ki se najmanj opredeljujejo, so tudi samozaposleni (58%), dijaki in študenti (65%) itd.
+Pregled pokaže, da se kot »volivci« za SD močneje kot v povprečju opredeljujejo najmlajši (do 30 let: 38%), le z osnovno šolo (33%), iz negospodarstva (33%), respondenti iz večjih mest (37%), neverni (40%) in levo opredeljeni (42%). Med levo opredeljenimi najdemo sicer največ »volivcev« SD (42%), sledi pa Zares z visokim deležem (19%). To kaže, da je med volivci Zares relativno največ levo opredeljenih volivcev. Podobna povezava se pokaže tudi pri desno opredeljenih: med njimi je največ »volivcev« SDS (47%). sledi pa SNS (9%).
+Graf 25
+KOGA BI VOLILI?
+(tisti, ki bi šli na volitve) 3 4 3 18 1 5
+DESUS LDS NSI SDS SLS SNS SD ZARES LIPA drugo ne vem, b.o.
+C J M M K
+P o lit b a ro m e te r,
+d e c e m b e r 2 0 0 8
+APR (n=535) JUN (n=547) DEC (n=701)
+Potek volilnega odločanja in zadovoljstvo z izidom volitev
+Udeležence volitev, ki so navedli stranko, za katero so volili, smo povprašali, kdaj so se odločili, da bodo volili to stranko. Graf 26 pokaže, da je četrtina vseh volivcev odločitev glede izbrane stranke oblikovala v zadnjem mesecu oz. v zadnjih dneh. Očitno je, da je intenzivnost volilne kampanje prispevala h končnim volilnim odločitvam. Pokaže pa se tudi, da je bil daleč največji del volivcev (60%) že dalj časa vnaprej odločen glede svoje izbrane stranke.
+
+KDAJ STE SE ODLOČILI, DA BOSTE VOLILI TO STRANKO?
+(odgovarjajo tisti, ki so navedli stranko; n=598) 13 12 13 60 1 0
+V ZADNJIH DNEH V ZADNJEM MESECU
+OD ZAČETKA
+LETOŠNJEGA LETA ŽE DALJ ČASA SEM ODLOČEN ne vem, b.o
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+Analiza pokaže, da se delež vnaprej odločenih spreminja glede na starost. Tako je med najstarejšimi (61 let in več) bilo glede volilne izbire »od začetka leta ali že dlje« odločenih kar 79% vseh. Med najmlajšimi (do 30 let) pa je bilo takih le 59%, bistveno več pa se jih je o volilni izbiri odločalo v zadnjih dneh (19%) oz. v zadnjem mesecu (23%). Očitno je, da je najmlajši del volilnega telesa bil najbolj izpostavljen vplivom volilne kampanje. Pregled tudi pokaže, da ima SDS največ (80%) vnaprej odločenih volivcev, medtem ko jih ima SD nekaj manj (65%), Zares pa značilno manj (38%). Med preferenti Zares je daleč največ tistih, ki so se glede izbire odločali v zadnjih dneh (18%) oz. v zadnjem mesecu (30%).
+Graf 27 ilustrira »zadovoljstvo z izidom volitev«. Skladno s pričakovanjem so tri petine (59%) vseh vprašanih zadovoljni z izidom volitev, dobra tretjina (34%) pa nezadovoljnih.
+Graf 27
+ALI STE VI OSEBNO Z IZIDOM VOLITEV ZADOVOLJNI?
+100 zadovoljen ni zadovoljen ne vem, b.o
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+
+Skladno z pričakovanji je seveda daleč več zadovoljnih z izidom volitev med preferenti SD (91%), Zares (85%), LDS (70%), DESUS (65%) in po drugi strani, daleč več nezadovoljnih med preferenti SDS (71%), SNS (72%) itd. Strankarska vezanost v osnovi določa zadovoljstvo z izidom. Ne kaže pa zanemariti dejstva, da so daleč bolj zadovoljni z izidom preferenti z najmanj srednjo (64%) oz. višjo in visoko izobrazbo (70%), pa tudi upokojenci (64%) in študenti, dijaki (67%), kar je mogoče pojasniti tudi z njihovim boljšim poznavanjem in razumevanjem demokratičnega bistva volitev.
+Strankarske preference
+Odgovore »volil bi« in »najbližja mi je« smo strnili v indeks strankarskih preferenc (graf 28).
+Decembrska meritev pokaže, da se rezultati volitev v DZ na preferenčni ravni izostrijo. Predvsem se okrepi preferenčna pozicija SD, ki doseže več kot tretjino (37%) vseh opredeljenih, dalje, močno se okrepi pozicija Zares (13%), medtem ko SDS ohrani preferenčno podporo na ravni predhodnih meritev (25%) in blizu ravni volilnega rezultata, preostale stranke poslabšajo svoj preferenčni položaj v primerjavi z volilnim rezultatom (DESUS, LDS, NSI), ali pa ga potrdijo (SLS, SNS).
+Predvsem je očitno, da se zmagovalka volitev preferenčno močno okrepi. Primerjave umestitev SDS kot zmagovite stranke na volitvah 2004 pa vendarle pokažejo, da povolilno izražanje preferenc za SD ne doseže enakega vzpona, kot smo ga izmerili leta 2004. K temu pa lahko dodamo, da je v volilni situaciji in v povolilnem preferenčnem opredeljevanju močno udeležena stranka Zares, poleg nje pa še stranki DESUS in LDS, kar se je po volitvah izrazilo v povezavi v t. i. levo koalicijo.
+Analiza pokaže na značilnosti in sestav preferenčnih skupin posameznih strank oz. skupine preferenčno neopredeljenih. Za slednjo skupino (neopredeljene) velja, da so v njej bolj zastopani respondenti iz skupine 31 do 45 let (35%), le z osnovno šolo (36%), samozaposleni (56%), s podeželja (31%), sredinsko opredeljeni (33%), pa tudi nepodporniki vlade (38%) itd. V skupini preferentov SD so v večji meri kot v povprečju (26%) udeleženi najstarejši (30%), višje in visoko izobraženi (30%), dijaki, študenti (30%), upokojenci (29%), respondenti iz Ljubljane in Maribora (31%), levo opredeljeni (39%), podporniki vlade B. Pahorja (44%) itd. Skupino preferentov SD (17%) pa v večji meri kot v povprečju sestavljajo respondenti srednjih starostnih kategorij (41 do 45 let: 22%), poklicno in srednje izobraženi (21%), brezposelni (25%), desno opredeljeni (46%) itd.
+Značilnosti skupine preferentov stranke Zares pa so: nadpovprečno (9%) visoka udeležba višje in visoko izobraženih (20%), samozaposlenih (13%), študentov, dijakov (14%), prebivalcev Ljubljane in Maribora (17%), nevernih (18%) in levo opredeljenih (22%).
+Očitno je, da je tekma med SD in SDS za položaj stranke relativne večine ob volitvah v Državni zbor s preferenčnim opredeljevanjem po volitvah presežena.
+
+STRANKARSKE PREFERENCE
+(bi volil + najbližja stranka) 3 6 2
+DESUS LDS NSI SDS SLS SNS ZLSD/SD ZARES LIPA drugo ne vem, b.o.
+C J M M K
+P o lit b a ro m e te r,
+d e c e m b e r 2 0 0 8
+APR (N=813) JUN (N=804) DEC (N=944)
+Graf 28 prikazuje preferenčno opredeljevanje in neopredeljenost vseh raziskovancev. Tudi tu se jasno izrazi vse, kar je pokazal neto prikaz: naraščanje deleža opredeljenih v preseku april– december, izrazito naraščanje deležev preferentov SD in manj izrazito naraščanje deleža preferentov Zares ter stabilen visok položaj SDS itd.
+Gibanja v strankarskem opredeljevanju ilustrirata grafa 29 in 30. Volilni rezultati in preferenčne opredelitve v decembru pritrjujejo domnevi, da je h končni opredelitvi pomembno prispevala nova stranka Zares, kar se pokaže v umestitvi t. i. levega trojčka in možnosti oblikovanja koalicije.
+Graf 29 0
+C J M M K
+P o li tb a ro m e te r,
+-2 0 0 ne vem DESUS LDS NSI SLS SNS SDS ZLSD/SD ZARES drugo 10 20 30 40 50 60
+
+C J M M K
+P o lit b a ro m e te r,
+-2 0 0 8 ne vem DESUS LDS NSI SLS SNS SDS ZLSD/SD ZARES drugo
+DZ DZ PRDZPR DZ
+
+Izbrani aktualni problemi »Neimenovanja ambasadorjev«
+Na vprašanje, kako ocenjujejo odločitev predsednika republike D. Türka, da zadrži imenovanje kandidatov za veleposlanike, je značilna večina (60%) izrekla odobravanje in dobra četrtina (26%) neodobravanje takega ravnanja.
+Graf 31
+KAKO OCENJUJETE ODLOČITEV PREDSEDNIKA D. TURKA, DA ZADRŽI IMENOVANJE NEKATERIH KANDIDATOV ZA VELEPOSLANIKE? ALI TO...
+ODOBRAVATE NE ODOBRAVATE ne vem, b.o.
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+Med tistimi, ki v večji meri odobravajo odločitev predsednika republike, izstopajo preferenti Zares (96%), SD (76%), LDS (73%) ter višje in visok izobraženi (74%) in levo opredeljeni (87%) itd.
+Največ neodobravanja pa je ta ukrep deležen pri preferentih SDS (55%), desno opredeljenih (47%) itd.
+
+»D. Rupel posebni odposlanec«
+Odločitev predsednika vlade B. Pahorja, ki je imenoval D. Rupla za posebnega odposlanca, je v decembrski meritvi PB naletela na izrazito odklonilno stališče. Tega imenovanja ne odobrava 68% vseh in odobrava le 24% vseh vprašanih. Na izrazito neodobravanje ta odločitev naleti med preferenti stranke Zares (90%), SD (73%), DESUS (83%), LDS (78%), večinsko pa tudi med preferenti SDS (58%!) itd. Nekaj več odobravanja tega ukrepa opazimo med preferenti SDS (37%), med vernimi (28%), desno samoopredeljenimi (31%) itd.
+Graf 32
+KAKO OCENJUJETE ODLOČITEV PREDSEDNIKA VLADE B. PAHORJA, DA IMENUJE D. RUPLA KOT POSEBNEGA ODPOSLANCA ZA ZUNANJE ZADEVE? ALI TO...
+ODOBRAVATE NE ODOBRAVATE ne vem, b.o.
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+»Blejski otok v najem RKC«
+Odločitev bivšega ministra Simonitija, da odda Blejski otok cerkvi, je naletela na visoko neodobravanje (69%) – graf 33. Ta ukrep odobrava 17% vprašanih; med njimi izstopajo verni (24%), preferenti SDS (36%), respondenti s podeželja (24%), sredinsko (26%) in desno opredeljeni (23%) itd.
+Graf 33
+KAKO OCENJUJETE ODLOČITEV BIVŠEGA MINISTRA SIMONITIJA, DA ODDA BLEJSKI OTOK V NAJEM CERKVI? ALI TO...
+ODOBRAVATE NE ODOBRAVATE ne vem, b.o.
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+
+»Nova univerza«
+Povprašali smo tudi o odločitvi bivše ministrice Kucler-Dolinar, ki je dopustila vpis nove, t. i.
+Jambrekove univerze (graf 34) Ob tem se pokaže predvsem večja neorientiranost in neinformiranost respondentov, saj ostaja dobra tretjina respondentov (35%) neopredeljenih. Ukrep ministrice odobrava 24% in ne odobrava 41% vprašanih. Z visokim deležem neodobravanja izstopajo višje in visoko izobraženi (60%), respondenti s področja negospodarstva (57%), neverni (62%), preferenti Zares (70%) itd. Tudi med preferenti SDS neodobravanje (40%) presega delež odobravanja (30%) itd.
+Graf 34
+ALI ODOBRAVATE ODLOČITEV BIVŠE MINISTRICE M. KUCLER DOLINAR, DA PODPRE USTANOVITEV NOVE T.I. JAMBREKOVE UNIVERZE?
+ODOBRAVATE NE ODOBRAVATE ne vem, b.o.
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+»Vpliv krize na ravnanje z denarjem«
+Ali bližajoča se finančna in gospodarska kriza vpliva na osebno ravnanje z denarjem, pokažejo odgovori, prikazani v grafu 35. Velika večina vseh navaja, da bo kriza vplivala na način njihovega gospodarjenja z denarjem.
+Graf 35
+V ZADNJEM ČASU JE PRECEJ GOVORA O SVETOVNI GOSPODARSKI IN FINANČNI KRIZI. ALI BO TO KAJ VPLIVALO NA VAŠE RAVNANJE Z DENARJEM?
+BO VPLIVALO NE BO PREVEČ VPLIVALO ne vem, b.o.
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+
+»Izbrisani«
+Končno smo postavili še vprašanje o tem, ali je vlada dolžna upoštevati odločbo Ustavnega sodišča pri ureditvi položaja t. i. izbrisanih. V grafu 36 so prikazani rezultati treh meritev v letih 2006– 2008. Potrdi se, da je v tem časovnem obdobju polovica vseh vprašanih (od 48% do 55%) pritrdila, da je vlada dolžna upoštevati odločitev ustavnega sodišča, dobra četrtina vseh (od 23% do 28%) pa, da ni dolžna. Med tistimi, ki zavračajo odločitev ustavnega sodišča, močno izstopajo preferenti SNS (67%). Med preferenti SDS pritrjevanje (41%) ustavnemu sodišču preseže (39%) odklanjanje. Da je vlada ta problem dolžna urediti skladno z odločbo Ustavnega sodišča, v veliki večini poudarjajo višje in visoko izobraženi (70%), najmlajši (59%), študentje, dijaki (65%), preferenti Zares (71%) in SD (58%) itd, itd.
+Graf 36
+USTAVNO SODIŠČE JE ŽE PRED LETI SPREMENILO ODLOČBO O UREDITVI POLOŽAJA T.I. IZBRISANIH. ALI JE SLOVENSKA VLADA OB TEM VPRAŠANJU DOLŽNA UPOŠTEVATI ODLOČBO UST. SODIŠČA, ALI NE?
+100 da, dolžna ne, ni dolžna ne vem, b.o.
+C J M M K
+P o li tb a ro m e te r,
+d e c e m b e r 2 0 0 8
+N
+2006 JAN 2007 DEC 2008 DEC
+
+Priloga 1:
+Gibanje preferenc v obdobju 2001–2008 – Strnjen prikaz za levosredinske in desno-sredinske stranke
+Potek preferenčnega opredeljevanja je v strnjenem prikazu za levo-sredinske in desno-sredinske stranke podan za obdobje 2001–2008. Najprej je podan skupen prikaz preferenčnih opredeljevanj, nato za levo oz. desno-sredinske stranke, v nadaljevanju pa sledi serija prikazov za LDS in SD oz. od novembra 2006 dalje za SD in SDS.
+V drugem delu tabelarnega gradiva so strnjeni prikazi preferentov za levo-sredinske in desnosredinske stranke ter neopredeljene glede na spol, starost, izobrazbo, kraj bivanja, vernost, levodesno samoopredeljenost respondentov ter regionalno pripadnost, vselej v časovnem zaporedju 2001–2008.
+Graf 1
+STRANKARSKE PREFERENCE V LETIH PB 2001-2008
+DESUS LDS NSI SLS SNS SDS ZLSD/SD ZARES drugo neopredeljeni
+2001 2002 2003 2004 2005 jan-jun 2005 sep-dec 2006 jan-jun 2006 sep-nov 2007 2008 feb-jun 2008 dec 10
+Graf 2
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001-2008
+10 20 30 40 leve (LDS, SD, DESUS in ZARES) desne (SDS, NSI in SLS) druge stranke neopredeljeni 2001 2002 2003 2004 2005 jan-jun 2005 sep-dec 2006 jan-jun 2006 sep-nov 2007 2008 feb-jun 2008 dec
+
+PREFERENTI LDS/SD, SDS IN NEOPREDELJENI januar 2001 - december 2008
+(do vključno novembra 2006 so prikazani deleži za LDS) 0
+4 6 12 ne vem LDS / SD SDS Graf 4
+GIBANJE LEVO IN DESNO SREDINSKIH STRANK V OBDOBJU JANUAR 2004 - DECEMBER 2008
+2004 feb mar apr maj jun avg sep okt nov dec 2005 feb mar apr maj jun sep okt nov dec 2006 mar apr jun sep nov 2007 mar jun sep dec 2008 feb apr jun dec leve (LDS, SD, DESUS in ZARES) desne (SDS, NSI in SLS) druge stranke neopredeljeni Graf 5
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA SPOL
+ja n
+-j u n 2 0 0 5
+s e p
+-d e c 2 0 0 6
+ja n
+-j u n 2 0 0 6
+s e p
+-n o v 2 0 0 7 2 0 0 8
+fe b
+-j u n 2 0 0 8
+d e c 2 0 0 1 2 0 0 2 2 0 0 3 2 0 0 4 2 0 0 5
+ja n
+-j u n 2 0 0 5
+s e p
+-d e c 2 0 0 6
+ja n
+-j u n 2 0 0 6
+s e p
+-n o v 2 0 0 7 2 0 0 8
+fe b
+-j u n 2 0 0 8
+d e c m oški ženske neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA STAROSTNE KATEGORIJE
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec do 30 let od 31 do 45 let od 46 do 60 let 61 let in več neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 7
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA IZOBRAZBENE KATEGORIJE
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec osnovna poklicna srednja višja,visoka neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA KRAJ BIVANJA
+ja nju n
+s ep
+-d e c
+ja nju n 2
+00 6 se pno v
+f eb
+-ju n
+d e c
+ja nju n
+s ep
+-d e c
+ja nju n 2
+00 6 se pno v
+f eb
+-ju n
+d e c
+ja nju n
+s ep
+-d e c
+ja nju n 2
+00 6 se pno v
+f eb
+-ju n
+d e c
+ja nju n
+s ep
+-d e c
+ja nju n 2
+00 6 se pno v
+f eb
+-ju n
+d e c podeželje manjši kraj večje mesto LJ, MB neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 9
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 - 2008 GLEDE NA VERNOST
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+f eb
+-ju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+f eb
+-ju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+f eb
+-ju n
+d ec sem veren nisem veren nekje vmes neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001
+- 2008 GLEDE NA SAMOOPREDELJEVANJE LEVO-DESNO
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec 20 01 20 02 20 03 20 04 20 05
+ja nju n
+s ep
+-d ec 20 06
+ja nju n
+s ep
+-n ov 20 07 20 08
+fe bju n
+d ec prej levo v sredino prej desno b.o. neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 11
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - POMURSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - PODRAVSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 13
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - KOROŠKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - SAVINJSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 15
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - GORENJSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - ZASAVSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 17
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - OSREDNJE-SLOVENSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - SPOD.-POSAVSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 19
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - DOLENJSKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - GORIŠKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 21
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - OBALNO-KRAŠKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS)
+
+PREFERENTI LEVO IN DESNO SREDINSKIH STRANK V LETIH PB 2001 2008 GLEDE NA REGIJSKO PRIPADNOST - KRAŠKA REGIJA
+2001 2002 2003 2004 2005 janjun
+2005 sepdec
+2006 janjun
+2006 sepnov
+2007 2008 febjun
+2008 dec neopred. leve (LDS, SD, DESUS in ZARES) desne (SDS+NSI+SLS) Graf 23
+PREFERENTI LDS/SD V LETIH PB 2001-2008 PO SPOLU
+(do vključno novembra 2006 so prikazani deleži za LDS) 0
+4 6 12 m oški ženske Graf 24
+PREFERENTI SDS
+V LETIH PB 2001-2008 PO SPOLU
+6 9 12 2008 4 6 12 m oški ženske
+
+NEOPREDELJENI
+V LETIH PB 2001-2008 PO SPOLU
+4 6 12 m oški ženske Graf 26
+PREFERENTI LDS/SD V LETIH PB 2001-2008 PO STAROSTI
+(do vključno novembra 2006 so prikazani deleži za LDS) 0
+4 6 12 do 30 let od 31 do 45 let od 46 do 60 let 61 let in več Graf 27
+PREFERENTI SDS
+V LETIH PB 2001-2008 PO STAROSTI
+4 6 12 do 30 let od 31 do 45 let od 46 do 60 let 61 let in več Graf 28
+NEOPREDELJENI
+V LETIH PB 2001-2008 PO STAROSTI
+6 9 12 2008 4 6 12 do 30 let od 31 do 45 let od 46 do 60 let 61 let in več
+
+PREFERENTI LDS/SD V LETIH PB 2001-2008 PO IZOBRAZBENIH KATEGORIJAH
+(do vključno novembra 2006 so prikazani deleži za LDS) 0
+4 6 12 osnovna poklicna srednja višja,visoka Graf 30
+PREFERENTI SDS
+V LETIH PB 2001-2008 PO IZOBRAZBENIH KATEGORIJAH
+4 6 12 osnovna poklicna srednja višja,visoka Graf 31
+NEOPREDELJENI
+V LETIH PB 2001-2008 PO IZOBRAZBENIH KATEGORIJAH
+4 6 12 osnovna poklicna srednja višja,visoka Graf 32
+PREFERENTI LDS/SD V LETIH PB 2001-2008 PO KRAJU BIVANJA
+(do vključno novembra 2006 so prikazani deleži za LDS) 0
+6 9 12 2008 4 6 12 podeželje manjši kraj večje mesto LJ, MB
+
+PREFERENTI SDS
+V LETIH PB 2001-2008 PO KRAJU BIVANJA
+4 6 12 podeželje manjši kraj večje mesto LJ, MB Graf 34
+NEOPREDELJENI
+V LETIH PB 2001-2008 PO KRAJU BIVANJA
+6 9 12 2008 4 6 12 podeželje manjši kraj večje mesto LJ, MB Priloga 2:
+
+VOLITVE V DRŽAVNI ZBOR LETA 2008
+Primerjave volilnih rezultatov 1992-2008
+V nadaljevanju nanizane beležke temeljijo na pregledu in analizi rezultatov volitev v DZ 2008 v primerjavi z rezultati volitev 1992, 1996, 2000 in 2004. Vir: Državna volilna komisija Republike Slovenije.
+Prva beležka
+V preseku 1992–2008 se postopoma povečuje število volilnih upravičencev (iz 1.491.374 leta 1992 na 1.696.437 leta 2008 - glej graf 1). Volilno telo v preseku 1992–2008 tako naraste za 11,4%, indeks rasti po volilnih obdobjih pa je okoli 3%.
+Rast volilnega telesa ne gre pripisati demografski rasti, temveč predvsem podaljševanju življenjske dobe in deloma tudi še vedno potekajočemu reguliranju (državljanskih) statusov.
+Graf 1
+SLOVENSKO VOLILNO TELO OD 1992 DO 2008 (v tisoč volivcev) 1071 971 1696
+1992 1996 2000 2004 2008 Vir: Državna volilna komisija volilni upravičenci volivci zastopani v parlamentu Druga beležka
+V časovnih presekih 92–96–00–04 je očiten visok upad volilne udeležbe, saj je bila le-ta leta 1992: 85.6%, leta 1996: 73.7%, leta 2000: 70.1% in leta 2004: 60.6%. Volilna udeležba ob volitvah 2008 je narasla na raven 63.10%. Ob najočitnejšem upadu števila udeležencev volitev v preseku 92/96 in 00/04 (ko se delež zmanjša vselej za okoli 10%) pa zaznamo ob volitvah 2008 ponoven značilen dvig volilne udeležbe (glej graf 1).
+
+Tretja beležka
+K razumevanju razmer, v katerih poteka volilno odločanje volivk in volivcev, prispeva podatek o deležu neveljavnih glasov ob posameznih volitvah. Višjega ali nižjega deleža neveljavnih glasov ne kaže pripisati zgolj (ne-)seznanjenosti volivcev s pravili glasovanja in preglednosti glasovalnih list, temveč tudi zavestnemu ravnanju dela volivcev, ki tako izrazijo nezadovoljstvo s ponujenimi alternativami. Z visokim deležem neveljavnih glasov izstopijo predvsem volitve leta 1992 (9.98% vseh oddanih glasovnic; glej tabelo 1). Leta 1996 je delež neveljavnih glasovnic še vedno visok in dosega 5.89%, ob nadaljnjih volitvah pa močno upade (na 3.31% leta 2000 in 2.25% leta 2004). Ob zadnjih volitvah delež neveljavnih glasovanj še dodatno upade in doseže vsega 1.74% oddanih glasov. Glede na volilno udeležbo in nizek delež neveljavnih glasov ob zadnjih volitvah lahko sklepamo, da je volilna izbira volivk in volivcev potekala v odprtem in sproščenem predvolilnem razpoloženju. (graf 1) Volivci so bili motivirani k jasnemu izražanju svoje volje.
+Četrta beležka
+Glede na gibanje števila volilnih upravičencev v presekih opazovanih volitev in padajočo volilno udeležbo se sorazmerno spreminja delež glasov, oddanih za politične stranke, ki jim ne uspe vstop v Državni zbor. Delež glasov, oddanih za stranke, ki niso udeležene v delitvi sedežev v DZ dosega leta 1992 16.45% oddanih glasov volivcev, leta 1996: 9.97%, leta 2000 upade na vsega 3.63%, leta 2004 ponovno naraste na 11.46% oddanih glasov, leta 2008 pa zopet delno upade – na 7.65% – kar je značilno nad ravnjo ob volitvah leta 2000.
+To nakazuje potek in dinamiko preoblikovanja strankarskega polja; povečuje se število strank, ki jim po (prvi) umestitvi v Državni zbor ne uspe potrditi parlamentarnega statusa ob naslednjih volitvah. (graf 1) Peta beležka
+Opazovanje gibanja deleža volilnih upravičencev, ki s svojimi glasovi niso sodelovali pri izbiri poslancev, nakaže trend naraščanja nereprezentiranih volivcev. V preseku 1992–2004 se tako vse bolj zmanjšuje delež volivcev, ki so zastopani v DZ – leta 1992: 65.6%; 1996: 62%; 2000: 65.3%; 2004: 52.3%, ob volitvah 2008 pa se ponovno rahlo vzpne – in to na raven 56.2!
+Šesta beležka
+Rezultati volitev, opazovani skozi položaj treh (2008: štirih) levo-sredinskih oz. treh desnosredinskih strank, kažejo na izmenjave njihovih prednosti. Tako so tri levo-sredinske stranke (DESUS, LDS, ZLSD – glej graf 2) leta 1992 skupaj pridobile podporo 29.5% vseh volilnih upravičencev (34.4% volivcev), tri desno-sredinske stranke (SKD, SDS, SLS) pa 21.2% podpore med vsemi volilnimi upravičenci (24.7% volivcev). Leta 1996 se to razmerje zaobrne v prid desno-sredinskim strankam – leve: 28%, desne: 31.3% volilnih upravičencev (leve: 38.0%, desne: 42.4% volivcev). Po izkušnji v zvezi z Bajukovo vlado se leta 2000 predhodno razmerje zopet zaobrne: leve 36.3%, desne 23.0% (leve 50.7%, desne 32.2% volivcev). Razmerje ob volitvah 2004: leve 22.6%, desne 26.6% (leve 37.2%, desne 43.9% volivcev). Razmerje med skupinama strank, izraženo na volitvah 2004, ne odstopa bistveno od povprečij predhodnih volilnih izidov, če izvzamemo iz primerjave volitve 2000. Volilne izide v letih 1996 in 2004 določajo premiki v obsegu 3%–5% telesa volilnih upravičencev (oz. 4% do 7% volivcev). Seveda pa se ti premiki izražajo v večinskomanjšinskih razmerjih in torej v pogojih konstituiranja izvršne oblasti.
+
+Graf 2
+4 "LEVE", 3 "DESNE" STRANKE IN SNS NA VOLITVAH 1992- 2008 (v tisoč volivcev) 552 369 576 432
+1992 1996 2000 2004 2008 Vir: Državna volilna komisija
+LEVE (SD, ZARES, LDS, DESUS) DESNE (SDS, SLS, NSI) SNS
+Rezultate volitev 2000 lahko štejemo za negativen odziv volilnega telesa na epizodo Bajukove vlade – in so kot taki težko ponovljivi. Rezultati volitev 2004 pa so bili negativen odziv na dvanajstletno dominacijo LDS v izvršni oblasti, in tudi ti so kot taki težko ponovljivi.
+Rezultate volitev 2008 lahko le pogojno umestimo v medčasovne primerjave ob upoštevanju naslednjih okoliščin: (1) da je DESUS še vedno prevladujoče levo-sredinska stranka, kljub njegovemu sodelovanju v desno-sredinski koaliciji v obdobju 2004–2008, (2) da se je levi skupini pridružila stranka Zares ter (3), da v desno-sredinski skupini zadržimo NSI z njegovim deležem volilnih glasov (3.4%) kljub temu, da ni prestopil parlamentarnega praga. Razmerje med levo-sredinskimi in desno-sredinskimi strankami je ob volitvah 2008 torej: 32.5% : 23.5% v prid levim (med vsemi volilnimi upravičenci) oz. 51.6% : 37.2% med vsemi udeleženci volitev.
+
+Pogled na takšno umestitev strank v obdobju 1992–2008 pokaže, da so v treh primerih volitev bile levo-sredinske stranke deležne večje volilne podpore kot desne in v dveh primerih desne. V tej primerjavi izrazito izstopajo rezultati volitev 2000, kjer se vzpostavi razmerje 50.7% : 32.2% v prid levo-sredinskih strank, pa tudi ob tokratnih volitvah (2008), kjer se vzpostavi razmerje 51.6% : 37.2%, prav tako v prid levo-sredinskih strank. Ob volitvah 2004 se vzpostavi razmerje v prid desno-sredinskih strank 43.9% : 37.2%.
+Primerjave pokažejo, da so tokratne (2008) volitve z vidika prevlade levo-sredinske skupine (štirih) strank močno presegle predhodne volitve (2004) in da so po deležu izražene podpore levo-sredinskim strankam rahlo nad letom 2000.
+Tudi deleži podpor desno-sredinskih strank po obdobjih nihajo. Delež tokratne (2008) podpore desno-sredinskim strankam (37.2%) je značilno pod ravnjo podpore iz predhodnih volitev (2004: 43.9%) in volitev leta 1996 (42.4%).
+Sedma beležka
+Opazovanje položaja posamezne od treh levo-sredinskih strank, ZLSD, LDS, DESUS (graf 3) v vseh opazovanih presekih kaže njihovo soodvisnost: skupaj pridobivajo in skupaj izgubljajo. Za tri desno-sredinske stranke, SDS, SLS, NSI (graf 4) ta ugotovitev ne velja.
+SKD svojo visoko prednost ob prvih volitvah ob naslednjih volitvah izgubi. SLS se ob volitvah 1996 povzpne visoko, nato pa pri nadaljnjih volitvah zgublja podporo. SDS se z nizkim izhodiščem na volitvah leta 1992 ob nadaljnjih volitvah 1996, 2000 uvrsti visoko drugo mesto med strankami in kot prvouvrščena desno-sredinska stranka; leta 2004 pa se uvrsti še višje kot dominantna parlamentarna stranka.
+Gibanje desno-sredinskega volilnega telesa gre v preseku 1996–2004 izrazito v smeri kopičenja v prid SDS. Vidna je tendenca nastajanja ene dominantne desno-sredinske stranke. Ta tendenca se še bolj izrazito potrdi v volilnem rezultatu 2008, ko SDS celo poveča volilno podporo iz predhodnih volitev, izgubi pa položaj stranke relativne večine.
+NSI in SLS pa ob tokratnih volitvah izgubita znaten del volilne podpore, celo v meri, da NSI ostane izven parlamenta.
+Obdobje 2004–2008 označujejo burna dogajanja okoli LDS, njegova implozija in razpadanje, prehajanja poslancev ter ustanovitev nove stranke Zares. Ta dogajanja gredo v prid utrditve položaja SD in njeni umestitvi kot dominantni stranki na levi sredini. Podobno kot so model »pomladnega trojčka« ob volitvah 2004 s pridom izkoristile tri desnosredinske stranke, se tudi ob tokratnih volitvah pokaže korist od povezanega nastopa treh levo-sredinskih strank. Prizadevanja za osvojitev položaja stranke z relativno večino gre v primeru pomladnega trojčka izrazito v prid SDS, v primeru levega trojčka pa izrazito v prid SD. Ob teh volitvah namreč pri delu volivcev, glede na »vsiljeno« koncepcijo relativnega zmagovalca, prevlada »strateška« presoja in kopičenje glasov v korist nosilnih strank in v škodo partneric na levi in desni strani.
+
+Graf 3
+SD, LDS, ZARES IN DESUS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 161 97
+1992 1996 2000 2004 2008 Vir: Državna voli lna komisija
+SD (ZLSD) LDS ZARES DESUS
+Graf 4
+SDS, SLS, NSI IN SNS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 40
+1992 1996 2000 2004 2008 Vir: Državna volilna komisija
+SDS (SDZ, SDSS) SLS (SLS+SKD) NSI (SKD) SNS
+Osma beležka
+Opazovanje položaja dveh najmočnejših strank SDS, LDS (graf 5) v petih presekih pokaže njuno elektoralno dinamiko. LDS se v izhodišču, leta 1992, kot parlamentarna stranka uvrsti visoko nad drugimi levo-sredinskimi strankami; SDSS kot socialdemokratska stranka v tem preseku ne najde potrditve, medtem ko se kot desno-sredinski stranki izkažeta z visoko podporo predvsem SKD in SLS.
+
+SDS IN LDS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 55
+1992 1996 2000 2004 2008 Vir: Državna volilna komisija
+LDS SDS
+LDS do volitev 2000 ohrani svoj dominanten položaj, na volitvah 2004 pa izgubi podporo dobre desetine (cca 11%) volilnega telesa. SDS se po svoji jasnejši desni razpoznavnosti v obdobju 2000–2004, še posebej v zadnjih dveh letih, uvršča visoko in na volitvah 2004 pridobi podporo cca 7% volilnega telesa in tako prevzame mesto najmočnejše parlamentarne stranke. Ob volitvah 2008 pa LDS dokončno izgubi svoj dominantni položaj in se umesti na rob parlamentarnega prostora (5.2%), medtem ko dominantni položaj pridobi SD, ki se umesti visoko (30.4%), ob njej pa kot tretje umeščena stranka Zares (9.4%). Tako se SD jasno umesti kot ključna stranka v Državnem zboru in – skupaj z Zares, LDS in DESUS – kot nosilka nove koalicije.
+Graf 6
+SD IN SDS NA VOLITVAH OD 1992 DO 2008 (v tisoč volivcev) 161 97
+1992 1996 2000 2004 2008 Vir: Državna voli lna komisija
+SD SDS
+SDS se v Državni zbor umesti kot dominantna opozicijska stranka, vendar je v tem položaju izrazito osamljena.
+
